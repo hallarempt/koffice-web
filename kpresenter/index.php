@@ -10,7 +10,7 @@
   $appinfo->setIcon( "pics/hi48-app-kpresenter.png", "48", "48");
   $appinfo->setVersion($kpresenterversion);
   $appinfo->setLicense("lgpl");
-  $appinfo->setCopyright("1998-2003", "the KPresenter Team");
+  $appinfo->setCopyright("1998", "the KPresenter Team");
   $appinfo->addAuthor("Reginald Stadlbauer", "reggie@kde.org");
   $appinfo->addContributor("David Faure", "faure@kde.org");
   $appinfo->addContributor("Laurent Montel", "lmontel@mandrakesoft.com");
