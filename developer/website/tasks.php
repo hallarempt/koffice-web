@@ -14,7 +14,7 @@ www/areas/koffice</p>
 
 <ul>
     <li>Some pages are supposed to be XHTML 1.0 but they still contain errors. Such
-    sites should be fixed. (Difficulty: **; Sharability: *)</li>
+    pages should be fixed. (Difficulty: **; Sharability: *)</li>
     
     <li>Check and fix spelling (Difficulty: *; Sharability: *)</li>
 </ul>
