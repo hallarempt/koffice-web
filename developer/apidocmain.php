@@ -24,7 +24,7 @@
     }
     else
     {
-        echo "<a href=\"http://www.koffice.org/developer/kofficeapidocs.tar.bz2\">Download the tarball</a>";
+        echo "<a href=\"http://www.koffice.org/developer/kofficeapidocs.tar.bz2\">Download the tarball (from koffice.org)</a>";
     }
 ?>
      </li>
@@ -39,7 +39,7 @@
     }
     else
     {
-        echo "<a href=\"http://www.koffice.org/developer/apidocs\">Index</a>";
+        echo "<a href=\"http://www.koffice.org/developer/apidocs\">Index (from koffice.org)</a>";
     }
 ?>
       </li>
