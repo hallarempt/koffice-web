@@ -6,7 +6,7 @@
 ?><div>
 <!--Do not modify! This file was generated -->
   <h2>Which filters are there?</h2>
-  <p>At the moment all KOffice applications support the filter architecture
+  <p>Many KOffice applications support the filter architecture
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
  and some not even done. The status of the current filters is listed below, sorted per
  application.</p>
@@ -29,9 +29,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="generic/xslt.php">XSLT</a>
-      </td>
+      <td width="30%" align="left" valign="top">XSLT</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">**</td>
@@ -209,74 +207,56 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/applix.php">Applix Spreadsheet</a>
-      </td>
+      <td width="30%" align="left" valign="top">Applix Spreadsheet</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">**</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/csv.php">CSV</a>
-      </td>
+      <td width="30%" align="left" valign="top">CSV</td>
       <td width="50%" align="left" valign="top">Comma Separated Values</td>
       <td width="10%" align="center" valign="top">*****</td>
       <td width="10%" align="center" valign="top">*****</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/excel.php">Excel</a>
-      </td>
+      <td width="30%" align="left" valign="top">Excel</td>
       <td width="50%" align="left" valign="top">Microsoft Excel 97/2000</td>
       <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/gnumeric.php">Gnumeric</a>
-      </td>
+      <td width="30%" align="left" valign="top">Gnumeric</td>
       <td width="50%" align="left" valign="top">Part of GNOME Office</td>
       <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/html.php">HTML</a>
-      </td>
+      <td width="30%" align="left" valign="top">HTML</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">-</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/latex.php">LaTeX</a>
-      </td>
+      <td width="30%" align="left" valign="top">LaTeX</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">-</td>
       <td width="10%" align="center" valign="top">*</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/opencalc.php">OpenCalc</a>
-      </td>
+      <td width="30%" align="left" valign="top">OpenCalc</td>
       <td width="50%" align="left" valign="top">
             Contact: <a href="mailto:nandres@web.de">Norbert Andres</a></td>
       <td width="10%" align="center" valign="top">**</td>
       <td width="10%" align="center" valign="top">*</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/quattro.php">Quattro Pro</a>
-      </td>
+      <td width="30%" align="left" valign="top">Quattro Pro</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">**</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kspread/dbase.php">dBase</a>
-      </td>
+      <td width="30%" align="left" valign="top">dBase</td>
       <td width="50%" align="left" valign="top">dBase 3 only</td>
       <td width="10%" align="center" valign="top">**</td>
       <td width="10%" align="center" valign="top">-</td>
@@ -299,34 +279,26 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kpresenter/kword.php">KWord</a>
-      </td>
+      <td width="30%" align="left" valign="top">KWord</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">-</td>
       <td width="10%" align="center" valign="top">*****</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kpresenter/magicpoint.php">Magicpoint</a>
-      </td>
+      <td width="30%" align="left" valign="top">Magicpoint</td>
       <td width="50%" align="left" valign="top">
             Contact: <a href="mailto:lukas@kde.org">Lukas Tinkl</a></td>
       <td width="10%" align="center" valign="top">****</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kpresenter/ooimpress.php">OpenOffice Impress</a>
-      </td>
+      <td width="30%" align="left" valign="top">OpenOffice Impress</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">****</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="kpresenter/powerpoint.php">PowerPoint 97</a>
-      </td>
+      <td width="30%" align="left" valign="top">PowerPoint 97</td>
       <td width="50%" align="left" valign="top">Microsoft PowerPoint 97</td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
@@ -349,89 +321,67 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/illustrator.php">Adobe Illustrator</a>
-      </td>
+      <td width="30%" align="left" valign="top">Adobe Illustrator</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/applixgraphics.php">Applix Graphics</a>
-      </td>
+      <td width="30%" align="left" valign="top">Applix Graphics</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">+</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/eps.php">EPS</a>
-      </td>
+      <td width="30%" align="left" valign="top">EPS</td>
       <td width="50%" align="left" valign="top">Encapsulated PostScript</td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">*</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/kontour.php">Kontour</a>
-      </td>
+      <td width="30%" align="left" valign="top">Kontour</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/latex.php">LaTeX</a>
-      </td>
+      <td width="30%" align="left" valign="top">LaTeX</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">-</td>
       <td width="10%" align="center" valign="top">+</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/msod.php">MSOD</a>
-      </td>
+      <td width="30%" align="left" valign="top">MSOD</td>
       <td width="50%" align="left" valign="top">Microsoft Office Drawing</td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/oodraw.php">OpenOffice Draw</a>
-      </td>
+      <td width="30%" align="left" valign="top">OpenOffice Draw</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/png.php">PNG</a>
-      </td>
+      <td width="30%" align="left" valign="top">PNG</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">-</td>
       <td width="10%" align="center" valign="top">*</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/svg.php">SVG</a>
-      </td>
+      <td width="30%" align="left" valign="top">SVG</td>
       <td width="50%" align="left" valign="top">Scaleable Vector Graphics (W3C)</td>
       <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/wmf.php">WMF</a>
-      </td>
+      <td width="30%" align="left" valign="top">WMF</td>
       <td width="50%" align="left" valign="top">Windows MetaFile</td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">*</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">
-        <a href="karbon/xfig.php">Xfig</a>
-      </td>
+      <td width="30%" align="left" valign="top">Xfig</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">+</td>
       <td width="10%" align="center" valign="top">-</td>
@@ -497,8 +447,6 @@
       <td valign="top">The status of this filter is unknown, as its development has been abandoned.</td>
     </tr>
   </table>
-  <h2>Further Information</h2>
-  <p>Simply click on the name of the relevant filter to find out more information about it.</p>
   <h2>Joining the developers</h2>
   <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
   <p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>

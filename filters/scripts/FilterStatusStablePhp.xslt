@@ -13,7 +13,7 @@
 <xsl:comment>Do not modify! This file was generated <!-- Don't panic! This is the source--></xsl:comment>
 
  <h2>Which filters are there?</h2>
- <p>At the moment all KOffice applications support the filter architecture
+ <p>Many KOffice applications support the filter architecture
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
  and some not even done. The status of the current filters is listed below, sorted per
  application.</p>
@@ -21,6 +21,7 @@
 
 <hr/>
 <xsl:for-each select="/filters/version/application">
+<xsl:variable name="applicationname" select="@id"/>
 <xsl:if test="@released!='no'">
 <h3><xsl:value-of select="title" /></h3>
 
@@ -37,9 +38,16 @@
  <xsl:sort select="title" lang="en" data-type="text" />
  <tr>
  <td width="30%" align="left" valign="top">
-   <a href="{substring-before(@id,'_')}/{substring-after(@id,'_')}.php">
-   <xsl:value-of select="title"/>
-   </a>
+   <xsl:choose>
+    <xsl:when test="$applicationname='kword'">
+     <a href="{substring-before(@id,'_')}/{substring-after(@id,'_')}.php">
+     <xsl:value-of select="title"/>
+     </a>
+   </xsl:when>
+   <xsl:otherwise>
+    <xsl:value-of select="title"/>
+   </xsl:otherwise>
+  </xsl:choose> 
  </td>
  <td width="50%" align="left" valign="top">
     <xsl:if test="boolean(note)">
@@ -82,10 +90,6 @@
  </tr>
 </xsl:for-each>
 </table>
-
-<h2>Further Information</h2>
-
-<p>Simply click on the name of the relevant filter to find out more information about it.</p>
 
 <h2>Joining the developers</h2>
 <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
