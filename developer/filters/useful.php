@@ -13,7 +13,7 @@
 
     <h3>General</h3>
     
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
       <tr>
         <td><a href="http://www.wotsit.org">Wotsit</a></td>
         <td>Information on various file formats</td>
@@ -21,10 +21,9 @@
     </table>
 
     <h3>MS Office</h3>
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
     
         <tr>
-        <td rowspan="9" valign="top"><b>MS Office</b></td>
         <td><a href="http://msdn.microsoft.com">msdn</a></td>
         <td>The MS Developer's Network Library</td>
         </tr>
@@ -93,7 +92,7 @@
     </table>
 
     <h3>Star/Open Office</h3>
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
         <tr>
         <td><a href="http://xml.openoffice.org/">XML</a></td>
         <td>File format of Open Office</td>
@@ -132,7 +131,7 @@
     </table>
 
     <h3>Adobe</h3>
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
         <tr>
         <td><a href="http://partners.adobe.com/asn/tech/pdf/specifications.jsp">PDF</a></td>
         <td>PDF specification</td>
@@ -146,7 +145,7 @@
     </table>
 
     <h3>Corel</h3>
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
         <tr>
         <td><a href="http://www.corel.com/partners_developers/ds/wpsdks.htm">
             Version 7.0</a></td>
@@ -156,7 +155,7 @@
 
 
     <h3>AbiSource</h3>
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
         <tr>
         <td><a href="http://www.abisource.com/awml.dtd">
             DTD</a></td>
@@ -173,7 +172,7 @@
 <?php /*
 	
     <h3>Lotus</h3>
-    <table border="0" cellspacing="0" cellpadding="1" bgcolor="#000000" >
+    <table border="0" cellspacing="0" cellpadding="1" >
         <tr>
         <td><a href="ftp://www.thekompany.com/pub/KOffice/filters/">
             WordPro</a></td>
