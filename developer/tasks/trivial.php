@@ -30,11 +30,11 @@ a single directory... It is more important that some part is done at all.)</p>
 
     <li>Make existing class documentation Doxygen-compatible. Some classes have already some 
     documentation but unfortunately not in Doxygen syntax. So the tasks is to 
-    change them to Doxygen syntax. (Changing to the special Doxygen commens (/** 
+    change them to Doxygen syntax. (Changing to the special Doxygen comments (/** 
     and ///) is already enough.) (Difficulty: *; Sharability: *)</li>
     
     <li><ins>
-    Check copyrights of source files add missing copyright (dates and/or developers) (Difficulty: **; Sharability: *)
+    Check copyrights of source files and add missing copyright (dates and/or developers) (Difficulty: **; Sharability: *)
     </ins></li>
 </ul>
 
