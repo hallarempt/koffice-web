@@ -62,7 +62,7 @@
 
 <h3><a name="allapps">All Applications</a></h3>
 <ul>
-  <li>Fixed handling of remote koffice files in konqueror.</li>
+  <li>Fixed handling of remote KOffice files in Konqueror.</li>
   <li>Fixed race condition when using dcopstart.</li>
 </ul>
 
