@@ -24,6 +24,11 @@
     </li>
 </ul>
 
+<p>
+<a href="http://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;product=koffice&amp;product=kword&amp;product=kspread&amp;product=kpresenter&amp;product=kivio&amp;product=karbon14&amp;product=krita&amp;product=kugar&amp;product=kchart&amp;product=kformula&amp;product=kexi">
+Click here to query for all the open bugs in KOffice.</a> (<em>Caution: long list!</em>)</p>
+
+
 <h2>"Junior Jobs" Bugs</h2>
 
 <p>There are a part of the bugs in KDE Bugs that are called Junior Jobs. They can be recognized by the "JJ:"
