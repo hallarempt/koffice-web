@@ -9,7 +9,7 @@
     <copyright>Copyright (C) 2003,2004, KOffice.org Webmasters</copyright>
     
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Sun, 08 Feb 2004 21:44 UT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2004 00:09 UT</lastBuildDate>
     
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
@@ -18,8 +18,8 @@
 <title>Binary Incompatible Changes Allowed</title>
 <pubDate>Sun, 08 Feb 2004 21:44 UT</pubDate>
 <description>
-Binary incompatible changes (also known as BIC) are again allowed in KOffice.
-Friday is the recommended day for such changes.
+Binary incompatible changes (also known as BIC) are again allowed in KOffice
+CVS HEAD. Friday is the recommended day for such changes.
 </description>
 </item>
 
