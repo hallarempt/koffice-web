@@ -12,11 +12,12 @@
   $appinfo->setLicense("lgpl");
   $appinfo->setCopyright("2002-2004", "the Kexi Team");
   $appinfo->addAuthor("Lucijan Busch", "lucijan@kde.org");
+  $appinfo->addAuthor("Peter Simonsson", "psn@linux.se");
+  $appinfo->addAuthor("Joseph Wenninger", "jowenn@kde.org");
   $appinfo->addContributor("Lucijan Busch", "lucijan@kde.org");
-  $appinfo->addContributor("Peter Simonsson", "psn@linux.se");
-  $appinfo->addContributor("Joseph Wenninger", "jowenn@kde.org");
   $appinfo->addContributor("Jaros&#322;aw Staniek", "js @ iidea . pl");
-  $appinfo->addContributor("Cedric Pasteur", "cedric.pasteur@free.fr");
+  $appinfo->addContributor("Adam Pigg", "adam @ piggz . fsnet . co . uk");
+  $appinfo->addContributor("Cédric Pasteur", "cedric . pasteur @ free . fr");
   $appinfo->show();
 ?>
 
@@ -54,7 +55,7 @@ and over again.-->
 </p>
 
 <p>
-Kexi Project, started in 2002, is developed by <a href="http://www.kexi-project.org/people.html">Kexi Team</a> - an international group of independent developers, since february 2003 with additional assistance and support from the <a href="http://www.openoffice.com.pl">OpenOffice Polska</a> company.
+Kexi Project, started in 2002, is developed by <a href="http://www.kexi-project.org/people.html">Kexi Team</a> - an international group of independent developers, since february 2003 with assistance and support from the <a href="http://www.openoffice.com.pl">OpenOffice Polska</a> company.
 </p>
 
 <p>
@@ -66,7 +67,8 @@ data provider for mailmerge in KWord.</p -->
 
 <h2>Current version</h2>
 
-Current Kexi version is 0.1 beta 2. See <a href="http://www.kexi-project.org/announce-0.1-beta2.html">the announcement</a>.
+Current Kexi version is 0.1 beta 3. See <a href="http://www.kexi-project.org/announce-0.1-beta3.html">the announcement</a>.
+
 
 <h2>Features</h2>
 
@@ -83,11 +85,11 @@ Current Kexi version is 0.1 beta 2. See <a href="http://www.kexi-project.org/ann
 
 <h3>Data Processing and Access</h3>
 <ul>
- <li>Easy data report generation using <a href="http://www.thekompany.com/projects/kugar/">Kugar</a> (not ready)</li>
- <li>Userdefined forms for data input and presentation (not ready)</li>
- <li>Scripting support (not ready) <!-- with a JavaScript/ECMA-Script like language
+ <li>User-defined forms for data input and presentation (in progress)</li>
+ <li>Scripting support (rewrite planned) <!-- with a JavaScript/ECMA-Script like language
  (<a href="http://www.trolltech.com/products/qsa/index.html">QSA</a>)</li>
  <li>KWord mailmerge integration</li -->
+ <li>Easy data report generation (rewrite planned)</li>
 </ul>
 
 
@@ -95,10 +97,10 @@ Current Kexi version is 0.1 beta 2. See <a href="http://www.kexi-project.org/ann
 <p>
 At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:
 <ul>
- <li><a href="http://www.sqlite.org">SQLite</a> (file-based)</li>
- <li><a href="http://www.postgresql.org">PostgreSQL</a></li>
- <li><a href="http://www.mysql.com">MySQL</a></li>
- <li><a href="http://firebird.sourceforge.net">FireBird/Interbase</a></li>
+ <li><a href="http://www.sqlite.org">SQLite</a> (file-based, mostly complede)</li>
+ <li><a href="http://www.postgresql.org">PostgreSQL (mostly workable)</a></li>
+ <li><a href="http://www.mysql.com">MySQL (obsolete)</a></li>
+ <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (obsolete)</a></li>
 </ul>
 It is planned to support also other database systems, especially ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are: SQLite and PostgreSQL.</p>
 </p>
