@@ -51,6 +51,10 @@
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
+  <li>
+    Make the Control-C key work again
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=87369">#87369</a>)
+  </li>
 </ul>
 
 <?php /*
@@ -82,6 +86,14 @@
 <h4>KWord's OpenOffice.org Writer Export Filter</h4>
 <ul>
   <li>Fix auto-justification</li>
+</ul>
+
+<h4>KWord's RTF Import Filter</h4>
+<ul>
+  <li>
+    Temporaray fix to aboid empty font names
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=90057">#90057</a>)
+  </li>
 </ul>
 
 <h4>KPresenter's OpenOffice.org Impress Import Filter</h4>
