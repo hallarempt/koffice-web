@@ -82,7 +82,7 @@
 
         <tr bgcolor="#CCCCFF">
         <td><a href="http://skynet.csn.ul.ie/~caolan">wv-library</a></td>
-        <td>The wv-library (by CaolanMcNamara (old link))</td>
+        <td>The wv-library (by Caolan McNamara (old link))</td>
         </tr>
 
         <tr bgcolor="#CCCCFF">
