@@ -11,7 +11,7 @@
 ?>
 
 <p>
-<a href="http://feedvalidator.org/check?url=http://www.kde.org/areas/koffice/developer/news.rdf">
+<a href="http://feedvalidator.org/check?url=http://kde.org/areas/koffice/developer/news.rdf">
  <img src="pics/valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" width="88" height="31" />
 </a>
 </p>
