@@ -22,22 +22,25 @@
     <p>KOffice 1.3.3 has an integer overflow vulnerability in KWord's PDF import filter.</p>
 
     <p>
-        <a href="http://download.kde.org/stable/koffice-1.3.3/src/patch/xpdf-CESA-2004-007-xpdf2-newer.diff">
+        <a href="security/xpdf_security_integer_overflow.diff">
             A patch for the source package is available.
-        </a>
-        (MD5 sum: <tt>cd0c18c4dace10e5dbc156fb29cfd581</tt> )
+        </a> (Patch updated the 2004-10-30 16:15 UTC)<br />
+        (MD5 sum:
+	  <tt>7af21706d14f2a0e65091e345438d52f</tt>
+	  xpdf_security_integer_overflow.diff
+        )
     </p>
 
-    <p>The patch applies to the directory koffice/filters/kword/pdf/xpdf .</p>
+    <p>The patch applies to the directory koffice/filters/kword/pdf/xpdf/xpdf .</p>
 
     <p>
         To patch, do: (please adjust paths) <br />
         <code>
-            cd koffice/filters/kword/pdf/xpdf<br />
-            patch -p0 &lt; xpdf-CESA-2004-007-xpdf2-newer.diff
+            cd koffice/filters/kword/pdf/xpdf/xpdf<br />
+            patch -p0 &lt; xpdf_security_integer_overflow.diff
         </code>
     </p>
-    
+
     <p>For background information about the vulnerability,
         <a href="http://kde.org/info/security/advisory-20041021-1.txt">
             please see the corresponding security advisiory for KDE.
