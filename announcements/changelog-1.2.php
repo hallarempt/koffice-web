@@ -108,8 +108,8 @@
 <!--                                 TEXT WIDGET                             -->
   <div align="justify">
   <u>Text Widget (Word Processor and Presentation Program)</u>.
-    Both <a href="#kword changelog">KWord</a> and
-    <a href="#kpresenter changelog">KPresenter</a> share the same text widget.
+    Both <a href="#kword_changelog">KWord</a> and
+    <a href="#kpresenter_changelog">KPresenter</a> share the same text widget.
     This, the following improvements apply to both of those components:
   </div>
   <ol type="disc">
@@ -156,7 +156,7 @@
 
 <!--                                  KWORD                                  -->
 <p align="justify">
-  <a name="kword changelog"><u>KWord (Word Processor)</u>.</a></p>
+  <a name="kword_changelog"><u>KWord (Word Processor)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -277,6 +277,7 @@
             MSWrite (limited support);
             RTF (substantial support); and
             Lotus AmiPro (limited support).
+          </div>
         </li>
       </ul>
     </li>
@@ -387,7 +388,7 @@
 
 <!--                                KPRESENTER                               -->
 <p align="justify">
-  <a name="kpresenter changelog"><u>KPresenter (Presentation Tool)</u>.</a></p>
+  <a name="kpresenter_changelog"><u>KPresenter (Presentation Tool)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -530,7 +531,7 @@
   </ol>
 <!--                                 KSPREAD                                 -->
 <p align="justify">
-  <a name="kspread changelog"><u>KSpread (Spreadsheet Application)</u>.</a></p>
+  <a name="kspread_changelog"><u>KSpread (Spreadsheet Application)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -679,7 +680,7 @@
 
 <!--                                  KUGAR                                  -->
 <p align="justify">
-  <a name="kugar changelog"><u>Kugar (Report Generator)</u>.</a></p>
+  <a name="kugar_changelog"><u>Kugar (Report Generator)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">

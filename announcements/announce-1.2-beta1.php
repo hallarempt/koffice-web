@@ -218,8 +218,8 @@
         convex/concave polygon.  A new "Configure Image" dialog supports a
         number of operations on images, such as flip/mirror, color depth,
         RGB to BGR conversion and brightness control.
-      <li>
       </li>
+      <li>
         <em>Page views</em>.  A new thumbnail view of each page in the
         presentation is now displayed in the sidebar, and a larger view of
         the current page is displayed _____.
@@ -594,8 +594,6 @@ coming days and weeks.
     </td>
   </tr>
 </table>
-</body>
-</html>
 
 <?php
   include("footer.inc");

@@ -149,7 +149,7 @@
   <li><a href="http://www.redhat.com/">RedHat Linux</a>
       (<em>unofficial</em>)
   <ul>
-    <li>7.3:  <a href="http://download.kde.org/unstable/koffice-1.2-rc1/RedHat-Inofficial/7.3/RPMS/">Intel i386</a> (<a href="http://download.kde.org/unstable/koffice-1.2-rc1/RedHat-Inofficial/noarch/">language packages</a>)
+    <li>7.3:  <a href="http://download.kde.org/unstable/koffice-1.2-rc1/RedHat-Inofficial/7.3/RPMS/">Intel i386</a> (<a href="http://download.kde.org/unstable/koffice-1.2-rc1/RedHat-Inofficial/noarch/">language packages</a>)</li>
   </ul></li>
   <li>
     <a href="http://www.suse.com/">SuSE Linux</a>:

@@ -139,9 +139,6 @@ KWord's OOWriter export filter:
 <ul>
 -->
 
-</ul>
-
-
 <?php
   include("footer.inc");
 ?>

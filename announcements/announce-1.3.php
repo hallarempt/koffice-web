@@ -33,6 +33,7 @@ example possible to import as well as export OpenOffice.org
 documents. Also new is the ability to import PDF files into KWord
 and make changes to the document. Support for Microsoft document-
 formats has improved as well.
+</p>
 <p>
 <i>"Many people have been asking for improved support for the Microsoft
 document-formats and we have made significant improvements in that area
@@ -47,6 +48,7 @@ Word 95/97/2000/XP documents has become much better."</i></p>
 </p>
 <p>
     <u>KWord (Word Processor)</u>.
+</p>
     <ul type="disc">
       <li>
         <div align="justify">
@@ -99,9 +101,10 @@ Word 95/97/2000/XP documents has become much better."</i></p>
         </div>
       </li>
     </ul>
-</p>
+
 <p>
     <u>KPresenter (Presentation Tool)</u>.
+</p>
     <ul type="disc">
       <li>
         <div align="justify">
@@ -131,9 +134,9 @@ Word 95/97/2000/XP documents has become much better."</i></p>
         </div>
       </li>
     </ul>
-</p>
 <p>
     <u>KSpread (Spreadsheet)</u>.
+</p>
     <ul type="disc">
       <li>
         <div align="justify">
@@ -172,9 +175,9 @@ Word 95/97/2000/XP documents has become much better."</i></p>
         </div>
       </li>
     </ul>
-</p>
 <p>
     <u>Kugar / Kugar Designer (Business Reporting)</u>.
+</p>
     <ul type="disc">
       <li>
         <div align="justify">
@@ -201,7 +204,6 @@ Word 95/97/2000/XP documents has become much better."</i></p>
         </div>
       </li>
     </ul>
-</p>
 <p align="justify">
   A more complete
   <a href="http://www.koffice.org/announcements/changelog-1.3.php">list

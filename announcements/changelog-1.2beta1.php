@@ -456,6 +456,7 @@ Latex export:
   variables
   </li>
   </ul>
+</li>
 <li>
 A new XSLT filter framework for converting between XML-based office formats.
 </li>

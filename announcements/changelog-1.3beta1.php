@@ -107,13 +107,14 @@
   and "Insert from clipboard" dialog to support "ignore double delimiters"</li>
 <li>"Insert from file" now also adjusts the column width depending on imported
   cell content</li>
-<li>enhanced the CSV import dlg</li>
+<li>enhanced the CSV import dlg
   <ul>
     <li>to support "ignore double delimiters"</li>
     <li>to adjust cell width to imported cell content</li>
     <li>you can specify the column and row range for import</li>
   </ul>
-<li>enhanced the CSV export dialog so that you can choose</li>
+</li>
+<li>enhanced the CSV export dialog so that you can choose
  <ul>
    <li>table to export</li>
    <li>delimiters between tables</li>
@@ -121,14 +122,16 @@
    <li>character for quotes</li>
    <li>export selection only</li>
  </ul>
+</li>
 <li>Goal Seek message fixes + you can select the cells with the mouse now</li>
-<li>enhanced Gnumeric import filter to support</li>
+<li>enhanced Gnumeric import filter to support
   <ul>
     <li>background (color + patterns), borders (colors + style)</li>
     <li>font formating, text alignment</li>
     <li>format parsing (date, time, numbers,...), cell height, width</li>
     <li>print range, page setup, hidden columns/row, comments</li>
   </ul>
+</li>
 <li>new OpenCalc export and import filter</li>
 <li>Added subtotal dialog and formula</li>
 <li>Paper layout can now be applied to all sheets</li>
@@ -142,19 +145,21 @@
 <li>FindNext, FindPrevious cell enhancement for find</li>
 <li>Fill: Fill area from right to left, left to right, bottom to top, top to bottom</li>
 <li>Full zoom support</li>
-<li>Printing:</li>
+<li>Printing:
   <ul>
     <li>High resolution printing (600dpi)</li>
     <li>Improved WYSIWYG</li>
     <li>Zoom support on printout</li>
   </ul>
+</li>
 <li>New direction mode when pressing Enter: you can jump now to the first cell of the next row</li>
-<li>hierachical style support</li>
+<li>hierachical style support
   <ul>
     <li>builtin styles</li>
     <li>creation of custom styles</li>
     <li>creation of custom styles using a cell as template</li>
   </ul>
+</li>
 <li>insert special characters</li>
 <li>smaller, more efficent file format</li>
 <li>many performance enhancements</li>
@@ -162,7 +167,7 @@
 <li>conditions can be used for text and numbers now (was numbers only before)</li>
 </ul>
 
-<em>New functions:</em><br>
+<em>New functions:</em><br />
 
 <p><em>Date/Time (16):</em>
   EDATE, EOMONTH, DAYS360, WEEKDAY, TIMEVALUE, DATEVALUE, YEAR,

@@ -554,6 +554,7 @@
       and Multiple Newlines in a pargraph.
       Documents with Font Table information terminated by a null entry do not 
       cause the filter to abort anymore, so document import works more reliably.
+  </li>
 </ul>
 
 <?php

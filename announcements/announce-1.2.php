@@ -96,7 +96,7 @@
 </p>
 <!--                               BEGIN CHANGES                             -->
 <h4>
-  <a name="principal improvements">Principal Improvements</a>
+  <a name="principal_improvements">Principal Improvements</a>
 </h4>
 <p align="justify">
   KOffice 1.2 is a stable release which offers a number of important feature
@@ -158,7 +158,6 @@
       </div>
     </li>
   </ol>
-</p>
 
 <p align="justify">
 <u>Filters</u>
@@ -208,13 +207,14 @@
           rewritten);
           and
           plain text (import / export).
+      </div>
     </li>
   </ol>
-</p>
 
 <!-- + -->
 <p align="justify">
 <u>KOffice / General</u>
+</p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -258,10 +258,10 @@
       </div>
     </li>
   </ol>
-</p>
 
 <p align="justify">
 <u>KWord (Word Processing)</u>
+</p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -310,7 +310,6 @@
       </div>
     </li>
   </ol>
-</p>
 
 <p align="justify">
 <u>KPresenter (Presentations)</u>.
@@ -354,7 +353,6 @@
       </div>
     </li>
   </ol>
-</p>
 
 <p align="justify">
 <u>KSpread (Spreadsheet)</u>.
@@ -415,7 +413,6 @@
       </div>
     </li>
   </ol>
-</p>
 
 <p align="justify">
 <u>Kugar (Business Reporting Tool)</u>.
@@ -439,7 +436,7 @@
       </div>
     </li>
   </ol>
-</p>
+
 <!--                             END CHANGES                                 -->
 
 <p align="justify">
@@ -503,7 +500,6 @@
       </li>
     </ul>
   </li>
-  <p />
   <li>
     <a href="http://www.linux-mandrake.com/en/">Mandrake Linux</a>:
     <ul>

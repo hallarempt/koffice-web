@@ -128,6 +128,7 @@ parties -- typically, but not always, the distributor of the relevant
 distribution (if you cannot find a binary package for your distribution,
 please read the <a href="http://dot.kde.org/986933826/">KDE Binary Package
 Policy</a>).
+</p>
 <p>
 <a name="binlibreq"><em><strong>Library Requirements</strong></em>.</a>
 The library requirements for a particular binary package varies with the
@@ -143,50 +144,59 @@ Library Requirements</a>.
 At the time of this release, pre-compiled packages are available for:
 </p>
 <ul>
-<li><a href="http://www.caldera.com/">Caldera Systems</a> (<a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/README">README</a>)</li>
-<ul>
-<li>OpenLinux-3.1
-<ul>
-<li>kdelibs 2.2:  <a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.2/">Intel x86 (i386)</a></li>
-<li>kdelibs 2.1.2:  <a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.1/">Intel x86 (i386)</a></li>
-</ul>
-</ul>
-<li><a href="http://www.conectiva.com/">Conectiva Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/Conectiva/7.0/README">README</a>)</li>
-<ul>
-<li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/Conectiva/7.0/i386/RPMS.main/">Intel x86 (i386)</a></li>
-</ul>
-<li><a href="http://www.debian.org/">Debian GNU/Linux</a> (package "koffice"):</li>
-<ul>
-<li><a href="ftp://ftp.debian.org/">ftp.debian.org</a>:  sid (devel)</li>
-<li><a href="ftp://kde.debian.net/">kde.debian.net</a>:  potato (2.2)</li>
-</ul>
-<li><a href="http://www.linux-mandrake.com/en/">Linux Mandrake</a>:
-<ul>
-<li>Cooker: <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/cooker/">Intel x86 (i586)</a></li> 
-<li>8.0:  <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/8.0/">Intel x86 (i586)</a>, <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/ppc/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/ia64/">HP/Intel IA-64 (ia64)</a></li>
-</ul>
-<li><a href="http://www.redhat.com/">RedHat Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/README">README</a>):
-<ul>
-<li>7.x:  <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/i386/">Intel x86 (i386)</a>; <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/ia64/">HP/Intel IA-64 (ia64)</a>; <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/alpha/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/s390/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/noarch/">noarch</a> directory for common files</li>
-</ul>
-<li><a href="http://www.suse.com/">SuSE Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/SuSE/README">README</a>):
-<ul>
-<li>kdelibs 2.2</li>
-<ul>
-<li>7.2:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-<li>7.1:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.1/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.1/">PowerPC (ppc)</a>; <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/axp/7.1/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-<li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.0/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-<li>6.4:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-</ul>
-<li>kdelibs 2.1.2 and kdesupport 2.1.1</li>
-<ul>
-<li>7.2:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-<li>7.1:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.1/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.1/">PowerPC (ppc)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/axp/7.1/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-<li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.0/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-<li>6.4:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-</ul>
-</ul>
-<li>Tru64 Systems:  <a href="http://master.kde.org/stable/koffice-1.1/Tru64/">4.0e,f,g, or 5.x</a> (<a href="http://master.kde.org/stable/koffice-1.1/Tru64/README.Tru64">README.Tru64</a>)</li>
+ <li><a href="http://www.caldera.com/">Caldera Systems</a> (<a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/README">README</a>)
+  <ul>
+   <li>OpenLinux-3.1
+    <ul>
+     <li>kdelibs 2.2:  <a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.2/">Intel x86 (i386)</a></li>
+     <li>kdelibs 2.1.2:  <a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.1/">Intel x86 (i386)</a></li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li><a href="http://www.conectiva.com/">Conectiva Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/Conectiva/7.0/README">README</a>)
+  <ul>
+   <li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/Conectiva/7.0/i386/RPMS.main/">Intel x86 (i386)</a></li>
+  </ul>
+ </li>
+ <li><a href="http://www.debian.org/">Debian GNU/Linux</a> (package "koffice"):
+  <ul>
+   <li><a href="ftp://ftp.debian.org/">ftp.debian.org</a>:  sid (devel)</li>
+   <li><a href="ftp://kde.debian.net/">kde.debian.net</a>:  potato (2.2)</li>
+  </ul>
+ </li>
+ <li><a href="http://www.linux-mandrake.com/en/">Linux Mandrake</a>:
+  <ul>
+   <li>Cooker: <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/cooker/">Intel x86 (i586)</a></li> 
+   <li>8.0:  <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/8.0/">Intel x86 (i586)</a>, <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/ppc/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/ia64/">HP/Intel IA-64 (ia64)</a></li>
+  </ul>
+ </li>
+ <li><a href="http://www.redhat.com/">RedHat Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/README">README</a>):
+  <ul>
+   <li>7.x:  <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/i386/">Intel x86 (i386)</a>; <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/ia64/">HP/Intel IA-64 (ia64)</a>; <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/alpha/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/s390/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/noarch/">noarch</a> directory for common files</li>
+  </ul>
+ </li>
+ <li><a href="http://www.suse.com/">SuSE Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/SuSE/README">README</a>):
+  <ul>
+   <li>kdelibs 2.2
+    <ul>
+     <li>7.2:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>7.1:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.1/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.1/">PowerPC (ppc)</a>; <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/axp/7.1/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.0/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>6.4:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+    </ul>
+   </li>
+   <li>kdelibs 2.1.2 and kdesupport 2.1.1
+    <ul>
+     <li>7.2:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>7.1:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.1/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.1/">PowerPC (ppc)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/axp/7.1/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.0/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>6.4:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li>Tru64 Systems:  <a href="http://master.kde.org/stable/koffice-1.1/Tru64/">4.0e,f,g, or 5.x</a> (<a href="http://master.kde.org/stable/koffice-1.1/Tru64/README.Tru64">README.Tru64</a>)</li>
 </ul>
 
 <p>
@@ -233,7 +243,7 @@ press release</a> and the
 <a href="http://www.kde.org/announcements/announce-2.1.2.html">KDE 2.1.2
 press release</a>.
 </li>
-<br />&nbsp;<br />
+
 <li><em>Recommended</em>:  The KOffice team recommends the use of
 <a href="ftp://ftp.trolltech.com/pub/qt/source/qt-x11-2.3.1.tar.gz">qt-x11-2.3.1</a>
 and kdelibs-2.2.  Kdelibs-2.2 provide a few additional features, such
@@ -375,9 +385,9 @@ website</a>.
 <p>
 Kontour is a vector drawing program which aims to provide similar
 functionality to
-<a href="http://www3.corel.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=Corel/Product/Details&id=CC1IOY1YKCC">Corel Draw</a><sup>TM</sup>
+<a href="http://www3.corel.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=Corel/Product/Details&amp;id=CC1IOY1YKCC">Corel Draw</a><sup>TM</sup>
 or <a href="http://www.adobe.com/products/illustrator/main.html">Adobe
-Illustrator</a><sup>TM</sup>.  Kontour's features currently include:
+Illustrator</a><sup>TM</sup>.  Kontour's features currently include:</p>
 <ul>
 <li>many tools (points, line, freehand, bezier, rectangle, polygon,
 ellipse/circle);</li>
@@ -393,7 +403,6 @@ and rounded corners for a rectangle);</li>
 <li>text along object; and</li>
 <li>align/distribute.</li>
 </ul>
-</p>
 <p>
 More information about Kontour, including some
 <a href="http://www.koffice.org/kontour/screenshots.php">screenshots</a>,
@@ -442,7 +451,7 @@ website</a>.
 KChart is a chart drawing application which can be used to embed charts
 into your KOffice documents, such as a report written with KWord.  Besides
 providing the usual charting capabilities, KChart is both easy to use
-and highly configurable.  It provides:
+and highly configurable.  It provides:</p>
 <ul>
 <li>default values for all parameter settings, all of which may be changed
 at any time after initializing/drawing the chart;</li>
@@ -515,8 +524,9 @@ and
 <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
 Datakonsult AB</a> (which contributed the new KChart to KOffice).  Thanks!
 </p>
-<hr noshade="noshade" size="1" width="90%" align="center">
-<font size="2">
+<hr noshade="noshade" size="1" width="90%" align="center" />
+<p>
+<small>
 <em>Trademarks Notices.</em>
 KDE, K Desktop Environment, KChart, KFormula, Kontour, KOffice,
 KPresenter, Krayon, KSpread and KWord are trademarks of KDE e.V.
@@ -531,8 +541,9 @@ Unix is a registered trademark of The Open Group.
 Trolltech and Qt are trademarks of Trolltech AS.
 All other trademarks and copyrights referred to in this announcement are
 the property of their respective owners.
-<br />
-<hr noshade="noshade" size="1" width="90%" align="center">
+</small>
+</p>
+<hr noshade="noshade" size="1" width="90%" align="center" />
 <table border="0" cellpadding="8" cellspacing="0">
 <tr><th colspan="2" align="left">
 <a name="press">Press Contacts:</a>

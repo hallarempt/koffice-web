@@ -130,7 +130,6 @@
       </li>
     </ul>
   </li>
-<p/>
   <li>
     <a href="http://www.debian.org/">Debian</a>
     (<a href="http://download.kde.org/stable/koffice-1.2.1/Debian/README">README</a>):
@@ -143,7 +142,6 @@
       </li>
     </ul>
   </li>
-  <p />
   <li><a href="http://www.mandrakelinux.com/">Mandrake Linux</a>:
     <ul>
       <li>
@@ -156,8 +154,6 @@
       </li>
     </ul>
   </li>
-
-  <p />
   <li><a href="http://www.redhat.com/">Red Hat Linux</a>
       (<em>unofficial</em>):
     <ul>
@@ -171,8 +167,6 @@
       </li>
     </ul>
   </li>
-
-  <p />
   <li>
     <a href="http://www.slackware.com/">Slackware Linux</a>
     (<em>unofficial</em>) (<a href="http://download.kde.org/stable/koffice-1.2.1/contrib/Slackware/8.1/README">README</a>):
@@ -183,8 +177,6 @@
       </li>
     </ul>
   </li>
-
-  <p />
   <li>
     <a href="http://www.suse.com/">SuSE Linux</a>:
     <ul>

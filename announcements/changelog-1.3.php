@@ -189,13 +189,14 @@ DTP frames of different widths)</li>
   and "Insert from clipboard" dialog to support "ignore double delimiters"</li>
 <li>"Insert from file" now also adjusts the column width depending on imported
   cell content</li>
-<li>Enhanced the CSV import dlg</li>
+<li>Enhanced the CSV import dlg
   <ul>
     <li>to support "ignore double delimiters"</li>
     <li>to adjust cell width to imported cell content</li>
     <li>you can specify the column and row range for import</li>
   </ul>
-<li>Enhanced the CSV export dialog so that you can choose</li>
+</li>
+<li>Enhanced the CSV export dialog so that you can choose
  <ul>
    <li>table to export</li>
    <li>delimiters between tables</li>
@@ -203,14 +204,16 @@ DTP frames of different widths)</li>
    <li>character for quotes</li>
    <li>export selection only</li>
  </ul>
+</li>
 <li>Goal Seek message fixes + you can select the cells with the mouse now</li>
-<li>Enhanced Gnumeric import filter to support</li>
+<li>Enhanced Gnumeric import filter to support
   <ul>
     <li>background (color + patterns), borders (colors + style)</li>
     <li>font formating, text alignment</li>
     <li>format parsing (date, time, numbers,...), cell height, width</li>
     <li>print range, page setup, hidden columns/row, comments</li>
   </ul>
+</li>
 <li>New OpenCalc export and import filter</li>
 <li>Added subtotal dialog and formula</li>
 <li>Paper layout can now be applied to all sheets</li>
@@ -224,19 +227,21 @@ DTP frames of different widths)</li>
 <li>FindNext, FindPrevious cell enhancement for find</li>
 <li>Fill: Fill area from right to left, left to right, bottom to top, top to bottom</li>
 <li>Full zoom support</li>
-<li>Printing:</li>
+<li>Printing:
   <ul>
     <li>High resolution printing (600dpi)</li>
     <li>Improved WYSIWYG</li>
     <li>Zoom support on printout</li>
   </ul>
+</li>
 <li>New direction mode when pressing Enter: you can jump now to the first cell of the next row</li>
-<li>Hierarchical style support</li>
+<li>Hierarchical style support
   <ul>
     <li>builtin styles</li>
     <li>creation of custom styles</li>
     <li>creation of custom styles using a cell as template</li>
   </ul>
+</li>
 <li>Insert special characters</li>
 <li>Smaller, more efficient file format</li>
 <li>Many performance enhancements</li>
@@ -246,7 +251,7 @@ DTP frames of different widths)</li>
 <li>New templates: Balance Sheet, Price Quotation, Packing Slip</li>
 <li>Improved speed of text to column conversion (#59999)</li>
 </ul>
-<em>New functions:</em><br>
+<em>New functions:</em><br />
 <i>GETPIVOTDATA, BESSELI, BESSELJ, BESSELK, BESSELY,
   ERF, ERFC, CONVERT <!--Which categories are these??--></i>
 <p><em>Date/Time (16):</em>
