@@ -94,12 +94,14 @@
 <h3><a name="kformula">KFormula</a></h3>
 <ul>
 </ul>
-
+-->
 
 <h3><a name="karbon">Karbon</a></h3>
 <ul>
+<li>Fixed bug #32574 "Unable to close or fill bezier curves"</li>
+<li>Fixed bug #75035 "new objects do not appear immediately in layers list"</li>
+<li>Fixed bug #78343 "changing zoom setting freezes application"</li>
 </ul>
--->
 
 <h3><a name="filters">Filters</a></h3>
 
