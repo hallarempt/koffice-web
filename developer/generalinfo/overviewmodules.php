@@ -166,7 +166,7 @@
     <tr>
       <td>www</td>
       <td>Web Sites</td>
-      <td>many times per day</td>
+      <td>Hourly</td>
       <td><a href="http://www.kde.org">KDE Web Site</a></td>
     </tr>
   </table>

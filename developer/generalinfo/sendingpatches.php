@@ -88,7 +88,7 @@ the patch will have to be more careful about how he applies it.)</p>
 
 <h2>New Files</h2>
 
-<p>TODO (In short: cvs diff cannot take care of new file if you do not have a wirte access on the CVS.
+<p>TODO (In short: cvs diff cannot take care of new file if you do not have a write access on the CVS.
 So those files need to be attached separately to the email.)</p>
 
 <h2>How To Share the Patch?</h2>
