@@ -208,7 +208,7 @@ $faq->addQuestion("Advanced Techniques",
        <li><b>KOffice</b> recently switched from using the well known tar/gnuzip
            utilities to an OpenOffice compatible compound file format. It's basically
            a .zip file with some special files to allow things like mimetype detection
-           and so on. If you invoke the <code>unzip<code> utility on such a file you'll
+           and so on. If you invoke the <code>unzip</code> utility on such a file you'll
            find some .xml files, where maindoc.xml holds the parent document's XML file.
            <br />
            For further detail on the internals of the compound document format please read
