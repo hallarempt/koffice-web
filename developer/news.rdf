@@ -23,7 +23,7 @@ In KOffice 1.3.x, the PDF import filter is vulnerable to integer overflows.
 &lt;a href="http://kde.org/areas/koffice/releases/security/xpdf-CESA-2004-007-xpdf2-newer.diff"&gt;A
 patch is available for the source packages&lt;/a&gt;.
 The patch can be applied on any version up to
-KOffice 1.3.3 (from KOffice 1.3 beta 1 on).<br /> 
+KOffice 1.3.3 (from KOffice 1.3 beta 1 on).&lt;br /&gt;
 (&lt;a href="http://kde.org/info/security/advisory-20041021-1.txt"&gt;
 See also the KDE Security Advisory for a similar vulnerability in KDE.&lt;/a&gt;)
 </description>
