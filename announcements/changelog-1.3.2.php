@@ -1,5 +1,5 @@
 <?php
-  $page_title ='Future KOffice 1.3.2 Changelog'; ### TODO
+  $page_title ='KOffice 1.3.2 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -14,6 +14,13 @@
   The following summarizes the major changes and bugfixes to the KOffice Suite since the
   release of KOffice 1.3.1.
 </p>
+
+<h3><a name="i18n">Languages</a></h3>
+<ul>
+  <li>
+    New: Upper Sorbian (hsb), as preview (only KWord-related translations)
+  </li>
+</ul>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <h4>KOfficeCore:</h4>
