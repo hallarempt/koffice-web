@@ -12,7 +12,10 @@
 
 <div>
 
-<xsl:comment>Do not modify! This file was generated <!-- Don't panic! This is the source--></xsl:comment>
+<xsl:comment>
+    Do not modify! This file was generated
+    <!-- Don't panic! This is the source-->
+</xsl:comment>
 
  <h2>Which filters are there?</h2>
  <p>At the moment all parts of KOffice support the filter architecture
@@ -24,6 +27,10 @@
 <hr/>
 <xsl:for-each select="/filters/version/application">
 <h3><xsl:value-of select="title" /></h3>
+
+<xsl:if test="boolean(foreword)">
+    <p><xsl:value-of select="normalize-space(foreword)"/></p>
+</xsl:if>
 
 <table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
 

@@ -4,7 +4,9 @@
   include("koffice.inc");
   include("header.inc");
 ?><div>
-<!--Do not modify! This file was generated -->
+<!--
+    Do not modify! This file was generated
+    -->
   <h2>Which filters are there?</h2>
   <p>At the moment all parts of KOffice support the filter architecture
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
@@ -434,19 +436,15 @@
     </tr>
   </table>
   <h3>Krita</h3>
-        <p><i>Krita uses ImageMagick for importing and exporting images. This
-        means that Krita can work with all images that your installation of
-ImageMagick supports. This includes all common image file formats, including
-the native formats of Photoshop and the Gimp.</i></p>
-
-  <!--table border="5" cellspacing="0" cellpadding="5">
+  <p>Krita uses ImageMagick for importing and exporting images. This means that Krita can work with all images that your installation of ImageMagick supports. This includes all common image file formats, including the native formats of Photoshop and the Gimp.</p>
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">From/To</th>
       <th width="50%" align="left" valign="top">Notes</th>
       <th width="10%" align="left" valign="top">Import</th>
       <th width="10%" align="left" valign="top">Export</th>
     </tr>
-  </table-->
+  </table>
   <hr />
   <h2>Key</h2>
   <table>
