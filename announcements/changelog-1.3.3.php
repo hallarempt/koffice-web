@@ -125,7 +125,8 @@
 <ul>
 <li>
   Fix generating numbers, especially if the decimal symbol is a comma
-  (<a href="http://bugs.kde.org/show_bug.cgi?id=86216">part of bug #86216</a>)
+  (Bugs <a href="http://bugs.kde.org/show_bug.cgi?id=75783">#75783</a>
+  and <a href="http://bugs.kde.org/show_bug.cgi?id=86216">#86216</a>)
 </li>
 </ul>
 <h4>Karbon's EPS filter:</h4>
