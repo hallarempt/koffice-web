@@ -96,7 +96,7 @@ otherwise restricted due to a bug.</p>
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Background Color</td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported (Basic mode) and
-  <span bgcolor="#CECECE">Bug (Enhanced mode)</span></td>
+  <span style="background-color:#CECECE">Bug (Enhanced mode)</span></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Shadow Text</td>
