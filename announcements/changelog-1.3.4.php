@@ -134,6 +134,14 @@
   </li>
 </ul>
 
+<h4>KFormula's MathML Export Filter</h4>
+<ul>
+  <li>
+    Fix the invisible multiply operator
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=89401">Part of bug #89401</a>)
+  </li>
+</ul>
+
 <h3>Previous changelogs</h3>
 <a href="changelog-1.3.3.php">1.3.3</a> |
 <a href="changelog-1.3.2.php">1.3.2</a> |
