@@ -1,5 +1,5 @@
 <?php
-  $page_title="Applying For A KDE CVS Account";
+  $page_title="Applying For a KDE CVS Account";
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
@@ -12,23 +12,23 @@
 <h2>Notations</h2>
 
 <p><ul>
-  <li>The word <em>CVS</em> means that it applies for other CVS servers too.</li>
-  <li>The phrase<em>KDE CVS</em> means that it only applies to KDE's CVS server.</li>
+  <li>The word <em>CVS</em> applies to all CVS servers.</li>
+  <li>The phrase <em>KDE CVS</em> refers only to KDE's CVS server.</li>
   <li>The phrase <em>anonymous CVS</em> means KDE's anonymous CVS mirrors.</li>
 </ul></p>
 
 <h2>What is KDE CVS?</h2>
 
 <p>To have write access to KDE CVS, you have to use the main CVS server of KDE.
-(Anonymous CVS use mirrors of that server. CVS does not allow to read on one <!-- TODO: URL of doc about anonymous CVS -->
-server and to write on another.)</p>
+(Anonymous CVS uses mirrors of this server. CVS does not allow you to read from one <!-- TODO: URL of doc about anonymous CVS -->
+server and write to another.)</p>
 
 <p>To be able to use the main KDE CVS server, you need an account there. An account
-is made up of a user name (normally the familly name), of a password and of an email address.
-The user name is for getting in, the password for authenticating and the email
-address for knowing who to contact if another developer would want to contact the account holder.</p>
+is made up of a username (normally your surname), a password and an email address.
+The username is for getting in, the password for authenticating and the email
+address for knowing who to contact if another developer wants to contact the account holder.</p>
 
-<p>Note: you can see the accounts in kde-common/accounts . That is the list of all accounts.
+<p>Note: you can see the accounts in kde-common/accounts. That is the list of all accounts.
 Yes, <b>the account list is public</b>, for example on <a href="http://webcvs.kde.org">WebCVS</a>.</p>
 
 <p>To access the main KDE CVS, you have two possibilities:
@@ -36,89 +36,90 @@ Yes, <b>the account list is public</b>, for example on <a href="http://webcvs.kd
     <li>the normal CVS pserver mode</li>
     <li>the CVS pserver mode tunneled in SSH.</li>
   </ul>
-  (CVS names pserver the mode in which CVS communicates over a network to a CVS server.)
+  (&quot;pserver&quot; is the name of the way in which CVS communicates to a CVS server over a network.)
 </p>
 
 <!-- // Comment this out until I have found a better phrasing.
- (In any case, I do not think that a normal user has much
-to hide: any commit is publicly known on the kde-cvs mailing list and what
-you download by cvs update is also knwon publicly.)
+     // Is this better:?
+ (In any case, a normal user does not have much
+to hide: email notifications of all commits are sent to the public kde-cvs mailing list and
+anything you can download using &quot;cvs update&quot; can be downloaded by anyone else
+(after all, KDE is opensource).
 -->
 
-<p>Just note that on these
-two possibilities depend how to create the password:
+<p>The password you'll need to create depends on the above:
   <ul>
     <li>a normal CVS password</li>
     <li>a SSH password.</li>
   </ul>
 </p>
 
-<p>(As I have only read two short articles about how to use SSH over CVS, I will
+<p>(As I have only read two short articles about how to use CVS over SSH, I will
 not comment further on this.)</p>
 
 
-<p>A KDE CVS account allows to write nearly everywhere on the KDE CVS. However there are exceptions:</p>
+<p>A KDE CVS account allows you to write to nearly anywhere in the KDE CVS. However, there are exceptions:</p>
   <ul>
-    <li>the KDE CVS internas</li>
+    <li>the KDE CVS internals</li>
     <li>the admin directory</li>
     <li>the www module (exceptions can be made for this.)</li>
   </ul>
 </p>
 
-<h2>Who Can Apply For A KDE CVS Account?</h2>
+<h2>Who Can Apply For a KDE CVS Account?</h2>
 
 <!--
 TODO: CVS commit policy
 -->
 
-<p>Normally, any developer having made some work in KOffice (or elsewhere in KDE) can apply for a KDE CVS account.</p>
+<p>Normally, any developer that has done some work on KOffice (or elsewhere in KDE) can apply for a KDE CVS account.</p>
 
-<p>For KOffice, the amount of work asked is either a filter (even if only half working) or a few patches.</p>
+<p>For KOffice, the amount of work required is either a filter (even if it's only half working) or a few patches.</p>
 
-<p>Also please apply for an account only if you think that you will work on KOffice or on KDE for a somewhat longer time.
-If you know that you will only work some weeks and then never again, then please consider not
-applying for a KDE CVS account but please continue to send patches.</p>
+<p>Also please apply for an account only if you think that you will work on KOffice or KDE for a somewhat longer time.
+If you know that you will only work for a couple of weeks and then never again, please consider not
+applying for a KDE CVS account but still, do continue to send patches.</p>
 
-<p>The limitations are not there to exclude anybody. The limitations are there to keep reasonable the maintenance of the accounts.</p>
+<p>The limitations are not there to exclude anyone - they are there to ensure that the maintenance of accounts remains reasonable.</p>
 
 <p>Of course, to be clear: <em>the <a href="mailto:sysadmin@office.kde.org">KDE's sysadmins</a>
-  have the last word about if they accept or not to create a KDE CVS account for somebody.</em></p>
+  have the last word about whether or not to create a KDE CVS account for somebody.</em></p>
 
-<h2>Getting The Encoded Password</h2>
+<h2>Getting the Encoded Password</h2>
 
-<p>This tutorial assumes that you want to access by the normal CVS pserver way (without SSH.)</p>
+<p>This tutorial assumes that you want access via the normal CVS pserver way (without SSH.)</p>
 
-<p>First you have to choose a password, if possible one that you
-do not needed on your computer. In any case, please use the <b>common precautions</b> about
-passwords: not any entry of a dictonnary, not any common name, not any name of your
-relatives, not any birthday date...
+<p>First you have to choose a password - if possible, one that you
+do not use on your computer. In any case, please use <b>common precautions</b> about
+passwords: not any entry of a dictionary, not any common name, not any name of your
+relatives, not any birthday...
 (As the CVS account has nothing to do with any account on your computer, you
 are free to use whatever password you want.)</p>
 
 <p>Now that you have your password, you need to encode it, as CVS does not
-transmit it in clear. This is the more tricky part.</p>
+transmit it in clear text. This is the more tricky part.</p>
 
 <p>In short: we use a user account of your computer, then we change its password,
 so that the computer encodes the needed password, then we get that encoded password
 and then you can change it back.</p>
 
-<p>So either create temporary a new user or use any account name of your computer
+<p>So either create a temporary new user or use any existing account on your computer
 (of course not "root" to avoid further problems if something should go wrong!)
 For this tutorial, we suppose that the user is named
-<tt>kde-devel</tt>. So now change the password of that user, either
+<tt>kde-devel</tt>. So now, change the password of that user - either
 with the normal tool passwd or with any tool your distribution has
-(for example, Yast for SuSE, userdrake for Mandrake, redhat-config-users for RedHat.)</p>
+(for example, Yast for SuSE, userdrake for Mandrake, redhat-config-users for RedHat).</p>
 
 <p>When you have changed the password, you have to get it. Most distributions
-use shadow passwords, so the password is in /etc/shadow (whitout shadows, it
+use shadow passwords, so the password is in /etc/shadow (without shadows, it
 is in /etc/passwd.) It might be that /etc/shadow is too protected for a
 normal user, so you might need to become root.</p>
 
 <p>You can use grep to find the needed entry (for the user kde-devel)
 <tt>grep kde-devel /etc/shadow</tt>
-(of course you can use search in an editor instead.)</p>
+(of course you can use the search function in an editor instead).</p>
 
-<p>In any case, you have a line starting like that:<br />
+<p>In any case, you'll have a line starting with something like:<br />
 <tt>kde-devel:EBGghs:</tt></p>
 
 <p>What we need is the characters between the two : signs (here in the example EBGghs). That is
@@ -131,38 +132,41 @@ the old setting.</p>
 
 <h2>Preparing The Email</h2>
 
-<p>Now that you have a password, you need a user name for your KDE CVS account.
-Normally your family name is used, let us call it <tt>family</tt> for this example.</p>
+<p>Now that you have a password, you need a username for your KDE CVS account.
+Normally your surname is used, let us call it <tt>surname</tt> for this example.</p>
 
 <p>You can propose something else if you want. But be careful that one day, you
 could ask for a KDE email address and this would be the base for your address.
-For example: <tt>family@kde.org</tt>. KDE email addresses are not granted so easily
-anymore, as too many people have ranted with a KDE address and other people thought
-that it was the official position of the KDE team.
-(In the meantime, <a href="http://www.kdemail.net">KDE Mail</a> was created if you would need a more permanent address.)</p>
+For example: <tt>surname@kde.org</tt>. KDE email addresses are not granted so
+easily anymore, as too many people have ranted with a KDE address and other
+people thought that it was the official position of the KDE Team.
+In the meantime, <a href="http://www.kdemail.net">KDE Mail</a> was created for if you need a permanent address.</p>
 
-<p>So now you have a user name and a password. Now the email address. You have to
-use your own (be it a normal address or a KDE Mail address.) Of course, do not forget that this <b>email address becomes public</b>
+<p>So now you have a username and a password. Now the email address. You have to
+use your own (be it a normal address or a KDE Mail address). Of course, do not forget that this <b>email address becomes public</b>
 (at least by <a href="http://webcvs.kde.org">WebCVS</a>) so you will unfortunately get spam.</p>
 
-<p>Now you are ready to send your email for asking a KDE CVS account.</p>
+<p>Now you are ready to send your email to ask for a KDE CVS account.</p>
 <p>So put in your email:
   <ul>
-    <li>your full name (It might be already in the email header.)</li>
+    <li>your full name (it might already be in the email header).</li>
+    <li>your email address</li>
     <li>the account name</li>
     <li>the encoded password</li>
-    <li>your email address</li>
+    <li>a concise justification for needing a CVS account</li>
   </ul>
 </p>
 
-<p>Now please check again that you have made it all right. (The people who will receive your email
-get hundreds of emails per day, so help them by doing it correctly if possible.)
+<p>Now please check again that you have done it all right. (The people who
+will receive your email get hundreds of emails per day, so help them by doing
+it correctly if possible). 
 Then send your email to <a href="mailto:sysadmin@office.kde.org">KDE's sysadmins</a>.</p>
 
 <h2>And Now?</h2>
 
-<p>After having sent the email, you have to wait on the answer
-(typicaly the next Monday to Friday, European day time (UTC+1 in winter, UTC+2 in summer.))</p>
+<p>After having sent the email, you have to wait for the answer
+(typically the next weekday, European day time (UTC+1 in winter,
+UTC+2 in summer).</p>
 
 <p>You can get one of three answers:
   <ul>
@@ -172,9 +176,9 @@ Then send your email to <a href="mailto:sysadmin@office.kde.org">KDE's sysadmins
   </ul>
 </p>
 
-<p>Let's start with the worst: no. I suppose that the critic would be that you
+<p>Let's start with the worst: no. I suppose that the reason would be that you
 are not known enough or similar. When you are more known and have helped more,
-you will certainly be able to have an account.</p>
+you will certainly be able to get an account.</p>
 
 <p>Maybe: well, probably like "no" more or less, except if the problem is of a
 technical sort.</p>
