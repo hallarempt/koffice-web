@@ -378,7 +378,7 @@ $faq->addQuestion("In printout, KOffice replaces some of my fonts with different
 
 $faq->addQuestion("Why are bitmap fonts not supported?",
 "<p>Bitmap fonts offer too few data to be printed correctly or to allow
-WYSIWYG (\"What You See Is What Yu Get\".)</p>"
+WYSIWYG (\"What You See Is What You Get\".)</p>"
 );
 
 
@@ -488,7 +488,7 @@ application.
 */
 
 $faq->addQuestion("But was the vector graphic application not Kontour?",
-"Kontour used to be a vector drawing program. This program is not being actively maintained anymore
+"Kontour used to be a vector drawing program. This program was not being actively maintained anymore
 and was finally removed from KOffice in the year 2003. Karbon14 has taken its place.</p>"
 );
 
@@ -570,7 +570,7 @@ $faq->addSection("Contributing to KOffice");
 //CHECK
 $faq->addQuestion("I like this project! How can I contribute?",
 "<p>Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
-and tell where you would want to help.</p>"
+and tell where you would want to help!</p>"
 );
 /*
 <qandaentry><question><para> I like this project! How can I contribute?</para></question>
