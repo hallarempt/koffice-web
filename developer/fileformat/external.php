@@ -25,6 +25,8 @@
   <p>
     <ul>
       <li><a href="http://www-106.ibm.com/developerworks/xml/library/x-stand1.html">A survey of XML standards</a></li>
+    </ul>
+  </p>
 
   <h2>Tools</h2>
   <p>
