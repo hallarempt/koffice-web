@@ -16,6 +16,12 @@
     <a class="sidebar" href="/releases/<?php echo $develversion ?>-release.php">notes</a> for this release.</p>
     -->
 
+    <p>
+      <a href="security">
+      <img src="pics/cr32-filesys-folder_red.png" alt="KOffice Security logo" height="32" border="0" />
+      KOffice Security Announcements</a>
+    </p>
+
     <p>In the KOffice suite the following parts are being developed:</p>
 
     <table width="90%">

@@ -18,6 +18,7 @@ $section->appendDir("Get Involved", "getinvolved");
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
 //$section->appendLink("KOffice $develversion", "releases/$develversion-release.php");
+$section->appendDir("Security", "security");
 
 $section =& $this->appendSection("KOffice Applications");
 $section->appendDir("KWord", "kword");
