@@ -24,7 +24,7 @@
   $appinfo->addContributor("Cyrille Berger", "cyb@lepi.org");
   $appinfo->addContributor("Adrian Page", "Adrian.Page@tesco.net");
   $appinfo->addContributor("Bart Coppens", "kde@bartcoppens.be");
-  $appinfo->addContributor("Clarence Dang", "dang@kde.org");
+  $appinfo->addContributor("Clarence Dang", "dang at kde dot org");
   $appinfo->addContributor("Michael Thaler", "michael.thaler@physik.tu-muenchen.de");
   $appinfo->addContributor("Dirk Sch&ouml;berger", "");
   $appinfo->addContributor("Casper Boemann", "");
