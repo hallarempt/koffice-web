@@ -111,6 +111,13 @@
 <li>Implement save settings into settings.xml (active table, cursor position)</li>
 </ul>
 
+<h4>KSpread's GNUmeric export filter:</h4>
+<ul>
+<li>Fix writting 
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=66983">#66983</a>)</li>
+<li>Generate UTF-8</li>
+</ul>
+
 <h4>Karbon's EPS filter:</h4>
 <ul>
 </ul>
