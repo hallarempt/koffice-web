@@ -45,6 +45,10 @@
     Fix image inserting
     (<a href="http://bugs.kde.org/show_bug.cgi?id=72827">#72827</a>)
   </li>
+  <li>
+    Fixes when changing properties of multiple frames at once.
+    Also allow changing "protect-size" for multiple frames.
+  </li>
 </ul>
 
 
