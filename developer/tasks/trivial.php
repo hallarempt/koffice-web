@@ -32,6 +32,10 @@ a single directory... It is more important that some part is done at all.)</p>
     documentation but unfortunately not in Doxygen syntax. So the tasks is to 
     change them to Doxygen syntax. (Changing to the special Doxygen commens (/** 
     and ///) is already enough.) (Difficulty: *; Sharability: *)</li>
+    
+    <li><ins>
+    Check copyrights of source files add missing copyright (dates and/or developers) (Difficulty: **; Sharability: *)
+    </ins></li>
 </ul>
 
 <?php
