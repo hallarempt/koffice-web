@@ -123,7 +123,10 @@
 <li>Export print range</li>
 </ul>
 
-
+<em>Karbon's eps filter:</em>
+<ul>
+<li>Fix #82964 (Fix parsing of boundingbox in the presence of "%ALDBoundingBox")</li>
+</ul>
 
 <h3>Previous changelogs</h3>
 <a href="changelog-1.3.1.php">1.3.1</a> |
