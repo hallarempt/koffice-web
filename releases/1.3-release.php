@@ -6,12 +6,10 @@
 ?>
 
       <p>The KOffice team is proud to announce the final version of KOffice 1.3.</p>
-      <p>This release fixes a couple of critical bugs since the XMAS preview version.
-      </p>
 
-      <p>Note: Kexi isn't part of this version nor will it be in the final
-      KOffice 1.3. It is slated for a stand-alone release next year and
-      will re-integrated into KOffice in the next major version.
+      <p>Note: Kexi is not part of this version. 
+      It is slated for a stand-alone release later this year and
+      will be integrated into the next major version of KOffice.
       </p>
 
 
