@@ -37,6 +37,9 @@
         <td>Information to Word Filters (by Shaheed Haque)</td>
         </tr>
 
+<?php
+  /* FIXME Broken URL
+
         <tr bgcolor="#CCCCFF">
         <td><a href="http://www.xlhtml.org">Excel95, ppt</a></td>
         <td><table border="0">
@@ -53,6 +56,8 @@
             </table>
         </td>
         </tr>
+    */
+?>
 
         <tr bgcolor="#CCCCFF">
         <td><a href="http://www.mlib.unibel.by/pub/pub/qqq/office/MSWordView.html">Word 8</a></td>
