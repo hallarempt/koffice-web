@@ -84,6 +84,7 @@
 <li>Fix crash when we load presentation background page</li>
 <li>Import help line</li>
 <li>Import animation order</li>
+<li>Import setting</li>
 </ul>
 
 <h4>KPresenter's OOImpress export filter:</h4>
