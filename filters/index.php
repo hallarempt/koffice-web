@@ -21,8 +21,6 @@
 
     <h2>Stable branches</h2>
     
-    <p>The filter status for KOffice 1.3.x is currently not avaialable yet!</p>
-
     <p>
      <ul>
       <li><a href="1_3_1">Filter status of KOffice 1.3.x</a></li>
