@@ -150,6 +150,14 @@
   </li>
 </ul>
 
+<h4>KSpread's HTML export filter:</h4>
+<ul>
+  <li>
+    Fix export of sheets with more than 255 rows or columns
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=75781">Variant of bug #75781</a>)
+  </li>
+</ul>
+
 <h4>Karbon's EPS filter:</h4>
 <ul>
 </ul>
