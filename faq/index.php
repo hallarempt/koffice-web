@@ -25,23 +25,23 @@ $faq = new FAQ();
 $faq->addSection("General Questions");
 
 $faq->addQuestion("What is KOffice?",
-"<p>KOffice is an integrated office suite for the <a href=\"http://www.kde.org\">KDE (K Desktop Environment)</a>
+"KOffice is an integrated office suite for the <a href=\"http://www.kde.org\">KDE (K Desktop Environment)</a>
 consisting of several applications like a word processor and a spread sheet.
 Based on the KParts component model KOffice offers a lot of interoperability
 between all its components. For example, you can embed every KOffice component
-into another component (for example a KSpread table into your KWord document.)</p>"
+into another component (for example a KSpread table into your KWord document.)"
 );
 
 $faq->addQuestion("Who are the developers and how do I contact them?",
-"<p>The developers are listed in <a href=\"http://www.koffice.org/people.php\">the people page.</a>
+"The developers are listed in <a href=\"http://www.koffice.org/people.php\">the people page.</a>
 If you want to contact the developers, the best is first to
 <a href=\"mailto:koffice@kde.org\">email to the koffice mailing list</a>. In case of bugs or wishes,
-please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>.</p>"
+please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>."
 );
 
 // CHECK: Krita's ML email address
 $faq->addQuestion("Which mailing lists are used for KOffice?",
-"<p>KOffice has two own mailing lists:</p>
+"KOffice has two own mailing lists:</p>
 <ul>
 <li><a href=\"mailto:koffice@kde,org\">koffice mailing list</a></li>
 <li><a href=\"mailto:koffice-devel@kde.org\">koffice-devel mailing list</a></li>
@@ -52,12 +52,12 @@ Please note that the write access of the koffice-devel mailing list is restricte
 <p>Information on the mailing lists can be obtained <a href=\"http://www.kde.org/mailinglists\">here</a>.
 The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>
 <p>Please note that for historical reasons,
-<a href=\"mailto:kimageshop@kde.org\">Krita has its own mailing list</a>.</p>"
+<a href=\"mailto:kimageshop@kde.org\">Krita has its own mailing list</a>."
 );
 
 // CHECK: Kexi, Kugar, KPlato
 $faq->addQuestion("Which KOffice application do exist?",
-"<p>Following applications exist and are part of KOffice 1.3:</p>
+"Following applications exist and are part of KOffice 1.3:</p>
 <ul>
 <li>KWord - a word processor</li>
 <li>KSpread - a spread sheet</li>
@@ -77,16 +77,16 @@ $faq->addQuestion("Which KOffice application do exist?",
 
 // CHECK: entry sounds badly (especially PIM)
 $faq->addQuestion("I would like to see application XYZ in KOffice?",
-"<p>KOffice may lack some applications that people normally consider to be an
+"KOffice may lack some applications that people normally consider to be an
 Office application. Some of these applications are in other parts of KDE,
 like for example the email tool KMail is in KDE-PIM (Personal Information Management). Some other
-applications are only planned for future KOffice releases.</p>"
+applications are only planned for future KOffice releases."
 );
 
 // CHECK: is 1.3 out?
 $faq->addQuestion("What is the current state of KOffice?",
-"<p>At the time of thiw writing, KOffice 1.3 will be soon released. KOffice is released seperately
-from the rest of KDE, so KOffice releases are not in sync with those of KDE.</p>"
+"At the time of thiw writing, KOffice 1.3 will be soon released. KOffice is released seperately
+from the rest of KDE, so KOffice releases are not in sync with those of KDE."
 );
 
 // FAQ: Is KOffice stable?
@@ -102,11 +102,11 @@ The release versions of &KOffice; are supposed to be quite stable. While we try 
 
 // CHECK!
 $faq->addQuestion("Are you going to implement feature XYZ?",
-"<p>First of all: certainly many features should be implemented. However,
+"First of all: certainly many features should be implemented. However,
 KOffice is mainly based on the work of volunteers and thus it often lacks the needed manpower
 to address many issues. If you are a developer and you lack a feature,
 consider helping us and talk to us on the mailing lists.
-KOffice developers are always willing to help you if you want to get your hands dirty!</p>"
+KOffice developers are always willing to help you if you want to get your hands dirty!"
 );
 
 // FAQ: What do I need for using &KOffice;?
@@ -125,13 +125,13 @@ ftp://ftp.trolltech.com/qt/source/</ulink>) and the latest <ulink url="http://ww
 */
 
 $faq->addQuestion("Which license applies to KOffice?",
-"<p>KOffice is an open-source project and completely free. All licences are GPL-compatible, mostly
-GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are mostly GPL.</p>"
+"KOffice is an open-source project and completely free. All licences are GPL-compatible, mostly
+GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are mostly GPL."
 );
 
 // CHECK: <blockquote>
 $faq->addQuestion("How do I report bugs?",
-"<p>Like for any KDE application, please report bugs to <a href=\"http://bugs.kde.org\">KDE Bugs.</a></p>
+"Like for any KDE application, please report bugs to <a href=\"http://bugs.kde.org\">KDE Bugs.</a></p>
 <p>Please avoid bug reports with meaningless contents like: \"It does not work!\", \"KOffice is bad\",
 \"XYZ is much better than your KOffice!\"</p>
 <p>A good bug report should first have a <em>title.</em> Try to give in a few keywords an overview of the problem!
@@ -148,35 +148,35 @@ even better, a short example file that triggers the bug.</p>
 so be careful not to send us files not meant for the public. Especially be careful that the
 file does not contain for example addresses and phone numbers of third persons.</blockquote>
 <p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>
-<p>And finally, please, send only one bug per report!</p>"
+<p>And finally, please, send only one bug per report!"
 );
 
 $faq->addQuestion("How do I report wishes?",
-"<p>You report wishes as you would do for bugs. Here too it is important to describe correctly the wish to
+"You report wishes as you would do for bugs. Here too it is important to describe correctly the wish to
 avoid misunderstandings. If your wish comes from another application, please do not assume that the developers
 know that application! Only <em>one</em> wish per report, please! However you can create as many reports as
-you want or need. One wish per report helps the developers to manage the bugs and wishes.</p>"
+you want or need. One wish per report helps the developers to manage the bugs and wishes."
 );
 
 $faq->addQuestion("Can I use KOffice on Windows?",
-"<p>There is on-going work of <a href=\"http://kde-cygwin.sourceforge.net\">KDE Cygwin project</a> to port
+"There is on-going work of <a href=\"http://kde-cygwin.sourceforge.net\">KDE Cygwin project</a> to port
 KDE to MS Windows. It is also planned to port KOffice. Just keep in mind that this port is not done
-by the KOffice developers themselves, so please report bugs to the KDE Cygwin project!</p>"
+by the KOffice developers themselves, so please report bugs to the KDE Cygwin project!"
 );
 
 
 $faq->addSection("How to get and install KOffice?");
 
 $faq->addQuestion("How do I get and compile the KOffice sources?",
-"<p>Please have a look at <a href=\"http://www.koffice.org/download/source.php\">
-this page.</a></p>"
+"Please have a look at <a href=\"http://www.koffice.org/download/source.php\">
+this page.</a>"
 );
 
 $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources up to date?",
-"<p>You need to checkout the module koffice of KDE's CVS either
+"You need to checkout the module koffice of KDE's CVS either
 by <a href=\"http://developer.kde.org/source/anoncvs.html\">anonymous CVS</a>
 or by <a href=\"http://developer.kde.org/source/cvsup.html\">CVSup</a>.</p>
-<p>Please keep in mind that the developement versions are not supposed to work stable!</p>"
+<p>Please keep in mind that the developement versions are not supposed to work stable!"
 );
 
 
@@ -184,7 +184,7 @@ $faq->addQuestion("How do I install KOffice if I am not root?",
 "You have got to pass some directory where you have got write access (for example in your home directory)
  as prefix to configure. So you should type something like: <code>./configure --prefix=/home/jdoe/foo/bar</code>
  plus of course other options you might want to pass to configure. Then of course you
- don't have to do <code>su -c \"make install\"</code>, but just <code>make install</code>.</p>"
+ don't have to do <code>su -c \"make install\"</code>, but just <code>make install</code>."
 );
 
 // FAQ:  Where can I find information on compiling Qt or the KDE libs?
@@ -201,17 +201,17 @@ See
 */
 
 $faq->addQuestion("What binary distributions are there and where do I find them?",
-"<p>You can find up-to-date information on available binaries and how to install them
+"You can find up-to-date information on available binaries and how to install them
 <a href=\"http://www.koffice.org/download\">here</a>.</p>
 <p>Please notice that KOffice only makes the source, binary distributions are made by third persons, even if they
-are distributed by KDE servers.</p>"
+are distributed by KDE servers."
 );
 
 $faq->addQuestion("Is KOffice available on CD?",
-"<p>Most Linux distributions ship KOffice. So if you have an up-to-date
+"Most Linux distributions ship KOffice. So if you have an up-to-date
  Linux distribution, you probably are lucky.  I do not know of any other operating
  system vendors who ship KOffice and I do not know about any separate CDs.
- The KOffice project itself does not sell any CD-ROMs.</p>"
+ The KOffice project itself does not sell any CD-ROMs."
 );
 
 
@@ -219,7 +219,7 @@ $faq->addSection("Problems compiling KOffice");
 
 // CHECK
 $faq->addQuestion("What should I do if problems occur?",
-"<p>If problems occur during compiling, please:</p>
+"If problems occur during compiling, please:</p>
 <ul>
 <li>check the problems mentioned in this <a href=\"http://koffice.kde.org/install-source.phtml\">file</a></li>
 <li>check whether you are using a recent kdelibs package (last stable KDE or current unstable KDE.)</li>
@@ -237,28 +237,28 @@ safest, I think).</li>
 <a href=\"mailto:koffice@kde.org\">koffice mailing list.</a>
  Please include information  about your system and the tail of the output of <code>make</code>.</p>
 <p>Please <em>do not</em> contact the mailing list in case of errors like \"internal compiler errors\"!
-This is most likely not a KOffice problem (but a compiler problem, a motherboard problem or a cooling problem.)</p>"
+This is most likely not a KOffice problem (but a compiler problem, a motherboard problem or a cooling problem.)"
 );
 
 $faq->addQuestion("Error: \"aclocal not found\"",
-"<p>I have done <code>make -f Makefile.cvs</code> and got \"aclocal not found\".</p>
-<p>You have probably not installed automake. Install automake (and make sure that its version is recent enough.)</p>"
+"I have done <code>make -f Makefile.cvs</code> and got \"aclocal not found\".</p>
+<p>You have probably not installed automake. Install automake (and make sure that its version is recent enough.)"
 );
 
 $faq->addQuestion("The file configure is missing!",
-"<p>Please start with <code>make -f Makefile.cvs</code>. It will then create the file configure.</p>"
+"Please start with <code>make -f Makefile.cvs</code>. It will then create the file configure."
 );
 
 $faq->addQuestion("I have configured with --enable-final but I can only get a compile error",
-"<p>As the developer cannot really use --enable-final, it gets easily broken.
+"As the developer cannot really use --enable-final, it gets easily broken.
 So please try to compile without --enable-final before reporting the problem
-to the <a href=\"mailto:koffice@kde.org\">koffice mailing list</a>!</p>"
+to the <a href=\"mailto:koffice@kde.org\">koffice mailing list</a>!"
 );
 
 $faq->addSection("KOffice in general");
 
 $faq->addQuestion("Does KOffice support scripting?",
-"<p>Yes, KOffice supports scripting. You can script KOffice applications
+"Yes, KOffice supports scripting. You can script KOffice applications
  using the scripting language of your choice thanks to the application's DCOP
  interfaces (provided that DCOP-bindings exist for your language). Using a language's
  DCOP bindings you can remote control a KOffice application via this interface.
@@ -266,28 +266,28 @@ $faq->addQuestion("Does KOffice support scripting?",
  Java. Furthermore, using the <code>dcop</code> command line utility from kdelibs, you can
  control applications from your shell, so you can basically even script KOffice using
  bash or whatever shell you prefer. Of course you can also access these interfaces
- using a C++ library or its C wrapper.</p>"
+ using a C++ library or its C wrapper."
 );
 
 $faq->addQuestion("Does KOffice support macros?",
-"<p>No, we do not support macros in documents to avoid Trojan horses done with such macros.
+"No, we do not support macros in documents to avoid Trojan horses done with such macros.
 The only feature similar to macros is the DCOP scripting, which has the advantage not to limit
-you to one language.</p>"
+you to one language."
 );
 
 $faq->addQuestion("How does KOffice print?",
-"<p>KOffice prints with KDE's printing system. So you can choose between a few printing systems
+"KOffice prints with KDE's printing system. So you can choose between a few printing systems
 like for example CUPS or lpr. KOffice applications print by using Qt's PostScript printing. This
-can unfortunately lead to limitations (like for EPS files.)</p>"
+can unfortunately lead to limitations (like for EPS files.)"
 );
 
 //CHECK
 $faq->addQuestion("What data format does KOffice read and write natively?",
-"<p>KOffice documents are zipped files. Inside these files KOffice's data is
+"KOffice documents are zipped files. Inside these files KOffice's data is
 stored in XML files. Pictures however are directly stored as binary.</p>
 <p>Up to KOffice 1.3, the XML tags used by KOffice's applications are private to
 KOffice. From KOffice 1.4, we paln to switch to OpenOffice.org compatible file
-formats.</p>"
+formats."
 );
 /*
 </answer></qandaentry><qandaentry><question><para> What data format does &KOffice; read and write natively?</para></question><answer>
@@ -318,45 +318,45 @@ Most &KOffice; applications store their document data as XML code (eXtensible
 
 // CHECK: add InfoZIP's URL for unzip?
 $faq->addQuestion("I am stuck without KOffice. How can I get at least the text out of the KOffice files?",
-"<p>As KOffice files are zipped, you need to unzip them with any program that can handle ZIP files.</p>"
+"As KOffice files are zipped, you need to unzip them with any program that can handle ZIP files."
 );
 
 $faq->addQuestion("Can I convert KOffice documents to and from other formats on the command line?",
-"<p>Yes, the program for this is called <code>koconverter</code>. See <code>koconverter --help</code> for more information.</p>"
+"Yes, the program for this is called <code>koconverter</code>. See <code>koconverter --help</code> for more information."
 );
 
 $faq->addQuestion("Wow! The application XYZ writes XML, too! Does that mean I can easily read those documents with KOffice?",
-"<p>No, unfortunately not; you still need a filter. Think of XML as a very base,
+"No, unfortunately not; you still need a filter. Think of XML as a very base,
 general markup language which allows you to \"create your own markup language\".
 So it's more precise to say, the KOffice applications use a file format
 thats based on XML. For the other application, it will be another file format based on
-XML.</p>"
+XML."
 );
 
 $faq->addQuestion("Which international text encodings does KOffice support?",
-"<p>KOffice uses Unicode everywhere. However this unfortunately do not mean that every language will display well.</p>"
+"KOffice uses Unicode everywhere. However this unfortunately do not mean that every language will display well."
 );
 
 $faq->addQuestion("Does KOffice support languages that write right to left?",
-"<p>KOffice supports languages written from right to left. Left-to-right text mixed in right-to-left text works too.
-However we have not any developer that can write such languages, so any help is welcome.</p>"
+"KOffice supports languages written from right to left. Left-to-right text mixed in right-to-left text works too.
+However we have not any developer that can write such languages, so any help is welcome."
 );
 
 $faq->addQuestion("Does KOffice support languages that write top to bottom?",
-"<p>No, sorry! Anybody would could help us to write the code for that would be welcomed!</p>"
+"No, sorry! Anybody would could help us to write the code for that would be welcomed!"
 );
 
 $faq->addQuestion("Does KOffice support Indic scripts?",
-"<p>No, sorry, not yet! Especially KWord and KPresenter do not use Qt directly for drawing text
+"No, sorry, not yet! Especially KWord and KPresenter do not use Qt directly for drawing text
 and therefore the support for Indic script that is in Qt 3.2 has no effect in KOffice 1.2 or 1.3.
-Of course, help would be welcomed in this case too.</p>"
+Of course, help would be welcomed in this case too."
 );
 
 
 $faq->addSection("Problems common to all KOffice applications");
 
 $faq->addQuestion("In printout, KOffice replaces some of my fonts with different fonts!",
-"<p>[Thanks to Donovan Rebbechi] To make fonts printable to KOffice, the fonts in question need
+"[Thanks to Donovan Rebbechi] To make fonts printable to KOffice, the fonts in question need
  to be added to the ghostscript fontmap file, so ghostscript can find the fonts. This applies
  to TrueType as well as Type1 fonts. As KOffice doesn't necessarily use the correct ghostscript font
  names, it (respectively Qt) tries to guess them and sometimes fails on this task. This problem
@@ -379,12 +379,12 @@ $faq->addQuestion("In printout, KOffice replaces some of my fonts with different
  precede the fonts. </p>
 <para>Donovan has also provided <a href=\"http://koffice.kde.org/tools/Fontmap.ms\">fontmap entries</a> for the widely used Microsoft Web Fonts.
  Just append them to your font map and fix the paths.</p>
-<p>For more information, please see the <a href=\"http://pegasus.rutgers.edu/~elflord/font_howto/\">Font HOWTO</a>.</p>"
+<p>For more information, please see the <a href=\"http://pegasus.rutgers.edu/~elflord/font_howto/\">Font HOWTO</a>."
 );
 
 $faq->addQuestion("Why are bitmap fonts not supported?",
-"<p>Bitmap fonts offer too few data to be printed correctly or to allow
-WYSIWYG (\"What You See Is What You Get\".)</p>"
+"Bitmap fonts offer too few data to be printed correctly or to allow
+WYSIWYG (\"What You See Is What You Get\".)"
 );
 
 
@@ -392,12 +392,12 @@ $faq->addSection("KWord");
 
 //CHECK
 $faq->addQuestion("What is KWord?",
-"<p>KWord is the word processor of KOffice. KWord is part of the stable releases of KOffice.</p>
+"KWord is the word processor of KOffice. KWord is part of the stable releases of KOffice.</p>
 <p>Internally, KWord works with frames and offers two modes: text-oriented and page-oriented.</p>
 <p>In the page-oriented mode, KWord handles like a DTP program. You can create frames,
 position them where you want, connect them together and so on.</p>
 <p>In the text-oriented mode, KWord handles like a normal word processor. No need to worry about
-having to create any frame before typing your text!</p>"
+having to create any frame before typing your text!"
 );
 /*
 <qandaentry><question><para> What is &KWord;?</para></question><answer>
@@ -423,22 +423,22 @@ This doesn't make the creation of a simple letter less easy than with other
 */
 
 $faq->addQuestion("Can I write my letter / papers / master thesis with KWord?",
-"<p>Yes, some people have made very large documents with KWord. Just be careful that KWord has a known
-problem with multi-page tables, which will probably not fixed before the release of KOffice 1.3.</p>"
+"Yes, some people have made very large documents with KWord. Just be careful that KWord has a known
+problem with multi-page tables, which will probably not fixed before the release of KOffice 1.3."
 );
 
 $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter, RTF... ?",
-"<p>Yes, there are filters for KWord. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
+"Yes, there are filters for KWord. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
 <p>Some filters are not always working well, as implementing a filter depends on the available documentation
 of the file format.</p>
 <p>Please note that in KOffice 1.3, it is recommended to save as RTF (Rich Text Format) to exchange with other word
-processors!</p>"
+processors!"
 );
 
 $faq->addSection("KSpread");
 
 $faq->addQuestion("What is KSpread?",
-"<p>KSpread is the spread sheet application of the KOffice. KSpread is part of the stable releases of KOffice.</p>"
+"KSpread is the spread sheet application of the KOffice. KSpread is part of the stable releases of KOffice."
 );
 
 // FAQ
@@ -452,8 +452,8 @@ KSpread.</para>
 */
 
 $faq->addQuestion("Are there import filters for OpenOffice Calc, MS Excel, StarCalc... ?",
-"<p>Yes, there are filters for KSpread. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
-<p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format.</p>"
+"Yes, there are filters for KSpread. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
+<p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format."
 );
 
 
@@ -461,8 +461,8 @@ $faq->addSection("KPresenter");
 
 //CHECK
 $faq->addQuestion("What is KPresenter?",
-"<p>KPresenter is the presentation application of the KOffice. KPresenter is part of the stable releases of KOffice.</p>
-<p>You can use it for doing screen presentations or transparencies.</p>"
+"KPresenter is the presentation application of the KOffice. KPresenter is part of the stable releases of KOffice.</p>
+<p>You can use it for doing screen presentations or transparencies."
 );
 /*
 <qandaentry><question><para> What is &KPresenter;?</para></question><answer>
@@ -473,8 +473,8 @@ KPresenter is the presentation application of the &KOffice;, similar to MS
 */
 
 $faq->addQuestion("Are there import filters for OpenOffice Impress...?",
-"<p>Yes, there are filters for KPresenter. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
-<p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format.</p>"
+"Yes, there are filters for KPresenter. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
+<p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format."
 );
 
 
@@ -482,7 +482,7 @@ $faq->addSection("Karbon14");
 
 //CHECK
 $faq->addQuestion("What is Karbon14?",
-"<p>Karbon14 is a vector graphics application. Karbon14 is part of the stable releases of KOffice."
+"Karbon14 is a vector graphics application. Karbon14 is part of the stable releases of KOffice."
 );
 /*
 <answer><para>
@@ -495,17 +495,17 @@ application.
 
 $faq->addQuestion("But was the vector graphic application not Kontour?",
 "Kontour used to be a vector drawing program. This program was not being actively maintained anymore
-and was finally removed from KOffice in the year 2003. Karbon14 has taken its place.</p>"
+and was finally removed from KOffice in the year 2003. Karbon14 has taken its place."
 );
 
 $faq->addQuestion("Are there filters?",
-"<p>Yes, there are filters. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
-<p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format.</p>"
+"Yes, there are filters. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
+<p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format."
 );
 
 $faq->addQuestion("But then what can I do with my old Kontour files?",
-"<p>Karbon14 has an import filter for Kontour files. However Karbon14 has no filter to save in the
-former Kontour file format.</p>"
+"Karbon14 has an import filter for Kontour files. However Karbon14 has no filter to save in the
+former Kontour file format."
 );
 
 //CHECK
@@ -567,17 +567,17 @@ Both &KChart; and &KDiagram; were &KOffice; parts for generating diagrams from d
 $faq->addSection("Krita");
 
 $faq->addQuestion("What is Krita?",
-"<p>Krita is an image processor for KOffice, which should be suitable for all your image creation and editing needs.</p>
-<p><em>Please note that Krita is not part of KOffice stable releases yet.</em></p>"
+"Krita is an image processor for KOffice, which should be suitable for all your image creation and editing needs.</p>
+<p><em>Please note that Krita is not part of KOffice stable releases yet.</em>"
 );
 
 $faq->addSection("Contributing to KOffice");
 
 $faq->addQuestion("I like this project! How can I contribute?",
-"<p>Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
+"Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
 and tell where you would want to help!</p>
 <p>Please look also at
-<a href=\"http://www.koffice.org/getinvolved/\">\"Get Involved?\"<a>!</p>"
+<a href=\"http://www.koffice.org/getinvolved/\">\"Get Involved?\"<a>!"
 );
 
 
