@@ -84,8 +84,13 @@ use constant LANGUAGES =>
     "zu" => "Zulu"
 };
 
+# print header
 print '<table border="0" cellpadding="4" cellspacing="0">'."\n";
-print '<tr valign="top"><th align="left">Location</th><th align="left">Description</th><th align="left">MD5&nbsp;Sum</th></tr>'."\n";
+print '<tr>';
+print '<th align="left">Description</th>';
+print '<th align="left">Location</th>';
+print '<th align="left">MD5&nbsp;Sum</th>';
+print '</tr>'."\n";
 
 while ( <STDIN> )
 {
@@ -98,7 +103,6 @@ while ( <STDIN> )
         $package =~ /^koffice-i18n-([0-9a-zA-Z_]+)-/ ;
         if ( $1 cmp "" )
         {
-            ### TODO: transform to language name
             $description = LANGUAGES->{$1};
             if ( ! $description cmp "" )
             {
@@ -121,9 +125,10 @@ while ( <STDIN> )
         $description = $description . " (as XDelta)";
     }
     
-    print '<tr valign="top"><td><a href="http://download.kde.org/' . $STATUS . '/koffice-' . $VERSION . '/src/' . $package . '">'."\n";
-    print $package . '</a></td>'."\n";
+    print '<tr>';
     print "<td>$description</td>\n";
+    print '<td><a href="http://download.kde.org/' . $STATUS . '/koffice-' . $VERSION . '/src/' . $package . '">'."\n";
+    print $package . '</a></td>'."\n";
     print '<td><tt>' . $md5sum . '</tt></td></tr>'."\n";
 }
 print '</table>'."\n";
