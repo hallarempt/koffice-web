@@ -1,12 +1,10 @@
 <?php
+  $page_title="KPresenter Features";
+  $site_root='../';
+  include("koffice.inc");
   include("header.inc");
 ?>
 
-<html>
-  <head>
-    <meta name="generator" content="HTML Tidy, see www.w3.org" />
-    <title></title>
-  </head>
 
   <body>
     <h2>KPresenter - [implemented features]</h2>
@@ -230,12 +228,7 @@
     as a pixmapobject, else it's opened in a textobject).</p>
     <hr noshade="noshade" size="1" />
 
-    <center>
-      <font size="-1">Maintained by the <a
-      href="mailto:koffice@kde.org">KOffice Web</a> team. Last
-      modified February 19, 2001.</font>
-    </center>
-    <?php include("footer.inc"); ?>
-  </body>
-</html>
+<?php
+  include("footer.inc");
+?>
 
