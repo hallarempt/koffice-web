@@ -46,7 +46,7 @@
     <li>a Presentations Structure Viewer</li>
     </ul>
 
-    <p>You can find some of the presentations that KPresenter has been used for: <a href="http://www.kde.org/kdeslides/index.html">http://www.kde.org/kdeslides/index.html</a>.</p>
+    <p>You can find some of the presentations that KPresenter has been used for: <a href="http://www.kde.org/kdeslides/">http://www.kde.org/kdeslides/</a>.</p>
 
 <?php
   include("footer.inc");
