@@ -18,8 +18,8 @@
   $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
   $appinfo->addContributor("Patrick Julien", "freak@codepimps.org");
   $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
-  $appinfo->addContributor("Sven Langkamp", "<longamp@reallygood.de>");
-  $appinfo->addContributor("Cyrille Berger", "<cyb@lepi.org>");
+  $appinfo->addContributor("Sven Langkamp", "longamp@reallygood.de");
+  $appinfo->addContributor("Cyrille Berger", "cyb@lepi.org");
 
   $appinfo->show();
 ?>
