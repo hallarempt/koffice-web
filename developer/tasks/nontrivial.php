@@ -41,7 +41,7 @@ want to be implemented</p>
     </li>
     <li><ins>
         <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
-        warning if referenced cells are removed (delete row/column) (Difficulty: ****; Sharability: *****)
+        "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
     </ins></li>
     <li><ins>
         <a href="http://bugs.kde.org/show_bug.cgi?id=75532">Bug #75532</a>:
