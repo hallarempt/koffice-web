@@ -14,9 +14,11 @@ Of course, you can ask for having that write protection removed site by site,
 for example for KOffice.</p>
 
 <p>The <a href="http://www.koffice.org">site itself</a> is updated
-regularly, normally every half an hour, from www/areas/koffice.
+from www/areas/koffice. The update happens regularly, normally every two hours,
+however often only one time per day.
 So when you commit into www, it can take a certain delay before
-the commit really appears on the web site.</p>
+the commit really appears on the web site.
+</p>
 
 <h2>Applying For Removing The Write Protection</h2>
 
@@ -40,6 +42,11 @@ www/areas/koffice/krita) are more oriented to the users.</p>
 there may be application dependant information, like for example
 www/areas/koffice/developer/krita, in this case for more 
 developer-oriented information.</p>
+
+<h2>Technical Problems</h2>
+
+<p>In case of technical problems with the KOffice Web Site or with updating
+to it, please contact Thomas Zander.</p>
 
 <?php
    include("footer.inc");
