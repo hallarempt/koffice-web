@@ -157,7 +157,8 @@ EHoAn1anvr8Qc0wSE3bAMD2FiRbhbOLf
 </pre>
 
 <p><a id="lukas" name="lukas">
-Starting from version 1.2.90 (KOffice 1.3 beta1), the PGP key is:
+Starting from version 1.2.90 (KOffice 1.3 beta1),
+<a href="#goutte">except for KOffice 1.3.2</a>, the PGP key is:
 </a></p>
 
 <pre>
@@ -194,5 +195,42 @@ NvQPqA==
 =+BGq
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
+
+<p><a id="goutte" name="goutte">
+For KOffice 1.3.2, the PGP key is:
+</a></p>
+
+<pre>
+pub  1024D/31338606 2004-07-02 Nicolas GOUTTE (KDE/KOffice) &lt;goutte@kde.org&gt;
+     Key fingerprint = 8DC2 D230 05ED BB17 C9E2  0FAC 846C 6003 3133 8606
+sub  1024g/04F73FB9 2004-07-02
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.2.2 (GNU/Linux)
+
+mQGiBEDlttMRBADYGnrDnBpg8IpMt1VFB6gxKzB/v0vjJIeT0Ul0U4m89KcxAuUy
+HnuHVWVNWngcXvBc+pwphCt1orylIxIYiaLAs/ZlbZBEI/00QdQqDLHXavzOBBRK
+zsJvNAqW/mf0/PmuiD4lj/3FxhUQH3sXUDlXyP7HIV/ypnhmM6mBEo5FswCgtyRU
+U69B6NFfC/MNoFJ4W+tiTzUD/jeMzzs7UJES8emJ9ZwxWbi8Z9TwKibZ6+BJpUPE
+1djfLRxUzSOOZcGV3oqaD9m0SxbcIN14M6G0y9e6XVZNTsgJe+5498cf1z4SWQjX
+eRCxgZQnx1ueIKm72rP0spGRjoQC+9EKXZLw246FIZpVChrOLbBLcqeZAYdMgovz
+OoZjA/4vvew9akmeBxPZHITDvInKloh+ZOdjYbXielgflFMlA34rzguGh2zKnLX6
+PKk50lI7IN1U2zck1CAlR97UIQOjSt0pOjeC34fpkTMHtqUyNith97s4zEIveb1z
+AEMGgoXEQglb0DDfNimHzhdmDhH6rywrzFtOwd5M/eL7njBrPLQtTmljb2xhcyBH
+T1VUVEUgKEtERS9LT2ZmaWNlKSA8Z291dHRlQGtkZS5vcmc+iFsEExECABsFAkDl
+ttMGCwkIBwMCAxUCAwMWAgECHgECF4AACgkQhGxgAzEzhgYCwQCfVjTPHNwIfcRv
+dBgrK3zDEU9vnGoAn1sHbl8qU7TlU7zx6mj0h2a1wziWuQENBEDltuMQBADOq49D
+tZXxWQE06dcNfMHSwAp86DXND9HpY4b3qdePXpTw9FNfVtGd0EYXPi4W20SLCq7R
+WBN3Ovq1FgERLbguYnnpMFMZR7p2AiWWl9rTdbGxmyEw5RG83F+KL9RPZNcrimu9
+cIfXsiEIprSoM82VTUCMrCmYg1oZ48/e4bLQYwADBQP9Eb5yT0HezBCUeCR1Ye/I
+HR2vvI4ltZEZfsa2eE4rH1end+1FtaPnc5ehfBu6R2jSANDt9WClsDspOZ2mLHPn
+tuqjvhOIcZSpUu42B3awSOh8g2kdDa0nTiQ5xV+l9G+qHEz4zOXe0qsn3YA49Cw9
+AFQ+QHww4GoeJiEREomiKFaIRgQYEQIABgUCQOW24wAKCRCEbGADMTOGBuugAKCs
+g/NoA12DlAlMXcxyLTVATQhKCACeJ9u2kt52Fd/Pkx2UaW6nocHI2hM=
+=fCap
+-----END PGP PUBLIC KEY BLOCK-----
+
+</pre>
+
 
 <?php include("footer.inc"); ?>
