@@ -10,7 +10,7 @@
    
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
-     <li><a href="fileformat">Information about KOffice's file formats</a></li>
+     <li><a href="fileformat">Information about KOffice's file formats</a> (also useful for filters)</li>
      <li><a href="filters">Developing filters</a></li>
      <li><a href="apidocmain.php">KOffice API reference</a></li>
      <li><a href="website">How to develop for KOffice's web site</a></li>
