@@ -154,11 +154,11 @@ DTP frames of different widths)</li>
 <li>Fixed KPR 'forgetting' solid line attribute of text frames (#61343)</li>
 <li>Fixed pasting text objects with UTF-8 text</li>
 <li>Snap to Grid function aligns relatively, not absolutely (#56181)</li>
-<li>Fixed problem with cutting&pasting a vertically centred text frame (#61330)</li>
+<li>Fixed problem with cutting&pasting a vertically centered text frame (#61330)</li>
 <li>Fixed cursor not blinking in some cases</li>
 <li>Fixed "blinking cursor erases formatting characters" bug</li>
 <li>"Adjust object to contents" works as intended now</li>
-<li>Clearified purpose of the 'Notebar' (#63037)</li>
+<li>Clarified purpose of the 'Notebar' (#63037)</li>
 <li>Fixed crashed when inserting the variable
   "section title" (#61735)</li>
 <li>Fixed embedded KSpread object getting  wrong size (#33233)</li>
@@ -231,14 +231,14 @@ DTP frames of different widths)</li>
     <li>Zoom support on printout</li>
   </ul>
 <li>New direction mode when pressing Enter: you can jump now to the first cell of the next row</li>
-<li>Hierachical style support</li>
+<li>Hierarchical style support</li>
   <ul>
     <li>builtin styles</li>
     <li>creation of custom styles</li>
     <li>creation of custom styles using a cell as template</li>
   </ul>
 <li>Insert special characters</li>
-<li>Smaller, more efficent file format</li>
+<li>Smaller, more efficient file format</li>
 <li>Many performance enhancements</li>
 <li>More powerful conditional cell attributes (you can assign a whole style if condition matches)</li>
 <li>Conditions can be used for text and numbers now (was numbers only before)</li>
@@ -365,7 +365,7 @@ variance, pow, isnottext, isnum, effective</p>
 <h3><a name="kivio">Kivio</a></h3>
 <ul>
 <li>GUI cleanup</li>
-<li>Better KOffice intergation</li>
+<li>Better KOffice integration</li>
 <li>Implemented real clipboard support</li>
 <li>Added more stencils</li>
 <li>Improved diastencil support</li>
@@ -375,7 +375,7 @@ variance, pow, isnottext, isnum, effective</p>
 </ul>
 <em>Fixes:</em>
 <ul>
-<li>Fixed embeding of kivio in other KOffice app</li>
+<li>Fixed embedding of kivio in other KOffice app</li>
 <li>Fixed layout problem at start up when using a template</li>
 <li>Fixed deletion of connected connectors</li>
 <li>Fixed copying text in other codecs then latin1</li>
@@ -406,10 +406,10 @@ variance, pow, isnottext, isnum, effective</p>
 <li>Added option to perform transformations on cloned shapes
     while leaving original intact</li>
 <li>New tool controller</li>
-<li>Refactoring flattenpath commmand after WMF filter changes</li>
+<li>Refactoring flattenpath command after WMF filter changes</li>
 <li>Zooming fix</li>
 <li>SVG exporting uses document dimension, not dimension of the active selection</li>
-<li>New style docker introduced, with dragable cliparts</li>
+<li>New style docker introduced, with dragable clipart</li>
 <li>Added aspect-ratio keeping way of scaling for select tool</li>
 <li>Various ui tweaks, including new icons</li>
 <li>Improved behaviour for strokefill preview widget</li>
