@@ -13,17 +13,15 @@
     <p>
      <ul>
       <li><a href="1.2">Filter status of KOffice 1.3</a></li>
+      <li><a href="1_3_1">Filter status of KOffice 1.3.1</a></li>
      </ul>
     </p>
     
-    <p>Please note that the filter status for KOffice 1.2 is not available
-    anymore, as there were too many errors in it.</p>
-
     <h2>Stable branches</h2>
     
     <p>
      <ul>
-      <li><a href="1_3_1">Filter status of KOffice 1.3.x</a></li>
+      <li><a href="1_3_1"><!-- No special status for the branch currently -->Filter status of KOffice 1.3.x</a></li>
      </ul>
     </p>
 
