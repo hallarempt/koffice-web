@@ -249,6 +249,11 @@ $faq->addQuestion("The file configure is missing!",
 "<p>Please start with <code>make -f Makefile.cvs</code>. It will then create the file configure.</p>"
 );
 
+$faq->addQuestion("I have configured with --enable-final but I can only get a compile error",
+"<p>As the developer cannot really use --enable-final, it gets easily broken.
+So please try to compile without --enable-final before reporting the problem
+to the <a href=\"mailto:koffice@kde.org\">koffice mailing list</a>!</p>"
+);
 
 $faq->addSection("KOffice in general");
 
