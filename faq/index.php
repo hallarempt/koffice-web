@@ -185,7 +185,7 @@ $faq->addQuestion("How do I install KOffice if I'm not root?",
 "You've got to pass some directory where you've got write access (e.g. in your home directory)
  as prefix to configure. So you should type something like: <code>./configure --prefix=/home/jdoe/foo/bar</code>
  plus of course other options you might want to pass to configure. Then of course you
- don't have to do <code>su -c "make install"</code>, but just <code>make install</code>.</p>"
+ don't have to do <code>su -c \"make install\"</code>, but just <code>make install</code>.</p>"
 );
 
 // FAQ:  Where can I find information on compiling Qt or the KDE libs?
