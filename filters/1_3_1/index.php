@@ -10,22 +10,22 @@
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
  and some not even done. The status of the current filters is listed below, sorted per
  application.</p>
-  <p>Note: this document is about <b><?php print $kofficeversiondescription;?></b>.</p>
+  <p>Note: this document is about <strong><?php print $kofficeversiondescription;?></strong>.</p>
   <hr />
   <h3>Generic (for all KOffice applications)</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">
-        <h3>From/To</h3>
+        <strong>From/To</strong>
       </th>
       <th width="50%" align="left" valign="top">
-        <b>Notes</b>
+        <strong>Notes</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Import</b>
+        <strong>Import</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Export</b>
+        <strong>Export</strong>
       </th>
     </tr>
     <tr>
@@ -39,16 +39,16 @@
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">
-        <h3>From/To</h3>
+        <strong>From/To</strong>
       </th>
       <th width="50%" align="left" valign="top">
-        <b>Notes</b>
+        <strong>Notes</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Import</b>
+        <strong>Import</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Export</b>
+        <strong>Export</strong>
       </th>
     </tr>
     <tr>
@@ -194,16 +194,16 @@
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">
-        <h3>From/To</h3>
+        <strong>From/To</strong>
       </th>
       <th width="50%" align="left" valign="top">
-        <b>Notes</b>
+        <strong>Notes</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Import</b>
+        <strong>Import</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Export</b>
+        <strong>Export</strong>
       </th>
     </tr>
     <tr>
@@ -266,16 +266,16 @@
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">
-        <h3>From/To</h3>
+        <strong>From/To</strong>
       </th>
       <th width="50%" align="left" valign="top">
-        <b>Notes</b>
+        <strong>Notes</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Import</b>
+        <strong>Import</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Export</b>
+        <strong>Export</strong>
       </th>
     </tr>
     <tr>
@@ -308,16 +308,16 @@
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">
-        <h3>From/To</h3>
+        <strong>From/To</strong>
       </th>
       <th width="50%" align="left" valign="top">
-        <b>Notes</b>
+        <strong>Notes</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Import</b>
+        <strong>Import</strong>
       </th>
       <th width="10%" align="left" valign="top">
-        <b>Export</b>
+        <strong>Export</strong>
       </th>
     </tr>
     <tr>
@@ -392,56 +392,56 @@
   <table>
     <tr>
       <td valign="top">
-        <b>*****</b>
+        <strong>*****</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">The filter is stable and works well.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>****</b>
+        <strong>****</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">The filter generally works well.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>***</b>
+        <strong>***</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">The filter generally works well, however some features might be missing or might not work correctly yet.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>**</b>
+        <strong>**</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">The filter generally works although it is not finished, and it may suffer from some unstability.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>*</b>
+        <strong>*</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">Work has begun on the filter although the code is still at an early stage of development, and does not work properly.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>+</b>
+        <strong>+</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">An author has volunteered to work on the filter, although the code does not actually exist yet, or is at a very early stage of development.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>-</b>
+        <strong>-</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">The filter does not currently exist, and nobody is working on it.</td>
     </tr>
     <tr>
       <td valign="top">
-        <b>?</b>
+        <strong>?</strong>
       </td>
       <td valign="top"> -- </td>
       <td valign="top">The status of this filter is unknown, as its development has been abandoned.</td>
@@ -449,7 +449,7 @@
   </table>
   <h2>Joining the developers</h2>
   <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
-  <p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
+  <p>Would <em>you</em> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
 </div><?php 
   include("footer.inc");
