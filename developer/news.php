@@ -6,7 +6,8 @@
   include("header.inc");
 
   // Document
-  kde_general_news("./news.rdf", 25, false);
+  include("./rss2.inc");
+  kde_general_news_rss2("./news.rdf", 25, false);
    
   // Footer
   include("footer.inc");

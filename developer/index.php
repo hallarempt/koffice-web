@@ -29,7 +29,8 @@
    </ul>
 
 <?php
- kde_general_news("./news.rdf", 5, true);
+ include("./rss2.inc");
+ kde_general_news_rss2("./news.rdf", 5, true);
 ?>
 
 <?php
