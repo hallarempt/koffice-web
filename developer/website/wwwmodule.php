@@ -25,11 +25,16 @@ the commit really appears on the web site.
 a part of <a href="/">www.koffice.org<a> or if you plan
 to commit from time to time in the <a href="/">KOffice web site</a>, you have to ask the
 <a href="mailto:sysadmin@office.kde.org">Sysadmins</a>.</p>
-<!-- TODO: can be asked when asking a KDE CVS account -->
 
 <p>Tell on which part of KOffice.org you would like to work and
 that you would like to have write permission on www/areas/koffice .
 Do not forget to give your account name.</p>
+
+<p>If you have not an account for KDE CVS yet, 
+<a href="/developer/generalinfo/applycvsaccount.php">see how to apply for one</a>.
+You can ask for removing the write protection for you in the same message
+than for applying for a CVS account.
+</p>
 
 <h2>How Is Site Built</h2>
 <!-- TODO: this is provisory -->
