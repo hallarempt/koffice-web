@@ -16,11 +16,11 @@
   release of KOffice 1.3.3.
 </p>
 
-<?php /*
 <h3><a name="i18n">Languages</a></h3>
+<p><small>Only important changes are listed here.</small></p>
 <ul>
+  <li>Temporary fix for Danish documentation to be processed on KDE 3.1.x</li>
 </ul>
-*/ ?>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <?php /*
