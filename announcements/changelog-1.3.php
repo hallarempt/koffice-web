@@ -28,7 +28,7 @@
 <li>Fixed crash in table operations (#66349)</li>
 <li>Fixed crash in table iterator</li>
 <li>Fixed "edit frameset" for tables in doc structure panel (#67084)</li>
-<li>Save "no underline" explicitely if the paraglayout says "underline" but the user removed the underline (#67735)</li>
+<li>Save "no underline" explicitly if the paragraph layout says "underline" but the user removed the underline (#67735)</li>
 <li>Fixed successive image DnD</li>
 </ul>
 
@@ -106,7 +106,7 @@
 <ul>
 <li>allow non-ASCII style names</li>
 <li>fix header/footer when they are the same for all pages</li>
-<li>allow all combinaisons of first, odd, even page headers/footers</li>
+<li>allow all combinations of first, odd, even page headers/footers</li>
 </ul>
 
 <em>KWord's OOWriter export filter:</em>
