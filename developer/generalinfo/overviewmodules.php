@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-Draft $Date$
+<p>Draft $Date$</p>
 
 <h2>Abstract</h2>
 
@@ -26,7 +26,7 @@ Draft $Date$
       <td>qt-copy</td>
       <td>Qt</td>
       <td>Qt</td>
-      <td>&nbsp;</td>
+      <td>Qt Designer</td>
     </tr>
     <tr>
       <td>arts</td>
@@ -153,12 +153,6 @@ Draft $Date$
       <td>HTML Editor</td>
       <td>KDE?</td>
       <td>Quanta</td>
-    </tr>
-    <tr>
-      <td>koffice</td>
-      <td>KOffice</td>
-      <td>KOffice</td>
-      <td>KWord</td>
     </tr>
     <tr>
       <td>kdeextragear-1</td>

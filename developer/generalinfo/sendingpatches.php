@@ -35,7 +35,7 @@ as probably someone else has done other modifications to the original file in th
 modified file could not replace it.</p>
 
 <p>That is why patches exist. Patches list the modifications, the line numbers and a few other useful information
-to be able to put that patch back into code (This is called "patching" or also "applying a patch.")</p>
+to be able to put that patch back into code (which is called "patching" or also "applying a patch.")</p>
 
 <p>The main tool for creating patches is a tool called <tt>diff</tt>, which makes the difference
 between two files. This tool has a mode called "unified diff", which KDE uses. Unified diffs have
@@ -169,7 +169,7 @@ code.</p>
 <p>If your patch was not accepted, you could work further on it. May be you could discuss the problem on the mailing list.</p>
 
 <p>If a developer wants a few changes, then work on the code to make the changes according to the critic. If you
-need help becuase you do not understand how to do the needed change, then asking it on the mailing list.</p>
+need help because you do not understand how to do the needed change, then ask it on the mailing list.</p>
 
 <p>If your patch was accepted, congratulation!</p>
 

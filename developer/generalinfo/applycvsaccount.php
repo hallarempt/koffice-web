@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-$Date$
+<p>$Date$</p>
 
 <h2>Abstract</h2>
 
