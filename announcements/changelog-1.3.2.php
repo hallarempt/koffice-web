@@ -47,7 +47,8 @@
 
 <h3><a name="kword">KWord</a></h3>
 <ul>
-<li>### TODO</li>
+<li>Fixed wrong printing of frame borders due to excessive clipping (#81222)</li>
+<li>Turning off the "Create backup file" option now works.</li>
 </ul>
 
 
