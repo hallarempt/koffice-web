@@ -47,11 +47,15 @@
 <ul>
 </ul>
 
-<?php /*
+
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
+  <li>
+    Compile again with KDE 3.1
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=83972">Part of bug #89372</a>)
+  </li>
 </ul>
-*/ ?>
+
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
