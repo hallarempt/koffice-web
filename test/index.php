@@ -1,7 +1,7 @@
 <?php
   $site_root = "../";
-  $page_title = "KOffice 1.4 Feature Plan";
-  include 'koffice.inc'
+  $page_title = "Test";
+  include 'koffice.inc';
   include 'header.inc';
 ?>
 
