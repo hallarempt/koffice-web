@@ -23,7 +23,8 @@ www/areas/koffice</p>
     <li><ins>Check and fix spelling</ins></li>
 </ul>
 
-<p>Note: some of the tasks could be done on all KDE Web sites.</p>
+<p>Note: some of the tasks could be done on all KDE Web sites.
+Contact <a href="http://www.kde.org/mailinglists/index.php#kde-www">the kde-www mailing list</a> in that case.</p>
 
 <?php
    include("footer.inc");

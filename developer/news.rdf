@@ -9,17 +9,26 @@
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
 
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Thu, 11 Mar 2004 17:28 UT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2004 00:20 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
 
 <item>
+<title>New Non-Trivial Task List</title>
+<pubDate>Fri, 12 Mar 2004 00:20 UT</pubDate>
+<description>
+A new task list exists now, listing non-trivial task to be done in KOffice:
+&lt;li&gt;&lt;a href="http://www.koffice.org/developer/tasks/nontrivial.php"&gt;the KOffice Non-Trivial Task List&lt;/a&gt;&lt;/li&gt;
+</description>
+</item>
+
+<item>
 <title>KOffice Quality Wiki</title>
 <pubDate>Thu, 11 Mar 2004 17:24 UT</pubDate>
 <description>
-A Wiki page about Quality in KOffice was created:
-&lt;a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+Koffice"&gt;Quality+Team+KDE+Koffice&lt;/a&gt;
+A Wiki page about Quality in KOffice has been created:
+&lt;a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+Koffice"&gt;Quality Team KDE Koffice&lt;/a&gt;
 </description>
 </item>
 
