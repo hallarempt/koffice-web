@@ -111,7 +111,7 @@ $faq->addQuestion("How do I develop a filter?", "
         <li>Believe it or not, but this is nearly all Makefile/build system hackery
             you have to do. <code>cd</code> back to the filters/template directory and
             call <code>make</code>. This should start compilation of that
-            small, no-op template. If this step isn't success, please
+            small, no-op template. If this step isn't successful, please
             write a mail to
             <a href=\"mailto:koffice@mail.kde.org\">&lt;koffice@mail.kde.org&gt;</a>.</li>
         <li>Please rename all <i>foo</i> names to match the name of your
