@@ -7,12 +7,21 @@
     <language>en-us</language>
     <webMaster>webmaster@kde.org</webMaster>
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
-    
+
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Sat, 06 Mar 2004 11:42 UT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2004 17:28 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>KOffice Quality Wiki</title>
+<pubDate>Thu, 11 Mar 2004 17:24 UT</pubDate>
+<description>
+A Wiki page about Quality in KOffice was created:
+&lt;a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+Koffice"&gt;Quality+Team+KDE+Koffice&lt;/a&gt;
+</description>
+</item>
 
 <item>
 <title>New Task Lists</title>
@@ -20,8 +29,8 @@
 <description>
 There are 2 new task lists available.
 &lt;ul&gt;
- &lt;li&gt;&lta href="http://www.koffice.org/developer/tasks">the KOffice Task List&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lta href="http://www.koffice.org/developer/website/tasks.php">the Web Task List&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.koffice.org/developer/tasks"&gt;the KOffice Task List&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="http://www.koffice.org/developer/website/tasks.php"&gt;the Web Task List&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
