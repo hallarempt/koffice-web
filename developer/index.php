@@ -35,9 +35,10 @@
      <li><a href="website/tasks.php">Web Task List</a> (Volunteers needed!)</li>
    </ul>
 
-   <h2>External Sites About KOffice</h2>
+   <h2>External Sites And Pages About KOffice</h2>
    
    <ul>
+     <li><a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+Koffice">KOffice Quality Wiki</a></li>
      <li><a href="http://www.kexi-project.org/">Kexi Project</a></li>
    </ul>
 
