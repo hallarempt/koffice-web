@@ -17,7 +17,7 @@
   $appinfo->addContributor("Lucijan Busch", "lucijan@kde.org");
   $appinfo->addContributor("Jaros&#322;aw Staniek", "js @ iidea . pl");
   $appinfo->addContributor("Adam Pigg", "adam @ piggz . fsnet . co . uk");
-  $appinfo->addContributor("Cédric Pasteur", "cedric . pasteur @ free . fr");
+  $appinfo->addContributor("C&eacute;dric Pasteur", "cedric . pasteur @ free . fr");
   $appinfo->show();
 ?>
 
