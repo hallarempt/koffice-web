@@ -127,6 +127,10 @@
 <li>Fix writting 
   (<a href="http://bugs.kde.org/show_bug.cgi?id=66983">#66983</a>)</li>
 <li>Generate UTF-8</li>
+  <li>
+    Fix export of sheets with more than 255 rows or columns
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=75781">Variant of bug #75781</a>)
+  </li>
 </ul>
 
 <h4>KSpread's MS Excel import filter:</h4>
