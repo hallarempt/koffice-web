@@ -6,7 +6,7 @@
 ?>
 
 <p>
- This FAQ tries to answer some frequently asked questions about &KOffice;
+ This FAQ tries to answer some frequently asked questions about KOffice
  (plus some not so frequently asked ones you might find interesting anyway).
  Please: if you have a question, take a look into this FAQ first, before asking
  the developers. They're a handful of programmers who are not being paid for
@@ -82,7 +82,7 @@ like for example PIM (Personal Information Management). Some of other
 are only planned for future KOffice releases.</p>"
 );
 
-// FAQ: What is the current state of &KOffice;?
+// FAQ: What is the current state of KOffice;
 /*
 <qandaentry><question><para> What is the current state of &KOffice;?</para></question><answer>
 <para>
@@ -92,7 +92,7 @@ from the rest of KDE, so KOffice releases are not in sync with those of KDE.
 </answer></qandaentry>
 */
 
-// FAQ: Is &KOffice; stable?
+// FAQ: Is KOffice stable?
 /*
 <qandaentry><question><para> Is &KOffice; stable? </para></question><answer>
 <para>
@@ -181,7 +181,7 @@ $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources u
 );
 
 
-$faq->addQuestion("How do I install &KOffice; if I'm not root?",
+$faq->addQuestion("How do I install KOffice if I'm not root?",
 "You've got to pass some directory where you've got write access (e.g. in your home directory)
  as prefix to configure. So you should type something like: <code>./configure --prefix=/home/jdoe/foo/bar</code>
  plus of course other options you might want to pass to configure. Then of course you
@@ -274,7 +274,7 @@ The only feature similar to macros is the DCOP scripting, which has the advantag
 you to one language.</p>"
 );
 
-$faq->addQuestion("How does &KOffice; print?",
+$faq->addQuestion("How does KOffice print?",
 "<p>KOffice prints with KDE's printing system. So you can choose between a few printing systems
 like for example CUPS or lpr. KOffice applications print by using Qt's PostScript printing. This
 can unfortunately leads to limitations (like for EPS files.)</p>"
@@ -352,7 +352,7 @@ Of course help would be welcomed in this case too.</p>"
 );
 
 
-$faq->addSection("Problems common to all &KOffice; applications");
+$faq->addSection("Problems common to all KOffice applications");
 
 $faq->addQuestion("In printout, KOffice replaces some of my fonts with different fonts!",
 "<p>[Thanks to Donovan Rebbechi] To make fonts printable to KOffice, the fonts in question need
