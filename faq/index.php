@@ -38,7 +38,7 @@ a plug-in mechanism makes it possible to easily extend functionality.</p>"
 $faq->addQuestion("Who are the developers and how do I contact them?",
 "<p>The developers are listed on <a href=\"http://www.koffice.org/people.php\">the people page.</a>
 If you want to contact the developers, the best is to try to contact the developer first by
-<a href=\"mailto:koffice@kde.org\"emailing to the koffice mailing list</a>. In case of bugs or wishes,
+<a href=\"mailto:koffice@kde.org\">emailing to the koffice mailing list</a>. In case of bugs or wishes,
 please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>.</p>"
 );
 
