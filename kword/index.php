@@ -22,7 +22,7 @@
 ?>
 
 <h2>Description</h2>
-      <p>KWord is a FrameMaker-like word-processing and desktop publishing application. KWord is capable of creating demanding and professional looking documents. Whether you are a corporate or home user, production artist or student, KWord will prove a valuable and easy to use tool for all your word processing and layout needs.</p>
+      <p>KWord is a frame-based word-processing and desktop publishing application. KWord is capable of creating demanding and professional looking documents. Whether you are a corporate or home user, production artist or student, KWord will prove a valuable and easy to use tool for all your word processing and layout needs.</p>
 
       <p>KWord is a wordprocessor based on frames. This can be used to place components in precise locations, as with many professional DTP applications. KWord can also handle huge amounts of texts and allows you to do professional markup with ease.</p>
 
@@ -36,7 +36,7 @@
      <li>headers and footers (including different first page headers/footers);</li>
      <li>variables, such as page number, company name, user name, document summary, date and time or a custom variable;</li>
      <li>tables;</li>
-     <li>embedding of text frames, images and clip-art (.wmf files);</li>
+     <li>embedding of text frames, images and clip-art (.wmf and .svg files);</li>
      <li>chapter numbering;</li>
      <li>auto-generation of table of contents;</li>
      <li>auto-correction and spell checking</li>
