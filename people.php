@@ -161,6 +161,9 @@
 
       <b><a href="mailto:psn@linux.se">Peter Simonsson</a></b>
       (Kivio, Kexi)<br />
-      </p>
+      
+      <b><a href="mailto:js @ iidea . pl">Jaroslaw Staniek</a></b>
+      (Kexi)<br />
+</p>
 
 <?php include("footer.inc"); ?>

@@ -4,6 +4,9 @@
   include("koffice.inc");
   include("header.inc");
 ?>
+For actual screenshots, see <a href="http://www.kexi-project.org/screenshots.html">Kexi Project Page</a>.
+
+<h2>Older screenshots</h2>
 <?php
 $gallery = new ImageGallery("Kexi Screenshots");
 $gallery->addImage("pics/t_relations.png", "pics/relations.png", "250", "197", "[Screenshot]", 0 , "Defining database relations");
