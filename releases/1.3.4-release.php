@@ -10,7 +10,7 @@
       <p>The main goals of this release are:</p>
       <ul>
 	  <li>to fix the integer overflows in KWord's PDF import filter</li>
-	  <li>to be able to compile KOffice on KDE 3.1.5 and Qt 3.1.3 again</li>
+	  <li>to be able to compile KOffice on KDE 3.1.5 and Qt 3.1.2 again</li>
       </ul>
 
 
