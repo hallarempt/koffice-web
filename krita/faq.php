@@ -50,7 +50,7 @@ $faq->addQuestion("What Does it Do?",
 <li>masking of selected regions during painting operations (under development)</li>
 <li>user-definable brushes (under development)</li>
 <li>adjustable zoom levels (mostly complete)</li>
-<li>scaling of images, selections and layers (incomplete)
+<li>scaling of images, selections and layers (incomplete)</li>
 <li>graphical access to layer and channel information (partly complete)</li>
 <li>import/export of xcf (Gimp) image files (complete, in as far as ImageMagick supports this)</li>
 <li>embedding in other KOffice apps (needs testing)</li>
