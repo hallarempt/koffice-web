@@ -30,7 +30,7 @@
             A patch for the source package is available.
         </a> (Patch updated the 2004-10-30 16:15 UTC)<br />
         (MD5 sum:
-	  <tt>7af21706d14f2a0e65091e345438d52f</tt>
+	  <tt>b681bc6746c31f3410f20315b0075b25</tt>
 	  xpdf_security_integer_overflow.diff
         )
     </p>
