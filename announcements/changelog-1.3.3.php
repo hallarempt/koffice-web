@@ -19,7 +19,7 @@
 <h3><a name="i18n">Languages</a></h3>
 <ul>
   <li>
-    New: Welsh (cy)
+    New: Welsh (cy), complete translation
   </li>
 </ul>
 
