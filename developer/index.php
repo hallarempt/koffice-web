@@ -10,8 +10,15 @@
    
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
+     <li><a href="fileformat">Information about KOffice's file formats</a></li>
      <li><a href="filters">Developing filters</a></li>
      <li><a href="apidocmain.php">KOffice API reference</a></li>
+   </ul>
+
+   <h2>External Sites About KOffice</h2>
+   
+   <ul>
+     <li><a href="http://www.kexi-project.org/">Kexi Project</a></li>
    </ul>
 
 <?php
