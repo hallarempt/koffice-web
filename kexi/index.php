@@ -68,7 +68,8 @@ data provider for mailmerge in KWord.</p -->
 
 <h2>Current version</h2>
 
-Current Kexi version is 0.1 beta 4. See <a href="http://www.kexi-project.org/announce-0.1-beta4.html">the announcement</a>.
+Current Kexi version is 0.1 beta 5. See <a
+href="http://www.kexi-project.org/announce-0.1-beta5.html">the announcement</a>.
 
 
 <h2>Features</h2>
@@ -97,7 +98,7 @@ Current Kexi version is 0.1 beta 4. See <a href="http://www.kexi-project.org/ann
 <p>
 At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:</p>
 <ul>
- <li><a href="http://www.sqlite.org">SQLite</a> (file-based, mostly complete)</li>
+ <li><a href="http://www.sqlite.org">SQLite</a> (version 2 and 3, file-based, mostly complete)</li>
  <li><a href="http://www.postgresql.org">PostgreSQL (mostly workable)</a></li>
  <li><a href="http://www.mysql.com">MySQL (mostly workable)</a></li>
  <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (planned)</a></li>
