@@ -5,10 +5,6 @@
   include("header.inc");
 ?>
 
-<p style="border:solid red;color:red;text-align:center">
-    This document is <em>under construction</em>.<br />
-    KOffice 1.3.5 has <strong>not</strong> been released yet!
-</p>
 
 
 <p>
