@@ -13,7 +13,7 @@
 www/areas/koffice</p>
 
 <ul>
-    <li><em>No predefined web tasks available currently.</em></li>
+    <li><em>No predefined web tasks are available currently.</em></li>
 </ul>
 
 <p>Note: some of the tasks could be done on all KDE Web sites.

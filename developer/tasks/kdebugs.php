@@ -43,15 +43,6 @@ easily recognize bugs easier to fix or wishes esiaer to implement than the avera
         "JJ: Being able to specify the resolution or DPI rate for an exported image"
         (Difficulty: *; Sharability: ****)
     </li>
-    <li><del>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=76412">Bug #76412</a>:
-        "JJ: Completing dialog action does not return to the document (or dialog) window from whence dialog commenced "
-        (Difficulty: *; Sharability: *)
-    </del></li>
-    <li><del>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=82198">Bug #82198</a>:
-        "JJ: all date variables should allow to specify the date format" (Difficulty: *; Sharability: ****)
-    </dek></li>
 </ul>
 
 <p>

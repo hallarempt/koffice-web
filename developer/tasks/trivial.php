@@ -17,24 +17,16 @@ a single directory... It is more important that some part is done at all.)</p>
 <p>Note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (Some of the tasks could be done KDE-wide.)</p>
 
 <ul>
-    <li>Take the KOffice documentation and check that what is told there is what 
-    KOffice 1.3 really does. Anything not correctly documented (for example 
-    because it has changed)
-    <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a>.
-    Please note that documentation fixes for KOffice 1.3.x are done on
-    KOffice CVS HEAD, so either work with this documentation directly or verify in there
-    after you have found a problem. (Difficulty: *; Sharability: *)
-    </li>
-    
     <li>Check spelling errors in comments (Difficulty: *; Sharability: *)</li>
 
     <li>Make existing class documentation Doxygen-compatible. Some classes have already some 
     documentation but unfortunately not in Doxygen syntax. So the tasks is to 
-    change them to Doxygen syntax. (Changing to the special Doxygen comments (/** 
-    and ///) is already enough.) (Difficulty: *; Sharability: *)</li>
+    change them to Doxygen syntax.
+    <del>(Changing to the special Doxygen comments (/** and ///) is already enough.)</del>
+    (Difficulty: *; Sharability: *)</li>
     
     <li>
-    Check copyrights of source files and add missing copyright (dates and/or developers) (Difficulty: *; Sharability: *)
+    Check copyrights of source files and add missing copyrights (dates and/or developers) (Difficulty: *; Sharability: *)
     </li>
 </ul>
 
