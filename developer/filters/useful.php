@@ -123,8 +123,8 @@
 
         <tr bgcolor="#CCCCFF">
         <td rowspan="2" valign="top"><b>Adobe</b></td>
-        <td><a href="http://partners.adobe.com/asn/developer/acrosdk/docs/pdfspec.pdf">PDF</a></td>
-        <td>PDF specfication: Download it from adobe as pdf file</td>
+        <td><a href="http://partners.adobe.com/asn/tech/pdf/specifications.jsp">PDF</a></td>
+        <td>PDF specfication</td>
         </tr>
 
         <tr bgcolor="#CCCCFF">
