@@ -98,6 +98,12 @@
       <td></td>
     </tr>
     <tr>
+      <td>kdeaccessibility</td>
+      <td>Tools for disabled people</td>
+      <td>KDE</td>
+      <td>KMouth</td>
+    </tr>
+    <tr>
       <td>kdekiosk</td>
       <td>KIOSK mode tools</td>
       <td>KDE</td>
