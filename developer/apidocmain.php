@@ -12,7 +12,7 @@
    <li><a href="kofficeapidocs.tar.bz2">Download the tarball</a>
      <?php
        niceFileSize("./kofficeapidocs.tar.bz2");
-       echo date (" (Y-m-d)", filemtime("./kofficeapidocs.tar.bz2"));
+       echo gmdate (" (Y-m-d H:i)", filemtime("./kofficeapidocs.tar.bz2"));
      ?>
    </li>
    </ul>
