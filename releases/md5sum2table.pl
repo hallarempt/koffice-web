@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 
 #adjust these two variables to the current version
-$VERSION="1.3.2";
+$VERSION="1.3.3";
 $STATUS="stable";
 
 print '<table border="0" cellpadding="4" cellspacing="0">'."\n";
