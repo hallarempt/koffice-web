@@ -68,7 +68,7 @@ websites below "Family" in the left border.</p>
 
 <h2>Installing Qt and the base KDE packages</h2>
 <p>
-Qt snapshot :
+Qt snapshot :<br /><br />
 <tt>tar xvzf qt-x11-&lt;version&gt;.tar.gz</tt>
 <br /><tt>cd qt-&lt;version&gt;</tt>
 <br /><tt>export QTDIR=$PWD</tt>
@@ -76,8 +76,8 @@ Qt snapshot :
 <br /><tt>make</tt>
 </p>
 <p>
-And then for each KDE package:
-<tt>Make sure you have done the QTDIR export in the QT dir as pointed out above, this is still used!
+And then for each KDE package:<br />
+<em>Make sure you have done the QTDIR export in the QT dir as pointed out above, this is still used!</em><br /><br />
 <tt>bunzip &lt;package&gt;.tar.bz2 or cvs checkout</tt>
 <br /><tt>tar xvf &lt;package&gt;.tar</tt>
 <br /><tt>cd &lt;package&gt;</tt>
@@ -127,7 +127,7 @@ And then for each KDE package:
 
       <p>
       Note: if you used <tt>./configure --prefix</tt> to install KOffice in a different
-      location than the rest of KDE, you'll need to add this to /etc/kderc :<br />
+      location than the rest of KDE, you'll need to add this to /etc/kderc :<br /><br />
       <tt>[Directories]</tt><br />
       <tt>prefixes=/the/prefix/I/used/for/koffice</tt><br />
       <br />
