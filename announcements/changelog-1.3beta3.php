@@ -43,7 +43,7 @@ DTP frames of different widths).</li>
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
-<li>KSpread fails to redraw during and after 'Print Preview' (#60174)</li>
+<li>KSpread fails to redraw during and after 'Print Preview' (#60147)</li>
 <li>KSpread crash when changing paper orientation (#60279)</li>
 </ul>
 
