@@ -22,7 +22,11 @@ a single directory... It is more important that some part is done at all.)</p>
     <li>Take the KOffice documentation and check that what is told there is what 
     KOffice 1.3 really does. Anything not correctly documented (for example 
     because it has changed)
-    <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a></li>
+    <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a>
+    <ins>Please note that documentation fixes for KOffice 1.3.x are done on
+    KOffice CVS HEAD, so either work with documentation directly or verify
+    after you have found a problem.</ins>
+    </li>
 </ul>
 
 <h2>KOffice CVS HEAD</h2>
