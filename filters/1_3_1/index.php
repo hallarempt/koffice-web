@@ -15,18 +15,10 @@
   <h3>Generic (for all KOffice applications)</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
-      <th width="30%" align="left" valign="top">
-        <strong>From/To</strong>
-      </th>
-      <th width="50%" align="left" valign="top">
-        <strong>Notes</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Import</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Export</strong>
-      </th>
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">XSLT</td>
@@ -38,18 +30,10 @@
   <h3>KWord</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
-      <th width="30%" align="left" valign="top">
-        <strong>From/To</strong>
-      </th>
-      <th width="50%" align="left" valign="top">
-        <strong>Notes</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Import</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Export</strong>
-      </th>
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">
@@ -193,18 +177,10 @@
   <h3>KSpread</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
-      <th width="30%" align="left" valign="top">
-        <strong>From/To</strong>
-      </th>
-      <th width="50%" align="left" valign="top">
-        <strong>Notes</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Import</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Export</strong>
-      </th>
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Applix Spreadsheet</td>
@@ -265,18 +241,10 @@
   <h3>KPresenter</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
-      <th width="30%" align="left" valign="top">
-        <strong>From/To</strong>
-      </th>
-      <th width="50%" align="left" valign="top">
-        <strong>Notes</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Import</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Export</strong>
-      </th>
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">KWord</td>
@@ -307,18 +275,10 @@
   <h3>Karbon 14</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
-      <th width="30%" align="left" valign="top">
-        <strong>From/To</strong>
-      </th>
-      <th width="50%" align="left" valign="top">
-        <strong>Notes</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Import</strong>
-      </th>
-      <th width="10%" align="left" valign="top">
-        <strong>Export</strong>
-      </th>
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Adobe Illustrator</td>

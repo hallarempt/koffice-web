@@ -17,7 +17,9 @@
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
  and some not even done. The status of the current filters is listed below, sorted per
  application.</p>
- <p>Note: this document is about <strong><xsl:processing-instruction name="php">print $kofficeversiondescription;</xsl:processing-instruction></strong>.</p>
+ <p>Note: this document is about <strong>
+ <xsl:processing-instruction name="php">print $kofficeversiondescription;</xsl:processing-instruction>
+ </strong>.</p>
 
 <hr/>
 <xsl:for-each select="/filters/version/application">
@@ -28,10 +30,10 @@
 <table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
 
  <tr bgcolor="#FFEEAA">
- <th width="30%" align="left" valign="top"><strong>From/To</strong></th>
- <th width="50%" align="left" valign="top"><strong>Notes</strong></th>
- <th width="10%" align="left" valign="top"><strong>Import</strong></th>
- <th width="10%" align="left" valign="top"><strong>Export</strong></th>
+ <th width="30%" align="left" valign="top">From/To</th>
+ <th width="50%" align="left" valign="top">Notes</th>
+ <th width="10%" align="left" valign="top">Import</th>
+ <th width="10%" align="left" valign="top">Export</th>
  </tr>
 
  <xsl:for-each select="filter">
