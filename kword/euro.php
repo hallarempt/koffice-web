@@ -31,14 +31,14 @@
       key assigned to the euro sign. Type <code>xmodmap -pke | grep EuroSign</code> to find out.
       </p>
       <p>
-      If nothing appeared, we are going to map it to AltGr+E.<br>
-      First check you have AltGr bound to the Mode_switch modifier:<br>
+      If nothing appeared, we are going to map it to AltGr+E.<br />
+      First check you have AltGr bound to the Mode_switch modifier:<br />
       <code>xmodmap</code> should show a line with <code>mod3        Mode_switch</code>.
       If it doesn't have anything for mod3, type <code>xmodmap -e 'add mod3  = Mode_switch'</code>.
       If it shows something else for mod3, you might have to type <code>xmodmap -e 'clear mod3'</code> first.
       </p>
       <p>
-      Then check what the E key can generate:<br>
+      Then check what the E key can generate:<br />
       <code>xmodmap -pke | grep -w 26</code> will probably show <code>keycode  26 = e E</code>.
       If that's the case, simply ask for EuroSign as the 3rd symbol on this key, by
       typing <code>xmodmap -e 'keycode 26 = e E EuroSign'</code>
@@ -68,8 +68,8 @@
       Another thing to do is to select a locale (usually language and country) which
       provides a character the Euro symbol. Check your /usr/locale or /usr/share/locale
       directory, where all the locales are. In my case I selected fr_FR@euro. The first
-      bit is the language (in this case french), the second bit is the country (in this
-      case FR for france), and the '@euro' is a variant of that locale, that provides the
+      bit is the language (in this case French), the second bit is the country (in this
+      case FR for France), and the '@euro' is a variant of that locale, that provides the
       euro symbol. If you can't find any relevant locales, make sure you installed the
       appropriate package (under Mandrake and probably RedHat, it's <code>locales-fr</code>
       for instance).
@@ -125,8 +125,6 @@
       </p>
 
 <?php
- $contactname="David Faure";
- $contactemail="david@mandrakesoft.com";
  include("footer.inc");
 ?>
 
