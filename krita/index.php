@@ -130,4 +130,8 @@ management system in 100K</a></li>
         <li><a href="http://www.pixarra.com/">Pixarra Sketchbook</a></li>
       </ul>
 
+	<p>Academic:</p>
+<ul>
+	<li><a href="http://www.cs.unc.edu/Research/geom/dab/">dAb Interactive Haptic Painting with 3D Virtual Brushes</a></li>
+</ul>
 <?php include("footer.inc"); ?>
