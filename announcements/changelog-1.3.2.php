@@ -122,9 +122,9 @@
 
 <h3><a name="karbon">Karbon</a></h3>
 <ul>
-<li>Fixed bug #32574 "Unable to close or fill bezier curves"</li>
-<li>Fixed bug #75035 "new objects do not appear immediately in layers list"</li>
-<li>Fixed bug #78343 "changing zoom setting freezes application"</li>
+<li>Fixed <a href="http://bugs.kde.org/show_bug.cgi?id=32574">bug #32574 "Unable to close or fill bezier curves"</a></li>
+<li>Fixed <a href="http://bugs.kde.org/show_bug.cgi?id=75035">bug #75035 "new objects do not appear immediately in layers list"</a></li>
+<li>Fixed <a href="http://bugs.kde.org/show_bug.cgi?id=78343">bug #78343 "changing zoom setting freezes application"</a></li>
 </ul>
 
 <h3><a name="filters">Filters</a></h3>
@@ -133,9 +133,13 @@
 <ul>
 <li>
     Avoid crashing if more cells are defined than declared on a row 
-    (partially #82905 and #83923)
+    (partially <a href="http://bugs.kde.org/show_bug.cgi?id=82905">#82905</a>
+    and <a href="http://bugs.kde.org/show_bug.cgi?id=83923">#83923</a>)
 </li>
-<li>Allow ampersands in font names (partially #82905)</li>
+<li>
+  Allow ampersands in font names 
+  (partially <a href="http://bugs.kde.org/show_bug.cgi?id=82905">#82905</a>)
+</li>
 </ul>
 
 <h4>KPresenter's OOImpress import filter:</h4>
@@ -146,7 +150,10 @@
 <li>Import randow page effect</li>
 <li>Import duration slide transition</li>
 <li>Import sticky objects</li>
-<li>Fix #67087, allow to load template file</li>
+<li>
+  Fix <a href="http://bugs.kde.org/show_bug.cgi?id=67087">#67087</a>,
+  allow to load template file
+</li>
 <li>Fix import background style</li>
 </ul>
 
@@ -163,7 +170,10 @@
 <h4>KSpread's OOCalc import filter:</h4>
 <ul>
 <li>Import support for protect document</li>
-<li>Fix #67087 import template document</li>
+<li>
+  Fix <a href="http://bugs.kde.org/show_bug.cgi?id=67087">#67087</a>
+  import template document
+</li>
 <li>Import load print attribute</li>
 <li>Import validation attribute</li>
 <li>Import column width</li>
@@ -180,7 +190,10 @@
 
 <h4>Karbon's EPS filter:</h4>
 <ul>
-<li>Fix #82964 (Fix parsing of boundingbox in the presence of "%ALDBoundingBox")</li>
+<li>
+  Fix <a href="http://bugs.kde.org/show_bug.cgi?id=82964">#82964</a>
+  (Fix parsing of boundingbox in the presence of "%ALDBoundingBox")
+</li>
 </ul>
 
 <h3>Previous changelogs</h3>
