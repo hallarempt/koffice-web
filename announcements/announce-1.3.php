@@ -407,7 +407,7 @@ P.P.Box 30955<br />
 Windhoek<br />
 Namibia<br />
 Phone: +264 - 61 - 24 92 49<br />
-<a href="mailto:info-africa@kde.org">info-africa@kde.org</a><br />
+<a href="&#x6d;a&#0105;lt&#0111;:&#x69;&#110;fo-a&#x66;ric&#x61;&#x40;&#x6b;&#0100;&#101;&#x2e;&#x6f;rg">info-africa@kde.org</a><br />
 </td>
 
 <td>
@@ -417,7 +417,7 @@ C-324 Defence Colony <br />
 New Delhi <br />
 India 110024 <br />
 Phone: +91-981807-8372 <br />
-<a href="mailto:info-asia@kde.org">info-asia@kde.org</a>
+<a href="&#109;ail&#116;&#0111;&#0058;&#x69;&#00110;&#102;&#111;&#45;&#97;&#x73;&#105;&#97;&#x40;&#00107;d&#101;.o&#x72;&#0103;">info-asia@kde.org</a>
 </td>
 
 </tr>
@@ -431,7 +431,7 @@ S-683 92 Hagfors<br />
 Sweden<br />
 Phone: +46-563-540023<br />
 Fax: +46-563-540028<br />
-<a href="mailto:info-europe@kde.org">info-europe@kde.org</a>
+<a href="ma&#x69;l&#x74;&#111;&#58;&#105;&#110;&#102;o&#x2d;e&#117;r&#111;&#112;e&#64;&#107;&#100;e&#046;or&#x67;">info-europe@kde.org</a>
 </td>
 
 <td>
@@ -441,7 +441,7 @@ George Staikos <br />
 Toronto, ON, M5S 3K5 <br />
 Canada<br />
 Phone: (416)-925-4030 <br />
-<a href="mailto:info-northamerica@kde.org">info-northamerica@kde.org</a><br />
+<a href="m&#97;ilt&#x6f;&#00058;&#105;&#x6e;&#x66;&#111;&#045;&#0110;&#111;rtha&#109;&#0101;ri&#99;a&#x40;kd&#x65;&#46;&#111;r&#x67;">info-northamerica@kde.org</a><br />
 </td>
 
 </tr>
@@ -454,7 +454,7 @@ Hamish Rodda<br />
 Eltham VIC 3095<br />
 Australia<br />
 Phone: (+61)402 346684<br />
-<a href="mailto:info-oceania@kde.org">info-oceania@kde.org</a><br />
+<a href="&#x6d;&#00097;&#105;l&#0116;&#111;&#0058;inf&#111;&#45;&#111;&#099;&#101;ani&#097;&#x40;k&#100;e&#046;&#111;rg">info-oceania@kde.org</a><br />
 </td>
 
 <td>
@@ -464,7 +464,7 @@ R. Jos&eacute; de Alencar 120, apto 1906<br />
 Curitiba, PR 80050-240<br />
 Brazil<br />
 Phone: +55(41)262-0782 / +55(41)360-2670<br />
-<a href="mailto:info-southamerica@kde.org">info-southamerica@kde.org</a><br />
+<a href="&#x6d;ai&#x6c;&#x74;&#x6f;&#x3a;i&#x6e;&#x66;&#00111;-&#115;o&#117;&#x74;h&#0097;&#109;er&#x69;ca&#x40;&#107;&#100;&#101;&#46;o&#x72;&#103;">info-southamerica@kde.org</a><br />
 </td>
 
 
