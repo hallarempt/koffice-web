@@ -42,7 +42,7 @@ If you want to contact the developers, the best is to try to contact the develop
 please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>.</p>"
 );
 
-$faq->addQuestions("Which mailing lists are used for KOffice?",
+$faq->addQuestion("Which mailing lists are used for KOffice?",
 "<p>KOffice has two own mailing lists:</p>
 <ul>
 <li><a href=\"mailto:koffice@kde,org\">koffice mailing list</a></li>
@@ -55,7 +55,7 @@ Please note that the write access of the koffice-devel mailing list is restricte
 The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>"
 );
 
-$faq->addQuestions("Which KOffice application do exist?",
+$faq->addQuestion("Which KOffice application do exist?",
 "<p>Following applications exist and are part of KOffice 1.3:</p>
 <ul>
 <li>KWord - a word processor</li>
@@ -75,7 +75,7 @@ $faq->addQuestions("Which KOffice application do exist?",
 </ul>"
 );
 
-$faq->addQuestions("I would like to see application XYZ in KOffice?",
+$faq->addQuestion("I would like to see application XYZ in KOffice?",
 "<p>KOffice may lack some applications that people normally consider to be
 Office application. Some of these applications are in other parts of KDE,
 like for example PIM (Personal Information Management). Some of other
@@ -104,7 +104,7 @@ The release versions of &KOffice; are supposed to be quite stable. While we try 
 */
 
 // CHECK!
-$faq->addQuestions("Are you going to implement feature XYZ?",
+$faq->addQuestion("Are you going to implement feature XYZ?",
 "<p>First of all: certainly many features should be implemented in the future. However,
 KOffice is mainly based on the work of volunteers and thus it often lacks the manpower
 it needs to address many issues. If you are a developer and you lack a feature,
@@ -129,12 +129,12 @@ ftp://ftp.trolltech.com/qt/source/</ulink>) and the latest <ulink url="http://ww
 </answer></qandaentry>
 */
 
-$faq->addQuestions("Which license applies to KOffice?",
+$faq->addQuestion("Which license applies to KOffice?",
 "<p>KOffice is an open-source project and completely free. All licences are GPL-compatible, mostly
 GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are mostly GPL.</p>"
 );
 
-$faq->addQuestions("How do I report bugs?",
+$faq->addQuestion("How do I report bugs?",
 "<p>Like for any KDE application, please report bugs to <a href=\"http://bugs.kde.org\">KDE Bugs.</a></p>
 <p>Please avoid bug reports with meaningless contents like: \"It does not work!\", \"KOffice is bad\",
 \"XYZ is much better than your KOffice\".</p>
@@ -152,14 +152,14 @@ public, so be careful not to send us files not meant for the public.</p>
 <p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>"
 );
 
-$faq->addQuestions("How do I report wishes?",
+$faq->addQuestion("How do I report wishes?",
 "<p>You report wishes as you would do for bugs. Here too it is important to describe correctly the wish to
 avoid misunderstandings. If your wish comes from another application, please do not assume that the developers
 know that application. And please only <em>one</em> wish per report. However you can make as many reports as
 you want. One wish per report helps the developers to manage easilier the bugs and wishes.</p>"
 );
 
-$faq->addQuestions("Can I use KOffice on Windows?",
+$faq->addQuestion("Can I use KOffice on Windows?",
 "<p>There is on-going work of <a url=\"http://kde-cygwin.sourceforge.net\">KDE Cygwin project</a> to port
 KDE to MS Windows. It is also planned to port KOffice. Just keep in mind that this port is not done
 by the KOffice developers themselves, so please report bugs to the project.</p>"
@@ -169,19 +169,19 @@ by the KOffice developers themselves, so please report bugs to the project.</p>"
 $faq->addSection("How to get and install KOffice");
 
 // CHECK
-$faq->addQuestions("How do I get and compile the KOffice sources?",
+$faq->addQuestion("How do I get and compile the KOffice sources?",
 "<p>Please have a look at <a url=\"http://koffice.kde.org/install-source.phtml\">
 http://koffice.kde.org/install-source.phtml</a></p>"
 );
 
 // CHECK: URLs for anoncvs and cvs up
-$faq->addQuestions("I want to be on the bleeding edge. How can I get my sources up to date?",
+$faq->addQuestion("I want to be on the bleeding edge. How can I get my sources up to date?",
 "<p>You need to checkout the module koffice of KDE's CVS either by anonymous CVS or by CVS UP.</p>
 <p>Please keep in mind that the versions in the development branch are not supposed to work stable!</p>"
 );
 
 
-$faq->addQuestions("How do I install &KOffice; if I'm not root?",
+$faq->addQuestion("How do I install &KOffice; if I'm not root?",
 "You've got to pass some directory where you've got write access (e.g. in your home directory)
  as prefix to configure. So you should type something like: <code>./configure --prefix=/home/jdoe/foo/bar</code>
  plus of course other options you might want to pass to configure. Then of course you
@@ -201,18 +201,18 @@ See
 </answer></qandaentry>
 */
 
-$faq->addQuestions("What binary distributions are there and where do I find them?",
+$faq->addQuestion("What binary distributions are there and where do I find them?",
 "<p>You can find up-to-date information on available binaries <a url=\"http://www.koffice.org/install-binaries.phtml\">here</a>.</p>
 <p>Please notice that KOffice only makes the source, binary distributions are made by third persons, even if they
 are distributed by KDE or by KOffice.</p>"
 );
 
-$faq->addQuestions("How do I install binary RPMs?",
+$faq->addQuestion("How do I install binary RPMs?",
 "<p>Type the following as root: <code>rpm -U koffice.rpm</code>. Please replace koffice.rpm
  with the full path to and the name of your binary rpm.</p>"
 );
 
-$faq->addQuestions("Is KOffice available on CD?",
+$faq->addQuestion("Is KOffice available on CD?",
 "<p>Most linux distributions by now ship KOffice. So if you have an up-to-date
  linux distribution, you probably are lucky.  I don't know of any other operating
  system vendors who ship KOffice and I don't know about any separate CDs.
