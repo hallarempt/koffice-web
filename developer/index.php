@@ -11,7 +11,6 @@
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
-     <li><a href="constructive">Constructive Critics</a></li>
    </ul>
 
    <h2>Specific Resources</h2>
@@ -19,6 +18,7 @@
    <ul>
      <li><a href="fileformat">Information about KOffice's file formats</a> (also useful for filters)</li>
      <li><a href="filters">Developing filters</a></li>
+     <li><a href="constructive">Constructive Critics</a></li>
    </ul>
    
    <h2>Applications</h2>
