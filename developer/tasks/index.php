@@ -46,7 +46,7 @@ a single directory... It is more important that some part is done at all.)</p>
 <p>If you do not like any of the tasks on the task lists, it is not a problem. There are plenty more to do.</p>
 
 <p>For example, there is plenty of code marked with ###, TODO or FIXME. You can find such code with the following command line command (in one line):<br />
-<code>find . -name "*.c*" -o -name "*.h" -print0 | xargs -0 grep -E "(###|TODO|FIXME)"</code></p>
+<code>find . -name "*.c*" -o -name "*.h" -print0 | xargs -0 grep -E "(###|TODO|FIXME|todo)"</code></p>
 
 <p>Also there are the files named TODO that contain problems to fix.</p>
 
