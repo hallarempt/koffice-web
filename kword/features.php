@@ -84,8 +84,8 @@
       <p>
       <b>Numbering:</b><br />
       In KWord you can do all crazy types of numberings. This means you can do
-      chapter numbering (with multiple depths) and lists. You can use roman
-      numbers, lower arabic numbers, upper arabic numbers, lower alphabetical
+      chapter numbering (with multiple depths) and lists. You can use lower
+      roman numbers, upper roman numbers, arabic numbers, lower alphabetical
       letters, upper alphabetical letters and different bullets for the
       numbering. Also you can specify the start offset.
       </p>
