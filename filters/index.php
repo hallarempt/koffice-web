@@ -10,7 +10,7 @@
     <p>Various filters are available for most of the KOffice applications.</p>
    
     <p><a href="1.2/">Please click here for the filter status</a>
-        (currently of KOffice 1.3 Beta)!
+        (currently of KOffice 1.3)!
     </p>
     
     <p>(The filter status for KOffice 1.2 is not available anymore, as there
