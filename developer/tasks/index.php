@@ -14,8 +14,8 @@
 <p>The difficulty of the tasks is marked with stars (*=easy, *****=expert),
 also marked with stars is how easy the tasks could be shared between developers (*=easily shared; *****=very difficult to share).</p>
 
-<p>Mostly the tasks can be split between a few persons and not everything need 
-to be done completely anyway. (For a example a user can do a single file, 
+<p>Mostly the tasks that can be split between a few persons do not need 
+to be done completely in one go. (For a example a user can do a single file, 
 a single directory... It is more important that some part is done at all.)</p>
 
 <p>(Some of the tasks could be done KDE-wide.)</p>

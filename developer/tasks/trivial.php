@@ -11,7 +11,7 @@
 that are more suitable for developer without much experience.</p>
 
 <p>Mostly the tasks can be split between a few persons and not everything need 
-to be done completely anyway. (For a example a user can do a single file, 
+to be done completely in one go. (For a example a user could do a single file, 
 a single directory... It is more important that some part is done at all.)</p>
 
 <p>Note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (Some of the tasks could be done KDE-wide.)</p>
@@ -22,7 +22,7 @@ a single directory... It is more important that some part is done at all.)</p>
     because it has changed)
     <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a>.
     Please note that documentation fixes for KOffice 1.3.x are done on
-    KOffice CVS HEAD, so either work with this documentation directly or verify
+    KOffice CVS HEAD, so either work with this documentation directly or verify in there
     after you have found a problem. (Difficulty: *; Sharability: *)
     </li>
     
