@@ -1,13 +1,9 @@
-<?php
-  echo '<?xml version="1.0" encoding="UTF-8"?>';
-  echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">';
-?><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<!--Do not modify! This file was generated -->
 <?php 
-//  $title="The KOffice Project -- Filters -- Status (KOffice 1.3)";
-//  $location = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (KOffice 1.3)';
-//  include("../cutheader.inc");
-?>
+  $page_title="KOffice Filters Status (KOffice 1.3)";
+  $location = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (KOffice 1.3)';
+  include("koffice.inc");
+  include("header.inc");
+?><!--Do not modify! This file was generated --><div>
   <h1>KOffice Filters - Status (KOffice 1.3)</h1>
   <h2>Which filters are there?</h2>
   <p>At the moment all KOffice applications support the filter architecture
@@ -325,7 +321,7 @@
       </td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">****</td>
-      <td width="10%" align="center" valign="top">-</td>
+      <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">
@@ -508,6 +504,6 @@
   <p>Would <i>you</i> like to join the development team and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
 <?php 
-//  include("../cutfooter.inc");
+  include("footer.inc");
 ?>
-</html>
+</div>
