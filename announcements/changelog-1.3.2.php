@@ -18,9 +18,14 @@
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <h4>KOfficeCore:</h4>
 <ul>
-<li>Give the backup file the same permissions as the original file (#54459)</li>
+<li>
+  Give the backup file the same permissions as the original file 
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=54459">#54459</a>)
+</li>
 <li>Save window settings also when using File/Close</li>
-<li>Fix #83972 (koffice compiles fine under qt3.1/kde3.1) </li>
+<li>
+ Fix <a href="http://bugs.kde.org/show_bug.cgi?id=83972">#83972</a>
+ (KOffice compiles fine under qt3.1/kde3.1) </li>
 </ul>
 
 <h4>KOfficeUI:</h4>
@@ -32,17 +37,21 @@
 <ul>
 <li>
   Changing a style in the style manager remembered a wrong "following style",
-  so later changes in the style manager wouldn't propagate correctly (#47377)
+  so later changes in the style manager wouldn't propagate correctly
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=47377">#47377</a>)
 </li>
 <li>
-  Fixed wrong position of suffix in numbered right-to-left paragraphs (#47178)
+  Fixed wrong position of suffix in numbered right-to-left paragraphs 
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=47178">#47178</a>)
 </li>
 <li>
   Fixed formatting bug, where an inline formula or any other big character after
-  the paragraph counter, would make the paragraph counter disappear (#82609).
+  the paragraph counter, would make the paragraph counter disappear
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=82609">#82609</a>).
 </li>
 <li>
-  Fixed wrong alignment when using numbered paragraphs and a tab as first character (#83489)
+  Fixed wrong alignment when using numbered paragraphs and a tab as first character
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=83489">#83489</a>)
 </li>
 <li>
   Added newParagraph DCOP call (see <a href="http://www.koffice.org/developer/dcop/">this short howto</a>)
@@ -51,7 +60,10 @@
 
 <h3><a name="kword">KWord</a></h3>
 <ul>
-<li>Fixed wrong printing of frame borders due to excessive clipping (#81222)</li>
+<li>
+  Fixed wrong printing of frame borders due to excessive clipping
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=81222">#81222</a>)
+</li>
 <li>Turning off the "Create backup file" option now works.</li>
 </ul>
 
@@ -61,7 +73,11 @@
 <li>Fixed crash in infinite loop presentation mode when first slide is not shown</li>
 <li>Fixed show the duration for the correct page if not all slides are shown</li>
 <li>Fixes for vertical alignment of text inside text objects.</li>
-<li>Fixed bug #76286 export web presentation into network</li>
+<li>
+  Fixed bug 
+  <a href="http://bugs.kde.org/show_bug.cgi?id=76286">#76286</a>
+  export web presentation into network
+</li>
 <li>Turning off the "Create backup file" option now works.</li>
 </ul>
 
@@ -69,16 +85,23 @@
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
 <li>Fix condition cell attribute (multi condition)</li>
-<li>Fix #69798 (kspread sexdec parse error)</li>
+<li>
+  Fix 
+  <a href="http://bugs.kde.org/show_bug.cgi?id=69798">#69798</a>
+  (KSpread SEXDEC parse error)
+</li>
 <li>Fix enable/disable action into validation dialogbox</li>
 <li>Fix disable/enable "show table" menu item</li>
-<li>Fix crash when viewing a KSpread document in Konqueror (bug #69066)</li>
+<li>
+  Fix crash when viewing a KSpread document in Konqueror
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=69066">bug #69066</a>)
+</li>
 </ul>
 
 <h3><a name="kchart">KChart</a></h3>
 <ul>
-<li>Fix crash bug#82149</li>
-<li>Fix #83465</li>
+<li>Fix crash <a href="http://bugs.kde.org/show_bug.cgi?id=82149">bug#82149</a></li>
+<li>Fix <a href="http://bugs.kde.org/show_bug.cgi?id=83465">#83465</a></li>
 </ul>
 
 <!--
