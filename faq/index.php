@@ -65,13 +65,12 @@ $faq->addQuestion("Which KOffice application do exist?",
 <li>Karbon14 - a vector drawing program</li>
 <li>KFormula - a formel editor</li>
 <li>KChart - a tool for drawing charts and diagrams</li>
+<li>Kugar - a database report creator</li>
 </ul>
 <p>Following applications are planned for future versions:</p>
 <ul>
 <li>Krita - an image manipulation program</li>
-<li>Kexi</li>
-<li>Kugar</li>
-<li>KPlato</li>
+<li>Kexi - a database management tool</li>
 </ul>"
 );
 
@@ -147,40 +146,41 @@ even better, a short example file that triggers the bug.</p>
 <blockquote>Please be careful that sending a file to KDE Bugs makes it <em>public</em>,
 so be careful not to send us files not meant for the public. Especially be careful that the
 file does not contain for example addresses and phone numbers of third persons.</blockquote>
-<p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>"
+<p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>
+<p>And finally, please, send only one bug per report!</p>"
 );
 
 $faq->addQuestion("How do I report wishes?",
 "<p>You report wishes as you would do for bugs. Here too it is important to describe correctly the wish to
 avoid misunderstandings. If your wish comes from another application, please do not assume that the developers
-know that application. And please only <em>one</em> wish per report. However you can make as many reports as
-you want. One wish per report helps the developers to manage easilier the bugs and wishes.</p>"
+know that application! Only <em>one</em> wish per report, please! However you can create as many reports as
+you want or need. One wish per report helps the developers to manage the bugs and wishes.</p>"
 );
 
 $faq->addQuestion("Can I use KOffice on Windows?",
 "<p>There is on-going work of <a href=\"http://kde-cygwin.sourceforge.net\">KDE Cygwin project</a> to port
 KDE to MS Windows. It is also planned to port KOffice. Just keep in mind that this port is not done
-by the KOffice developers themselves, so please report bugs to the project.</p>"
+by the KOffice developers themselves, so please report bugs to the KDE Cygwin project!</p>"
 );
 
 
 $faq->addSection("How to get and install KOffice?");
 
 $faq->addQuestion("How do I get and compile the KOffice sources?",
-"<p>Please have a look at <a url=\"http://www.koffice.org/download/source.php\">
-http://koffice.kde.org/install-source.phtml</a></p>"
+"<p>Please have a look at <a href=\"http://www.koffice.org/download/source.php\">
+this page.</a></p>"
 );
 
 $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources up to date?",
 "<p>You need to checkout the module koffice of KDE's CVS either
 by <a href=\"http://developer.kde.org/source/anoncvs.html\">anonymous CVS</a>
 or by <a href=\"http://developer.kde.org/source/cvsup.html\">CVSup</a>.</p>
-<p>Please keep in mind that the versions in the development branch are not supposed to work stable!</p>"
+<p>Please keep in mind that the developement versions are not supposed to work stable!</p>"
 );
 
 
-$faq->addQuestion("How do I install KOffice if I'm not root?",
-"You've got to pass some directory where you've got write access (e.g. in your home directory)
+$faq->addQuestion("How do I install KOffice if I am not root?",
+"You have got to pass some directory where you have got write access (for example in your home directory)
  as prefix to configure. So you should type something like: <code>./configure --prefix=/home/jdoe/foo/bar</code>
  plus of course other options you might want to pass to configure. Then of course you
  don't have to do <code>su -c \"make install\"</code>, but just <code>make install</code>.</p>"
@@ -203,13 +203,13 @@ $faq->addQuestion("What binary distributions are there and where do I find them?
 "<p>You can find up-to-date information on available binaries and how to install them
 <a href=\"http://www.koffice.org/download\">here</a>.</p>
 <p>Please notice that KOffice only makes the source, binary distributions are made by third persons, even if they
-are distributed by KDE or by KOffice.</p>"
+are distributed by KDE servers.</p>"
 );
 
 $faq->addQuestion("Is KOffice available on CD?",
 "<p>Most Linux distributions ship KOffice. So if you have an up-to-date
- Linux distribution, you probably are lucky.  I don't know of any other operating
- system vendors who ship KOffice and I don't know about any separate CDs.
+ Linux distribution, you probably are lucky.  I do not know of any other operating
+ system vendors who ship KOffice and I do not know about any separate CDs.
  The KOffice project itself does not sell any CD-ROMs.</p>"
 );
 
@@ -234,8 +234,8 @@ safest, I think).</li>
 <p>After you have checked all this but the problems still persist, contact the
 <a href=\"mailto:koffice@kde.org\">koffice mailing list.</a>
  Please include information  about your system and the tail of the output of <code>make</code>.</p>
-<p>Please <em>do not</em> contact the mailing list in case of errors like \"internal compiler errors\".
-This is most likely not a KOffice problem (but a compiler problem, motherboard problem or a cooling problem.)</p>"
+<p>Please <em>do not</em> contact the mailing list in case of errors like \"internal compiler errors\"!
+This is most likely not a KOffice problem (but a compiler problem, a motherboard problem or a cooling problem.)</p>"
 );
 
 $faq->addQuestion("Error: \"aclocal not found\"",
@@ -253,12 +253,12 @@ $faq->addSection("KOffice in general");
 $faq->addQuestion("Does KOffice support scripting?",
 "<p>Yes, KOffice supports scripting. You can script KOffice applications
  using the scripting language of your choice thanks to the application's DCOP
- interfaces (provided that DCOP-bindings exist for your language).Using a language's
+ interfaces (provided that DCOP-bindings exist for your language). Using a language's
  DCOP bindings you can remote control a KOffice application via this interface.
- You can find several DCOP bindings in the kdebindings module, be it perl, python or even
- java. Furthermore, using the <code>dcop</code> command line utility from kdelibs, you can
+ You can find several DCOP bindings in the kdebindings module, be it Perl, Python or even
+ Java. Furthermore, using the <code>dcop</code> command line utility from kdelibs, you can
  control applications from your shell, so you can basically even script KOffice using
- sh/csh or whatever shell you prefer. Of course you can also access these interfaces
+ bash or whatever shell you prefer. Of course you can also access these interfaces
  using a C++ library or its C wrapper.</p>"
 );
 
@@ -271,7 +271,7 @@ you to one language.</p>"
 $faq->addQuestion("How does KOffice print?",
 "<p>KOffice prints with KDE's printing system. So you can choose between a few printing systems
 like for example CUPS or lpr. KOffice applications print by using Qt's PostScript printing. This
-can unfortunately leads to limitations (like for EPS files.)</p>"
+can unfortunately lead to limitations (like for EPS files.)</p>"
 );
 
 //CHECK
@@ -279,7 +279,7 @@ $faq->addQuestion("What data format does KOffice read and write natively?",
 "<p>KOffice documents are zipped files. Inside these files KOffice's data is
 stored in XML files. Pictures however are directly stored as binary.</p>
 <p>Up to KOffice 1.3, the XML tags used by KOffice's applications are private to
-KOffice. From KOffice 1,4, we paln to switch to OpenOffice.org compatible file
+KOffice. From KOffice 1.4, we paln to switch to OpenOffice.org compatible file
 formats.</p>"
 );
 /*
@@ -310,7 +310,7 @@ Most &KOffice; applications store their document data as XML code (eXtensible
 */
 
 // CHECK: add InfoZIP's URL for unzip?
-$faq->addQuestion("I am stuck without KOffice. How can I get at least the text out of the files?",
+$faq->addQuestion("I am stuck without KOffice. How can I get at least the text out of the KOffice files?",
 "<p>As KOffice files are zipped, you need to unzip them with any program that can handle ZIP files.</p>"
 );
 
@@ -336,13 +336,13 @@ However we have not any developer that can write such languages, so any help is 
 );
 
 $faq->addQuestion("Does KOffice support languages that write top to bottom?",
-"<p>No, sorry! Anybody would could help to write the code for that would be welcomed!</p>"
+"<p>No, sorry! Anybody would could help us to write the code for that would be welcomed!</p>"
 );
 
 $faq->addQuestion("Does KOffice support Indic scripts?",
 "<p>No, sorry, not yet! Especially KWord and KPresenter do not use Qt directly for drawing text
 and therefore the support for Indic script that is in Qt 3.2 has no effect in KOffice 1.2 or 1.3.
-Of course help would be welcomed in this case too.</p>"
+Of course, help would be welcomed in this case too.</p>"
 );
 
 
@@ -376,7 +376,8 @@ $faq->addQuestion("In printout, KOffice replaces some of my fonts with different
 );
 
 $faq->addQuestion("Why are bitmap fonts not supported?",
-"<p>Bitmap fonts offer too few data to be printed correctly or to allow WYSIWYG.</p>"
+"<p>Bitmap fonts offer too few data to be printed correctly or to allow
+WYSIWYG (\"What You See Is What Yu Get\".)</p>"
 );
 
 
@@ -385,11 +386,11 @@ $faq->addSection("KWord");
 //CHECK
 $faq->addQuestion("What is KWord?",
 "<p>KWord is the word processor of KOffice. KWord is part of the stable releases of KOffice.</p>
-<p>Internally, KWord works with frame and offer two modes: text-oriented and page-oriented.</p>
+<p>Internally, KWord works with frames and offers two modes: text-oriented and page-oriented.</p>
 <p>In the page-oriented mode, KWord handles like a DTP program. You can create frames,
 position them where you want, connect them together and so on.</p>
 <p>In the text-oriented mode, KWord handles like a normal word processor. No need to worry about
-having to create any frame before typing your text.</p>"
+having to create any frame before typing your text!</p>"
 );
 /*
 <qandaentry><question><para> What is &KWord;?</para></question><answer>
@@ -397,7 +398,7 @@ having to create any frame before typing your text.</p>"
 KWord is the word processor of the &KOffice;. </para>
 <para>
 KWord's philosophy is simple and very similar to that of Framemaker: everything's
- a frame. Unlike in M&dollar;-Word or StarWriter there isn't one text stream
+ a frame. Unlike in MS-Word or StarWriter there isn't one text stream
  which is formatted according to the page format; in &KWord; text is always in
  a frameset consisting of several frames. Frames can be positioned anywhere on the
  page and they can be connected, so that text that doesn't fit into the first frame
@@ -421,10 +422,10 @@ problem with multi-page tables, which will probably not fixed before the release
 
 $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter, RTF... ?",
 "<p>Yes, there are filters for KWord. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
-<p>Some filters are not always working good, as implementing a filter depends on the available documentation
+<p>Some filters are not always working well, as implementing a filter depends on the available documentation
 of the file format.</p>
 <p>Please note that in KOffice 1.3, it is recommended to save as RTF (Rich Text Format) to exchange with other word
-processors.</p>"
+processors!</p>"
 );
 
 $faq->addSection("KSpread");
