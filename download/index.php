@@ -15,7 +15,7 @@
 
       <h1>Download Binaries: KOffice 1.3 Beta 4</h1>
       Contributed binaries of the fourth beta version of KOffice 1.3 can be found at
-      <a href="http://download.kde.org/unstable/koffice-1.2.93/contrib">http://download.kde.org/unstable/koffice-1.2.93/contrib</a>.
+      <a href="http://download.kde.org/unstable/koffice-1.2.93/">http://download.kde.org/unstable/koffice-1.2.93/</a>.
       Please note these builds are not supported by the KOffice team which provides source packages only.
 
       <h1>Installing Binaries</h1>
