@@ -29,6 +29,10 @@
 
 <h4>KOfficeUI</h4>
 <ul>
+  <li>
+    Compile again with Qt 3.1
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=83972">Part of bug #89372</a>)
+  </li>
 </ul>
 
 <h4>KoText library features (shared between KWord and KPresenter)</h4>
