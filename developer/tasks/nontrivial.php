@@ -22,7 +22,7 @@ also marked with stars are how easy the tasks could be shared between developers
 <h2>More?</h2>
 
 <p>If you do not like any of the tasks on the task lists, you may ask
-<a href="http://www.kde.org/mailinglists/index.php">the KOffice Development mailing list</a>. We have surely a task for
+<a href="http://www.kde.org/mailinglists/index.php#koffice-devel">the KOffice Development mailing list</a>. We have surely a task for
 you.</p>
 
 <?php
