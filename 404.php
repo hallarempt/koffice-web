@@ -12,6 +12,7 @@ $handler->add("/support.phtml", "/support");
 $handler->add("/supporters.phtml", "/support/supporters.php");
 $handler->add("/filters/status.php", "/developer/filters/status.php");
 $handler->add("/kontour/index.php", "/karbon/index.php");
+$handler->add("/filters/status.phtml", "/filters/1.2");
 
 # just a test
 $handler->add("/filters/test", "/filters/1.2");

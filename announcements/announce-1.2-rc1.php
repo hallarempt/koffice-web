@@ -41,7 +41,7 @@
   each KOffice component, a new WordPerfect export filter for KWord, and
   improvements to the KWord RTF import filter.
   A more detailed
-  <a href="http://www.koffice.org/announcements/changelog-1.2rc1.phtml">list
+  <a href="http://www.koffice.org/announcements/changelog-1.2rc1.php">list
   of changes</a> and <a href="http://www.koffice.org/releases/">notes about
   the release</a> are available at the KOffice
   <a href="http://www.koffice.org/">web site</a>.
@@ -240,7 +240,7 @@ coming days and weeks.
 <p align="justify">
   <u>Further Information</u>.
   For further instructions on compiling and installing KOffice, please consult
-  the KOffice <a href="http://www.koffice.org/install-source.phtml">installation
+  the KOffice <a href="http://www.koffice.org/download/source.php">installation
   instructions</a>.  For
   problems with SRPMs, please contact the person listed in the applicable
   .spec file.
@@ -250,7 +250,7 @@ coming days and weeks.
 </h4>
 <p align="justify">
   Besides the valuable and excellent efforts by the
-  <a href="http://www.koffice.org/developers.phtml">KOffice developers</a>
+  <a href="http://www.koffice.org/people.php">KOffice developers</a>
   themselves, significant support for KOffice development has been provided by
   <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
   KOffice developers <a href="http://people.mandrakesoft.com/~david/">David

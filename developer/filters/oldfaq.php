@@ -41,7 +41,7 @@ $faq->addSection("Developing Filters for KOffice");
 $faq->addQuestion("Prepare the Environment",
 "<p>As the development version of KOffice needs KDE 3 it's necessary to install at least parts of <b>KDE 3</b>
 (<b><i>Qt 3, kdesupport, arts, kdelibs, kdebase - in this order</i></b>) and - of course - <b><i>KOffice</i></b>.
-I recommend looking for further information on <a href=\"http://www.koffice.org/install-source.phtml\" how to install</a>
+I recommend looking for further information on <a href=\"http://www.koffice.org/download/source.php\" how to install</a>
 it. To get some help from real KOffice experts please <a href=\"http://www.kde.org/contact.html\">join the KOffice or the KOffice-Devel
 mailing lists</a> (koffice@kde.org and koffice-devel@kde.org). There is an archive of those lists and you can find them all at
 <a href=\"http://lists.kde.org\">http://lists.kde.org</a>.<br />

@@ -221,7 +221,7 @@ $faq->addSection("Problems compiling KOffice");
 $faq->addQuestion("What should I do if problems occur?",
 "If problems occur during compiling, please:</p>
 <ul>
-<li>check the problems mentioned in this <a href=\"http://koffice.kde.org/install-source.phtml\">file</a></li>
+<li>check the problems mentioned in this <a href=\"http://koffice.kde.org/download/source.php\">file</a></li>
 <li>check whether you are using a recent kdelibs package (last stable KDE or current unstable KDE.)</li>
 <li>check whether you are using the <em>correct versions</em> of all required packages:</li>
 <li>check if you are really compiling with the compiler with which the C++ libraries of your system were compiled

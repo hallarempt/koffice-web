@@ -54,7 +54,7 @@
   KOffice 1.2.1 is a stability release, with the principal improvements
   over KOffice 1.2, released last September, occurring in the spreadsheet
   program (KSpread).
-  A <a href="http://www.koffice.org/announcements/changelog-1.2.1.phtml">list
+  A <a href="http://www.koffice.org/announcements/changelog-1.2.1.php">list
   of changes</a> and <a href="http://www.koffice.org/releases/">notes about
   the release</a> are available at the KOffice
   <a href="http://www.koffice.org/">web site</a>.
@@ -270,9 +270,9 @@
   <a href="http://www.gnupg.org/">GnuPG</a> using the David Faure
   PGP Key
   (available from the
-  <a href="http://www.koffice.org/signature.phtml">KDE Signature page</a>
+  <a href="http://www.koffice.org/signature.php">KDE Signature page</a>
   or public key servers), and their respective MD5 sums are listed on the
-  <a href="http://www.koffice.org/releases/1.2.1-release.phtml">KOffice
+  <a href="http://www.koffice.org/releases/1.2.1-release.php">KOffice
   1.2.1 Info Page</a>.
 </p>
 <p align="justify">
@@ -306,7 +306,7 @@
   <u>Further Information</u>.
   For further instructions on compiling and installing KOffice,
   please consult the KOffice
-  <a href="http://www.koffice.org/install-source.phtml">installation
+  <a href="http://www.koffice.org/download/source.php">installation
   instructions</a>.  For problems with SRPMs, please contact the person
   listed in the applicable .spec file.
 </p>
@@ -317,7 +317,7 @@
 </h4>
 <p align="justify">
   Besides the valuable and excellent efforts by the
-  <a href="http://www.koffice.org/developers.phtml">KOffice developers</a>
+  <a href="http://www.koffice.org/people.php">KOffice developers</a>
   themselves, significant support for KOffice development has been provided by
   <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
   KOffice developers <a href="http://people.mandrakesoft.com/~david/">David

@@ -29,9 +29,9 @@ In particular, this release is substantially more stable and
 feature-complete than KOffice 1.0, which was released together with KDE 2.0
 in October 2000.  Changes to individual KOffice components since the last
 beta release are <A HREF="#changelog">enumerated below</A>.  In addition
-<A HREF="http://www.koffice.org/releases/1.1rc1-release.phtml">Release
+<A HREF="http://www.koffice.org/releases/1.1rc1-release.php">Release
 Notes</A>, a
-<A HREF="http://www.koffice.org/announcements/changelog-1.1.phtml">list of
+<A HREF="http://www.koffice.org/announcements/changelog-1.1.php">list of
 changes</A> since the KOffice 1.0 release, and a
 <A HREF="http://www.koffice.org/faq/">KOffice FAQ</A>, are
 available at the <A HREF="http://www.koffice.org/">KOffice website</A>.
@@ -184,7 +184,7 @@ KOffice-1.1beta3 release last month:
 <P>
 For a list of major changes since the KOffice 1.0 release last October, please
 visit the
-<A HREF="http://www.koffice.org/announcements/changelog-1.1.phtml">KOffice
+<A HREF="http://www.koffice.org/announcements/changelog-1.1.php">KOffice
 website</A>.
 </P>
 <P>
@@ -213,7 +213,7 @@ and <A HREF="http://ftp.kde.org/stable/2.1.2/distribution/">http://ftp.kde.org/s
 Please note, however, that kdelibs-2.1.1 will cause some crashes and
 anti-aliased font problems.  Moreover, both kdelibs-2.1.1 and kdelibs-2.1.2
 will not properly accept .doc documents in the file selection dialog (see the
-<A HREF="http://www.koffice.org/releases/1.1rc1-release.phtml">release
+<A HREF="http://www.koffice.org/releases/1.1rc1-release.php">release
 notes</A> for a workaround).
 <BR>&nbsp;<BR>For more information on these kdelibs
 releases, please see the
@@ -257,7 +257,7 @@ such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 <P>
 <EM><STRONG>Further Instructions</STRONG></EM>.
 For further instructions on compiling and installing KOffice, please consult
-the <A HREF="http://www.koffice.org/install-source.phtml">installation
+the <A HREF="http://www.koffice.org/download/source.php">installation
 instructions</A>.
 </P>
 <P>
@@ -358,7 +358,7 @@ among other things, information on
 </P>
 <P>
 Besides the valuable and excellent efforts by the
-<A HREF="http://www.koffice.org/developers.phtml">KOffice developers</A>
+<A HREF="http://www.koffice.org/people.php">KOffice developers</A>
 themselves, significant support for KOffice development has been provided by
 <A HREF="http://www.mandrakesoft.com/">MandrakeSoft</A> (which sponsors
 KOffice developers <A HREF="http://perso.mandrakesoft.com/~david/">David

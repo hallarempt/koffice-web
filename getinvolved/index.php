@@ -10,7 +10,7 @@
     to KOffice you could:</p>
 
     <ul>
-      <li><a href="doc-help.phtml">write documentation</a></li>
+      <li><a href="doc-help.php">write documentation</a></li>
 
       <li><a href="http://i18n.kde.org">translate KOffice</a></li>
 

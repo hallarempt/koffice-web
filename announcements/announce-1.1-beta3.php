@@ -31,7 +31,7 @@ In particular, this release is substantially more stable and
 feature-complete than KOffice 1.0, which was released together with KDE 2.0
 in October 2000.  Changes to individual KOffice components since the last
 beta release are <A HREF="#changelog">enumerated below</A>.  In addition, a
-<A HREF="http://www.koffice.org/announcements/changelog-1.1.phtml">list of
+<A HREF="http://www.koffice.org/announcements/changelog-1.1.php">list of
 changes</A> since the KOffice 1.0 release, and a
 <A HREF="http://www.koffice.org/faq/">FAQ about KOffice</A>, are
 available at the KOffice <A HREF="http://www.koffice.org/">website</A>.
@@ -154,7 +154,7 @@ key bindings;</LI>
 <P>
 For a list of major changes since the KOffice 1.0 release last October, please
 visit the
-<A HREF="http://www.koffice.org/announcements/changelog-1.1.phtml">KOffice
+<A HREF="http://www.koffice.org/announcements/changelog-1.1.php">KOffice
 website</A>.
 </P>
 <P>
@@ -205,7 +205,7 @@ A patch which fixes crashes in KIllustrator, particularly when embedded in
 If you compile from source please apply the patch as described in the
 <A HREF="ftp://ftp.kde.org/pub/kde/unstable/koffice-1.1-beta3/src/README">README</A>.
 For further instructions on compiling and installing KOffice, please consult
-the <A HREF="http://www.koffice.org/install-source.phtml">installation
+the <A HREF="http://www.koffice.org/download/source.php">installation
 instructions</A>.
 </P>
 <P>
@@ -288,7 +288,7 @@ among other things, information on
 </P>
 <P>
 Besides the valuable and excellent efforts by the
-<A HREF="http://www.koffice.org/developers.phtml">KOffice developers</A>
+<A HREF="http://www.koffice.org/people.php">KOffice developers</A>
 themselves, significant support for KOffice development has been provided by
 <A HREF="http://www.mandrakesoft.com/">MandrakeSoft</A> (which sponsors
 KOffice developers <A HREF="http://perso.mandrakesoft.com/~david/">David

@@ -41,7 +41,7 @@ components are all at various stages of development, which is indicated
 next to each component's description below.
 Changes to individual KOffice components are also enumerated below.
 In addition, a
-<A HREF="http://www.koffice.org/announcements/changelog-1.1.phtml">list of
+<A HREF="http://www.koffice.org/announcements/changelog-1.1.php">list of
 changes</A> and a <A HREF="http://www.koffice.org/faq/">FAQ about
 KOffice</A> are available at the KOffice
 <A HREF="http://www.koffice.org/">website</A>.
@@ -324,7 +324,7 @@ Various import/export filters are available in most of the KOffice
 applications to support document exchange with users of other office suits.
 For more information on KOffice filter status, including import filters for
 MS WinWord 97 and MS Excel 97, please visit the
-<A HREF="http://www.koffice.org/filters/status.phtml">KOffice filters status
+<A HREF="http://www.koffice.org/filters/">KOffice filters status
 page</A>. 
 <BR>
 
@@ -366,7 +366,7 @@ upgrade to kdelibs-2.1.2 when it becomes available.
 </P>
 <P>
 For further instructions on compiling and installing KOffice, please consult
-the <A HREF="http://www.koffice.org/install-source.phtml">installation
+the <A HREF="http://www.koffice.org/download/source.php">installation
 instructions</A>.
 </P>
 <P>
@@ -446,7 +446,7 @@ among other things, information on
 </P>
 <P>
 Besides the valuable and excellent efforts by the
-<A HREF="http://www.koffice.org/developers.phtml">KOffice developers</A>
+<A HREF="http://www.koffice.org/people.php">KOffice developers</A>
 themselves, significant support for KOffice development has been provided by
 <A HREF="http://www.thekompany.com/">theKompany.com</A>, which has
 contributed <A HREF="#Kivio">Kivo</A>, <A HREF="#Kugar">Kugar</A> and the

@@ -28,7 +28,7 @@
       </p>
       
       <p>
-      Look at the <a href="supporters.phtml">supporters page</a> to see who
+      Look at the <a href="support/supporters.php">supporters page</a> to see who
       already has helped support KOffice.
       </p>
       

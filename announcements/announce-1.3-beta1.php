@@ -247,7 +247,7 @@
     </ul>
 <p align="justify">
   A more complete
-  <a href="http://www.koffice.org/announcements/changelog-1.3beta1.phtml">list
+  <a href="http://www.koffice.org/announcements/changelog-1.3beta1.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
 <h4>
@@ -359,7 +359,7 @@ coming days and weeks.
 <p align="justify">
   <u>Further Information</u>.
   For further instructions on compiling and installing KOffice, please consult
-  the KOffice <a href="http://www.koffice.org/install-source.phtml">installation
+  the KOffice <a href="http://www.koffice.org/download/source.php">installation
   instructions</a>.  For
   problems with SRPMs, please contact the person listed in the applicable
   .spec file.
@@ -369,7 +369,7 @@ coming days and weeks.
 </h4>
 <p align="justify">
   Besides the valuable and excellent efforts by the
-  <a href="http://www.koffice.org/developers.phtml">KOffice developers</a>
+  <a href="http://www.koffice.org/people.php">KOffice developers</a>
   themselves, significant support for KOffice development has been provided by
   <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
   KOffice developer Laurent Montel),

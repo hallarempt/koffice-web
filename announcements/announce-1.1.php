@@ -72,8 +72,8 @@ KOffice 1.1 is available in 28 languages</A>.
 </P>
 <P>
 More information about KOffice, including
-<A HREF="http://www.koffice.org/releases/1.1-release.phtml">Release Notes</A>,
-a <A HREF="http://www.koffice.org/announcements/changelog-1.1.phtml">list of
+<A HREF="http://www.koffice.org/releases/1.1-release.php">Release Notes</A>,
+a <A HREF="http://www.koffice.org/announcements/changelog-1.1.php">list of
 changes</A> since the KOffice 1.0 release, and a
 <A HREF="http://www.koffice.org/faq/">KOffice FAQ</A>, are
 available at the <A HREF="http://www.koffice.org/">KOffice website</A>.
@@ -221,7 +221,7 @@ and <A HREF="http://master.kde.org/stable/2.1.2/distribution/">http://master.kde
 Please note, however, that kdelibs-2.1.1 will cause some crashes and
 anti-aliased font problems.  Moreover, both kdelibs-2.1.1 and kdelibs-2.1.2
 will not properly accept .doc documents in the file selection dialog (see the
-<A HREF="http://www.koffice.org/releases/1.1-release.phtml">release
+<A HREF="http://www.koffice.org/releases/1.1-release.php">release
 notes</A> for a workaround).
 <BR>&nbsp;<BR>For more information on these kdelibs
 releases, please see the
@@ -263,7 +263,7 @@ such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 <P>
 <A NAME="furinstr"><EM><STRONG>Further Instructions</STRONG></EM>.</A>
 For further instructions on compiling and installing KOffice, please consult
-the <A HREF="http://www.koffice.org/install-source.phtml">installation
+the <A HREF="http://www.koffice.org/download/source.php">installation
 instructions</A>.
 </P>
 <H4><A NAME="appdes">Application Descriptions</A></H4>
@@ -305,8 +305,8 @@ date and time or a custom variable;</LI>
 </P>
 <P>
 More information about KWord
-<A HREF="http://www.koffice.org/kword/features.phtml">features</A>, as well as
-many <A HREF="http://www.koffice.org/kword/screenshots.phtml">screenshots</A>,
+<A HREF="http://www.koffice.org/kword/features.php">features</A>, as well as
+many <A HREF="http://www.koffice.org/kword/screenshots.php">screenshots</A>,
 are available at the <A HREF="http://www.koffice.org/kword/">KWord website</A>.
 </P>
 <P>
@@ -338,7 +338,7 @@ changing slides;</LI>
 </P>
 <P>
 More information about KPresenter, including some
-<A HREF="http://www.koffice.org/kpresenter/screenshots.phtml">screenshots</A>,
+<A HREF="http://www.koffice.org/kpresenter/screenshots.php">screenshots</A>,
 is available at the <A HREF="http://www.koffice.org/kpresenter/">KPresenter
 website</A>.
 </P>
@@ -372,7 +372,7 @@ rotation, background color and pattern, font type, style and size, etc.).</LI>
 </P>
 <P>
 More information about KSpread, including some
-<A HREF="http://www.koffice.org/kspread/screenshots.phtml">screenshots</A>,
+<A HREF="http://www.koffice.org/kspread/screenshots.php">screenshots</A>,
 is available at the <A HREF="http://www.koffice.org/kspread/">KSpread
 website</A>.
 </P>
@@ -403,7 +403,7 @@ and rounded corners for a rectangle);</LI>
 </P>
 <P>
 More information about Kontour, including some
-<A HREF="http://www.koffice.org/kontour/screenshots.phtml">screenshots</A>,
+<A HREF="http://www.koffice.org/kontour/screenshots.php">screenshots</A>,
 is available at the <A HREF="http://www.koffice.org/kontour/">Kontour
 website</A>.
 </P>
@@ -467,7 +467,7 @@ window size).</LI>
 </P>
 <P>
 More information about KChart, including some
-<A HREF="http://www.koffice.org/kchart/screenshots.phtml">screenshots</A>,
+<A HREF="http://www.koffice.org/kchart/screenshots.php">screenshots</A>,
 is available at the <A HREF="http://www.koffice.org/kchart/">KChart
 website</A>.
 </P>
@@ -488,7 +488,7 @@ roots, fractions, integrals and brackets;</LI>
 </P>
 <P>
 More information about KFormula, including some
-<A HREF="http://www.koffice.org/kformula/screenshots.phtml">screenshots</A>,
+<A HREF="http://www.koffice.org/kformula/screenshots.php">screenshots</A>,
 is available at the <A HREF="http://www.koffice.org/kformula/">KFormula
 website</A>.
 </P>
@@ -498,8 +498,7 @@ website</A>.
 <P>
 KOffice includes a number of filters for importing MS Office and Corel
 Office documents as well as documents in other formats.  The current
-status of these filters is
-<A HREF="http://www.koffice.org/filters/status.phtml">available</A> at
+status of these filters is available at
 the <A HREF="http://www.koffice.org/filters/">KOffice filters website</A>.
 </P>
 <P>
@@ -527,7 +526,7 @@ among other things, information on
 </P>
 <P>
 Besides the valuable and excellent efforts by the
-<A HREF="http://www.koffice.org/developers.phtml">KOffice developers</A>
+<A HREF="http://www.koffice.org/people.php">KOffice developers</A>
 themselves, significant support for KOffice development has been provided by
 <A HREF="http://www.mandrakesoft.com/">MandrakeSoft</A> (which sponsors
 KOffice developers <A HREF="http://perso.mandrakesoft.com/~david/">David

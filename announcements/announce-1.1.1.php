@@ -67,7 +67,7 @@
  </ul>
  <p>
  A more complete
- <a href="http://www.koffice.org/announcements/changelog-1.1.1.phtml">list of
+ <a href="http://www.koffice.org/announcements/changelog-1.1.1.php">list of
  changes</a> and <a href="http://www.koffice.org/releases/">notes about
  the release</a> are available at the KOffice
  <a href="http://www.koffice.org/">web site</a>.
@@ -181,7 +181,7 @@
  crashes and anti-aliased font problems; moreover, both kdelibs-2.1.1
  and kdelibs-2.1.2 will not properly accept .doc documents in the file
  selection dialog (see the KOffice 1.1rc1
- <a href="http://www.koffice.org/releases/1.1rc1-release.phtml">release notes</a>
+ <a href="http://www.koffice.org/releases/1.1rc1-release.php">release notes</a>
  for a workaround).  For more information on these kdelibs releases, please
  see the <a href="http://www.kde.org/announcements/announce-2.1.1.html">KDE
  2.1.1 press release</a> and the
@@ -250,7 +250,7 @@
  <p>
  <em>Further Information</em>.  For further
  For further instructions on compiling and installing KOffice, please consult
- the KOffice <a href="http://www.koffice.org/install-source.phtml">installation
+ the KOffice <a href="http://www.koffice.org/download/source.php">installation
  instructions</a>.  For
  problems with SRPMs, please contact the person listed in the applicable
  .spec file.
@@ -280,7 +280,7 @@
  <h4>Corporate KOffice Sponsors</h4>
  <p>
  Besides the valuable and excellent efforts by the
- <a href="http://www.koffice.org/developers.phtml">KOffice developers</a>
+ <a href="http://www.koffice.org/people.php">KOffice developers</a>
  themselves, significant support for KOffice development has been provided by
  <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
  KOffice developers David Faure and Laurent Montel),
