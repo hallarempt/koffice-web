@@ -43,10 +43,6 @@ wait to be implemented</p>
         <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
         "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
     </li>
-    <li><del>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=75532">Bug #75532</a>:
-        "KWord does not pause for user input during spell checking." (Difficulty: ***; Sharability: *****)
-    </del></li>
     <li>
         <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
         "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)

@@ -13,10 +13,7 @@
 www/areas/koffice</p>
 
 <ul>
-    <li><del>Some pages are supposed to be XHTML 1.0 but they still contain errors. Such
-    pages should be fixed. (Difficulty: **; Sharability: *)</del></li>
-    
-    <li><del>Check and fix spelling (Difficulty: *; Sharability: *)</del></li>
+    <li><em>No predefined web tasks available currently.</em></li>
 </ul>
 
 <p>Note: some of the tasks could be done on all KDE Web sites.
