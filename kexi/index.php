@@ -68,7 +68,7 @@ data provider for mailmerge in KWord.</p -->
 
 <h2>Current version</h2>
 
-Current Kexi version is 0.1 beta 3. See <a href="http://www.kexi-project.org/announce-0.1-beta3.html">the announcement</a>.
+Current Kexi version is 0.1 beta 4. See <a href="http://www.kexi-project.org/announce-0.1-beta4.html">the announcement</a>.
 
 
 <h2>Features</h2>
