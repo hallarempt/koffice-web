@@ -6,12 +6,12 @@
 ?>
 
 
-<h2>KWord Features<h2>
+<h2>KWord Features</h2>
 
 <p>Note: depending on the documents, it might be better to use RTF
  (Rich Text Format.)</p>
 
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFFFFF">
 <td colspan="3" align="left" valign="top"><br /><h2>Character Formatting</h2></td>
 </tr>
@@ -280,7 +280,7 @@
 
 </table>
 
-<h2>OOWriter Specific Features<h2>
+<h2>OOWriter Specific Features</h2>
 <table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFEEAA">
  <td align="left" valign="top"><h3>HTML Feature</h3></td>

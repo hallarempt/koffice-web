@@ -5,8 +5,8 @@
   include("header.inc");
 ?>
 
-<h2>KWord Features<h2>
-<table border="4" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<h2>KWord Features</h2>
+<table border="4" cellspacing="0" cellpadding="5" >
 
 <tr bgcolor="#FFFFFF">
 <td colspan="3" align="left" valign="top"><p><h2>Character Formatting</h2></td>
@@ -265,15 +265,11 @@
 
 </table>
 
-<h2>Plain Text Specific Features<h2>
+<h2>Plain Text Specific Features</h2>
 
 <p>Not applicable</p>
 
 <?php
    include("footer.inc");
 ?>
-
-
-
-
 

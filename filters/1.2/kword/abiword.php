@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-<h2>KWord Features<h2>
+<h2>KWord Features</h2>
 <table border="4" cellspacing="0" cellpadding="5" >
 
 <tr bgcolor="#FFFFFF">
@@ -272,7 +272,7 @@
 
 </table>
 
-<h2>AbiWord Specific Features<h2>
+<h2>AbiWord Specific Features</h2>
 
 <table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFEEAA">

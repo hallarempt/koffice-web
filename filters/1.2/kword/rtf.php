@@ -6,7 +6,7 @@
 ?>
 
 
-<h2>KWord Features<h2>
+<h2>KWord Features</h2>
 
 <p>Note: the export filter has been re-written for KOffice 1.3.</p>
 
@@ -279,7 +279,7 @@
 
 </table>
 
-<h2>RTF Specific Features<h2>
+<h2>RTF Specific Features</h2>
 <table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFEEAA">
  <td align="left" valign="top"><h3>HTML Feature</h3></td>
