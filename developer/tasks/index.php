@@ -23,7 +23,7 @@ a single directory... It is more important that some part is done at all.)</p>
     KOffice 1.3 really does. Anything not correctly documented (for example 
     because it has changed) should be reported to:
     <a href="mailto:lauri@kde.org">Lauri Watts</a></li>
-<ul>
+</ul>
 
 <h2>KOffice CVS HEAD</h2>
 
