@@ -43,10 +43,6 @@
      <li>templates</li>
      </ul>
 
-     <p>
-     We are currently working on support for bi-directional editing of text. This is needed for Hebrew, Arabic etc. The next release will contain this functionality.
-     </p>
-
      <p>If you are having trouble getting the Euro character working, take a look at
        <a href="euro.php">this page</a>.
      </p>
