@@ -1,6 +1,6 @@
 <?php 
   $page_title="KOffice Filters Status (KOffice 1.3)";
-  $location = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (KOffice 1.3)';
+  $site_root="../";
   include("koffice.inc");
   include("header.inc");
 ?><div>
@@ -130,7 +130,7 @@
         <a href="kword/oowriter.php">OpenOffice Writer</a>
       </td>
       <td width="50%" align="left" valign="top"> </td>
-      <td width="10%" align="center" valign="top">**</td>
+      <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
         <a href="kword/pdf.php">PDF</a>
       </td>
       <td width="50%" align="left" valign="top">Portable Document Format</td>
-      <td width="10%" align="center" valign="top">**</td>
+      <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
@@ -277,7 +277,7 @@
       <td width="30%" align="left" valign="top">
         <a href="kspread/dbase.php">dBase</a>
       </td>
-      <td width="50%" align="left" valign="top"> </td>
+      <td width="50%" align="left" valign="top">dBase 3 only</td>
       <td width="10%" align="center" valign="top">**</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
@@ -473,7 +473,7 @@
         <b>*</b>
       </td>
       <td valign="top"> -- </td>
-      <td valign="top">Work has begun on the filter although the code is still at an early stage of development, and may not work properly.</td>
+      <td valign="top">Work has begun on the filter although the code is still at an early stage of development, and does not work properly.</td>
     </tr>
     <tr>
       <td valign="top">
