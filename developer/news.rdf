@@ -9,14 +9,14 @@
     <copyright>Copyright (C) 2003,2004, KOffice.org Webmasters</copyright>
     
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Tue, 03 Feb 2004 17:25 UT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2004 15:12 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
 
 <item>
 <title>Central KDE 3.2 Check</title>
-<pubDate>Tue, 03 Feb 2004 17:24 UT</pubDate>
+<pubDate>Tue, 03 Mar 2004 17:24 UT</pubDate>
 <description>
 The central KDE 3.1.x check was transformed into a central KDE 3.2.x check.
 The test is named &lt;tt&gt;need_kde_32_compatibility&lt;/tt&gt;
