@@ -123,6 +123,7 @@
 <li>Export pie/chord/arc object</li>
 <li>Export rotate object</li>
 <li>Export object name</li>
+<li>Export picture object</li>
 </ul>
 
 
@@ -141,6 +142,7 @@
 <ul>
 <li>Fix export header/footer</li>
 <li>Export print range</li>
+<li>Fix export don't print cell</li>
 </ul>
 
 <h4>Karbon's EPS filter:</h4>
