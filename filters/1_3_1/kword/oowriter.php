@@ -243,7 +243,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Tables</td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported</td>
- <td bgcolor="#CECECE" align="left" valign="top">Not Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Basic Support</td>
 </tr>
 
 
