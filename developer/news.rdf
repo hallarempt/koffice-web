@@ -9,10 +9,21 @@
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
 
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Thu, 26 Aug 2004 20:48:00 UT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2004 14:41:00 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>KOffice 1.3.3 released</title>
+<pubDate>Sun, 19 Sep 2004 14:40 UT</pubDate>
+<description>
+The third bugfix release of KOffice 1.3 is available. See the
+&lt;a href="http://kde.org/areas/koffice/releases/1.3.3-release.php"&gt;release notes&lt;/a&gt;
+and the complete &lt;a href="http://kde.org/areas/koffice/announcements/changelog-1.3.3.php"&gt;list of changes&lt;/a&gt;.
+</description>
+<source url="http://www.koffice.org/news.rdf">KOffice News</source>
+</item>
 
 <item>
 <title>Minutes of the aKademy KOffice Meeting</title>
