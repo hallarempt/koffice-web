@@ -98,6 +98,8 @@
 <ul>
 <li>Export settings into settings.xml (Snap drawing line)</li>
 <li>Fix generate list of picture</li>
+<li>Export transparency attribute</li>
+<li>Fix header into content.xml</li>
 </ul>
 
 
