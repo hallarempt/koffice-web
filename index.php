@@ -2,8 +2,8 @@
   $page_title = "KOffice - Integrated Office Suite";
   $site_root = "./";
   $site_menus = 2;
-  include("header.inc");
   include("koffice.inc");
+  include("header.inc");
 ?>
 
     <p><b>KOffice</b> is a free, integrated office suite for <a href="http://www.kde.org">KDE</a>, the K Desktop Environment.</p>
