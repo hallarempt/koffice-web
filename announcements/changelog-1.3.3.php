@@ -75,8 +75,11 @@
 
 <h3><a name="filters">Filters</a></h3>
 
-<h4>KWord's RTF import filter:</h4>
+<h4>KWord's OOWriter export filter:</h4>
 <ul>
+  <li>
+    Fix generation of spaces (<a href="http://bugs.kde.org/show_bug.cgi?id=86561">Bug #86561</a>)
+  </li>
 </ul>
 
 <h4>KPresenter's OOImpress import filter:</h4>
