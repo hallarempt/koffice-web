@@ -147,6 +147,9 @@ management system in 100K</a></li>
 
 	<p>Academic:</p>
 <ul>
+        <li><a href="http://www.billbaxter.com/refs/Cockshott-Dissertation.pdf">Wet & Sticky</a> -- dissertion by Tunde Cockshott on modelling wet paint.</a></li>
+        <li><a href="http://www.billbaxter.com/refs/Fishkin-Dissertation.pdf">Applying Color Science to Computer Graphics</a> -- dissertion by Kenneth Paul Fishkin.
+        <li><a href="http://www.billbaxter.com/dissertation/Baxter-dissertation.pdf">Physically based interactive painting</a> -- dissertion by Bill Baxter.</p></a></li>
 	<li><a href="http://www.cs.unc.edu/Research/geom/dab/">dAb Interactive Haptic Painting with 3D Virtual Brushes</a></li>
 	<li><a href="http://gamma.cs.unc.edu/impasto/">IMPaSTo - A realistic, Interactive
 Model for Paint</a></li>
