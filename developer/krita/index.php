@@ -116,11 +116,14 @@
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_pattern.h">patterns</a>,
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_brush.h">brushes</a> (based on Gimp's brushes) or
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_gradient.h">gradients</a>. Note that this
-      is an architectural change that wasn't completed at the time of writing: only brushes have been proted
-      to the KisResource. Patterns should be done, and gradients appear to be completely dead at the time of
-      writing.</p>
+      is an architectural change that wasn't completed at the time of writing: only brushes and patterns have been ported
+      to the KisResource. Gradients should still be done. Krita can now also use Gimp's pipe brushes. 
+      </p>
 
-    <p>There is no support for fancy procedural brushes yet. Don't be fooled by the
+    <p>There is no support for fancy procedural brushes yet. (But look at the KisImagePipeBrush class for an
+	example of how it could be done.)</p>
+
+    <p>There is nothing close to filters or plugins: don't be fooled by the
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/plugins">plugins</a> modules; it's dead,
       and has been dead for a long time. One day plugins will be resurrected, possibly on the same
       day that kde-wide scripting for applications is implemented. (Internal to applications, not
