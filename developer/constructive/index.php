@@ -16,8 +16,8 @@
 <h2>Emails</h2>
 
 <ul>
-    <li><a href="http://lists.kde.org/?l=koffice-devel&m=103867692818163&w=2">Usecases of KOffice</a></li>
-    <li><a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a></li>
+    <li><a href="http://lists.kde.org/?l=koffice-devel&amp;m=103867692818163&amp;w=2">Usecases of KOffice</a></li>
+    <li><a href="http://lists.kde.org/?l=koffice-devel&amp;m=107835129123866&amp;w=2">KWord vs Framemaker review</a></li>
 </ul>
 
 <h2>WebSites</h2>

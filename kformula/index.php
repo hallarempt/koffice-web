@@ -31,7 +31,6 @@
       <li>Multi-level undo support</li>
       <li>LaTeX export (copy and paste into a text editor)</li>
       </ul>
-      </p>
       
       <p>
       KFormula uses the KOffice formula drawing library. If you have to deal with many
@@ -40,12 +39,10 @@
       </p>
 
       <h2>Coming soon to KFormula</h2>
-      <p>
       <ul>
       <li>LaTeX import</li>
       <li>MathML import</li>
       </ul>
-      </p>
 
 <?php include("footer.inc"); ?>
 

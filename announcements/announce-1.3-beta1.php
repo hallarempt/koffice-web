@@ -462,10 +462,10 @@ coming days and weeks.
     </th>
   </tr>
   <tr valign="top">
-    <td align="right" nowrap>
+    <td align="right" nowrap="nowrap">
       United&nbsp;States:
     </td>
-    <td nowrap>
+    <td nowrap="nowrap">
       Andreas Pour<br />
       KDE League, Inc.<br />
       pour AT kdeleague DOT org<br />
@@ -473,30 +473,30 @@ coming days and weeks.
     </td>
   </tr>
   <tr valign="top">
-    <td align="right" nowrap>
+    <td align="right" nowrap="nowrap">
       Europe (French and English):
     </td>
-    <td nowrap>
+    <td nowrap="nowrap">
       David Faure<br />
       faure@kde.org<br />
       (33) 4 3250 1445
     </td>
   </tr>
   <tr valign="top">
-    <td align="right" nowrap>
+    <td align="right" nowrap="nowrap">
       Europe (German and English):
     </td>
-    <td nowrap>
+    <td nowrap="nowrap">
       Ralf Nolden<br />
       nolden@kde.org<br />
       (49) 2421 502758
     </td>
   </tr>
   <tr valign="top">
-    <td align="right" nowrap>
+    <td align="right" nowrap="nowrap">
       Europe (English):
     </td>
-    <td nowrap>
+    <td nowrap="nowrap">
       Jono Bacon<br />
       jono@kde.org
     </td>

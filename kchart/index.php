@@ -20,20 +20,19 @@
 
 <h2>Description</h2>
 
-      <p><b>Description:</b><br>
+      <p><b>Description:</b><br />
       KChart is the KOffice chart drawing application.  Use it to embed charts
       into your KOffice documents, e.g. a report written with KWord.</p>
 
-      <p><b>Easy to Use:</b><br />
+      <p><b>Easy to Use:</b><br /></p>
       <ul>
         <li>default values for all parameters</li>
         <li>automatical ordinate axis computation based on highest/lowest data value</li>
         <li>default sizes (fonts, line widths...) relative to the window size</li>
       </ul>
-      </p>
 
 
-      <p><b>Highly Configurable:</b><br />
+      <p><b>Highly Configurable:</b></p>
       <ul>
         <li>All of the parameters may be changed after configuring/drawing the chart.</li>
         <li>Size values (axis/grid line width, font sizes, bar width, dataset gap,
@@ -42,58 +41,52 @@
           since such values are being recalculated automatically when the window
           dimensions have changed.</li>
       </ul>
-      </p>
       
-      <p><b>Flexible Layout:</b><br />
+      <p><b>Flexible Layout:</b></p>
       <ul>
         <li>Legends may be centered at a chart edge or in a corner with the chart
           making way in vertical and/or in horizontal direction thus offering
           16 legend/chart relationships to choose from</li>
         <li>Header and footer texts have special font type/size and color settings</li>
       </ul>
-      </p>
 
-      <p><b>Axes and Data:</b><br />
+      <p><b>Axes and Data:</b></p>
       <ul>
         <li>Automatical ordinate axis computation based on highest/lowest data value
           which can be easily replaced by programmer-defined start, end and delta
-          value settings.
+          value settings.</li>
         <li>Abscissa labels may be taken either from data cells containing the
           respective strings or from programmer-defined QStringLists or calculated
           automatically based on a format chosen by the user and values found
-          in the cells
-        <li>Up to 8 axes: 2 left, 2 right, 2 top, 2 bottom
+          in the cells</li>
+        <li>Up to 8 axes: 2 left, 2 right, 2 top, 2 bottom</li>
         <li>A chart may have 2 different ordinates: e.g. left axis for series 1,2,3
-          right axis for data series 4
+          right axis for data series 4</li>
         <li>Each axis may draw (sub-)grid lines using their own color, line width,
-          style
+          style</li>
       </ul>
-      </p>
 
-      <p><b>Chart Combinations:</b><br />
+      <p><b>Chart Combinations:</b></p>
       <ul>
         <li>sharing the same abscissa axis or using different ones (e.g Top and
-          Bottom axis)
+          Bottom axis)</li>
         <li>sharing the same ordinate or using different ones (e.g Left and Right
-          axis)
+          axis)</li>
         <li>Axes may use the same line color / line width as the bars (or the lines,
-          resp.) which they belong to.
+          resp.) which they belong to.</li>
       </ul>
-      </p>
 
-      <p><b>Chart Types:</b><br />
+      <p><b>Chart Types:</b></p>
       <ul>
-        <li>Bar:    normal | stacked | percent, 2D | 3D-Look
+        <li>Bar:    normal | stacked | percent, 2D | 3D-Look</li>
         <li>Line:   normal | stacked | percent, 2D | 3D-Look,
-                  show marker: circle | square | diamond
-        <li>Area:   normal | stacked | percent
-        <li>HiLo:   normal | open-close
-        <li>Pie:    normal | exploded | some exploded, 2D | 3D
+                  show marker: circle | square | diamond</li>
+        <li>Area:   normal | stacked | percent</li>
+        <li>HiLo:   normal | open-close</li>
+        <li>Pie:    normal | exploded | some exploded, 2D | 3D</li>
         <li>Ring:   normal | exploded | some exploded,
-                  fixed thickness | relative thickness
-        <li>Polar:  normal | stacked | percent
+                  fixed thickness | relative thickness</li>
+        <li>Polar:  normal | stacked | percent</li>
       </ul>
-      </p>
-
 
 <?php include("footer.inc"); ?>

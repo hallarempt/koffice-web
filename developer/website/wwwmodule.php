@@ -22,7 +22,7 @@ the commit really appears on the web site.
 <h2>Applying For Removing The Write Protection</h2>
 
 <p>So if you think about maintaining (or helping to maintain)
-a part of <a href="/">www.koffice.org<a> or if you plan
+a part of <a href="/">www.koffice.org</a> or if you plan
 to commit from time to time in the <a href="/">KOffice web site</a>, you have to ask the
 <a href="mailto:sysadmin@office.kde.org">Sysadmins</a>.</p>
 

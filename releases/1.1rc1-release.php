@@ -21,16 +21,15 @@
       <li><a href="/download/source.php">Source code</a></li>
       <li><a href="/download">Binary packages</a></li>
       </ul>
-      </p>
       <h2>Bugs</h2>
       <p>If you are using kdelibs-2.1.x, you won't see "*.doc" in the KWord
       file selector when opening a document.  To load a "*.doc" file, you
       must either type *.doc in the filter combobox, or add *.doc to the
       extensions for the application/msword mimetype (this change can be
       made in the Control Center under "Configure File Types Association").
-      This problem has been fixed in kdelibs-2.2.x.</P>
-      <P>Please do not report this issue as a KWord bug! It is a problem in
-      kdelibs which has already been fixed.</P>
+      This problem has been fixed in kdelibs-2.2.x.</p>
+      <p>Please do not report this issue as a KWord bug! It is a problem in
+      kdelibs which has already been fixed.</p>
 <!-- 
       <p>A fix for xxx is available. The patch can be applied against the KOffice 1.1rc1 sources.</p>
       <p>The fix is available <a href="/bugfixes/rc1-blah.diff">here</a>.</p>

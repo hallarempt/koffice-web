@@ -23,11 +23,10 @@
       </ul>
       <h2>MD5 sums</h2>
       <p>
-       The MD5 sums for the tarballs are:
+       The MD5 sums for the tarballs are:</p>
 <?php
 include "md5-koffice-1.2.1.inc"
 ?>
-      </p>
       <p>
        Also provided: <a href="md5-pgp-koffice-1.2.1.txt">a PGP-signed version of the MD5 sums</a>.
       </p>

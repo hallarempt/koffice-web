@@ -68,7 +68,7 @@ Open Source licenses from the KDE
 <a href="http://master.kde.org/stable/koffice-1.1/">server</a>
 and its <a href="http://www.kde.org/mirrors.html">mirrors</a>.
 As a result of the dedicated efforts of hundreds of translators,
-KOffice 1.1 is available in 28 languages</a>.
+KOffice 1.1 is available in 28 languages.
 </p>
 <p>
 More information about KOffice, including
@@ -78,40 +78,43 @@ changes</a> since the KOffice 1.0 release, and a
 <a href="http://www.koffice.org/faq/">KOffice FAQ</a>, are
 available at the <a href="http://www.koffice.org/">KOffice website</a>.
 </p>
-<p>
+
 <h4>Index</h4>
+
 <ul>
-<li><a href="#inbinpack">Installing Binary Packages</a></li>
-<ul>
-<li><a href="#binlibreq">Library Requirements</a></li>
-<li><a href="#binpackloc">Binary Package Locations</a></li>
-</ul>
-<li><a href="#compile">Downloading and Compiling KOffice</a></li>
-<ul>
-<li><a href="#Source_Code">Source Packages</a></li>
-<li><a href="#Source_Code-Library_Requirements">Library Requirements</a></li>
-<li><a href="#compilereq">Compiler Requirements</a></li>
-<li><a href="#furinstr">Further Instructions</a></li>
-</ul>
-<li><a href="#appdes">Application Descriptions</a></li>
-<ul>
-<li><a href="#kword">KWord</a></li>
-<li><a href="#kpresenter">KPresenter</a></li>
-<li><a href="#kspread">KSpread</a></li>
-<li><a href="#kontour">Kontour</a></li>
-<li><a href="#kivio">Kivio</a></li>
-<li><a href="#kchart">KChart</a></li>
-<li><a href="#kformula">KFormula</a></li>
-<li><a href="#filters">filters</a></li>
-</ul>
+<li><a href="#inbinpack">Installing Binary Packages</a>
+  <ul>
+   <li><a href="#binlibreq">Library Requirements</a></li>
+   <li><a href="#binpackloc">Binary Package Locations</a></li>
+  </ul>
+</li>
+<li><a href="#compile">Downloading and Compiling KOffice</a>
+  <ul>
+   <li><a href="#Source_Code">Source Packages</a></li>
+   <li><a href="#Source_Code-Library_Requirements">Library Requirements</a></li>
+   <li><a href="#compilereq">Compiler Requirements</a></li>
+   <li><a href="#furinstr">Further Instructions</a></li>
+  </ul>
+</li>
+<li><a href="#appdes">Application Descriptions</a>
+  <ul>
+   <li><a href="#kword">KWord</a></li>
+   <li><a href="#kpresenter">KPresenter</a></li>
+   <li><a href="#kspread">KSpread</a></li>
+   <li><a href="#kontour">Kontour</a></li>
+   <li><a href="#kivio">Kivio</a></li>
+   <li><a href="#kchart">KChart</a></li>
+   <li><a href="#kformula">KFormula</a></li>
+   <li><a href="#filters">filters</a></li>
+  </ul>
+</li>
 <li><a href="#about">About KOffice</a></li>
 <li><a href="#sponsers">Corporate KOffice Sponsors</a></li>
 <li><a href="#press">Press Contacts</a></li>
 </ul>
-</p>
-<p>
+
 <h4>Installing Binary Packages</h4>
-</p>
+
 <p>
 <a name="inbinpack"><em><strong>Binary Packages</strong></em>.</a>
 Some distributors choose to provide binary packages of KOffice for certain
@@ -194,9 +197,9 @@ coming days and weeks; in particular,
 <a href="http://www.debian.org/">Debian</a> packages are expected late
 this or early next week.
 </p>
-<p>
+
 <h4><a name="compile">Downloading and Compiling KOffice</a></h4>
-</p>
+
 <p>
 <a name="Source_Code"></a><em><strong>Source Packages</strong></em>.
 The source packages for KOffice 1.1 are available for free download at
@@ -502,9 +505,7 @@ For more information about KOffice, please visit KOffice's
 among other things, information on
 <a href="http://www.koffice.org/getinvolved/">contributing to KOffice</a>.
 </p>
-<p>
 <h4><a name="sponsers">Corporate KOffice Sponsors</a></h4>
-</p>
 <p>
 Besides the valuable and excellent efforts by the
 <a href="http://www.koffice.org/people.php">KOffice developers</a>
@@ -565,7 +566,7 @@ faure@kde.org<br />
 </td></tr>
 <tr valign="top"><td align="right" nowrap="nowrap">
 Europe (English and German):
-</td><td nowrap>
+</td><td nowrap="nowrap">
 Ralf Nolden<br />
 nolden@kde.org<br />
 (49) 2421 502758

@@ -42,7 +42,8 @@ depend on old kexiDB could be ported, Kexi sources can be broken.
 </p -->
 
 <p>
-Kexi is an integrated environment for managing data. It helps in creating database schema, inserting, querying and processing data. 
+Kexi is an integrated environment for managing data. It helps in creating database schema, inserting, querying and processing data.
+</p>
 
 <p>
 The idea of this development effort came because of noticeable lack of application like MS Access, FoxPro, Oracle Forms or File Maker that is powerful enough, inexpensive, open standards driven and highly portable between many OSes and hardware platforms.
@@ -60,8 +61,8 @@ Kexi Project, started in 2002, is developed by <a href="http://www.kexi-project.
 
 <p>
 The major communication channel in Kexi development is <a href="irc://irc.freenode.net/#kexi">the Kexi IRC channel</a>.
+</p>
 
-<P>
 <!-- p>Another example for the integration into the whole KOffice suite is that Kexi can be used as a
 data provider for mailmerge in KWord.</p -->
 
@@ -88,21 +89,22 @@ Current Kexi version is 0.1 beta 3. See <a href="http://www.kexi-project.org/ann
  <li>User-defined forms for data input and presentation (in progress)</li>
  <li>Scripting support (rewrite planned) <!-- with a JavaScript/ECMA-Script like language
  (<a href="http://www.trolltech.com/products/qsa/index.html">QSA</a>)</li>
- <li>KWord mailmerge integration</li -->
+ <li>KWord mailmerge integration</li>
  <li>Easy data report generation (rewrite planned)</li>
 </ul>
 
 
 <h3>Database Backends</h3>
 <p>
-At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:
+At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:</p>
 <ul>
  <li><a href="http://www.sqlite.org">SQLite</a> (file-based, mostly complete)</li>
  <li><a href="http://www.postgresql.org">PostgreSQL (mostly workable)</a></li>
  <li><a href="http://www.mysql.com">MySQL (obsolete)</a></li>
  <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (obsolete)</a></li>
 </ul>
-It is planned to support also other database systems, especially ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are: SQLite and PostgreSQL.</p>
+<p>
+It is planned to support also other database systems, especially ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are: SQLite and PostgreSQL.
 </p>
 
 <p>

@@ -13,7 +13,7 @@ for KOffice 1.3 and totally for KOffice 1.4.</p>
 <?php
 $faq = new FAQ();
 
-$faq->addQuestion("Do we really need filters", "<p>In my opinion we definitely need filters because an important factor influencing the success of an office suite is the ability to import and export documents. Of course this is not critical stuff like printing or a nice and straightforward use interface, but it's not just a &quot;nice-to-have&quot; feature, either.</p>
+$faq->addQuestion("Do we really need filters", "In my opinion we definitely need filters because an important factor influencing the success of an office suite is the ability to import and export documents. Of course this is not critical stuff like printing or a nice and straightforward use interface, but it's not just a &quot;nice-to-have&quot; feature, either.</p>
 <p>Just imagine a user working in a heterogenous environment using KOffice among other office suites. Sometimes it is necessary to exchange documents as we all know. Now the adventure begins:</p>
 <ul>
 <li> Which format do I use (i.e. Which format is supported by both office suites)?</li>

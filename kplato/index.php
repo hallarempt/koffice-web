@@ -27,7 +27,7 @@
       <p><b>Mailing List:</b><br />
          The KPlato mailing list is at <a href="mailto:kplato@kde.org">kplato@kde.org</a><br />
          Subscription information can be found <a href="http://mail.kde.org/mailman/listinfo/kplato">here</a>.<br />
-         Online archives at: <a href="http://lists.kde.org/?l=kplato&r=1&w=2">lists.kde.org</a>
+         Online archives at: <a href="http://lists.kde.org/?l=kplato&amp;r=1&amp;w=2">lists.kde.org</a>
       </p>
 
 <?php include("footer.inc"); ?>

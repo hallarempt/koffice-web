@@ -7,7 +7,7 @@
 
    <h2>Developing Krita</h2>
 
-   <p><i>Boudewijn Rempt<i></p>
+   <p><i>Boudewijn Rempt</i></p>
 
 	<h3>Contents</h3>
 	<ul>
@@ -25,7 +25,7 @@
 
    <p>This document contains my understanding of Krita, as I came to grasp it after a long series of email
       exchanges with Krita's architect, Patrick Julien in October 2003 on the
-      <a href="http://lists.kde.org/?l=kde-kimageshop&r=1&b=200310&w=2">Krita mailing list</a>. Corrections
+      <a href="http://lists.kde.org/?l=kde-kimageshop&amp;r=1&amp;b=200310&amp;w=2">Krita mailing list</a>. Corrections
       are welcome.</p>
 
     <p>When reading the Krita source, a copy of the GOF book,
@@ -108,7 +108,7 @@
       and should provide:</p>
 
       <ul>
-        <li>An icon to show up in the tool palette</i>
+        <li>An icon to show up in the tool palette</li>
         <li>A dialog to configure properties</li>
         <li>Code in KisPainter that implements the tool's action if it is a painting tool,
            or other code somewhere else if it is a non-painting tool, like a selection.</li>

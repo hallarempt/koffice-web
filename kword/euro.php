@@ -49,8 +49,8 @@
       so if anything goes wrong you can restart X and find the original keys again.
       To make those changes permanent, put the xmodmap lines (what was between the single quotes)
       in your ~/.Xmodmap file. Mine reads:
-      <blockquote><pre>keycode 26 = e E EuroSign</pre></blockquote>
       </p>
+      <blockquote><pre>keycode 26 = e E EuroSign</pre></blockquote>
       <p>
       It seems that kxkb (the "International Keyboard" KDE application that docks into the
       panel) overrides the xmodmap changes. So the best is to simply disable kxkb (there is
@@ -74,7 +74,9 @@
       appropriate package (under Mandrake and probably RedHat, it's <code>locales-fr</code>
       for instance).
       <br/>
-      To select a locale, add <blockquote><code>export LC_ALL="fr_FR@euro"</code></blockquote>
+      To select a locale, add </p>
+      <blockquote><code>export LC_ALL="fr_FR@euro"</code></blockquote>
+      <p>
       to ~/.bashrc (assuming you are using bash). Somehow KDE should export LC_ALL itself,
       this is the same problem as the non-latin1 users, and still under debate...
       If you see "Qt: Locales not supported on X server" after setting LC_ALL, it means

@@ -77,7 +77,7 @@ and 1.1.1 releases.
      <li>hiding and showing the legend</li> 
      <li>modifying the title of the legend</li> 
      <li>modifying the x-axis labels</li> 
-     <li>adding one or two header and/or a footer text<br> 
+     <li>adding one or two header and/or a footer text<br /> 
          with user defined fonts and color settings</li> 
 </ul> 
 

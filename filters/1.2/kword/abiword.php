@@ -230,7 +230,7 @@ otherwise restricted due to a bug.</p>
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Pictures</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported.</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">
-  PNG is supported.<br>SVG status is unknown.<br>WMF is not supported.<br>Any other image type is converted to PNG.
+  PNG is supported.<br />SVG status is unknown.<br />WMF is not supported.<br />Any other image type is converted to PNG.
  </td>
 </tr>
 

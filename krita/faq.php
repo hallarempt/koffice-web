@@ -35,7 +35,7 @@ is still small enough that it is fairly easy to 'get into' the codebase, and sta
 ready for a plugin-framework or an extensible toolset.");
 
 $faq->addQuestion("What Does it Do?",
- "Or rather, what <i>should</i> it do, and what does it do already:
+ "<p>Or rather, what <i>should</i> it do, and what does it do already:</p>
 <ul>
 <li>brushes, drawing and layer editing tools (not complete)</li>
 <li>RGB, RGBA and CMYK color modes with adjustable color selectors (complete) Grayscale needs to be done.</li>
@@ -56,7 +56,9 @@ $faq->addQuestion("What Does it Do?",
 <li>embedding in other KOffice apps (needs testing)</li>
 <li>user-oriented documentation of all the above basic functionality (incomplete)</li>
 </ul>
+<p>
 Other planned features:
+</p>
 <ul>
 <li>HSV and Grayscale color models</li>
 <li>All painting and drawing tools</li>
@@ -68,7 +70,9 @@ devices such as digital cameras and scanners using scanlines and other import me
 <li>scripting with the Python language</li>
 <li>dockable toolbars</li>
 </ul>
+<p>
 KParts architecture and plugins allow:
+</p>
 <ul>
 <li>plugins for effects and operation on images and selections</li>
 <li>additional tools</li>

@@ -28,8 +28,6 @@
         against the KOffice 1.3-beta1 sources (in the koffice/lib/kotext directory).</p>
       <p>It fixes a crash related to paragraphs with numbers or bullets.</p>
 
-      </p>
-
 <?php include("footer.inc"); ?>
 
 

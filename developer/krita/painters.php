@@ -25,7 +25,7 @@ QPainter. KisPaintDevice also takes up some of the roles of QImage,
 but isn't all that efficient at it.</p>
 
 <p>Examples of <tt>KisPaintDevice</tt>s are: <tt>KisLayer</tt>,
-<tt>KisSelection</tt> and <tt>KisBackground</tt>.
+<tt>KisSelection</tt> and <tt>KisBackground</tt>.</p>
 
 <h3>Getting pixel data in and out of a KisPaintDevice.</h3>
 

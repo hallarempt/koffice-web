@@ -10,20 +10,16 @@
    
     <h2>Stable versions</h2>
     
-    <p>
      <ul>
       <li><a href="1.2">Filter status of KOffice 1.3</a></li>
       <li><a href="1_3_1">Filter status of KOffice 1.3.1</a></li>
      </ul>
-    </p>
     
     <h2>Stable branches</h2>
     
-    <p>
      <ul>
       <li><a href="1_3_1"><!-- No special status for the branch currently -->Filter status of KOffice 1.3.x</a></li>
      </ul>
-    </p>
 
     <h2>Developer Information</h2>
     <p><a href="../developer/filters">The developer information about the

@@ -20,13 +20,12 @@
 <p>We suppose that you have modified some code in KOffice (or elsewhere in KDE) and that
 you are ready to share it.</p>
 
-<p>First a few important points:
+<p>First a few important points:</p>
   <ul>
     <li>You must allow that the modification will have the license of the file where the
     modification is/was made.</li>
     <li>Please make sure that the code compiles correctly on a fairly recent version of the software.</li>
   </ul>
-</p>
 
 <h2>What Is A Patch?</h2>
 
@@ -73,12 +72,11 @@ sub-directories below it. Of course, here too, you want to redirect the output.<
 
 <p><tt>cvs diff -u -p &gt; ~/patch.diff</tt></p>
 
-<p>There are useful variants too (shown here without redirection)
+<p>There are useful variants too (shown here without redirection)</p>
   <ul>
     <li>For just one file: <tt>cvs diff -u -p source.cpp</tt></li>
     <li>For the current directory only: <tt>cvs diff -l -u -p</tt></li>
   </ul>
-</p>
 
 <p>Please note: even if cvs can make the difference of a directory (<tt>cvs diff -u -p mydirectory</tt>), it is not
 recommended to do it for a patch that should be applied again. (The problem is that the person that will apply
@@ -142,7 +140,7 @@ can send the email.</p>
 <p>Now you have to wait that a developer reacts on your patch. (If you are not subscribed to the mailing lists where
 you have sent the patch, then monitor <a href="http://lists.kde.org">the mailing list archives</a> for such a message.)</p>
 
-<p>The reaction is normally one of the following:
+<p>The reaction is normally one of the following:</p>
   <ul>
     <li>No developer answers. (That is unfortunately happening from time to time.)</li>
     <li>The developer does not want your patch, as he is working on the same code.</li>
@@ -151,7 +149,6 @@ you have sent the patch, then monitor <a href="http://lists.kde.org">the mailing
     <li>The developer finds the patch good and tells that he will work on it.</li>
     <li>The developer accepts your patch as it is.</li>
   </ul>
-<p>
 
 <p>The first case is when nobody has answered. That perhaps means that you
 have chosen the wrong mailing list. Perhaps you have not explained correctly

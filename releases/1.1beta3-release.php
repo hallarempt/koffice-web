@@ -21,7 +21,6 @@
       <li><a href="/download/source.php">Source code</a></li>
       <li><a href="/download">Binary packages</a></li>
       </ul>
-      </p>
       <h2>Bugs</h2>
       <p>A fix for a crash in Kontour is available. The patch can be applied against the KOffice 1.1beta3 sources.</p>
       <p>The fix is available <a href="/bugfixes/beta3-killustrator.diff">here</a>.</p>
@@ -34,7 +33,6 @@
       <ul>
       <li>Crash when saving a document after inserting a clipart</li>
       </ul>
-      </p>
 
       
 <?php include("footer.inc"); ?>

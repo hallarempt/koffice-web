@@ -32,7 +32,7 @@
       <!-- What is the status of this? -->
       <li><a href="http://users.skynet.be/kborrey/klipart/klipart.html">contribute artwork</a></li>
       
-      <li>help maintaining koffice.org. See the <a href="/developer/website/tasks.php">Web Task List</a>.
+      <li>help maintaining koffice.org. See the <a href="/developer/website/tasks.php">Web Task List</a>.</li>
 
       <li>test KOffice extensively and send descriptive bug reports
       <a href="http://bugs.kde.org">via the "Help, Report Bug" mechanism</a> in the programs.</li>

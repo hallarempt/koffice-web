@@ -21,7 +21,6 @@
       <li><a href="/download/source.php">Source code</a></li>
       <li><a href="/download">Binary packages</a></li>
       </ul>
-      </p>
       <h2>Bugs</h2>
       <p>A fix for several crashes is available. The patch can be applied against the KOffice 1.1beta2 sources.</p>
       <p>The fix is available <a href="/bugfixes/beta2-fix.diff">here</a>.</p>
@@ -30,7 +29,6 @@
       <li>Crash when generating table of contents in KWord</li>
       <li>Fix for undoing/redoing of changing paragraph attributes</li>
       </ul>
-      </p>
       
 <?php include("footer.inc"); ?>
 

@@ -13,7 +13,7 @@
     <li>Find similar bug entries and add a comment like "see also bug #99999" in 
     such bugs. (This is especially between KPresenter, KWord and KOffice.) (Difficulty: *; Sharability: *)</li>
     
-    <li>Read the <a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a>
+    <li>Read the <a href="http://lists.kde.org/?l=koffice-devel&amp;m=107835129123866&amp;w=2">KWord vs Framemaker review</a>
     and create new bug or wish reports for missing and not reported features. (Difficulty: *; Sharability: *)</li>
 </ul>
     

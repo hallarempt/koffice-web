@@ -13,12 +13,12 @@
 CVS account for KDE.</p>
 
 <h2>Notations</h2>
-<p><ul>
+<ul>
   <li><em>CVS</em> is used to describe a CVS server, mostly KDE's or
     the KDE's anonymous CVS servers.</li>
   <li>The low case word <em>cvs</em> is used to
     describe the program named cvs, which the user can use to access CVS.</li>
-</ul></p>
+</ul>
 
 <h2>Preliminary</h2>
 

@@ -35,7 +35,8 @@ data itself. A template can be referenced via a URL which allows businesses
 to create a centrally managed template library. 
 </p>
 <p>
-Features include:
+Features include:</p>
+
 <ul>
 <li>Kugar report designer.</li>
 <li>Report printing in Postscript.</li>
@@ -52,7 +53,6 @@ Features include:
 <li>Additional formatting (negative numbers, currency, commas for numbers and
   dates).</li>
 </ul>
-</p>
 
 <?php include("footer.inc"); ?>
 

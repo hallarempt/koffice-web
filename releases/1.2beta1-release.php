@@ -21,7 +21,6 @@
       <li><a href="/download/source.php">Source code</a></li>
       <li><a href="/download">Binary packages</a></li>
       </ul>
-      </p>
       
 <?php include("footer.inc"); ?>
 

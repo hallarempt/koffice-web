@@ -17,7 +17,7 @@
     <p>For most of the PHP files, Konqueror do not recognize them as
     HTML files and therefore refuse to display them. The little trick is
     to add <tt>&lt;html&gt;</tt> on the first line
-    and <tt>&lt;/html&gt; on the last line of the document.</p>
+    and <tt>&lt;/html&gt;</tt> on the last line of the document.</p>
     
     <p>Of course be careful <em>not to commit</em> these 2 debug lines.</p>
 

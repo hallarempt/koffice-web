@@ -7,12 +7,12 @@
 
       <h2>Links For Special Distributions</h2>
       <ul>
-      <li><a href="http://lists.kde.org?l=koffice-devel&m=106571934702580&w=2">
+      <li><a href="http://lists.kde.org?l=koffice-devel&amp;m=106571934702580&amp;w=2">
         KOffice CVS Head with Gideon on Debian</a></li>
       </ul>
 
       <h2>Requirements</h2>
-      <p>To compile KOffice you need:
+      <p>To compile KOffice you need:</p>
 <ul>
 <!-- ### TODO: exact needed version of autoconf/automake? -->
 <li>For KOffice 1.3: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
@@ -25,7 +25,6 @@
 for info about getting and installing it.)
 </li>
 </ul>
-</p>
 
 <h2>Information</h2>
 <p>KOffice stable is currently available as version 1.3.1, designed to run with KDE 3.1 and later.<br />
@@ -35,7 +34,7 @@ If you want the development version (where you need at least KDE 3.2) you can ch
 regularly via CVS or CVSUP.</p>
 
 <h2>Download</h2>
-<p><b>KOffice 1.3.1 stable</B> is available 
+<p><b>KOffice 1.3.1 stable</b> is available 
 <a href="http://download.kde.org/stable/koffice-1.3.1/src/">here</a></p>
 
 <!--
@@ -44,9 +43,9 @@ regularly via CVS or CVSUP.</p>
 -->
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
-<p>The development version via <b>anonymous CVS</B> (recommended) needs extra instructions, check the
+<p>The development version via <b>anonymous CVS</b> (recommended) needs extra instructions, check the
 <a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.</p>
-<p>The development version via <b>CVSup</B> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.</p>
+<p>The development version via <b>CVSup</b> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.</p>
 <p>Use cvsup or anoncvs if you plan to update often, since you will save a significant amount 
 of time. If you use cvsup or anoncvs, you need to run <tt>make -f Makefile.cvs</tt> before 
 running <tt>./configure</tt> in the instructions below, or follow the instructions on the 

@@ -58,8 +58,6 @@
     href="http://i18n.kde.org/teams/distributed.html">25</a> languages.</p>
 
     <h4>KOffice Components</h4>
-    <br />
-    <br />
      
 
     <p>KOffice is an integrated office suite consisting of numerous components
@@ -107,8 +105,8 @@
 
           <li>templates.</li>
         </ul>
-        <br />
-        Changes since the last release include: 
+
+        <p>Changes since the last release include:</p> 
 
         <ul>
           <li>New overall design and new formatting engine (using the Qt
@@ -204,8 +202,8 @@
 
           <li>a Presentations Structure Viewer.</li>
         </ul>
-        <br />
-        Changes since the last release include: 
+
+        <p>Changes since the last release include: </p>
 
         <ul>
           <li>Added "Copy Page" feature.</li>

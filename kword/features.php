@@ -161,6 +161,7 @@
       cell doesn't fit into the cell anymore. Tables can of course flow over
       multiple pages.
       </p>
+
       <p>
       <b>Footnotes:</b><br />
       KWord allows to insert footnotes
@@ -188,7 +189,7 @@
       <p><b>Copy paste</b>
        You can copy and paste about every object there is in KWord, 
        including whole frames with their text
-      <p>
+      </p>
 
       <p><b>Inline objects</b>
        Every frame can also be anchored to the text, so when you enter more text the inline

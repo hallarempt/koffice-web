@@ -15,12 +15,12 @@
 <h2><a name="lists">Mailing Lists</a></h2> 
      
     <p>KOffice has two general mailing lists:</p>
-    <p>
+
         <ul>
             <li><a href="http://www.kde.org/mailinglists/index.php#koffice">koffice mailing list</a></li>
             <li><a href="http://www.kde.org/mailinglists/index.php#koffice-devel">koffice-devel mailing list</a></li>
         </ul>
-    </p>
+
     <p>The koffice mailing list is mainly for the users of KOffice, the koffice-devel is mainly for the developers.
     Please note that the write access of the koffice-devel mailing list is restricted.</p>
     <p>As KOffice is part of KDE it uses some of KDE's mailing lists, for example

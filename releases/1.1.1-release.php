@@ -7,7 +7,7 @@
 
       <p>The KOffice team is proud to announce the release of KOffice 1.1.1</p>
       <p>Various resources are available.</p>
-      <p><h2>Announcement</h2></p>
+      <h2>Announcement</h2>
       <ul>
       <li><a href="/announcements/announce-1.1.1.php">Announcement</a></li>
       </ul>
@@ -21,7 +21,6 @@
       <li><a href="/download/source.php">Source code</a></li>
       <li><a href="/download">Binary packages</a></li>
       </ul>
-      </p>
 
 <!--       <h2>Bugs</h2>
       <p>A fix for xxx is available. The patch can be applied against the KOffice 1.1 sources.</p>

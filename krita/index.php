@@ -45,15 +45,16 @@
       the same.
       </p>
 
-      <!--p>
+      <p>
       <b>Additional Krita documents and links:</b>
+      </p>
       <ul><li><a href="faq.php">FAQs</a>
               <ul><li><a href="faq.php#whatis">What Is It?</a></li>
                   <li><a href="faq.php#how">How Does It Work?</a></li>
                   <li><a href="faq.php#whatdoes">What Does It Do?</a></li>
               </ul>
+          </li>
       </ul>
-      </p-->
 
       <p>
       To join the development, contact one of the developers or join the
@@ -101,7 +102,7 @@
          what Koffice needs itself:</p>
 
       <ul><li><a href="http://www.imagemagick.org/">Image
-              Magick X11 Image Processing and Display Package</a>
+              Magick X11 Image Processing and Display Package</a></li>
           <li><a href="http://www.littlecms.com">Little CMS &mdash; a free color
 management system in 100K</a></li>
       </ul>
@@ -120,9 +121,9 @@ management system in 100K</a></li>
 	implemented, I guess, but interesting nonetheless.</li>
       </ul>
 
-      <p>(Non free:)</a>
+      <p>(Non free:)</p>
       <ul>
-        <li><a href="http://www.corel.com/servlet/Satellite?pagename=Corel/Products/productInfo&id=1047021764853&did=1047021793915">Corel Painter (the descendant of Fractal Painter)</a></li>
+        <li><a href="http://www.corel.com/servlet/Satellite?pagename=Corel/Products/productInfo&amp;id=1047021764853&amp;did=1047021793915">Corel Painter (the descendant of Fractal Painter)</a></li>
         <li><a href="http://www.squirreldome.com/cyberop.htm">DogWaffle</a></li>
         <li><a href="http://www.mindworkshop.com/alchemy/paint.html">e-Paint</a></li>
         <li><a href="http://jijigaga.com/product/index.htm">Smoothdraw</a></li>

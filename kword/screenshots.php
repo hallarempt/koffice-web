@@ -15,7 +15,6 @@ $gallery->addImage("pics/kword_classic_picture_sm.png", "pics/kword_classic_pict
 $gallery->startNewRow();
 $gallery->addImage("pics/kword_kde31_it_sm.png", "pics/kword_kde31_it.png", "204", "144", "[Screenshot KWord 1.3 Italian]", 0 , "KWord 1.3 in Italian");
 $gallery->addImage("pics/kword-arabic_sm.png", "pics/kword-arabic.png", "189", "144", "[Screenshot KWord 1.2 Arabic]", 0 , "KWord 1.2 can be used for bi-directional texts like Arabic (05/02)");
-$gallery->startNewRow();
 $gallery->show();
 ?>
 

@@ -1,4 +1,4 @@
-<<?php
+<?php
   $page_title="StarWriter Filter";
   $location = '../../../';
   include("koffice.inc");
@@ -11,8 +11,8 @@
 
   <h2>Feature matrix</h2>
   <p>Legend: green = "works well", yellow = "planned or works partly", red = "not ready"</p>
-  <table BORDER="1">
-    <th>Feature</th><th>Import</th><th>Export</th>
+  <table border="1">
+    <tr><th>Feature</th><th>Import</th><th>Export</th></tr>
     <tr><td colspan="3"><strong>Document properties</strong></td></tr>
     <tr><td>Generic information</td><td bgcolor="#ff0000"></td><td bgcolor="#ff0000"></td></tr>
     <tr><td colspan="3"><strong>Page properties</strong></td></tr>
@@ -50,7 +50,7 @@
     <tr><td>Borders</td><td bgcolor="#ff0000"></td><td bgcolor="#ff0000"></td></tr>
   </table>
 
-<<?php
+<?php
    include("footer.inc");
 ?>
 

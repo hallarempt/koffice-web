@@ -9,15 +9,15 @@
 
 <h2>Abstract</h2>
 
-<p>This tutorial is about how to apply for a CVS account for KDE/KOffice.</h2>
+<p>This tutorial is about how to apply for a CVS account for KDE/KOffice.</p>
 
 <h2>Notations</h2>
 
-<p><ul>
+<ul>
   <li>The word <em>CVS</em> applies to all CVS servers.</li>
   <li>The phrase <em>KDE CVS</em> refers only to KDE's CVS server.</li>
   <li>The phrase <em>anonymous CVS</em> means KDE's anonymous CVS mirrors.</li>
-</ul></p>
+</ul>
 
 <h2>What is KDE CVS?</h2>
 
@@ -33,11 +33,12 @@ address for knowing who to contact if another developer wants to contact the acc
 <p>Note: you can see the accounts in kde-common/accounts. That is the list of all accounts.
 Yes, <b>the account list is public</b>, for example on <a href="http://webcvs.kde.org">WebCVS</a>.</p>
 
-<p>To access the main KDE CVS, you have two possibilities:
+<p>To access the main KDE CVS, you have two possibilities:</p>
   <ul>
     <li>the normal CVS pserver mode</li>
     <li>the CVS pserver mode tunneled in SSH.</li>
   </ul>
+<p>
   (&quot;pserver&quot; is the name of the way in which CVS communicates to a CVS server over a network.)
 </p>
 
@@ -46,12 +47,11 @@ much to hide: email notifications of all commits are sent to the public kde-cvs 
 anything you can download using <tt>cvs update</tt> can be downloaded by anyone else
 (after all, KDE is opensource).</p>
 
-<p>The password you'll need to create depends on the above:
+<p>The password you'll need to create depends on the above:</p>
   <ul>
     <li>a normal CVS password</li>
     <li>a SSH password.</li>
   </ul>
-</p>
 
 <p>(As I have only read two short articles about how to use CVS over SSH, I will
 not comment further on this.)</p>
@@ -63,7 +63,6 @@ not comment further on this.)</p>
     <li>the admin directory</li>
     <li>the www module (exceptions can be made for this.)</li>
   </ul>
-</p>
 
 <h2>Who Can Apply For a KDE CVS Account?</h2>
 
@@ -146,7 +145,7 @@ use your own (be it a normal address or a KDE Mail address). Of course, do not f
 (at least by <a href="http://webcvs.kde.org">WebCVS</a>) so you will unfortunately get spam.</p>
 
 <p>Now you are ready to send your email to ask for a KDE CVS account.</p>
-<p>So put in your email:
+<p>So put in your email:</p>
   <ul>
     <li>your full name (it might already be in the email header).</li>
     <li>your email address</li>
@@ -154,7 +153,6 @@ use your own (be it a normal address or a KDE Mail address). Of course, do not f
     <li>the encoded password</li>
     <li>a concise justification for needing a CVS account</li>
   </ul>
-</p>
 
 <p>Now please check again that you have done it all right. (The people who
 will receive your email get hundreds of emails per day, so help them by doing
@@ -167,13 +165,12 @@ Then send your email to <a href="mailto:sysadmin@office.kde.org">KDE's sysadmins
 (typically the next weekday, European day time (UTC+1 in winter,
 UTC+2 in summer).</p>
 
-<p>You can get one of three answers:
+<p>You can get one of three answers:</p>
   <ul>
     <li>yes</li>
     <li>no</li>
     <li>maybe</li>
   </ul>
-</p>
 
 <p>Let's start with the worst: no. I suppose that the reason would be that you
 are not known enough or similar. When you are more known and have helped more,

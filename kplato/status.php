@@ -7,7 +7,7 @@
 
     <p>First a screenshot: <a href="basic-diag.png">Current</a></p>
 
-    <p>A list of TODO items we have decided will have to be present at least before an 1.0 release.
+    <p>A list of TODO items we have decided will have to be present at least before an 1.0 release.</p>
     <ul>
      <li> Requirments specification (DONE)</li>
      <li> Data structuring and class creation (DONE)</li>
@@ -24,7 +24,6 @@
      <li> Merge <a href="http://www.taskjuggler.org/">taskjuggler</a> and KPlato</li>
      <li> etc.</li>
     </ul>
-    </p>
 
     <p>
     As we have chosen to use the KOffice framework there are a number of things that are amazingly easy to do;</p>

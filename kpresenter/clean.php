@@ -5,8 +5,6 @@
   include("header.inc");
 ?>
 
-
-  <body>
     <h2>KPresenter - [implemented features]</h2>
 
     <p>On this page you find a short description of the features

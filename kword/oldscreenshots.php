@@ -34,7 +34,6 @@ $gallery->addImage("pics/kword3_sm.png", "pics/kword3.png", "130", "196", "[Scre
 $gallery->startNewRow();
 $gallery->addImage("pics/kword2_sm.png", "pics/kword2.png", "136", "173", "[Screenshot]", 0 , "Superscript, subscripts, and paragraph borders (10/98)");
 $gallery->addImage("pics/kword1_sm.png", "pics/kword1.png", "132", "171", "[Screenshot]", 0 , "Basic paragraph flow and picture insertion (10/98)");
-$gallery->startNewRow();
 $gallery->show();
 ?>
 

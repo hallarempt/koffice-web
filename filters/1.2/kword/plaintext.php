@@ -9,7 +9,7 @@
 <table border="4" cellspacing="0" cellpadding="5" >
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Character Formatting</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Character Formatting</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
@@ -94,7 +94,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Paragraph Formatting</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Paragraph Formatting</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
@@ -139,7 +139,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Frame Properties</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Frame Properties</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
@@ -159,7 +159,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Document Properties</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Document Properties</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
@@ -209,7 +209,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Images</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Images</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
@@ -224,7 +224,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Tables</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Tables</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
@@ -239,7 +239,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><p><h2>Styles</h2></td>
+<td colspan="3" align="left" valign="top"><h2>Styles</h2></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">

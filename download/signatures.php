@@ -19,9 +19,9 @@ older keys.</p>
 <p>
 The current KOffice Archives PGP key is:</p>
 <pre>
-pub  1024D/09B06E10 2001-09-12 David Faure <faure@kde.org>
+pub  1024D/09B06E10 2001-09-12 David Faure &lt;faure@kde.org&gt;
      Key fingerprint = EEFA 895F EF2D 5532 4DC0  A3B5 EF62 9C54 09B0 6E10
-uid                            David Faure <david@mandrakesoft.com>
+uid                            David Faure &lt;david@mandrakesoft.com&gt;
 sub  1024g/78D439AD 2001-09-12
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -156,9 +156,9 @@ Starting from version 1.2.90 (KOffice 1.3 beta1), the PGP key is:
 </p>
 
 <pre>
-pub 1024D/75923BEE 2001-05-05 Lukas Tinkl <lukas.tinkl@suse.cz>
+pub 1024D/75923BEE 2001-05-05 Lukas Tinkl &lt;lukas.tinkl@suse.cz&gt;
    Key fingerprint = 9D57 E574 A446 8A17 26F0  DB21 75F8 4BEE 7592 3BEE
-   uid                        Lukas Tinkl <lukas@kde.org>
+   uid                        Lukas Tinkl &lt;lukas@kde.org&gt;
    sub  1024g/593DBD12 2001-05-05
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----

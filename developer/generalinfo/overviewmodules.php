@@ -204,7 +204,7 @@
     </tr>
   </table>
 
-<p>Release rythmns:
+<p>Release rythmns:</p>
 <ul>
   <li>Qt: <a href="http://www.trolltech.com">Trolltech</a> has its own release cycles for Qt. Qt-copy is released with KDE.</li>
   <li>KDE: released with KDE (1 or 2 per year).</li>
@@ -214,7 +214,6 @@
   <li>Web: web sites are normally synchronised every half-an-hour.</li>
   <li>Never: these modules are never released.</li>
 </ul>
-</p>
 
 <h2>Most basic system</h2>
 
