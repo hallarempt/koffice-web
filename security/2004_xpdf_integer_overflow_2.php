@@ -9,6 +9,16 @@
 
 <p>KOffice 1.3 (including betas) to 1.3.5 have an integer overflow vulnerability in KWord's PDF import filter.</p>
 
+<h2>References</h2>
+
+<ul>
+  <li>
+    <a href="http://kde.org/info/security/advisory-20041223-1.txt">
+    the corresponding security advisiory for KDE.
+    </a>
+  </li>
+</ul>
+
 <h2>How to fix source code?</h2>
     
     <p>
