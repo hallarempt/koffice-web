@@ -5,13 +5,17 @@
   include("header.inc");
 ?>
 
-<h2>Foreword</h2>
+<h2>Abstract</h2>
 
 <p>This tutorial is about how to apply for a CVS account for KDE/KOffice.</h2>
 
-<p>Notations: the word <em>CVS</em> means that it applies for other CVS servers too. The phrase
-<em>KDE CVS</em> means that it only applies to KDE's CVS server. The phrase <em>anonymous CVS</em> means KDE's
-anonymous CVS mirrors.</p>
+<h2>Notations</h2>
+
+<p><ul>
+  <li>The word <em>CVS</em> means that it applies for other CVS servers too.</li>
+  <li>The phrase<em>KDE CVS</em> means that it only applies to KDE's CVS server.</li>
+  <li>The phrase <em>anonymous CVS</em> means KDE's anonymous CVS mirrors.</li>
+</ul></p>
 
 <h2>What is KDE CVS?</h2>
 

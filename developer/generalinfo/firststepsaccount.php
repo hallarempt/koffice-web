@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-<h2>Foreword</h2>
+<h2>Abstract</h2>
 
 <p>This tutorial is about what to do when you are a fresh owner of a new
 CVS account for KDE.</p>
@@ -14,9 +14,13 @@ CVS account for KDE.</p>
 descibed <a href="applycvsaccount">here</a> and that you have received
 a positive answer with the data of your new account.</p>
 
-<p>Notations: <em>CVS</em> is used to describe a CVS server, mostly KDE's or
-the KDE's anonymous CVS servers. The low case word <em>cvs</em> is used to
-describe the program that the user can use to access CVS.</p>
+<h2>Notations</h2>
+<p><ul>
+  <li><em>CVS</em> is used to describe a CVS server, mostly KDE's or
+    the KDE's anonymous CVS servers.</li>
+  <li>The low case word <em>cvs</em> is used to
+    describe the program that the user can use to access CVS.</li>
+</ul></p>
 
 <h2>Changing The Root Of Your Local CVS Copy</h2>
 
