@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>KOffice Developer News</title>
@@ -6,14 +6,14 @@
     <description>News for KOffice's Developers</description>
     <language>en-us</language>
     <webMaster>webmaster@kde.org</webMaster>
-    <copyright>Copyright (C) 2003-2004, KOffice.org Webmaster</copyright>
-    <lastBuildDate>10 Jan 2004</lastBuildDate>
+    <copyright>Copyright (C) 2003,2004, KOffice.org Webmaster</copyright>
+    <lastBuildDate>Sat, 10 Jan 2004 18:05 UT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 
 
 <item>
 <title>KOffice Developer News going RSS 2.0</title>
-<pubDate>10 Jan 2004</pubDate>
+<pubDate>Sat, 10 Jan 2004 17:00 UT</pubDate>
 <description>
 The KOffice Developer News is now a RSS 2.0 feed
 &lt;a href="http://www.feedvalidator.org/check?url=http%3A%2F%2Fwww.koffice.org%2Fdeveloper%2Fnews.rdf"&gt;
@@ -23,7 +23,7 @@ and should be able to be validated.&lt;/a&gt;
 
 <item>
 <title>KOffice 1.3 RC2 released</title>
-<pubDate>18 Dec 2003</pubDate>
+<pubDate>Thu, 18 Dec 2003 22:22 UT</pubDate>
 <description>
 Second release candidate version of KOffice 1.3 is available. See the short
 &lt;a href="/releases/1.3rc2-release.php"&gt;release notes&lt;/a&gt;
@@ -34,7 +34,7 @@ and the complete &lt;a href="http://www.koffice.org/announcements/changelog-1.3.
 
 <item>
 <title>KOffice 1.3 RC1 released</title>
-<pubDate>29 Oct 2003</pubDate>
+<pubDate>Wed, 29 Oct 2003 22:22 UT</pubDate>
 <description>
 First release candidate version of KOffice 1.3 is available. See the short
 &lt;a href="/releases/1.3rc1-release.phtml">release notes&lt;/a&gt;
@@ -45,7 +45,7 @@ and the complete &lt;a href="http://www.koffice.org/announcements/changelog-1.3r
 
 <item>
 <title>KOffice 1.3 RC1 tagged</title>
-<pubDate>28 Oct 2003</pubDate>
+<pubDate>Tue, 28 Oct 2003 22:22 UT</pubDate>
 <description>
 Today KOffice was tagged with the tag KOFFICE_1_3_RC1.
 </description>
@@ -53,7 +53,7 @@ Today KOffice was tagged with the tag KOFFICE_1_3_RC1.
 
 <item>
 <title>Better work-around for KDE 3.1</title>
-<pubDate>26 Oct 2003</pubDate>
+<pubDate>Sun, 26 Oct 2003 22:22 UT</pubDate>
 <description>
 A better work around for
 &lt;a href="http://bugs.kde.org/show_bug.cgi?id=66142">bug #66142&lt;/a&gt;
@@ -69,7 +69,7 @@ by the way of the mailing lists.)
 
 <item>
 <title>Partial save function back for KDE 3.1</title>
-<pubDate>24 Oct 2003</pubDate>
+<pubDate>Fri, 24 Oct 2003 22:22 UT</pubDate>
 <description>
 A hack was committed to restore a minimum of functionality
 to the save dialog for KOffice CVS HEAD on KDE 3.1.x
@@ -82,7 +82,7 @@ the KOffice mailing lists.
 
 <item>
 <title>KOffice API documentation working again</title>
-<pubDate>24 Oct 2003</pubDate>
+<pubDate>Fri, 24 Oct 2003 22:22 UT</pubDate>
 <description>
 The &lt;a href="http://www.koffice.org/developer/apidocmain.php">
 KOffice API documentation&lt;/a&gt; is again regurlarly updated from
@@ -92,7 +92,7 @@ now on.
 
 <item>
 <title>Welcome To KOffice Developer News</title>
-<pubDate>20 Oct 2003</pubDate>
+<pubDate>Mon, 20 Oct 2003 22:22 UT</pubDate>
 <description>
 Welcome to KOffice Developer News, the news for the KOffice developers.
 This is a test until the beginning of the year 2004. Then we will see if
