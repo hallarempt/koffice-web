@@ -38,7 +38,7 @@ It is fully integrated into KOffice and can for example be embeded into KWord.
 
 <p>
 If you want to keep up with the development check out
-<a href="http://janeway.no-ip.org/">Peter Simonsson's weblog</a>
+<a href="http://www.kdedevelopers.org/blog/4">Peter Simonsson's weblog</a>
 </p>
 
 <?php include("footer.inc"); ?>

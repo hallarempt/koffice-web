@@ -21,7 +21,7 @@
      <li> Implementing project editor-dialog</li>
      <li> Implementing milestone editor-dialog</li>
      <li> Implementing zooming support for the views</li>
-     <li> Merge <a href="http://www.suse.de/~freitag/taskjuggler/">taskjuggler</a> and KPlato</li>
+     <li> Merge <a href="http://www.taskjuggler.org/">taskjuggler</a> and KPlato</li>
      <li> etc.</li>
     </ul>
 
