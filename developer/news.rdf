@@ -10,6 +10,18 @@
     <copyright>Copyright (c) 2003, KOffice.org Webmaster</copyright>
 
 <item>
+<title>Partial save function back for KDE 3.1</title>
+<date>2003-10-24</date>
+<fullstory>
+A hack was committed to restore a minimum of functionality
+to the save dialog for KOffice CVS HEAD on KDE 3.1.x.
+Please be careful that the entries "empty file" of the
+filter choice do not work! Please report saving problems to
+the KOffice mailing lists.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice API documentation working again</title>
 <date>2003-10-24</date>
 <fullstory>
