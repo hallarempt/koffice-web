@@ -5,12 +5,6 @@
   include("header.inc");
 ?>
 
-<p style="border:solid red;color:red;text-align:center">
-    This document is <em>under construction</em>.<br />
-    KOffice 1.3.2 has <strong>not</strong> been released yet!
-</p>
-
-
       <p>The KOffice team is proud to announce the second bugfix version in KOffice 1.3 series.</p>
 
       <h2>Changelog</h2>
