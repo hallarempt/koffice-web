@@ -1,5 +1,5 @@
 <?php
-  $page_title="External File Format Links";
+  $page_title="File Format Resources";
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
