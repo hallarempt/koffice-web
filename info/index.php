@@ -38,16 +38,16 @@
 
     <p>If you want to test the latest development versions of
     KOffice, you can download daily sources and install them. For
-    instructions go <a href="/install-source.phtml">here</a>. Those
+    instructions go <a href="/download/source.php">here</a>. Those
     parts of KOffice that are in the current release are also available
     in pre-packaged binary form and do not need to be compiled from
     source, unless you want the very latest versions.</p>
 
     <p>If you have problems compiling KOffice, please look at the
-    <a href="/faq/index.phtml">FAQs</a>, and when that fails, e-mail the
+    <a href="/faq/">FAQs</a>, and when that fails, e-mail the
     <a href="mailto:koffice@kde.org">KOffice mailing list</a>. Please
     don't mail the authors. For reporting bugs please go to <a
-    href="/contact.phtml#bugs">here</a>.</p>
+    href="/contact/index.php#bugs">here</a>.</p>
 
     <p>Screenshots are placed per component, please look at the
     pages for each KOffice program.</p>
