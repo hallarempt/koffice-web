@@ -6,7 +6,7 @@
 ?>
 
 <h2>KWord Features<h2>
-<table border="4" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<table border="4" cellspacing="0" cellpadding="5" >
 
 <tr bgcolor="#FFFFFF">
 <td colspan="3" align="left" valign="top"><br /><h2>Character Formatting</h2></td>
@@ -273,7 +273,8 @@
 </table>
 
 <h2>AbiWord Specific Features<h2>
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+
+<table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFEEAA">
  <td align="left" valign="top"><h3>AbiWord Feature</h3></td>
  <td align="left" valign="top"><h3>Import Status</h3></td>
