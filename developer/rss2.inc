@@ -17,13 +17,16 @@
 
 /*
  *Similar to kde_parse_date but:
+ * - other form of date
+ * - no seconds
  * - also supports UT instead of GMT
  * - use gmmktime instead of mktime
  */
 function kde_parse_date_ut ($date)
 {
   // return UNIX timestamp
-  if (ereg("^([0-9]+) ([^ ]+) ([0-9]+) \(([0-9]{2}):([0-9]{2}):([0-9]{2})\) (GMT|UT)$", $date, $m))
+  // ### TODO: allow optionally seconds
+  if (ereg("^[A-Za-z]{3}, ([0-9]+) ([A-Za-z]{3}) ([0-9]+) ([0-9]{2}):([0-9]{2}) (GMT|UT)$", $date, $m))
   {
     switch (strtolower($m[2][0] . $m[2][1] . $m[2][2]))
     {
@@ -68,7 +71,7 @@ function kde_parse_date_ut ($date)
         return gmdate("U");
         break;
     }
-    return gmmktime(intval($m[4]), intval($m[5]), intval($m[6]), $month,
+    return gmmktime(intval($m[4]), intval($m[5]), 0, $month,
                   intval($m[1]), intval($m[3]));
   }
   else
