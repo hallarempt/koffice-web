@@ -52,5 +52,9 @@
       Please follow the instructions mentioned on the FAQ for changing your <code>/etc/apt/sources.list</code>
       file after which you should just be able to use <code>apt-get install</code> to get KOffice.
       </p>-->
+      
+      <h2>MacOS X packages</h2>
+      <p>Available from the Fink project at 
+      <a href="http://fink.sourceforge.net/pdb/search.php?s=koffice">fink.sf.net</a>.</p>
 
 <?php include("footer.inc"); ?>
