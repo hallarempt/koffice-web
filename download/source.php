@@ -77,7 +77,7 @@ Qt snapshot :<br /><br />
 <p>
 And then for each KDE package:<br />
 <em>Make sure you have done the QTDIR export in the Qt dir as pointed out above, this is still used!</em><br /><br />
-<tt>bunzip &lt;package&gt;.tar.bz2 or cvs checkout</tt>
+<tt>bunzip2 &lt;package&gt;.tar.bz2 or cvs checkout</tt>
 <br /><tt>tar xvf &lt;package&gt;.tar</tt>
 <br /><tt>cd &lt;package&gt;</tt>
 <br /><tt>./configure</tt>
@@ -101,7 +101,7 @@ And then for each KDE package:<br />
       <h2>Download and Install KOffice</h2>
 
       <p>
-      <tt>bunzip koffice-XXXXXX.tar.bz2</tt><br />
+      <tt>bunzip2 koffice-XXXXXX.tar.bz2</tt><br />
       <tt>tar xvf koffice-XXXXXX.tar</tt><br />
       <tt>cd koffice</tt><br />
       <tt>./configure &lt;options, see below&gt;</tt><br />
