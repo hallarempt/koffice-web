@@ -470,6 +470,16 @@ are highly encouraged to use that flag</li>
 <li><em>New!</em></li>
 </ul>
 
+<em>KWord MS Write export filter:</em>
+<ul>
+<li><em>New!</em></li>
+</ul>
+
+<em>KWord MS Write import filter:</em>
+<ul>
+<li>Portable rewrite using LibMSWrite</li>
+</ul>
+
 <em>KSpread CSV import filter:</em>
 <ul>
 <li>Be careful when the first column is declared as numeric by the user but in 
