@@ -43,6 +43,10 @@ want to be implemented</p>
         <a href="http://bugs.kde.org/show_bug.cgi?id=75532">Bug #75532</a>:
         "KWord does not pause for user input during spell checking." (Difficulty: ***; Sharability: *****)
     </ins></li>
+    <li><ins>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
+        "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)
+    </ins></li>
 </ul>
 
 <h2>More?</h2>
