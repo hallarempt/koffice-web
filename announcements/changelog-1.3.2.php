@@ -101,8 +101,11 @@
 
 <h4>KWord's RTF import filter:</h4>
 <ul>
-<li>Avoid crashing if more cells are defined than declared on a row</li>
-<li>Allow ampersands in font names</li>
+<li>
+    Avoid crashing if more cells are defined than declared on a row 
+    (partially #82905 and #83923)
+</li>
+<li>Allow ampersands in font names (partially #82905)</li>
 </ul>
 
 <h4>KPresenter's OOImpress import filter:</h4>
