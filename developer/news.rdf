@@ -7,8 +7,9 @@
     <language>en-us</language>
     <webMaster>webmaster@kde.org</webMaster>
     <copyright>Copyright (C) 2003,2004, KOffice.org Webmaster</copyright>
-    <lastBuildDate>Sat, 10 Jan 2004 18:05 UT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2004 08:03 UT</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <tts>120</tts>
 
 <item>
 <title>Preparing changelog for KOffice 1.3</title>
