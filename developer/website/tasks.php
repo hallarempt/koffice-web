@@ -14,7 +14,8 @@ www/areas/koffice</p>
 
 <ul>
     <li>Some web pages are still in HTML 4 but the KDE Web is using XHTML 1.0 in the 
-    meantime. Such pages should be migrated to XHTML 1.0.</li>
+    meantime. Such pages should be migrated to XHTML 1.0.
+    <ins>(A smaller and simplier step could be to change the tag and attribute names to lower case and add quotes where needed.)</ins></li>
     
     <li>Some pages are supposed to be XHTML 1.0 but they still contain error. Such
     sites should be fixed.</li>
