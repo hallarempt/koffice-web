@@ -29,10 +29,24 @@ into KOffice in the next major version.
 </b>
 
 <p>
-Kexi is aimed to be an easy to use frontend to various database backends.
-At the moment this documentation is written, only MySQL as server based database and CQL++
+<b>Note: 
+Currently, the main change in Kexi project is a migration to renewed db api
+(including db abstraction), kexidb module koffice/kexi/kexidb/ in kde.org
+cvs, that can be hopfully considered as superset of QSql. Until other Kexi parts that
+depend on old kexiDB could be ported, Kexi sources can be broken. 
+<a href="http://lists.kde.org/?l=kde-cvs&m=106441791719847&w=2">More information</a>
+</b>
+
+<p>
+Kexi is an integrated environment for managing data. It helps creating
+databaase schemas, inserting, querying and processing data.
+
+<P>
+At the moment this documentation is written, drivers for SQLite, MySQL, PostgreSQL,
+FireBird/Interbase database engines are developed.
 as integrated single user backends. It is planned to support other database
 systems too for better corporate usage in the next versions.</p>
+
 
 <p>As Kexi is a real member of the KDE and KOffice projects, it integrates fluently into both.
 The report generation for instance is done by reusing the well known and well-tried Kugar
@@ -44,13 +58,9 @@ data provider for mailmerge in KWord.
 
 <br><br>
 <p>
-<table cellspacing="0" cellpadding=0>
-<tr>
-<td><img src="pics/title-r.jpg"></td>
-<td background="pics/title-m.jpg" width="159"><h2>Features</h2></td>
-</tr>
-</table>
+<h2>Features</h2>
 <br>
+
 Basic Database Features:
 <ul>
 
@@ -70,10 +80,10 @@ Data Processing and Access:
 </ul>
 Database Backends:
 <ul>
+ <li><a href="http://www.sqlite.org">SQLite</a></li>
  <li><a href="http://www.mysql.com">MySQL</a></li>
- <li><a href="http://www.sqlite.org">SQLite</a> (planned as default embedded database engine)</li>
- <li><a href="http://www.cql.com">CQL++</a></li>
- <li>ODBC (planned)</li>
+ <li><a href="http://www.postgresql.org">PostgreSQL</a></li>
+ <li><a href="http://firebird.sourceforge.net">FireBird/Interbase</a></li>
 </ul>
 <P>
 <b>Note: It is highly recommended to use MySQL for beta testing since
@@ -81,17 +91,10 @@ Database Backends:
 
 <br><br>
 <p>
-<table cellspacing="0" cellpadding=0>
-<tr>
-<td><img src="pics/title-r.jpg"></td>
-<td background="pics/title-m.jpg" width="159"><h2>More</h2></td>
-</tr>
-</table>
+
+<h2>More</h2>
 
 <p>
-Kexi developer documentation can be found <a href="http://www.jowenn.at/kde/kexi/wikiview">here</a>.
-
-<p>
-Members of the Kexi Team can edit these docs <a href="http://www.jowenn.at/kde/kexi/wiki/">here</a>.
+Kexi Project Home (mainly for developers): <a href="http://www.kexi-project.org/">http://www.kexi-project.org/</a>
 
 <?php include("footer.inc"); ?>
