@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-<p>These are screenshots from version before KWord 1.3.</p>
+<p>These are screenshots from versions before KWord 1.3.</p>
 
 <?php
 $gallery = new ImageGallery("KWord Screenshots");
