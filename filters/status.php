@@ -5,7 +5,7 @@
 <!--Do not modify! This file was generated -->
 <?php
   $title="The KOffice Project -- Filters -- Status (Development)";
-  $site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (Development)';
+  $site_root = '../';
   include("cutheader.inc");
 ?>
   <h1>KOffice Filters - Status (Development)</h1>

@@ -1,10 +1,9 @@
 <?php
-  $title="The KOffice Project -- Filters -- Useful Links";
-  $site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Useful Links';
+  $page_title="Useful Links";
+  $site_root = '../';
+  include("koffice.inc);
   include("header.inc");
 ?>
-
-    <h1>Useful Links for KOffice Filters</h1>
 
     <p>During all the hours on the net searching for information on file
     formats and stuff like that, we came across some very interesting

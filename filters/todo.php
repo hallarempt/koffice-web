@@ -1,9 +1,9 @@
 <?php
-  $title="The KOffice Project -- Filters -- Missing Filters";
-  $site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Pending Filters';
+  $page_title="Missing Filters";
+  $site_root = '../';
+  include("koffice.inc");
   include("header.inc");
 ?>
-      <h1>Missing filters</h2>
       <p>At the moment I think the "most wanted" filter would be a MS Word
       .DOC export filter for KWord. Obviously there is more need for KWord and KSpread
       filters than for KPresenter filters.</p>
