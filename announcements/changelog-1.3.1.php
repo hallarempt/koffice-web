@@ -146,6 +146,25 @@ KOfficeUI:
 <li>fixed pictures
 </ul>
 
+<em>KPresenter's OOImpress export filter:</em>
+<ul>
+<li>export object name</li>
+<li>export polyline</li>
+</ul>
+
+<em>KPresenter's OOImpress export filter:</em>
+<ul>
+<li>fix import note (when multiline)</li>
+<li>import object name</li>
+<li>fix import line begin/end into line object</li>
+</ul>
+
+<em>KSpread's OOCalc import filter:</em>
+<ul>
+<li>fix print option (print grid/show formula)</li>
+<li>fix import page layout</li>
+<li>import validation attribute</li>
+</ul>
 
 <h3>Previous changelogs</h3>
 <a href="changelog-1.3.php">1.3</a> |
