@@ -1,5 +1,5 @@
 <?php
-  $page_title='Future KOffice 1.3.2 Release Notes';
+  $page_title='KOffice 1.3.2 Release Notes';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -35,10 +35,12 @@
   include "md5-koffice-1.3.2.inc"
 ?>
 
-<?php /* ### TODO
       <p>
        Also provided: <a href="md5-pgp-koffice-1.3.2.txt">a PGP-signed version of the MD5 sums</a>.
       </p>
-*/
-?>
+      
+      <p><em>Note:</em>the PGP key for signing is new,
+        <a href="/download/signatures.php#goutte">please see the signing key overview.</a>
+      </p>
+
 <?php include("footer.inc"); ?>
