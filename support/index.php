@@ -19,7 +19,7 @@
 
       <p>
       If you would like to support KOffice, contact the developers in their mailing list
-      <a href="mailto:koffice-devel@mail.kde.org">koffice-devel@mail.kde.org</a>
+      <a href="mailto:koffice-devel@kde.org">koffice-devel@kde.org</a>
       </p>
 
       <p>
