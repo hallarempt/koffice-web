@@ -63,6 +63,12 @@
     Make the Control-C key work again
     (<a href="http://bugs.kde.org/show_bug.cgi?id=87369">#87369</a>)
   </li>
+  <li>
+    Make columns and rows that are not on the top-left side of a sheet sizable again.
+    (Bugs <a href="http://bugs.kde.org/show_bug.cgi?id=84495">#84495</a> and
+    <a href="http://bugs.kde.org/show_bug.cgi?id=89782">#89782</a>)
+  </li>
+  <li>Fix painting of the gridlines, when a row or column is resized.</li>
 </ul>
 
 <?php /*
