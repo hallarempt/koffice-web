@@ -32,7 +32,7 @@
        The MD5 sums for the tarballs are:
       </p>
 <?php
-### TODO include "md5-koffice-1.3.2.inc"
+  include "md5-koffice-1.3.2.inc"
 ?>
 
 <?php /* ### TODO
