@@ -8,9 +8,9 @@
 
 <h2>KWord Features<h2>
 
-<p>Note: the export filter has been re-written for KOffice 1.3.
+<p>Note: the export filter has been re-written for KOffice 1.3.</p>
 
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFFFFF">
 <td colspan="3" align="left" valign="top"><br /><h2>Character Formatting</h2></td>
 </tr>
@@ -241,8 +241,8 @@
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Tables</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported?</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported?</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported?</td> <!-- Check -->
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
 </tr>
 
 
@@ -280,7 +280,7 @@
 </table>
 
 <h2>RTF Specific Features<h2>
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFEEAA">
  <td align="left" valign="top"><h3>HTML Feature</h3></td>
  <td align="left" valign="top"><h3>Import Status</h3></td>
