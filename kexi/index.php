@@ -100,8 +100,8 @@ At the moment this documentation is written, drivers for the following database 
 <ul>
  <li><a href="http://www.sqlite.org">SQLite</a> (file-based, mostly complete)</li>
  <li><a href="http://www.postgresql.org">PostgreSQL (mostly workable)</a></li>
- <li><a href="http://www.mysql.com">MySQL (obsolete)</a></li>
- <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (obsolete)</a></li>
+ <li><a href="http://www.mysql.com">MySQL (mostly workable)</a></li>
+ <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (planned)</a></li>
 </ul>
 <p>
 It is planned to support also other database systems, especially ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are: SQLite and PostgreSQL.
@@ -109,7 +109,7 @@ It is planned to support also other database systems, especially ODBC interface,
 
 <p>
 <b>Note: It is highly recommended to use SQLite based projects for beta testing, since
- other drivers are implemented only partly or can be obsolete for current KexiDB API.</b></p>
+ other database drivers can be implemented only partly or can be obsolete for current KexiDB API. Also note that Kexi does not yet offers fully usable GUI for making connections to server databases.</b></p>
 
 
 <h2>More</h2>
