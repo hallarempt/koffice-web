@@ -123,11 +123,13 @@
 <h4>KPresenter's OpenOffice.org Impress Import Filter</h4>
 <ul>
 </ul>
+*/ ?>
 
 <h4>KPresenter's OpenOffice.org Impress Export Filter</h4>
 <ul>
 </ul>
 
+<?php /*
 <h4>KSpread's OpenOffice.org Calc Import Filter</h4>
 <ul>
 </ul>
