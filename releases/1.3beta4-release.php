@@ -50,6 +50,29 @@
         </a>
     </p>
     
+    <h2>Second Security Errata</h2>
+    
+    <p>KOffice 1.3 Beta 4 has an integer overflow vulnerability in KWord's PDF import filter.</p>
+
+    <p>
+        <a href="security/xpdf_security_integer_overflow_2.diff">
+            A patch for the source package is available.
+        </a>
+        (MD5 sum:
+	  <tt>477e4cee8159f2f23bcfff1a9c07755b</tt>
+	  xpdf_security_integer_overflow_2.diff
+        )
+    </p>
+
+    <p>The patch applies to the directory koffice/filters/kword/pdf/xpdf/xpdf .</p>
+
+    <p>
+        To patch, do: (please adjust paths) <br />
+        <code>
+            cd koffice/filters/kword/pdf/xpdf/xpdf<br />
+            patch -p0 &lt; xpdf_security_integer_overflow_2.diff
+        </code>
+    </p>    
 </div>
       
       <h2>Download</h2>
