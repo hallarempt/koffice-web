@@ -236,7 +236,7 @@ otherwise restricted due to a bug.</p>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Pictures</td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">SVG (known problems)<br />WMF (not supported)<br />Most other formats supported.</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF">
