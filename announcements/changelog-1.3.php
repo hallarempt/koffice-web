@@ -435,7 +435,7 @@ are highly encouraged to use that flag</li>
 <em>KWord RTF export filter:</em>
 <ul>
 <li>Re-written filter</li>
-<li>Improuved table support</li>
+<li>Improved table support</li>
 <li>Better conformity to RTF specification</li>
 <li>Better export for other RTF readers</li>
 <li>Better document information</li>
