@@ -276,9 +276,7 @@ coming days and weeks.
   via one of the KDE
   <a href="http://download.kde.org/stable/koffice-1.3/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
-  <!--Additionally, source rpms are available for the following distributions:-->
 </p>
-<!-- INCLUDE PHP FILE HERE -->
 <p align="justify">
   <u>Further Information</u>.
   For further instructions on compiling and installing KOffice, please consult
