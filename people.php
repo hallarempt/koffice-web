@@ -32,7 +32,7 @@
       <a href="mailto:srhaque@iee.org">Shaheed Haque</a>, &nbsp;<a href="mailto:faure@kde.org">David Faure</a>,&nbsp;
       <a href="mailto:montell@club-internet.fr">Laurent Montel</a></b><br />
       <b>KSpread &amp; KChart: <a href="mailto:montell@club-internet.fr">Laurent Montel</a></b><br />
-      <b>KPresenter: <a href="mailto:montell@club-internet.fr">Laurent Montel</a></b><br />
+      <b>KPresenter: <a href="mailto:lukas@kde.org">Luk&aacute;&scaron; Tinkl</a></b><br />
       <b>Krita: <a href="mailto:jcaliff@compuzone.net">John Califf</a></b><br />
       <b>KOffice Library: <a href="mailto:faure@kde.org">David Faure</a>,&nbsp;
        <a href="mailto:trobin@kde.org">Werner Trobin</a></b><br />      

@@ -13,9 +13,9 @@
      <p>Qt 3.0.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
      <p>Download locations can be found on the announcements page, and by clicking <a href="/announcements/announce-1.2.1.phtml#package_locations">here</a></p>
 
-      <h1>Download Binaries: KOffice 1.3 beta 3</h1>
-      Contributed binaries of the third beta for KOffice 1.3 can be found at
-      <a href="http://download.kde.org/unstable/koffice-1.2.92/contrib">http://download.kde.org/unstable/koffice-1.2.92/contrib</a>.
+      <h1>Download Binaries: KOffice 1.3 Beta 4</h1>
+      Contributed binaries of the fourth beta version of KOffice 1.3 can be found at
+      <a href="http://download.kde.org/unstable/koffice-1.2.93/contrib">http://download.kde.org/unstable/koffice-1.2.93/contrib</a>.
       Please note these builds are not supported by the KOffice team which provides source packages only.
 
       <h1>Installing Binaries</h1>
