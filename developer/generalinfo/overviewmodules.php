@@ -253,7 +253,7 @@ be jewels. :-) Put your new projects here.)</p>
 <h2>www</h2>
 
 <p>TODO: (in short: write protect by default.
-www/developer.kde.org might be interesting to download to have the info offline.)
+The module developer.kde.org might be interesting to download to have the info offline.)
 <!-- TODO: overview of sites (already existing somewhere?) -->
 </p>
 
