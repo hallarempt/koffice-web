@@ -39,7 +39,6 @@ If you want to contact the developers, the best is first to
 please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>."
 );
 
-// CHECK: Krita & KPlato: why the email address?
 $faq->addQuestion("Which mailing lists are used for KOffice?",
 "KOffice has two general mailing lists:</p>
 <ul>
@@ -54,7 +53,7 @@ Please note that the write access of the koffice-devel mailing list is restricte
 <a href=\"http://www.kde.org/mailinglists/index.php#krita\">Krita</a> and
 <a href=\"http://www.kde.org/mailinglists/index.php#kplato\">KPlato</a>
 have their own mailing lists.</p>
-<p><a href=\"http://lists.kde.org\">Archives of mailing lists are available.</a>"
+<p><a href=\"http://lists.kde.org\">Archives of the mailing lists are available.</a>"
 );
 
 // CHECK: Kexi, Kugar, KPlato
@@ -85,9 +84,9 @@ like for example the email tool KMail is in KDE-PIM (Personal Information Manage
 applications are only planned for future KOffice releases."
 );
 
-// CHECK: is 1.3 out?
+// CHECK: "sync" is an abbreviation
 $faq->addQuestion("What is the current state of KOffice?",
-"At the time of this writing, KOffice 1.3 will be soon released. KOffice is released seperately
+"At the time of this writing, KOffice 1.3 has been released. KOffice is released seperately
 from the rest of KDE, so KOffice releases are not in sync with those of KDE."
 );
 
@@ -287,7 +286,7 @@ $faq->addQuestion("What data format does KOffice read and write natively?",
 "KOffice documents are zipped files. Inside these files KOffice's data is
 stored in XML files. Pictures however are directly stored as binary.</p>
 <p>Up to KOffice 1.3, the XML tags used by KOffice's applications are private to
-KOffice. From KOffice 1.4, we plan to switch to OpenOffice.org compatible file
+KOffice. From KOffice 1.4 on, we plan to switch to OpenOffice.org compatible file
 formats."
 );
 /*
@@ -327,7 +326,7 @@ $faq->addQuestion("Can I convert KOffice documents to and from other formats on 
 );
 
 $faq->addQuestion("Wow! The application XYZ writes XML, too! Does that mean I can easily read those documents with KOffice?",
-"No, unfortunately not; you still need a filter. Think of XML as a very basic,
+"No, unfortunately not! You still need a filter. Think of XML as a very basic,
 general markup language which allows you to \"create your own markup language\".
 So it's more precise to say, the KOffice applications use a file format
 thats based on XML. For the other application, it will be another file format,
