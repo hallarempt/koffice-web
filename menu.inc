@@ -13,6 +13,7 @@ $section->appendLink("Add-ons for KOffice", "addons");
 $section->appendLink("People", "people.php");
 $section->appendLink("Mailing Lists", "contact");
 $section->appendDir("Support KOffice", "support");
+$section->appendDir("Get Involved", "getinvolved");
 
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
