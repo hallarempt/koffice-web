@@ -37,7 +37,7 @@
   enhancements since the KOffice beta2 release last month, including
   important corrections to the KWord and KPresenter WYSIWYG display,
   KOffice 1.2rc1 features new read-only
-  <a href="http://www.konqueror.org/">Konqueror</a> plugins for
+  <a href="http://konqueror.kde.org/">Konqueror</a> plugins for
   each KOffice component, a new WordPerfect export filter for KWord, and
   improvements to the KWord RTF import filter.
   A more detailed

@@ -41,7 +41,7 @@
     </li>
     <li>
       <div align="justify">
-        <em><a href="http://www.konqueror.org/">Konqueror</a> Embedding</em>.
+        <em><a href="http://konqueror.kde.org/">Konqueror</a> Embedding</em>.
         All KOffice components feature a new read-only Konqueror plugin for
         previewing KOffice documents.  In addition, KDE's file manager
         (Konqueror) can now display thumbnail previews of KOffice documents.

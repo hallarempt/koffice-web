@@ -103,7 +103,7 @@ for print previews (requires kdelibs-2.2.x);</LI>
 when selected;</LI>
 <LI>added ability to toggle objects between inline and non-inline;</LI>
 <LI>improved read-only mode (when KWord is embedded in
-<A HREF="http://www.konqueror.org/">Konqueror</A> text can now be selected
+<A HREF="http://konqueror.kde.org/">Konqueror</A> text can now be selected
 and copied);</LI>
 <LI>implemented Insert Frame and Insert Page Break (also as part
 of styles);</LI>
