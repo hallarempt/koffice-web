@@ -27,15 +27,15 @@ for info about getting and installing it.)
 </ul>
 
 <h2>Information</h2>
-<p>KOffice stable is currently available as version 1.3.1, designed to run with KDE 3.1 and later.<br />
-You must choose now to run the stable KOffice 1.3.1 or a development version. In case of the 
+<p>KOffice stable is currently available as version 1.3.2, designed to run with KDE 3.1 and later.<br />
+You must choose now to run the stable KOffice 1.3.2 or a development version. In case of the 
 development version this can mean that it is not usable for end use.
 If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source 
 regularly via CVS or CVSUP.</p>
 
 <h2>Download</h2>
-<p><b>KOffice 1.3.1 stable</b> is available 
-<a href="http://download.kde.org/stable/koffice-1.3.1/src/">here</a></p>
+<p><b>KOffice 1.3.2 stable</b> is available 
+<a href="http://download.kde.org/stable/koffice-1.3.2/src/">here</a></p>
 
 <!--
 <p><b>The latest development release is KOffice 1.3 RC 2 - XMAS version</b>. Get it from
