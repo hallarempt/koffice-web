@@ -4,7 +4,7 @@
   include("koffice.inc");
   include("header.inc"); 
 ?>
-<div>
+
       <p>
       If you want to report bugs or if you want to add wishes, please
       use <a href="http://bugs.kde.org">KDE Bugs!</a>
@@ -24,7 +24,7 @@
       email address below. Please note that some developers and the
       project founders are not involved anymore in the development of KOffice!
       </p>
-</div>      
+
       <h2>Current maintainers by project</h2>
       
       <p>
