@@ -47,6 +47,10 @@
   <a href="http://bugs.kde.org/show_bug.cgi?id=74091">#74091</a>
   (Fix special paste from cell with formula)
 </li>
+  <li>
+    Fix "Expense Report" template 
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=86732">#86732</a>)
+  </li>
 </ul>
 
 <h3><a name="kchart">KChart</a></h3>
