@@ -128,9 +128,15 @@
       <td>&nbsp;</td>
     </tr>
     <tr>
+      <td>kdeadmin</td>
+      <td>System Administration</td>
+      <td>KDE</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
       <td>kde-i18n</td>
       <td>Translations</td>
-      <td>KDE, Other</td>
+      <td>I18N</td>
       <td></td>
     </tr>
     <tr>
@@ -172,10 +178,21 @@
     <tr>
       <td>www</td>
       <td>Web Sites</td>
-      <td>Hourly</td>
+      <td>Web</td>
       <td><a href="http://www.kde.org">KDE Web Site</a></td>
     </tr>
   </table>
+
+<p>Release rythmns:
+<ul>
+  <li>Qt: <a href="http://www.trolltech.com">Trolltech</a> has its own release cycles for Qt. Qt-copy is released with KDE.</li>
+  <li>KDE: released with KDE (1 or 2 per year)</li>
+  <li>KOffice: released with KOffice (1 per year or even less).</li>
+  <li>I18N: the translations are relased with the corresponding programs.</li>
+  <li>Web: web sites are synchronised normally every half-an-hour.</li>
+  <li>Never: these modules are never released.</li>
+</ul>
+</p>
 
 <p>(To be continued)</p>
 
