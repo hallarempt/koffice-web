@@ -30,11 +30,28 @@
 (two upper case J letters and a colon) in the bug title. Those bugs are marked so that new developers can
 easily recognize bugs easier to fix or wishes esiaer to implement than the average.</p>
 
-<!-- TODO: a list of current JJ bugs in KOffice -->
+<p>Some of KOffice's Junior Job bugs:</p>
+
+<ul>
+    <li><ins>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=63011">Bug #63011</a>:
+        "JJ: Being able to specify the resolution or DPI rate for an exported image" 
+        (Difficulty: *; Sharability: ****)
+    </ins></li>
+    <li><ins>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=76412">Bug #76412</a>:
+        "JJ: Completing dialog action does not return to the document (or dialog) window from whence dialog commenced "
+        (Difficulty: *; Sharability: *)
+    </ins></li>
+    <li><ins>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=82198">Bug #82198</a>:
+        "JJ: all date variables should allow to specify the date format" (Difficulty: *; Sharability: ****)
+    </ins></li>
+</ul>
 
 <p>
 <a href="http://bugs.kde.org/buglist.cgi?short_desc_type=allwordssubstr&amp;short_desc=JJ%3A&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
-Click here to query for the Junior Jobs for KDE.</a></p>
+Click here to query for all the Junior Jobs in KDE.</a></p>
 
 <h2>Managing Tasks In KDE Bugs</h2>
  
