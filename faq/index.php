@@ -29,17 +29,17 @@ $faq->addQuestion("What is KOffice?",
 consisting of several applications like a word processor and a spread sheet.
 Based on the KParts component model KOffice offers a lot of interoperability
 between all its components. For example, you can embed every KOffice component
-into another component (for example a KSpread; table into your KWord document) and
-a plug-in mechanism makes it possible to easily extend functionality.</p>"
+into another component (for example a KSpread table into your KWord document.)</p>"
 );
 
 $faq->addQuestion("Who are the developers and how do I contact them?",
-"<p>The developers are listed on <a href=\"http://www.koffice.org/people.php\">the people page.</a>
-If you want to contact the developers, the best is to try to contact the developer first by
-<a href=\"mailto:koffice@kde.org\">emailing to the koffice mailing list</a>. In case of bugs or wishes,
+"<p>The developers are listed in <a href=\"http://www.koffice.org/people.php\">the people page.</a>
+If you want to contact the developers, the best is first to
+<a href=\"mailto:koffice@kde.org\">email to the koffice mailing list</a>. In case of bugs or wishes,
 please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>.</p>"
 );
 
+// CHECK: Krita's ML email address
 $faq->addQuestion("Which mailing lists are used for KOffice?",
 "<p>KOffice has two own mailing lists:</p>
 <ul>
@@ -50,9 +50,11 @@ $faq->addQuestion("Which mailing lists are used for KOffice?",
 Please note that the write access of the koffice-devel mailing list is restricted.</p>
 <p>As KOffice is part of KDE is uses some of KDE's mailing lists, for example for the translaltors.</p>
 <p>Information on the mailing lists can be obtained <a href=\"http://www.kde.org/mailinglists\">here</a>.
-The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>"
+The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>
+<p>Please note that for historical reasons, Krita has its own mailing list.</p>"
 );
 
+// CHECK: Kexi, Kugar, KPlato
 $faq->addQuestion("Which KOffice application do exist?",
 "<p>Following applications exist and are part of KOffice 1.3:</p>
 <ul>
@@ -73,22 +75,19 @@ $faq->addQuestion("Which KOffice application do exist?",
 </ul>"
 );
 
+// CHECK: entry sounds badly (especially PIM)
 $faq->addQuestion("I would like to see application XYZ in KOffice?",
-"<p>KOffice may lack some applications that people normally consider to be
+"<p>KOffice may lack some applications that people normally consider to be an
 Office application. Some of these applications are in other parts of KDE,
-like for example PIM (Personal Information Management). Some of other
-are only planned for future KOffice releases.</p>"
+like for example the email tool KMail is in KDE-PIM (Personal Information Management). Some other
+applications are only planned for future KOffice releases.</p>"
 );
 
-// FAQ: What is the current state of KOffice;
-/*
-<qandaentry><question><para> What is the current state of &KOffice;?</para></question><answer>
-<para>
-&KOffice; has been released as 1.2. KOffice is released seperately
-from the rest of KDE, so KOffice releases are not in sync with those of KDE.
-</para>
-</answer></qandaentry>
-*/
+// CHECK: is 1.3 out?
+$faq->addQuestion("What is the current state of &KOffice;?",
+"<p>At the time of thiw writing, KOffice 1.3 will be soon released. KOffice is released seperately
+from the rest of KDE, so KOffice releases are not in sync with those of KDE.</p>"
+);
 
 // FAQ: Is KOffice stable?
 /*
@@ -103,13 +102,11 @@ The release versions of &KOffice; are supposed to be quite stable. While we try 
 
 // CHECK!
 $faq->addQuestion("Are you going to implement feature XYZ?",
-"<p>First of all: certainly many features should be implemented in the future. However,
-KOffice is mainly based on the work of volunteers and thus it often lacks the manpower
-it needs to address many issues. If you are a developer and you lack a feature,
-consider helping us and talk to us on the mailing lists. Many features can be implemented
-independently of the KOffice main code base by implementing so-called plugins or
-data tools. KOffice developers are always willing to help you if you want to get
-your hands dirty!</p>"
+"<p>First of all: certainly many features should be implemented. However,
+KOffice is mainly based on the work of volunteers and thus it often lacks the needed manpower
+to address many issues. If you are a developer and you lack a feature,
+consider helping us and talk to us on the mailing lists.
+KOffice developers are always willing to help you if you want to get your hands dirty!</p>"
 );
 
 // FAQ: What do I need for using &KOffice;?
@@ -132,21 +129,24 @@ $faq->addQuestion("Which license applies to KOffice?",
 GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are mostly GPL.</p>"
 );
 
+// CHECK: <blockquote>
 $faq->addQuestion("How do I report bugs?",
 "<p>Like for any KDE application, please report bugs to <a href=\"http://bugs.kde.org\">KDE Bugs.</a></p>
 <p>Please avoid bug reports with meaningless contents like: \"It does not work!\", \"KOffice is bad\",
-\"XYZ is much better than your KOffice\".</p>
+\"XYZ is much better than your KOffice!\"</p>
 <p>A good bug report should first have a <em>title.</em> Try to give in a few keywords an overview of the problem!
 That makes it easier for the developers to find your bug again.</p>
-<p>Then please we need a <em>good description</em>
+<p>Then, please, we need a <em>good description</em>
 of the bug. How can the bug be reproduced? Does it always happen? Does something very similar work without any problem?</p>
-<p>Then we need to about the <em>software</em> of your system. If you have only installed the packages of your
+<p>Then we need to know about the <em>software</em> of your system. If you have only installed the packages of your
 distribution, then this point is not really important. But if you are using special software, like a non-gcc compiler,
 or some very new developement library, then please tell us in your bug report.</p>
 <p>If the bug is a message box that should not happen, then please tell us the <em>exact error message</em>.</p>
-<p>If the bug is triggered by the loading of a <em>file</em>, then please add the file to the bug report or
-even better a short example file that triggers the bug. (Please be careful that sending a file to KDE Bugs makes it
-public, so be careful not to send us files not meant for the public!)</p>
+<p>If the bug is triggered by the loading of a <em>file</em>, then please add the file to the bug report or,
+even better, a short example file that triggers the bug.</p>
+<blockquote>Please be careful that sending a file to KDE Bugs makes it <em>public</em>,
+so be careful not to send us files not meant for the public. Especially be careful that the
+file does not contain for example addresses and phone numbers of third persons.</blockquote>
 <p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>"
 );
 
