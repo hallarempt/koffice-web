@@ -52,7 +52,7 @@ and the non-modified version of the file (here called <tt>source.cpp.orig</tt>.)
 <p>That lists the difference between the two files in the unified diff format (and with function name information if possible.) However it only displays
 it to screen, which is of course not the goal. So you need to redirect the output.</p>
 
-<p><tt>diff -u -p source.cpp.orig source.cpp > ~/patch.diff</tt></p>
+<p><tt>diff -u -p source.cpp.orig source.cpp &gt; ~/patch.diff</tt></p>
 
 <p>~/patch.diff is here an example and you can create the file where you prefer with the name that you prefer.
 (You will soon find out that it is probably not a good idea to create it where the source is.)</p>
@@ -71,7 +71,7 @@ be able to make the difference later. But here too, there is a solution.</p>
 <p>You can run it like this and it will give you the difference of the current directory and all
 sub-directories below it. Of course, here too, you want to redirect the output.</p>
 
-<p><tt>cvs diff -u -p > ~/patch.diff</tt></p>
+<p><tt>cvs diff -u -p &gt; ~/patch.diff</tt></p>
 
 <p>There are useful variants too (shown here without redirection)
   <ul>
