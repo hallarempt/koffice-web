@@ -32,10 +32,10 @@
   <h2>Write shellscripts</h2>
   <p>
     Create a script (e.g. I named it oasislint), which does something like
-    <code><tt>
+    <pre>
     #!/bin/sh
     /usr/java/j2re1.4.2_04/bin/java -jar $HOME/src/jing/bin/jing.jar -i /k/oo/office-schema-1.0-cd-1.rng $*
-    </tt></code>
+    </pre>
     You will need to adjust the paths of course.
     Create a similar script named oasislint-strict which uses "office-strict-schema" instead.
   </p>
@@ -44,7 +44,7 @@
    inside a ZIP package (since KOffice documents are ZIP packages), so that you don't have
    to unzip it by hand.
    Here is one, which I called oasisfilecheck. Note that it requires to be given the full path to the koffice file, as argument:
-   <code><tt>
+   <pre>
    #!/bin/sh
    tmpdir=/tmp/oasistmp
    rm -rf $tmpdir ; mkdir $tmpdir && cd $tmpdir || exit 1
@@ -52,7 +52,7 @@
    for f in content.xml styles.xml meta.xml; do
      echo "Checking $f..." ; oasislint $f && echo "Checking $f strict..." && oasislint-strict $f
    done
-   </tt></code>
+   </pre>
   </p>
 
 <?php
