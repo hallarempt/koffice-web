@@ -52,6 +52,9 @@ a single directory... It is more important that some part is done at all.)</p>
     attachement number of that file should be in the list too.) (This is for the 
     new KWord 1.3 import filter. It does not matter if the bugs are opened, 
     resolved, closed or whatever.)</del></li>
+    
+    <li><ins>Read the <a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a>
+    and create new bug or wish reports for missing and not reported features.</ins></li>
 </ul>
     
 <h2>Other Tasks</h2>
