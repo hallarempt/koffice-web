@@ -10,6 +10,8 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<p /><a href="1.3.4-release.php">KOffice 1.3.4 Release</a>
+<p /><a href="1.3.3-release.php">KOffice 1.3.3 Release</a>
 <p /><a href="1.3.2-release.php">KOffice 1.3.2 Release</a>
 <p /><a href="1.3.1-release.php">KOffice 1.3.1 Release</a>
 <p /><a href="1.3-release.php">KOffice 1.3 Release</a>
