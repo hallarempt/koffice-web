@@ -13,7 +13,7 @@ $faq->addQuestion("What is Krita?",
  It is intended to be suitable for all your image creation and editing needs, such as creating original art,
  making images for websites,
  touching up scanned photographs or anything else you might need to do with bitmapped images.");
-
+ 
 $faq->addQuestion("Yet another Paint Program?",
 "Why, yes. Why not? As a KOffice application, Krita should integrate with KDE more tightly than the Gimp
  could ever hope to do. By following the KDE User Interface Design guidelines, users won't have to switch
@@ -80,16 +80,26 @@ KParts architecture and plugins allow:
 <li>components loaded as needed</li>
 </ul>
 <p>&nbsp;");
+
+$faq->addQuestion("This is the Kimp, right?",
+"If I had a penny for every time the Kimp was mentioned, I'd be able to do full-time development
+on Krita. No, this is not the Kimp. The Kimp was a hack, a clever hack, a KDE developer created
+using Perl to give the Gimp a KDE interface. This is a completely new application that doesn't share
+the same design goals as the Gimp does.");
+
+$faq->addQuestion("So, why not? Why reinvent the wheel?",
+"Because we don't want to do the same thing as the Gimp.");
+
+
 $faq->addQuestion("When will it be released?",
-"Well, Krita may be part of KOffice, it's not nearly usable enough to be released together with KOffice. I'd
-love to be able to say that Krita will be done in time for KOffice 1.4, but that would be promising
-something I cannot promise. If people pitch in and start working on features, we might have a
-promising alpha by that time.");
+"Well, Krita may be part of KOffice, it's not nearly usable enough to be released together with KOffice.
+ We're working towards inclusion in KOffice 1.4.");
 $faq->addQuestion("How Do I Get Involved?", "If you are a potential user, a professional or amateur artist or web designer,
 there is currently nothing you can do for Krita &mdash; but keep an eye open for announcements.<br />
 But If you are a software developer or documentation writer who wants to get involved please contact the Krita mailing list or
- one of the contributors, Patrick or me, Boudewijn.  Your help is always welcome.  All of the code is written in very
- clear C++ using Qt and Kde libraries. It's not hard, really...<br />
+ me, Boudewijn.  Your help is always welcome.  All of the code is written in very
+ clear C++ using Qt and Kde libraries, and there's not all that much of it, a mere 50.000 lines, a tenth of
+ the size of the Gimp. It's not hard, really...<br />
    Documentation is initially written in English in DocBoox XML format and then translated into dozens of national languages.
     The final output is in HTML in each language for which translations are made.<br />
 If you represent a company or organization which wants its specific software and/or hardware products to smoothly interface

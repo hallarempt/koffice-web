@@ -32,11 +32,11 @@
 <h2>Description</h2>
       <p>
       <b>Krita</b> is a painting and image editing application for KOffice.
-      The application is not ready for use, but the underpinnings provide
-      a solid framework to build an application on, and everyone is invited
-      to join the development effort. Because of the current unfinished state,
+      The application is almost ready for use, and the architecture provides
+      a solid framework to build an application on. Because of the current unfinished state,
       Krita is not yet part of the regular KOffice releases, but the source is
-      available from the KDE CVS repository.
+      available from the KDE CVS repository. We hope to get Krita into a releasable
+      state for KOffice 1.4.
       </p>
 
       <p>
@@ -86,7 +86,7 @@
             <li>Painting with brushes and colors</li>
             <li>Creating brushes from circles and squares</li>
             <li>Filling with colour and patterns</li>
-	    <li>Gradients</li>
+	        <li>Gradients</li>
             <li>Erasing</li>
             <li>Airbrush</li>
             <li>Simple geometric forms</li>
@@ -97,11 +97,12 @@
             <li>Adding, removing, reordering and merging of layers.</li>
             <li>Layer transparency.</li>
             <li>Loading Gimp brushes, pipe brushes, gradients and patterns.</li>
-            <li>Rectangular select, cut and paste.</li>
             <li>Zoom.</li>
             <li>Color selection.</li>
             <li>Gray(A), RGB(A) and CMYK(A) color models.</li>
             <li>Support for Wacom tablets.</li>
+            <li>High-quality scaling</li>
+            <li>And much, much more</li>
         </ul>
 
 
