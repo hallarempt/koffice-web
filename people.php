@@ -109,7 +109,7 @@
       <b><a href="mailto:ariya@kde.org">Ariya Hidayat</a></b>
       (Filters, KSpread)<br />
 
-      <b><a href="mailto:nicog@snafu.de">Nicolas Goutte</a></b>
+      <b><a href="mailto:goutte@kde.org">Nicolas Goutte</a></b>
       (various filters)<br />
 
       <b><a href="mailto:jowenn@kde.org">Joseph Wenninger</a></b>
