@@ -9,7 +9,7 @@
 $faq = new FAQ();
 
 $faq->addQuestion("What is Krita?",
-"Krita, formerly known as KImageShop and Krayon, is the painting program and image editor for the KOffice Suite.
+"Krita, formerly known as KImageShop and ------, is the painting program and image editor for the KOffice Suite.
  It is intended to be suitable for all your image creation and editing needs, such as creating original art,
  making images for websites,
  touching up scanned photographs or anything else you might need to do with bitmapped images.");
