@@ -28,7 +28,7 @@ also marked with stars is how easy the tasks could be shared between developers 
     </ins></li>
 </ul>
 
-<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD.</p>
+<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (Some tasks could be backported to the last stable version of KOffice.)</p>
 
 <h2>Bugs</h2>
 
