@@ -18,6 +18,7 @@
 
 <h3><a name="i18n">Languages</a></h3>
 <ul>
+  <li>New: Breton (br), as preview</li>
   <li>Fix for Danish documentation to be processed on KDE 3.1.5.</li>
 </ul>
 <p>
