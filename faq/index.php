@@ -39,7 +39,7 @@ If you want to contact the developers, the best is first to
 please report them by using <a href=\"http://bugs.kde.org\">KDE Bugs</a>."
 );
 
-// CHECK: Krita's ML email address
+// CHECK: Krita & KPlato: why the email address?
 $faq->addQuestion("Which mailing lists are used for KOffice?",
 "KOffice has two own mailing lists:</p>
 <ul>
@@ -52,7 +52,9 @@ Please note that the write access of the koffice-devel mailing list is restricte
 <p>Information on the mailing lists can be obtained <a href=\"http://www.kde.org/mailinglists\">here</a>.
 The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>
 <p>Please note that for historical reasons,
-<a href=\"mailto:kimageshop@kde.org\">Krita has its own mailing list</a>."
+<a href=\"mailto:kimageshop@kde.org\">Krita</a> and
+<a href=\"mailto:kplato@kde.org\">KPlato</a>
+ have their own mailing lists."
 );
 
 // CHECK: Kexi, Kugar, KPlato
