@@ -106,11 +106,11 @@
 <p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
 <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
 
+</div>
+
 <xsl:processing-instruction name="php">
   include("footer.inc");
 </xsl:processing-instruction>
 
-
-</div>
 </xsl:template>
 </xsl:stylesheet>

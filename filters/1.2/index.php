@@ -503,7 +503,6 @@
   <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
   <p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
-<?php 
+</div><?php 
   include("footer.inc");
 ?>
-</div>
