@@ -11,7 +11,7 @@
 CVS account for KDE.</p>
 
 <p>This tutorial assumes that you have applied for a KDE CVS account like
-descibed <a href="applycvsaccount">here</a> and that you have received
+descibed <a href="applycvsaccount.php">here</a> and that you have received
 a positive answer with the data of your new account.</p>
 
 <h2>Notations</h2>
