@@ -11,7 +11,7 @@
 ?>
 
 <a href="http://feedvalidator.org/check?url=http://www.koffice.org/developer/news.rdf">
- <img src="valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" width="88" height="31" />
+ <img src="pics/valid-rss.png" alt="[Valid RSS]" title="Validate my RSS feed" width="88" height="31" />
 </a>
 
 <?php
