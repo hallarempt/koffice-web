@@ -21,12 +21,6 @@
         <td>Information on various file formats</td>
         </tr>
 
-        <tr bgcolor="#AAAAFF">
-        <td rowspan="1" valign="top"><b>DocType</b></td>
-        <td><a href="http://www-106.ibm.com/developerworks/library/buildappl/writedtd.html">specification</a></td>
-        <td>Doctype Description</td>
-        </tr>
-
         <tr bgcolor="#CCCCFF">
         <td rowspan="10" valign="top"><b>MS Office</b></td>
         <td><a href="http://msdn.microsoft.com">msdn</a></td>
