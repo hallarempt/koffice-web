@@ -15,11 +15,11 @@
       a wordprocessor to do are included.  Features like writing text, deleting 
       text, cut'n'copy'n'paste, assigning document formats and attributes to 
       text, setting text alignment, and naturally you can print documents on 
-      any printer, postscript printer or to PDF and fax.
+      any printer, Postscript printer or to PDF and fax.
       </p>
       
       <p>
-      <b>Frame Orientation:</b><br>
+      <b>Frame Orientation:</b><br />
       KWord is not, as most wordprocessors, page orientated - KWord is frame
       orientated. This means there is at least one <i>frame sets</i> which
       consists of <i>frames</i> and <i>text</i> (paragraphs). 
@@ -53,7 +53,7 @@
       
       <p>
       But you cannot only insert text frames. You can also insert pictures,
-      clipart and  embedded objects (formulas, diagrams, KSpread tables,
+      embedded objects (formulas, diagrams, KSpread tables,
       etc.) as frames. 
       </p>
       
@@ -65,7 +65,7 @@
       </p>
       
       <p>
-      <b>Templates:</b><br>
+      <b>Templates:</b><br />
       When you start KWord and you want to create a new document you have to
       choose a template. Here are two groups of templates: <i>Page layout</i> and
       <i>Text oriented</i>. If you choose a Page layout template all frames are free
@@ -82,7 +82,7 @@
       </p>
       
       <p>
-      <b>Numbering:</b><br>
+      <b>Numbering:</b><br />
       In KWord you can do all crazy types of numberings. This means you can do
       chapter numbering (with multiple depths) and lists. You can use roman
       numbers, lower arabic numbers, upper arabic numbers, lower alphabetical
@@ -91,7 +91,7 @@
       </p>
       
       <p>
-      <b>Paragraph Settings, Indents and Tabulators:</b><br>
+      <b>Paragraph Settings, Indents and Tabulators:</b><br />
       For paragraphs you can set line spacing, spacing before and after the
       paragraph, configurable borders and tabulators. The tabulators are not
       full working yet, but left aligned, centered and right aligned tabs are
@@ -100,7 +100,7 @@
       </p>
       
       <p>
-      <b>Paragraph Layouts (Styles):</b><br>
+      <b>Paragraph Layouts (Styles):</b><br />
       Each paragraph has a paragraph layout (style) which contains all settings
       about numbering, line spacing, paragraph spacing, tabulators, borders,
       indents, default font and alignment. You can create styles in the KWord
@@ -112,7 +112,7 @@
       </p>
       
       <p>
-      <b>Headers and Footers:</b><br>
+      <b>Headers and Footers:</b><br />
       You can switch on/off <i>headers</i> and <i>footers</i> in documents. You
       can define for headers and footers if they should be the same for the
       whole document, if they should be different for the first page or if they
@@ -124,7 +124,7 @@
       </p>
       
       <p>
-      <b>Ruler:</b><br>
+      <b>Ruler:</b><br />
       As you can see in the screenshots KWord has rulers. But they are also
       quite interactive. So you can change the page borders, indents and
       tabulators with some clicks and mouse movements in the rulers very fast.
@@ -132,7 +132,7 @@
       </p>
       
       <p>
-      <b>Find and Replace:</b><br>
+      <b>Find and Replace:</b><br />
       Finding text and replacing it is also quite powerful in KWord. As search
       entry you can not only specify the text which should be searched. You can
       also say which format (font, size, color, etc.) the text should have.
@@ -153,7 +153,7 @@
       </p>
       
       <p>
-      <b>Tables:</b><br>
+      <b>Tables:</b><br />
       Totally configurable tables are realized in KWord using frames. This
       means every table cell is a frameset. Rows and columns can of course be
       resized and tables can be moved. Also text can flow around tables,
@@ -162,15 +162,15 @@
       multiple pages.
       </p>
       <p>
-      <b>Footnotes:</b><br>
-      Since KOffice-1.2-beta2, KWord allows to insert Footnotes <!--and Endnotes-->
+      <b>Footnotes:</b><br />
+      KWord allows to insert footnotes
       into the text. The footnote text appears in a frame at the bottom of the page,
       and the footnote number can be either automatically incremented or set manually.
-      Endnotes are not implemented yet.
+      Of course KWord can handle endnotes too.
       </p>
 
       <p>
-      <b>Autocorrection:</b><br>
+      <b>Autocorrection:</b><br />
       With KWord's autocorrection you can tell KWord that the first letter of
       the first word of a sentence should always be written in uppercase, when
       entering two uppercase letters to convert the second to a lower case, to
@@ -186,23 +186,22 @@
       </p>
 
       <p><b>Copy paste</b>
-       New in KOffice 1.1 is the option to copy paste about every object there is in KWord, 
+       You can copy and paste about every object there is in KWord, 
        including whole frames with their text
       <p>
 
       <p><b>Inline objects</b>
-       Also new in KOffice 1.1,
-       every frame can also be anchored to the text, so when you enter more text the inline
+       Every frame can also be anchored to the text, so when you enter more text the inline
        move down with the text, allowing you to simply place a formula or a spreadsheet 
-       right into your text. <br> 
+       right into your text. <br /> 
        These objects are frames, but behave as any other text when they are inline, so things
-       like alignment is done just like any other text.<br>
+       like alignment is done just like any other text.<br />
        What about inlining one page, or one paragraph of another KWord document, for example 
        an older document which you are referring to, a simple action in KWord!
       </p>
 
       <p><b>Spell checking</b>
-       New in KOffice 1.1 is the ability to spell check one word by right-clicking on that word,
+       You can spell check one word by right-clicking on that word,
        basic spell checking is naturally available in all languages (supported by ispell/aspell).
       </p>
 
