@@ -22,6 +22,7 @@
   $appinfo->addContributor("Cyrille Berger", "cyb@lepi.org");
   $appinfo->addContributor("Adrian Page", "Adrian.Page@tesco.net");
   $appinfo->addContributor("Roger Larsson", "roger.larsson@norran.net");
+  $appinfo->addContributor("Bart Coppens", "kde@bartcoppens.be");
 
   $appinfo->show();
 ?>
