@@ -12,16 +12,9 @@
   <h2>Download the RelaxNG schemas</h2>
   <p>
     Your first mission is to download the latest RelaxNG schema of the OASIS open office specification
-    from <a href="http://www.oasis-open.org/committees/documents.php?wg_abbrev=office">www.oasis-open.org</a>.
-    It's a bit difficult to find documents in there since proposals are mixed with
-    "committee drafts", make sure to increase the "10" on top.
-  </p><p>
-    Anyway the latest versions are currently:
-     <a href="http://www.oasis-open.org/committees/download.php/6034/office-strict-schema-1.0-cd-1.rng">office-strict-schema-1.0-cd-1.rng</a> and
-     <a href="http://www.oasis-open.org/committees/download.php/6033/office-schema-1.0-cd-1.rng">office-schema-1.0-cd-1.rng</a>
-  </p><p>
-    Of course you probably want the human-readable version of it as well, with the comments:
-    <a href="http://www.oasis-open.org/committees/download.php/6032/office-spec-1.0-cd-1.sxw">office-spec-1.0-cd-1.sxw</a>
+    from <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">www.oasis-open.org</a>.
+    Make sure you take the three RNG schemas, and the human-readable version of the specification as well, with the comments
+    (either the .sxw or the .pdf)
   </p>
 
   <h2>Download jing</h2>
