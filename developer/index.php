@@ -47,6 +47,7 @@
    
    <ul>
      <li><a href="http://www.kexi-project.org/">Kexi Project</a></li>
+     <li><a href="http://www.rule-project.org/article.php3?id_article=59">The RULE Mini Kde page</a></li>
    </ul>
 
 <?php
