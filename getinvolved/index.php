@@ -20,7 +20,7 @@
 
       <li>help programming. This means development work on the main
       applications, new applications, <a
-      href="../filters/index.phtml">filters (desperately
+      href="/developer/filters/index.php">filters (desperately
       needed!)</a>, plugins and datatools, more functions for
       KSpread, ...</li>
 
@@ -29,19 +29,17 @@
       <li>test KOffice extensively and send descriptive bug reports
       via the "Help, Report Bug" mechanism in the programs.</li>
 
-      <li><a href="../support">donate money or hardware</a>
+      <li><a href="/support">donate money or hardware</a>
       Yes, this is needed in free software development, too,
       e.g. for extending the KOffice server.</li>
     </ul>
 
     <p>If you want to help the KOffice developers (or even become
-    one) please <a href="../contact.phtml#lists">subscribe to the
+    one) please <a href="/contact/index.php#lists">subscribe to the
     koffice-devel mailing list</a> so you know what's needed and we avoid
     duplicating work. Please don't be angry if you don't get
     instant replies - everybody has got a lot to do.</p>
 
 <?php
-  $contactname="Jost Schenck";
-  $contactemail="jost@schenck.de";
   include("footer.inc");
 ?>

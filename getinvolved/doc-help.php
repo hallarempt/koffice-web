@@ -16,18 +16,16 @@
 	</p>
 
 	<p>
-        Currently, most KOffice documentation is in the early stages of writing, but teams are
-	being built to complete the projects.
-	</p>
-
-	<p>
 	Documentation will include individual application manuals for each KOffice application
 	and some documentation which covers data-sharing and overall use of KOffice.
 	</p>
 
-	<p>If you want to help:</p>
-      	<h2>Contact</h2>
-	Mike McBride &lt;<a href="mailto:mpmcbride7@yahoo.com">mpmcbride7@yahoo.com</a>&gt;
+      	<h2>Contacts</h2>
+        <p>
+        <ul>
+        <li><a href="mailto:koffice@kde.org">the KOffice mailing lists</a></li>
+        <li><a href="lauri@kde.org">Lauri Watts, the chief document writer of KDE</a></li>
+        </ul>
 	</p>
 
 	<h2>Additional documents and links:</h2>
@@ -37,7 +35,5 @@
 	</p>
       
 <?php
-  $contactname="Mike McBride";
-  $contactemail="mpmcbride7@yahoo.com";
   include("footer.inc");
 ?>
