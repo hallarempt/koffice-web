@@ -1,15 +1,13 @@
 <?php
-  $title="The KOffice Project -- Filters";
-  $location = '/ <a href="/">KOffice</a> / Filters';
-  include("../../templates/templ-begin.html");
+  $page_title="KOffice Filter";
+  $location = '../../../';
+  include("koffice.inc");
+  include("header.inc");
 ?>
-   <h1>KOffice 1.2 Import/Export Filters Status Page</h1>
    
+<p>Currently there is no information about this filter.</p>
+
 <?php
-   include("../../templates/templ-end.html");
+   include("footer.inc");
 ?>
-
-
-
-
 
