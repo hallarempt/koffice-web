@@ -7,7 +7,7 @@
 
 <?php
   $appinfo = new AppInfo("Kexi");
-  $appinfo->setIcon( "pics/cr48-app-kexi", "48", "48");
+  $appinfo->setIcon( "pics/cr48-app-kexi.png", "48", "48");
   $appinfo->setVersion($kexiversion);
   $appinfo->setLicense("gpl");
   $appinfo->setCopyright("2002", "the Kexi Team");
