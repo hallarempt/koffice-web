@@ -16,11 +16,13 @@
   release of KOffice 1.3.4.
 </p>
 
-<?php /*
 <h3><a name="i18n">Languages</a></h3>
 <ul>
+  <li>Fix for Danish documentation to be processed on KDE 3.1.5.</li>
 </ul>
-*/ ?>
+<p>
+  <em>Note:</em> improved translations are not listed in this section.
+</p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <h4>KOfficeCore</h4>
@@ -124,7 +126,8 @@
 	Export Text Margins
   </li>
   <li>
-  	Fix #92061 "KPresenter export bad horizontal lines in Open Office"
+        <a href="http://bugs.kde.org/show_bug.cgi?id=92061">Fix #92061</a>
+	"KPresenter export bad horizontal lines in Open Office"
   </li>
   <li>
   	Fix export vertical line
