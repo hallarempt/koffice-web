@@ -66,7 +66,7 @@
 <ul>
 <li>Fix condition cell attribute (multi condition)</li>
 <li>Fix #69798 (kspread sexdec parse error)</li>
-<li>Fix enable/disable action into validation dialogbox<li>
+<li>Fix enable/disable action into validation dialogbox</li>
 <li>Fix disable/enable "show table" menu item</li>
 </ul>
 
