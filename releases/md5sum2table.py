@@ -5,7 +5,7 @@ import fileinput
 import string
 
 #adjust these two variables to the current version
-VERSION="1.3"
+VERSION="1.3.1"
 STATUS="stable"
 
 def makeTable(_file):

@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.3 Changelog';
+  $page_title ='KOffice 1.3 RC 2 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");

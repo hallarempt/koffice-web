@@ -251,7 +251,7 @@
 
 		Attributes:
 
-		lineSpacing	space between line, in pt
+		lineSpacing	space between lines, in pt
 		paragSpacing	space between parags, in pt
 		etc.
                 bleft, bright, btop, bbottom marge in pt
