@@ -5,6 +5,7 @@
   include("header.inc");
 ?>
 
+<a name="authors">
 <?php
   $appinfo = new AppInfo("Krita");
   $appinfo->setIcon( "pics/hi48-app-krita.png", "48", "48");
@@ -15,20 +16,23 @@
   $appinfo->addAuthor("Matthias Elter", "me@kde.org");
   $appinfo->addAuthor("Andrew Richards", "physajr@phys.canterbury.ac.nz");
   $appinfo->addAuthor("Carsten Pfeiffer", "pfeiffer@kde.org");
-  $appinfo->addAuthor(" Toshitaka Fujiok", "fujioka@kde.org");
+  $appinfo->addAuthor(" Toshitaka Fujioka", "fujioka@kde.org");
   $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
   $appinfo->addAuthor("Patrick Julien", "freak@codepimps.org");
   $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
   $appinfo->addContributor("Sven Langkamp", "longamp@reallygood.de");
   $appinfo->addContributor("Cyrille Berger", "cyb@lepi.org");
   $appinfo->addContributor("Adrian Page", "Adrian.Page@tesco.net");
-  $appinfo->addContributor("Roger Larsson", "roger.larsson@norran.net");
   $appinfo->addContributor("Bart Coppens", "kde@bartcoppens.be");
   $appinfo->addContributor("Clarence Dang", "dang@kde.org");
   $appinfo->addContributor("Michael Thaler", "michael.thaler@physik.tu-muenchen.de");
+  $appinfo->addContributor("Dirk Sch&ouml;berger", "");
+  $appinfo->addContributor("Casper Boemann", "");
+  $appinfo->addContributor("Daniel Molkentin", "danimo@kde.org");
 
   $appinfo->show();
 ?>
+</a>
 
 <h2>Description</h2>
       <p>
