@@ -12,7 +12,7 @@
     <h2>Information for Developers</h2>
     <ul>
         <li><a href="status.php">Status of the developer version</a></li>
-        <li><a href="faq.php">Filter FAQ (also known as "How to write a filter?")</a></li>
+        <li><a href="oldfaq.php">Old Filter FAQ (also known as "How to write a filter?")</a></li>
         <li><a href="useful.php">Useful links</a></li>
 <!--        <li><a href="todo.php">Missing Filters</a></li> -->
     </ul>
