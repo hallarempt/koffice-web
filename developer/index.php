@@ -43,7 +43,7 @@
    </ul>
 
 <?php
- include("./rss2.inc");
+ include("rss2.inc");
  kde_general_news_rss2("./news.rdf", 5, true);
 ?>
 
