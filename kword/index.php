@@ -11,7 +11,7 @@
   $appinfo->setIcon( "pics/hi48-app-kword.png", "48", "48");
   $appinfo->setVersion($kwordversion);
   $appinfo->setLicense("lgpl");
-  $appinfo->setCopyright("2001", "the KWord Team");
+  $appinfo->setCopyright("1998", "the KWord Team");
   $appinfo->addAuthor("Reginald Stadlbauer", "reggie@kde.org");
   $appinfo->addAuthor("Torben Weis", "weis@kde.org");
   $appinfo->addContributor("David Faure", "faure@kde.org");
