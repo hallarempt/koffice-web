@@ -341,7 +341,8 @@
  <br />
  </td></tr>
  </table>
+ <!--
  </td></tr>
  </table>
-
- <? include("footer.php") ?>
+ -->
+ <? include("footer.inc") ?>
