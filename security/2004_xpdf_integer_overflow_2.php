@@ -26,7 +26,7 @@
             A patch for the source package is available.
         </a>
         (MD5 sum:
-            <tt>477e4cee8159f2f23bcfff1a9c07755b</tt>
+            <tt>6b44591b63957a58fb26c6eae1b59b19</tt>
             xpdf_security_integer_overflow_2.diff
         )
     </p>
