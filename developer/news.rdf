@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<rss version="2.0" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<rss version="2.0">
   <channel>
     <title>KOffice Developer News</title>
     <link>http://www.koffice.org/developer/</link>
@@ -10,23 +10,35 @@
 
 
 <item>
+<title>KOffice Developer News going RSS 2.0</title>
+<pubDate>10 Jan 2003</pubDate>
+<description>
+The KOffice Developer News is now a RSS 2.0 feed
+&lt;a href="http://www.feedvalidator.org/check?url=http%3A%2F%2Fwww.koffice.org%2Fdeveloper%2Fnews.rdf"&gt;
+and should be able to be validated.&lt;/a&gt;
+</description>
+</item>
+
+<item>
 <title>KOffice 1.3 RC2 released</title>
 <pubDate>18 Dec 2003</pubDate>
 <description>
-Second release candipubDate version of KOffice 1.3 is available. See the short
-<xhtml:a href="/releases/1.3rc2-release.php">release notes</xhtml:a>
-and the complete <xhtml:a href="/announcements/changelog-1.3.php">list of changes</xhtml:a>.
+Second release candidate version of KOffice 1.3 is available. See the short
+&lt;a href="/releases/1.3rc2-release.php"&gt;release notes&lt;/a&gt;
+and the complete &lt;a href="/announcements/changelog-1.3.php"&gt;list of changes&lt;/a&gt;.
 </description>
+<source>KOffice News</source>
 </item>
 
 <item>
 <title>KOffice 1.3 RC1 released</title>
 <pubDate>29 Oct 2003</pubDate>
 <description>
-First release candipubDate version of KOffice 1.3 is available. See the short
-<xhtml:a href="/releases/1.3rc1-release.phtml">release notes</xhtml:a>
-and the complete <xhtml:a href="/announcements/changelog-1.3rc1.phtml">list of changes</xhtml:a>.
+First release candidate version of KOffice 1.3 is available. See the short
+&lt;a href="/releases/1.3rc1-release.phtml">release notes&lt;/a&gt;
+and the complete &lt;a href="/announcements/changelog-1.3rc1.phtml">list of changes&lt;/a&gt;.
 </description>
+<source>KOffice News</source>
 </item>
 
 <item>
@@ -42,10 +54,10 @@ Today KOffice was tagged with the tag KOFFICE_1_3_RC1.
 <pubDate>26 Oct 2003</pubDate>
 <description>
 A better work around for
-<xhtml:a href="http://bugs.kde.org/show_bug.cgi?id=66142">bug #66142</xhtml:a>
+&lt;a href="http://bugs.kde.org/show_bug.cgi?id=66142">bug #66142&lt;/a&gt;
 was committed (still only for KDE 3.1.x.) The work-around allows
 saving in the KOffice 1.1 format by selecting application/x-tgz
-and to the directoy format by selecting text/xml. Be careful that
+and to the directory format by selecting text/xml. Be careful that
 it creates some problems with the extensions. Please choose the
 native KOffice format while loading those two kinds of files.
 Please still report problems made this work-around (still
@@ -59,7 +71,7 @@ by the way of the mailing lists.)
 <description>
 A hack was committed to restore a minimum of functionality
 to the save dialog for KOffice CVS HEAD on KDE 3.1.x
-(<xhtml:a href="http://bugs.kde.org/show_bug.cgi?id=66142">bug #66142</xhtml:a>.)
+(&lt;a href="http://bugs.kde.org/show_bug.cgi?id=66142">bug #66142&lt;/a&gt;.)
 Please be careful that the entries "empty file" of the
 filter choice do not work! Please report saving problems to
 the KOffice mailing lists.
@@ -70,8 +82,8 @@ the KOffice mailing lists.
 <title>KOffice API documentation working again</title>
 <pubDate>24 Oct 2003</pubDate>
 <description>
-The <xhtml:a href="http://www.koffice.org/developer/apidocmain.php">
-KOffice API documentation</xhtml:a> is again regurlarly updated from
+The &lt;a href="http://www.koffice.org/developer/apidocmain.php">
+KOffice API documentation&lt;/a&gt; is again regurlarly updated from
 now on.
 </description>
 </item>
