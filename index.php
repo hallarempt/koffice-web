@@ -19,6 +19,7 @@
     <p>In the KOffice suite the following parts are being developed:</p>
 
     <table width="90%">
+    
     <tr>
     <td><a href="kword/"><img src="pics/hi32-app-kword.png" alt="KWord logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kword/">KWord</a></b> - A frame-based word processor capable of professional standard documents</td>
@@ -62,6 +63,10 @@
     <td><b><a href="kexi/">Kexi</a></b> - Integrated Database Environment Access.</td>
     </tr>
 
+    <tr>
+    <td><a href="filters/"><img src="pics/cr32-mime-document.png" alt="Logo for KOffice filters" width="32" height="32" border="0" /></a></td>
+    <td><b><a href="kexi/">Filters</a></b> - Import and Export Filters for KOffice.</td>
+    </tr>
 
     </table>
 
@@ -70,9 +75,6 @@
 
     <!--All info text has moved to the info section. We will need
     some short intro here... -->
-
-    <p>For information about the import or export filters available in KOffice,
-    <a href="/filters/">please click here</a></p>
 
 <?php
  kde_general_news("./news.rdf", 5, true);
