@@ -59,7 +59,7 @@ and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/"
 
 <p>This is the minimum to run KOffice. If you want, there are other packages which
 contain a lot of different applications, from networking, graphics, multimedia to games. See the appropriate
-websites below "Family" in the left border.</p>
+websites below "KDE Family" <a href="http://www.kde.org/">on the main KDE page</a>.</p>
 
 
 <h2>Installing Qt and the base KDE packages</h2>
