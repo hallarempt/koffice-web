@@ -16,6 +16,7 @@
   release of KOffice 1.3.3.
 </p>
 
+<?php /*
 <h3><a name="i18n">Languages</a></h3>
 <ul>
 </ul>
