@@ -24,7 +24,7 @@
       <p>
         <em>Note:</em> the source language packages unpack as directories
         whose names start with "kde-i18n" instead of "koffice-i18n"
-        (as KOffice 1.3.1 did.
+        (as KOffice 1.3.1 did).
       </p>
       
       <h2>MD5 sums</h2>
