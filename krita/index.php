@@ -40,7 +40,7 @@
       the same.
       </p>
 
-      <p>
+      <!--p>
       <b>Additional Krita documents and links:</b>
       <ul><li><a href="faq.phtml">FAQs</a>
               <ul><li><a href="faq.phtml#whatis">What Is It?</a></li>
@@ -48,7 +48,7 @@
                   <li><a href="faq.phtml#whatdoes">What Does It Do?</a></li>
               </ul>
       </ul>
-      </p>
+      </p-->
 
       <p>
       To join the development, contact one of the developers or join the

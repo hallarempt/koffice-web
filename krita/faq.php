@@ -29,7 +29,7 @@ $faq->addQuestion("What are Krita's Development Goals ?",
    painting application will always have a higher priority in Krita's ongoing development.");
 
 $faq->addQuestion("How Does it Work?",
-"This question is answered globabally in <a href=\"/developer/krita/\">Developing Krita</a>. The most complete answer
+"This question is answered globally in <a href=\"/developer/krita/\">Developing Krita</a>. The most complete answer
 can of course be found in the <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita\">Krita source.</a>  Krita
 is still small enough that it is fairly easy to 'get into' the codebase, and start adding features. It's not yet
 ready for a plugin-framework or an extensible toolset.");
