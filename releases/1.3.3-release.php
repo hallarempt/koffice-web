@@ -34,7 +34,7 @@
        Also provided: <a href="md5-pgp-koffice-1.3.3.txt">a PGP-signed version of the MD5 sums</a>.
       </p>
       
-      <p><em>Note:</em>the PGP key for signing is the same as for KOffice 1.3.2,
+      <p><em>Note:</em> the PGP key for signing is the same as for KOffice 1.3.2,
         <a href="../download/signatures.php#goutte">please see the signing key overview.</a>
       </p>
 
