@@ -9,14 +9,14 @@
     <copyright>Copyright (C) 2003,2004, KOffice.org Webmasters</copyright>
     
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Mon, 13 Feb 2004 18:51 UT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2004 21:13 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
 
 <item>
 <title>KDE 3.1 not supported anymore</title>
-<pubDate>Mon, 13 Feb 2004 18:51 UT</pubDate>
+<pubDate>Mon, 23 Feb 2004 18:51 UT</pubDate>
 <description>
 KDE 3.1.x is not supported anymore for compiling KOffice CVS HEAD.
 </description>
