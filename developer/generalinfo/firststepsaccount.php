@@ -5,6 +5,8 @@
   include("header.inc");
 ?>
 
+<p>$Date$</p>
+
 <h2>Abstract</h2>
 
 <p>This tutorial is about what to do when you are a fresh owner of a new
@@ -36,8 +38,8 @@ beyond the scope of this tutorial.</p>
 <p>So you need to work with KDE's CVS server now, not anymore with the anonymous
 CVS server that you have used until now.</p>
 
-<p>So you new CVS root will be something like (assuming <em>family</em> is your account name):<br />
-<tt>:pserver:family@cvs.kde.org:/home/kde</tt><br />
+<p>So you new CVS root will be something like (assuming <em>surname</em> is your account name):<br />
+<tt>:pserver:surname@cvs.kde.org:/home/kde</tt><br />
 See the answer email to get your real CVS root name.</p>
 
 <p>Note: to avoid any misunderstanding, the CVS root has <em>nothing</em>
@@ -47,8 +49,8 @@ to do with your system's user named root.</p>
 <tt>:pserver:anonymous@kdecvs.student.utwente.nl:/home/kdecvs/kde</tt></p>
 
 <p>So the change of CVS root has to be done with (in one line):<br />
-<tt>find . -name Root | xargs perl -pe -i
-'s,:pserver:anonymous\@kdecvs.student.utwente.nl:/home/kdecvs/kde,:pserver:family\@cvs.kde.org:/home/kde,'
+<tt>find . -name Root | xargs perl -p -i -e
+'s,:pserver:anonymous\@kdecvs.student.utwente.nl:/home/kdecvs/kde,:pserver:surname\@cvs.kde.org:/home/kde,'
 </tt></p>
 
 <h2>First Test</h2>
@@ -125,8 +127,8 @@ to the relevant developer if you know who he is.</p>
 
 <p>Also when committing, please give a useful message with the commit. Do not think of
 now but try to think what you would want to find in, say, two years.
-(One day, You will probably find out that short commit entries like "Fix" or "Here too" is going to
-drive you creazy when you have to debug a problem.)</p>
+(One day, you will probably find out that short commit entries like "Fix" or "Here too" is going to
+drive you crazy when you have to debug a problem.)</p>
 
 <p>Good code is not always only about questions like if the code compiles. The code
 must also fit in what is planned. For example if a new code fixes just one little bug
