@@ -113,7 +113,7 @@ $faq->addQuestion("How do I develop a filter?", "
             call <code>make</code>. This should start compilation of that
             small, no-op template. If this step isn't successful, please
             write a mail to
-            <a href=\"mailto:koffice@mail.kde.org\">&lt;koffice@mail.kde.org&gt;</a>.</li>
+            <a href=\"mailto:koffice@kde.org\">&lt;koffice@kde.org&gt;</a>.</li>
         <li>Please rename all <i>foo</i> names to match the name of your
             filter. If you write an export filter it's of course a good idea
             to change <i>import</i> to <i>export</i>, too. Due to renaming the
