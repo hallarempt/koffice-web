@@ -14,7 +14,7 @@
   $appinfo->addAuthor("Dave Marotti", "lndshark@verticaladdiction.net");
   $appinfo->addContributor("Peter Simonsson", "psn@linux.se");
   $appinfo->addContributor("Ian Reinhart Geiser", "geiseri@kde.org");
-  $appinfo->addContributor("Laurent Montel@kde.org", "montel@kde.org");
+  $appinfo->addContributor("Laurent Montel", "montel@kde.org");
   $appinfo->addContributor("Frauke Oster", "oster@kde.org");
   $appinfo->show();
 ?>
