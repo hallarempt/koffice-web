@@ -54,6 +54,12 @@
     Compile again with KDE 3.1
     (<a href="http://bugs.kde.org/show_bug.cgi?id=83972">Part of bug #89372</a>)
   </li>
+  <li>
+    Fix crash in history of group/ungroup commands
+  </li>
+  <li>
+    Fix loading and saving of picture objects marked "sticky"
+  </li>
 </ul>
 
 
