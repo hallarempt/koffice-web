@@ -4,7 +4,6 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-  <h1>KOffice Filters - Status (Development)</h1>
   <h2>Which filters are there?</h2>
   <p>At the moment all parts of KOffice support the filter architecture
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
