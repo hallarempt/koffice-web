@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 
 #adjust these two variables to the current version
-$VERSION="1.3.3";
+$VERSION="1.3.5";
 $STATUS="stable";
 
 # team names (from kde-i18n/teamnames)
@@ -83,6 +83,8 @@ use constant LANGUAGES =>
     "zh_TW" => "Chinese Traditional",
     "zu" => "Zulu"
 };
+
+warn("Assuming KOffice version $VERSION");
 
 # print header
 print '<table border="0" cellpadding="4" cellspacing="0">'."\n";
