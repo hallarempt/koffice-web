@@ -9,10 +9,19 @@
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
 
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Wed, 30 Jun 2004 00:00 UT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2004 20:48:00 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>Minutes of the aKademy KOffice Meeting</title>
+<pubDate>Thu, 26 Aug 2004 20:48:00 UT</pubDate>
+<description>
+The minutes of the KOffice meeting at the aKademy are available on the koffice-devel mailing list:
+&lt;a href="http://lists.kde.org/?l=koffice-devel&amp;m=109337452416339&amp;w=2"&gt;the commit&lt;/a&gt;.
+</description>
+</item>
 
 <item>
 <title>Kexi 0.1 beta 4 released</title>
