@@ -10,6 +10,9 @@
 
 
 <!-- $Id$ -->
+
+<p>$Date$</p>
+
 <h2>Introduction</h2>
 <p>
 Files placed in the KOffice Archives are PGP-signed
@@ -20,6 +23,9 @@ really originated at the KOffice Archives.</p>
 The current KOffice Archives PGP keys are always posted here,
 including any revocation certificates which may be outstanding on
 older keys.</p>
+
+<p><a href="#goutte">Go to the actually used key!</a></p>
+
 <p><a id="faure" name="faure">
 The Archives PGP key for KOffice 1.1.x and 1.2.x is:
 </a></p>
@@ -157,8 +163,8 @@ EHoAn1anvr8Qc0wSE3bAMD2FiRbhbOLf
 </pre>
 
 <p><a id="lukas" name="lukas">
-Starting from version 1.2.90 (KOffice 1.3 beta1),
-<a href="#goutte">except for KOffice 1.3.2</a>, the PGP key is:
+Starting from version 1.2.90 (KOffice 1.3 beta1) to KOffice 1.3.1 (included),
+the PGP key is:
 </a></p>
 
 <pre>
@@ -197,7 +203,7 @@ NvQPqA==
 </pre>
 
 <p><a id="goutte" name="goutte">
-For KOffice 1.3.2, the PGP key is:
+For KOffice 1.3.2 and KOffice 1.3.3, the PGP key is:
 </a></p>
 
 <pre>
