@@ -5,7 +5,7 @@
 
 <xsl:processing-instruction name="php">
   $page_title="KOffice Filters Status (Development)";
-  $location = '/ &lt;a href="/">KOffice&lt;/a> / &lt;a href="/filters/">Filters&lt;/a> / Status (Development)';
+  $site_root = "../../";
   include("koffice.inc");
   include("header.inc");
 </xsl:processing-instruction>
