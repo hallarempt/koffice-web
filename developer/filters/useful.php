@@ -169,19 +169,6 @@
         </tr>
         -->
 
-        <tr bgcolor="#AAAAFF">
-        <td rowspan="2" valign="top"><b>IBM</b></td>
-        <td><a href="http://www.alphaworks.ibm.com/tech/xmldiffmerge">
-            XML diffmerge</a></td>
-        <td>XML diffmerge</td>
-        </tr>
-
-        <tr bgcolor="#AAAAFF">
-        <td><a href="http://www.alphaworks.ibm.com/tech/xmltreediff">
-            XML treediff</a></td>
-        <td>XML treediff</td>
-        </tr>
-
         </table>
         </td>
     </tr>

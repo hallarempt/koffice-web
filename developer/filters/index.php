@@ -16,7 +16,10 @@
         <li><a href="useful.php">Useful links</a></li>
 <!--        <li><a href="todo.php">Missing Filters</a></li> -->
     </ul>
-   
+
+    <p>For basic file format information (especially for XML-based file formats
+    see the <a href="../fileformat/">file format section</a>.</p>
+       
 <?php
     include("footer.inc");
 ?>
