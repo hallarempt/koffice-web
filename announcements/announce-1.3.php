@@ -39,7 +39,7 @@ formats has improved as well.
 document-formats and we have made significant improvements in that area
 for this release,"</i> says David Faure, a KOffice developer for
 Klarälvdalens Datakonsult AB. <i>"Especially the support for Microsoft 
-Word 95 and Microsoft Word 97 documents has become much better."</i>
+Word 95/97/2000/XP documents has become much better."</i>
 <h4>
   Principal Improvements
 </h4>
