@@ -72,8 +72,9 @@
 -->
 
 <h3><a name="filters">Filters</a></h3>
-
-### TODO
+<ul>
+<li>### TODO</li>
+</ul>
 
 
 <h3>Previous changelogs</h3>
