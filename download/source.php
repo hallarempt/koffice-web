@@ -14,11 +14,8 @@
       <h2>Requirements</h2>
       <p>To compile KOffice you need:</p>
 <ul>
-<!-- ### TODO: exact needed version of autoconf/automake? -->
-<li>For KOffice 1.3: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
+<li>For KOffice 1.3 or CVS versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
-<!--<li>For KOffice 1.2 betas and the CVS versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.5 or 1.6</a> and
-    <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.52</a>.</li>-->
 <li>a C++ compiler which supports exceptions (preferably
 <a href="http://gcc.gnu.org">a recent version of GCC</a>).
 (see <a href="http://gcc.gnu.org">http://gcc.gnu.org</a>
