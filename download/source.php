@@ -27,21 +27,19 @@ for info about getting and installing it.)
 </ul>
 
 <h2>Information</h2>
-<p>KOffice stable is currently available as version 1.3.3, designed to run with KDE 3.1 and later.<br />
-You must choose now to run the stable KOffice 1.3.3 or a development version. In case of the
+<p>KOffice stable is currently available as version <?php echo $currentversion; ?>, designed to run with KDE 3.1 and later.<br />
+You must choose now to run the stable KOffice <?php echo $currentversion; ?> or a development version. In case of the
 development version this can mean that it is not usable for end use.
 If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source
 regularly via CVS or CVSUP.</p>
 
-<?php ### TODO: use the variables of koffice.inc for the version number ?>
-
 <h2>Download</h2>
-<p><b>KOffice 1.3.3 stable</b> is available
-<a href="http://download.kde.org/stable/koffice-1.3.3/src/">here</a></p>
+<p><b>KOffice <?php echo $currentversion; ?> stable</b> is available
+<a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/src/">here</a></p>
 
 <!--
-<p><b>The latest development release is KOffice 1.3 RC 2 - XMAS version</b>. Get it from
-<a href="http://download.kde.org/unstable/koffice-1.2.95/src/">here</a>.</p>
+<p><b>The latest development release is KOffice <?php echo $develversion; ?></b>. Get it from
+<a href="http://download.kde.org/unstable/koffice-<?php echo $develversion; ?>/src/">here</a>.</p>
 -->
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
