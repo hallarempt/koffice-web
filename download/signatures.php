@@ -3,7 +3,11 @@
   $site_root="../";
   include("koffice.inc");
   include("header.inc");
+
+# Note: the anchor name is the CVS account name of the respective developer
 ?>
+
+
 
 <!-- $Id$ -->
 <h2>Introduction</h2>
@@ -13,11 +17,12 @@ by the archive maintainer.  This signature can be used to prove that a file,
 which may have been obtained from a mirror site or other location,
 really originated at the KOffice Archives.</p>
 <p>
-The current KOffice Archives PGP key is always posted here,
+The current KOffice Archives PGP keys are always posted here,
 including any revocation certificates which may be outstanding on
 older keys.</p>
-<p>
-The current KOffice Archives PGP key is:</p>
+<p><a id="faure" name="faure">
+The Archives PGP key for KOffice 1.1.x and 1.2.x is:
+</a></p>
 <pre>
 pub  1024D/09B06E10 2001-09-12 David Faure &lt;faure@kde.org&gt;
      Key fingerprint = EEFA 895F EF2D 5532 4DC0  A3B5 EF62 9C54 09B0 6E10
@@ -151,9 +156,9 @@ EHoAn1anvr8Qc0wSE3bAMD2FiRbhbOLf
 
 </pre>
 
-<p>
+<p><a id="lukas" name="lukas">
 Starting from version 1.2.90 (KOffice 1.3 beta1), the PGP key is:
-</p>
+</a></p>
 
 <pre>
 pub 1024D/75923BEE 2001-05-05 Lukas Tinkl &lt;lukas.tinkl@suse.cz&gt;
