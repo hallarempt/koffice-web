@@ -81,14 +81,12 @@
 <ul>
 
 </ul>
--->
 
 <h3><a name="kivio">Kivio</a></h3>
 <ul>
 <li>### TODO</li>
 </ul>
 
-<!--
 <h3><a name="kformula">KFormula</a></h3>
 <ul>
 </ul>
