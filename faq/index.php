@@ -155,7 +155,7 @@ $faq->addQuestion("How do I report wishes?",
 "You report wishes as you would do for bugs. Here too it is important to describe correctly the wish to
 avoid misunderstandings. If your wish comes from another application, please do not assume that the developers
 know that application! Only <em>one</em> wish per report, please! However you can create as many reports as
-you want or need. One wish per report helps the developers to manage the bugs and wishes."
+you want or need. One wish per report helps the developers to manage the bugs and wishes better."
 );
 
 $faq->addQuestion("Can I use KOffice on Windows?",
@@ -286,7 +286,7 @@ $faq->addQuestion("What data format does KOffice read and write natively?",
 "KOffice documents are zipped files. Inside these files KOffice's data is
 stored in XML files. Pictures however are directly stored as binary.</p>
 <p>Up to KOffice 1.3, the XML tags used by KOffice's applications are private to
-KOffice. From KOffice 1.4, we paln to switch to OpenOffice.org compatible file
+KOffice. From KOffice 1.4, we plan to switch to OpenOffice.org compatible file
 formats."
 );
 /*
@@ -326,11 +326,11 @@ $faq->addQuestion("Can I convert KOffice documents to and from other formats on 
 );
 
 $faq->addQuestion("Wow! The application XYZ writes XML, too! Does that mean I can easily read those documents with KOffice?",
-"No, unfortunately not; you still need a filter. Think of XML as a very base,
+"No, unfortunately not; you still need a filter. Think of XML as a very basic,
 general markup language which allows you to \"create your own markup language\".
 So it's more precise to say, the KOffice applications use a file format
-thats based on XML. For the other application, it will be another file format based on
-XML."
+thats based on XML. For the other application, it will be another file format,
+also based on XML but different."
 );
 
 $faq->addQuestion("Which international text encodings does KOffice support?",
@@ -423,8 +423,8 @@ This doesn't make the creation of a simple letter less easy than with other
 */
 
 $faq->addQuestion("Can I write my letter / papers / master thesis with KWord?",
-"Yes, some people have made very large documents with KWord. Just be careful that KWord has a known
-problem with multi-page tables, which will probably not fixed before the release of KOffice 1.3."
+"Yes, some people have made very large documents with KWord.
+However KWord is not optimized for such a use."
 );
 
 $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter, RTF... ?",
@@ -432,7 +432,7 @@ $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter,
 <p>Some filters are not always working well, as implementing a filter depends on the available documentation
 of the file format.</p>
 <p>Please note that in KOffice 1.3, it is recommended to save as RTF (Rich Text Format) to exchange with other word
-processors!"
+processors! (PDF can be a good file format too for importing into KWord.)"
 );
 
 $faq->addSection("KSpread");
@@ -451,7 +451,7 @@ KSpread.</para>
 
 */
 
-$faq->addQuestion("Are there import filters for OpenOffice Calc, MS Excel, StarCalc... ?",
+$faq->addQuestion("Are there import filters for OpenOffice Calc, MS Excel... ?",
 "Yes, there are filters for KSpread. <a href=\"http://www.koffice.org/filters/1.2/index.php\">See this page for documentation.</a></p>
 <p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format."
 );
@@ -494,7 +494,7 @@ application.
 */
 
 $faq->addQuestion("But was the vector graphic application not Kontour?",
-"Kontour used to be a vector drawing program. This program was not being actively maintained anymore
+"Kontour used to be a vector drawing program in KOffice. This program was not being actively maintained anymore
 and was finally removed from KOffice in the year 2003. Karbon14 has taken its place."
 );
 
@@ -508,7 +508,12 @@ $faq->addQuestion("But then what can I do with my old Kontour files?",
 former Kontour file format."
 );
 
+$faq->addSection("Other KOffice Programs");
+
 //CHECK
+$faq->addQuestion("What is Kivio?",
+"Kivio is a flowcharting application. Kivio is part of the stable releases of KOffice."
+);
 /*
 <qandadiv id="kivio"><title>Kivio</title>
 <qandaentry><question><para>What is &Kivio;?</para></question>
@@ -523,6 +528,13 @@ http://www.thekompany.com/projects/kivio</ulink>.</para></answer></qandaentry>
 */
 
 //CHECK
+$faq->addQuestion("What is Kugar?",
+"Kugar is a template-based business-quality xml report generation tool. Kugar is part of the stable releases of KOffice."
+);
+$faq->addQuestion("What is Kudesigner?",
+"Kudesigner is a WYSIWYG GUI report template designer for the Kugar report engine.
+Kudesigner is part of the stable releases of KOffice."
+);
 /*
 <qandadiv id="kugar"><title>Kugar and Kudesigner</title>
 <qandaentry><question><para>What is &Kugar;?</para></question>
@@ -550,21 +562,15 @@ before using it.
 </qandadiv>
 */
 
-// CHECK
-/*
-<qandadiv id="other"><title>Other &KOffice; programs</title>
-<qandaentry><question><para> What's &KChart;/&KDiagram; and what's the difference?</para></question>
-<answer>
-<para>
-Both &KChart; and &KDiagram; were &KOffice; parts for generating diagrams from data,
- e.g. pie and bar charts. They have been merged, and only &KChart; exists now.</para>
-</answer></qandaentry>
-</qandadiv>
-*/
+$faq->addQuestion("What is KChart?",
+"KChart is a diagram and chart generator.
+KChart is part of the stable releases of KOffice."
+);
 
-// CHECK: KFormula?
-
-$faq->addSection("Krita");
+$faq->addQuestion("What is KFormula?",
+"KFormula is a formula editor.
+Kformula is part of the stable releases of KOffice."
+);
 
 $faq->addQuestion("What is Krita?",
 "Krita is an image processor for KOffice, which should be suitable for all your image creation and editing needs.</p>
@@ -622,24 +628,11 @@ In the world of components this is different. Applications are not isolated
  components that exist on the system they run on)</para></listitem>
 <listitem><para>realize compound documents and similar things.</para></listitem>
 </itemizedlist> </para>
-
-</answer></qandaentry>
-<qandaentry><question><para> I want deeper knowledge about these technologies - where do I find it?</para></question>
-<answer>
-<para>
-There already was some documentation on the CORBA based component model; I don't
- know how much there is for KParts. Anyway, as KParts is <emphasis>much</emphasis>
- easier to program than the old CORBA stuff was, it won't be difficult for you
- to get into it. A good start is the example program you'll find in the <filename>koffice</filename>
- module. Just modify it to fit your needs. Regarding dcop, take a look
- at the HOWTO file in <filename>kdelibs/dcop</filename>.</para>
-<para>
-New documentation on KDE development will normally somewhen appear on
-<ulink url="http://developer.kde.org">http://developer.kde.org</ulink>.</para>
-</answer>
-</qandaentry>
-</qandadiv>
 */
+
+$faq->addQuestion("Where can I get more developer information?",
+"KOffice Developer Pages are <a href=\"http://www.koffice.org/developer/\">here</a>.
+The genral KDE Developer Pages are <a href=\"http://developer.kde.org\">here</a>.");
 
 $faq->show();
 ?>
