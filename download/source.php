@@ -33,6 +33,8 @@ development version this can mean that it is not usable for end use.
 If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source 
 regularly via CVS or CVSUP.</p>
 
+<?php ### TODO: use the variables of koffice.inc for the version number ?>
+
 <h2>Download</h2>
 <p><b>KOffice 1.3.2 stable</b> is available 
 <a href="http://download.kde.org/stable/koffice-1.3.2/src/">here</a></p>
