@@ -9,7 +9,7 @@ $gallery = new ImageGallery("Kexi Screenshots");
 $gallery->addImage("pics/t_relations.png", "pics/relations.png", "250", "197", "[Screenshot]", 0 , "Defining database relations");
 $gallery->startNewRow();
 $gallery->addImage("pics/t_alter.png", "pics/alter.png", "250", "175", "[Screenshot]", 0 , "Change table structure");
-$gallery->addImage("pics/t_manipulation.png", "pics/maniuplation.png", "251", "188", "[Screenshot]", 0 , "Data manipulation with completition");
+$gallery->addImage("pics/t_manipulation.png", "pics/manipulation.png", "251", "188", "[Screenshot]", 0 , "Data manipulation with completition");
 $gallery->startNewRow();
 $gallery->addImage("pics/t_query-design.png", "pics/query-design.png", "250", "197", "[Screenshot]", 0 , "Create queries with drag and drop");
 $gallery->addImage("pics/t_query-sql.png", "pics/query-sql.png", "250", "197", "[Screenshot]", 0 , "SQL statements can still be used");
