@@ -44,7 +44,7 @@ $faq->addQuestion("Which mailing lists are used for KOffice?",
 "<p>KOffice has two own mailing lists:</p>
 <ul>
 <li><a href=\"mailto:koffice@kde,org\">koffice mailing list</a></li>
-<li><a href=\"mailto:koffice-devel@kde,org\">koffice-devel mailing list</a></li>
+<li><a href=\"mailto:koffice-devel@kde.org\">koffice-devel mailing list</a></li>
 </ul>
 <p>The koffice mailing list is mainly for the users of KOffice, the koffice-devel is mainly for the developers.
 Please note that the write access of the koffice-devel mailing list is restricted.</p>
@@ -577,7 +577,7 @@ $faq->addQuestion("I like this project! How can I contribute?",
 "<p>Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
 and tell where you would want to help!</p>
 <p>Please look also at
-<a href=\"http://www.koffice.org/getinvolved/">\"Get Involved?\"<a>!</p>"
+<a href=\""http://www.koffice.org/getinvolved/\">\"Get Involved?\"<a>!</p>"
 );
 
 
