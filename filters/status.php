@@ -1,12 +1,8 @@
 <?php
-  echo '<?xml version="1.0" encoding="UTF-8"?>';
-  echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">';
-?><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<!--Do not modify! This file was generated -->
-<?php
-  $title="The KOffice Project -- Filters -- Status (Development)";
-  $site_root = '../';
-  include("cutheader.inc");
+  $page_title="KOffice Filters Status (Development)";
+  $location = '../../';
+  include("koffice.inc");
+  include("header.inc");
 ?>
   <h1>KOffice Filters - Status (Development)</h1>
   <h2>Which filters are there?</h2>
@@ -595,6 +591,5 @@
   <p>Would <i>you</i> like to join the development team and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
 <?php 
-  include("cutfooter.inc");
+  include("footer.inc");
 ?>
-</html>
