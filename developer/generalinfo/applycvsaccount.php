@@ -5,6 +5,8 @@
   include("header.inc");
 ?>
 
+$Date$
+
 <h2>Abstract</h2>
 
 <p>This tutorial is about how to apply for a CVS account for KDE/KOffice.</h2>
@@ -39,13 +41,10 @@ Yes, <b>the account list is public</b>, for example on <a href="http://webcvs.kd
   (&quot;pserver&quot; is the name of the way in which CVS communicates to a CVS server over a network.)
 </p>
 
-<!-- // Comment this out until I have found a better phrasing.
-     // Is this better:?
- (In any case, a normal user does not have much
-to hide: email notifications of all commits are sent to the public kde-cvs mailing list and
-anything you can download using &quot;cvs update&quot; can be downloaded by anyone else
-(after all, KDE is opensource).
--->
+<p>A normal user does not have many reasons to use SSH with CVS, as he has not
+much to hide: email notifications of all commits are sent to the public kde-cvs mailing list and
+anything you can download using <tt>cvs update</tt> can be downloaded by anyone else
+(after all, KDE is opensource).</p>
 
 <p>The password you'll need to create depends on the above:
   <ul>
