@@ -106,6 +106,15 @@
 
 <h4>KPresenter's OpenOffice.org Impress Export Filter</h4>
 <ul>
+  <li>
+	Export Group object
+  </li>
+  <li>
+	Export Text Vertical Alignment
+  </li>
+  <li>
+	Export Text Margins
+  </li>
 </ul>
 
 <?php /*
