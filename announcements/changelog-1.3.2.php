@@ -25,7 +25,7 @@
 <li>Save window settings also when using File/Close</li>
 <li>
  Fix <a href="http://bugs.kde.org/show_bug.cgi?id=83972">#83972</a>
- (KOffice compiles fine under qt3.1/kde3.1) </li>
+ (KOffice compiles fine under Qt 3.1 and KDE 3.1) </li>
 </ul>
 
 <h4>KOfficeUI:</h4>
