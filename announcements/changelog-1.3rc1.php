@@ -109,6 +109,12 @@ are highly encouraged to use that flag.</li>
 <li>fixed RTL problems with sheet and cell direction
 </ul>
 
+<h3>Previous changelogs</h3>
+<a href="changelog-1.3beta4.php">1.3beta4</a> |
+<a href="changelog-1.3beta3.php">1.3beta3</a> |
+<a href="changelog-1.3beta2.php">1.3beta2</a> |
+<a href="changelog-1.3beta1.php">1.3beta1</a>
+
 <?php
   include("footer.inc");
 ?>
