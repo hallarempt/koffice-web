@@ -13,8 +13,8 @@
 www/areas/koffice</p>
 
 <ul>
-    <li>Some pages are supposed to be XHTML 1.0 but they still contain errors. Such
-    pages should be fixed. (Difficulty: **; Sharability: *)</li>
+    <li><del>Some pages are supposed to be XHTML 1.0 but they still contain errors. Such
+    pages should be fixed. (Difficulty: **; Sharability: *)</del></li>
     
     <li>Check and fix spelling (Difficulty: *; Sharability: *)</li>
 </ul>
