@@ -95,6 +95,14 @@
 
 
 <h3><a name="filters">Filters</a></h3>
+<em>KWord's MSWord import filter (requiring wv2-0.1.9):</em>
+<ul>
+<li>Support for Word 6 and Word 7 (aka Word 95) files added</li>
+<li>Fixed the list handling for weird corner cases</li>
+<li>wv2 isn't so noisy anymore, when compiled with --disable-debug. Packagers 
+are highly encouraged to use that flag.</li>
+</ul>
+
 <em>KWord RTF export filter:</em>
 <ul>
 <li>new table support</li>
