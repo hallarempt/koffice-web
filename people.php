@@ -29,6 +29,7 @@
       <b>KFormula: <a href="mailto:rizzi@kde.org">Andrea Rizzi</a>,&nbsp;<a
 	  href="mailto:ulrich.kuettler@mailbox.tu-dresden.de">Ulrich
 	  Kuettler</a></b><br />
+      <b>Kivio: <a href="mailto:psn@linux.se">Peter Simonsson</a></b><br />
 	  <b>CVS Repository, Configure-Scripts and Makefiles: <a href="mailto:coolo@kde.org">Stephan Kulow</a></b><br />
       </p>
       
@@ -147,6 +148,9 @@
             
       <b><a href="mailto:lukas@kde.org">Luk&aacute;&scaron; Tinkl</a></b>
       (KPresenter, KSpread, filters)<br />
+
+      <b><a href="mailto:psn@linux.se">Peter Simonsson</a></b>
+      (Kivio, Kexi)<br />
       </p>
 
 <?php include("footer.inc"); ?>
