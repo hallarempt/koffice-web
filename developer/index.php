@@ -40,7 +40,9 @@
    <h2>External Wiki Pages About KOffice</h2>
    
    <ul>
-     <li><a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+KOffice">KOffice Quality</a></li>
+     <?php /* Note: the following URL is really Koffice (with lower case o) */	
+     <li><a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+Koffice">KOffice Quality</a></li>
+
      <li><a href="http://wiki.kdenews.org/tiki-index.php?page=Compiling+KOffice+Step+by+Step">Compiling KOffice Step By Step</a></li>
    </ul>
    
