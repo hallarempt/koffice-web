@@ -59,9 +59,9 @@
       There is a mailing list archive at
       <a href="http://lists.kde.org/?l=kde-kimageshop">http://lists.kde.org/?l=kde-kimageshop</a>.
       </p>
-
+<!--
       <h3>News</h3>
-      <br>
+      <br />
 
       <table border=0 cellpadding=2 cellspacing=2>
       <tr><td bgcolor="#BB8844" align=center valign=middle>
@@ -95,8 +95,8 @@
              official release</td>
       </tr>
       </table>
-      <br>
-
+      <br />
+-->
       <h3>Other Information</h3>
       <ul><li><a href="http://www.imagemagick.org/">Image
               Magick X11 Image Processing and Display Package</a>
