@@ -146,6 +146,8 @@ management system in 100K</a></li>
       </ul>
 
 	<p>Academic:</p>
+ 
+<p>(These dissertations are made available for non-commercial purposes by Bill Baxter on his <a href="http://www.cs.unc.edu/~baxter/projects/index.html">projects webpage</a>(</p>
 <ul>
         <li><a href="http://www.billbaxter.com/refs/Cockshott-Dissertation.pdf">Wet & Sticky</a> -- dissertion by Tunde Cockshott on modelling wet paint.</a></li>
         <li><a href="http://www.billbaxter.com/refs/Fishkin-Dissertation.pdf">Applying Color Science to Computer Graphics</a> -- dissertion by Kenneth Paul Fishkin.
