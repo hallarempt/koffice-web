@@ -24,7 +24,8 @@
    Now you can insert text<br/>
    <pre>dcop $appid $edit insertText 'Hello world!'</pre>
 
-   Use this to create new paragraphs (not available in koffice&lt;1.3.1)<br/>
+   Use this to create new paragraphs 
+   (only available from KOffice version 1.3.2 upwards)<br/>
    <pre>dcop $appid $edit newParagraph</pre>
 
    See "dcop kword-$pid $edit" for more (e.g. setBold true, moving the cursor, etc.)
