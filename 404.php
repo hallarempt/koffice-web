@@ -12,9 +12,6 @@ $handler->add("/support.phtml", "/support");
 $handler->add("/supporters.phtml", "/support/supporters.php");
 $handler->add("/filters/status.php", "/developer/filters/status.php");
 $handler->add("/kontour/index.php", "/karbon/index.php");
-// The help link wants /documentation, www.koffice.org has not any
-// so forward to /information
-$handler->add("/documentation", "/information");
 $handler->execute();
 ?>
 
