@@ -9,7 +9,7 @@
 <a href="mailto:ariya@kde.org">Ariya Hidayat</a><br />
 <a href="mailto:goutte@kde.org">Nicolas Goutte</a></p>
 
-<p style="text-align: center">Last revision: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?> </p>
+<p style="text-align: center">Last revision: $Date$ </p>
 
 <h2>Introduction</h2>
 
