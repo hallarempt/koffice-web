@@ -19,7 +19,11 @@ www/areas/koffice</p>
     
     <li>Some pages are supposed to be XHTML 1.0 but they still contain errors. Such
     sites should be fixed.</li>
+    
+    <li><ins>Check and fix spelling</ins></li>
 </ul>
+
+<p>Note: some of the tasks could be done on all KDE Web sites.</p>
 
 <?php
    include("footer.inc");
