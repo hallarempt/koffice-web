@@ -4,6 +4,7 @@
   include("koffice.inc");
   include("header.inc");
 ?>
+<div>
   <h2>Which filters are there?</h2>
   <p>At the moment all parts of KOffice support the filter architecture
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
@@ -589,6 +590,7 @@
   <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
   <p>Would <i>you</i> like to join the development team and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
+</div>
 <?php 
   include("footer.inc");
 ?>
