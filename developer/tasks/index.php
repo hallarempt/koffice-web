@@ -26,9 +26,9 @@ a single directory... It is more important that some part is done at all.)</p>
     <li><a href="trivial.php">Rather trivial tasks</a>.</li>
     
     <li><a href="nontrivial.php">Non-trivial tasks</a>.</li>
-
-    <li><a href="kdebugs.php">Tasks in KDE Bugs</a>.</li>
     
+    <li><a href="kdebugs.php">KOffice bugs in KDE Bugs</a>.</li>
+
     <li><a href="/developer/website/tasks.php">Tasks for koffice.org</a>.</li>
 </ul>
 

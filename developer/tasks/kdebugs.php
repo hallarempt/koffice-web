@@ -1,5 +1,5 @@
 <?php
-  $page_title="Tasks For KOffice In KDE Bugs";
+  $page_title="KOffice Bugs In KDE Bugs";
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
@@ -7,7 +7,24 @@
 
 <p>$Date$</p>
 
-<h2>KOffice part of KDE Bugs</h2>
+<h2>Bugs</h2>
+
+<p>There are plenty of <a href="http://bugs.kde.org">bugs and wishes in KDE Bugs</a> that need to be fixed, respectively wait to be implemented</p>
+
+<p>Here some bugs (just a very little excerpt of all KOffice bugs):</p>
+
+<ul>
+    <li>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
+        "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
+    </li>
+    <li>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
+        "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)
+    </li>
+</ul>
+
+<h2>Managing Tasks In KDE Bugs</h2>
  
 <ul>
     <li>Find similar bug entries and add a comment like "see also bug #99999" in 

@@ -31,25 +31,6 @@
 
 <p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (However some tasks could be backported to the last stable version of KOffice.)</p>
 
-<h2>Bugs</h2>
-
-<p>There are plenty of <a href="http://bugs.kde.org">bugs and wishes in KDE Bugs</a> that need to be fixed, respectively 
-wait to be implemented</p>
-
-<p>Here some bugs (just a very little excerpt of all KOffice bugs):</p>
-
-<ul>
-    <li>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
-        "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
-    </li>
-    <li>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
-        "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)
-    </li>
-</ul>
-
-
 <?php
    include("footer.inc");
 ?>
