@@ -27,19 +27,10 @@ a single directory... It is more important that some part is done at all.)</p>
     
     <li><a href="nontrivial.php">Non-trivial tasks</a>.</li>
 
+    <li><a href="kdebugs.php">Tasks in KDE Bugs</a>.</li>
+    
     <li><a href="/developer/website/tasks.php">Tasks for koffice.org</a>.</li>
 </ul>
-
-<h2>KOffice part of KDE Bugs</h2>
- 
-<ul>
-    <li>Find similar bug entries and add a comment like "see also bug #99999" in 
-    such bugs. (This is especially between KPresenter, KWord and KOffice.) (Difficulty: *; Sharability: *)</li>
-    
-    <li>Read the <a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a>
-    and create new bug or wish reports for missing and not reported features. (Difficulty: *; Sharability: *)</li>
-</ul>
-    
 
 <h2>More?</h2>
 
