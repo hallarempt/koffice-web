@@ -706,7 +706,7 @@ Great. There are many fields, where help is needed (in fact, all fields).
 <listitem><para>draw graphics</para></listitem>
 <listitem><para>help maintaining the web page</para></listitem>
 <listitem><para>fix small bugs if you find them and send a patch to <email>koffice at kde dot org</email>.</para></listitem>
-<listitem><para><ulink url="http://koffice.kde.org/support.phtml">
+<listitem><para><ulink url="http://koffice.kde.org/support">
 donate</ulink> money or hardware :-) Yes, this is needed in free software
 development, too :)
 </para></listitem> </itemizedlist>

@@ -29,7 +29,7 @@
       <li>test KOffice extensively and send descriptive bug reports
       via the "Help, Report Bug" mechanism in the programs.</li>
 
-      <li><a href="../support.phtml">donate money or hardware</a>
+      <li><a href="../support">donate money or hardware</a>
       Yes, this is needed in free software development, too,
       e.g. for extending the KOffice server.</li>
     </ul>

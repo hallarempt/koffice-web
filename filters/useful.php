@@ -1,7 +1,7 @@
 <?php
   $page_title="Useful Links";
   $site_root = '../';
-  include("koffice.inc);
+  include("koffice.inc");
   include("header.inc");
 ?>
 

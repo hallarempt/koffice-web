@@ -7,6 +7,7 @@
 
 <?php
 $faq = new FAQ();
+
 $faq->addQuestion("Do we really need filters", "<p>In my opinion we definitely need filters because an important factor influencing the success of an office suite is the ability to import and export documents. Of course this is not critical stuff like printing or a nice and straightforward use interface, but it's not just a &quot;nice-to-have&quot; feature, either.</p>
 <p>Just imagine a user working in a heterogenous environment using KOffice among other office suites. Sometimes it is necessary to exchange documents as we all know. Now the adventure begins:</p>
 <ul>
@@ -17,8 +18,11 @@ $faq->addQuestion("Do we really need filters", "<p>In my opinion we definitely n
 </ul>
 <p>Another problem is that some vendors of proprietary office suites provide inaccurate and/or incomplete documentation of the file formats (or no information at all). This is one of the obstacles we face because it's really time consuming to search for information in a binary file as you can imagine... (At this place I'd like to thank Espen Sand for his brillant KHexEditor <i>(should be on your hard disk already if you installed the <b>kdeutils</b> package).</i>
 </p>");
-$faq->addQuestion("Which filters are there?", "Please have a look at the <a href="status.phtml">status page</a> for all available filters. Please note that this page reflects the state of current development. This means that some filters might not be in the latest release.");
-$faq->addQuestion("Which filters are most wanted?", "Please refer to our <a href="todo.phtml">pending and most wanted filters</a>.");
+
+$faq->addQuestion("Which filters are there?", "Please have a look at the <a href=\"status.php\">status page</a> for all available filters. Please note that this page reflects the state of current development. This means that some filters might not be in the latest release.");
+
+$faq->addQuestion("Which filters are most wanted?", "Please refer to our <a href=\"todo.phtml\">pending and most wanted filters</a>.");
+
 $faq->addQuestion("How to use a filter?", "
 <p>The KOffice Library Developers have done a good job and you will not even notice when you use a filter to convert a file to the part's native format. OK, you can see it (debug output), but there is no difference for you at all. Just select <br />
 <code><b><i>File -> Open...</i></b></code> for import or <br />
@@ -26,14 +30,16 @@ $faq->addQuestion("How to use a filter?", "
 <code><b><i>File -> Save As...</i></b></code>
 for export <br />
 and choose the filter which should be used. If you import files with a known mime type (that means, konqueror tells you the correct type of the file) you don't even have to select the appropriate filter. Select (or name, in case of saving) the file and off you go.");
+
 $faq->addSection("Developing Filters for KOffice");
+
 $faq->addQuestion("Prepare the Environment",
 "<p>As the development version of KOffice needs KDE 3 it's necessary to install at least parts of <b>KDE 3</b>
 (<b><i>Qt 3, kdesupport, arts, kdelibs, kdebase - in this order</i></b>) and - of course - <b><i>KOffice</i></b>.
 I recommend looking for further information on <a href=\"http://www.koffice.org/install-source.phtml\" how to install</a>
 it. To get some help from real KOffice experts please <a href=\"http://www.kde.org/contact.html\">join the KOffice or the KOffice-Devel
 mailing lists</a> (koffice@kde.org and koffice-devel@kde.org). There is an archive of those lists and you can find them all at
-<a href="http://lists.kde.org">http://lists.kde.org</a>.<br />
+<a href=\"http://lists.kde.org\">http://lists.kde.org</a>.<br />
 One final hint: Add <code><b><i>-debug</i></b></code> to your
 <code><b><i>./configure </i></b></code> options for Qt and
 <code><b><i>--enable-debug</i></b></code> to your
@@ -41,9 +47,10 @@ One final hint: Add <code><b><i>-debug</i></b></code> to your
 The resulting
 binaries are quite large and a little bit slower, but nonetheless this
 is an enormous help if you are developing and debugging something.</p>
-<p>Oh, and use <a href="ftp://ftp.gnu.org/pub/gnu/gdb/"><b>gdb-5.0</b></a>
+<p>Oh, and use <a href=\"ftp://ftp.gnu.org/pub/gnu/gdb/\"><b>gdb-5.0</b></a>
 or later, because gdb-4.x always crashed on KOffice stuff (at least for me).</p>
 ");
+
 $faq->addQuestion("Behind the Scenes",
 "<p>There are several ways for programming a filter depending on your
 needs. However, unless you <i>really</i> need a non-standard filtering
@@ -86,8 +93,9 @@ method is called by the filter manager and the filter should start
 to convert the file (i.e. open the file, read it, convert the contents,
 write it back to the disk).</p>
 ");
-$faq->addQuestion("How to Develop a Filter?", "
-      <p>Please download the <a href="template.tar.gz">filter template</a> first.
+
+$faq->addQuestion("How do I develop a filter?", "
+      <p>Please download the <a href=\"template.tar.gz\">filter template</a> first.
       Then follow this step-by-step guidelines to set up your own filter:</p>
       <ol>
         <li>Untar the template somewhere in the koffice/filters directory
@@ -103,7 +111,7 @@ $faq->addQuestion("How to Develop a Filter?", "
             call <code>make</code>. This should start compilation of that
             small, no-op template. If this step isn't successfull, please
             write a mail to
-            <a href="mailto:koffice@mail.kde.org">&lt;koffice@mail.kde.org&gt;</a>.</li>
+            <a href=\"mailto:koffice@mail.kde.org\">&lt;koffice@mail.kde.org&gt;</a>.</li>
         <li>Please rename all <i>foo</i> names to match the name of your
             filter. If you write an export filter it's of course a good idea
             to change <i>import</i> to <i>export</i>, too. Due to renaming the
@@ -138,7 +146,7 @@ $faq->addQuestion("How to Develop a Filter?", "
                    The X-KDE-Library field has to contain the library name. Don't
                    forget to update that when you change the name of the lib!</li>
               <li> status.html: This file contains status information about your
-                   filter. Please check <a href="http://www.koffice.org/filters/status.phtml">
+                   filter. Please check <a href=\"http://www.koffice.org/filters/status.phtml\">
                    the koffice site</a> for examples.</li>
             </ul></li>
         <li>If KDE doesn't &quot;know&quot; your mimetype up to now, please add a
@@ -154,10 +162,12 @@ $faq->addQuestion("How to Develop a Filter?", "
             webspace please upload it there and send a mail to the koffice-devel
             mailing list containing a short description and a link to the
            sources. If you can't put it somewhere please send it to
-            <a href="mailto:trobin@kde.org">me</a> as email attachment
+            <a href=\"mailto:trobin@kde.org\">me</a> as email attachment
             (not to the list, please). I'll take care of uploading it then.</li>
+");
 
-$faq->addQuestion("Advanced Techniques", "
+$faq->addQuestion("Advanced Techniques",
+ "
   <p>One of the major strengths of an Office Suite is the ability
          to &quot;embed&quot; documents into other documents (e.g. to
          embed a spreadsheet or a chart into a text document or a
@@ -192,7 +202,7 @@ $faq->addQuestion("Advanced Techniques", "
            streams can be accessed and processed with the LAOLA tools
            (Look at the links selection for that page) or look at the
            import filters for OLE files in koffice. That can be found in
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/filters/olefilters/lib">WebCVS (current)</a>
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/filters/olefilters/lib\">WebCVS (current)</a>
            or in your local copy at <i>koffice/filters/olefilters/lib/</i>.<br /><br /></li>
 
        <li><b>KOffice</b> recently switched from using the well known tar/gnuzip
@@ -203,10 +213,10 @@ $faq->addQuestion("Advanced Techniques", "
            <br />
            For further detail on the internals of the compound document format please read
            the specification either in
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/lib/store/SPEC?content-type=text/plain"><b>WebCVS (current)</b></a>
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/lib/store/SPEC?content-type=text/plain\"><b>WebCVS (current)</b></a>
            or look it up in your local koffice copy in
            <b>koffice/lib/store/SPEC</b>. The external point-of-view specification can be found
-           <a href="http://www.koffice.org/packaging/standard-package-v2.pdf">here</a>.</li>
+           <a href=\"http://www.koffice.org/packaging/standard-package-v2.pdf\">here</a>.</li>
        </ul>
       <p>
       What does all that mean for the filter programmer? In 99.9% of all
@@ -242,16 +252,19 @@ $faq->addQuestion("Advanced Techniques", "
       One final advice if you'd like to see the available filters for all KOffice applications
       and their relations: enter koffice/lib/kofficecore/tests and <code>make check</code>.
       You should see a program called <code>filter_graph</code> which generates a input file for
-      the <b>dot</b> tool (part of the <a href="http://www.research.att.com/sw/tools/graphviz/">graphviz</a>
+      the <b>dot</b> tool (part of the <a href=\"http://www.research.att.com/sw/tools/graphviz/\">graphviz</a>
       package). Invoke the test program and then call <code>make dot</code> and a file called
       <i>graph.png</i> will be created (take care, it's a bit wide ;-).
       </p>
+");
 
 $faq->addQuestion("Remaining Questions?", "
-     <p>Feel free to ask <a href="mailto:trobin@kde.org">me</a> if there are
+     <p>Feel free to ask <a href=\"mailto:trobin@kde.org\">me</a> if there are
       any remaining questions. BTW: It's generally a good idea to ask on
-      <a href="mailto:koffice@kde.org">koffice@kde.org</a> whether anyone
+      <a href=\"mailto:koffice@kde.org\">koffice@kde.org</a> whether anyone
       works on a filter before starting to implement it :)</p>
+
+");
 
 $faq->addQuestion("File Formats - Doctype Definitions", "
       <p>This section contains some useful documentation (I'll add more stuff
@@ -260,21 +273,21 @@ $faq->addQuestion("File Formats - Doctype Definitions", "
       <ul>
        <li><b>KWord Doctype Definition</b><br />
            Download: &nbsp;&nbsp;
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kword/dtd/kword.dtd?content-type=text/plain"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kword/dtd/kword.dtd?content-type=text/plain\"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
            look in your local koffice copy in
            <b>koffice/kword/dtd/kword.dtd</b>
            <br /><br /></li>
 
        <li><b>KSpread Doctype Definition</b><br />
            Download: &nbsp;&nbsp;
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kspread/dtd/kspread.dtd?content-type=text/plain"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kspread/dtd/kspread.dtd?content-type=text/plain\"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
            look in your local koffice copy in
            <b>koffice/kspread/dtd/kspread.dtd</b>
            <br /><br /></li>
 
 <!--       <li><b>Kontour Doctype Definition</b><br />
            Download: &nbsp;&nbsp;
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kontour/kil.dtd?content-type=text/plain"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kontour/kil.dtd?content-type=text/plain\"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
            look in your local koffice copy in
            <b>koffice/kontour/kil.dtd</b>
            <br /><br /></li>
@@ -282,35 +295,32 @@ $faq->addQuestion("File Formats - Doctype Definitions", "
 
        <li><b>Karbon Doctype Definition</b><br />
            Download: &nbsp;&nbsp;
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/karbon/karbon.dtd?content-type=text/plain"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/karbon/karbon.dtd?content-type=text/plain\"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
            look in your local koffice copy in
            <b>koffice/karbon/karbon.dtd</b>
            <br /><br /></li>
 
        <li><b>KPresenter Doctype Definition</b><br />
            Download: &nbsp;&nbsp;
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kpresenter/dtd/kpresenter.dtd?content-type=text/plain"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kpresenter/dtd/kpresenter.dtd?content-type=text/plain\"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
            look in your local koffice copy in
            <b>koffice/kpresenter/dtd/kpresenter.dtd</b>
            <br /><br /></li>
 
        <li><b>Krita Doctype Definition</b><br />
            Download: &nbsp;&nbsp;
-           <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kimageshop/dtd/krita.dtd?content-type=text/plain"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
+           <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/kimageshop/dtd/krita.dtd?content-type=text/plain\"><b>WebCVS (current)</b></a>&nbsp;&nbsp; or &nbsp;&nbsp;
            look in your local koffice copy in
            <b>koffice/kimageshop/dtd/krita.dtd</b>
            <br /><br /></li>
      </ul>
 
      Here is a little advice (from IBM) how to read doctype descritions. If you look at that page it shouldn't be a problem to understand how to read them.<br />
-     &nbsp;&nbsp; <a href="http://www-106.ibm.com/developerworks/library/buildappl/writedtd.html"><b>Doctype Description</b></a>
-
+     &nbsp;&nbsp; <a href=\"http://www-106.ibm.com/developerworks/library/buildappl/writedtd.html\"><b>Doctype Description</b></a>
+");
 
 
 $faq->addQuestion("Add Documentation", "
-
-
-
 
       <p>So if you have done your filter please add some information. <br />
       At least add a statusfile <code><b><i>status.html</i></b></code>. Inside
@@ -334,8 +344,14 @@ $faq->addQuestion("Add Documentation", "
 
       There is a statusfile template where you can look at.
       Statusfile template is here:
-      <a href="TEMPLATE_STATUS.html">temp</a>&nbsp;&nbsp;
+      <a href=\"TEMPLATE_STATUS.html\">temp</a>&nbsp;&nbsp;
       <p>If you have done your documentation and the tables are looking right mail it.</p>
       <p>If you are doing some update don't forget to update your documentation too!</p>
+");
 
-<?php include("footer.inc"); ?>
+$faq->show();
+?>
+
+<?php
+ include("footer.inc");
+ ?>

@@ -3409,7 +3409,7 @@ HREF="mailto:koffice at kde dot org"
 ><LI
 ><P
 ><A
-HREF="http://koffice.kde.org/support.phtml"
+HREF="http://koffice.kde.org/support"
 TARGET="_top"
 >donate</A
 > money or hardware :-) Yes, this is needed in free software
