@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-17aab643ebd7decd4c60671d04068860  koffice-1.3.tar.bz2
+8e4c9db57f701d42f21d61651f0b03bd  koffice-1.3.tar.bz2
 ca89c9c944508de11ca2908eb0a851e4  koffice-i18n-1.3.tar.bz2
 36afe0209288c827285a65c73ac52303  koffice-i18n-af-1.3.tar.bz2
 37ddacc121c50d7eb597da800478a99d  koffice-i18n-bg-1.3.tar.bz2
@@ -45,7 +45,7 @@ ed757efe0e1bed3d371b740a6c68801d  koffice-i18n-zh_TW-1.3.tar.bz2
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.2.2 (GNU/Linux)
 
-iD8DBQFADPXIdfhL7nWSO+4RAt/pAJ9RLfZbVB87JVX9DD7athzxTm8lPQCggDyh
-wvzCzkG9inmpKNcnujy/ErA=
-=Mvdu
+iD8DBQFAFoM+dfhL7nWSO+4RAs1rAKCqe+0XAup0vWtNff+AI9jr2tmTlQCgoV6R
+bGtgaYf6e8K47RIE2DYHtyk=
+=ia6l
 -----END PGP SIGNATURE-----
