@@ -15,6 +15,7 @@
   $appinfo->addAuthor("Matthias Elter", "me@kde.org");
   $appinfo->addAuthor("Andrew Richards", "physajr@phys.canterbury.ac.nz");
   $appinfo->addAuthor("Carsten Pfeiffer", "pfeiffer@kde.org");
+  $appinfo->addAuthor(" Toshitaka Fujiok", "fujioka@kde.org");
   $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
   $appinfo->addAuthor("Patrick Julien", "freak@codepimps.org");
   $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
