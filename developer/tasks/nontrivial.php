@@ -43,7 +43,7 @@ want to be implemented</p>
 
 <p>If you do not like any of the tasks on the task lists, it is not a problem. There are plenty more to do.</p>
 
-<p>for example, there is plenty of code marked with ###, TODO or FIXME. You can find such code with the following command line command:<br />
+<p>For example, there is plenty of code marked with ###, TODO or FIXME. You can find such code with the following command line command:<br />
 <code>find . -name "*.c*" -print0 | xargs -0 grep -E "(###|TODO|FIXME)"</code></p>
 
 <p>Finally you might ask
