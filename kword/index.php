@@ -16,7 +16,7 @@
   $appinfo->addContributor("David Faure", "faure@kde.org");
   $appinfo->addContributor("Thomas Zander", "zander@kde.org");
   $appinfo->addContributor("Shaheed Haque", "srhaque@ieee.org");
-  $appinfo->addContributor("Laurent Montel", "lmontel@mandrakesoft.com");
+  $appinfo->addContributor("Laurent Montel", "montel@kde.org");
   $appinfo->addContributor("Sven L&uuml;ppken", "sven@kde.org");
   $appinfo->show();
 ?>

@@ -30,8 +30,8 @@
       <p>
       <b>KWord: <a href="mailto:zander@kde.org">Thomas Zander</a>,&nbsp; 
       <a href="mailto:srhaque@iee.org">Shaheed Haque</a>, &nbsp;<a href="mailto:faure@kde.org">David Faure</a>,&nbsp;
-      <a href="mailto:montell@club-internet.fr">Laurent Montel</a></b><br />
-      <b>KSpread &amp; KChart: <a href="mailto:montell@club-internet.fr">Laurent Montel</a></b><br />
+      <a href="mailto:montel@kde.org">Laurent Montel</a></b><br />
+      <b>KSpread &amp; KChart: <a href="mailto:montel@kde.org">Laurent Montel</a></b><br />
       <b>KPresenter: <a href="mailto:lukas@kde.org">Luk&aacute;&scaron; Tinkl</a></b><br />
       <b>Krita: <a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></b><br />
       <b>KOffice Library: <a href="mailto:faure@kde.org">David Faure</a>,&nbsp;
@@ -96,7 +96,7 @@
       <b><a href="mailto:trobin@kde.org">Werner Trobin</a></b>
       (Import/Export Filters, KOffice Library, graphite)<br />
 
-      <b><a href="mailto:montell@club-internet.fr">Laurent Montel</a></b>
+      <b><a href="mailto:montel@kde.org">Laurent Montel</a></b>
       (KSpread, KChart, KPresenter, KWord)<br />
 
       <b><a href="mailto:srhaque@iee.org">Shaheed Haque</a></b>

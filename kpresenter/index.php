@@ -13,7 +13,7 @@
   $appinfo->setCopyright("1998", "the KPresenter Team");
   $appinfo->addAuthor("Reginald Stadlbauer", "reggie@kde.org");
   $appinfo->addContributor("David Faure", "faure@kde.org");
-  $appinfo->addContributor("Laurent Montel", "lmontel@mandrakesoft.com");
+  $appinfo->addContributor("Laurent Montel", "montel@kde.org");
   $appinfo->addContributor("Wernet Trobin", "trobin@kde.org");
   $appinfo->addContributor("Toshitaka Fujioka", "fujioka@kde.org");
   $appinfo->addContributor("Luk&aacute;&scaron; Tinkl", "lukas@kde.org");
