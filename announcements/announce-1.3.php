@@ -15,6 +15,7 @@
 <p align="justify">
   The principal improvements over KOffice 1.2 are:
 </p>
+<p>
     <u>KWord (Word Processor)</u>.
     <ul type="disc">
       <li>
@@ -68,7 +69,8 @@
         </div>
       </li>
     </ul>
-  <p />
+</p>
+<p>
     <u>KPresenter (Presentation Tool)</u>.
     <ul type="disc">
       <li>
@@ -99,7 +101,8 @@
         </div>
       </li>
     </ul>
-  <p />
+</p>
+<p>
     <u>KSpread (Spreadsheet)</u>.
     <ul type="disc">
       <li>
@@ -139,7 +142,8 @@
         </div>
       </li>
     </ul>
-  <p />
+</p>
+<p>
     <u>Kugar / Kugar Designer (Business Reporting)</u>.
     <ul type="disc">
       <li>
@@ -167,6 +171,7 @@
         </div>
       </li>
     </ul>
+</p>
 <p align="justify">
   A more complete
   <a href="http://www.koffice.org/announcements/changelog-1.3.php">list
