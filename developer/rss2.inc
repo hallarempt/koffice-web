@@ -1,5 +1,21 @@
 <?php
 
+// Copyright (C) 2004 Nicolas GOUTTE: goutte at kde dot org
+
+// Original copyright of functions.inc
+/*
+ * Filename: 	functions.php
+ * Description: supplies functions for the KDE Homepage.
+ * Functions: 	printNews(items)
+ * Author: 	Sebastian Faubel
+ * Modified by: Jason Bainbridge and Chris Howells
+ * Comments: Added some caching code for the rdf generation.
+ * NB. Those functions should be merged together at sometime
+ *     for the sake of cleaner code
+ *	   + the html needs to be cleaned up
+ */
+
+
 // Function for news RDF file, when RDF file is a validable RSS2 file.
 
 function kde_general_news_rss2 ($file, $items, $summaryonly)
