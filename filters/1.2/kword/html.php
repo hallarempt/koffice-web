@@ -8,6 +8,9 @@
 <p>Note: the export filter has three modes: "light", "basic" and "enhanced".
 </p>
 
+<p>An entry marked "Bug" means that the function does not work or is
+otherwise restricted due to a bug.</p>
+
 <h2>KWord Features</h2>
 <table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFFFFF">
@@ -137,12 +140,12 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Margins </td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported (Enhanced mode only)</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug (Enhanced mode only)</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Line Spacing </td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported (Enhanced mode only)</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug (Enhanced mode only)</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Paragraph Borders </td>
@@ -198,7 +201,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Table of Contents </td>
  <td bgcolor="#CECECE" align="left" valign="top">Not in HTML</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Status unknown</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Unsupported</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Document Variables </td>

@@ -10,6 +10,9 @@
 
 <p>Note: depending on the documents, it might be better to use RTF
  (Rich Text Format.)</p>
+ 
+<p>An entry marked "Bug" means that the function does not work or is
+otherwise restricted due to a bug.</p>
 
 <table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFFFFF">
@@ -54,7 +57,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Advanced Underline</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported (except wave)</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td></tr>
+ <td bgcolor="#CECECE" align="left" valign="top">Unsupported</td></tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Strikethrough</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
@@ -63,17 +66,17 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Advanced Strikethrough</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Unsupported</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Subscript</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td> <!-- Check -->
+ <td bgcolor="#FFFFFF" align="left" valign="top">Unsupported</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Superscript</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td> <!-- Check -->
+ <td bgcolor="#FFFFFF" align="left" valign="top">Unsupported</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Font Type </td>
@@ -92,8 +95,8 @@
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Background Color</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td> <!-- Check -->
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Shadow Text</td>
@@ -138,12 +141,12 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Margins </td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td> <!-- Check! -->
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Line Spacing </td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Paragraph Borders </td>
@@ -194,7 +197,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Footnotes</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported (not as endnotes)</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Table of Contents </td>
@@ -242,7 +245,7 @@
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Tables</td>
- <td bgcolor="#CECECE" align="left" valign="top">Not Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Not Supported</td> <!-- Check -->
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported</td>
 </tr>
 
@@ -283,7 +286,7 @@
 <h2>OOWriter Specific Features</h2>
 <table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>HTML Feature</h3></td>
+ <td align="left" valign="top"><h3>OOWriter Feature</h3></td>
  <td align="left" valign="top"><h3>Import Status</h3></td>
  <td align="left" valign="top"><h3>Export Status</h3></td>
 </tr>

@@ -10,6 +10,9 @@
 
 <p>Note: the export filter has been re-written for KOffice 1.3.</p>
 
+<p>An entry marked "Bug" means that the function does not work or is
+otherwise restricted due to a bug.</p>
+
 <table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFFFFF">
 <td colspan="3" align="left" valign="top"><br /><h3>Character Formatting</h3></td>
@@ -28,7 +31,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Text (Unicode/foreign encoding)</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported. Non-ASCII characters will be escaped</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported. Non-ISO-8859-1 characters will be escaped</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Special Characters </td>
@@ -62,7 +65,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Advanced Strikethrough</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported (only single and double)</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Subscript</td>
@@ -137,12 +140,12 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Margins </td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td> <!-- Check! -->
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Line Spacing </td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Paragraph Borders </td>
@@ -281,7 +284,7 @@
 <h2>RTF Specific Features</h2>
 <table border="5" cellspacing="0" cellpadding="5">
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h4>HTML Feature</h4></td>
+ <td align="left" valign="top"><h4>RTF Feature</h4></td>
  <td align="left" valign="top"><h4>Import Status</h4></td>
  <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>

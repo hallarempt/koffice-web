@@ -198,7 +198,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Table of Contents </td>
  <td bgcolor="#CECECE" align="left" valign="top">Not in HTML</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Status unknown</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Not in HTML</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Document Variables </td>

@@ -63,7 +63,7 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Advanced Strikethrough</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Supported (OOWriter cannot do dashes and dots)</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Subscript</td>
