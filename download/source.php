@@ -5,6 +5,12 @@
   include("header.inc");
 ?>
 
+      <h2>Links For Special Distributions</h2>
+      <ul>
+      <li><a href="http://lists.kde.org?l=koffice-devel&m=106571934702580&w=2">
+        KOffice CVS Head with Gideon on Debian</a></li>
+      </ul>
+
       <h2>Requirements</h2>
       <p>To compile KOffice you need:
 <ul>
