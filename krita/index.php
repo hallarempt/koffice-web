@@ -78,20 +78,26 @@
       <h3>Status</h3>
 
       <p>Krita has been under development since 1999, but that doesn't mean it's
-        anywhere near usable yet. Currently (that is, December 2003) working are:</p>
+        anywhere near usable yet. Currently (that is, September 2004) working are:</p>
 
         <ul>
             <li>Painting with brushes and colors</li>
+            <li>Creating brushes from circles and squares</li>
+            <li>Filling with colour and patterns</li>
+            <li>Erasing</li>
+            <li>Airbrush</li>
+            <li>Simple geometric forms</li>
+            <li>Many filters</li>
             <li>undo and redo</li>
             <li>Loading and saving of images in its native file format.</li>
             <li>Importing and exporting of images in all file formats supported by your installation of ImageMagick.</li>
             <li>Adding, removing, reordering and merging of layers.</li>
             <li>Layer transparency.</li>
-            <li>Loading Gimp brushes, pipe brushes and patterns.</li>
-            <li>Rectangular select, cut and past.</li>
+            <li>Loading Gimp brushes, pipe brushes, gradients and patterns.</li>
+            <li>Rectangular select, cut and paste.</li>
             <li>Zoom.</li>
             <li>Color selection.</li>
-            <li>RGB(A) and CMYK(A) color models.</li>
+            <li>Gray(A), RGB(A) and CMYK(A) color models.</li>
             <li>Support for Wacom tablets.</li>
         </ul>
 
