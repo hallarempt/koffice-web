@@ -127,6 +127,10 @@
 
 <h4>KPresenter's OpenOffice.org Impress Export Filter</h4>
 <ul>
+  <li>
+    In formulas, convert the decimal symbol used by the locale
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=87258">Part of bug #87258</a>)
+  </li>
 </ul>
 
 <?php /*
