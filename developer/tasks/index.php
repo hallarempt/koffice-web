@@ -21,8 +21,8 @@ a single directory... It is more important that some part is done at all.)</p>
 <ul>
     <li>Take the KOffice documentation and check that what is told there is what 
     KOffice 1.3 really does. Anything not correctly documented (for example 
-    because it has changed) should be reported to:
-    <a href="mailto:lauri@kde.org">Lauri Watts</a></li>
+    because it has changed)
+    <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a></li>
 </ul>
 
 <h2>KOffice CVS HEAD</h2>
@@ -30,7 +30,7 @@ a single directory... It is more important that some part is done at all.)</p>
 <ul>
     <li>Check spelling errors in comments</li>
 
-    <li>Make existing class documentation Doxygen-compatible (Some classes have some 
+    <li>Make existing class documentation Doxygen-compatible. Some classes have already some 
     documentation but unfortunately not in Doxygen syntax. So the tasks is to 
     change them to Doxygen syntax. (Changing to the special Doxygen commens (/** 
     and ///) is already enough.)</li>
