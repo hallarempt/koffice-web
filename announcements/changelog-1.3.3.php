@@ -118,6 +118,13 @@
 <li>Generate UTF-8</li>
 </ul>
 
+<h4>KSpread's MS Excel import filter:</h4>
+<ul>
+<li>
+  Fix generating numbers, especially if the decimal symbol is a comma
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=86216">part of bug #86216</a>)
+</li>
+</ul>
 <h4>Karbon's EPS filter:</h4>
 <ul>
 </ul>
