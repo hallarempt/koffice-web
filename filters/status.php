@@ -1,6 +1,6 @@
 <?php
   $page_title="KOffice Filters Status (Development)";
-  $location = '../../';
+  $location = '../';
   include("koffice.inc");
   include("header.inc");
 ?>
