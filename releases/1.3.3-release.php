@@ -15,6 +15,17 @@
         <li><a href="../announcements/changelog-1.3.php">Complete 1.3 changelog</a></li>
       </ul>
 
+<div style="border:bold red;color:red;text-align:center">
+    <h2>Security Errata</h2>
+    <p>KOffice 1.3.3 has an integer overflow vulnerability in KWord's PDF import filter.</p>
+    <p>
+        <a href="http://download.kde.org/stable/koffice-1.3.3/src/patch/xpdf-CESA-2004-007-xpdf2-newer.diff">
+            A patch for the source package is available.
+        </a>
+    </p>
+</div>
+
+      
       <h2>Download</h2>
       <p>Both source code and binary packages are available.</p>
       <ul>
