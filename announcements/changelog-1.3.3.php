@@ -22,7 +22,7 @@
 <ul>
   <li>Support MS-DOS EPS files directly without stripping them internally.</li>
   <li>
-    Display errors when the part can't be loaded - e.g. due to an undefined symbol.
+    Display errors when the part cannot be loaded - e.g. due to an undefined symbol.
     This fixes the long-standing "program exits with error code 1 and no warning" problem.
   </li>
 </ul>
