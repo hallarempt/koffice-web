@@ -9,10 +9,20 @@
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
 
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Fri, 12 Mar 2004 00:20 UT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2004 19:37 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>New XML Writing Class</title>
+<pubDate>Sat, 24 Apr 2004 19:37 UT</pubDate>
+<description>KoXmlWriter: a new class for saving XML documents without the high memory
+usage required by QDom and without the slowness of QTextStream (in utf8 mode).
+See 
+&lt;a href="http://lists.kde.org/?l=kde-cvs&amp;m=108211792706233&amp;w=2"&gt;the commit&lt;/a&gt;.
+</description>
+</item>
 
 <item>
 <title>New Non-Trivial Task List</title>
