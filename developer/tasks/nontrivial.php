@@ -20,9 +20,11 @@ also marked with stars is how easy the tasks could be shared between developers 
     <li>Find abuses of Qt in code, where the code will probably break when porting to Qt4 (Difficulty: *****; Sharability: *)</li>
     <li>Change KWord's RTF import filter not to use "offsetof" out of C++ specification (Difficulty: ***; Sharability: *****)</li>
     <li>Find and document portability problems of KOffice code (Difficulty: *****; Sharability: *)</li>
+    <li><ins>Verify that dialogs (or other widgets) have non-null parents. (Difficulty: **; Sharability: *)</ins></li>
+    <li><ins>Backport non-null parents of widgets to KOffice 1.3.x. (Difficulty: **; Sharability: *)</ins></li>
 </ul>
 
-<p>Please note: if not otherwise specified, the tasks are only for KOffice CVS HEAD.</p>
+<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD only.</p>
 
 <h2>Bugs</h2>
 
