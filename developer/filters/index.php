@@ -19,7 +19,7 @@
     </ul>
 
     <p>For basic file format information (especially for XML-based file formats
-    see the <a href="../fileformat/">file format section</a>.</p>
+    see the <a href="/developer/fileformat/">file format section</a>.</p>
        
 <?php
     include("footer.inc");
