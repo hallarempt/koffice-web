@@ -142,7 +142,7 @@
 <em>KWord's HTML export filter:</em>
 <ul>
 <li>fix some paragraph formattings in the enhanced mode (margins, linespacing)</li>
-<li>fix background colour in enhanced mode</li>
+<li>fix background color in enhanced mode</li>
 <li>fixed pictures</li>
 </ul>
 

@@ -394,7 +394,7 @@ TODO: finish documentation
         start   The first used number in the numbering (usually 1).
         numberingtype
                 0 = list numbering, 1 = chapter numbering.
-                List numbering starts at <start> everytime another list is used (everytime a 
+                List numbering starts at <start> every time another list is used (every time a 
                 non numbering paragraph has been used)
                 Chapter numbering is used throughout the whole document (in future throughout books)
         lefttext

@@ -108,7 +108,7 @@ Triple click selects a paragraph.
 </li>
 <li>
 New "PageUp/PageDown moves the caret" option, which defaults to false.
- The new behaviour for PageUp/PageDown is to move the scrollbars, not the caret.
+ The new behavior for PageUp/PageDown is to move the scrollbars, not the caret.
 </li>
 </ul>
 <h3>KPresenter</h3>

@@ -38,7 +38,7 @@ to be able to put that patch back into code (which is called "patching" or also 
 
 <p>The main tool for creating patches is a tool called <tt>diff</tt>, which makes the difference
 between two files. This tool has a mode called "unified diff", which KDE uses. Unified diffs have
-not just the difference between the file but also the "neighbourhood" around the differences.
+not just the difference between the file but also the "neighborhood" around the differences.
 That allows to patch even if the line numbers are not the same anymore.</p>
 
 <h2>Creating A Simple File Patch</h2>

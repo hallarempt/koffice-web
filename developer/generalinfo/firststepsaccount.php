@@ -109,7 +109,7 @@ cvs uses a default editor (normally vi.)</p>
 <p>Check that their settings suit you for your work with cvs. (Remember $CVSEDITOR is used first, then $EDITOR.)
 If they do not suit you, check your file <tt>~/.bashrc</tt> and add something like:<br />
 <tt>export CVSEDITOR=mcedit</tt><br />
-Here it sets mcedit, replace it with your favourite editor. Of course you can set $EDITOR instead if you want
+Here it sets mcedit, replace it with your favorite editor. Of course you can set $EDITOR instead if you want
 to change the default editor for you.</p>
 
 <p>Be careful that if you do not set a command line editor but one that needs X-Window, you will need to run cvs

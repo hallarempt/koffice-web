@@ -81,7 +81,7 @@
         anywhere near usable yet. Currently (that is, December 2003) working are:</p>
 
         <ul>
-            <li>Painting with brushes and colours</li>
+            <li>Painting with brushes and colors</li>
             <li>undo and redo</li>
             <li>Loading and saving of images in its native file format.</li>
             <li>Importing and exporting of images in all file formats supported by your installation of ImageMagick.</li>

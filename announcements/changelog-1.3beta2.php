@@ -100,7 +100,7 @@
 <li>new style docker introduced, with dragable clipart</li>
 <li>added aspect-ratio keeping way of scaling for select tool</li>
 <li>various ui tweaks, including new icons</li>
-<li>improved behaviour for strokefill preview widget</li>
+<li>improved behavior for strokefill preview widget</li>
 <li>speedups on large documents for the document tree widget</li>
 </ul>
 

@@ -211,7 +211,7 @@
   <li>KOffice: released with KOffice (1 per year or even less).</li>
   <li>Extra: released each program separately.</li> <!-- TODO: is it really true? -->
   <li>I18N: the translations are released with the corresponding programs.</li>
-  <li>Web: web sites are normally synchronised every half-an-hour.</li>
+  <li>Web: web sites are normally synchronized every half-an-hour.</li>
   <li>Never: these modules are never released.</li>
 </ul>
 

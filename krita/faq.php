@@ -25,7 +25,7 @@ $faq->addQuestion("What are Krita's Development Goals ?",
  "Krita is primarily a painting program, although it has image processing capabilities.
   This means that Krita is intended for creative people who desire to paint and draw with computer software as they do with
    real-world tools in an art studio.  If you are looking for a tool primarily to apply effects to existing images or
-   photos, to catalogue images, or to view images other software may be more suitable.  Ease of use and power as a
+   photos, to catalog images, or to view images other software may be more suitable.  Ease of use and power as a
    painting application will always have a higher priority in Krita's ongoing development.");
 
 $faq->addQuestion("How Does it Work?",

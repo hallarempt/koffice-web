@@ -417,7 +417,7 @@ variance, pow, isnottext, isnum, effective</p>
 <li>New style docker introduced, with dragable clipart</li>
 <li>Added aspect-ratio keeping way of scaling for select tool</li>
 <li>Various ui tweaks, including new icons</li>
-<li>Improved behaviour for strokefill preview widget</li>
+<li>Improved behavior for strokefill preview widget</li>
 <li>Speedups on large documents for the document tree widget</li>
 <li>Make imported SVG's visible by default</li>
 <li>Update statusbar info while moving the selection using arrow keys</li>

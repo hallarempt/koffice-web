@@ -117,10 +117,10 @@ the instance name with "kofficefilters".
 <title>New Translation Catalogue For Filters</title>
 <pubDate>Thu, 12 Feb 2004 09:25 UT</pubDate>
 <description>
-Please use the translation catalogue kofficefilters.po for translating the filters.
+Please use the translation catalog kofficefilters.po for translating the filters.
 The file is a replacement for all the little translation files for the filters.
 Please be careful that the factory of the filter needs to be changed to support
-the new translation catalogue. Already changed filters are the AbiWord ones,
+the new translation catalog. Already changed filters are the AbiWord ones,
 the OOWriter one and the KWord 1.3 one.&lt;br /&gt;
 &lt;em&gt;To avoid any misunderstanding: this is for CVS HEAD only.&lt;/em&gt;
 </description>

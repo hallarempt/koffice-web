@@ -23,7 +23,7 @@ KWord overview
 The main structure of each KWord document is a header and a body. The header
 contains things like the paper size, the margins and so on.
 
-The body is organised around the concept of frames. You might have noticed
+The body is organized around the concept of frames. You might have noticed
 that you can do nearly everything with the frames in your KWord document (e.g.
 move them around, interlock them, let your text "flow" through them, etc.). To
 achieve this flexibility, the body actually has to store the data in a
@@ -562,7 +562,7 @@ don't put a </?xml...> at the end of the file!).
         start   The first used number in the numbering (usually 1).
         numberingtype
                 0 = list numbering, 1 = chapter numbering.
-                List numbering starts at <start> everytime another list is used (everytime a 
+                List numbering starts at <start> every time another list is used (every time a 
                 non numbering paragraph has been used)
                 Chapter numbering is used throughout the whole document (in future throughout books)
         lefttext
