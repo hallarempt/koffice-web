@@ -128,7 +128,7 @@ Draft $Date$
       <td>kdetoys</td>
       <td>Toys</td>
       <td>KDE</td>
-      <td>&nbsp;</td>
+      <td>kteatime</td>
     </tr>
     <tr>
       <td>kdeadmin</td>
