@@ -52,7 +52,7 @@
    tmpdir=/tmp/oasistmp
    rm -rf $tmpdir ; mkdir $tmpdir && cd $tmpdir || exit 1
    unzip -o $1 || exit 1
-   for f in content.xml styles.xml meta.xml; do
+   for f in content.xml styles.xml meta.xml settings.xml; do
      echo "Checking $f..." ; oasislint $f && echo "Checking $f strict..." && oasislint-strict $f
    done
    </code></pre>
