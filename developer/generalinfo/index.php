@@ -13,6 +13,13 @@
    <p>This section provides information about <a href="http://developer.kde.org">developing in KDE</a>,
    viewed from KOffice's point of view.</p>
 
+   <h2>Getting the latest KOffice Sources</h2>
+   <ul>
+     <li><a href="http://www.koffice.org/download/source.php">Instructions on
+     downloading and compiling</a> either the latest stable version or the latest
+     development sourcecode of KOffice.</li>
+   </ul> 
+
    <h2>Patches</h2>
    <ul>
      <li><a href="sendingpatches.php">Sending Patches</a></li>
