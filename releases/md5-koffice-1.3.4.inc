@@ -3,11 +3,11 @@
 <tr><td>General *</td>
 <td><a href="http://download.kde.org/stable/koffice-1.3.3/src/koffice-1.3.3-1.3.4.tar.xdelta">
 koffice-1.3.3-1.3.4.tar.xdelta</a></td>
-<td><tt>57444f43ba4e317515fb7d302081d04e</tt></td></tr>
+<td><tt>c3ce9c390350a7e1392e8a49090d87c9</tt></td></tr>
 <tr><td>General</td>
 <td><a href="http://download.kde.org/stable/koffice-1.3.3/src/koffice-1.3.4.tar.bz2">
 koffice-1.3.4.tar.bz2</a></td>
-<td><tt>db6e829377ac1aef79f86a61c283341f</tt></td></tr>
+<td><tt>79896426542b0cf07e2e15f84946905a</tt></td></tr>
 <tr><td>All languages *</td>
 <td><a href="http://download.kde.org/stable/koffice-1.3.3/src/koffice-i18n-1.3.3-1.3.4.tar.xdelta">
 koffice-i18n-1.3.3-1.3.4.tar.xdelta</a></td>
