@@ -170,7 +170,7 @@ Draft $Date$
       <td>kdeextragear-2</td>
       <td>Extra programs</td>
       <td>Extra</td>
-      <td>&nbsp;</td>
+      <td>Konversation</td>
     </tr>
     <tr>
       <td>koffice</td>
@@ -185,6 +185,12 @@ Draft $Date$
       <td>&nbsp;</td>
     </tr>
     <tr>
+      <td>www</td>
+      <td>Web Sites</td>
+      <td>Web</td>
+      <td><a href="http://www.kde.org">KDE Web Site</a></td>
+    </tr>
+    <tr>
       <td>kdenonbeta</td>
       <td>Sandbox for developers</td>
       <td>Never</td>
@@ -197,10 +203,10 @@ Draft $Date$
       <td>Accounts</td>
     </tr>
     <tr>
-      <td>www</td>
-      <td>Web Sites</td>
-      <td>Web</td>
-      <td><a href="http://www.kde.org">KDE Web Site</a></td>
+      <td>CVSROOT</td>
+      <td>Internal CVS data and administration</td>
+      <td>Never</td>
+      <td>&nbsp;</td>
     </tr>
   </table>
 
