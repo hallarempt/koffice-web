@@ -16,7 +16,7 @@
    <ul>
      <li>
 <?php
-    if ( %flag )
+    if ( $flag )
     { 
         echo "<a href=\"kofficeapidocs.tar.bz2\">Download the tarball</a>";
         niceFileSize("./kofficeapidocs.tar.bz2");
