@@ -65,7 +65,7 @@ function kde_general_news_rss2 ($file, $items, $summaryonly)
       }
       ereg("<title>(.*)</title>", $rdf_pieces[$x], $title);
       ereg("<pubDate>(.*)</pubDate>", $rdf_pieces[$x], $date);
-      ereg("<description>(.*)</description>", $rdf_pieces[$x], $fullstory);
+      ereg("<description>(.*)</description>", $rdf_pieces[$x], $description);
       print "<tr>\n";
 
       if ($summaryonly)
@@ -75,7 +75,12 @@ function kde_general_news_rss2 ($file, $items, $summaryonly)
       else
       {
         print "<td class=\"$color\"><p><a name=\"" . ereg_replace("[^a-zA-Z]", "", $title[1]) . "\">" . "<b>$title[1]</b></a></p>\n";
-        print "$date[1] - $fullstory[1]</td>\n";
+        // We need to unescape the XML/HTML character references in the <description>
+        $desc = $description[1];
+        $desc = ereg_replace("&lt;","<", $desc);
+        $desc = ereg_replace("&gt;",">", $desc);
+        $desc = ereg_replace("&amp;","&", $desc);
+        print "$date[1] - $desc</td>\n";
       }
       print "</tr>\n";
     }
