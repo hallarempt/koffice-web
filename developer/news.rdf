@@ -10,6 +10,22 @@
     <copyright>Copyright (c) 2003, KOffice.org Webmaster</copyright>
 
 <item>
+<title>Better work-around for KDE 3.1</title>
+<date>2003-10-26</date>
+<fullstory>
+A better work around for
+<a href="http://bugs.kde.org/show_bug.cgi?id=66142">bug #66142</a>
+was committed (still only for KDE 3.1.x.) The work-around allows
+saving in the KOffice 1.1 format by selecting application/x-tgz
+and to the directoy format by selecting text/xml. Be careful that
+it creates some problems with the extensions. Please choose the
+native KOffice format while loading those two kinds of files.
+Please still report problems made this work-around (still
+by the way of the mailing lists.)
+</fullstory>
+</item>
+
+<item>
 <title>Partial save function back for KDE 3.1</title>
 <date>2003-10-24</date>
 <fullstory>
