@@ -6,10 +6,6 @@
 ?>
 
 <p>
-  KOffice 1.3 is expected soon, check back regularly!
-</p>
-<?php begin_under_construction(); ?>
-<p>
 On January 27th, the <a href="http://www.kde.org/">KDE Project</a>
 released KOffice 1.3 for Linux and Unix operating systems. KOffice
 is a free set of office applications that integrate with the
@@ -320,7 +316,6 @@ coming days and weeks.
   problems with SRPMs, please contact the person listed in the applicable
   .spec file.
 </p>
-<?php end_under_construction(); ?>
 <h4>
   Corporate KOffice Sponsors
 </h4>
