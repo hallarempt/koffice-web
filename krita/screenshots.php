@@ -20,7 +20,7 @@ $gallery->startNewRow();
 $gallery->addImage("pics/kis_sm.png", "pics/kis.jpg", "204", "200", "[Screenshot]", 0 , "Krita (November 2003)");
 $gallery->addImage("pics/kimageshopjc_sm.png", "pics/kimageshopjc.png", "204", "200", "[Screenshot]", 0 , "Krita (circa 2000)");
 $gallery->startNewRow(); 
-$gallery->addImage("pics/kimageshop_sm.png", "pics/kimageshop.jpg", "246", "200", "[Screenshot]", 0 , "Krita (about 1999)");
+$gallery->addImage("pics/kimageshop_sm.png", "pics/kimageshop.png", "246", "200", "[Screenshot]", 0 , "Krita (about 1999)");
 
 $gallery->show();
 ?>
