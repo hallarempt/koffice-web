@@ -5,7 +5,7 @@ koffice-1.3.1.tar.bz2</a></td>
 <td><tt>ad68bab5753cf8d2e32a1d9e0c19495a</tt></td></tr>
 <tr valign="top"><td><a href="http://download.kde.org/stable/koffice-1.3.1/src/koffice-i18n-1.3.1.tar.bz2">
 koffice-i18n-1.3.1.tar.bz2</a></td>
-<td><tt>ad25c4a4edb9fc146fde63adf9f4e29e</tt></td></tr>
+<td><tt>2eaa60eecb8a50c37f1af64d82378050</tt></td></tr>
 <tr valign="top"><td><a href="http://download.kde.org/stable/koffice-1.3.1/src/koffice-i18n-af-1.3.1.tar.bz2">
 koffice-i18n-af-1.3.1.tar.bz2</a></td>
 <td><tt>8d196e6f28848056b841034abf2279e6</tt></td></tr>
@@ -104,7 +104,7 @@ koffice-i18n-sv-1.3.1.tar.bz2</a></td>
 <td><tt>b7c37a9bb03433b7f4e6a08d1e14a223</tt></td></tr>
 <tr valign="top"><td><a href="http://download.kde.org/stable/koffice-1.3.1/src/koffice-i18n-tg-1.3.1.tar.bz2">
 koffice-i18n-tg-1.3.1.tar.bz2</a></td>
-<td><tt>cc16c57f52863f0c08c5450d66c83f22</tt></td></tr>
+<td><tt>fcd7c642f2f85eeeafb4410114dbffbe</tt></td></tr>
 <tr valign="top"><td><a href="http://download.kde.org/stable/koffice-1.3.1/src/koffice-i18n-th-1.3.1.tar.bz2">
 koffice-i18n-th-1.3.1.tar.bz2</a></td>
 <td><tt>5eedaa567ce94d4ba27bc5c474d32aa4</tt></td></tr>
