@@ -15,7 +15,7 @@
     <tr>
         <td>
         <table border="0" cellspacing="1" cellpadding="3" bgcolor="#EEEEFF">
-        <tr bgcolor="#CCCCFF">
+        <tr bgcolor="#AAAAFF">
         <td rowspan="1" valign="top"><b>General</b></td>
         <td><a href="http://www.wotsit.org">Wotsit</a></td>
         <td>Information on various file formats</td>
