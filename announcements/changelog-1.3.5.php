@@ -98,6 +98,14 @@
 <ul>
 </ul>
 
+<h4>KWord's PDF Import Filter</h4>
+<ul>
+  <li>
+    <strong>SECURITY:</strong>
+    more robust fix for the integer overflow vulnerability
+  </li>
+</ul>
+
 <?php /*
 <h4>KPresenter's OpenOffice.org Impress Import Filter</h4>
 <ul>
