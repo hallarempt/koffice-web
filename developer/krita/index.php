@@ -9,6 +9,13 @@
 
    <p><i>Boudewijn Rempt<i></p>
 
+	<h3>Contents</h3>
+	<ul>
+		<li><a href="./painters.php">Paint devices and Painters</a></li>
+	</ul>
+
+   <h3>Overview of the Krita Architecture</h3>
+
     <p>Krita has been designed as a full-featured bitmap paint application. That means that
       is not based on the QPainter/QPaintdevice combo (as KPaint is), but that it seeks to
       provide its own low-level 2d canvas library. This naturally makes for some complexity,
@@ -65,6 +72,9 @@
        tile is saved to make it possible to undo the change. This is encapsualted in the <tt>beginTransaction</tt>
        and <tt>endTransaction</tt> methods of KisPainter.</p>
 
+      <p>See <a href="./painters.php">Paint devices and Painters</a> for more information on
+	working with raster images and Krita.</p>
+
     <h3>Images and documents</h3>
 
     <p>The document model of Krita is contained in
@@ -117,7 +127,7 @@
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_brush.h">brushes</a> (based on Gimp's brushes) or
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_gradient.h">gradients</a>. Note that this
       is an architectural change that wasn't completed at the time of writing: only brushes and patterns have been ported
-      to the KisResource. Gradients should still be done. Krita can now also use Gimp's pipe brushes. 
+      to the KisResource. Gradients should still be done. Krita can now also use Gimp's pipe brushes.
       </p>
 
     <p>There is no support for fancy procedural brushes yet. (But look at the KisImagePipeBrush class for an
@@ -135,6 +145,7 @@
       <a href"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/DESIGN">DESIGN</a>. Earlier design
       documents, with a mostly historical interest are <a href="./overall_design.txt">Overall Design</a>
       and <a href="gui_design.txt">Gui Design</a>.</p>
+
 
     <h3>Envoi</h3>
 

@@ -18,6 +18,8 @@
   $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
   $appinfo->addContributor("Patrick Julien", "freak@codepimps.org");
   $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
+  $appinfo->addContributor("Sven Langkamp", "<longamp@reallygood.de>");
+  $appinfo->addContributor("Cyrille Berger", "<cyb@lepi.org>");
 
   $appinfo->show();
 ?>
@@ -60,7 +62,9 @@
       </p>
 
       <p>Read also the <a href="../developer/krita/index.php">Developing Krita</a> document
-      for a high-level overview of the architecture of Krita.</p>
+      for a high-level overview of the architecture of Krita, and <a href="../developer/krita/painters.php">Painters
+      and Paint Devices</a> for information on the 2D canvas library that is at the heart of
+      Krita.</p>
 
       <p>
       There is a mailing list archive at
