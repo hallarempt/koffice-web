@@ -5,8 +5,8 @@ import fileinput
 import string
 
 #adjust these two variables to the current version
-VERSION="1.2.95"
-STATUS="unstable"
+VERSION="1.3"
+STATUS="stable"
 
 def makeTable(_file):
     print '<table border="0" cellpadding="4" cellspacing="0">'

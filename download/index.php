@@ -5,17 +5,18 @@
   include("header.inc");
 ?>
 
-      <h2>Information</h2>
-      <p>KOffice is currently available as version 1.2.1 designed to run with KDE 3.0 or later. KOffice is released seperately from the rest of
-       KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a newer development version, then you will need to
-	  <a href="source.php">compile from source</a>.</p>
-      <h2>Download</h2>
-     <p>Qt 3.0.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
-     <p>Download locations can be found on the announcements page, and by clicking <a href="/announcements/announce-1.2.1.php#package_locations">here</a></p>
+     <h2>Information</h2>
+     <p>KOffice is currently available as version 1.3 designed to run with KDE 3.1 or later. KOffice is released seperately from the rest of
+     KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a newer development version, then you will need to
+     <a href="source.php">compile from source</a>.</p>
+     
+     <h2>Download</h2>
+     <p>Qt 3.1.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
+     <p>Download locations can be found on the announcements page, and by clicking <a href="/announcements/announce-1.3.phtml#package_locations">here</a></p>
 
-      <h1>Download Binaries: KOffice 1.3 RC 2 - XMAS version</h1>
-      Contributed binaries (if any) of the XMAS version of KOffice 1.3 can be found
-      <a href="http://download.kde.org/unstable/koffice-1.2.95/contrib/">here</a>.
+      <h1>Download Binaries: KOffice 1.3</h1>
+      Contributed binaries (if any) of KOffice 1.3 can be found
+      <a href="http://download.kde.org/stable/koffice-1.3/contrib/">here</a>.
       Please note these builds are not supported by the KOffice team which provides source packages only.
 
       <h1>Installing Binaries</h1>

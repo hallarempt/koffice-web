@@ -14,7 +14,7 @@
       <h2>Requirements</h2>
       <p>To compile KOffice you need:
 <ul>
-<li>For KOffice 1.2.1: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.5 or 1.6</a> and
+<li>For KOffice 1.3: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.5 or 1.6</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.52</a>.</li>
 <!--<li>For KOffice 1.2 betas and the CVS versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.5 or 1.6</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.52</a>.</li>-->
@@ -26,18 +26,20 @@ for info about getting and installing it.)
 </ul>
 
 <h2>Information</h2>
-<p>KOffice stable is currently available as version 1.2.1, designed to run with KDE 3.x.<br>
-You must choose now to run the stable KOffice 1.2.1 or a development version. In case of the 
+<p>KOffice stable is currently available as version 1.3, designed to run with KDE 3.1 and later.<br>
+You must choose now to run the stable KOffice 1.3 or a development version. In case of the 
 development version this can mean that it is not usable for end use.
 If you want the development version you can choose between a daily snapshot, or obtain source 
 regularly via CVS or CVSUP.</p>
 
 <h2>Download</h2>
-<p><b>KOffice 1.2.1 stable</B> is available 
-<a href="http://download.kde.org/stable/koffice-1.2.1/src/">here</a></p>
+<p><b>KOffice 1.3 stable</B> is available 
+<a href="http://download.kde.org/stable/koffice-1.3/src/">here</a></p>
 
+<!--
 <p><b>The latest development release is KOffice 1.3 RC 2 - XMAS version</b>. Get it from
 <a href="http://download.kde.org/unstable/koffice-1.2.95/src/">here</a>.</p>
+-->
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
 <p>The development version via <b>anonymous CVS</B> (recommended) needs extra instructions, check the
@@ -51,7 +53,7 @@ In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
-<p>For KOffice 1.2.1 stable you need QT 3.0.x, arts, and kdelibs (kdebase recommended too).</p>
+<p>For KOffice 1.3 stable you need QT 3.1.x, arts, and kdelibs (kdebase recommended too).</p>
 <!--<p>For the development version of KOffice you need QT 3.0.x, arts, and kdelibs from CVS (in that order).-->
 
 <p>QT can be found <a href="ftp://ftp.trolltech.com/qt/source/">here</a>

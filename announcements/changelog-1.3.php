@@ -105,6 +105,7 @@ DTP frames of different widths)</li>
 <li>Fixed "edit frameset" for tables in doc structure panel (#67084)</li>
 <li>Save "no underline" explicitly if the paragraph layout says "underline" but the user removed the underline (#67735)</li>
 <li>Fixed successive image DnD</li>
+<li>Load and save the frames order ("z index")</li>
 </ul>
 
 <h3><a name="kpresenter">KPresenter</a></h3>
@@ -173,6 +174,10 @@ DTP frames of different widths)</li>
 <li>Fixed after reload of some objects moved up a little bit</li>
 <li>Fixed moving with key left used in grid</li>
 <li>Fixed header/footer moved in undo</li>
+<li>during a presentation variables on the sticky page were not updated (#67515)</li>
+<li>font sizes are lost after reload (#72120)</li>
+<li>duplicate slide doesn't exactly duplicate it, some formats are lost (#72126)</li>
+<li>text style is not used if text field is empty (#72129)</li>
 </ul>
 
 
