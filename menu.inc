@@ -1,4 +1,5 @@
 <?php
+include("koffice.inc");
 $this->setName ("KOffice Homepage");
 
 $section =& $this->appendSection("Inform");
