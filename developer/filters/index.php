@@ -15,7 +15,7 @@
         <li><a href="oldfaq.php">Old Filter FAQ (also known as "How to write a filter?")</a></li>
         <li><a href="useful.php">Useful links</a></li>
 <!--        <li><a href="todo.php">Missing Filters</a></li> -->
-        <li><a href="libexport13design.php>Design of KWord's Libexport Library in KOffice 1.3</a></li>
+        <li><a href="libexport13design.php">Design of KWord's Libexport Library in KOffice 1.3</a></li>
     </ul>
 
     <p>For basic file format information (especially for XML-based file formats
