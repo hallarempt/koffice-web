@@ -60,7 +60,7 @@
 
     <tr>
     <td><a href="kexi/"><img src="pics/cr32-app-kexi.png" alt="Kexi logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="kexi/">Kexi</a></b> - Integrated Database Environment Access.</td>
+    <td><b><a href="kexi/">Kexi</a></b> - An integrated environment for managing data.</td>
     </tr>
 
     <tr>
