@@ -1,5 +1,5 @@
 <?php
-include("classes/class_handler404.inc");
+include("handler.inc");
 $handler = new Handler404();
 $handler->add("/downloads", "/addons");
 $handler->add("/contact.phtml", "/contact");
