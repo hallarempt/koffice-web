@@ -340,10 +340,10 @@ The description is the top level file that will provide the description of the s
 </ul>
 <h3>5.2. Example Desc File</h3>
 <pre>
-&lt;?xml version=&quot1.0&quot?&gt;
+&lt;?xml version=&quot;1.0&quot;?&gt;
 &lt;KivioStencilSpawnerSet&gt;
-  &lt;Title data=&quotBasic Circut Shapes&quot/&gt;
-  &lt;Id data=&quotIan Reinhart Geiser&quot/&gt;
+  &lt;Title data=&quot;Basic Circut Shapes&quot;/&gt;
+  &lt;Id data=&quot;Ian Reinhart Geiser&quot;/&gt;
 &lt;/KivioStencilSpawnerSet&gt;
 </pre>
 <h2>6. *.sml Files - Multiple Per Stencil Pack</h2>
@@ -352,25 +352,25 @@ For more information on the tags of the SML format please refer to sections 1-3.
 </p>
 <h3>6.1. Example SML File</h3>
 <pre>
-&lt;?xml version=&quot1.0&quot?&gt;
-&lt;KivioShapeStencil creator=&quotkate&quot&gt;
+&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;KivioShapeStencil creator=&quot;kate&quot;&gt;
                 &lt;KivioSMLStencilSpawnerInfo&gt;
-                        &lt;Author data=&quotIan Reinhart Geiser&quot/&gt;
-                        &lt;Title data=&quotNot&quot/&gt;
-                        &lt;Id data=&quotNot&quot/&gt;
-                        &lt;Description data=&quotLogical Not Gate&quot/&gt;
-                        &lt;Version data=&quot0.1&quot/&gt;
-                        &lt;Web data=&quotwww.kde.org&quot/&gt;
-                        &lt;Email data=&quotgeiseri@kde.org&quot/&gt;
-                        &lt;Copyright data=&quotCopyright (C) 2002 Ian Reinhart Geiser&quot/&gt;
-                        &lt;AutoUpdate data=&quotoff&quot/&gt;
+                        &lt;Author data=&quot;Ian Reinhart Geiser&quot;/&gt;
+                        &lt;Title data=&quot;Not&quot;/&gt;
+                        &lt;Id data=&quot;Not&quot;/&gt;
+                        &lt;Description data=&quot;Logical Not Gate&quot;/&gt;
+                        &lt;Version data=&quot;0.1&quot;/&gt;
+                        &lt;Web data=&quot;www.kde.org&quot;/&gt;
+                        &lt;Email data=&quot;geiseri@kde.org&quot;/&gt;
+                        &lt;Copyright data=&quot;Copyright (C) 2002 Ian Reinhart Geiser&quot;/&gt;
+                        &lt;AutoUpdate data=&quot;off&quot;/&gt;
                 &lt;/KivioSMLStencilSpawnerInfo&gt;
-        &lt;KivioConnectorTarget  x=&quot5&quot y=&quot10&quot/&gt;
-        &lt;KivioConnectorTarget  x=&quot5&quot y=&quot0&quot/&gt;
-        &lt;KivioConnectorTarget  x=&quot0&quot y=&quot5&quot/&gt;
-        &lt;KivioConnectorTarget  x=&quot10&quot y=&quot5&quot/&gt;
-        &lt;Dimensions w=&quot10&quot h=&quot10&quot defaultAspect=&quot1&quot/&gt;
-        &lt;KivioShape type=&quotEllipse&quot name=&quotConnector&quot x=&quot0&quot w=&quot10&quot y=&quot0&quot h=&quot10&quot/&gt;
+        &lt;KivioConnectorTarget  x=&quot;5&quot; y=&quot;10&quot;/&gt;
+        &lt;KivioConnectorTarget  x=&quot;5&quot; y=&quot;0&quot;/&gt;
+        &lt;KivioConnectorTarget  x=&quot;0&quot; y=&quot;5&quot;/&gt;
+        &lt;KivioConnectorTarget  x=&quot;10&quot; y=&quot;5&quot;/&gt;
+        &lt;Dimensions w=&quot;10&quot; h=&quot;10&quot; defaultAspect=&quot;1&quot;/&gt;
+        &lt;KivioShape type=&quot;Ellipse&quot; name=&quot;Connector&quot; x=&quot;0&quot; w=&quot;10&quot; y=&quot;0&quot; h=&quot;10&quot;/&gt;
 &lt;/KivioShapeStencil&gt;
 </pre>
 
