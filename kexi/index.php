@@ -6,7 +6,7 @@
 ?>
 
 <?php
-  $appinfo = new AppInfo("KWord");
+  $appinfo = new AppInfo("Kexi");
   $appinfo->setIcon( "pics/cr48-app-kexi", "48", "48");
   $appinfo->setVersion($kexiversion);
   $appinfo->setLicense("gpl");
