@@ -18,6 +18,7 @@
       <a href="http://mail.kde.org/mailman/listinfo/koffice">koffice</a> and 
       <a href="http://mail.kde.org/mailman/listinfo/koffice-devel">koffice-devel</a> 
       lists respectively. 
+      </p>
       <p> 
       There are also archives of the KOffice mailing list available. 
       The list archives are <a href="http://lists.kde.org/?l=koffice&r=1&w=2">koffice</a> and 

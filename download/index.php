@@ -19,9 +19,9 @@
       Please note these builds are not supported by the KOffice team which provides source packages only.
 
       <h1>Installing Binaries</h1>
-      <br>
+      <br />
       <b>RPMs:</b>
-      <br>
+      <br />
       Type the following as root:
       <blockquote><code>
       rpm -Uvh koffice.rpm</code>
@@ -36,8 +36,8 @@
       <p>
       Just do the following:
       <blockquote><code>
-      cd /<br>
-      su<br>
+      cd /<br />
+      su<br />
       tar xzvf package.bin.tar.gz
       </code></blockquote>
       </p>
@@ -46,7 +46,6 @@
       <br />
 
       <!--<b>Debian packages:</b>
-      <p>
       <p>See an excellent FAQ on KDE3 and KOffice for Debian
          <a href='http://davidpashley.com/debian-kde/faq.html'>here</a> for download and installation
       instructions.

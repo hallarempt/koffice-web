@@ -20,12 +20,13 @@ the commit really appears on the web site.</p>
 
 <h2>Applying For Removing The Write Protection</h2>
 
-<p>So if you think to maintain a part of <a href="/">www.koffice.org<a> or if you plan
+<p>So if you think about maintaining (or helping to maintain)
+a part of <a href="/">www.koffice.org<a> or if you plan
 to commit from time to time in the <a href="/">KOffice web site</a>, you have to ask the
 <a href="mailto:sysadmin@office.kde.org">Sysadmins</a>.</p>
 <!-- TODO: can be asked when asking a KDE CVS account -->
 
-<p>Tell on which part of Koffice.org you would like to work and
+<p>Tell on which part of KOffice.org you would like to work and
 that you would like to have write permission on www/areas/koffice .
 Do not forget to give your account name.</p>
 

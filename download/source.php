@@ -34,24 +34,24 @@ regularly via CVS or CVSUP.</p>
 
 <h2>Download</h2>
 <p><b>KOffice 1.2.1 stable</B> is available 
-<a href="http://download.kde.org/stable/koffice-1.2.1/src/">here</a>
+<a href="http://download.kde.org/stable/koffice-1.2.1/src/">here</a></p>
 
 <p><b>The latest development release is KOffice 1.3 RC 2 - XMAS version</b>. Get it from
-<a href="http://download.kde.org/unstable/koffice-1.2.95/src/">here</a>.
+<a href="http://download.kde.org/unstable/koffice-1.2.95/src/">here</a>.</p>
 
-<p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.
+<p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
 <p>The development version via <b>anonymous CVS</B> (recommended) needs extra instructions, check the
-<a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.
-<p>The development version via <b>CVSup</B> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.
+<a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.</p>
+<p>The development version via <b>CVSup</B> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.</p>
 <p>Use cvsup or anoncvs if you plan to update often, since you will save a significant amount 
 of time. If you use cvsup or anoncvs, you need to run <tt>make -f Makefile.cvs</tt> before 
 running <tt>./configure</tt> in the instructions below, or follow the instructions on the 
-cvsup or anoncvs page. <br>
-In any case, you need the HEAD branch! (which is the default).
+cvsup or anoncvs page.<br />
+In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
-<p>For KOffice 1.2.1 stable you need QT 3.0.x, arts, and kdelibs (kdebase recommended too).
+<p>For KOffice 1.2.1 stable you need QT 3.0.x, arts, and kdelibs (kdebase recommended too).</p>
 <!--<p>For the development version of KOffice you need QT 3.0.x, arts, and kdelibs from CVS (in that order).-->
 
 <p>QT can be found <a href="ftp://ftp.trolltech.com/qt/source/">here</a>
@@ -93,12 +93,13 @@ And then for each KDE package:
 
       <p>
       If anything goes wrong during compilation, you might want to check if a solution
-      is listed on <A HREF="http://developer.kde.org/build/compilationfaq.html">the compilation FAQ</A>,
+      is listed on <a href="http://developer.kde.org/build/compilationfaq.html">the compilation FAQ</a>,
       although it's a bit outdated.
       </p>
 
       <h2>Download and Install KOffice</h2>
 
+      <p>
       <blockquote>
       <tt>bunzip koffice-XXXXXX.tar.bz2</tt><br />
       <tt>tar xvf koffice-XXXXXX.tar</tt><br />
@@ -122,21 +123,21 @@ And then for each KDE package:
       KOffice. See the note below. You'll also have to make sure you don't have another version
       of KOffice installed in the KDE prefix ; they would conflict. It's ok to have two versions
       of KOffice installed, but then none should be in the "kde prefix". The other solution
-      is to have two versions of KDE installed, with a version of KOffice in each one.
+      is to have two versions of KDE installed, with a version of KOffice in each one.</p>
 
       <p>
       Note: if you used <code>./configure --prefix</code> to install KOffice in a different
       location than the rest of KDE, you'll need to add this to /etc/kderc :
       <blockquote>
-      <tt>[Directories]</tt><br/>
-      <tt>prefixes=/the/prefix/I/used/for/koffice</tt><br/>
+      <tt>[Directories]</tt><br />
+      <tt>prefixes=/the/prefix/I/used/for/koffice</tt><br />
       </blockquote>
-      <br/>
+      <br />
       Another solution is to export KDEDIRS=/the/prefix/I/used/for/koffice:/the/normal/kdedir
       </p>
 
       <p>Once you told KDE about where KOffice is, you need to run <b>kbuildsycoca</b>,
-      which updates the system configuration cache in KDE, or to restart KDE.</b>
+      which updates the system configuration cache in KDE, or to restart KDE.</p>
 
       <p>
       You should now be able to start each individual application, such as <i>kspread</i>,
