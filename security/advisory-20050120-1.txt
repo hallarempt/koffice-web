@@ -1,13 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 KDE Security Advisory: KOffice PDF Import Filter Vulnerability
 Original Release Date: 2005-01-20
 URL: http://www.kde.org/info/security/advisory-20050120-1.txt
-URL: http://www.koffice.org/security/advisory-20050120-1.txt
 
 0. References
 
-        http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-XXXX
         http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0064
-   http://www.idefense.com/application/poi/display?id=186&type=vulnerabilities
+        http://www.idefense.com/application/poi/display?id=186&type=vulnerabilities
 
 
 1. Systems affected:
@@ -20,9 +21,6 @@ URL: http://www.koffice.org/security/advisory-20050120-1.txt
         The KOffice PDF Import Filter shares code with xpdf. xpdf contains
         a buffer overflow that can be triggered by a specially crafted
         PDF file.
-
-        The Common Vulnerabilities and Exposures project (cve.mitre.org)
-        has assigned the name CAN-2005-XXXX to this issue.
 
 
 3. Impact:
@@ -42,13 +40,10 @@ URL: http://www.koffice.org/security/advisory-20050120-1.txt
 5. Patch:
 
         Patch for KOffice 1.3.5 is available from 
-        ftp://ftp.kde.org/pub/kde/security_patches:
+        ftp://ftp.kde.org/pub/kde/security_patches :
 
-        5fa219238965d4d8f2f2bc9e53890b98  post-1.3.5-koffice.diff
+        0e6194cbfe3f6d3b3c848c2c76ef5bfb  post-1.3.5-koffice.diff
 
-        (The patch is also available at
-        http://www.koffice.org/releases/security/post-1.3.5-koffice.diff
-        The patch might also apply to earlier KOffice 1.3.x versions.)
 
 6. Time line and credits:
 
@@ -57,3 +52,10 @@ URL: http://www.koffice.org/security/advisory-20050120-1.txt
                    prepared. 
         20/01/2005 Public disclosure.
 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.2 (GNU/Linux)
+
+iD8DBQFB8CcAN4pvrENfboIRAskgAJ0ejlXQ5lm5ijZ7p4N3nIoO8AOnogCffELh
+tEDcXP6ayczkm1wmk+komLQ=
+=TUha
+-----END PGP SIGNATURE-----
