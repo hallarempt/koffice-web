@@ -36,8 +36,8 @@ regularly via CVS or CVSUP.</p>
 <p><b>KOffice 1.2.1 stable</B> is available 
 <a href="http://download.kde.org/stable/koffice-1.2.1/src/">here</a>
 
-<p><b>The latest development release is KOffice 1.3 RC 1</b>. Get it from
-<a href="http://download.kde.org/unstable/koffice-1.2.94/src/">here</a>.
+<p><b>The latest development release is KOffice 1.3 RC 2 - XMAS version</b>. Get it from
+<a href="http://download.kde.org/unstable/koffice-1.2.95/src/">here</a>.
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.
 <p>The development version via <b>anonymous CVS</B> (recommended) needs extra instructions, check the

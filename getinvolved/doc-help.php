@@ -41,7 +41,3 @@
   $contactemail="mpmcbride7@yahoo.com";
   include("footer.inc");
 ?>
-
-
-
-

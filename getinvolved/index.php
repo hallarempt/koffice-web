@@ -45,8 +45,3 @@
   $contactemail="jost@schenck.de";
   include("footer.inc");
 ?>
-
-
-
-
-

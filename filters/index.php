@@ -22,8 +22,3 @@
 <?php
     include("footer.inc");
 ?>
-
-
-
-
-
