@@ -12,7 +12,7 @@
   $appinfo->setCopyright("2001", "the KPlato Team");
   $appinfo->addAuthor("Thomas Zander", "zander@kde.org");
   $appinfo->addAuthor("Jim Sabatke", "jsabatke@execpc.com");
-  $appinfo->addAuthor("Bo Thorsten", "bo@thorsen-consulting.dk");
+  $appinfo->addAuthor("Bo Thorsen", "bo@thorsen-consulting.dk");
   $appinfo->show();
 ?>
 
