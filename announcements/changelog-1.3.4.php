@@ -81,6 +81,7 @@
 
 <h4>KWord's OOWriter export filter:</h4>
 <ul>
+  <li>Fix auto-justification</li>
 </ul>
 
 <h4>KPresenter's OOImpress import filter:</h4>
