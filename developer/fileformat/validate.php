@@ -49,11 +49,13 @@
   </p>
    <pre><code>
    #!/bin/sh
+   input="$1"
+   echo "$input" | grep -v '^/' &gt;/dev/null 2&gt;&amp;1 &amp;&amp; input="$PWD/$input"
    tmpdir=/tmp/oasistmp
-   rm -rf $tmpdir ; mkdir $tmpdir && cd $tmpdir || exit 1
-   unzip -o $1 || exit 1
+   rm -rf $tmpdir ; mkdir $tmpdir &amp;&amp; cd $tmpdir || exit 1
+   unzip -o $input || exit 1
    for f in content.xml styles.xml meta.xml settings.xml; do
-     echo "Checking $f..." ; oasislint $f && echo "Checking $f strict..." && oasislint-strict $f
+     echo "Checking $f..." ; oasislint $f &amp;&amp; echo "Checking $f strict..." &amp;&amp; oasislint-strict $f
    done
    </code></pre>
 
