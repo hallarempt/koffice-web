@@ -10,7 +10,7 @@
 <!-- ### TODO: find a better word than "sharability" -->
 
 <p>Following are some tasks that are of any difficulty. The difficulty is marked with stars (*=easy, *****=expert),
-also marked with stars are how easy the tasks could be shared between developers (*=easily shared; *****=very difficult to share).</p>
+also marked with stars is how easy the tasks could be shared between developers (*=easily shared; *****=very difficult to share).</p>
 
 <ul>
     <li>Add "What's this" help in any dialog (Difficulty: **; Sharability: *)</li>
