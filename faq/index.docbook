@@ -1,0 +1,847 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook V3.1//EN" [
+<!ENTITY KOffice "<application>KOffice</application>">
+<!ENTITY KSpread "<application>KSpread</application>">
+<!ENTITY KWord "<application>KWord</application>">
+<!ENTITY Kontour "<application>Kontour</application>">
+<!ENTITY Karbon14 "<application>Karbon14</application>">
+<!ENTITY KPresenter "<application>KPresenter</application>">
+<!ENTITY Kivio "<application>Kivio</application>">
+<!ENTITY Kugar "<application>Kugar</application>">
+<!ENTITY Kudesigner "<application>Kudesigner</application>">
+<!ENTITY Krita "<application>Krita</application>">
+<!ENTITY KChart "<application>KChart</application>">
+<!ENTITY KDiagram "<application>KDiagram</application>">
+<!ENTITY KFormula "<application>KFormula</application>">
+<!ENTITY KOShell "<application>KOShell</application>">
+]>
+<article lang="en" id="koffice-faq">
+
+<artheader>
+  <title>KOffice FAQs</title>
+  <authorgroup>
+    <author>
+      <firstname>Jost</firstname>
+      <surname>Schenck</surname>
+    </author>
+  </authorgroup>
+  <releaseinfo>1.0.4</releaseinfo>
+  <date>2002/11/05</date>
+<abstract>
+<para><emphasis>FAQ currently being updated, some information may still be old</emphasis></para>
+<para>
+This FAQ tries to answer some frequently asked questions about &KOffice;
+ (plus some not so frequently asked ones you might find interesting anyway).
+ Please: if you have a question, take a look into this FAQ first, before asking
+ the developers. They're a handful of programmers who are not being paid for
+ doing this, writing a complete office suite in their spare time - this time
+ they don't want to spend answering certain questions for the 100th time. If
+ you have a question that is not being covered by this FAQ, please don't hesitate
+ to mail <email>koffice at kde dot org</email> (please mention that you had a look into
+ the FAQ). This FAQ is work in progress and currently poorly maintained by Jost Schenck
+ <email>jost at schenck dot de</email> who apologizes for any outdated information. Much text
+ taken from &KOffice; home page and mailing lists. Please contact me in case of
+ criticism, additions, typos, errors, flames etc. I welcome any kind of feedback.
+</para></abstract>
+</artheader>
+
+<qandaset>
+<qandadiv id="importantnote"><title>Important Note - please read first!</title>
+<qandaentry><question><para> Disclaimer</para></question>
+<answer>
+<para>
+I accept <emphasis>no liability</emphasis> for the contents of this FAQ document.
+</para>
+</answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="generalquestions"><title>General Questions</title>
+<qandaentry><question><para> What is &KOffice;?</para></question>
+<answer>
+<para>
+&KOffice; is an integrated office suite for the KDE (K Desktop Environment)
+ consisting of several applications like a word processor and a spread sheet.
+ Based on the KParts component model &KOffice; offers a lot of interoperability
+ between all its components. For example, you can embed every &KOffice; component
+ into another component (e.g. a &KSpread; table into your &KWord; document) and
+ a plug-in mechanism makes it possible to easily extend functionality.</para>
+
+</answer></qandaentry>
+<qandaentry><question><para> Who are the developers and how do I contact them?</para></question>
+<answer>
+<para>The following people currently maintain the &KOffice; applications:</para>
+<itemizedlist>
+<listitem><para>&KWord;: <ulink url="mailto:zander at kde dot org">Thomas Zander</ulink>,
+ <ulink url="mailto:srhaque at iee dot org">Shaheed Haque</ulink>,
+ <ulink url="mailto:faure at kde dot org">David Faure</ulink>,
+ <ulink url="mailto:sven at kde dot org">Sven L&uuml;ppken</ulink></para></listitem>
+<listitem><para>&KSpread;, &KChart;: <ulink url="mailto:lmontel at mandrakesoft dot com">Laurent Montel</ulink></para></listitem>
+<listitem><para>&Kontour;: <ulink url="mailto:rm at linux dot ru dot net">Igor Janssen</ulink></para></listitem>
+<listitem><para>&KPresenter;: <ulink url="mailto:lmontel at mandrakesoft dot com">Laurent Montel</ulink><ulink url="mailto:trobin at kde dot org">Werner Trobin</ulink></para></listitem>
+<listitem><para>&Krita;: <ulink url="mailto:jcaliff at compuzone dot net">John Califf</ulink></para></listitem>
+<listitem><para>&KOffice; Library: <ulink url="mailto:faure at kde dot org">David Faure</ulink>,
+ <ulink url="mailto:trobin at kde dot org">Werner Trobin</ulink></para></listitem>
+<listitem><para>&KFormula;: <ulink url="mailto:rizzi at kde dot org">Andrea Rizzi</ulink>,
+ <ulink url="mailto:ulrich.kuettler at mailbox dot tu-dresden dot de">Ulrich Kuettler</ulink>
+ </para></listitem>
+<listitem><para>KOShell: <ulink url="mailto:sven at kde dot org">Sven L&uuml;ppken</ulink>
+</para></listitem>
+<listitem><para>&Kugar;, &Kudesigner;: <ulink url="mailto:cloudtemple at mksat dot net">Alexander Dymo</ulink>
+</para></listitem>
+<listitem><para>&Karbon14;: <ulink url="mailto:buis at kde dot org">Rob Buis</ulink>
+and <ulink url="mailto:kudling at kde dot org">Lenny Kudling</ulink></para></listitem>
+<listitem><para>CVS Repository, Configure-Scripts and Makefiles:
+ <ulink url="mailto:coolo at kde dot org">Stephan Kulow</ulink></para></listitem>
+</itemizedlist>
+
+<para>
+The following people have been programming &KOffice; applications (let
+ <ulink url="mailto:jost at schenck dot de">me</ulink> know, if I forgot somebody):</para>
+<itemizedlist>
+<listitem><para>Torben Weis (KParts, &KSpread;, &KWord;, &KOffice; library)</para></listitem>
+<listitem><para>Reginald Stadlbauer (KPresenter, &KWord;, &KOffice; library)</para></listitem>
+<listitem><para>David Faure (KParts, &KOffice; library)</para></listitem>
+<listitem><para>Kalle Dalheimer (&KChart;)</para></listitem>
+<listitem><para>Lotzi Boloni (&KChart;)</para></listitem>
+<listitem><para>Stephan Kulow (configure scripts and makefiles)</para></listitem>
+<listitem><para>Andrea Rizzi (&KFormula;)</para></listitem>
+<listitem><para>Kai-Uwe Sattler (&Kontour;)</para></listitem>
+<listitem><para>Simon Hausmann (KParts)</para></listitem>
+<listitem><para>Laurent Montel (&KSpread;, &KPresenter;, &KWord;)</para></listitem>
+<listitem><para>Michael Koch (&Krita;)</para></listitem>
+<listitem><para>Matthias Elter (&Krita;)</para></listitem>
+<listitem><para>Andrew Richards (&Krita;)</para></listitem>
+<listitem><para>Carsten Pfeiffer (&Krita;)</para></listitem>
+<listitem><para>Thomas Zander (&KWord;)</para></listitem>
+<listitem><para>Percy Leonhardt (MS Excel(tm) import filter for &KSpread;)</para></listitem>
+<listitem><para>John Califf (&Krita;, &KWord; GUI enhancements)</para></listitem>
+<listitem><para>Igor Janssen (&Kontour;)</para></listitem>
+<listitem><para>Toshitaka Fujioka (&KPresenter;)</para></listitem>
+<listitem><para>Thorsten Rahn and his artists team (Graphics)</para></listitem>
+<listitem><para>Sven L&uuml;ppken (&KWord;, &KOShell;)</para></listitem>
+<listitem><para>Clarence Dang (MSWrite filters)</para></listitem>
+<listitem><para>Alexander Dymo (&Kugar;, &Kudesigner;)</para></listitem>
+<listitem><para>Rob Buis (&Karbon14;)</para></listitem>
+<listitem><para>Lenny Kudling (&Karbon14;)</para></listitem>
+</itemizedlist>
+<para>
+The Kompany (<ulink url="http://www.thekompany.com">http://www.thekompany.com</ulink>) is actively
+supporting &KOffice;. Their powerful &Kivio; flowcharter is now part of the official
+&KOffice; distribution.</para>
+
+<para>
+If you want to contact the developers with questions or comments regarding &KOffice; in general,
+ you can do that by writing to <email>koffice at kde dot org</email>. The developer mailing list is
+ <email>koffice-devel at kde dot org</email>. Please note that most of the developers are also
+ listening on the general mailing list -- so there is no need for you to contact the
+ developer's list when you encounter problems and think that only a developer can help you.
+ <email>koffice-devel at kde dot org</email> is therefore right now restricted to subscribed people.</para>
+
+<para>
+The mailinglists are archived at <ulink url="http://lists.kde.org">http://lists.kde.org</ulink>.
+</para>
+
+<para>
+Finally, &KOffice; is based on the work of many other people.
+ Without the work of the KDE team and TrollTech, &KOffice; wouldn't
+ exist today.</para>
+
+</answer>
+</qandaentry>
+
+<qandaentry><question><para>
+What does The Kompany have to do with &KOffice;? Is &KOffice; becoming proprietary?
+</para></question><answer><para>
+<ulink url="http://www.thekompany.com">The Kompany</ulink> is a company that develops
+linux software.  They actively contribute to &KOffice; e.g. by making their applications
+Kivio and &Kugar; parts of the &KOffice; suite.  All the programs that have been or will be
+incorporated into the official &KOffice; suite are under free licenses (such as GPL or
+Artistic) and the incorporated software by The Kompany is no exception.  The &KOffice;
+team is very grateful for the contributions The Kompany is putting into &KOffice;.
+</para></answer></qandaentry>
+
+<qandaentry><question><para> What &KOffice; applications do exist / are planned?</para></question>
+<answer>
+<para>
+&KOffice; currently includes:
+</para>
+<itemizedlist>
+<listitem><para>KSpread - a spread sheet</para></listitem>
+<listitem><para>KWord - a word processor</para></listitem>
+<listitem><para>KPresenter - a presentation program</para></listitem>
+<listitem><para>Kivio - a flowcharter</para></listitem>
+<listitem><para>Karbon14 - a vector drawing program</para></listitem>
+<listitem><para>Krita - an image manipulation program</para></listitem>
+<listitem><para>KFormula - a formel editor</para></listitem>
+<listitem><para>KChart - a tool for drawing charts and diagrams</para></listitem>
+</itemizedlist>
+</answer>
+</qandaentry>
+
+<qandaentry><question><para> I'd like to see XYZ application in &KOffice;!</para></question>
+<answer>
+<para>
+&KOffice; still lacks some applications that a complete office suite should offer. Some of them
+ have been started or are being thought about (like a database or a project planning tool).
+ But it doesn't make sense for all applications to use the &KOffice; libraries,
+ so they aren't "&KOffice; applications". So if you're missing a
+ certain application, you should take a look at the list of KDE applications you can
+ find at <ulink url="http://apps.kde.com/">http://apps.kde.com/</ulink>.
+ There's e.g. <application>KOrganizer</application>, a very sophisticated Organizer/Schedule program
+ or <application>Quanta+</application>, a powerful HTML editor.
+ If you think that a certain kind of application should be integrated into &KOffice;, contact
+ <email>koffice at kde dot org</email>. </para>
+</answer></qandaentry>
+
+<qandaentry><question><para> What is the current state of &KOffice;?</para></question><answer>
+<para>
+&KOffice; has been released as 1.2. KOffice is released seperately
+from the rest of KDE, so KOffice releases are not in sync with those of KDE.
+</para>
+</answer></qandaentry>
+
+<qandaentry><question><para> Is &KOffice; stable? </para></question><answer>
+<para>
+The release versions of &KOffice; are supposed to be quite stable. While we try to offer
+ as good a product as possible, &KOffice; is still a young project and will certainly
+ mature in the next releases, when some parts are planned to be rewritten or replaced.
+</para>
+</answer></qandaentry>
+
+<qandaentry><question><para> Are you going to implement feature XYZ?</para></question><answer>
+<para>
+First of all: certainly many features should be implemented in the future. However,
+ &KOffice; is mainly based on the work of volunteers and thus it often lacks the manpower
+ it needs to address many issues. If you are a developer and you lack a feature,
+ consider helping us and talk to us on the mailing lists. Many features can be implemented
+ independently of the &KOffice; main code base by implementing so-called plugins or
+ data tools. &KOffice; developers are always willing to help you if you want to get
+ your hands dirty!</para>
+</answer></qandaentry>
+
+<qandaentry><question><para> What do I need for using &KOffice;?</para></question><answer>
+<para>
+You should use the latest Qt library, i.e. 3.0.5 (see <ulink url="ftp://ftp.trolltech.com/qt/source/">
+ftp://ftp.trolltech.com/qt/source/</ulink>) and the latest <ulink url="http://www.kde.org">KDE
+ libraries</ulink> (eg. 3.0.3 for &KOffice; 1.2; the next &KOffice; release will require
+ KDE 3.1 and Qt 3.1). If you are compiling a development version from CVS, this information
+ is not up-to-date anymore; consult the <ulink url="http://lists.kde.org">mailing list 
+ archives</ulink> of the koffice-devel list for information on the needed libraries or ask
+ on the <ulink url="mailto:koffice at kde dot org">koffice</ulink> or 
+ <ulink url="mailto:koffice-devel at kde dot org">koffice-devel</ulink> lists if you run into trouble.</para>
+</answer></qandaentry>
+
+<qandaentry><question><para> Which license applies to &KOffice;?</para></question><answer>
+<para>
+&KOffice; is an open-source project and completely free. Regarding the license, it
+ was first put under GPL. Some programs have been moved to the AL
+ (Artistic License), maybe others will follow. This license is less restrictive
+ than the GPL, thus allowing linking certain (free but non-GPL) libs into
+ it without raising legal issues for distributors etc.
+ However, it's just as free as the GPL, in fact it is even more free.</para>
+
+</answer></qandaentry>
+
+<qandaentry><question><para> How do I report bugs?</para></question><answer>
+<para>
+Please report bugs to
+<ulink url="http://bugs.kde.org">http://bugs.kde.org</ulink>.</para>
+<para>
+Please note, that bug reports like "It doesn't work" or "&KOffice; sucks" will neither
+ help nor get you nice responses. A good bug report includes (if possible) things like:
+<orderedlist>
+<listitem><para>a description how to reproduce the bug.</para></listitem>
+<listitem><para>maybe a backtrace.</para></listitem>
+<listitem><para>if possible: information about library versions etc., if they seem to correlate to the problem.</para></listitem>
+<listitem><para>best of all: a patch!</para></listitem>
+</orderedlist></para>
+
+</answer></qandaentry>
+
+<qandaentry><question><para>Can I use KOffice on Windows?</para></question>
+<answer><para>
+At the moment this isn't possible. But there is work going on in that direction,
+as part of the <ulink url="http://kde-cygwin.sourceforge.net/">KDE Cygwin project</ulink>,
+which is a port of Qt and KDE to Windows using Cygwin, the POSIX emulation 
+layer for Windows, and the Cygwin XFree86 server.</para><para>
+At the time of writing this, KOffice hasn't been ported yet.
+</para></answer></qandaentry>
+
+
+</qandadiv>
+
+<qandadiv id="howtogetandinstall"><title>How to get and install &KOffice;</title>
+
+<qandaentry><question><para> How do I get and compile the &KOffice; sources?</para></question><answer>
+<para>
+Please have a look at <ulink url="http://koffice.kde.org/install-source.phtml">
+http://koffice.kde.org/install-source.phtml</ulink> </para>
+
+</answer></qandaentry><qandaentry><question><para> I want to be on the bleeding edge. How can I get my sources up to date?</para></question><answer>
+<para>
+The easiest way to keep your &KOffice; sources up to date is using <application>cvsup</application>.
+ See
+<ulink url="http://www.kde.org/cvsup.html">http://www.kde.org/cvsup.html</ulink> for
+ details on how to set it up. You'll need to checkout the module
+ <filename>koffice</filename>. Please keep in mind that the versions in the development
+ branch are not supposed to work stable.</para>
+
+</answer></qandaentry>
+<qandaentry><question><para> How do I install &KOffice; if I'm not root?</para></question><answer>
+<para>
+You've got to pass some directory where you've got write access (e.g. in your home directory)
+ as prefix to configure. So you should type something like: <command>./configure --prefix=<replaceable>/home/jdoe/foo/bar</replaceable></command>
+ plus of course other options you might want to pass to configure. Then of course you
+ don't have to do <command>su -c "make install"</command>, but just <command>make install</command>.</para>
+</answer></qandaentry>
+<qandaentry><question><para> Where can I find information on compiling Qt or the KDE libs?</para></question><answer>
+<para>
+For Qt, have a look at the file <filename>INSTALL</filename> in your Qt root directory.</para>
+<para>
+See
+<ulink url="http://www.kde.org/documentation/faq/index.html">http://www.kde.org/documentation/faq/index.html</ulink>
+ for details on KDE.</para>
+</answer></qandaentry>
+
+<qandaentry><question><para> What binary distributions are there and where do I find them?</para></question><answer>
+<para>
+You can find up-to-date information on available binaries <ulink url="http://www.koffice.org/install-binaries.phtml">here</ulink>.</para>
+
+</answer></qandaentry><qandaentry><question><para> How do I install binary RPMs?</para></question><answer>
+<para>
+Type the following as root: <command>rpm -U <replaceable>koffice.rpm</replaceable></command>. Please replace <replaceable>koffice.rpm</replaceable>
+ with the full path to and the name of your binary rpm.</para>
+
+</answer></qandaentry><qandaentry><question><para> Is &KOffice; available on CD?</para></question><answer>
+<para>
+Most linux distributions by now ship &KOffice;. So if you have an up-to-date
+ linux distribution, you probably are lucky.  I don't know of any other operating
+ system vendors who ship &KOffice; and I don't know about any separate CDs.
+ The &KOffice; project itself does not sell any CD-ROMs.
+</para>
+</answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="problemscomp"><title>Problems compiling &KOffice; </title>
+
+<qandaentry><question><para> What should I do if problems occur?</para></question><answer>
+<para>
+If problems occur during compiling, please:
+<itemizedlist>
+<listitem><para>check the problems mentioned in this section</para></listitem>
+<listitem><para>check whether you are using a recent kdelibs package (KDE v3.0.x).</para></listitem>
+<listitem><para>check whether you are using the <emphasis>correct versions</emphasis> of all required packages:
+ you need Qt v3.0.x.
+In case this FAQ is outdated, better check
+<ulink
+url="http://koffice.kde.org/install-source.phtml">
+http://koffice.kde.org/install-source.phtml</ulink> for  requirements,
+too.</para></listitem> <listitem><para>check if you compiled all libs with
+one compiler.</para></listitem> <listitem><para>check if you're compiling
+with a recent gcc
+</para></listitem>
+<listitem><para>if it
+compiled for you before, but now, after some updates, doesn't anymore:
+remove all <filename>.deps</filename>-directories in your koffice source
+tree and try again (<command>make  maintainer-clean</command> is the
+safest, I think).</para></listitem> <listitem><para>After you've checked
+all this and the problems still persist, contact
+<email>koffice at kde dot org</email>. Include information  about your system as
+well as the remark that you've read the FAQ and it didn't  help. If
+configure failed, include your <emphasis>config.log</emphasis>.
+</para></listitem> </itemizedlist></para> <para> Please
+<emphasis>don't</emphasis> contact the mailing list in case of:
+<itemizedlist> <listitem><para>"internal compiler errors". This most likely
+isn't a &KOffice; problem.</para></listitem> </itemizedlist></para>
+
+</answer></qandaentry>
+<qandaentry><question><para> I do <command>make -f Makefile.cvs</command> and get <computeroutput>aclocal not found</computeroutput>.</para></question><answer>
+<para>(This only applies to the snapshots)
+You haven't installed automake. Install automake (and make sure it's a recent version).
+ For the snapshots, this problem is hopefully going to be solved so that there's no
+ <filename>Makefile.cvs</filename> in the snapshots anymore.</para>
+
+</answer></qandaentry><qandaentry><question><para> The <filename>configure</filename>" script is missing!</para></question><answer>
+<para>(This only applies to the snapshots)
+Please start with <command>make -f Makefile.cvs</command>. You should find <filename>configure</filename> now.</para>
+
+</answer></qandaentry>
+
+<qandaentry><question><para> linking errors with type_info</para></question><answer>
+<para>
+You get lots of messages like this:
+<screen>/tmp/cca021561.o(.rodata+0x0): undefined reference to QWidget type_info
+node'
+/tmp/cca021561.o: In function yWidget type_info function':
+/tmp/cca021561.o(.gnu.linkonce.t.__tf8MyWidget+0x11):
+ undefined reference
+to QWidget type_info function'
+collect2: ld returned
+ 1 exit status
+</screen>
+
+(That means linking errors with type_info) </para>
+<para>
+You may be mixing compilers! You have to compile Qt, KDE
+ and &KOffice; with one compiler.</para>
+
+</answer></qandaentry><qandaentry><question><para> I get parse errors in <filename>.../include/g++/stdexcept</filename>".</para></question><answer>
+<para>
+Mark Tranchant says this might be due to binutils 2.8.* rather than 2.9.*.
+ So, upgrading your binutils might solve this problem. Please give me feedback
+ on this, since I didn't have this problem.</para>
+</answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="general"><title>&KOffice; in general</title>
+
+<qandaentry><question><para>Does &KOffice; support scripting?</para></question><answer>
+<para>
+Yes, &KOffice; supports scripting. &KSpread; has its own formula language used to extend
+ its capabilities, called KoScript. And above that you can script &KOffice; applications
+ using the scripting language of your choice thanks to the application's DCOP
+ interfaces (provided that DCOP-bindings exist for your language). For example
+ &KSpread; offers interfaces to its documents, views, tables, cells etc. Using a languages
+ DCOP bindings you can remote control a &KOffice; application via this interface.
+ You can find several DCOP bindings in the kdebindings module, be it perl, python or even
+ java. Furthermore, using the
+ <application>dcop</application> command line utility from kdelibs, you can
+ control applications from your shell, so you can basically even script &KOffice; using
+ sh/csh or whatever shell you prefer. Of course you can also access these interfaces
+ using a C++ library or its C wrapper.</para>
+<para>
+Note that not all &KOffice; applications have complete interfaces yet; &KSpread; is probably
+the best example for a scriptable application at the moment.
+</para>
+<para>The flowcharting program &Kivio; implements its own scripting via Python.</para>
+
+</answer></qandaentry><qandaentry><question><para> How does &KOffice; print?</para></question><answer>
+<para>
+&KOffice; uses the QPrinter/KPrinter classes and thus generates Postscript code. So you'll
+ be able to print using a Postscript printer or - if you're using ghostscript or a similar
+ program - any other printer supported by this program.</para>
+
+</answer></qandaentry><qandaentry><question><para> What data format does &KOffice; read and write natively?</para></question><answer>
+<para>
+Most &KOffice; applications store their document data as XML code (eXtensible
+ Markup Language). These files are stored in a more or less human readable
+ form with "tags" similar to the ones you know from HTML. Like with HTML, this
+ also guarantees compatibility when the file format is going to be extended in
+ the future: like an HTML browser, &KOffice; applications skip the tags that are
+ unknown to them, so you're going to be able to read files created with a newer
+ version of &KWord; with an older version (of course without the information
+ provided by the new tags). XML is stored in simple text files and can easily
+ be parsed - so it's possible to write filters e.g. in Perl.</para>
+<para>
+ As XML alone has some disadvantages when it comes to including binaries, embedded
+ documents etc. the &KOffice; file format is actually not just XML anymore, but a
+ ZIP file which contains the main document as well as embedded documents,
+ pictures etc.</para>
+<para>
+ So the native format is XML, within a ZIP packaging, much like OpenOffice.
+ If you want to save uncompressed XML files, for instance to use KOffice in
+ conjunction with CVS, you can select the "Uncompressed XML files" format when
+ saving. This saves everything in a directory - which means you need one
+ directory per document. To reopen the document, select maindoc.xml in the
+ file dialog.
+</para>
+
+</answer></qandaentry><qandaentry><question><para> Can I convert KOffice documents to and from other formats on the command line?</para></question><answer>
+<para>
+Yes, the program for this is called <command>koconverter</command>.
+See <command>koconverter --help</command> for more information.
+</para>
+
+</answer></qandaentry><qandaentry><question><para> Wow! My Framemaker writes XML, too! Does that mean I can easily read those documents with &KWord;?</para></question><answer>
+<para>
+No, unfortunately not; you still need a filter. Think of XML as a very base,
+ general markup language which allows you to "create your own markup language".
+ So it's more precise to say, the &KOffice; applications use a file format
+ thats based on XML. The XML code Framemaker can write to is a different file
+ format based on XML. Nevertheless, the usage of XML is going to make it easier
+ to develop import filters.</para>
+
+</answer></qandaentry><qandaentry><question><para> Which international text codecs does &KOffice; support?</para></question><answer>
+<para>
+&KOffice; uses UNICODE everywhere. This makes it suitable for all international
+ fonts you could think of. See next question for right to left and top to bottom
+ languages, however.</para>
+
+</answer></qandaentry><qandaentry><question><para>Does &KOffice; support languages that write right to left or top to bottom?</para></question><answer>
+<para>
+&KOffice; fully supports languages written from right to left (BiDi) thanks to the
+ support for this in Qt 3.
+</para>
+<para>
+Support for vertically written languages is not likely to come soon. Contributions are
+ of course always welcome, but this is unfortunately not an easy task.</para>
+</answer></qandaentry>
+</qandadiv>
+<qandadiv id="commonproblems"><title>Problems common to all &KOffice; applications</title>
+
+<qandaentry><question><para>In printout, &KOffice; replaces some of my fonts with different fonts!</para></question><answer>
+<para>
+[Thanks to Donovan Rebbechi] To make fonts printable to KOffice, the fonts in question need
+ to be added to the ghostscript fontmap file, so ghostscript can "see" the fonts. This applies
+ to TrueType as well as Type1 fonts. As KOffice doesn't necessarily use the correct ghostscript font
+ names, it (respectively Qt) tries to guess them and sometimes fails on this task. This problem
+ can be avoided by mapping the font names used by Qt to the correct X11 font names.
+ See the following example how this can be done:</para>
+<para>
+<example><title>mapping of font names in the ghostscript fontmap</title>
+<screen>
+/ArialBlack-Roman	/Arial_Black	;
+/Arnoldboecklin-Roman	/ArnoldBoecklin-ExtraBold	;</screen></example></para>
+<para> This problem will have to be solved within Qt; until then you'll have to modify your fontmap.
+ If you want to do this yourself, the following information might help you:</para>
+<para>
+Donovan Rebbechi has written a <ulink url="http://koffice.kde.org/tools/kwdfont">perl script</ulink> to make this task easier.
+ You need have the  appropriate fonts in your ghostscriupt fontmap,
+ (see Donovan's <ulink url="http://pegasus.rutgers.edu/~elflord/font_howto/">Font HOWTO</ulink> for
+ instructions) then insert the aliases generated by the script. The output
+ of the script might occasionally require a little hand tweaking, but at
+ least the script does most of the work. Note that the aliases must
+ precede the fonts. </para>
+<para>
+Donovan has also provided <ulink url="http://koffice.kde.org/tools/Fontmap.ms">fontmap entries</ulink> for the widely used Microsoft Web Fonts.
+ Just append them to your font map and fix the paths.</para>
+<para>
+For more information, please see the <ulink url="http://pegasus.rutgers.edu/~elflord/font_howto/">Font HOWTO</ulink>.
+</para>
+
+</answer></qandaentry>
+</qandadiv>
+
+
+<qandadiv id="kword"><title>KWord</title>
+
+<qandaentry><question><para> What is &KWord;?</para></question><answer>
+<para>
+KWord is the word processor of the &KOffice;. </para>
+<para>
+KWord's philosophy is simple and very similar to that of Framemaker: everything's
+ a frame. Unlike in M&dollar;-Word or StarWriter there isn't one text stream
+ which is formatted according to the page format; in &KWord; text is always in
+ a frameset consisting of several frames. Frames can be positioned anywhere on the
+ page and they can be connected, so that text that doesn't fit into the first frame
+ is continued in the connected frame. This may sound familiar to you if you've
+ worked with DTP programs like Framemaker, QuarkXPress, Pagemaker etc. Indeed, for
+ doing simple DTP the frame concept of &KWord; is well suited.</para>
+<para>
+This doesn't make the creation of a simple letter less easy than with other
+ word processors: if you create a new document with &KWord; you can start typing
+ right away, not noticing any difference, as &KWord; by default creates a frame
+ for you that fits on the page and automatically creates and connects more frames
+ on more pages if you're text is longer etc. So you won't ever notice the difference,
+ except if you want to take advantage of all the flexibility frames can offer
+ you.</para>
+
+</answer></qandaentry><qandaentry><question><para> What is its current state?</para></question><answer>
+<para>
+KWord is part of the stable releases of &KOffice;.</para>
+
+</answer></qandaentry><qandaentry><question><para> Can I write my letter / papers / master thesis with &KWord;?</para></question><answer>
+<para>
+Some of the testing documents are very large, so it should be possible to write even
+ larger documents using &KWord;.</para>
+
+</answer></qandaentry><qandaentry><question><para> Are there filters for MS-Word, StarWriter, RTF, ... ?</para></question><answer>
+<para>
+There is a filter manager for &KOffice; that allows the development of filters
+ for different formats. However, many of these file formats aren't documented
+ or are poorly documented, making filter development not an easy task. E.g.
+ the MS-Word format partially contains binary object code, making it very difficult
+ to parse. If MS-Office should offer XML as a file format in its next versions,
+ this will be much easier.</para>
+<para>
+Filters for WinWord, Applixword, DocBook, LaTex, Abiword, ASCII, HTML and RTF are being
+ worked on; however, they differ in functionality and maturity. For proprietary binary
+ formats like WinWord an export filter is not likely to be ever written.</para>
+</answer></qandaentry>
+</qandadiv>
+<qandadiv id="kspread"><title>KSpread</title>
+
+<qandaentry><question><para> What is &KSpread;?</para></question><answer>
+<para>
+KSpread is the spread sheet application of the &KOffice;. </para>
+</answer></qandaentry>
+
+<qandaentry><question><para> What is its current state?</para></question><answer>
+<para>
+KSpread is part of the stable releases of &KOffice;.</para>
+
+</answer></qandaentry><qandaentry><question><para> Is it possible to implement new functions for &KSpread;?</para></question><answer>
+<para>
+Yes. Using &KSpread;'s formula language KoScript you can easily add new functionality to
+KSpread.</para>
+
+</answer></qandaentry><qandaentry><question><para> Are there import filters for Excel, StarCalc, 1-2-3, ... ?</para></question><answer>
+<para>
+There is a filter manager for &KOffice; that allows the development of filters
+ for different formats. However, many of these file formats aren't documented
+ or are poorly documented, making filter development not an easy task. </para>
+<para>
+KSpread has a simple file filter for comma-separated tables, filters for ApplixSpread,
+ QPro and Excel 97 are also in the works. However, for proprietary binary formats like
+ Excel a corresponding export filter is not likely ever to be written.</para>
+</answer></qandaentry>
+</qandadiv>
+<qandadiv id="kpresenter"><title>KPresenter</title>
+
+<qandaentry><question><para> What is &KPresenter;?</para></question><answer>
+<para>
+KPresenter is the presentation application of the &KOffice;, similar to MS
+ Powerpoint in the windows world. You can use it for doing screen presentations
+ or transparencies.</para>
+
+</answer></qandaentry><qandaentry><question><para> What is its current state?</para></question><answer>
+<para>
+KPresenter is part of the stable releases of &KOffice;.</para>
+
+</answer></qandaentry><qandaentry><question><para> Are there import filters?</para></question><answer>
+<para>
+There is a filter manager for &KOffice; that allows the development of filters
+ for different formats. However, many of these file formats aren't documented
+ or are poorly documented, making filter development not an easy task. </para>
+<para>
+Currently, there aren't any filters for &KPresenter;; there's a start for a PowerPoint import
+ filter in the &KOffice; source tree, but this is not yet functional. You might help! :)
+ There's the very nice possibility of creating HTML pages with PNGs of your presentation.</para>
+</answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="kontour"><title>Kontour</title>
+<qandaentry><question><para> What happened to &Kontour;?</para></question><answer>
+<para>
+Kontour (formerly known as KIllustrator which had to be changed due to legal reasons) 
+used to be a vector drawing program similar to Corel Draw or Adobe
+Illustrator. This program is not being actively maintained anymore. The &Karbon14; 
+vector drawing application has taken its place.</para></answer></qandaentry>
+<qandaentry><question><para>
+But then what can I do with my old &Kontour; files?
+</para></question><answer><para>
+There is a filter in the works which will allow to open old &Kontour; files in
+&Karbon14;, so you can then save them in the new &Karbon14; format. This filter is
+not yet complete but you can already find a version in 
+<filename>koffice/filters/karbon/kontour</filename>.
+</para></answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="karbon14"><title>Karbon14</title>
+<qandaentry><question><para>What is &Karbon14;?</para></question>
+<answer><para>
+&Karbon14; is a vector graphics application, similar to Corel Draw or Adobe Illustrator. 
+In the &KOffice; suite, &Karbon14; has taken the place of the now unmaintained &Kontour;
+application.
+</para></answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="kivio"><title>Kivio</title>
+<qandaentry><question><para>What is &Kivio;?</para></question>
+<answer><para>Kivio is a flowcharting application, similar to the well known Visio.
+However, flowcharting is not the only thing you can do with it. Using different stencil
+sets you can use it for many different kinds of diagrams.</para></answer></qandaentry>
+<qandaentry><question><para>Where can I find more information on &Kivio;?</para></question>
+<answer><para>Kivio is contributed and maintained by <ulink url="http://www.thekompany.com">The
+Kompany</ulink>. They have a homepage for it at <ulink url="http://www.thekompany.com/projects/kivio">
+http://www.thekompany.com/projects/kivio</ulink>.</para></answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="kugar"><title>Kugar and Kudesigner</title>
+<qandaentry><question><para>What is &Kugar;?</para></question>
+<answer><para>&Kugar; is a template-based business-quality xml report generation tool.</para></answer></qandaentry>
+<qandaentry><question><para>What is &Kudesigner;?</para></question>
+<answer><para>&Kudesigner; is a WYSIWYG GUI report template designer for the Kugar report 
+engine.</para></answer></qandaentry>
+<qandaentry><question><para>Where can I find more information on &Kugar; and &Kudesigner;?</para></question>
+<answer><para>&Kugar; and &Kudesigner; are maintained by Alexander Dymo 
+&lt;<ulink url="mailto:cloudtemple at mksat dot net">cloudtemple at mksat dot net</ulink>&gt;.
+The &Kugar; homepage is <ulink url="http://www.thekompany.com/projects/kugar">http://www.thekompany.com/projects/kugar</ulink>, also a 
+maintainer's homepage is <ulink url="http://www.cloudtemple.mksat.net">http://www.cloudtemple.mksat.net</ulink>.</para></answer></qandaentry>
+<qandaentry><question><para>Are &Kugar; and &Kudesigner; multi-platform?</para></question>
+<answer><para>
+The &Kugar; report engine is written in pure Qt, so it can be used on Mac and 
+Windows platforms, too. &Kudesigner; is a KDE application, so like the rest of KDE it can be used
+on Unix/X11 platforms only.</para><para>
+However, there is a Qt version of &Kugar; report designer. Its sources can be
+downloaded from <ulink url="http://www.cloudtemple.mksat.net">http://www.cloudtemple.mksat.net</ulink> 
+and compiled on the Mac and Windows platforms. Note that the Qt-edition of the report designer 
+is somewhat outdated, so please first contact the maintainer 
+(Alexander Dymo &lt;<ulink url="mailto:cloudtemple at mksat dot net">cloudtemple at mksat dot net</ulink>&gt;)
+before using it.
+</para></answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="krita"><title>Krita</title>
+
+<qandaentry><question><para> What is &Krita;?</para></question><answer>
+<para>
+Krita is an image processor for &KOffice;, which should be suitable for
+ all your image creation and editing needs.</para>
+<para><emphasis>Please note that &Krita; is not yet part of &KOffice; stable releases.</emphasis></para>
+</answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="other"><title>Other &KOffice; programs</title>
+<qandaentry><question><para> What's &KChart;/&KDiagram; and what's the difference?</para></question>
+<answer>
+<para>
+Both &KChart; and &KDiagram; were &KOffice; parts for generating diagrams from data,
+ e.g. pie and bar charts. They have been merged, and only &KChart; exists now.</para>
+</answer></qandaentry>
+</qandadiv>
+
+<qandadiv id="contrib"><title>Contributing to KOffice</title>
+<qandaentry><question><para> I like this project! How can I contribute?</para></question>
+<answer>
+<para>
+Great. There are many fields, where help is needed (in fact, all fields).
+ You might:</para>
+
+<itemizedlist>
+<listitem><para>help programming. This means development work on the main applications, new
+ applications, filters (desperately needed!), plugins and datatools, more
+ functions for &KSpread; ...</para></listitem>
+<listitem><para><ulink url="http://koffice.kde.org/getinvolved/doc-help.html">write documentation</ulink></para></listitem>
+<listitem><para>translate &KOffice;</para></listitem>
+<listitem><para>draw graphics</para></listitem>
+<listitem><para>help maintaining the web page</para></listitem>
+<listitem><para>fix small bugs if you find them and send a patch to <email>koffice at kde dot org</email>.</para></listitem>
+<listitem><para><ulink url="http://koffice.kde.org/support.phtml">
+donate</ulink> money or hardware :-) Yes, this is needed in free software
+development, too :)
+</para></listitem> </itemizedlist>
+
+<para>If you want to help the &KOffice; developers (or even become one) please
+<ulink url="http://koffice.kde.org/contact.phtml#lists">subscribe</ulink> to our
+mailing lists so you know what's needed and we avoid duplicating work.
+Please don't be angry if you don't get instant replies - everybody has a lot to do.
+</para> </answer> </qandaentry>
+
+<qandaentry><question><para> I
+want to help with documentation. How do I start?</para></question> <answer>
+<para> Have a look at the <filename>doc</filename>-directory and its
+subdirs in the &KOffice; sources. In
+<filename>README.documentation</filename> you can see an (incomplete) list
+of tasks and who they're assigned to. Pick what you like best and contact
+the person in charge or put yourself in charge if nobody has started yet.
+As I can't assure <filename>README.documentation</filename> will always be
+up-to-date, you may first want to send a mail to all mentioned authors,
+saying hello and such. They can help you to get a start and can answer
+questions.</para> <para>
+Our documentation markup language of choice is DocBook. You might want to
+subscribe to <email>kde-docbook at kde dot org</email>, where DocBook-related questions can be
+asked. Please visit <ulink url="http://i18n.kde.org">http://i18n.kde.org</ulink>
+for more information and a DocBook crash course.</para>
+<para>
+If you don't know DocBook and don't want to learn it, you can still work on
+documentation by writing plain text. Send it to me (Jost Schenck)
+<email>jost at schenck dot de</email>. Either I'll convert it and check it in or I'll
+send it to the person that's in charge of this right now. Note that it's easier for
+us if you send us plain text rather than HTML.
+</para>
+</answer>
+</qandaentry>
+<qandaentry><question><para> I want to write filters. How do I start?</para></question>
+<answer>
+<para>
+Werner Trobin <email>trobin at kde dot org</email> is the one you need to talk
+ to. Werner has uploaded <ulink url="http://koffice.kde.org/filters/index.phtml">useful information on filters</ulink>
+ to the KOffice web page.
+</para>
+</answer>
+</qandaentry>
+<qandaentry><question><para> I want to help with application XYZ. How do I start?</para></question>
+<answer>
+<para>
+Just write to <email>koffice at kde dot org</email> or subscribe and write to
+<email>koffice-devel at kde dot org</email> (koffice-devel is only open for postings
+by subscribed people) and tell us what you want to work on.
+</para>
+</answer>
+</qandaentry>
+<qandaentry><question><para> I want to write a new KOffice application. How do I start?</para></question>
+<answer>
+<para>
+In the CVS module <filename>koffice</filename> you'll find an
+example program. This program is probably a good start for your own KOffice compliant
+application. Additionally, you might want to use <application>kdoc</application> on
+the headers in <filename>koffice/lib/*</filename> to get library documentation.
+You'll find <application>kdoc</application> in the CVS module <filename>kdoc</filename>.
+</para>
+</answer>
+</qandaentry>
+
+<!--
+<qandaentry><question><para> I want to do graphics. How do I start?</para></question>
+<answer>
+<para>
+Please subscribe to kde-artists at kde dot org.
+</para>
+</answer>
+</qandaentry>
+<qandaentry><question><para> I want to donate money or hardware!</para></question>
+<answer>
+<para>
+</para>
+</answer>
+</qandaentry>-->
+</qandadiv>
+
+<qandadiv id="kparts"><title>KParts - the underlying component model</title>
+<qandaentry><question><para> What is this KParts you're always talking about?</para></question>
+<answer>
+<para>
+Long ago the &KOffice; was based on the KOM/OP component model, which itself was based
+ on the CORBA standard for communication between distributed objects.
+ The new component model is named KParts (formerly known as canossa) and it's based
+ on shared libs. The new IIPC/RPC mechanism is called <application>dcop</application>.</para>
+<para>
+In the "silent" world of a normal unix desktop, an application can be
+ more or less integrated into the desktop environment, but normally it will
+ run absolutely isolated from other applications. All these applications try
+ on their own to be powerful and easy to use. Now, one application offers certain
+ features to the user and a different application may offer some similar features,
+ although for a different task. The programmers of both applications have to implement
+ things somebody else already has implemented. They might implement it in a
+ slightly different way, so the user is confused when switching applications.
+ Bugs are fixed in just one of the applications. Several programmers spend working time
+ on reinventing the wheel instead of concentrating on other things.</para>
+<para>
+In the world of components this is different. Applications are not isolated
+ anymore but are in contact with eachother. An application doesn't just offer
+ its services to the user - it can also offer it to other applications. A word
+ processor and an HTML editor might both need a spell checker; instead of implementing
+ it again, both programs ask a third application for its spell checking services.
+ An application that's specialized on spell checking. As the number of useful
+ components grows, every application starts working in a large bazaar where
+ every service can be offered by a specialist. This way components
+<itemizedlist>
+<listitem><para>reduce development time (because large parts of applications can just
+ be plugged in rather than reinventing the wheel)</para></listitem>
+<listitem><para>reduce maintenance difficulties (every wheel that's reinvented needs bugfixing
+ time of its own)</para></listitem>
+<listitem><para>make programs much more powerful (because features can be plugged in that
+ would otherwise be too difficult to implement for just one programmer)</para></listitem>
+<listitem><para>make programs more flexible (they can adjust themselves according to the
+ components that exist on the system they run on)</para></listitem>
+<listitem><para>realize compound documents and similar things.</para></listitem>
+</itemizedlist> </para>
+
+</answer></qandaentry>
+<qandaentry><question><para> I want deeper knowledge about these technologies - where do I find it?</para></question>
+<answer>
+<para>
+There already was some documentation on the CORBA based component model; I don't
+ know how much there is for KParts. Anyway, as KParts is <emphasis>much</emphasis>
+ easier to program than the old CORBA stuff was, it won't be difficult for you
+ to get into it. A good start is the example program you'll find in the <filename>koffice</filename>
+ module. Just modify it to fit your needs. Regarding dcop, take a look
+ at the HOWTO file in <filename>kdelibs/dcop</filename>.</para>
+<para>
+New documentation on KDE development will normally somewhen appear on
+<ulink url="http://developer.kde.org">http://developer.kde.org</ulink>.</para>
+</answer>
+</qandaentry>
+</qandadiv>
+</qandaset>
+</article>

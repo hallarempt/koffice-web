@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+901c01e4c6e301a76155b5e73f141608  koffice-1.2.91.tar.bz2
+c9df3de027d729e8597cb8fc408bf114  koffice-i18n-1.2.91.tar.bz2
+aaded13451883cb25dbe95cd341a30ea  koffice-i18n-af-1.2.91.tar.bz2
+b9bcb84d1acf0d3c7d1e6994b6a720ca  koffice-i18n-bg-1.2.91.tar.bz2
+38a82cf714574146e82a0c2ca36cae29  koffice-i18n-ca-1.2.91.tar.bz2
+bc3004b2763d00e79766984a16c2d4ac  koffice-i18n-cs-1.2.91.tar.bz2
+edd4b108e98e4fe58ae2761255a490f5  koffice-i18n-da-1.2.91.tar.bz2
+ce16ee6f8bdc3ca5db4972c3dd795343  koffice-i18n-de-1.2.91.tar.bz2
+55926f7dfc033cf742e3adfff8e20272  koffice-i18n-el-1.2.91.tar.bz2
+e70b9850118faf063a4b371e39727352  koffice-i18n-en_GB-1.2.91.tar.bz2
+3731ec785338fa733739600976e930a4  koffice-i18n-eo-1.2.91.tar.bz2
+c37ce78d0f776c180187299ae88b045d  koffice-i18n-es-1.2.91.tar.bz2
+9e85a62822d9e3b2629335b6b885a1eb  koffice-i18n-et-1.2.91.tar.bz2
+d56bcaded194633db3f6494bbb4cb8ed  koffice-i18n-fa-1.2.91.tar.bz2
+e22c87d147804e4ecfea4744936a90af  koffice-i18n-fr-1.2.91.tar.bz2
+36eb0aa2cc7a4ea98eb27f14ffc99160  koffice-i18n-he-1.2.91.tar.bz2
+0b6936b29f52ae09c8757e26fd8eb896  koffice-i18n-hu-1.2.91.tar.bz2
+e0f262e0706e035dde1c896e02f4fc81  koffice-i18n-it-1.2.91.tar.bz2
+6ee719f2880273684fed19cd24955759  koffice-i18n-ja-1.2.91.tar.bz2
+b1297f47b234354d588f020b22c88b6e  koffice-i18n-lo-1.2.91.tar.bz2
+1ff327b1e870368f0bb242ea307fc237  koffice-i18n-nb-1.2.91.tar.bz2
+96ae5e8b7ede66c1d9e479b4dbdd8643  koffice-i18n-pt-1.2.91.tar.bz2
+6aacf2fb03acc30283404ef3bc95a7ef  koffice-i18n-pt_BR-1.2.91.tar.bz2
+843ca1b44c1c025f17b5a6b3188571c1  koffice-i18n-ru-1.2.91.tar.bz2
+c8a4e632a6b6a2cdd8fcf0640aaa637e  koffice-i18n-sk-1.2.91.tar.bz2
+0aca338d11aa5cc30b4d0843f218a866  koffice-i18n-sv-1.2.91.tar.bz2
+1f129870df4174d555017dadd6d2d151  koffice-i18n-zh_CN-1.2.91.tar.bz2
+b79e9688be98f493c38588c6efd902e9  koffice-i18n-zh_TW-1.2.91.tar.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.2-rc1-SuSE (GNU/Linux)
+
+iD4DBQE+8G9LdfhL7nWSO+4RAh5nAJ9l7cfRyboj/Wbnie0y/le/CyYQagCXbeDq
++sIBGfQ4LeaSycsKukLMWg==
+=eaRX
+-----END PGP SIGNATURE-----

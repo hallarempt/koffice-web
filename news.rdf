@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE rss SYSTEM "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+  <channel>
+    <title>koffice.org: KOffice Integrated Suite</title>
+    <link>http://www.koffice.org/</link>
+    <description>KOffice is an office suite integrated with KDE</description>
+    <language>en-us</language>
+    <webMaster>webmaster@kde.org (Webmaster)</webMaster>
+    <copyright>Copyright (c) 2003, KOffice.org Webmaster</copyright>
+
+<item>
+<title>KOffice 1.3 beta2 released</title>
+<date>18th June, 2003</date>
+<fullstory>
+<p>The second beta version of KOffice 1.3 is available. See the short <a href="/releases/1.3beta2-release.phtml">release notes</a>
+and the complete <a href="/announcements/changelog-1.3beta2.phtml">list of changes</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.3 beta1 released</title>
+<date>23rd April, 2003</date>
+<fullstory>
+<p>The first beta version of KOffice 1.3 is available. See the <a href="/announcements/announce-1.3-beta1.phtml">announcement</a>
+and the complete <a href="http://www.koffice.org/announcements/changelog-1.3beta1.phtml">list of changes</a>.</p>
+<p>It comes with many new features, improvements and new filters, but also probably a few bugs for you to find and
+<a href="http://bugs.kde.org">report</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>Fix available for KWord crashes</title>
+<date>28th January, 2003</date>
+<fullstory>
+<p>A <a href="/bugfixes/1.2.1_kword_crashes.diff">fix</a> is available for two kword crashs when closing the "Insert Special Character" dialog and when updating the Table Of Contents.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.2.1 available</title>
+<date>12th December, 2002</date>
+<fullstory>
+<p>The final version of KOffice 1.2.1 has just been released. See the <a href="/announcements/announce-1.2.1.phtml">announcement</a> and the <a href="/announcements/changelog-1.2.1.phtml">full changelog</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>Fix available for KSpread crashes</title>
+<date>21st October, 2002</date>
+<fullstory>
+<p>A <a href="/bugfixes/1.2_kspread_obscured_cells.diff">fix</a> is available for kspread's crashes when working with long text which overlaps several cells or when working with merged cells.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.2 released</title>
+<date>10th September, 2002</date>
+<fullstory>
+<p>The final version of KOffice 1.2 has just been released. See the <a href="/announcements/announce-1.2.phtml">announcement</a> and the <a href="/announcements/changelog-1.2.phtml">full changelog</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.2-rc1 for KDE 3</title>
+<date>09th August, 2002</date>
+<fullstory>
+<p>The release candidate of KOffice 1.2 has just been released. See the <a href="/announcements/announce-1.2-rc1.phtml">announcement</a> and the <a href="/announcements/changelog-1.2rc1.phtml">full changelog</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.2-beta2 for KDE 3</title>
+<date>27th June, 2002</date>
+<fullstory>
+<p>A second beta of KOffice 1.2 has just been released. See the <a href="/announcements/announce-1.2-beta2.phtml">announcement</a> and the <a href="/announcements/changelog-1.2beta2.phtml">full changelog</a>.</p>
+<p>The highlights of this release are: KWord Footnotes and KSpread Database Connectivity. Try it out!</p>
+</fullstory>
+</item>
+
+<item>
+<title>HancomWord filter</title>
+<date>09th June, 2002</date>
+<fullstory>
+<p><a href="mailto:ariya@kde.org">Ariya Hidayat</a> has added a HancomWord 2.0 import filter for KWord.</p>
+<p>Look at the filter <a href="filters/status.phtml">status</a> page for more information.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.2-beta1 for KDE 3</title>
+<date>25th April, 2002</date>
+<fullstory>
+<p>The first beta of KOffice 1.2 is available. See the <a href="/announcements/announce-1.2-beta1.phtml">announcement</a>.</p>
+<p>It comes with many new features and improvements, but also probably a few bugs for you to find and report.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.1.1 for KDE 3</title>
+<date>3rd April, 2002</date>
+<fullstory>
+<p>KOffice 1.1.1 for KDE 3 is available. See the <a href="http://www.kde.org/announcements/announce-3.0.html">KDE 3 announcement</a> for more details.</p>
+<p>Meanwhile, work continues on the KOffice 1.2 which will only work on KDE 3.</p>
+</fullstory>
+</item>
+
+<item>
+<title>Dbase filter</title>
+<date>31st March, 2002</date>
+<fullstory>
+<p><a href="mailto:ariyahidayat@yahoo.de">Ariya Hidayat</a> has added a dBase import filter for KSpread.</p>
+<p>Look at the filter <a href="filters/status.phtml">status</a> page for more information.</p>
+</fullstory>
+</item>
+
+<item>
+<title>Interview with KOffice developers</title>
+<date>8th March, 2002</date>
+<fullstory>
+<p>An <a href="http://www.freehackers.org/fosdem2002/koffice.html">interview</a> was conducted with the KOffice developers at FOSDEM.</p>
+</fullstory>
+</item>
+
+<item>
+<title>Lotus AmiPro filter</title>
+<date>28th February, 2002</date>
+<fullstory>
+<p><a href="mailto:ariya@tf.itb.ac.id">Ariya Hidayat</a> has added a Lotus AmiPro filter for kword.</p>
+<p>Look at the filter <a href="filters/status.phtml">status</a> page for more information.</p>
+</fullstory>
+</item>
+
+<item>
+<title>Karbon moved to KOffice</title>
+<date>23th February, 2002</date>
+<fullstory>
+<p>Karbon, a promising vector graphics program, has outgrown its breeding place in kdenonbeta. It's now part of KOffice, although it's not compiled by default. Have <a href="http://www.xs4all.nl/~rwlbuis/karbon/">a look</a> at some work-in-progress screenshots.</p>
+</fullstory>
+</item>
+
+
+<item>
+<title>KOffice 1.2 Release Schedule online</title>
+<date>11th February, 2002</date>
+<fullstory>
+<p><a href="mailto:david@mandrakesoft.com">David Faure</a>, the KOffice release coordinator, announced a preliminary
+<a href="http://developer.kde.org/development-versions/koffice-1.2-release-plan.html">release schedule</a> for KOffice 1.2.</p>
+</fullstory>
+</item>
+
+<item>
+<title>New filters added to KOffice</title>
+<date>10th February, 2002</date>
+<fullstory>
+<p>The following new import and export filters have been added to KOffice:</p>
+<ul><li>KWord -- import and exportfilter for <b>palmdoc</b> documents</li>
+<li>KWord -- import filter for <b>MS Write</b> documents</li>
+<li>KWord -- import and export filter for <b>WML</b> (Wireless Markup Language) documents</li>
+<li>All applications: import and export filter for <b>XSLT</b> (eXtensible Stylesheet Language for Transformations)</li>
+</ul>
+<p>Look at the filter <a href="filters/status.phtml">status</a> page for more information.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.1.1 released</title>
+<date>18th December, 2001</date>
+<fullstory>
+<p>KOffice 1.1.1, a bug fix release of KOffice 1.1, has just been released. Read the announcement <a href="/announcements/announce-1.1.1.phtml">here</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.1 released</title>
+<date>29th August, 2001</date>
+<fullstory>
+<p>The second "stable" version of KOffice (after 1.0) is now available, and
+is a major step forward in terms of features and stability.
+Read the announcement <a href="/announcements/announce-1.1.phtml">here</a>.
+</fullstory>
+</item>
+
+<item>
+<title>KOffice API Reference online</title>
+<date>23rd July, 2001</date>
+<fullstory>
+<p>For programmers the one thing that is needed is good documentation, today we have brought online the up-to-date <a href="developer/">class-reference documentation</a> for the KOffice project.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KIllustrator now known as Kontour</title>
+<date>16th July, 2001</date>
+<fullstory>
+<p>Due to trademark problems the authors have chosen to rename our vector-illustrations
+application to <b>Kontour</b>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.1 Beta 3 available for download</title>
+<date>26th June, 2001</date>
+<fullstory>
+<p>The third beta of KOffice 1.1 has been released today. The announcement
+is available <a href="/announcements/announce-1.1-beta3.phtml">here</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>New Release Notes section</title>
+<date>26th May, 2001</date>
+<fullstory>
+<p>A new <a href="/releases/">Release Notes</a> section has been added to the web site. The aim of the section is to provide easy access to various resources such as important bug fixes, Changelogs, and the Announcement.<p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.1 Beta 2 released</title>
+<date>22nd May, 2001</date>
+<fullstory>
+<p>A second beta of KOffice 1.1 has been released today. The announcement
+is available <a href="/announcements/announce-1.1-beta2.phtml">here</a>.</p>
+</fullstory>
+</item>
+
+<item>
+<title>kdelibs 2.1.2 released</title>
+<date>1st May, 2001</date>
+<fullstory>
+<p>kdelibs 2.1.1 has now been released. It includes security updates, and updates for KOffice. Please see <a href="http://www.kde.org">the KDE web site</a> for further details.</p>
+</fullstory>
+</item>
+
+<item>
+<title>KOffice 1.1 Beta 1 released</title>
+<date>25th April, 2001</date>
+<fullstory>
+<p>The KOffice Team released the Beta 1 of the sophisticated office suite for
+KDE. The dot story (including press announcement) is <a href="http://dot.kde.org/988157966/">here</a>,
+a <a href="/announcements/changelog-1.1.phtml">ChangeLog</a> is also available.
+</p>
+<p>Go get it and report all bugs you can find!
+</p>
+</fullstory>
+</item>
+
+</channel>
+</rss>

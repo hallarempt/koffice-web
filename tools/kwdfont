@@ -1,0 +1,75 @@
+#!/usr/bin/perl -w
+use strict;
+
+
+my $fontfile;
+my $fontname;
+my $familyname;
+my $kfontname;
+
+$fontfile=shift @ARGV;
+
+if ( $fontfile=~/ttf$/i )
+{
+	$familyname=`ttf2pt1 -A  $fontfile  - 2>/dev/null|grep ^FamilyName`;
+	$fontname=`ttf2pt1 -A  $fontfile  - 2>/dev/null|grep ^FontName`;
+}
+elsif ( $fontfile=~/pfb$/i || $fontfile=~/pfa$/i )
+{
+	$fontfile=~s/pf[ab]$/afm/i;
+	$familyname=`grep ^FamilyName $fontfile`;
+	$fontname=`grep ^FontName $fontfile`;
+}
+else
+{
+	print STDERR "Error : can't identify font type for $fontfile";
+	exit;
+}
+	
+
+
+$familyname=~s/FamilyName\s*//;
+$fontname=~s/FontName\s*//;
+
+
+chomp $familyname;
+chomp $fontname;
+
+# for some reason, chomp doesn't remove ^M. 
+$fontname=~s/\015$//;
+$familyname=~s/\015$//;
+
+
+$kfontname=getkname( $fontname, $familyname );
+
+print "/" . "$kfontname" . "\t\t/" . "$fontname" . "	;\n";
+
+sub getkname
+{
+	my $fn=shift;
+	my $familyname=shift;
+	my $kfn = $familyname;
+	
+	$kfn=~s/([^ ])([A-Z])/$1 . lc($2)/eg;
+
+	if 	( $fn=~/[-_]bold[-_]?italic/i )
+	{ 
+		$kfn="$kfn-BoldItalic";
+	} 
+	elsif ( $fn=~/[-_]italic/i )
+	{ 
+		$kfn="$kfn-Italic";
+	}
+	elsif ( $fn=~/[-_]bold/i )
+	{ 
+			$kfn="$kfn-Bold";
+	}
+	else
+	{
+		$kfn="$kfn-Roman";
+	}
+		$kfn=~s/\s//g;
+
+	return $kfn;
+}
+

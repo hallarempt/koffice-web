@@ -1,0 +1,80 @@
+Index: GDocument.cc
+===================================================================
+RCS file: /home/kde/koffice/killustrator/GDocument.cc,v
+retrieving revision 1.94
+retrieving revision 1.95
+diff -u -p -r1.94 -r1.95
+--- GDocument.cc	2001/06/16 08:24:16	1.94
++++ GDocument.cc	2001/06/22 13:45:47	1.95
+@@ -163,7 +163,7 @@ void GDocument::movePage( int from, int 
+ 
+   if ( to > static_cast<int>(pages.count()) )
+   {
+-   kdDebug(0) << "?" <<endl;
++   kdDebug(38000) << "?" <<endl;
+   }
+   else
+   {
+@@ -205,7 +205,8 @@ void GDocument::setAutoUpdate (bool flag
+   if (autoUpdate)
+   {
+     selBoxIsValid = false;
+-    activePage()->updateHandle ();
++    assert( active_page );
++    active_page->updateHandle ();
+     emit changed ();
+   }
+ }
+@@ -303,18 +304,23 @@ bool GDocument::readFromXml (const  QDom
+     }
+ 
+     pages.clear ();
++    active_page = 0;
+     QDomNode n = killustrator.firstChild();
+     while(!n.isNull())
+     {
+       QDomElement pe=n.toElement();
+-      kdDebug(0) << "Tag=" << pe.tagName() << endl;
++      kdDebug(38000) << "Tag=" << pe.tagName() << endl;
+       if (pe.tagName() == "page")
+       {
+         GPage *page = addPage();
++        if ( !active_page )
++            active_page = page;
+         page->readFromXml(pe);
+       }
+       n=n.nextSibling();
+     }
++    if ( !active_page )
++        kdWarning(38000) << "No page found !" << endl;
+ 
+     setModified (false);
+     emit gridChanged ();
+@@ -345,10 +351,9 @@ bool GDocument::readFromXml (const  QDom
+ 
+     pages.clear ();
+ 
+-    GPage *page = addPage();
+-    page->readFromXmlV2(killustrator);
+-
+-    page->setName(i18n("Page %1").arg(1));
++    active_page = addPage();
++    active_page->readFromXmlV2(killustrator);
++    active_page->setName(i18n("Page %1").arg(1));
+     curPageNum = 2;
+ 
+     setModified (false);
+
+--- KIllustrator_view.cc-old	Wed Jun 27 13:46:10 2001
++++ KIllustrator_view.cc	Wed Jun 27 13:49:40 2001
+@@ -1095,6 +1095,9 @@ void KIllustratorView::slotSelectTool( b
+ 
+ bool KIllustratorView::eventFilter(QObject *o, QEvent *e)
+ {
++    if(!tcontroller ||!tcontroller->getActiveTool() )
++        return false;
++
+    if ((e==0) || (tcontroller->getActiveTool()->id()==Tool::ToolSelect))
+       return false;
+ 
+

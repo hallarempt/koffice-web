@@ -1,0 +1,37 @@
+cvs -f diff -bp -u -r1.236 -r1.237 kwdoc.cc
+Index: kwdoc.cc
+===================================================================
+RCS file: /home/kde/koffice/kword/kwdoc.cc,v
+retrieving revision 1.236
+retrieving revision 1.237
+diff -b -p -u -r1.236 -r1.237
+--- kwdoc.cc	2001/06/24 00:23:35	1.236
++++ kwdoc.cc	2001/06/26 22:14:27	1.237
+@@ -1595,7 +1595,8 @@ bool KWDocument::completeLoading( KoStor
+             m_imageCollection.readFromStore( _store, *m_pixmapMap, prefix );
+             delete m_pixmapMap;
+             m_pixmapMap = 0L;
+-        } else if ( m_clipartMap ) {
++        }
++        if ( m_clipartMap ) {
+             m_clipartCollection.readFromStore( _store, *m_clipartMap, prefix );
+             delete m_clipartMap;
+             m_clipartMap = 0L;
+@@ -1805,7 +1806,7 @@ QDomDocument KWDocument::saveXML()
+         }
+         if ( !frameSet->isDeleted() && frameSet->type() == FT_CLIPART )
+         {
+-            KoClipartKey key = static_cast<KWPictureFrameSet *>( frameSet )->key();
++            KoClipartKey key = static_cast<KWClipartFrameSet *>( frameSet )->key();
+             if ( !saveCliparts.contains( key ) )
+                 saveCliparts.append( key );
+         }
+@@ -1893,7 +1894,7 @@ bool KWDocument::completeSaving( KoStore
+         }
+         if ( !frameSet->isDeleted() && frameSet->type() == FT_CLIPART )
+         {
+-            KoClipartKey key = static_cast<KWPictureFrameSet *>( frameSet )->key();
++            KoClipartKey key = static_cast<KWClipartFrameSet *>( frameSet )->key();
+             if ( !saveCliparts.contains( key ) )
+                 saveCliparts.append( key );
+         }

@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+5f08ec8a42aacd7dcaf7899d486c9885  koffice-1.2.90.tar.bz2
+bf68b267ba17c95464ddbfb297648674  koffice-i18n-1.2.90.tar.bz2
+96cbf10f66cee8111031899a4cf2d6ef  koffice-i18n-af-1.2.90.tar.bz2
+9246452f853159ddb60499b24a6c387f  koffice-i18n-bg-1.2.90.tar.bz2
+7031d2f771702dd6ed2e79a014570d81  koffice-i18n-ca-1.2.90.tar.bz2
+20eb444dca23ff2ec9ffee3c492c9c0d  koffice-i18n-cs-1.2.90.tar.bz2
+996bc200bae712a536acdd522f0a4e8e  koffice-i18n-da-1.2.90.tar.bz2
+73880a67a00db76a40fd5bff02e85735  koffice-i18n-de-1.2.90.tar.bz2
+ca4c0d45c371ee294ef456f840c571f7  koffice-i18n-el-1.2.90.tar.bz2
+5e00d1ec16c0e33586b4b89758a1f699  koffice-i18n-en_GB-1.2.90.tar.bz2
+069e517964e6aa18f5312d0cdb1a4bbc  koffice-i18n-eo-1.2.90.tar.bz2
+9dd11233ce5208ee1f45d64aa448be6e  koffice-i18n-es-1.2.90.tar.bz2
+ced7d0253cf3f2f54117ae0766918465  koffice-i18n-et-1.2.90.tar.bz2
+a823beeeac4945ccd207bfd40dc9e498  koffice-i18n-fr-1.2.90.tar.bz2
+d7863eaf721474020250c707aee1d2ce  koffice-i18n-he-1.2.90.tar.bz2
+2e7baae647d8387473f57463dda432d2  koffice-i18n-hu-1.2.90.tar.bz2
+87f557a8eadef43aaa80c4a0dd55d6d7  koffice-i18n-it-1.2.90.tar.bz2
+575e921e97558f9f78314347db746a68  koffice-i18n-ja-1.2.90.tar.bz2
+bb5077ebfd47b0c2002f215658a16784  koffice-i18n-lo-1.2.90.tar.bz2
+4edbf42a10da6185c21d836e61004979  koffice-i18n-lv-1.2.90.tar.bz2
+b23e352bc85b1e1e2c9cfc1b4751c537  koffice-i18n-mt-1.2.90.tar.bz2
+e9260bd190de1427dc165437c314f0ea  koffice-i18n-nb-1.2.90.tar.bz2
+e3eccbb9fbfba89fc4d05bbc95814fec  koffice-i18n-nl-1.2.90.tar.bz2
+d0d1904e69ef0f77a5a06f081535707e  koffice-i18n-nn-1.2.90.tar.bz2
+412de0a10e6c19ae3d430cbe9fd7e661  koffice-i18n-pl-1.2.90.tar.bz2
+236cc8da1423274616f5102a0accf94f  koffice-i18n-pt-1.2.90.tar.bz2
+1c4d1f85d9ec312e273debe191d9326f  koffice-i18n-pt_BR-1.2.90.tar.bz2
+5d07e41b16d575ffa8ad61dd87f8050c  koffice-i18n-ru-1.2.90.tar.bz2
+196ef7fdd443b6d3234cc2596c6b3d43  koffice-i18n-sk-1.2.90.tar.bz2
+17fef952be89d3afcd86b5f88f8a8a2c  koffice-i18n-sl-1.2.90.tar.bz2
+fa2db5f66eaf9371bc97523206a4a006  koffice-i18n-sr-1.2.90.tar.bz2
+955c5e7edc5c31dbccb9aac4dbfba191  koffice-i18n-sv-1.2.90.tar.bz2
+e1ffb873728516b54794d8eae6613670  koffice-i18n-tr-1.2.90.tar.bz2
+b6de99aecf0e7fbb2004633f96273fad  koffice-i18n-uk-1.2.90.tar.bz2
+27541d8040b74c1104c9fbcad093438c  koffice-i18n-ven-1.2.90.tar.bz2
+755f8483076f0de70517575ad42df0b8  koffice-i18n-xh-1.2.90.tar.bz2
+036fa2333ed268641e7d9cb6af842ba8  koffice-i18n-zh_CN-1.2.90.tar.bz2
+1337350f29a7ce8a00395db06e1bdf96  koffice-i18n-zh_TW-1.2.90.tar.bz2
+4f409e3c912287238226af78a99c0d14  koffice-i18n-zu-1.2.90.tar.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE+nqBYdfhL7nWSO+4RAlniAJ9TmVrnlKF25qT5UWueO5SMt1h+QwCfW6xY
+JgE9D2rBR3qSC9a70t693vw=
+=fwW3
+-----END PGP SIGNATURE-----

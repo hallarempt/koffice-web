@@ -1,0 +1,38 @@
+Index: kwtextparag.cc
+===================================================================
+RCS file: /home/kde/koffice/kword/kwtextparag.cc,v
+diff -b -p -u -r1.99 -r1.100
+--- kwtextparag.cc      2001/05/25 19:14:58     1.99
++++ kwtextparag.cc      2001/05/25 21:40:31     1.100
+@@ -890,6 +890,7 @@ void KWTextParag::setParagLayout( const
+     if ( flags & KWParagLayout::Tabulator )
+         setTabList( layout.tabList() );
+
++    if ( flags == KWParagLayout::All )
+     // Don't call setStyle from here, it would overwrite any paragraph-specific settings
+     setStyle( layout.style );
+ }
+Index: kwstyle.cc
+===================================================================
+RCS file: /home/kde/koffice/kword/kwstyle.cc,v
+diff -b -p -u -r1.12 -r1.13
+--- kwstyle.cc	2001/05/16 18:57:32	1.12
++++ kwstyle.cc	2001/05/25 00:41:59	1.13
+@@ -24,7 +24,7 @@
+ KWStyle::KWStyle( const QString & name )
+ {
+     m_name = name;
+-    m_followingStyle = 0L;
++    m_followingStyle = this;
+     m_format.setColor( Qt::black ); // ### why ? what about other color schemes ?
+     // This way, KWTextParag::setParagLayout also sets the style pointer, to this style
+     m_paragLayout.style = this;
+@@ -45,7 +45,7 @@ KWStyle::KWStyle( QDomElement & styleEle
+         kdWarning() << "No NAME tag in LAYOUT -> no name for this style!" << endl;
+ 
+     // m_followingStyle is set by KWDocument::loadStyleTemplates after loading all the styles
+-    m_followingStyle = 0L;
++    m_followingStyle = this;
+ 
+     QDomElement formatElem = styleElem.namedItem( "FORMAT" ).toElement();
+     if ( !formatElem.isNull() )

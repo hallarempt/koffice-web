@@ -1,0 +1,355 @@
+<!--	$Id$
+
+		This is an XML document type definition (DTD) for the KSpread
+		document format.
+		Written by Kalle Dalheimer <kalle@kde.org> with (obviously) input from
+		KSpread's author Torben Weis <weis@kde.org>.
+
+		Please report all bugs to Kalle and Torben at the above addresses.
+
+		Note that all tags are in fact lowercase.
+-->
+
+
+
+<!--	A KSpread document consists of a paper description and a map that
+		contains the table data.
+
+		Attributes:
+
+		author:		The document's author
+		email:		The document's author's email address
+		editor:		The program this file was written with
+		mime:		The MIME type (must always have the value application/x-kspread
+-->
+<!ELEMENT spreadsheet (paper, locale ,areaname, map)>  
+<!ATTLIST spreadsheet   author CDATA #IMPLIED
+                        email  CDATA #IMPLIED
+                        editor CDATA #IMPLIED
+                        mime   CDATA "application/x-kspread">
+
+<!--	Describes the page format. Can have no or one BORDERS child that
+		describes the margins.
+
+		Attributes:
+
+		format:			page format, e.g. "A4", "Letter", "Executive" etc.
+		orientation:		"Landscape" or "Portrait"
+-->
+<!ELEMENT paper (BORDERS|HEAD|FOOT)*>
+<!ATTLIST paper format CDATA #REQUIRED
+                orientation CDATA #REQUIRED>
+
+
+
+<!--	Describes the margins of the page.
+
+		Attributes:
+
+		left:			left margin in pixels
+		right:			right margin in pixels
+		top:			top margin in pixels
+		bottom:			bottom margin in pixels
+-->
+<!ELEMENT borders EMPTY>
+<!ATTLIST borders  left   CDATA #REQUIRED
+                   right  CDATA #REQUIRED
+                   top    CDATA #REQUIRED
+                   bottom CDATA #REQUIRED>
+
+
+<!--	Describes the page header.
+
+		Attributes:
+
+		left:			the text to appear in the upper left
+		center:			the text to appear in the upper middle
+		right:			the text to appear in the upper right
+-->
+<!ELEMENT head EMPTY>
+<!ATTLIST head  left     CDATA #IMPLIED
+                center   CDATA #IMPLIED
+                right    CDATA #IMPLIED>
+
+
+<!--	Describes the page footer.
+
+		Attributes:
+
+		left:			the text to appear in the lower left
+		center:			the text to appear in the lower middle
+		right:			the text to appear in the lower right
+-->
+<!ELEMENT foot EMPTY>
+<!ATTLIST foot	left	CDATA #IMPLIED
+                center  CDATA #IMPLIED
+                right   CDATA #IMPLIED>
+
+
+
+<!--	Contains locale format.
+
+	Attributes:
+
+        positivePrefixCurrencySymbol:
+        negativeMonetarySignPosition:
+        negativePrefixCurrencySymbol:
+        fracDigits:
+        thousandsSeparator:
+        dateFormat:
+        timeFormat:
+        monetaryDecimalSymbol:
+        weekStartsMonday:
+        currencySymbol:
+        negativeSign:
+        positiveSign:
+        positiveMonetarySignPosition:
+        decimalSymbol:
+        monetaryThousandsSeparator:
+        dateFormatShort:
+-->
+
+<!ELEMENT locale EMPTY>
+<!ATTLIST locale  positivePrefixCurrencySymbol   CDATA #REQUIRED
+                  negativeMonetarySignPosition   CDATA #REQUIRED
+                  negativePrefixCurrencySymbol   CDATA #REQUIRED
+                  fracDigits                     CDATA #REQUIRED
+                  thousandsSeparator             CDATA #REQUIRED
+                  dateFormat                     CDATA #REQUIRED
+                  timeFormat                     CDATA #REQUIRED
+                  monetaryDecimalSymbol          CDATA #REQUIRED
+                  weekStartsMonday               CDATA #REQUIRED
+                  currencySymbol                 CDATA #REQUIRED
+                  negativeSign                   CDATA #REQUIRED
+                  positiveSign                   CDATA #REQUIRED
+                  positiveMonetarySignPosition   CDATA #REQUIRED
+                  decimalSymbol                  CDATA #REQUIRED
+                  monetaryThousandsSeparator     CDATA #REQUIRED
+                  dateFormatShort                CDATA #REQUIRED>
+
+ 
+<!--	Contains the areaname for the various tables.
+        Attributes:
+        any
+-->
+<!ELEMENT areaname (reference)*>
+
+<!--	Contains the definition of an area.
+        Attributes:
+        any
+-->
+<ELEMENT reference (tabname,refname,rect)>
+
+<!ELEMENT tabname #PCDATA>
+
+
+<!ELEMENT refname #PCDATA>
+
+<!--	Describe the area selected.
+        Attributes:
+
+         left-rect   value of the left border
+         right-rect  value of the right border
+         bottom-rect value of the bottom border
+         top-rect    value of the top border
+-->
+<!ELEMENT rect  EMPTY>
+<!ATTLIST rect  left-rect      CDATA #IMPLIED
+                right-rect     CDATA #IMPLIED
+                bottom-rect    CDATA #IMPLIED
+                top-rect       CDATA #IMPLIED>
+
+
+<!--	Contains the table data for the various tables.
+
+	Attributes:
+        activeTable allows to set the active table
+        markerColumn and markerRow allow to set the active cell
+-->
+<!ELEMENT map (table)*>
+<!ATTLIST map  activeTable    CDATA #IMPLIED
+               markerColumn   CDATA #IMPLIED
+               markerRow      CDATA #IMPLIED>
+
+
+<!--	Contains the data in one table or embedded objects.
+
+		Attributes:
+
+		name	          the name of the table
+                columnnumber      display column header as number
+                borders           show/hide page border (hide = "0", show = "1") 
+                hide              hide/show table (hide ="1", show="0")
+                hidezero          don't show zero value (hide="1",show="0")
+                firstletterupper  Upper first letter (upper="1",nothing="0")
+                grid              show/hide grid (hide="1", show="0")
+                formular          show/hide formular
+                lcmode            write on LxCx area selected 
+-->
+<!ELEMENT table (cell|chart|column|row)*>
+<!ATTLIST table  name               CDATA #REQUIRED
+                 columnnumber       CDATA #REQUIRED
+                 borders            CDATA #REQUIRED     
+                 hide               CDATA #REQUIRED 
+                 hidezero           CDATA #REQUIRED
+                 firstletterupper   CDATA #REQUIRED
+                 grid               CDATA #REQUIRED
+                 formular           CDATA #REQUIRED
+                 lcmode             CDATA #REQUIRED>
+
+
+<!--	Describes one cell including contents.
+
+		Attributes:
+
+		row	the row number of the cell (starts at 1)
+		column	the column number of the cell (starts at 1)
+-->
+<!ELEMENT cell (text|format|validity|condition)*>
+<!ATTLIST cell  row      CDATA #REQUIRED
+                column   CDATA #REQUIRED>
+
+<!--    Describes the contents of the cell.
+        For instance, <text>My string</text> or
+	<text>=A4+B5</text>
+-->
+<!ELEMENT text #PCDATA>
+
+<!--	Describes the format of one cell.
+
+        TODO: describe attributes
+-->
+<!ELEMENT format (font?,pen?)>
+<!ATTLIST format        align            CDATA #REQUIRED
+                        alignY           CDATA #REQUIRED
+                        bgcolor          CDATA #REQUIRED
+                        multirow         CDATA #REQUIRED
+                        verticaltext     CDATA #REQUIRED
+                        precision        CDATA #REQUIRED
+                        prefix           CDATA #REQUIRED
+                        postfix          CDATA #REQUIRED
+                        float            CDATA #REQUIRED
+                        floatcolor       CDATA #REQUIRED
+                        faktor           CDATA #REQUIRED
+                        format           CDATA #REQUIRED
+                        angle            CDATA #REQUIRED
+                        brushcolor       CDATA #REQUIRED
+                        indent           CDATA #REQUIRED
+                        dontprinttext    CDATA #REQUIRED>
+
+
+<!ELEMENT pen EMPTY>
+<!ATTLIST pen           width            CDATA #REQUIRED
+                        style            CDATA #REQUIRED
+                        color            CDATA #REQUIRED>
+
+<!ELEMENT font EMPTY>
+<!ATTLIST font          size             CDATA #REQUIRED
+                        family           CDATA #REQUIRED
+                        weight           CDATA #REQUIRED>
+
+<!ELEMENT validity  (param,title,message,timemin,timemax)>
+
+<!--	Describes validate format.
+
+		Attributes:
+                        valmin  Minimal value of the validate condition         
+                        cond    type of condition (None, Equal, Superior etc...)         
+                        valmax  Maximal value of the validate condition         
+                        allow   type of value allows (ALL, NUmber etc...)         
+                        action  Action executes when it's not validate (Error, warning etc...)
+		
+-->
+<!ATTLIST param         valmin           CDATA #REQUIRED
+                        cond             CDATA #REQUIRED
+                        valmax           CDATA #REQUIRED
+                        allow            CDATA #REQUIRED
+                        action           CDATA #REQUIRED>
+
+<!ELEMENT title #PCDATA>
+
+<!ELEMENT message #PCDATA>
+
+<!ELEMENT timemin #PCDATA>
+
+<!ELEMENT timemax #PCDATA>
+
+<!--   Describes conditional cell attribut format.
+-->
+<!ELEMENT condition  (first | second | third)>
+
+
+<!--	Describes first conditon format.
+
+		Attributes:
+
+                       cond:  Define the condition apply on the cell (NONE, EQUAL etc...)
+                       val1:  Inferior value of condition
+                       val2:  Superior value of condition
+                       color: Color apply when condition is right
+-->
+
+<!ELEMENT first (font) >
+<!ATTLIST first         cond              CDATA #REQUIRED
+                        val1              CDATA #REQUIRED
+                        val2              CDATA #REQUIRED
+                        color             CDATA #REQUIRED>
+ 
+<!ELEMENT second (font) >
+<!ATTLIST second        cond              CDATA #REQUIRED
+                        val1              CDATA #REQUIRED
+                        val2              CDATA #REQUIRED
+                        color             CDATA #REQUIRED>
+
+<!ELEMENT third (font) >
+<!ATTLIST third         cond              CDATA #REQUIRED
+                        val1              CDATA #REQUIRED
+                        val2              CDATA #REQUIRED
+                        color             CDATA #REQUIRED>
+
+
+<!--	Describes one column
+
+		Attributes:
+
+		column	the column number
+		width	the width of the column
+-->
+<!ELEMENT column format>
+<!ATTLIST column  column  CDATA #REQUIRED
+                  width   CDATA #REQUIRED>
+
+
+<!--	Describes one row
+
+		Attributes:
+
+		row	the row number
+		height	the height of the row
+-->
+<!ELEMENT row format>
+<!ATTLIST row  row  CDATA #REQUIRED
+               height   CDATA #REQUIRED>
+
+
+<!--	Describes an embedded chart.
+
+		Attributes:
+
+		url		the URL of the embedded chart
+				(example: "store:/Table 1/0")
+		mime	the MIME type of the application that has generated
+				the chart
+-->
+<!ELEMENT chart (rect|binding)*>
+<!ATTLIST chart         url     CDATA #REQUIRED
+                        mime    CDATA #REQUIRED>
+
+<!ELEMENT rect EMPTY>
+<!ATTLIST rect  x        CDATA #REQUIRED
+                y        CDATA #REQUIRED
+                w        CDATA #REQUIRED
+                h        CDATA #REQUIRED>
+
+<!ELEMENT binding (rect)>
+

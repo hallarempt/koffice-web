@@ -11,17 +11,17 @@
   $appinfo->setIcon( "pics/hi48-app-kword.png", "48", "48");
   $appinfo->setVersion($kwordversion);
   $appinfo->setLicense("lgpl");
-  $appinfo->setCopyright("1998", "the KWord Team");
+  $appinfo->setCopyright("2001", "the KWord Team");
   $appinfo->addAuthor("Reginald Stadlbauer", "reggie@kde.org");
   $appinfo->addAuthor("Torben Weis", "weis@kde.org");
   $appinfo->addContributor("David Faure", "faure@kde.org");
   $appinfo->addContributor("Thomas Zander", "zander@kde.org");
   $appinfo->addContributor("Shaheed Haque", "srhaque@ieee.org");
   $appinfo->addContributor("Laurent Montel", "lmontel@mandrakesoft.com");
-  $appinfo->addContributor("Sven L&uuml;ppken", "sven@kde.org");  
+  $appinfo->addContributor("Sven L&uuml;ppken", "sven@kde.org");
   $appinfo->show();
 ?>
-      
+
 <h2>Description</h2>
       <p>KWord is a FrameMaker-like word-processing and desktop publishing application. KWord is capable of creating demanding and professional looking documents. Whether you are a corporate or home user, production artist or student, KWord will prove a valuable and easy to use tool for all your word processing and layout needs.
 
@@ -48,12 +48,12 @@
       Here are some <a href="screenshots.phtml">screenshots</a>.</p>
 
      <p>For a more complete feature list, see <a href="features.phtml">here</a>.</p>
-     
+
      <p>
      We are currently working on support for bi-directional editing of text. This is needed for Hebrew, Arabic etc. The next release will contain this functionality.
      </p>
 
-     <p>If you are having trouble getting the Euro character working, take a look at 
+     <p>If you are having trouble getting the Euro character working, take a look at
        <a href="euro.phtml">this page</a>.
      </p>
 

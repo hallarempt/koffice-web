@@ -1,0 +1,17 @@
+Index: koparagcounter.cc
+===================================================================
+RCS file: /home/kde/koffice/lib/kotext/koparagcounter.cc,v
+retrieving revision 1.30
+retrieving revision 1.31
+diff -b -p -u -r1.30 -r1.31
+--- koparagcounter.cc   9 Apr 2003 19:51:24 -0000       1.30
++++ koparagcounter.cc   24 Apr 2003 22:33:32 -0000      1.31
+@@ -599,7 +599,7 @@ KoTextFormat* KoParagCounter::counterFor
+     KoTextFormat* refFormat = paragraph->at( 0 )->format();
+     KoTextFormat format( *refFormat );
+     format.setVAlign( KoTextFormat::AlignNormal );
+-    return refFormat->parent()->format( &format );
++    return paragraph->textDocument()->formatCollection()->format( &format );
+     /*paragraph->paragFormat()*/
+ }
+
