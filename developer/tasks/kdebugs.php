@@ -24,6 +24,18 @@
     </li>
 </ul>
 
+<h2>"Junior Jobs" Bugs</h2>
+
+<p>There are a part of the bugs in KDE Bugs that are called Junior Jobs. They can be recognized by the "JJ:"
+(two upper case J letters and a colon) in the bug title. Those bugs are marked so that new developers can
+easily recognize bugs easier to fix or wishes esiaer to implement than the average.</p>
+
+<!-- TODO: a list of current JJ bugs in KOffice -->
+
+<p>
+<a href="http://bugs.kde.org/buglist.cgi?short_desc_type=allwordssubstr&amp;short_desc=JJ%3A&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
+Click here to query for the Junior Jobs for KDE.</a></p>
+
 <h2>Managing Tasks In KDE Bugs</h2>
  
 <ul>
