@@ -11,6 +11,9 @@
       <li><a href="http://w3c.org">W3C</a> (XHTML, CSS, XPath, XSL, SVG...)</li>
       <li><a href="http://xml.openoffice.org">OpenOffice's File Format Site</a></li>
       <!-- TODO: direct link to OO's XML description PDF file -->
+      <li><a href="http://www.oasis-open.org/committees/download.php/6032/office-spec-1.0-cd-1.sxw">OASIS Open Office Specification (in OpenOffice.org format)</a></li>
+      <li><a href="http://www.oasis-open.org/committees/download.php/6033/office-schema-1.0-cd-1.rng">OASIS Open Office Specification (RelaxNG schema)</a></li>
+      <li><a href="http://www.zvon.org/xxl/RelaxNG/Output/index.html">RelaxNG reference</a></li>
     </ul>
   </p>
 
@@ -33,6 +36,7 @@
     <ul>
       <li><a href="http://www.alphaworks.ibm.com/tech/xmldiffmerge">XML diffmerge</a></li>
       <li><a href="http://www.alphaworks.ibm.com/tech/xmltreediff">XML treediff</a></li>
+      <li><a href="http://www.thaiopensource.com/relaxng/jing.html">Jing</a>(Java tool for validating files against a RelaxNG schema)</li>
     </ul>
   </p>
 
