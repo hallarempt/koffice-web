@@ -1,6 +1,6 @@
 <?php
   $title="The KOffice Project -- Filters -- Missing Filters";
-  site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Pending Filters';
+  $site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Pending Filters';
   include("header.inc");
 ?>
       <h1>Missing filters</h2>

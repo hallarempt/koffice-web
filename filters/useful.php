@@ -1,6 +1,6 @@
 <?php
   $title="The KOffice Project -- Filters -- Useful Links";
-  site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Useful Links';
+  $site_root = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Useful Links';
   include("header.inc");
 ?>
 

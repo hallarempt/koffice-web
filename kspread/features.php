@@ -1,6 +1,6 @@
 <?php
   $title='The KOffice Project -- KSpread -- Features';
-  site_root='/ <a href="/">KOffice</a> / <a href="/kspread/">KSpread</a> / Features';
+  $site_root='/ <a href="/">KOffice</a> / <a href="/kspread/">KSpread</a> / Features';
   include("header.inc");
 ?>
 
