@@ -13,7 +13,7 @@
 <xsl:processing-instruction name="php">
   $title="The KOffice Project -- Filters -- Status (KOffice 1.3)";
   $location = '/ &lt;a href="/">KOffice&lt;/a> / &lt;a href="/filters/">Filters&lt;/a> / Status (KOffice 1.3)';
-  include("cutheader.inc");
+  include("../cutheader.inc");
 </xsl:processing-instruction>
 
  <h1>KOffice Filters - Status (KOffice 1.3)</h1>
@@ -99,7 +99,7 @@
 
 
 <xsl:processing-instruction name="php">
-  include("cutfooter.inc");
+  include("../cutfooter.inc");
 </xsl:processing-instruction>
 
 
