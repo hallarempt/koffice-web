@@ -4,12 +4,12 @@ $handler = new Handler404();
 $handler->add("/downloads", "/addons");
 $handler->add("/contact.phtml", "/contact");
 $handler->add("/kpresenter.html", "/kpresenter");
-$handler->add("/developers.php", "/people.php");
-$handler->add("/install-binaries.php", "/download");
-$handler->add("/install-source.php", "/download/source.php");
-$handler->add("/signatures.php", "/download/signatures.php");
-$handler->add("/support.php", "/support");
-$handler->add("/supporters.php", "/support/supporters.php");
+$handler->add("/developers.phtml", "/people.php");
+$handler->add("/install-binaries.phtml", "/download");
+$handler->add("/install-source.phtml", "/download/source.php");
+$handler->add("/signatures.phtml", "/download/signatures.php");
+$handler->add("/support.phtml", "/support");
+$handler->add("/supporters.phtml", "/support/supporters.php");
 $handler->execute();
 ?>
 
