@@ -6,6 +6,10 @@
 ?>
 
 <h2>KWord Features</h2>
+
+<p>An entry marked "Bug" means that the function does not work or is
+otherwise restricted due to a bug.</p>
+
 <table border="4" cellspacing="0" cellpadding="5" >
 
 <tr bgcolor="#FFFFFF">
@@ -130,12 +134,12 @@
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Margins </td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported.</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported.</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Line Spacing </td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported.</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported.</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Paragraph Borders </td>
