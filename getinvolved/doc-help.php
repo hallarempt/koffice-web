@@ -6,13 +6,12 @@
 ?>
 
 	<p>KOffice has developed into a set of well-integrated, and complex set of software.
-	Every developer has worked hard to ensure that the user can work effectively, without
-	unnecessary complexity.
+	Every developer has worked hard to ensure that the user can work effectively.
 	</p>
 
 	<p>
-	<b>KOffice needs clear, complete and useful documentation to allow KOffice users to
-	get the most out of KOffice.</b>
+	<strong>KOffice needs clear, complete and useful documentation to allow KOffice users to
+	get the most out of KOffice.</strong>
 	</p>
 
 	<p>
@@ -23,8 +22,8 @@
       	<h2>Contacts</h2>
         <p>
         <ul>
-        <li><a href="mailto:koffice@kde.org">the KOffice mailing lists</a></li>
-        <li><a href="lauri@kde.org">Lauri Watts, the chief document writer of KDE</a></li>
+        <li><a href="http://www.kde.org/mailinglists/index.php#koffice">the KOffice mailing lists</a></li>
+        <li><a href="mailto:lauri@kde.org">Lauri Watts, the chief document writer of KDE</a></li>
         </ul>
 	</p>
 
