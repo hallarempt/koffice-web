@@ -43,7 +43,7 @@
 <li>Fixed show the duration for the correct page if not all slides are shown</li>
 <li>Fixes for vertical alignment of text inside text objects.</li>
 <li>Fixed bug #76286 export web presentation into network</li>
-<li></li>
+<li>Turning off the "Create backup file" option now works.</li>
 </ul>
 
 
@@ -58,6 +58,7 @@
 <h3><a name="kchart">KChart</a></h3>
 <ul>
 <li>Fix crash bug#82149</li>
+<li>Fix #83465</li>
 </ul>
 
 <!--
