@@ -35,9 +35,9 @@ want to be implemented</p>
 
 <ul>
     <li>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=54810">Bug #54810</a>:
+        <del><a href="http://bugs.kde.org/show_bug.cgi?id=54810">Bug #54810</a>:
         KOffice (here KWord) does not save a document when there is no place left on the file system
-        and does not inform the user either. (Difficulty: ***; Sharability: *****)
+        and does not inform the user either. (Difficulty: ***; Sharability: *****)</del>
     </li>
 </ul>
 
