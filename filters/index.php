@@ -9,7 +9,7 @@
     <p>Welcome to the KOffice Filter Information Page.</p>
     <p>Various filters are available for most of the KOffice applications.</p>
    
-    <p><a href="latest">Please click here for the filter status</a>
+    <p><a href="1.2">Please click here for the filter status</a>
         (currently of KOffice 1.3)!
     </p>
     
