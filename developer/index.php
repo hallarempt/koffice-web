@@ -12,6 +12,7 @@
      <li><a href="generalinfo">General developer information</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
      <li><a href="tasks">Tasks</a> (Volunteers needed!)</li>
+     <li><a href="http://developer.kde.org/development-versions/koffice-features.html">KOffice Feature Plan</a></li>
    </ul>
 
    <h2>Specific Resources</h2>
