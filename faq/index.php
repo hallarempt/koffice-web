@@ -87,28 +87,28 @@ CLASS="QANDASET"
 ><DL
 ><DT
 >1. <A
-HREF="index.phtml#IMPORTANTNOTE"
+HREF="index.php#IMPORTANTNOTE"
 >Important Note - please read first!</A
 ></DT
 ><DD
 ><DL
 ><DT
 >1.1. <A
-HREF="index.phtml#AEN22"
+HREF="index.php#AEN22"
 > Disclaimer</A
 ></DT
 ></DL
 ></DD
 ><DT
 >2. <A
-HREF="index.phtml#GENERALQUESTIONS"
+HREF="index.php#GENERALQUESTIONS"
 >General Questions</A
 ></DT
 ><DD
 ><DL
 ><DT
 >2.1. <A
-HREF="index.phtml#AEN30"
+HREF="index.php#AEN30"
 > What is <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -116,12 +116,12 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.2. <A
-HREF="index.phtml#AEN41"
+HREF="index.php#AEN41"
 > Who are the developers and how do I contact them?</A
 ></DT
 ><DT
 >2.3. <A
-HREF="index.phtml#AEN197"
+HREF="index.php#AEN197"
 >What does The Kompany have to do with <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -132,7 +132,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.4. <A
-HREF="index.phtml#AEN211"
+HREF="index.php#AEN211"
 > What <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -140,7 +140,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.5. <A
-HREF="index.phtml#AEN235"
+HREF="index.php#AEN235"
 > I'd like to see XYZ application in <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -148,7 +148,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.6. <A
-HREF="index.phtml#AEN249"
+HREF="index.php#AEN249"
 > What is the current state of <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -156,7 +156,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.7. <A
-HREF="index.phtml#AEN256"
+HREF="index.php#AEN256"
 > Is <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -164,12 +164,12 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.8. <A
-HREF="index.phtml#AEN264"
+HREF="index.php#AEN264"
 > Are you going to implement feature XYZ?</A
 ></DT
 ><DT
 >2.9. <A
-HREF="index.phtml#AEN272"
+HREF="index.php#AEN272"
 > What do I need for using <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -177,7 +177,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.10. <A
-HREF="index.phtml#AEN285"
+HREF="index.php#AEN285"
 > Which license applies to <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -185,19 +185,19 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >2.11. <A
-HREF="index.phtml#AEN292"
+HREF="index.php#AEN292"
 > How do I report bugs?</A
 ></DT
 ><DT
 >2.12. <A
-HREF="index.phtml#AEN309"
+HREF="index.php#AEN309"
 >Can I use KOffice on Windows?</A
 ></DT
 ></DL
 ></DD
 ><DT
 >3. <A
-HREF="index.phtml#HOWTOGETANDINSTALL"
+HREF="index.php#HOWTOGETANDINSTALL"
 >How to get and install <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -207,7 +207,7 @@ CLASS="APPLICATION"
 ><DL
 ><DT
 >3.1. <A
-HREF="index.phtml#AEN319"
+HREF="index.php#AEN319"
 > How do I get and compile the <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -215,12 +215,12 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >3.2. <A
-HREF="index.phtml#AEN326"
+HREF="index.php#AEN326"
 > I want to be on the bleeding edge. How can I get my sources up to date?</A
 ></DT
 ><DT
 >3.3. <A
-HREF="index.phtml#AEN335"
+HREF="index.php#AEN335"
 > How do I install <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -228,22 +228,22 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >3.4. <A
-HREF="index.phtml#AEN345"
+HREF="index.php#AEN345"
 > Where can I find information on compiling Qt or the KDE libs?</A
 ></DT
 ><DT
 >3.5. <A
-HREF="index.phtml#AEN353"
+HREF="index.php#AEN353"
 > What binary distributions are there and where do I find them?</A
 ></DT
 ><DT
 >3.6. <A
-HREF="index.phtml#AEN359"
+HREF="index.php#AEN359"
 > How do I install binary RPMs?</A
 ></DT
 ><DT
 >3.7. <A
-HREF="index.phtml#AEN367"
+HREF="index.php#AEN367"
 > Is <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -253,7 +253,7 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >4. <A
-HREF="index.phtml#PROBLEMSCOMP"
+HREF="index.php#PROBLEMSCOMP"
 >Problems compiling <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -263,12 +263,12 @@ CLASS="APPLICATION"
 ><DL
 ><DT
 >4.1. <A
-HREF="index.phtml#AEN379"
+HREF="index.php#AEN379"
 > What should I do if problems occur?</A
 ></DT
 ><DT
 >4.2. <A
-HREF="index.phtml#AEN411"
+HREF="index.php#AEN411"
 > I do <B
 CLASS="COMMAND"
 >make -f Makefile.cvs</B
@@ -279,7 +279,7 @@ CLASS="COMPUTEROUTPUT"
 ></DT
 ><DT
 >4.3. <A
-HREF="index.phtml#AEN419"
+HREF="index.php#AEN419"
 > The <TT
 CLASS="FILENAME"
 >configure</TT
@@ -287,12 +287,12 @@ CLASS="FILENAME"
 ></DT
 ><DT
 >4.4. <A
-HREF="index.phtml#AEN427"
+HREF="index.php#AEN427"
 > linking errors with type_info</A
 ></DT
 ><DT
 >4.5. <A
-HREF="index.phtml#AEN435"
+HREF="index.php#AEN435"
 > I get parse errors in <TT
 CLASS="FILENAME"
 >.../include/g++/stdexcept</TT
@@ -302,7 +302,7 @@ CLASS="FILENAME"
 ></DD
 ><DT
 >5. <A
-HREF="index.phtml#GENERAL"
+HREF="index.php#GENERAL"
 ><SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -312,7 +312,7 @@ CLASS="APPLICATION"
 ><DL
 ><DT
 >5.1. <A
-HREF="index.phtml#AEN444"
+HREF="index.php#AEN444"
 >Does <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -320,7 +320,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >5.2. <A
-HREF="index.phtml#AEN462"
+HREF="index.php#AEN462"
 > How does <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -328,7 +328,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >5.3. <A
-HREF="index.phtml#AEN469"
+HREF="index.php#AEN469"
 > What data format does <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -336,12 +336,12 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >5.4. <A
-HREF="index.phtml#AEN481"
+HREF="index.php#AEN481"
 > Can I convert KOffice documents to and from other formats on the command line?</A
 ></DT
 ><DT
 >5.5. <A
-HREF="index.phtml#AEN488"
+HREF="index.php#AEN488"
 > Wow! My Framemaker writes XML, too! Does that mean I can easily read those documents with <SPAN
 CLASS="APPLICATION"
 >KWord</SPAN
@@ -349,7 +349,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >5.6. <A
-HREF="index.phtml#AEN495"
+HREF="index.php#AEN495"
 > Which international text codecs does <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -357,7 +357,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >5.7. <A
-HREF="index.phtml#AEN502"
+HREF="index.php#AEN502"
 >Does <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -367,7 +367,7 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >6. <A
-HREF="index.phtml#COMMONPROBLEMS"
+HREF="index.php#COMMONPROBLEMS"
 >Problems common to all <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -377,7 +377,7 @@ CLASS="APPLICATION"
 ><DL
 ><DT
 >6.1. <A
-HREF="index.phtml#AEN513"
+HREF="index.php#AEN513"
 >In printout, <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -387,14 +387,14 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >7. <A
-HREF="index.phtml#KWORD"
+HREF="index.php#KWORD"
 >KWord</A
 ></DT
 ><DD
 ><DL
 ><DT
 >7.1. <A
-HREF="index.phtml#AEN533"
+HREF="index.php#AEN533"
 > What is <SPAN
 CLASS="APPLICATION"
 >KWord</SPAN
@@ -402,12 +402,12 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >7.2. <A
-HREF="index.phtml#AEN546"
+HREF="index.php#AEN546"
 > What is its current state?</A
 ></DT
 ><DT
 >7.3. <A
-HREF="index.phtml#AEN552"
+HREF="index.php#AEN552"
 > Can I write my letter / papers / master thesis with <SPAN
 CLASS="APPLICATION"
 >KWord</SPAN
@@ -415,21 +415,21 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >7.4. <A
-HREF="index.phtml#AEN559"
+HREF="index.php#AEN559"
 > Are there filters for MS-Word, StarWriter, RTF, ... ?</A
 ></DT
 ></DL
 ></DD
 ><DT
 >8. <A
-HREF="index.phtml#KSPREAD"
+HREF="index.php#KSPREAD"
 >KSpread</A
 ></DT
 ><DD
 ><DL
 ><DT
 >8.1. <A
-HREF="index.phtml#AEN568"
+HREF="index.php#AEN568"
 > What is <SPAN
 CLASS="APPLICATION"
 >KSpread</SPAN
@@ -437,12 +437,12 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >8.2. <A
-HREF="index.phtml#AEN575"
+HREF="index.php#AEN575"
 > What is its current state?</A
 ></DT
 ><DT
 >8.3. <A
-HREF="index.phtml#AEN581"
+HREF="index.php#AEN581"
 > Is it possible to implement new functions for <SPAN
 CLASS="APPLICATION"
 >KSpread</SPAN
@@ -450,21 +450,21 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >8.4. <A
-HREF="index.phtml#AEN588"
+HREF="index.php#AEN588"
 > Are there import filters for Excel, StarCalc, 1-2-3, ... ?</A
 ></DT
 ></DL
 ></DD
 ><DT
 >9. <A
-HREF="index.phtml#KPRESENTER"
+HREF="index.php#KPRESENTER"
 >KPresenter</A
 ></DT
 ><DD
 ><DL
 ><DT
 >9.1. <A
-HREF="index.phtml#AEN597"
+HREF="index.php#AEN597"
 > What is <SPAN
 CLASS="APPLICATION"
 >KPresenter</SPAN
@@ -472,26 +472,26 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >9.2. <A
-HREF="index.phtml#AEN604"
+HREF="index.php#AEN604"
 > What is its current state?</A
 ></DT
 ><DT
 >9.3. <A
-HREF="index.phtml#AEN610"
+HREF="index.php#AEN610"
 > Are there import filters?</A
 ></DT
 ></DL
 ></DD
 ><DT
 >10. <A
-HREF="index.phtml#KONTOUR"
+HREF="index.php#KONTOUR"
 >Kontour</A
 ></DT
 ><DD
 ><DL
 ><DT
 >10.1. <A
-HREF="index.phtml#AEN621"
+HREF="index.php#AEN621"
 > What happened to <SPAN
 CLASS="APPLICATION"
 >Kontour</SPAN
@@ -499,7 +499,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >10.2. <A
-HREF="index.phtml#AEN628"
+HREF="index.php#AEN628"
 >But then what can I do with my old <SPAN
 CLASS="APPLICATION"
 >Kontour</SPAN
@@ -509,14 +509,14 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >11. <A
-HREF="index.phtml#KARBON14"
+HREF="index.php#KARBON14"
 >Karbon14</A
 ></DT
 ><DD
 ><DL
 ><DT
 >11.1. <A
-HREF="index.phtml#AEN640"
+HREF="index.php#AEN640"
 >What is <SPAN
 CLASS="APPLICATION"
 >Karbon14</SPAN
@@ -526,14 +526,14 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >12. <A
-HREF="index.phtml#KIVIO"
+HREF="index.php#KIVIO"
 >Kivio</A
 ></DT
 ><DD
 ><DL
 ><DT
 >12.1. <A
-HREF="index.phtml#AEN652"
+HREF="index.php#AEN652"
 >What is <SPAN
 CLASS="APPLICATION"
 >Kivio</SPAN
@@ -541,7 +541,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >12.2. <A
-HREF="index.phtml#AEN658"
+HREF="index.php#AEN658"
 >Where can I find more information on <SPAN
 CLASS="APPLICATION"
 >Kivio</SPAN
@@ -551,14 +551,14 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >13. <A
-HREF="index.phtml#KUGAR"
+HREF="index.php#KUGAR"
 >Kugar and Kudesigner</A
 ></DT
 ><DD
 ><DL
 ><DT
 >13.1. <A
-HREF="index.phtml#AEN668"
+HREF="index.php#AEN668"
 >What is <SPAN
 CLASS="APPLICATION"
 >Kugar</SPAN
@@ -566,7 +566,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >13.2. <A
-HREF="index.phtml#AEN675"
+HREF="index.php#AEN675"
 >What is <SPAN
 CLASS="APPLICATION"
 >Kudesigner</SPAN
@@ -574,7 +574,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >13.3. <A
-HREF="index.phtml#AEN682"
+HREF="index.php#AEN682"
 >Where can I find more information on <SPAN
 CLASS="APPLICATION"
 >Kugar</SPAN
@@ -585,7 +585,7 @@ CLASS="APPLICATION"
 ></DT
 ><DT
 >13.4. <A
-HREF="index.phtml#AEN695"
+HREF="index.php#AEN695"
 >Are <SPAN
 CLASS="APPLICATION"
 >Kugar</SPAN
@@ -598,14 +598,14 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >14. <A
-HREF="index.phtml#KRITA"
+HREF="index.php#KRITA"
 >Krita</A
 ></DT
 ><DD
 ><DL
 ><DT
 >14.1. <A
-HREF="index.phtml#AEN710"
+HREF="index.php#AEN710"
 > What is <SPAN
 CLASS="APPLICATION"
 >Krita</SPAN
@@ -615,7 +615,7 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >15. <A
-HREF="index.phtml#OTHER"
+HREF="index.php#OTHER"
 >Other <SPAN
 CLASS="APPLICATION"
 >KOffice</SPAN
@@ -625,7 +625,7 @@ CLASS="APPLICATION"
 ><DL
 ><DT
 >15.1. <A
-HREF="index.phtml#AEN724"
+HREF="index.php#AEN724"
 > What's <SPAN
 CLASS="APPLICATION"
 >KChart</SPAN
@@ -638,54 +638,54 @@ CLASS="APPLICATION"
 ></DD
 ><DT
 >16. <A
-HREF="index.phtml#CONTRIB"
+HREF="index.php#CONTRIB"
 >Contributing to KOffice</A
 ></DT
 ><DD
 ><DL
 ><DT
 >16.1. <A
-HREF="index.phtml#AEN737"
+HREF="index.php#AEN737"
 > I like this project! How can I contribute?</A
 ></DT
 ><DT
 >16.2. <A
-HREF="index.phtml#AEN765"
+HREF="index.php#AEN765"
 > I
 want to help with documentation. How do I start?</A
 ></DT
 ><DT
 >16.3. <A
-HREF="index.phtml#AEN779"
+HREF="index.php#AEN779"
 > I want to write filters. How do I start?</A
 ></DT
 ><DT
 >16.4. <A
-HREF="index.phtml#AEN786"
+HREF="index.php#AEN786"
 > I want to help with application XYZ. How do I start?</A
 ></DT
 ><DT
 >16.5. <A
-HREF="index.phtml#AEN793"
+HREF="index.php#AEN793"
 > I want to write a new KOffice application. How do I start?</A
 ></DT
 ></DL
 ></DD
 ><DT
 >17. <A
-HREF="index.phtml#KPARTS"
+HREF="index.php#KPARTS"
 >KParts - the underlying component model</A
 ></DT
 ><DD
 ><DL
 ><DT
 >17.1. <A
-HREF="index.phtml#AEN805"
+HREF="index.php#AEN805"
 > What is this KParts you're always talking about?</A
 ></DT
 ><DT
 >17.2. <A
-HREF="index.phtml#AEN825"
+HREF="index.php#AEN825"
 > I want deeper knowledge about these technologies - where do I find it?</A
 ></DT
 ></DL
@@ -3523,7 +3523,7 @@ HREF="mailto:trobin at kde dot org"
 >&#62;</TT
 > is the one you need to talk
  to. Werner has uploaded <A
-HREF="http://koffice.kde.org/filters/index.phtml"
+HREF="http://koffice.kde.org/filters/index.php"
 TARGET="_top"
 >useful information on filters</A
 >
