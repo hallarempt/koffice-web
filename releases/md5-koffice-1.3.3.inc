@@ -1,6 +1,6 @@
 <table border="0" cellpadding="4" cellspacing="0">
 <tr><th align="left">Description</th><th align="left">Location</th><th align="left">MD5&nbsp;Sum</th></tr>
-<tr><td>General (as XDelta)</td>
+<tr><td>General *</td>
 <td><a href="http://download.kde.org/stable/koffice-1.3.3/src/koffice-1.3.2-1.3.3.tar.xdelta">
 koffice-1.3.2-1.3.3.tar.xdelta</a></td>
 <td><tt>42e99220e9443c52395341038e27f60d</tt></td></tr>
@@ -8,7 +8,7 @@ koffice-1.3.2-1.3.3.tar.xdelta</a></td>
 <td><a href="http://download.kde.org/stable/koffice-1.3.3/src/koffice-1.3.3.tar.bz2">
 koffice-1.3.3.tar.bz2</a></td>
 <td><tt>2c3b745c6218a9dc9b3f60edea2dca2b</tt></td></tr>
-<tr><td>All languages (as XDelta)</td>
+<tr><td>All languages *</td>
 <td><a href="http://download.kde.org/stable/koffice-1.3.3/src/koffice-i18n-1.3.2-1.3.3.tar.xdelta">
 koffice-i18n-1.3.2-1.3.3.tar.xdelta</a></td>
 <td><tt>ea9117a6879ac3582c4125bbc76973c5</tt></td></tr>
@@ -185,3 +185,4 @@ koffice-i18n-zh_TW-1.3.3.tar.bz2</a></td>
 koffice-i18n-zu-1.3.3.tar.bz2</a></td>
 <td><tt>c67d5a2379d612660deeb4eef29b2a92</tt></td></tr>
 </table>
+<p>*: XDelta patches</p>

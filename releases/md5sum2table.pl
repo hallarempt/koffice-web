@@ -122,7 +122,7 @@ while ( <STDIN> )
 
     if ( $package =~ /xdelta$/ )
     {
-        $description = $description . " (as XDelta)";
+        $description = $description . ' *';
     }
     
     print '<tr>';
@@ -132,4 +132,5 @@ while ( <STDIN> )
     print '<td><tt>' . $md5sum . '</tt></td></tr>'."\n";
 }
 print '</table>'."\n";
+print "<p>*: XDelta patches</p>\n";
 
