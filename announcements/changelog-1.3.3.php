@@ -33,11 +33,10 @@
   </li>
 </ul>
 
-<?php /*
 <h4>KOfficeUI:</h4>
 <ul>
+  <li>Fixed initial active tab in the opening dialog, to also remember when "Open Recent File" was used last.</li>
 </ul>
-*/ ?>
 
 <h4>KoText library features (shared between KWord and KPresenter):</h4>
 <ul>
