@@ -32,7 +32,8 @@
     <p><xsl:value-of select="normalize-space(foreword)"/></p>
 </xsl:if>
 
-<table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
+<xsl:if test="count(filter)">
+ <table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
 
  <tr bgcolor="#FFEEAA">
  <th width="30%" align="left" valign="top">From/To</th>
@@ -89,7 +90,8 @@
  </tr>
  </xsl:for-each>
 
-</table>
+ </table>
+</xsl:if>
 </xsl:for-each>
 <hr/>
 
