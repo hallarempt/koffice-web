@@ -14,8 +14,7 @@ Of course, you can ask for having that write protection removed site by site,
 for example for KOffice.</p>
 
 <p>The <a href="http://www.koffice.org">site itself</a> is updated
-from www/areas/koffice. The update happens regularly, normally every two hours,
-however often only one time per day.
+from www/areas/koffice. The update happens regularly, normally every two hours.
 So when you commit into www, it can take a certain delay before
 the commit really appears on the web site.
 </p>
