@@ -203,7 +203,7 @@ NvQPqA==
 </pre>
 
 <p><a id="goutte" name="goutte">
-For KOffice 1.3.2 and KOffice 1.3.3, the PGP key is:
+For KOffice versions 1.3.2 to 1.3.5, the PGP key is:
 </a></p>
 
 <pre>
