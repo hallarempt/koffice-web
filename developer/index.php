@@ -6,20 +6,30 @@
 ?>
    <p>This section provides useful links, information and resources for developers that are intending to work on KOffice.</p>
 
-   <h2>Resources</h2>
-   
+   <h2>General Resources</h2>
+      
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
-     <li><a href="fileformat">Information about KOffice's file formats</a> (also useful for filters)</li>
-     <li><a href="filters">Developing filters</a></li>
-     <li><a href="apidocmain.php">KOffice API reference</a></li>
-     <li><a href="website">How to develop for KOffice's web site</a></li>
+     <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
    </ul>
 
+   <h2>Specific Resources</h2>
+   
+   <ul>
+     <li><a href="fileformat">Information about KOffice's file formats</a> (also useful for filters)</li>
+     <li><a href="filters">Developing filters</a></li>
+   </ul>
+   
    <h2>Applications</h2>
 
    <ul>
      <li><a href="krita">Krita</a></li>
+   </ul>
+   
+   <h2>KOffice.org For KOffice.org</h2>
+   
+   <ul>
+     <li><a href="website">How to develop for KOffice's web site</a></li>
    </ul>
 
    <h2>External Sites About KOffice</h2>
