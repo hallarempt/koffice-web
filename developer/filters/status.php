@@ -78,7 +78,7 @@
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/docbook/status.html#import?content-type=text/html">-</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/docbook/status.html#export?content-type=text/html">**</a>
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/docbook/status.html#export?content-type=text/html">?</a>
       </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">OpenOffice Writer</td>
+      <td width="30%" align="left" valign="top">OpenOffice.org Writer</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">**</td>
@@ -279,7 +279,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">OpenCalc</td>
+      <td width="30%" align="left" valign="top">OpenOffice.org Calc</td>
       <td width="50%" align="left" valign="top">
             Contact: <a href="mailto:nandres@web.de">Norbert Andres</a></td>
       <td width="10%" align="center" valign="top">
@@ -336,7 +336,7 @@
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">OpenOffice Impress</td>
+      <td width="30%" align="left" valign="top">OpenOffice.org Impress</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/ooimpress/status.html#import?content-type=text/html">****</a>
@@ -405,7 +405,7 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">OpenOffice Draw</td>
+      <td width="30%" align="left" valign="top">OpenOffice.org Draw</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
