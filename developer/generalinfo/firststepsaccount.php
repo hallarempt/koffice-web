@@ -19,7 +19,7 @@ a positive answer with the data of your new account.</p>
   <li><em>CVS</em> is used to describe a CVS server, mostly KDE's or
     the KDE's anonymous CVS servers.</li>
   <li>The low case word <em>cvs</em> is used to
-    describe the program that the user can use to access CVS.</li>
+    describe the program named cvs, which the user can use to access CVS.</li>
 </ul></p>
 
 <h2>Changing The Root Of Your Local CVS Copy</h2>
@@ -83,7 +83,55 @@ handle it automatically (that is why the CVS root is written in your local
 copy) and can even have passwords for each CVS server
 (again in the file ~/.cvspass .)</p>
 
-(To be continued.)
+<h2>Default Editor</h2>
+
+<p>This section is only useful if you plan to use the cvs program. If you always
+plan to use Cervisia or another GUI front-end, <a href="#committing">you can skip this section</a>.</p>
+
+<p>When committing, cvs wants some text for commenting the commit. You can either
+specify it directly with the -m parameter or by a file with the -F . If you do
+neither of both, cvs will run an editor to ask for a comment.</p>
+
+<p>This editor is taken from the environment variables: first $CVSEDITOR,
+then $EDITOR if $CVSEDITOR was not found. If $EDITOR was not found either,
+cvs uses a default editor (normally vi.)</p>
+
+<p>So may be you should check your $CVSEDITOR and $EDITOR environment variables:<br />
+<tt>echo $CVSEDITOR</tt><br />
+<tt>echo $EDITOR</tt></p>
+
+<p>Check that their settings suit you for your work with cvs. (Remember $CVSEDITOR is used first, then $EDITOR.)
+If they do not suit you, check your file <tt>~/.bashrc</tt> and add something like:<br />
+<tt>export CVSEDITOR=mcedit</tt><br />
+Here it sets mcedit, replace it with your favourite editor. Of course you can set $EDITOR instead if you want
+to change the default editor for you.</p>
+
+<p>Be careful that if you do not set a command line editor but one that needs X-Window, you will need to run cvs
+always in a X-Window terminal. It might suit you, it might not. Your choice!</p>
+
+<h2><a id="committing" name="committing" >Committing</a></h2>
+
+<p>Now a few words about how to commit.</p>
+
+<p>First be sure that the code that you want to commit is right. You might perhaps
+send the patch to the relevant mailing list (koffice-devel for KOffice matters) or
+to the relevant developer if you know who he is.</p>
+
+<p>Also when committing, please give a useful message with the commit. Do not think of
+now but try to think what you would want to find in, say, two years.
+(One day, You will probably find out that short commit entries like "Fix" or "Here too" is going to
+drive you creazy when you have to debug a problem.)</p>
+
+<p>Good code is not always only about questions like if the code compiles. The code
+must also fit in what is planned. For example if a new code fixes just one little bug
+but the maintainer of the code is currently doing a re-write, he will perhaps not be
+pleased that something has been committed, because he will have to fix all conficts
+between the newly commited code and his new code.</p>
+
+<p>So the best is to communicate (if possible early) to avoid any surprise. A surprised
+developer is highly at risk of giving a rude answer or at least not a pleasant answer.
+This is avoidable by communication. Of course, a developer might ask to leave the code
+alone. Please respect that! Of course, (It does not mean that you should not argue.)</p>
 
 <?php
    include("footer.inc");
