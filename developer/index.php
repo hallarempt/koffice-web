@@ -11,7 +11,7 @@
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
-     <li><a href="tasks">Tasks</a></li>
+     <li><a href="tasks">Tasks</a> (Volunteers needed!)</li>
    </ul>
 
    <h2>Specific Resources</h2>
@@ -32,6 +32,7 @@
    
    <ul>
      <li><a href="website">How to develop for KOffice's web site</a></li>
+     <li><a href="website/tasks.php">Web Task List</a> (Volunteers needed!)</li>
    </ul>
 
    <h2>External Sites About KOffice</h2>
