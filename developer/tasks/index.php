@@ -1,6 +1,6 @@
 <?php
   $page_title="KOffice Tasks";
-  $site_root='../';
+  $site_root='../../';
   include("koffice.inc");
   include("header.inc");
 ?>
