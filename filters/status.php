@@ -13,7 +13,7 @@
   <p>Note: this document is about <b>KOffice CVS</b> (the developer version).</p>
   <hr />
   <h3>Generic (for all KOffice applications)</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>
@@ -40,7 +40,7 @@
     </tr>
   </table>
   <h3>KWord</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>
@@ -225,7 +225,7 @@
     </tr>
   </table>
   <h3>KSpread</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>
@@ -333,7 +333,7 @@
     </tr>
   </table>
   <h3>KPresenter</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>
@@ -387,7 +387,7 @@
     </tr>
   </table>
   <h3>Karbon 14</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>
@@ -474,7 +474,7 @@
     </tr>
   </table>
   <h3>Krita</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>
@@ -491,7 +491,7 @@
     </tr>
   </table>
   <h3>Kontour</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
+  <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <td width="30%" align="left" valign="top">
         <h3>From/To</h3>

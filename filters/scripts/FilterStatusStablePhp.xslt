@@ -24,7 +24,7 @@
 <xsl:if test="@released!='no'">
 <h3><xsl:value-of select="title" /></h3>
 
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
 
  <tr bgcolor="#FFEEAA">
  <td width="30%" align="left" valign="top"><h3>From/To</h3></td>
