@@ -54,7 +54,7 @@ In any case, you need the HEAD branch! (which is the default).</p>
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
 <p>For KOffice 1.3 stable you need QT 3.1.x, arts, and kdelibs (kdebase recommended too).</p>
-<!--<p>For the development version of KOffice you need QT 3.0.x, arts, and kdelibs from CVS (in that order).-->
+<p>For the development version of KOffice you need QT 3.2.x, arts, and kdelibs 3.2 (in that order).
 
 <p>QT can be found <a href="ftp://ftp.trolltech.com/qt/source/">here</a>
 and the KDE development snapshots from <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
