@@ -16,18 +16,49 @@
   release of KOffice 1.3.2.
 </p>
 
+<h3><a name="i18n">Languages</a></h3>
+<ul>
+  <li>
+    New:  (cy), as preview () <!-- ### TODO -->
+  </li>
+</ul>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <h4>KOfficeCore:</h4>
 <ul>
+  <li>Support MS-DOS EPS files directly without stripping them internally.</li>
+  <li>
+    Display errors when the part can't be loaded - e.g. due to an undefined symbol.
+    This fixes the long-standing "program exits with error code 1 and no warning" problem.
+  </li>
 </ul>
 
+<?php /*
 <h4>KOfficeUI:</h4>
 <ul>
 </ul>
+*/ ?>
 
 <h4>KoText library features (shared between KWord and KPresenter):</h4>
 <ul>
+  <li>
+    Fixed date format not available for some date variables
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=82198">#82198</a>)
+  </li>
+  <li>
+    Match words to auto-correct in a case-sensitive way to allow entries to have upper case letters.
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=80376">#80376</a>)
+  </li>
+  <li>
+    Do not use a different size for bullets/numbers in front of parags starting with bold or italic.
+  </li>
+  <li>
+    Fixed copy/pasting of lines containing tabs (not all lines would be pasted) (#88297)
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=88297">#88297</a>)
+  </li>
+  <li>
+    Indic/Malayalam support, with thanks to Rajeev J Sebastian.
+  <li>
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
