@@ -88,6 +88,8 @@
 
 <h4>KPresenter's OOImpress export filter:</h4>
 <ul>
+<li>Export settings into settings.xml (Snap drawing line)</li>
+<li>Fix generate list of picture</li>
 </ul>
 
 
