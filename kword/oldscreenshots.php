@@ -1,5 +1,5 @@
 <?php
-  $page_title='KWord Screenshots';
+  $page_title='KWord Old Screenshots';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -9,7 +9,7 @@
 
 <?php
 $gallery = new ImageGallery("KWord Screenshots");
-$gallery->addImage("pics/kword-arabic_sm.png", "pics/kword-arabic.png", "191", "145", "[Screenshot]", 0 , "KWord 1.2 can be used for bi-directional texts like Arabic (05/02)");
+$gallery->addImage("pics/kword-arabic_oldsm.png", "pics/kword-arabic.png", "191", "145", "[Screenshot]", 0 , "KWord 1.2 can be used for bi-directional texts like Arabic (05/02)");
 $gallery->startNewRow();
 $gallery->addImage("pics/kword14_sm.png", "pics/kword14.png", "180", "258", "[Screenshot]", 0 , "KWord 1.1 showing many features including sophisticated text editing and clipart images (11/01)");
 $gallery->addImage("pics/kword15_sm.png", "pics/kword15.png", "180", "159", "[Screenshot]", 0 , "KWord showing off the new anti-aliased fonts (11/01)");
