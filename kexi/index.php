@@ -97,7 +97,7 @@ Current Kexi version is 0.1 beta 3. See <a href="http://www.kexi-project.org/ann
 <p>
 At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:
 <ul>
- <li><a href="http://www.sqlite.org">SQLite</a> (file-based, mostly complede)</li>
+ <li><a href="http://www.sqlite.org">SQLite</a> (file-based, mostly complete)</li>
  <li><a href="http://www.postgresql.org">PostgreSQL (mostly workable)</a></li>
  <li><a href="http://www.mysql.com">MySQL (obsolete)</a></li>
  <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (obsolete)</a></li>
