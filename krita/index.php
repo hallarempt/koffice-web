@@ -106,7 +106,7 @@ management system in 100K</a></li>
       <p>Free:</p>
       <ul>
         <li><a href="http://www.gimp.org">The Gimp</a> (The GNU Image Manipulation Program)</li>
-        <li><a href="http://www.gimp.org/~otaylor/gsumi/index.ht">GSumi</a> (Simulation of brush or pen and ink drawing)</li>
+        <li><a href="http://www.gimp.org/~otaylor/gsumi/">GSumi</a> (Simulation of brush or pen and ink drawing)</li>
         <li><a href="http://www.levien.com/gimp/wetdream.html">Wet Dream</a> (Watercolor paint simulation), see
             also <a href="http://www.levien.com/gimp/brush-arch.html">An Architecture for "natural" brush types</a>.</li>
       </ul>
