@@ -51,7 +51,8 @@ Please note that the write access of the koffice-devel mailing list is restricte
 <p>As KOffice is part of KDE is uses some of KDE's mailing lists, for example for the translaltors.</p>
 <p>Information on the mailing lists can be obtained <a href=\"http://www.kde.org/mailinglists\">here</a>.
 The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>
-<p>Please note that for historical reasons, Krita has its own mailing list.</p>"
+<p>Please note that for historical reasons,
+<a href=\"mailto:kimageshop@kde.org\">Krita has its own mailing list</a>.</p>"
 );
 
 // CHECK: Kexi, Kugar, KPlato
