@@ -7,6 +7,12 @@
 
 <p>This page lists interesting reports about KOffice that people have written.</p>
 
+<h2>Goals for a KOffice 2.0</h2>
+
+<ul>
+    <li><a href="http://dot.kde.org/1061919133/">Kastle 2003: KOffice Developers' Meeting Report</a></li>
+</ul>
+
 <h2>Emails</h2>
 
 <ul>
