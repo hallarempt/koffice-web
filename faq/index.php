@@ -48,7 +48,7 @@ $faq->addQuestion("Which mailing lists are used for KOffice?",
 </ul>
 <p>The koffice mailing list is mainly for the users of KOffice, the koffice-devel is mainly for the developers.
 Please note that the write access of the koffice-devel mailing list is restricted.</p>
-<p>As KOffice is part of KDE is uses some of KDE's mailing lists, for example for the translaltors.</p>
+<p>As KOffice is part of KDE it uses some of KDE's mailing lists, for example for the translators.</p>
 <p>Information on the mailing lists can be obtained <a href=\"http://www.kde.org/mailinglists\">here</a>.
 The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>
 <p>Please note that for historical reasons,
@@ -85,7 +85,7 @@ applications are only planned for future KOffice releases."
 
 // CHECK: is 1.3 out?
 $faq->addQuestion("What is the current state of KOffice?",
-"At the time of thiw writing, KOffice 1.3 will be soon released. KOffice is released seperately
+"At the time of this writing, KOffice 1.3 will be soon released. KOffice is released seperately
 from the rest of KDE, so KOffice releases are not in sync with those of KDE."
 );
 
