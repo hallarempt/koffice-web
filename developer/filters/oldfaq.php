@@ -5,6 +5,8 @@
   include("header.inc");
 ?>
 
+$Date$
+
 <p>Please note that this FAQ is for KOffice 1.1 or 1.2. It is lightly outdated
 for KOffice 1.3 and totally for KOffice 1.4.</p>
 
@@ -24,7 +26,7 @@ $faq->addQuestion("Do we really need filters", "<p>In my opinion we definitely n
 
 $faq->addQuestion("Which filters are there?", "Please have a look at the <a href=\"status.php\">status page</a> for all available filters. Please note that this page reflects the state of current development. This means that some filters might not be in the latest release.");
 
-$faq->addQuestion("Which filters are most wanted?", "Please refer to our <a href=\"todo.phtml\">pending and most wanted filters</a>.");
+$faq->addQuestion("Which filters are most wanted?", "Please refer to our <a href=\"todo.php\">pending and most wanted filters</a>.");
 
 $faq->addQuestion("How to use a filter?", "
 <p>The KOffice Library Developers have done a good job and you will not even notice when you use a filter to convert a file to the part's native format. OK, you can see it (debug output), but there is no difference for you at all. Just select <br />
@@ -149,7 +151,7 @@ $faq->addQuestion("How do I develop a filter?", "
                    The X-KDE-Library field has to contain the library name. Don't
                    forget to update that when you change the name of the lib!</li>
               <li> status.html: This file contains status information about your
-                   filter. Please check <a href=\"http://www.koffice.org/filters/status.phtml\">
+                   filter. Please check <a href=\"status.php\">
                    the koffice site</a> for examples.</li>
             </ul></li>
         <li>If KDE doesn't &quot;know&quot; your mimetype up to now, please add a
