@@ -82,6 +82,21 @@ sub-directories below it. Of course, here too, you want to redirect the output.<
 recommended to do it for a patch that should be applied again. (The problem is that the person that will apply
 the patch will have to be more careful about how he applies it.)</p>
 
+<h2>Non-Text Files</h2>
+
+<p>TODO (In short: non-text files are not covered by diff or by cvs diff, so they need to be attached separately to the email.)</p>
+
+<h2>New Files</h2>
+
+<p>TODO (In short: cvs diff cannot take care of new file if you do not have a wirte access on the CVS.
+So those files need to be attached separately to the email.)</p>
+
+<h2>How To Share the Patch?</h2>
+
+<p>TODO (In short: patch bigger than a few 10KB sould not be send to the mailing list. If there is a bug registered at KDE Bugs,
+they should be attached there. If not, you should make them public on a Web server where you have access. If you have not,
+ask in the mailing list who would be interested by such a patch and send it to people that answer that they want your patch.)</p>
+
 <h2>Preparing The Email</h2>
 
 <p>Now you have a patch redirected into a file (for this example called patch.diff), you are ready to send it by email.
