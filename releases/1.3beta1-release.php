@@ -11,6 +11,38 @@
       <ul>
       <li><a href="/announcements/announce-1.3-beta1.php">Announcement</a></li>
       </ul>
+
+<div style="border:thick solid red">
+
+    <h2>Security Errata</h2>
+    
+    <p>KOffice 1.3 Beta 1 has an integer overflow vulnerability in KWord's PDF import filter.</p>
+
+    <p>
+        <a href="security/xpdf-CESA-2004-007-xpdf2-newer.diff">
+            A patch for the source package is available.
+        </a>
+        (MD5 sum: <tt>cd0c18c4dace10e5dbc156fb29cfd581</tt> )
+    </p>
+
+    <p>The patch applies to the directory koffice/filters/kword/pdf/xpdf .</p>
+
+    <p>
+        To patch, do: (please adjust paths) <br />
+        <code>
+            cd koffice/filters/kword/pdf/xpdf<br />
+            patch -p0 &lt; xpdf-CESA-2004-007-xpdf2-newer.diff
+        </code>
+    </p>
+    
+    <p>For background information about the vulnerability,
+        <a href="http://kde.org/info/security/advisory-20041021-1.txt">
+            please see the corresponding security advisiory for KDE.
+        </a>
+    </p>
+    
+</div>
+      
       <h2>Changelog</h2>
       <ul>
       <li><a href="/announcements/changelog-1.3beta1.php">Changelog</a></li>
