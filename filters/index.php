@@ -1,23 +1,37 @@
 <?php
-    $page_title="KOffice Filters";
+    $page_title="KOffice Export/Import Filters";
     $site_root = '../';
     include("koffice.inc");
     include("header.inc");
 ?>
-    <h1>Import/Export Filters</h1>
 
     <p>Welcome to the KOffice Filter Information Page.</p>
     <p>Various filters are available for most of the KOffice applications.</p>
    
-    <p><a href="1.2">Please click here for the filter status</a>
-        (currently of KOffice 1.3)!
+    <h2>Stable versions</h2>
+    
+    <p>
+     <ul>
+      <li><a href="1.2">Filter status of KOffice 1.3</a></li>
+     </ul>
     </p>
     
-    <p>(The filter status for KOffice 1.2 is not available anymore, as there
-    were too many errors in it.)</p>
+    <p>Please note that the filter status for KOffice 1.2 is not available
+    anymore, as there were too many errors in it.</p>
 
-    <p>(<a href="../developer/filters">The developer information about the
-    filters were moved.</a>)</p>
+    <h2>Stable branches</h2>
+    
+    <p>The filter status for KOffice 1.3.x is currently not avaialable yet!</p>
+
+    <p>
+     <ul>
+      <li><a href="1_3_1">Filter status of KOffice 1.3.x</a></li>
+     </ul>
+    </p>
+
+    <h2>Developer Information</h2>
+    <p><a href="../developer/filters">The developer information about the
+    filters were moved.</a></p>
    
 <?php
     include("footer.inc");
