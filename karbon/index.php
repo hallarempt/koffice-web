@@ -12,9 +12,9 @@
   $appinfo->setLicense("gpl");
   $appinfo->setCopyright("1998", "the Karbon Team");
   $appinfo->addAuthor("Rob Buis", "buis@kde.org");
-  $appinfo->addAuthor("Lenny Kudling", "kudling@kde.org");
+  $appinfo->addAuthor("Lenny Kudling", ""); // Email removed at developer's request
   $appinfo->addContributor("Rob Buis", "buis@kde.org");
-  $appinfo->addContributor("Lenny Kudling", "kudling@kde.org");
+  $appinfo->addContributor("Lenny Kudling", ""); // Email removed at developer's request
   $appinfo->addContributor("Benoit Vautrin", "benoit.vautrin@free.fr");
   $appinfo->addContributor("Tomislav Lukman", "tomislav.lukman@ck.hinet.hr");
   $appinfo->show();
