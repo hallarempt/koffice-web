@@ -1,3 +1,3 @@
 <?php
-#$section->appendLink("KDE Security","http://www.kde.org/",false);
+  $section->appendDir("KDE Security","http://kde.org/info/security",false);
 ?>
