@@ -9,10 +9,19 @@
     <copyright>Copyright (C) 2003,2004, KOffice.org Webmasters</copyright>
     
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Thu, 12 Feb 2004 09:25 UT</lastBuildDate>
-    
+    <lastBuildDate>Mon, 16 Feb 2004 08:45 UT</lastBuildDate>
+
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>Errata concerning filter translation</title>
+<pubDate>Mon, 16 Feb 2004 08:43 UT</pubDate>
+<description>
+A correction to the previous news: it is also enough just to simply replace
+the instance name with "kofficefilters".
+</description>
+</item>
 
 <item>
 <title>New Translation Catalogue For Filters</title>
