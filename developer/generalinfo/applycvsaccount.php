@@ -81,7 +81,7 @@ applying for a KDE CVS account but still, do continue to send patches.</p>
 
 <p>The limitations are not there to exclude anyone - they are there to ensure that the maintenance of accounts remains reasonable.</p>
 
-<p>Of course, to be clear: <em>the <a href="mailto:sysadmin@office.kde.org">KDE's sysadmins</a>
+<p>Of course, to be clear: <em>the <a href="&#109;&#x61;i&#0108;to:&#115;y&#x73;a&#100;&#x6d;in&#x40;&#111;f&#x66;i&#99;&#101;.k&#100;e&#0046;&#111;rg">KDE's sysadmins</a>
   have the last word about whether or not to create a KDE CVS account for somebody.</em></p>
 
 <h2>Getting the Encoded Password</h2>
@@ -142,7 +142,7 @@ use your own (be it a normal address or a KDE Mail address). Of course, do not f
 <p>Now please check again that you have done it all right. (The people who
 will receive your email get hundreds of emails per day, so help them by doing
 it correctly if possible). 
-Then send your email to <a href="mailto:sysadmin@office.kde.org">KDE's sysadmins</a>.</p>
+Then send your email to <a href="m&#x61;i&#0108;&#116;o&#58;&#0115;&#121;sadm&#x69;&#110;&#064;&#00111;&#102;fice&#00046;kd&#101;&#46;&#00111;r&#103;">KDE's sysadmins</a>.</p>
 
 <h2>And Now?</h2>
 

@@ -80,7 +80,7 @@ server.</p>
 <p><em>Please note:</em> the password is stored in the file ~/.cvspass . So check that
 this file cannot be read by third persons. In case that someone has gained
 access to your password (or if you have a doubt) please email
-<a href="mailto:sysadmin@office.kde.org">KDE's Sysadmins</a>
+<a href="&#x6d;a&#x69;&#x6c;&#0116;o&#00058;sy&#x73;&#x61;d&#109;in&#x40;&#111;&#00102;&#x66;&#x69;&#00099;&#x65;&#046;k&#100;&#101;&#46;&#111;&#x72;&#103;">KDE's Sysadmins</a>
 to change your password (or at least to get it disabled temporarily.)</p>
 
 <p>If you are being part of another project using CVS (be it by as
