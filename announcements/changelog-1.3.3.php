@@ -100,7 +100,7 @@
 <h4>KSpread's OOCalc export filter:</h4>
 <ul>
 <li>Fix save manifest.xml into META-INF/</li>
-<li>Implement save settings into settings.xml</li>
+<li>Implement save settings into settings.xml (active table, cursor position)</li>
 </ul>
 
 <h4>Karbon's EPS filter:</h4>
