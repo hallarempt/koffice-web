@@ -9,6 +9,41 @@
   KOffice 1.3 is expected soon, check back regularly!
 </p>
 <?php begin_under_construction(); ?>
+<p>
+On January 27th, the <a href="http://www.kde.org/">KDE Project</a>
+released KOffice 1.3 for Linux and Unix operating systems. KOffice
+is a free set of office applications that integrate with the
+<a href="http://www.kde.org/awards/">award winning</a> KDE desktop. 
+KOffice is a light-weight yet feature rich office solution and
+provides a variety of filters to interoperate with other popular
+office suites such as OpenOffice.org and Microsoft Office.
+</p>
+<p>
+KOffice 1.3 consists of the following applications:
+<ul>
+<li><a href="../kword/">KWord</a> - A frame-based word processor</li>
+<li><a href="../kspread/">KSpread</a> - An advanced spreadsheet application</li>
+<li><a href="../kpresenter/">KPresenter</a> - A full-featured presentation program</li>
+<li><a href="../kivio/">Kivio</a> - A Visio®-style flowcharting application</li>
+<li><a href="../karbon/">Karbon14</a> - A vector drawing application</li>
+<li><a href="../kugar/">Kugar</a> - A tool for generating business quality reports</li>
+<li><a href="../kchart/">KChart</a> - An integrated graph and chart drawing tool</li>
+<li><a href="../kformula/">KFormula</a> - A powerful formula editor</li>
+</ul>
+</p>
+<p>
+Big improvements have been made in KOffice 1.3 with respect to 
+interoperability with other office file formats. It is now for 
+example possible to import as well as export OpenOffice.org
+documents. Also new is the ability to import PDF files into KWord
+and make changes to the document. Support for Microsoft document-
+formats has improved as well.
+<p>
+<i>"Many people have been asking for improved support for the Microsoft
+document-formats and we have made significant improvements in that area
+for this release,"</i> says David Faure, a KOffice developer for
+KlarÃ¤lvdalens Datakonsult AB. <i>"Especially the support for Microsoft 
+Word 95 and Microsoft Word 97 documents has become much better."</i>
 <h4>
   Principal Improvements
 </h4>
