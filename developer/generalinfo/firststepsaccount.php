@@ -10,10 +10,6 @@
 <p>This tutorial is about what to do when you are a fresh owner of a new
 CVS account for KDE.</p>
 
-<p>This tutorial assumes that you have applied for a KDE CVS account like
-descibed <a href="applycvsaccount.php">here</a> and that you have received
-a positive answer with the data of your new account.</p>
-
 <h2>Notations</h2>
 <p><ul>
   <li><em>CVS</em> is used to describe a CVS server, mostly KDE's or
@@ -22,18 +18,26 @@ a positive answer with the data of your new account.</p>
     describe the program named cvs, which the user can use to access CVS.</li>
 </ul></p>
 
+<h2>Preliminary</h2>
+
+<p>This tutorial assumes that you have applied for a KDE CVS account like
+descibed <a href="applycvsaccount.php">here</a> and that you have received
+a positive answer with the data of your new account.</p>
+
 <h2>Changing The Root Of Your Local CVS Copy</h2>
 
 <p>So now you have a KDE CVS account. Please note that the answer email
-will perhaps have an explanation about how to use. It should be similar to this tutorial.
+will perhaps have an explanation about how to use.
+(The explanation is also the file kde-common/cvs_instructions.txt .) <!-- TODO: URL -->
+It should be similar to this tutorial.
 Nevertheless please read this email in case something important was added,
 beyond the scope of this tutorial.</p>
 
 <p>So you need to work with KDE's CVS server now, not anymore with the anonymous
 CVS server that you have used until now.</p>
 
-<p>So you new CVS root will be something like:<br />
-<tt>:pserver:xxxxxx@xxxxxx.kde.org:/xxxxxx/xxxxxx</tt><br />
+<p>So you new CVS root will be something like (assuming <em>family</em> is your account name):<br />
+<tt>:pserver:family@cvs.kde.org:/home/kde</tt><br />
 See the answer email to get your real CVS root name.</p>
 
 <p>Note: to avoid any misunderstanding, the CVS root has <em>nothing</em>
@@ -44,7 +48,7 @@ to do with your system's user named root.</p>
 
 <p>So the change of CVS root has to be done with (in one line):<br />
 <tt>find . -name Root | xargs perl -pe -i
-'s,:pserver:anonymous\@kdecvs.student.utwente.nl:/home/kdecvs/kde,:pserver:xxxxxx\@xxxxxx.kde.org:/xxxxxx/xxxxxx,'
+'s,:pserver:anonymous\@kdecvs.student.utwente.nl:/home/kdecvs/kde,:pserver:family\@cvs.kde.org:/home/kde,'
 </tt></p>
 
 <h2>First Test</h2>
@@ -108,6 +112,8 @@ to change the default editor for you.</p>
 
 <p>Be careful that if you do not set a command line editor but one that needs X-Window, you will need to run cvs
 always in a X-Window terminal. It might suit you, it might not. Your choice!</p>
+
+<!-- TODO: .cvsrc .cvsignore -->
 
 <h2><a id="committing" name="committing" >Committing</a></h2>
 
