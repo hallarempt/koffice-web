@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
     <p>Note: this section is going away, as it is now on
-    <a href="http://developer.kde.org/documentation/misc/index.php>
+    <a href="http://developer.kde.org/documentation/misc/index.php">
     developer.kde.org</a>.
 
    <hr />
