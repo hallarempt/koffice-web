@@ -62,7 +62,7 @@ a single directory... It is more important that some part is done at all.)</p>
 <p><a href="nontrivial.php">Of course KOffice is also still searching developers wanting to do more 
 difficult tasks</a></p>
 
-<p>There is also a <a href="../website/tasks.php">Web Task List</a> for task to do for the 
+<p>There is also a <a href="/developer/website/tasks.php">Web Task List</a> for task to do for the 
 <a href="/">koffice.org site</a>.</p>
 
 <?php
