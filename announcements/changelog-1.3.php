@@ -154,7 +154,7 @@ DTP frames of different widths)</li>
 <li>Fixed KPR 'forgetting' solid line attribute of text frames (#61343)</li>
 <li>Fixed pasting text objects with UTF-8 text</li>
 <li>Snap to Grid function aligns relatively, not absolutely (#56181)</li>
-<li>Fixed problem with cutting&pasting a vertically centered text frame (#61330)</li>
+<li>Fixed problem with cutting&amp;pasting a vertically centered text frame (#61330)</li>
 <li>Fixed cursor not blinking in some cases</li>
 <li>Fixed "blinking cursor erases formatting characters" bug</li>
 <li>"Adjust object to contents" works as intended now</li>
@@ -280,7 +280,7 @@ DTP frames of different widths)</li>
   DPRODUCT, DSTDEV, DSTDEVP, DSUM, DVAR, DVARP
 </p>
 
-<p><em>Reference & Lookup (8):</em>
+<p><em>Reference &amp; Lookup (8):</em>
   ADDRESS, AREAS, CHOOSE, COLUMN, COLUMNS, 
   INDIRECT, ROW, ROWS
 </p>
