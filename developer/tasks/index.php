@@ -26,7 +26,7 @@ a single directory... It is more important that some part is done at all.)</p>
     because it has changed)
     <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a>.
     <ins>Please note that documentation fixes for KOffice 1.3.x are done on
-    KOffice CVS HEAD, so either work with documentation directly or verify
+    KOffice CVS HEAD, so either work with this documentation directly or verify
     after you have found a problem.</ins>
     </li>
 </ul>
