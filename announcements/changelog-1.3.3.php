@@ -137,6 +137,15 @@
   and <a href="http://bugs.kde.org/show_bug.cgi?id=86216">#86216</a>)
 </li>
 </ul>
+
+<h4>KSpread's CSV export filter:</h4>
+<ul>
+  <li>
+    Fix export of sheets with more than 255 rows or columns
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=75781">Bug #75781</a>)
+  </li>
+</ul>
+
 <h4>Karbon's EPS filter:</h4>
 <ul>
 </ul>
