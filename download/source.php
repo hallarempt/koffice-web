@@ -54,8 +54,8 @@ In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
-<p>For KOffice 1.3 stable you need QT 3.1.x, arts, and kdelibs (kdebase recommended too).</p>
-<p>For the development version of KOffice you need QT 3.2.x, arts, and kdelibs 3.2 (Recommended: Qt 3.3 and kdelibs 3.2.1 instead).</p>
+<p>For KOffice 1.3 stable you need Qt 3.1.x, arts, and kdelibs (kdebase recommended too).</p>
+<p>For the development version of KOffice you need Qt 3.2.x, arts, and kdelibs 3.2 (Recommended: Qt 3.3 and kdelibs 3.2.1 instead).</p>
 
 <p>Qt can be <a href="ftp://ftp.trolltech.com/qt/source/">download directly from Trolltech</a>
 and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/">can be downloaded from a KDE server</a>.</p>
@@ -76,7 +76,7 @@ Qt snapshot :<br /><br />
 </p>
 <p>
 And then for each KDE package:<br />
-<em>Make sure you have done the QTDIR export in the QT dir as pointed out above, this is still used!</em><br /><br />
+<em>Make sure you have done the QTDIR export in the Qt dir as pointed out above, this is still used!</em><br /><br />
 <tt>bunzip &lt;package&gt;.tar.bz2 or cvs checkout</tt>
 <br /><tt>tar xvf &lt;package&gt;.tar</tt>
 <br /><tt>cd &lt;package&gt;</tt>
