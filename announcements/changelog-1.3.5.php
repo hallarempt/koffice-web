@@ -118,6 +118,9 @@
   <li>
   	Fix #92061 "KPresenter export bad horizontal lines in Open Office"
   </li>
+  <li>
+  	Fix export vertical line
+  </li>
 </ul>
 
 <?php /*
