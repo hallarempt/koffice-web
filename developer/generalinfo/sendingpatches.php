@@ -94,7 +94,7 @@ So those files need to be attached separately to the email.)</p>
 <h2>How To Share the Patch?</h2>
 
 <p>TODO (In short: patch bigger than a few 10KB should not be sent to the mailing list. If there is a bug registered at KDE Bugs,
-they should be attached there. If not, you should make them public on a Web server where you have access. If you have not,
+the patch should be attached there. If not, you should make them public on a Web server where you have access. If you have not,
 ask in the mailing list who would be interested by such a patch and send it to people that answer that they want your patch.)</p>
 
 <h2>Preparing The Email</h2>
