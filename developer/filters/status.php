@@ -1,6 +1,6 @@
 <?php 
   $page_title="KOffice Filters Status (Development)";
-  $site_root = '../../';
+  $site_root = "../../";
   include("koffice.inc");
   include("header.inc");
 ?><div>
@@ -148,14 +148,14 @@
     <tr>
       <td width="30%" align="left" valign="top">OpenOffice Writer</td>
       <td width="50%" align="left" valign="top"> </td>
-      <td width="10%" align="center" valign="top">**</td>
+      <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">PDF</td>
       <td width="50%" align="left" valign="top">Portable Document Format</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html#import?content-type=text/html">**</a>
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html?content-type=text/html">-</a>
@@ -323,7 +323,7 @@
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">dBase</td>
-      <td width="50%" align="left" valign="top"> </td>
+      <td width="50%" align="left" valign="top">dBase 3 only</td>
       <td width="10%" align="center" valign="top">
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/dbase/status.html#import?content-type=text/html">**</a>
       </td>
@@ -553,7 +553,7 @@
         <b>*</b>
       </td>
       <td valign="top"> -- </td>
-      <td valign="top">Work has begun on the filter although the code is still at an early stage of development, and may not work properly.</td>
+      <td valign="top">Work has begun on the filter although the code is still at an early stage of development, and does not work properly.</td>
     </tr>
     <tr>
       <td valign="top">
