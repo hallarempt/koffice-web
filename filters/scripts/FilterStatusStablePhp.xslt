@@ -3,7 +3,7 @@
 <xsl:template match="/">
 <xsl:processing-instruction name="php">
   $page_title="KOffice Filters Status (KOffice 1.3)";
-  $site_root="../";
+  $site_root="../../";
   include("koffice.inc");
   include("header.inc");
 </xsl:processing-instruction>
