@@ -20,7 +20,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        support for automatic hyphenation.
+        support for automatic hyphenation;
         </div>
       </li>
       <li>
@@ -75,7 +75,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        support for automatic hyphenation.
+        support for automatic hyphenation;
         </div>
       </li>
       <li>
@@ -186,7 +186,7 @@
   KOffice 1.3 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.2.90/">http</a> or
+  <a href="http://download.kde.org/stable/koffice-1.3/">http</a> or
   <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
@@ -221,8 +221,8 @@
 
 <p>
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.2.90/SuSE/">SuSE Linux</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.2.90/contrib/Slackware/">Slackware Linux</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.3/SuSE/">SUSE Linux</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.3/contrib/Slackware/">Slackware Linux</a></li>
 </ul>
 </p>
 
@@ -275,7 +275,7 @@ coming days and weeks.
   The complete source code for KOffice 1.3 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/stable/koffice-1.3/src/">http</a>
-  or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
+  or <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
 </p>
 <p align="justify">
   <u>Further Information</u>.
@@ -296,13 +296,13 @@ coming days and weeks.
   <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
   KOffice developer Laurent Montel),
   <a href="http://www.thekompany.com/">theKompany.com</a> (which has
-  contributed Kivio and Kugar to KOffice)
+  contributed Kivio and Kugar to KOffice),
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
   Datakonsult AB</a> (which partially sponsors KOffice developer
-  David Faure and has contributed KChart to KOffice) and <a href="http://www.suse.com">SuSE AG</a>
+  David Faure and has contributed KChart to KOffice) and <a href="http://www.suse.com">SUSE AG</a>
   which employs Luk&aacute;&scaron; Tinkl, the current KOffice release manager.
-  In addition, a large number of <a href="http://www.kde.org/donations.html">individual
-  sponsors</a> (<a href="http://www.kde.org/support/">donate</a>) have
+  In addition, a large number of <a href="http://www.kde.org/support/donations.php">individual
+  sponsors</a> (<a href="http://www.kde.org/support/support.php">donate</a>) have
   provided significant support for KDE and KOffice.  Thanks!
 </p>
 <h4>
@@ -318,7 +318,7 @@ coming days and weeks.
   platform.  KDE provides a stable, mature desktop, a full, component-based
   office suite (<a href="http://www.koffice.org/">KOffice</a>), a large
   set of networking and administration tools and utilities, and an
-  efficient, intuitive development environment featuring the 
+  efficient, intuitive development environment featuring the
   <a href="http://www.kde.org/awards/">excellent</a> IDE
   <a href="http://www.kdevelop.org/">KDevelop</a>.  KDE is working proof
   that the Open Source "Bazaar-style" software development model can yield
