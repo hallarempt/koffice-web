@@ -84,6 +84,7 @@
             <li>Painting with brushes and colors</li>
             <li>Creating brushes from circles and squares</li>
             <li>Filling with colour and patterns</li>
+	    <li>Gradients</li>
             <li>Erasing</li>
             <li>Airbrush</li>
             <li>Simple geometric forms</li>
