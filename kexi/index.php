@@ -39,7 +39,7 @@ depend on old kexiDB could be ported, Kexi sources can be broken.
 
 <p>
 Kexi is an integrated environment for managing data. It helps creating
-databaase schemas, inserting, querying and processing data.
+database schemas, inserting, querying and processing data.
 
 <P>
 At the moment this documentation is written, drivers for SQLite, MySQL, PostgreSQL,
