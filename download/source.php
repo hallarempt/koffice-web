@@ -84,23 +84,39 @@ And then for each KDE package:
       other packages may be compiled in any order.</p>
       <p>Additionally, all packages mentioned here have to be compiled with the
       <i>same</i> compiler!</p>
-      
+
       <p>
       If anything goes wrong during compilation, you might want to check if a solution
-      is listed on <A HREF="http://developer.kde.org/build/compilationfaq.html">the compilation FAQ</A>.
+      is listed on <A HREF="http://developer.kde.org/build/compilationfaq.html">the compilation FAQ</A>,
+      although it's a bit outdated.
       </p>
-      
+
       <h2>Download and Install KOffice</h2>
 
       <blockquote>
       <tt>bunzip koffice-XXXXXX.tar.bz2</tt><br />
       <tt>tar xvf koffice-XXXXXX.tar</tt><br />
       <tt>cd koffice</tt><br />
-      <tt>./configure</tt><br />
+      <tt>./configure &lt;options, see below&gt;</tt><br />
       <tt>make all</tt><br />
       <tt>su -c "make install"</tt>
       </blockquote>
       </p>
+
+      <h3>Configure options:</h3>
+
+      <p>If you plan to work on KOffice, and if you have quite some
+      disk space available, use ./configure -enable-debug=full. This adds -g3 to the
+      compilation flags, and enables full debug info in backtraces and in gdb.</p>
+
+      <p>Choosing a prefix, i.e. where to install KOffice:
+      you have two choices. Either you just compiled KDE (in particular kdelibs) into its own prefix,
+      then you should use the same prefix for koffice, or you want to install KOffice into its
+      own prefix. If you do that, you'll have to make sure to tell KDE about where you installed
+      KOffice. See the note below. You'll also have to make sure you don't have another version
+      of KOffice installed in the KDE prefix ; they would conflict. It's ok to have two versions
+      of KOffice installed, but then none should be in the "kde prefix". The other solution
+      is to have two versions of KDE installed, with a version of KOffice in each one.
 
       <p>
       Note: if you used <code>./configure --prefix</code> to install KOffice in a different
@@ -112,6 +128,9 @@ And then for each KDE package:
       <br/>
       Another solution is to export KDEDIRS=/the/prefix/I/used/for/koffice:/the/normal/kdedir
       </p>
+
+      <p>Once you told KDE about where KOffice is, you need to run <b>kbuildsycoca</b>,
+      which updates the system configuration cache in KDE, or to restart KDE.</b>
 
       <p>
       You should now be able to start each individual application, such as <i>kspread</i>,
