@@ -14,7 +14,7 @@
 </p>
 <!--                                 GENERAL                                 -->
 <p align="justify">
-  <u>General</u>.
+  <u>General</u>.</p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -104,9 +104,8 @@
       </div>
     </li>
   </ol>
-</p>
+
 <!--                                 TEXT WIDGET                             -->
-<p align="justify">
   <div align="justify">
   <u>Text Widget (Word Processor and Presentation Program)</u>.
     Both <a href="#kword changelog">KWord</a> and
@@ -154,10 +153,10 @@
       </div>
     </li>
   </ol>
-</p>
+
 <!--                                  KWORD                                  -->
 <p align="justify">
-  <a name="kword changelog"><u>KWord (Word Processor)</u>.</a>
+  <a name="kword changelog"><u>KWord (Word Processor)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -385,10 +384,10 @@
       </ul>
     </li>
   </ol>
-</p>
+
 <!--                                KPRESENTER                               -->
 <p align="justify">
-  <a name="kpresenter changelog"><u>KPresenter (Presentation Tool)</u>.</a>
+  <a name="kpresenter changelog"><u>KPresenter (Presentation Tool)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -529,10 +528,9 @@
       </ul>
     </li>
   </ol>
-</p>
 <!--                                 KSPREAD                                 -->
 <p align="justify">
-  <a name="kspread changelog"><u>KSpread (Spreadsheet Application)</u>.</a>
+  <a name="kspread changelog"><u>KSpread (Spreadsheet Application)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -678,11 +676,10 @@
       </div>
     </li>
   </ol>
-</p>
 
 <!--                                  KUGAR                                  -->
 <p align="justify">
-  <a name="kugar changelog"><u>Kugar (Report Generator)</u>.</a>
+  <a name="kugar changelog"><u>Kugar (Report Generator)</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -810,11 +807,10 @@
       </div>
     </li>
   </ol>
-</p>
 
 <!--                                 FILTERS                                 -->
 <p align="justify">
-  <a name="filters"><u>Filters</u>.</a>
+  <a name="filters"><u>Filters</u>.</a></p>
   <ol type="disc">
     <li>
       <div align="justify">
@@ -882,7 +878,6 @@
       </div>
     </li>
   </ol>
-</p>
 
 <!--                                KARBON 14                                -->
 <!-- SKIP THIS RELEASE

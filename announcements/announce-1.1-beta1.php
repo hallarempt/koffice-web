@@ -1,9 +1,9 @@
-  <?php
-    $page_title =KOffice 1.1 Beta1 Announcement';
-    $site_root = '../';
-    include("koffice.inc");
-    include("header.inc");
-  ?>
+<?php
+  $page_title =KOffice 1.1 Beta1 Announcement';
+  $site_root = '../';
+  include("koffice.inc");
+  include("header.inc");
+?>
 
     <p>DATELINE APRIL 24, 2001</p>
 
@@ -58,7 +58,6 @@
     href="http://i18n.kde.org/teams/distributed.html">25</a> languages.</p>
 
     <h4>KOffice Components</h4>
-     
 
     <p>KOffice is an integrated office suite consisting of numerous components
     which can interact, share data and embed each other using KDE's open KParts
@@ -150,9 +149,6 @@
       </li>
       <!-- KPRESENTER -->
 
-      <li style="list-style: none"><br />
-      </li>
-
       <li>
         <a id="kpresenter" name="kpresenter"></a><a
         href="http://www.koffice.org/kpresenter/"><em>KPresenter</em></a>
@@ -215,9 +211,6 @@
       </li>
       <!-- KSPREAD -->
 
-      <li style="list-style: none"><br />
-      </li>
-
       <li>
         <a id="kspread" name="kspread"></a><a
         href="http://www.koffice.org/kspread/"><em>KSpread</em></a>
@@ -249,9 +242,6 @@
       </li>
       <!-- KILLUSTRATOR -->
 
-      <li style="list-style: none"><br />
-      &nbsp;</li>
-
       <li>
         <a id="killustrator" name="killustrator"></a><a
         href="http://www.koffice.org/kontour"><em>KIllustrator</em></a>
@@ -279,9 +269,6 @@
       </li>
       <!-- KRAYON -->
 
-      <li style="list-style: none"><br />
-      &nbsp;</li>
-
       <li><a id="krayon" name="krayon"></a><a
       href="http://www.koffice.org/krayon/"><em>Krayon</em></a>
       (<em>beta</em>). Krayon (f/k/a KImageShop) is an effort to make a
@@ -291,9 +278,6 @@
       Krayon is being released with KOffice for the first time.<br />
       </li>
       <!-- KIVIO -->
-
-      <li style="list-style: none"><br />
-      &nbsp;</li>
 
       <li>
         <a id="kivio" name="kivio"></a><a
@@ -367,9 +351,6 @@
       </li>
       <!-- KCHART -->
 
-      <li style="list-style: none"><br />
-      </li>
-
       <li>
         <a id="kchart" name="kchart"></a><a
         href="http://www.koffice.org/kchart/"><em>KChart</em></a>
@@ -413,9 +394,6 @@
       </li>
       <!-- KUGAR -->
 
-      <li style="list-style: none"><br />
-      </li>
-
       <li>
         <a id="kugar" name="kugar"></a><a
         href="http://www.thekompany.com/projects/kugar/"><em>Kugar</em></a>
@@ -453,9 +431,6 @@
       </li>
       <!-- FILTERS -->
 
-      <li style="list-style: none"><br />
-      </li>
-
       <li>
         <a id="filters" name="filters"></a><a
         href="http://www.koffice.org/filters/"><em>Filters</em></a>. Various
@@ -477,14 +452,8 @@
         </ul>
       </li>
     </ol>
-    <br />
-    <br />
-     
 
     <h4>Downloading and Compiling KOffice</h4>
-    <br />
-    <br />
-     
 
     <p>The source packages for KOffice 1.1beta1 are available for free download
     at <a
@@ -516,9 +485,6 @@
     instructions</a>.</p>
 
     <h4>Installing Binary Packages</h4>
-    <br />
-    <br />
-     
 
     <p>Some distributors choose to provide binary packages of KOffice for
     certain versions of their distribution. Some of these binary packages for
@@ -607,9 +573,6 @@
      
 
     <h4>About KOffice/KDE</h4>
-    <br />
-    <br />
-     
 
     <p>KOffice is part of the KDE project. KDE is an independent, collaborative
     project by hundreds of developers worldwide to create a sophisticated,
@@ -627,9 +590,6 @@
     href="http://www.koffice.org/getinvolved/">contributing to KOffice</a>.</p>
 
     <h4>Corporate KOffice Sponsors</h4>
-    <br />
-    <br />
-     
 
     <p>Besides the valuable and excellent efforts by the <a
     href="http://www.koffice.org/people.php">KOffice developers</a> themselves,
@@ -692,4 +652,3 @@
     <?php
       include("footer.inc");
     ?>
-

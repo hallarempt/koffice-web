@@ -526,8 +526,6 @@
     </ul>
   </li>
 -->
-
-  <p />
   <li>
     <a href="http://www.slackware.com/">Slackware Linux</a>
     (<a href="http://download.kde.org/stable/koffice-1.2/contrib/Slackware/README">README</a>)
@@ -538,8 +536,6 @@
       </li>
     </ul>
   </li>
-
-  <p />
   <li>
     <a href="http://www.suse.com/">SuSE Linux</a>:
     <ul>
@@ -560,8 +556,6 @@
       </li>
     </ul>
   </li>
-
-  <p />
   <li>
     <a href="http://www.turbolinux.com/">Turbolinux</a>:
     <ul>

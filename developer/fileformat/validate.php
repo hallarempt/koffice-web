@@ -55,7 +55,7 @@
    for f in content.xml styles.xml meta.xml; do
      echo "Checking $f..." ; oasislint $f && echo "Checking $f strict..." && oasislint-strict $f
    done
-   <code></pre>
+   </code></pre>
 
 <?php
    include("footer.inc");

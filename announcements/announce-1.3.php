@@ -15,7 +15,7 @@ provides a variety of filters to interoperate with other popular
 office suites such as OpenOffice.org and Microsoft Office.
 </p>
 <p>
-KOffice 1.3 consists of the following applications:
+KOffice 1.3 consists of the following applications:</p>
 <ul>
 <li><a href="../kword/">KWord</a> - A frame-based word processor</li>
 <li><a href="../kspread/">KSpread</a> - An advanced spreadsheet application</li>
@@ -26,7 +26,6 @@ KOffice 1.3 consists of the following applications:
 <li><a href="../kchart/">KChart</a> - An integrated graph and chart drawing tool</li>
 <li><a href="../kformula/">KFormula</a> - A powerful formula editor</li>
 </ul>
-</p>
 <p>
 Big improvements have been made in KOffice 1.3 with respect to 
 interoperability with other office file formats. It is now for 
@@ -39,7 +38,7 @@ formats has improved as well.
 document-formats and we have made significant improvements in that area
 for this release,"</i> says David Faure, a KOffice developer for
 Klarälvdalens Datakonsult AB. <i>"Especially the support for Microsoft 
-Word 95/97/2000/XP documents has become much better."</i>
+Word 95/97/2000/XP documents has become much better."</i></p>
 <h4>
   Principal Improvements
 </h4>
@@ -250,12 +249,10 @@ Word 95/97/2000/XP documents has become much better."</i>
   At the time of this release, pre-compiled packages are available for:
 </p>
 
-<p>
 <ul>
   <li><a href="http://download.kde.org/stable/koffice-1.3/SuSE/">SUSE Linux</a></li>
   <li><a href="http://download.kde.org/stable/koffice-1.3/contrib/Slackware/">Slackware Linux</a></li>
 </ul>
-</p>
 
 <p align="justify">
 Please check the servers periodically for pre-compiled packages for other
@@ -366,7 +363,7 @@ coming days and weeks.
   about KDE is available from KDE's
   <a href="http://www.kde.org/family/">family of web sites</a>.
 </p>
-<hr>
+<hr />
 <p align="justify">
   <font size="2">
   <em>Release Coordinator</em>:  Thanks to Luk&aacute;&scaron;
@@ -397,8 +394,8 @@ coming days and weeks.
   the property of their respective owners.
   </font>
 </p>
-<hr>
-<h4>Press Contacts</h2>
+<hr />
+<h4>Press Contacts</h4>
 <table cellpadding="10"><tr valign="top">
 <td>
 

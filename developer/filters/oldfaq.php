@@ -21,15 +21,14 @@ $faq->addQuestion("Do we really need filters", "In my opinion we definitely need
 <li>What about the character sets (i.e. the encoding of umlauts and so on)?</li>
 <li>Can I use Unicode characters in the other office suite?</li>
 </ul>
-<p>Another problem is that some vendors of proprietary office suites provide inaccurate and/or incomplete documentation of the file formats (or no information at all). This is one of the obstacles we face because it's really time consuming to search for information in a binary file as you can imagine... (At this place I'd like to thank Espen Sand for his brillant KHexEditor <i>(should be on your hard disk already if you installed the <b>kdeutils</b> package).</i>
-</p>");
+<p>Another problem is that some vendors of proprietary office suites provide inaccurate and/or incomplete documentation of the file formats (or no information at all). This is one of the obstacles we face because it's really time consuming to search for information in a binary file as you can imagine... (At this place I'd like to thank Espen Sand for his brillant KHexEditor <i>(should be on your hard disk already if you installed the <b>kdeutils</b> package).</i>");
 
 $faq->addQuestion("Which filters are there?", "Please have a look at the <a href=\"status.php\">status page</a> for all available filters. Please note that this page reflects the state of current development. This means that some filters might not be in the latest release.");
 
 $faq->addQuestion("Which filters are most wanted?", "Please refer to our <a href=\"todo.php\">pending and most wanted filters</a>.");
 
 $faq->addQuestion("How to use a filter?", "
-<p>The KOffice Library Developers have done a good job and you will not even notice when you use a filter to convert a file to the part's native format. OK, you can see it (debug output), but there is no difference for you at all. Just select <br />
+The KOffice Library Developers have done a good job and you will not even notice when you use a filter to convert a file to the part's native format. OK, you can see it (debug output), but there is no difference for you at all. Just select <br />
 <code><b><i>File -> Open...</i></b></code> for import or <br />
 <code><b><i>File -> Save</i></b></code> or
 <code><b><i>File -> Save As...</i></b></code>
@@ -39,9 +38,9 @@ and choose the filter which should be used. If you import files with a known mim
 $faq->addSection("Developing Filters for KOffice");
 
 $faq->addQuestion("Prepare the Environment",
-"<p>As the development version of KOffice needs KDE 3 it's necessary to install at least parts of <b>KDE 3</b>
+"As the development version of KOffice needs KDE 3 it's necessary to install at least parts of <b>KDE 3</b>
 (<b><i>Qt 3, kdesupport, arts, kdelibs, kdebase - in this order</i></b>) and - of course - <b><i>KOffice</i></b>.
-I recommend looking for further information on <a href=\"http://www.koffice.org/download/source.php\" how to install</a>
+I recommend looking for further information on <a href=\"http://www.koffice.org/download/source.php\">how to install</a>
 it. To get some help from real KOffice experts please <a href=\"http://www.kde.org/contact.html\">join the KOffice or the KOffice-Devel
 mailing lists</a> (koffice@kde.org and koffice-devel@kde.org). There is an archive of those lists and you can find them all at
 <a href=\"http://lists.kde.org\">http://lists.kde.org</a>.<br />
@@ -53,11 +52,10 @@ The resulting
 binaries are quite large and a little bit slower, but nonetheless this
 is an enormous help if you are developing and debugging something.</p>
 <p>Oh, and use <a href=\"ftp://ftp.gnu.org/pub/gnu/gdb/\"><b>gdb-5.0</b></a>
-or later, because gdb-4.x always crashed on KOffice stuff (at least for me).</p>
-");
+or later, because gdb-4.x always crashed on KOffice stuff (at least for me).");
 
 $faq->addQuestion("Behind the Scenes",
-"<p>There are several ways for programming a filter depending on your
+"There are several ways for programming a filter depending on your
 needs. However, unless you <i>really</i> need a non-standard filtering
 method (e.g. because you'd like to import huge amounts of data and the
 performance is bad, or if you want to import embedded files, too) we
@@ -96,11 +94,10 @@ All the filters have to inherit <code><b><i>KoFilter</i></b></code>
 pure virtual method <code><b><i>convert(...)</i></b></code>. This
 method is called by the filter manager and the filter should start
 to convert the file (i.e. open the file, read it, convert the contents,
-write it back to the disk).</p>
-");
+write it back to the disk).");
 
 $faq->addQuestion("How do I develop a filter?", "
-      <p>Please download the <a href=\"template.tar.gz\">filter template</a> first.
+      Please download the <a href=\"template.tar.gz\">filter template</a> first.
       Then follow this step-by-step guidelines to set up your own filter:</p>
       <ol>
         <li>Untar the template somewhere in the koffice/filters directory
@@ -169,11 +166,12 @@ $faq->addQuestion("How do I develop a filter?", "
            sources. If you can't put it somewhere please send it to
             <a href=\"mailto:trobin@kde.org\">me</a> as email attachment
             (not to the list, please). I'll take care of uploading it then.</li>
+       </ol><p>&nbsp;
 ");
 
 $faq->addQuestion("Advanced Techniques",
  "
-  <p>One of the major strengths of an Office Suite is the ability
+  One of the major strengths of an Office Suite is the ability
          to &quot;embed&quot; documents into other documents (e.g. to
          embed a spreadsheet or a chart into a text document or a
          presentation). There are two fundamentally different ways to
@@ -260,19 +258,18 @@ $faq->addQuestion("Advanced Techniques",
       the <b>dot</b> tool (part of the <a href=\"http://www.research.att.com/sw/tools/graphviz/\">graphviz</a>
       package). Invoke the test program and then call <code>make dot</code> and a file called
       <i>graph.png</i> will be created (take care, it's a bit wide ;-).
-      </p>
-");
+     ");
 
 $faq->addQuestion("Remaining Questions?", "
-     <p>Feel free to ask <a href=\"mailto:trobin@kde.org\">me</a> if there are
+     Feel free to ask <a href=\"mailto:trobin@kde.org\">me</a> if there are
       any remaining questions. BTW: It's generally a good idea to ask on
       <a href=\"mailto:koffice@kde.org\">koffice@kde.org</a> whether anyone
-      works on a filter before starting to implement it :)</p>
+      works on a filter before starting to implement it :)
 
 ");
 
 $faq->addQuestion("File Formats - Doctype Definitions", "
-      <p>This section contains some useful documentation (I'll add more stuff
+      This section contains some useful documentation (I'll add more stuff
       here, soon):</p>
 
       <ul>
@@ -312,14 +309,14 @@ $faq->addQuestion("File Formats - Doctype Definitions", "
            <br /><br /></li>
      </ul>
 
-     Here is a little advice (from IBM) how to read doctype descritions. If you look at that page it shouldn't be a problem to understand how to read them.<br />
+     <p>Here is a little advice (from IBM) how to read doctype descriptions. If you look at that page it shouldn't be a problem to understand how to read them.<br />
      &nbsp;&nbsp; <a href=\"http://www-106.ibm.com/developerworks/library/buildappl/writedtd.html\"><b>Doctype Description</b></a>
 ");
 
 
 $faq->addQuestion("Add Documentation", "
 
-      <p>So if you have done your filter please add some information. <br />
+      So if you have done your filter please add some information. <br />
       At least add a statusfile <code><b><i>status.html</i></b></code>. Inside
       of that file you should insert </p>
       <ul>
@@ -343,7 +340,7 @@ $faq->addQuestion("Add Documentation", "
       Statusfile template is here:
       <a href=\"TEMPLATE_STATUS.html\">temp</a>&nbsp;&nbsp;
       <p>If you have done your documentation and the tables are looking right mail it.</p>
-      <p>If you are doing some update don't forget to update your documentation too!</p>
+      <p>If you are doing some update don't forget to update your documentation too!
 ");
 
 $faq->show();

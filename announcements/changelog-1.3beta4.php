@@ -12,50 +12,50 @@
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <ul>
-<li>Fixed saving of the window size when closing
+<li>Fixed saving of the window size when closing</li>
 <li>Cache the configuration object around kofficerc,
-  to improve startup performance
+  to improve startup performance</li>
 </ul>
 
 <h4>KoText library features (shared between KWord and KPresenter):</h4>
 <ul>
 <li>Improve hierarchical numbering  - doesn't require using a suffix of '.' anymore,
-  and doesn't copy over the prefix and suffix from parent levels anymore (#40911).
-<li>PgUp/PgDown works better than before when "move the caret" is enabled (#45246)
-<li>Fixed painting of non-breakable-spaces (could show up as a visible square)
-<li>Implemented painting of non-breakable-spaces when "draw formatting characters" is on
-<li>Fixed crash (e.g. happening with 'section title' variable, #61735)
-<li>Fixed pasting of plain text (so that it creates new pages if necessary, #58651)
-<li>Fixed insert dialog for date and time variables
-<li>Added more default formats for date variables
+  and doesn't copy over the prefix and suffix from parent levels anymore (#40911).</li>
+<li>PgUp/PgDown works better than before when "move the caret" is enabled (#45246)</li>
+<li>Fixed painting of non-breakable-spaces (could show up as a visible square)</li>
+<li>Implemented painting of non-breakable-spaces when "draw formatting characters" is on</li>
+<li>Fixed crash (e.g. happening with 'section title' variable, #61735)</li>
+<li>Fixed pasting of plain text (so that it creates new pages if necessary, #58651)</li>
+<li>Fixed insert dialog for date and time variables</li>
+<li>Added more default formats for date variables</li>
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
 <ul>
-<li>Fixed handling of part frames (clicking didn't select it anymore, #63041)
-<li>Fixed cursor shape when pressing Ctrl.
-<li>Unbreak text view mode (cursor disappeared, #57554)
+<li>Fixed handling of part frames (clicking didn't select it anymore, #63041)</li>
+<li>Fixed cursor shape when pressing Ctrl.</li>
+<li>Unbreak text view mode (cursor disappeared, #57554)</li>
 </ul>
 
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
-<li>Fixed cursor not blinking in some cases
-<li>Fixed "blinking cursor erases formatting characters" bug
-<li>"Adjust object to contents" works as intended now
-<li>Purpose of the 'Notebar' is unknown (#63037)
+<li>Fixed cursor not blinking in some cases</li>
+<li>Fixed "blinking cursor erases formatting characters" bug</li>
+<li>"Adjust object to contents" works as intended now</li>
+<li>Purpose of the 'Notebar' is unknown (#63037)</li>
 <li>kpresenter crashed when I tried to insert the variable
-  "section title" (#61735)
+  "section title" (#61735)</li>
 <li>large footer from kpresenter 1.2.1 will crash kpresenter
-  (#61449)
+  (#61449)</li>
 <li>embedded spreadsheet (table button) appears at wrong size
-  (#58498)
-<li>embedded kspread object displayed with wrong size (#33233)
+  (#58498)</li>
+<li>embedded kspread object displayed with wrong size (#33233)</li>
 <li>KPresenter hangs when inserted text wraps to newline
-  (#56946)
-<li>layer lowering is incorrect (#53277)
-<li>resize handles deceptive when zoomed out (#61602)
+  (#56946)</li>
+<li>layer lowering is incorrect (#53277)</li>
+<li>resize handles deceptive when zoomed out (#61602)</li>
 <li>fixed painting garbage at a side of the screen in the presentation mode (on
-  weird DPIs)
+  weird DPIs)</li>
 </ul>
 
 
@@ -75,8 +75,8 @@
 
 <h3><a name="kivio">Kivio</a></h3>
 <ul>
-<li>Fixed layout problem at start up when using a template
-<li>Fixed deletion of connected connectors
+<li>Fixed layout problem at start up when using a template</li>
+<li>Fixed deletion of connected connectors</li>
 </ul>
 
 <!--

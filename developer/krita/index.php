@@ -143,7 +143,7 @@
     <h3>Design documents</h3>
 
     <p>The most relevant design document can be found in Krita's CVS, and is called
-      <a href"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/DESIGN">DESIGN</a>. Earlier design
+      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/DESIGN">DESIGN</a>. Earlier design
       documents, with a mostly historical interest are <a href="./overall_design.txt">Overall Design</a>
       and <a href="gui_design.txt">Gui Design</a>.</p>
 

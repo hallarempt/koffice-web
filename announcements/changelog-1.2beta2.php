@@ -512,7 +512,7 @@
 
 
 
-<h3><a name="#filters_changelog">Filters</a></h3>
+<h3><a name="filters_changelog">Filters</a></h3>
 <p>
   The KWord filters have received the greatest attention this round:
 </p>

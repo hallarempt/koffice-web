@@ -34,7 +34,7 @@ DTP frames of different widths).</li>
 <li>KPR 'forgets' solid line attribute of text frames (#61343)</li>
 <li>fix pasting text objects screwing UTF-8 text</li>
 <li>snap to Grid function aligns relatively, not absolutely (#56181)</li>
-<li>when cutting&pasting a vertically centred text frame,
+<li>when cutting&amp;pasting a vertically centred text frame,
   the vertical position changes (#61330)</li>
 <li>grid, snap to grid are on now by default, with a finer step of 5mm
   (#60011 and #60013)</li>

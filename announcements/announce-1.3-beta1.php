@@ -292,12 +292,10 @@
   At the time of this release, pre-compiled packages are available for:
 </p>
 
-<p>
 <ul>
   <li><a href="http://download.kde.org/unstable/koffice-1.2.90/SuSE/">SuSE Linux</a></li>
   <li><a href="http://download.kde.org/unstable/koffice-1.2.90/contrib/Slackware/">Slackware Linux</a></li>
 </ul>
-</p>
 
 <p align="justify">
 Please check the servers periodically for pre-compiled packages for other
@@ -415,7 +413,7 @@ coming days and weeks.
   about KDE is available from KDE's
   <a href="http://www.kde.org/family/">family of web sites</a>.
 </p>
-<hr>
+<hr />
 <p align="justify">
   <font size="2">
   <em>Release Coordinator</em>:  Thanks to Luk&aacute;&scaron;
@@ -454,7 +452,7 @@ coming days and weeks.
   the property of their respective owners.
   </font>
 </p>
-<hr>
+<hr />
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <th colspan="2" align="left">

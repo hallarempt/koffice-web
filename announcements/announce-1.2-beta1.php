@@ -138,8 +138,8 @@
         the cursor when the mouse has been idle for some time.
       </li>
     </ol>
-  <p />
-    <u>KWord (Word Processor)</u>.
+
+    <p><u>KWord (Word Processor)</u>.</p>
     <ol type="disc">
       <li>
         <em>Image handling</em>.  You can replace the image in a frame (rather

@@ -294,7 +294,7 @@ coming days and weeks.
   about KDE is available from KDE's
   <a href="http://www.kde.org/family.html">family of web sites</a>.
 </p>
-<hr>
+<hr />
 <p align="justify">
   <font size="2">
   <em>Release Coordinator</em>:  Thanks to
@@ -335,7 +335,7 @@ coming days and weeks.
   the property of their respective owners.
   </font>
 </p>
-<hr>
+<hr />
 <table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <th colspan="2" align="left">

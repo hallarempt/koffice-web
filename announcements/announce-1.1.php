@@ -142,7 +142,6 @@ Library Requirements</a>.
 <a name="binpackloc"><em><strong>Package Locations</strong></em>.</a>
 At the time of this release, pre-compiled packages are available for:
 </p>
-<p>
 <ul>
 <li><a href="http://www.caldera.com/">Caldera Systems</a> (<a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/README">README</a>)</li>
 <ul>
@@ -189,7 +188,8 @@ At the time of this release, pre-compiled packages are available for:
 </ul>
 <li>Tru64 Systems:  <a href="http://master.kde.org/stable/koffice-1.1/Tru64/">4.0e,f,g, or 5.x</a> (<a href="http://master.kde.org/stable/koffice-1.1/Tru64/README.Tru64">README.Tru64</a>)</li>
 </ul>
-</p>
+
+<p>
 Please check the servers periodically for pre-compiled packages for other
 distributions.  More binary packages may become available over the
 coming days and weeks; in particular,
@@ -252,6 +252,8 @@ For more information on the kdelibs-2.2 release, please see the
 announcement</a>.
 </li>
 </ul>
+
+<p>
 KOffice 1.1 will not work with versions of Qt older than 2.2.4 or
 versions of kdelibs older than 2.1.1.
 </p>
@@ -302,7 +304,6 @@ date and time or a custom variable;</li>
 <li>auto-correction and spell checking; and</li>
 <li>templates.</li>
 </ul>
-</p>
 <p>
 More information about KWord
 <a href="http://www.koffice.org/kword/features.php">features</a>, as well as
@@ -311,7 +312,7 @@ are available at the <a href="http://www.koffice.org/kword/">KWord website</a>.
 </p>
 <h5><a name="kpresenter">KPresenter</a></h5>
 <p>
-KPresenter is a presentation application.  Its features include:
+KPresenter is a presentation application.  Its features include:</p>
 <ul>
 <li>inserting and editing rich text (with bullet points, indentation, spacing,
 colors, fonts, etc.);</li>
@@ -333,7 +334,6 @@ changing slides;</li>
 <li>using XML as the document format; and</li>
 <li>a Presentations Structure Viewer.</li>
 </ul>
-</p>
 <p>
 More information about KPresenter, including some
 <a href="http://www.koffice.org/kpresenter/screenshots.php">screenshots</a>,
@@ -344,7 +344,7 @@ website</a>.
 <p>
 KSpread is a scriptable spreadsheet program which provides both
 table-oriented sheets and support for complex mathematical formulas
-and statistics.  KSpread features include:
+and statistics.  KSpread features include:</p>
 <ul>
 <li>multiple tables/sheets per document;</li>
 <li>templates;</li>
@@ -365,7 +365,6 @@ etc.); and</li>
 <li>cell customization (data/number format, precision, border, alignment,
 rotation, background color and pattern, font type, style and size, etc.).</li>
 </ul>
-</p>
 <p>
 More information about KSpread, including some
 <a href="http://www.koffice.org/kspread/screenshots.php">screenshots</a>,
@@ -410,7 +409,7 @@ could convert a directory of C++ header files and into a graphical
 class map, or an object could explore and map out a specified network.
 The selected scripting language chosen is
 <a href="http://www.python.org/">Python</a>, though knowledge of Python
-or programming is not required to use Kivio.  Kivio's features include:
+or programming is not required to use Kivio.  Kivio's features include:</p>
 <ul>
 <li>dynamically loadable stencils with support for various attributes,
  such as border width, foreground color and fill style (gradient, solid
@@ -429,7 +428,6 @@ shapes); and</li>
 <li>a dynamically resizing grid (the grid scale becomes finer as you
 zoom in).</li>
 </ul>
-</p>
 <p>
 More information about Kivio, including a
 <a href="http://www.thekompany.com/projects/kivio/kivio_tut/">tutorial</a>,
@@ -454,7 +452,6 @@ bar width, dataset gap, pie chart radius, etc.) in either absolute pixels or
 relative to the window size (this makes your chart independent of the
 window size).</li>
 </ul>
-</p>
 <p>
 More information about KChart, including some
 <a href="http://www.koffice.org/kchart/screenshots.php">screenshots</a>,
@@ -464,7 +461,7 @@ website</a>.
 <h5><a name="kformula">KFormula</a></h5>
 <p>
 KFormula is an easy-to-use formula editor which provides basic input
-facilities and support functionality.  Features include:
+facilities and support functionality.  Features include:</p>
 <ul>
 <li>numerous predefined symbols, including delimiters, matrices, indices,
 roots, fractions, integrals and brackets;</li>
@@ -473,7 +470,6 @@ roots, fractions, integrals and brackets;</li>
 <li>advanced syntax highlighting; and</li>
 <li>multi-level undo support.</li>
 </ul>
-</p>
 <p>
 More information about KFormula, including some
 <a href="http://www.koffice.org/kformula/screenshots.php">screenshots</a>,

@@ -87,7 +87,7 @@ Current Kexi version is 0.1 beta 3. See <a href="http://www.kexi-project.org/ann
 <h3>Data Processing and Access</h3>
 <ul>
  <li>User-defined forms for data input and presentation (in progress)</li>
- <li>Scripting support (rewrite planned) <!-- with a JavaScript/ECMA-Script like language
+ <li>Scripting support (rewrite planned) with a JavaScript/ECMA-Script like language
  (<a href="http://www.trolltech.com/products/qsa/index.html">QSA</a>)</li>
  <li>KWord mailmerge integration</li>
  <li>Easy data report generation (rewrite planned)</li>

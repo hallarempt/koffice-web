@@ -35,7 +35,7 @@ is still small enough that it is fairly easy to 'get into' the codebase, and sta
 ready for a plugin-framework or an extensible toolset.");
 
 $faq->addQuestion("What Does it Do?",
- "<p>Or rather, what <i>should</i> it do, and what does it do already:</p>
+ "Or rather, what <i>should</i> it do, and what does it do already:</p>
 <ul>
 <li>brushes, drawing and layer editing tools (not complete)</li>
 <li>RGB, RGBA and CMYK color modes with adjustable color selectors (complete) Grayscale needs to be done.</li>
@@ -79,7 +79,7 @@ KParts architecture and plugins allow:
 <li>additional filters</li>
 <li>components loaded as needed</li>
 </ul>
-");
+<p>&nbsp;");
 $faq->addQuestion("When will it be released?",
 "Well, Krita may be part of KOffice, it's not nearly usable enough to be released together with KOffice. I'd
 love to be able to say that Krita will be done in time for Koffice 1.4, but that would be promising

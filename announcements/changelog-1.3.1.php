@@ -11,9 +11,9 @@
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
-KOfficeCore:
+<p>KOfficeCore:</p>
 <ul>
-<li>Changed .desktop file setup so that changes to the K menu structure,</li>
+<li>Changed .desktop file setup so that changes to the K menu structure,
   to file-program associations, or other distribution customizations cannot
   prevent KOffice applications from starting.</li>
 <li>Fixed parsing of number+unit, due to change in Qt 3.3. Fixes problems
@@ -22,7 +22,7 @@ KOfficeCore:
 <li>Improved error handling to catch "partition full" problems.</li>
 </ul>
 
-KOfficeUI:
+<p>KOfficeUI:</p>
 <ul>
 <li>Fix overwriting of templates (#73537)</li>
 <li>Fix loading icons when creating templates</li>
@@ -143,7 +143,7 @@ KOfficeUI:
 <ul>
 <li>fix some paragraph formattings in the enhanced mode (margins, linespacing)</li>
 <li>fix background colour in enhanced mode</li>
-<li>fixed pictures
+<li>fixed pictures</li>
 </ul>
 
 <em>KPresenter's OOImpress export filter:</em>
