@@ -85,7 +85,7 @@
       <h3>Status</h3>
 
       <p>Krita has been under development since 1999, but that doesn't mean it's
-        anywhere near usable yet. Currently (that is, August 2004) working are:</p>
+        anywhere near usable yet. Currently (that is, March 2005) working are:</p>
 
         <ul>
             <li>Painting with brushes and colors</li>
@@ -104,9 +104,10 @@
             <li>Loading Gimp brushes, pipe brushes, gradients and patterns.</li>
             <li>Zoom.</li>
             <li>Color selection.</li>
-            <li>Gray(A), RGB(A) and CMYK(A) color models.</li>
+            <li>Gray(A), RGB(A) and color models.</li>
             <li>Support for Wacom tablets.</li>
             <li>High-quality scaling</li>
+	    <li>Selections</li>
             <li>And much, much more</li>
         </ul>
 

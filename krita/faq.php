@@ -25,20 +25,23 @@ $faq->addQuestion("What are Krita's Development Goals ?",
  "Krita is primarily a painting program, although it has image processing capabilities.
   This means that Krita is intended for creative people who desire to paint and draw with computer software as they do with
    real-world tools in an art studio.  If you are looking for a tool primarily to apply effects to existing images or
-   photos, to catalog images, or to view images other software may be more suitable.  Ease of use and power as a
+   photos, to catalog images, or to view images other software (such as <a href="http://digikam.sf.net">Digikam</a>) may be more suitable.  Ease of use and power as a
    painting application will always have a higher priority in Krita's ongoing development.");
 
 $faq->addQuestion("How Does it Work?",
 "This question is answered globally in <a href=\"/developer/krita/\">Developing Krita</a>. The most complete answer
 can of course be found in the <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita\">Krita source.</a>  Krita
-is still small enough that it is fairly easy to 'get into' the codebase, and start adding features. It's not yet
-ready for a plugin-framework or an extensible toolset.");
+is still small enough at under a tenth of the code size of the Gimp that it is fairly easy to 'get into' the codebase, and start adding features. 
+Almost all functionality, from color models to tools, from filters to file formats, from colour pickers screenshot grabbers 
+is implemented as plugins on a small core. You could start you very own first Krita plugin today by simply following the 
+<a href="http://webcvs.kde.org/koffice/krita/plugins/example">lead of the example plugin</a>");
 
 $faq->addQuestion("What Does it Do?",
  "Or rather, what <i>should</i> it do, and what does it do already:</p>
 <ul>
 <li>brushes, drawing and layer editing tools (not complete)</li>
-<li>RGB, RGBA and CMYK color modes with adjustable color selectors (complete) Grayscale needs to be done.</li>
+<li>Color management using <a href="http://www.littlecms.com">Little CMS</a></li>
+<li>RGB, RGBA and Grayscale color modes with adjustable color selectors. CMYK is implemented but buggy at the moment.</li>
 <li>Import/Export of png, jpg, xpm, tiff and bmp images, including color-indexed images. Import of gif images. (complete)</li>
 <li>an XML file format which saves and loads layer and channel information and full 32 bit image data (complete)</li>
 <li>color editing and selection tools (partly complete)</li>
@@ -55,20 +58,16 @@ $faq->addQuestion("What Does it Do?",
 <li>import/export of xcf (Gimp) image files (complete, in as far as ImageMagick supports this)</li>
 <li>embedding in other KOffice apps (needs testing)</li>
 <li>user-oriented documentation of all the above basic functionality (incomplete)</li>
+<li>Scripting using kjsembed</lI>
 </ul>
 <p>
 Other planned features:
 </p>
 <ul>
-<li>HSV and Grayscale color models</li>
-<li>All painting and drawing tools</li>
+<li>HSV, Wet & Sticky and Wet Canvas color models</li>
 <li>image manipulation filters for advanced import/export</li>
-<li>image effect plugins shared with other KDE applications</li>
 <li>wide range of region selection methods, including fuzzy selection and boundary detection</li>
-<li>direct, real-time import of 3D image data, scientific and medical image data, and data from consumer
-devices such as digital cameras and scanners using scanlines and other import methods</li>
 <li>scripting with the Python language</li>
-<li>dockable toolbars</li>
 </ul>
 <p>
 KParts architecture and plugins allow:
@@ -93,11 +92,11 @@ $faq->addQuestion("So, why not? Why reinvent the wheel?",
 
 $faq->addQuestion("When will it be released?",
 "Well, Krita may be part of KOffice, it's not nearly usable enough to be released together with KOffice.
- We're working towards inclusion in KOffice 1.4.");
+ We're working towards inclusion in KOffice 1.4, which will be released July 7, 2005.");
 $faq->addQuestion("How Do I Get Involved?", "If you are a potential user, a professional or amateur artist or web designer,
 there is currently nothing you can do for Krita &mdash; but keep an eye open for announcements.<br />
 But If you are a software developer or documentation writer who wants to get involved please contact the Krita mailing list or
- me, Boudewijn.  Your help is always welcome.  All of the code is written in very
+ me, <a href="mailto:boud@valdyas.org">Boudewijn</a>.  Your help is always welcome.  All of the code is written in very
  clear C++ using Qt and Kde libraries, and there's not all that much of it, a mere 50.000 lines, a tenth of
  the size of the Gimp. It's not hard, really...<br />
    Documentation is initially written in English in DocBoox XML format and then translated into dozens of national languages.
