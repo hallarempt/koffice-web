@@ -20,8 +20,8 @@ also marked with stars is how easy the tasks could be shared between developers 
     <li>Find abuses of Qt in code, where the code will probably break when porting to Qt4 (Difficulty: *****; Sharability: *)</li>
     <li>Change KWord's RTF import filter not to use "offsetof" out of C++ specification (Difficulty: ***; Sharability: *****)</li>
     <li>Find and document portability problems of KOffice code (Difficulty: *****; Sharability: *)</li>
-    <li><ins>Verify that dialogs (or other widgets) have non-null parents. (Difficulty: **; Sharability: *)</ins></li>
-    <li><ins>Backport non-null parents of widgets to KOffice 1.3.x. (Difficulty: **; Sharability: *)</ins></li>
+    <li>Verify that dialogs (or other widgets) have non-null parents. (Difficulty: **; Sharability: *)</li>
+    <li>Backport non-null parents of widgets to KOffice 1.3.x. (Difficulty: **; Sharability: *)</li>
 </ul>
 
 <p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD only.</p>
@@ -35,22 +35,17 @@ want to be implemented</p>
 
 <ul>
     <li>
-        <del><a href="http://bugs.kde.org/show_bug.cgi?id=54810">Bug #54810</a>:
-        KOffice (here KWord) does not save a document when there is no place left on the file system
-        and does not inform the user either. (Difficulty: ***; Sharability: *****)</del>
-    </li>
-    <li><ins>
         <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
         "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
-    </ins></li>
-    <li><ins>
+    </li>
+    <li>
         <a href="http://bugs.kde.org/show_bug.cgi?id=75532">Bug #75532</a>:
         "KWord does not pause for user input during spell checking." (Difficulty: ***; Sharability: *****)
-    </ins></li>
-    <li><ins>
+    </li>
+    <li>
         <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
         "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)
-    </ins></li>
+    </li>
 </ul>
 
 <h2>More?</h2>

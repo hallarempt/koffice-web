@@ -25,9 +25,9 @@ a single directory... It is more important that some part is done at all.)</p>
     KOffice 1.3 really does. Anything not correctly documented (for example 
     because it has changed)
     <a href="mailto:lauri@kde.org">should be reported to Lauri Watts</a>.
-    <ins>Please note that documentation fixes for KOffice 1.3.x are done on
+    Please note that documentation fixes for KOffice 1.3.x are done on
     KOffice CVS HEAD, so either work with this documentation directly or verify
-    after you have found a problem.</ins>
+    after you have found a problem.
     </li>
 </ul>
 
@@ -48,13 +48,8 @@ a single directory... It is more important that some part is done at all.)</p>
     <li>Find similar bug entries and add a comment like "see also bug #99999" in 
     such bugs. (This is especially between KPresenter, KWord and KOffice.)</li>
     
-    <li><del>For KWord, make a list of bugs where a KWord file is attached (the 
-    attachement number of that file should be in the list too.) (This is for the 
-    new KWord 1.3 import filter. It does not matter if the bugs are opened, 
-    resolved, closed or whatever.)</del></li>
-    
-    <li><ins>Read the <a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a>
-    and create new bug or wish reports for missing and not reported features.</ins></li>
+    <li>Read the <a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a>
+    and create new bug or wish reports for missing and not reported features.</li>
 </ul>
     
 <h2>Other Tasks</h2>
