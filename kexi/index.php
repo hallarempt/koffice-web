@@ -27,6 +27,7 @@ Note: Kexi isn't part of this version nor will it be in the final KOffice 1.3.
 It is slated for a stand-alone release later this year and will re-integrated
 into KOffice in the next major version.
 </b>
+</p>
 
 <p>
 <b>Note: 
@@ -36,12 +37,14 @@ cvs, that can be hopfully considered as superset of QSql. Until other Kexi parts
 depend on old kexiDB could be ported, Kexi sources can be broken. 
 <a href="http://lists.kde.org/?l=kde-cvs&m=106441791719847&w=2">More information</a>
 </b>
+</p>
 
 <p>
 Kexi is an integrated environment for managing data. It helps creating
 database schemas, inserting, querying and processing data.
+</p>
 
-<P>
+<p>
 At the moment this documentation is written, drivers for SQLite, MySQL, PostgreSQL,
 FireBird/Interbase database engines are developed.
 as integrated single user backends. It is planned to support other database
@@ -54,13 +57,13 @@ report generator component of the KOffice suite, instead of reinventing the whee
 and over again.</p>
 
 <p>Another example for the integration into the whole KOffice suite is that Kexi can be used as a
-data provider for mailmerge in KWord.
+data provider for mailmerge in KWord.</p>
 
-<br><br>
-<p>
+<br /><br />
 <h2>Features</h2>
-<br>
+<br />
 
+<p>
 Basic Database Features:
 <ul>
 
@@ -85,16 +88,18 @@ Database Backends:
  <li><a href="http://www.postgresql.org">PostgreSQL</a></li>
  <li><a href="http://firebird.sourceforge.net">FireBird/Interbase</a></li>
 </ul>
-<P>
-<b>Note: It is highly recommended to use MySQL for beta testing since
- other drivers are implemented only partly.</b>
+</p>
 
-<br><br>
 <p>
+<b>Note: It is highly recommended to use MySQL for beta testing since
+ other drivers are implemented only partly.</b></p>
+
+<br /><br />
 
 <h2>More</h2>
 
 <p>
 Kexi Project Home (mainly for developers): <a href="http://www.kexi-project.org/">http://www.kexi-project.org/</a>
+</p>
 
 <?php include("footer.inc"); ?>

@@ -23,7 +23,7 @@
       </p>
       
       <p>
-      Your contribution is greatly appreciated.<br>
+      Your contribution is greatly appreciated.<br />
       Thank you!
       </p>
       

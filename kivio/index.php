@@ -28,7 +28,7 @@ It is fully integrated into KOffice and can for example be embeded into KWord.
 </p>
 
 <p>
-  <b>Features:</b><br/>
+  <b>Features:</b><br />
   <ul>
     <li>Scriptable stencils using Python.</li>
     <li>Support for Dia stencils.</li>

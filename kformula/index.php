@@ -29,9 +29,10 @@
       <li>Intelligent cursor movement</li>
       <li>Advanced syntax highlighting</li>
       <li>Multi-level undo support</li>
-      <li>LaTeX export (copy and paste into a text editor)
+      <li>LaTeX export (copy and paste into a text editor)</li>
       </ul>
-
+      </p>
+      
       <p>
       KFormula uses the KOffice formula drawing library. If you have to deal with many
       formulae you may wish to use a KFormula object embedded in <a href="/kword/">KWord</a> or

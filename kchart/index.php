@@ -22,35 +22,38 @@
 
       <p><b>Description:</b><br>
       KChart is the KOffice chart drawing application.  Use it to embed charts
-      into your KOffice documents, e.g. a report written with KWord.
+      into your KOffice documents, e.g. a report written with KWord.</p>
 
-      <p><b>Easy to Use:</b><br>
+      <p><b>Easy to Use:</b><br />
       <ul>
-        <li>default values for all parameters
-        <li>automatical ordinate axis computation based on highest/lowest data value
-        <li>default sizes (fonts, line widths...) relative to the window size
+        <li>default values for all parameters</li>
+        <li>automatical ordinate axis computation based on highest/lowest data value</li>
+        <li>default sizes (fonts, line widths...) relative to the window size</li>
       </ul>
+      </p>
 
 
-      <p><b>Highly Configurable:</b><br>
+      <p><b>Highly Configurable:</b><br />
       <ul>
-        <li>All of the parameters may be changed after configuring/drawing the chart.
+        <li>All of the parameters may be changed after configuring/drawing the chart.</li>
         <li>Size values (axis/grid line width, font sizes, bar width, dataset gap,
           pie chart radius ... ) may be specified in either absolute pixels or
           relative to the window size.  This makes your chart layout-independent
           since such values are being recalculated automatically when the window
-          dimensions have changed.
+          dimensions have changed.</li>
       </ul>
-
-      <p><b>Flexible Layout:</b><br>
+      </p>
+      
+      <p><b>Flexible Layout:</b><br />
       <ul>
         <li>Legends may be centered at a chart edge or in a corner with the chart
           making way in vertical and/or in horizontal direction thus offering
-          16 legend/chart relationships to choose from
-        <li>Header and footer texts have special font type/size and color settings
+          16 legend/chart relationships to choose from</li>
+        <li>Header and footer texts have special font type/size and color settings</li>
       </ul>
+      </p>
 
-      <p><b>Axes and Data:</b><br>
+      <p><b>Axes and Data:</b><br />
       <ul>
         <li>Automatical ordinate axis computation based on highest/lowest data value
           which can be easily replaced by programmer-defined start, end and delta
@@ -65,8 +68,9 @@
         <li>Each axis may draw (sub-)grid lines using their own color, line width,
           style
       </ul>
+      </p>
 
-      <p><b>Chart Combinations:</b><br>
+      <p><b>Chart Combinations:</b><br />
       <ul>
         <li>sharing the same abscissa axis or using different ones (e.g Top and
           Bottom axis)
@@ -75,8 +79,9 @@
         <li>Axes may use the same line color / line width as the bars (or the lines,
           resp.) which they belong to.
       </ul>
+      </p>
 
-      <p><b>Chart Types:</b><br>
+      <p><b>Chart Types:</b><br />
       <ul>
         <li>Bar:    normal | stacked | percent, 2D | 3D-Look
         <li>Line:   normal | stacked | percent, 2D | 3D-Look,
@@ -88,9 +93,7 @@
                   fixed thickness | relative thickness
         <li>Polar:  normal | stacked | percent
       </ul>
+      </p>
 
 
 <?php include("footer.inc"); ?>
-
-
-
