@@ -1,22 +1,19 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output method="xml" indent="yes" media-type="text/html" omit-xml-declaration="yes" encoding="UTF-8"/>
+<xsl:output method="xml" indent="yes" media-type="application/xml" omit-xml-declaration="yes" encoding="UTF-8"/>
 <xsl:template match="/">
 <xsl:variable name="webcvspath" select="/filters/version/@webcvscheckout"/>
+
 <xsl:processing-instruction name="php">
-  echo '&lt;?xml version="1.0" encoding="UTF-8"?&gt;';
-  echo '&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;';
+  $page_title="KOffice Filters Status (Development)";
+  $location = '/ &lt;a href="/">KOffice&lt;/a> / &lt;a href="/filters/">Filters&lt;/a> / Status (Development)';
+  include("koffice.inc");
+  include("header.inc");
 </xsl:processing-instruction>
 
-<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<div>
+
 <xsl:comment>Do not modify! This file was generated <!-- Don't panic! This is the source--></xsl:comment>
 
-<xsl:processing-instruction name="php">
-  $title="The KOffice Project -- Filters -- Status (Development)";
-  $location = '/ &lt;a href="/">KOffice&lt;/a> / &lt;a href="/filters/">Filters&lt;/a> / Status (Development)';
-  include("cutheader.inc");
-</xsl:processing-instruction>
-
- <h1>KOffice Filters - Status (Development)</h1>
  <h2>Which filters are there?</h2>
  <p>At the moment all parts of KOffice support the filter architecture
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
@@ -106,14 +103,14 @@
 
 <h2>Joining the developers</h2>
 <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
-<p>Would <i>you</i> like to join the development team and help us?</p>
+<p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
 <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
 
 <xsl:processing-instruction name="php">
-  include("cutfooter.inc");
+  include("footer.inc");
 </xsl:processing-instruction>
 
 
-</html>
+</div>
 </xsl:template>
 </xsl:stylesheet>

@@ -1,10 +1,10 @@
-<?php
+<?php 
   $page_title="KOffice Filters Status (Development)";
-  $location = '../';
+  $location = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (Development)';
   include("koffice.inc");
   include("header.inc");
-?>
-<div>
+?><div>
+<!--Do not modify! This file was generated -->
   <h2>Which filters are there?</h2>
   <p>At the moment all parts of KOffice support the filter architecture
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
@@ -150,6 +150,16 @@
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">**</td>
       <td width="10%" align="center" valign="top">*</td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">PDF</td>
+      <td width="50%" align="left" valign="top">Portable Document Format</td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html#import?content-type=text/html">**</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html?content-type=text/html">-</a>
+      </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Palmdoc</td>
@@ -362,7 +372,7 @@
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/ooimpress/status.html#import?content-type=text/html">****</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/ooimpress/status.html#export?content-type=text/html">-</a>
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/ooimpress/status.html#export?content-type=text/html">**</a>
       </td>
     </tr>
     <tr>
@@ -480,23 +490,6 @@
       </td>
     </tr>
   </table>
-  <h3>Kivio</h3>
-  <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
-    <tr bgcolor="#FFEEAA">
-      <td width="30%" align="left" valign="top">
-        <h3>From/To</h3>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <b>Notes</b>
-      </td>
-      <td width="10%" align="left" valign="top">
-        <b>Import</b>
-      </td>
-      <td width="10%" align="left" valign="top">
-        <b>Export</b>
-      </td>
-    </tr>
-  </table>
   <h3>Kontour</h3>
   <table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000">
     <tr bgcolor="#FFEEAA">
@@ -588,9 +581,9 @@
   <p>Simply click on the status of the relevant filter to find out more information about it.</p>
   <h2>Joining the developers</h2>
   <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
-  <p>Would <i>you</i> like to join the development team and help us?</p>
+  <p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
-</div>
 <?php 
   include("footer.inc");
 ?>
+</div>

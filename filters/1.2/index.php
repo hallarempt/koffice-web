@@ -3,8 +3,8 @@
   $location = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (KOffice 1.3)';
   include("koffice.inc");
   include("header.inc");
-?><!--Do not modify! This file was generated --><div>
-  <h1>KOffice Filters - Status (KOffice 1.3)</h1>
+?><div>
+<!--Do not modify! This file was generated -->
   <h2>Which filters are there?</h2>
   <p>At the moment all KOffice applications support the filter architecture
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
@@ -501,7 +501,7 @@
   <p>Simply click on the name of the relevant filter to find out more information about it.</p>
   <h2>Joining the developers</h2>
   <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>
-  <p>Would <i>you</i> like to join the development team and help us?</p>
+  <p>Would <i>you</i> like to <a href="mailto:koffice@kde.org">join the development team</a> and help us?</p>
   <p>Please <a href="mailto:koffice@kde.org">contact us</a> if you are interested in helping.</p>
 <?php 
   include("footer.inc");
