@@ -36,6 +36,6 @@ $section->appendDir("Import/Export Filters", "filters");
 $section =& $this->appendSection("Download");
 $section->appendDir("Download", "download");
 
-$section =& $this->appendSection("Develop");
+$section =& $this->appendSection("Development");
 $section->appendDir("Developer Resources", "developer");
 ?>
