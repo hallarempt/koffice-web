@@ -51,6 +51,10 @@
     Fix "Expense Report" template 
     (<a href="http://bugs.kde.org/show_bug.cgi?id=86732">#86732</a>)
   </li>
+  <li>
+    Fix untranslatable strings in function descriptions
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=69604">#69604</a>)
+  </li>
 </ul>
 
 <h3><a name="kchart">KChart</a></h3>
