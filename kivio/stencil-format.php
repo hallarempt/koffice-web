@@ -1,11 +1,10 @@
 <?php
-  $page_title="Kivio Stencil Format";
+  $page_title="Kivio Stencil Format Guide v1.0";
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
 ?>
 
-<h1>Kivio Stencil Format Guide v1.0</h1>
 <p>by Ian Reinhart Geiser &lt;<a href="mailto:geiseri@KDE.org">geiseri@KDE.org</a>&gt;</p>
 <!-- Format Description: -->
 <h2>1. Top level Keywords</h2>
