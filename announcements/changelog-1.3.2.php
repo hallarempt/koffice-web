@@ -85,6 +85,13 @@
 -->
 
 <h3><a name="filters">Filters</a></h3>
+
+<h4>KWord's RTF import filter:</h4>
+<ul>
+<li>Avoid crashing if more cells are defined than declared on a row</li>
+<li>Allow ampersands in font names</li>
+</ul>
+
 <em>KPresenter's OOImpress import filter:</em>
 <ul>
 <li>Import rotate object</li>
