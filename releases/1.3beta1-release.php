@@ -9,11 +9,11 @@
       <p>Various resources are available.</p>
       <h2>Announcement</h2>
       <ul>
-      <li><a href="/announcements/announce-1.3-beta1.phtml">Announcement</a></li>
+      <li><a href="/announcements/announce-1.3-beta1.php">Announcement</a></li>
       </ul>
       <h2>Changelog</h2>
       <ul>
-      <li><a href="/announcements/changelog-1.3beta1.phtml">Changelog</a></li>
+      <li><a href="/announcements/changelog-1.3beta1.php">Changelog</a></li>
       </ul>     
       <h2>Download</h2>
       <p>Both source code and binary packages are available.</p>

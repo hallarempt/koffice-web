@@ -18,7 +18,7 @@
 
       <h2>Changelog</h2>
       <ul>
-      <li><a href="/announcements/changelog-1.3beta4.phtml">Changelog</a></li>
+      <li><a href="/announcements/changelog-1.3beta4.php">Changelog</a></li>
       </ul>     
 
       <h2>Download</h2>

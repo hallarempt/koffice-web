@@ -11,7 +11,7 @@
 	  <a href="source.php">compile from source</a>.</p>
       <h2>Download</h2>
      <p>Qt 3.0.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
-     <p>Download locations can be found on the announcements page, and by clicking <a href="/announcements/announce-1.2.1.phtml#package_locations">here</a></p>
+     <p>Download locations can be found on the announcements page, and by clicking <a href="/announcements/announce-1.2.1.php#package_locations">here</a></p>
 
       <h1>Download Binaries: KOffice 1.3 RC 2 - XMAS version</h1>
       Contributed binaries (if any) of the XMAS version of KOffice 1.3 can be found

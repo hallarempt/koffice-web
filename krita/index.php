@@ -42,10 +42,10 @@
 
       <!--p>
       <b>Additional Krita documents and links:</b>
-      <ul><li><a href="faq.phtml">FAQs</a>
-              <ul><li><a href="faq.phtml#whatis">What Is It?</a></li>
-                  <li><a href="faq.phtml#how">How Does It Work?</a></li>
-                  <li><a href="faq.phtml#whatdoes">What Does It Do?</a></li>
+      <ul><li><a href="faq.php">FAQs</a>
+              <ul><li><a href="faq.php#whatis">What Is It?</a></li>
+                  <li><a href="faq.php#how">How Does It Work?</a></li>
+                  <li><a href="faq.php#whatdoes">What Does It Do?</a></li>
               </ul>
       </ul>
       </p-->
@@ -59,7 +59,7 @@
       list server that processes your request.
       </p>
 
-      <p>Read also the <a href="../developer/krita/index.phtml">Developing Krita</a> document
+      <p>Read also the <a href="../developer/krita/index.php">Developing Krita</a> document
       for a high-level overview of the architecture of Krita.</p>
 
       <p>
