@@ -18,6 +18,7 @@
    <h2>Specific Resources</h2>
    
    <ul>
+     <li><a href="dcop">Scripting with DCOP</a></li>
      <li><a href="fileformat">Information about KOffice's file formats</a> (also useful for filters)</li>
      <li><a href="filters">Developing filters</a></li>
      <li><a href="constructive">Constructive Critics</a></li>
