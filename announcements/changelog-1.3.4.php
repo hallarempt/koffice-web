@@ -71,12 +71,15 @@
   <li>Fix painting of the gridlines, when a row or column is resized.</li>
 </ul>
 
-<?php /*
-
 <h3><a name="kchart">KChart</a></h3>
 <ul>
+  <li>
+    Fix pressing Enter in the Data Editor
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=55603">#55603</a>)
+  </li>
 </ul>
 
+<?php /*
 <h3><a name="kugar">Kugar</a></h3>
 <ul>
 </ul>
