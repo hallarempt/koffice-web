@@ -53,12 +53,12 @@
     Do not use a different size for bullets/numbers in front of parags starting with bold or italic.
   </li>
   <li>
-    Fixed copy/pasting of lines containing tabs (not all lines would be pasted) (#88297)
+    Fixed copy/pasting of lines containing tabs (not all lines would be pasted)
     (<a href="http://bugs.kde.org/show_bug.cgi?id=88297">#88297</a>)
   </li>
   <li>
     Indic/Malayalam support, with thanks to Rajeev J Sebastian.
-  <li>
+  </li>
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
