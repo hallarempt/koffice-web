@@ -30,7 +30,8 @@ is made up of a username (normally your surname), a password and an email addres
 The username is for getting in, the password for authenticating and the email
 address for knowing who to contact if another developer wants to contact the account holder.</p>
 
-<p>Note: you can see the accounts in kde-common/accounts. That is the list of all accounts.
+<p>Note: you can see the accounts in 
+<a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/kde-common/">kde-common/accounts</a>. That is the list of all accounts.
 Yes, <b>the account list is public</b>, for example on <a href="http://webcvs.kde.org">WebCVS</a>.</p>
 
 <p>To access the main KDE CVS, you have two possibilities:</p>
@@ -95,38 +96,22 @@ relatives, not any birthday...
 are free to use whatever password you want.)</p>
 
 <p>Now that you have your password, you need to encode it, as CVS does not
-transmit it in clear text. This is the more tricky part.</p>
+transmit it in clear text.  (Note: the encryption used by CVS is the same type
+of encryption used by many Linux distributions on their <code>/etc/shadow</code> file.)</p>
 
-<p>In short: we use a user account of your computer, then we change its password,
-so that the computer encodes the needed password, then we get that encoded password
-and then you can change it back.</p>
+<p>One way to do this would be using PHP:
 
-<p>So either create a temporary new user or use any existing account on your computer
-(of course not "root" to avoid further problems if something should go wrong!)
-For this tutorial, we suppose that the user is named
-<tt>kde-devel</tt>. So now, change the password of that user - either
-with the normal tool passwd or with any tool your distribution has
-(for example, Yast for SuSE, userdrake for Mandrake, redhat-config-users for RedHat).</p>
+<code>echo "&lt;?php echo crypt('&lt;your password&gt;') . \"\n\"; ?&gt;" | php -a</code>
+Where &lt;your password&gt; has to be replaced with your password.</p>
 
-<p>When you have changed the password, you have to get it. Most distributions
-use shadow passwords, so the password is in /etc/shadow (without shadows, it
-is in /etc/passwd.) It might be that /etc/shadow is too protected for a
-normal user, so you might need to become root.</p>
+<p>Another way (in case you don't have PHP) would be using Perl
+<code>perl -e "print crypt('&lt;your password&gt;','&lt;xy&gt;'),\"\n\";"</code>
+Where &lt;your password&gt; has to be replaced with your password and &lt;xy&gt; with two
+random characters.  (Hint: $ must be "escaped" with a backslash. For instance: If your password is "xyz$123" you have to replace 
+&lt;your password&gt; with "xyz\$123". )
+</p>
 
-<p>You can use grep to find the needed entry (for the user kde-devel)
-<tt>grep kde-devel /etc/shadow</tt>
-(of course you can use the search function in an editor instead).</p>
-
-<p>In any case, you'll have a line starting with something like:<br />
-<tt>kde-devel:EBGghs:</tt></p>
-
-<p>What we need is the characters between the two : signs (here in the example EBGghs). That is
-the encoded password. (You can include the : signs to show that the encoded
-password is complete.)</p>
-
-<p>Save the encoded password so that you can use it later in the email and quit the root mode. Either delete
-the new user if you have created one or else change the password of the user to
-the old setting.</p>
+<p>Save the encoded password so that you can use it later in the email.</p>
 
 <h2>Preparing The Email</h2>
 
