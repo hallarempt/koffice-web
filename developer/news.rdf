@@ -9,10 +9,20 @@
     <copyright>Copyright (C) 2003,2004, KOffice.org Webmasters</copyright>
     
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Mon, 13 Feb 2004 21:13 UT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2004 17:25 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>Central KDE 3.2 Check</title>
+<pubDate>Tue, 03 Feb 2004 17:24 UT</pubDate>
+<description>
+The central KDE 3.1.x check was transformed into a central KDE 3.2.x check.
+The test is named &lt;tt&gt;need_kde_32_compatibility&lt;/tt&gt;
+(defined as AM_CONDITIONAL).
+</description>
+</item>
 
 <item>
 <title>KDE 3.1 not supported anymore</title>
