@@ -2,7 +2,7 @@
 <tr valign="top"><th align="left">Location</th><th align="left">MD5&nbsp;Sum</th></tr>
 <tr valign="top"><td><a href="http://download.kde.org/stable/koffice-1.3/src/koffice-1.3.tar.bz2">
 koffice-1.3.tar.bz2</a></td>
-<td><tt>17aab643ebd7decd4c60671d04068860</tt></td></tr>
+<td><tt>8e4c9db57f701d42f21d61651f0b03bd</tt></td></tr>
 <tr valign="top"><td><a href="http://download.kde.org/stable/koffice-1.3/src/koffice-i18n-1.3.tar.bz2">
 koffice-i18n-1.3.tar.bz2</a></td>
 <td><tt>ca89c9c944508de11ca2908eb0a851e4</tt></td></tr>
