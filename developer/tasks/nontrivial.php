@@ -60,6 +60,8 @@ want to be implemented</p>
 <p>For example, there is plenty of code marked with ###, TODO or FIXME. You can find such code with the following command line command (in one line):<br />
 <code>find . -name "*.c*" -o -name "*.h" -print0 | xargs -0 grep -E "(###|TODO|FIXME)"</code></p>
 
+<p>Also there are the files named TODO that contain problems to fix.</p>
+
 <p>Finally you might ask
 <a href="http://www.kde.org/mailinglists/index.php#koffice-devel">the KOffice Development mailing list</a>. We have surely a task for
 you.</p>
