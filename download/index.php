@@ -23,28 +23,25 @@
       <br />
       <b>RPMs:</b>
       <br />
-      Type the following as root:
-      <blockquote><code>
-      rpm -Uvh koffice.rpm</code>
-      </blockquote>
+      Type the following as root:<br />
+      <tt>rpm -Uvh koffice.rpm</tt>
       <p>
-      Please replace "<code>koffice.rpm</code>" with the full path to and the
+      Please replace "<tt>koffice.rpm</tt>" with the full path to and the
       name of your binary rpm.
       </p>
       <br />
 
       <b>tar.gz:</b>
       <p>
-      Just do the following:
-      <blockquote><code>
+      Just do the following:<br />
+      <tt>
       cd /<br />
       su<br />
       tar xzvf package.bin.tar.gz
-      </code></blockquote>
+      </tt>
       </p>
       <p>You should add the /opt/kde3 path as KDEDIR in /etc/profile.
       </p>
-      <br />
 
       <!--<b>Debian packages:</b>
       <p>See an excellent FAQ on KDE3 and KOffice for Debian
