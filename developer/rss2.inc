@@ -15,6 +15,67 @@
  *	   + the html needs to be cleaned up
  */
 
+/*
+ *Similar to kde_parse_date but:
+ * - also supports UT instead of GMT
+ * - use gmmktime instead of mktime
+ */
+function kde_parse_date_ut ($date)
+{
+  // return UNIX timestamp
+  if (ereg("^([0-9]+) ([^ ]+) ([0-9]+) \(([0-9]{2}):([0-9]{2}):([0-9]{2})\) (GMT|UT)$", $date, $m))
+  {
+    switch (strtolower($m[2][0] . $m[2][1] . $m[2][2]))
+    {
+      case "jan":
+        $month = 1;
+        break;
+      case "feb":
+        $month = 2;
+        break;
+      case "mar":
+        $month = 3;
+        break;
+      case "apr":
+        $month = 4;
+        break;
+      case "may":
+        $month = 5;
+        break;
+      case "jun":
+        $month = 6;
+        break;
+      case "jul":
+        $month = 7;
+        break;
+      case "aug":
+        $month = 8;
+        break;
+      case "sep":
+        $month = 9;
+        break;
+      case "oct":
+        $month = 10;
+        break;
+      case "nov":
+        $month = 11;
+        break;
+      case "dec":
+        $month = 12;
+        break;
+      default:
+        // error under Development parsing date, just return the current time
+        return gmdate("U");
+        break;
+    }
+    return gmmktime(intval($m[4]), intval($m[5]), intval($m[6]), $month,
+                  intval($m[1]), intval($m[3]));
+  }
+  else
+    // error parsing date, just return the current time
+    return gmdate("U");
+}
+
 
 // Function for news RDF file, when RDF file is a validable RSS2 file.
 
@@ -68,9 +129,10 @@ function kde_general_news_rss2 ($file, $items, $summaryonly)
       ereg("<description>(.*)</description>", $rdf_pieces[$x], $description);
       print "<tr>\n";
 
+      $cookeddate = gmdate("Y-m-d", kde_parse_date_ut( $date[1] ));
       if ($summaryonly)
       {
-        print "<td class=\"$color\">$date[1]  - " . " <a href=\"news.php#" . ereg_replace("[^a-zA-Z]", "", $title[1]) . "\">$title[1]</a></td>\n";
+        print "<td class=\"$color\">$cookeddate  - " . " <a href=\"news.php#" . ereg_replace("[^a-zA-Z]", "", $title[1]) . "\">$title[1]</a></td>\n";
       }
       else
       {
@@ -80,7 +142,7 @@ function kde_general_news_rss2 ($file, $items, $summaryonly)
         $desc = ereg_replace("&lt;","<", $desc);
         $desc = ereg_replace("&gt;",">", $desc);
         $desc = ereg_replace("&amp;","&", $desc);
-        print "$date[1] - $desc</td>\n";
+        print "$cookeddate - $desc</td>\n";
       }
       print "</tr>\n";
     }
