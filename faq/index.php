@@ -129,7 +129,6 @@ $faq->addQuestion("Which license applies to KOffice?",
 GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are mostly GPL."
 );
 
-// CHECK: <blockquote>
 $faq->addQuestion("How do I report bugs?",
 "Like for any KDE application, please report bugs to <a href=\"http://bugs.kde.org\">KDE Bugs.</a></p>
 <p>Please avoid bug reports with meaningless contents like: \"It does not work!\", \"KOffice is bad\",
@@ -144,9 +143,9 @@ or some very new developement library, then please tell us in your bug report.</
 <p>If the bug is a message box that should not happen, then please tell us the <em>exact error message</em>.</p>
 <p>If the bug is triggered by the loading of a <em>file</em>, then please add the file to the bug report or,
 even better, a short example file that triggers the bug.</p>
-<blockquote>Please be careful that sending a file to KDE Bugs makes it <em>public</em>,
+<p><em>Please be careful that sending a file to KDE Bugs makes it <b>public</b>,
 so be careful not to send us files not meant for the public. Especially be careful that the
-file does not contain for example addresses and phone numbers of third persons.</blockquote>
+file does not contain for example addresses and phone numbers of third persons.</em></p>
 <p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>
 <p>And finally, please, send only one bug per report!"
 );
