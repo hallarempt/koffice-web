@@ -5,7 +5,6 @@
   include("header.inc");
 ?>
 
-  <h1>How to validate an OASIS file against the RelaxNG schema</h1>
   <p>It is important to check that all files produced by KOffice when choosing the OASIS file format,
   conform to the OASIS RelaxNG schema. Developers will try to ensure that, but it can also be helpful
   to check yourself, in order to help them fix such problems before they create interoperability trouble.</p>
