@@ -26,8 +26,8 @@ also marked with stars are how easy the tasks could be shared between developers
 
 <h2>Bugs</h2>
 
-<p>There are plenty of <a href="http://bugs.kde.org">bugs and wishes in KDE Bugs</a> that needs to be fixed, respectively 
-wants to be implemented</p>
+<p>There are plenty of <a href="http://bugs.kde.org">bugs and wishes in KDE Bugs</a> that need to be fixed, respectively 
+want to be implemented</p>
 
 <p>Here some bugs (just a very little excerpt of all KOffice bugs):</p>
 
