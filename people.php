@@ -135,8 +135,8 @@
       <b><a href="mailto:dailey@vt.edu">John Dailey</a></b>
       (KSpread)<br />
 
-      <b><a href="mailto:dang@kde.org">Clarence Dang</a></b>
-       (KWord import filter for MS Write)<br />
+      <b><a href="mailto:dang at kde dot org">Clarence Dang</a></b>
+      (MS Write filters for KWord, various hacks, GUI enhancements)<br />
 
       <b><a href="mailto:philipp.mueller@gmx.de">Philipp Mueller</a></b>
       (KSpread)<br />
