@@ -92,6 +92,7 @@
 <li>Import help line</li>
 <li>Import animation order</li>
 <li>Import setting</li>
+<li>Import transparency for object</li>
 </ul>
 
 <h4>KPresenter's OOImpress export filter:</h4>
