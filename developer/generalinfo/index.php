@@ -8,6 +8,11 @@
    <p>This section provides information about <a href="http://developer.kde.org">developing in KDE</a>,
    viewed from KOffice's point of view.</p>
 
+   <h2>Without A CVS Account</h2>
+   <ul>
+     <li><a href="sendingpatches.php">Sending Patches</a></li>
+   </ul>
+
    <h2>A New CVS Account</h2>
    <ul>
    <li><a href="applycvsaccount.php">Applying For A KDE CVS Account</a></li>
