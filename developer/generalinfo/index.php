@@ -4,14 +4,14 @@
   include("koffice.inc");
   include("header.inc");
 ?>
+    <p>Note: this section is going away, as it is now on
+    <a href="http://developer.kde.org/documentation/misc/index.php>
+    developer.kde.org</a>.
+
+   <hr />
 
    <p>This section provides information about <a href="http://developer.kde.org">developing in KDE</a>,
    viewed from KOffice's point of view.</p>
-
-   <h2>Overviews</h2>
-   <ul>
-     <li><a href="overviewmodules.php">Module Overview</a></li>
-   </ul>
 
    <h2>Patches</h2>
    <ul>
