@@ -91,7 +91,7 @@
 <h4>KWord's RTF Import Filter</h4>
 <ul>
   <li>
-    Temporaray fix to aboid empty font names
+    Temporaray fix to avoid empty font names
     (<a href="http://bugs.kde.org/show_bug.cgi?id=90057">#90057</a>)
   </li>
 </ul>
