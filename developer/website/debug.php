@@ -10,7 +10,7 @@
    
     <p>Unfortunately there is no easy way to fully debug a page meant
     for the KOffice web site. You can only do as much as possible before
-    committing, then commit and check the result half an hour later.</p>
+    committing, then commit and check the result up to two hours later.</p>
     
     <h2>Forcing HTML</h2>
     
