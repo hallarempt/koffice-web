@@ -16,16 +16,17 @@
   release of KOffice 1.3.3.
 </p>
 
-<?php /*
 <h3><a name="i18n">Languages</a></h3>
 <ul>
 </ul>
 */ ?>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
+<?php /*
 <h4>KOfficeCore</h4>
 <ul>
 </ul>
+*/ ?>
 
 <h4>KOfficeUI</h4>
 <ul>
@@ -35,6 +36,7 @@
   </li>
 </ul>
 
+<?php /*
 <h4>KoText library features (shared between KWord and KPresenter)</h4>
 <ul>
 </ul>
@@ -46,6 +48,7 @@
 <h3><a name="kword">KWord</a></h3>
 <ul>
 </ul>
+*/ ?>
 
 
 <h3><a name="kpresenter">KPresenter</a></h3>
