@@ -42,10 +42,10 @@ a single directory... It is more important that some part is done at all.)</p>
     <li>Find similar bug entries and add a comment like "see also bug #99999" in 
     such bugs. (This is especially between KPresenter, KWord and KOffice.)</li>
     
-    <li>For KWord, make a list of bugs where a KWord file is attached (the 
+    <li><del>For KWord, make a list of bugs where a KWord file is attached (the 
     attachement number of that file should be in the list too.) (This is for the 
     new KWord 1.3 import filter. It does not matter if the bugs are opened, 
-    resolved, closed or whatever.)</li>
+    resolved, closed or whatever.)</del></li>
 </ul>
     
 <h2>More Difficult Tasks</h2>
