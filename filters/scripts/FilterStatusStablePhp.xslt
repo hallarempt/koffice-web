@@ -2,8 +2,8 @@
 <xsl:output method="xml" indent="yes" media-type="application/xml" omit-xml-declaration="yes" encoding="UTF-8"/>
 <xsl:template match="/">
 <xsl:processing-instruction name="php">
-  $page_title="KOffice Filters Status (KOffice 1.3)";
   $site_root="../../";
+  include("./kofficeversion.inc"); // Defines also $page_title
   include("koffice.inc");
   include("header.inc");
 </xsl:processing-instruction>
@@ -17,7 +17,7 @@
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
  and some not even done. The status of the current filters is listed below, sorted per
  application.</p>
- <p>Note: this document is about <b>KOffice 1.3</b>.</p>
+ <p>Note: this document is about <b><xsl:processing-instruction name="php">print $kofficeversiondescription;</xsl:processing-instruction></b>.</p>
 
 <hr/>
 <xsl:for-each select="/filters/version/application">
@@ -28,10 +28,10 @@
 <table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
 
  <tr bgcolor="#FFEEAA">
- <td width="30%" align="left" valign="top"><h3>From/To</h3></td>
- <td width="50%" align="left" valign="top"><b>Notes</b></td>
- <td width="10%" align="left" valign="top"><b>Import</b></td>
- <td width="10%" align="left" valign="top"><b>Export</b></td>
+ <th width="30%" align="left" valign="top"><h3>From/To</h3></th>
+ <th width="50%" align="left" valign="top"><b>Notes</b></th>
+ <th width="10%" align="left" valign="top"><b>Import</b></th>
+ <th width="10%" align="left" valign="top"><b>Export</b></th>
  </tr>
 
  <xsl:for-each select="filter">
