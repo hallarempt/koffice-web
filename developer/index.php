@@ -13,7 +13,7 @@
      <li><a href="fileformat">Information about KOffice's file formats</a></li>
      <li><a href="filters">Developing filters</a></li>
      <li><a href="apidocmain.php">KOffice API reference</a></li>
-     <li><a href="website.php">How to develop for KOffice's web site</a></li>
+     <li><a href="website">How to develop for KOffice's web site</a></li>
    </ul>
 
    <h2>Applications</h2>
