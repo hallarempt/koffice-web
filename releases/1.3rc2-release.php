@@ -4,10 +4,9 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-      
-      <p>The KOffice team is proud to announce the first release candidate version of KOffice 1.3.</p> 
-      <p>This release fixes a couple of critical bugs since the last beta version, notably it works
-      around the infamous filedialog crash upon saving a document.
+
+      <p>The KOffice team is proud to announce the second release candidate version of KOffice 1.3.</p>
+      <p>This release fixes a couple of critical bugs since the first release candidate.
       </p>
 
       <p>Note: Kexi isn't part of this version nor will it be in the final
@@ -19,7 +18,7 @@
       <h2>Changelog</h2>
       <ul>
       <li><a href="/announcements/changelog-1.3.phtml">Changelog</a></li>
-      </ul>     
+      </ul>
 
       <h2>Download</h2>
       <p>Both source code and binary packages are available.</p>
@@ -28,7 +27,7 @@
       <li><a href="/install-binaries.phtml">Binary packages</a></li>
       </ul>
       </p>
-      
+
       <h2>MD5 sums</h2>
       <p>
        The MD5 sums for the tarballs are:
