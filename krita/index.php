@@ -16,7 +16,7 @@
   $appinfo->addAuthor("Andrew Richards", "physajr@phys.canterbury.ac.nz");
   $appinfo->addAuthor("Carsten Pfeiffer", "pfeiffer@kde.org");
   $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
-  $appinfo->addContributor("Patrick Julien", "freak@codepimps.org");
+  $appinfo->addAuthor("Patrick Julien", "freak@codepimps.org");
   $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
   $appinfo->addContributor("Sven Langkamp", "longamp@reallygood.de");
   $appinfo->addContributor("Cyrille Berger", "cyb@lepi.org");
@@ -33,7 +33,7 @@
       The application is not ready for use, but the underpinnings provide
       a solid framework to build an application on, and everyone is invited
       to join the development effort. Because of the current unfinished state,
-      Krita is not part of the regular KOffice releases, but the source is
+      Krita is not yet part of the regular KOffice releases, but the source is
       available from the KDE CVS repository.
       </p>
 
