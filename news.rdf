@@ -10,6 +10,14 @@
     <copyright>Copyright (c) 2004, KOffice.org Webmaster</copyright>
 
 <item>
+<title>New: KOffice Security Page</title>
+<date>29th December, 2004</date>
+<fullstory>
+<a href="http://www.koffice.org/security">KOffice has now its own security page.</a>
+</fullstory>
+</item>
+
+<item>
 <title>SECURITY update: newest xpdf integer overflow in KOffice 1.3.x</title>
 <date>23th December, 2004</date>
 <fullstory>
