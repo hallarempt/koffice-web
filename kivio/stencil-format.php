@@ -339,42 +339,41 @@ The description is the top level file that will provide the description of the s
 <li>data - string</li>
 </ul>
 <h3>5.2. Example Desc File</h3>
-<code>
-&lt;?xml version="1.0"?&gt;
+<pre>
+&lt;?xml version=&quot1.0&quot?&gt;
 &lt;KivioStencilSpawnerSet&gt;
-  &lt;Title data="Basic Circut Shapes"/&gt;
-  &lt;Id data="Ian Reinhart Geiser"/&gt;
+  &lt;Title data=&quotBasic Circut Shapes&quot/&gt;
+  &lt;Id data=&quotIan Reinhart Geiser&quot/&gt;
 &lt;/KivioStencilSpawnerSet&gt;
-</code>
+</pre>
 <h2>6. *.sml Files - Multiple Per Stencil Pack</h2>
 <p>
 For more information on the tags of the SML format please refer to sections 1-3.
 </p>
 <h3>6.1. Example SML File</h3>
-<code>
 <pre>
-&lt;?xml version="1.0"?&gt;
-&lt;KivioShapeStencil creator="kate"&gt;
+&lt;?xml version=&quot1.0&quot?&gt;
+&lt;KivioShapeStencil creator=&quotkate&quot&gt;
                 &lt;KivioSMLStencilSpawnerInfo&gt;
-                        &lt;Author data="Ian Reinhart Geiser"/&gt;
-                        &lt;Title data="Not"/&gt;
-                        &lt;Id data="Not"/&gt;
-                        &lt;Description data="Logical Not Gate"/&gt;
-                        &lt;Version data="0.1"/&gt;
-                        &lt;Web data="www.kde.org"/&gt;
-                        &lt;Email data="geiseri@kde.org"/&gt;
-                        &lt;Copyright data="Copyright (C) 2002 Ian Reinhart Geiser"/&gt;
-                        &lt;AutoUpdate data="off"/&gt;
+                        &lt;Author data=&quotIan Reinhart Geiser&quot/&gt;
+                        &lt;Title data=&quotNot&quot/&gt;
+                        &lt;Id data=&quotNot&quot/&gt;
+                        &lt;Description data=&quotLogical Not Gate&quot/&gt;
+                        &lt;Version data=&quot0.1&quot/&gt;
+                        &lt;Web data=&quotwww.kde.org&quot/&gt;
+                        &lt;Email data=&quotgeiseri@kde.org&quot/&gt;
+                        &lt;Copyright data=&quotCopyright (C) 2002 Ian Reinhart Geiser&quot/&gt;
+                        &lt;AutoUpdate data=&quotoff&quot/&gt;
                 &lt;/KivioSMLStencilSpawnerInfo&gt;
-        &lt;KivioConnectorTarget  x="5" y="10"/&gt;
-        &lt;KivioConnectorTarget  x="5" y="0"/&gt;
-        &lt;KivioConnectorTarget  x="0" y="5"/&gt;
-        &lt;KivioConnectorTarget  x="10" y="5"/&gt;
-        &lt;Dimensions w="10" h="10" defaultAspect="1"/&gt;
-        &lt;KivioShape type="Ellipse" name="Connector" x="0" w="10" y="0" h="10"/&gt;
+        &lt;KivioConnectorTarget  x=&quot5&quot y=&quot10&quot/&gt;
+        &lt;KivioConnectorTarget  x=&quot5&quot y=&quot0&quot/&gt;
+        &lt;KivioConnectorTarget  x=&quot0&quot y=&quot5&quot/&gt;
+        &lt;KivioConnectorTarget  x=&quot10&quot y=&quot5&quot/&gt;
+        &lt;Dimensions w=&quot10&quot h=&quot10&quot defaultAspect=&quot1&quot/&gt;
+        &lt;KivioShape type=&quotEllipse&quot name=&quotConnector&quot x=&quot0&quot w=&quot10&quot y=&quot0&quot h=&quot10&quot/&gt;
 &lt;/KivioShapeStencil&gt;
 </pre>
-</code>
+
 <h2>7. *.xpm - One Per Stencil</h2>
 <p>
 This is simply a 22x22 pixel xpm that will present the icon of the stencil to the user in the tray.
