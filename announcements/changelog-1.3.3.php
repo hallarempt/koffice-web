@@ -60,6 +60,12 @@
   </li>
 </ul>
 
+<h3><a name="allapps">All Applications</a></h3>
+<ul>
+  <li>Fixed handling of remote koffice files in konqueror.</li>
+  <li>Fixed race condition when using dcopstart.</li>
+</ul>
+
 <h3><a name="kword">KWord</a></h3>
 <ul>
   <li>
