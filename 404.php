@@ -10,6 +10,7 @@ $handler->add("/install-source.phtml", "/download/source.php");
 $handler->add("/signatures.phtml", "/download/signatures.php");
 $handler->add("/support.phtml", "/support");
 $handler->add("/supporters.phtml", "/support/supporters.php");
+$handler->add("/filters/status.php", "/developer/filters/status.php");
 $handler->execute();
 ?>
 
