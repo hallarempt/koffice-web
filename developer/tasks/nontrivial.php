@@ -39,6 +39,10 @@ want to be implemented</p>
         KOffice (here KWord) does not save a document when there is no place left on the file system
         and does not inform the user either. (Difficulty: ***; Sharability: *****)</del>
     </li>
+    <li><ins>
+        <a href="http://bugs.kde.org/show_bug.cgi?id=75532">Bug #75532</a>:
+        "KWord does not pause for user input during spell checking." (Difficulty: ***; Sharability: *****)
+    </ins></li>
 </ul>
 
 <h2>More?</h2>
