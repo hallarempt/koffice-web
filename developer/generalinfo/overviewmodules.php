@@ -5,6 +5,8 @@
   include("header.inc");
 ?>
 
+Draft $Date$
+
 <h2>Abstract</h2>
 
 <p>This document is an overview of the different modules in KDE CVS.</p>
@@ -12,6 +14,7 @@
 <h2>Overview</h2>
 
 <!-- TODO: if I remember well, HTML has special table header tags. -->
+<!-- TODO: find examples for each module (instead of the non-breaking space) -->
   <table border="5" cellspacing="0" cellpadding="5">
     <tr>
       <td><b>Module Name</b></td>
@@ -86,7 +89,7 @@
       <td>Screensavers</td>
     </tr>
     <tr>
-    <td>kdeaddons</td>
+      <td>kdeaddons</td>
       <td>Small tools for KDE applications</td>
       <td>KDE</td>
       <td>&nbsp;</td>
@@ -95,7 +98,7 @@
       <td>kdemultimedia</td>
       <td>Multimedia</td>
       <td>KDE</td>
-      <td></td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>kdeaccessibility</td>
@@ -131,13 +134,13 @@
       <td>kdeadmin</td>
       <td>System Administration</td>
       <td>KDE</td>
-      <td>&nbsp;</td>
+      <td>KPackage</td>
     </tr>
     <tr>
       <td>kde-i18n</td>
       <td>Translations</td>
       <td>I18N</td>
-      <td></td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>kdevelop</td>
@@ -150,6 +153,24 @@
       <td>HTML Editor</td>
       <td>KDE?</td>
       <td>Quanta</td>
+    </tr>
+    <tr>
+      <td>koffice</td>
+      <td>KOffice</td>
+      <td>KOffice</td>
+      <td>KWord</td>
+    </tr>
+    <tr>
+      <td>kdeextragear-1</td>
+      <td>Extra programs</td>
+      <td>Extra</td>
+      <td>Gwenview</td>
+    </tr>
+    <tr>
+      <td>kdeextragear-2</td>
+      <td>Extra programs</td>
+      <td>Extra</td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td>koffice</td>
@@ -186,15 +207,57 @@
 <p>Release rythmns:
 <ul>
   <li>Qt: <a href="http://www.trolltech.com">Trolltech</a> has its own release cycles for Qt. Qt-copy is released with KDE.</li>
-  <li>KDE: released with KDE (1 or 2 per year)</li>
+  <li>KDE: released with KDE (1 or 2 per year).</li>
   <li>KOffice: released with KOffice (1 per year or even less).</li>
-  <li>I18N: the translations are relased with the corresponding programs.</li>
-  <li>Web: web sites are synchronised normally every half-an-hour.</li>
+  <li>Extra: released each program separately.</li> <!-- TODO: is it really true? -->
+  <li>I18N: the translations are released with the corresponding programs.</li>
+  <li>Web: web sites are normally synchronised every half-an-hour.</li>
   <li>Never: these modules are never released.</li>
 </ul>
 </p>
 
-<p>(To be continued)</p>
+<h2>Most basic system</h2>
+
+<p>TODO (In short: the most basic system is made of Qt, arts, kdelibs, kdebase.
+With koffice, it makes a minimal system for working with KOffice.
+???Recommended minimal: add kdegraphics and kdepim???</p>
+
+<h2>Qt</h2>
+
+<p>TODO (short: Qt-copy is not a fork but just a convenience to avoid to have
+to patch the official Qt release. However KDE works with official Qt versions and
+with Qt snapshots (except severe bugs of course.) Snapshot not recommended
+for stable KDE.</p>
+
+<h2>KIOSK</h2>
+
+<p>TODO (in short: the KIOSK mode allows to forbid users to change certain settings
+in KDE.) <!-- TODO: URL --></p>
+
+<h2>kdesdk</h2>
+
+<p>TODO</p>
+
+<h2>kde-common</h2>
+
+<p>TODO (in short: kde-common/admin is mapped in all/most modules.)</p>
+
+<h2>kdenonbeta</h2>
+
+<p>TODO (in short: it is the sandbox. Programs here might not work or might
+be jewels. :-) Put your new projects here.)</p>
+
+<h2>kdeextragear</h2>
+
+<p>TODO: (in short: stable programs not released with KDE.)</p>
+
+<h2>www</h2>
+
+<p>TODO: (in short: write protect by default.
+www/developer.kde.org might be interesting to download to have the info offline.)
+<!-- TODO: overview of sites (already existing somewhere?) -->
+</p>
+
 
 <?php
    include("footer.inc");
