@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.3.3 Changelog';
+  $page_title ='KOffice 1.3.4 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -23,15 +23,15 @@
 */ ?>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
-<h4>KOfficeCore:</h4>
+<h4>KOfficeCore</h4>
 <ul>
 </ul>
 
-<h4>KOfficeUI:</h4>
+<h4>KOfficeUI</h4>
 <ul>
 </ul>
 
-<h4>KoText library features (shared between KWord and KPresenter):</h4>
+<h4>KoText library features (shared between KWord and KPresenter)</h4>
 <ul>
 </ul>
 
@@ -79,42 +79,42 @@
 
 <h3><a name="filters">Filters</a></h3>
 
-<h4>KWord's OOWriter export filter:</h4>
+<h4>KWord's OpenOffice.org Writer Export Filter</h4>
 <ul>
   <li>Fix auto-justification</li>
 </ul>
 
-<h4>KPresenter's OOImpress import filter:</h4>
+<h4>KPresenter's OpenOffice.org Impress Import Filter</h4>
 <ul>
 </ul>
 
-<h4>KPresenter's OOImpress export filter:</h4>
+<h4>KPresenter's OpenOffice.org Impress Export Filter</h4>
 <ul>
 </ul>
 
 <?php /*
-<h4>KSpread's OOCalc import filter:</h4>
+<h4>KSpread's OpenOffice.org Calc Import Filter</h4>
 <ul>
 </ul>
 */ ?>
 
-<h4>KSpread's OOCalc export filter:</h4>
+<h4>KSpread's OpenOffice.org Calc Export Filter</h4>
 <ul>
 </ul>
 
-<h4>KSpread's GNUmeric export filter:</h4>
+<h4>KSpread's GNUmeric Export Filter</h4>
 <ul>
 </ul>
 
-<h4>KSpread's MS Excel import filter:</h4>
+<h4>KSpread's MS Excel Import Filter</h4>
 <ul>
 </ul>
 
-<h4>KSpread's CSV export filter:</h4>
+<h4>KSpread's CSV Export Filter</h4>
 <ul>
 </ul>
 
-<h4>KFormula's MathML import filter:</h4>
+<h4>KFormula's MathML Import Filter</h4>
 <ul>
   <li>
     Make the import filter work again
