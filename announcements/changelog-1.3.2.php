@@ -72,9 +72,44 @@
 -->
 
 <h3><a name="filters">Filters</a></h3>
+<em>KPresenter's OOImpress import filter:</em>
 <ul>
-<li>### TODO</li>
+<li>Import rotate object</li>
+<li>Fix load end/start line</li>
+<li>Import hide/show slide</li>
+<li>Import randow page effect</li>
+<li>Import duration slide transition</li>
+<li>Import sticky objects</li>
+<li>Fix #67087, allow to load template file</li>
+<li>Fix import background style</li>
 </ul>
+
+<em>KPresenter's OOImpress export filter:</em>
+<ul>
+<li>Export polygone/polyline object</li>
+<li>Export pie/chord/arc object</li>
+<li>Export rotate object</li>
+<li>Export object name</li>
+</ul>
+
+
+<em>KSpread's OOCalc import filter:</em>
+<ul>
+<li>Import support for protect document</li>
+<li>Fix #67087 import template document</li>
+<li>Import load print attribute</li>
+<li>Import validation attribute</li>
+<li>Import column width</li>
+<li>Import text indent</li>
+<li>Fix import note with multiline</li>
+</ul>
+
+<em>KSpread's OOCalc export filter:</em>
+<ul>
+<li>Fix export header/footer</li>
+<li>Export print range</li>
+</ul>
+
 
 
 <h3>Previous changelogs</h3>
