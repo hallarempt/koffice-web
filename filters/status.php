@@ -1,6 +1,6 @@
 <?php 
   $page_title="KOffice Filters Status (Development)";
-  $location = '/ <a href="/">KOffice</a> / <a href="/filters/">Filters</a> / Status (Development)';
+  $site_root = '../';
   include("koffice.inc");
   include("header.inc");
 ?><div>
