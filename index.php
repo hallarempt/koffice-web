@@ -68,7 +68,6 @@
 
 <!--    <a name="schedule"><h2>Release Schedule</h2></a> -->
 
-    <p>All parts of KOffice have seen a major upgrade in both usability and stability with the recent KOffice 1.2.1 release.</p>
     <!--All info text has moved to the info section. We will need
     some short intro here... -->
 
