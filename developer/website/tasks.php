@@ -13,10 +13,10 @@
 www/areas/koffice</p>
 
 <ul>
-    <li>Some web pages are still in HTML 4 but the KDE Web is using XHTML 1.0 in the 
+    <li><del>Some web pages are still in HTML 4 but the KDE Web is using XHTML 1.0 in the 
     meantime. Such pages should be migrated to XHTML 1.0.
     (A smaller and simplier step could be to change the tag and attribute names to lower case and to add quotes where needed.)
-    (Difficulty: **; Sharability: *)</li>
+    (Difficulty: **; Sharability: *)</del></li>
     
     <li>Some pages are supposed to be XHTML 1.0 but they still contain errors. Such
     sites should be fixed. (Difficulty: **; Sharability: *)</li>
