@@ -13,9 +13,9 @@
     <li>Write Doxygen class documentation, wherever it is missing or not complete. (Difficulty: ***; Sharability: *)</li>
     <li>Write documentation to help newbie KOffice developers (Difficulty: ****; Sharability: ****)</li>
     <li>Find abuses of Qt in code, where the code will probably break when porting to Qt4 (Difficulty: *****; Sharability: *)</li>
-    <li><ins>
+    <li>
         Find abuses of kdelibs in code, where the code will probably break when porting to KDE4 (Difficulty: *****; Sharability: *)
-    </ins></li>
+    </li>
     <li>Change KWord's RTF import filter not to use "offsetof" out of C++ specification (Difficulty: ***; Sharability: *****)</li>
     <li>Find and document portability problems of KOffice code (Difficulty: *****; Sharability: *)</li>
     <li>Verify that dialogs (or other widgets) have non-null parents. (Difficulty: **; Sharability: *)</li>
@@ -24,9 +24,9 @@
         Verify that private classes of public classes are usable (i.e. defined and not inline constructor of the public class)
         (Difficulty: **; Sharability: *)
     </li>
-    <li><ins>
+    <li>
         Add network transparency where missing (Difficulty: ***; Sharability: *)
-    </ins></li>
+    </li>
 </ul>
 
 <p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (However some tasks could be backported to the last stable version of KOffice.)</p>
@@ -43,10 +43,10 @@ wait to be implemented</p>
         <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
         "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
     </li>
-    <li>
+    <li><del>
         <a href="http://bugs.kde.org/show_bug.cgi?id=75532">Bug #75532</a>:
         "KWord does not pause for user input during spell checking." (Difficulty: ***; Sharability: *****)
-    </li>
+    </del></li>
     <li>
         <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
         "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)
