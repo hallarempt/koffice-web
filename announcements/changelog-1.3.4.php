@@ -119,6 +119,7 @@
   </li>
 </ul>
 
+<?php /*
 <h4>KPresenter's OpenOffice.org Impress Import Filter</h4>
 <ul>
 </ul>
@@ -127,11 +128,9 @@
 <ul>
 </ul>
 
-<?php /*
 <h4>KSpread's OpenOffice.org Calc Import Filter</h4>
 <ul>
 </ul>
-*/ ?>
 
 <h4>KSpread's OpenOffice.org Calc Export Filter</h4>
 <ul>
@@ -148,6 +147,7 @@
 <h4>KSpread's CSV Export Filter</h4>
 <ul>
 </ul>
+*/ ?>
 
 <h4>KFormula's MathML Import Filter</h4>
 <ul>
