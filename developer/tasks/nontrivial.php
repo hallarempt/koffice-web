@@ -17,13 +17,16 @@
     <li>Find and document portability problems of KOffice code (Difficulty: *****; Sharability: *)</li>
     <li>Verify that dialogs (or other widgets) have non-null parents. (Difficulty: **; Sharability: *)</li>
     <li>Backport non-null parents of widgets to KOffice 1.3.x. (Difficulty: **; Sharability: *)</li>
-    <li><ins>
+    <li>
         Verify that private classes of public classes are usable (e.g. defined and not inline constructor of the public class)
         (Difficulty: **; Sharability: *)
+    </li>
+    <li><ins>
+        Add network transparency where missing (Difficulty: ***; Sharability: *)
     </ins></li>
 </ul>
 
-<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (Some tasks could be backported to the last stable version of KOffice.)</p>
+<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (However some tasks could be backported to the last stable version of KOffice.)</p>
 
 <h2>Bugs</h2>
 

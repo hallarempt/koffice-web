@@ -33,9 +33,9 @@ a single directory... It is more important that some part is done at all.)</p>
     change them to Doxygen syntax. (Changing to the special Doxygen comments (/** 
     and ///) is already enough.) (Difficulty: *; Sharability: *)</li>
     
-    <li><ins>
+    <li>
     Check copyrights of source files and add missing copyright (dates and/or developers) (Difficulty: *; Sharability: *)
-    </ins></li>
+    </li>
 </ul>
 
 <?php
