@@ -22,7 +22,7 @@
 
 <h2>Description</h2>
 
-<p>Karbon14 is the vector drawing application in KDE. It will be included with KOffice 1.3, when it is released.</p>
+<p>Karbon14 is the vector drawing application in KDE.</p>
 
 <?php include("footer.inc"); ?>
 
