@@ -7,7 +7,19 @@
     <description>KOffice is an office suite integrated with KDE</description>
     <language>en-us</language>
     <webMaster>webmaster@kde.org (Webmaster)</webMaster>
-    <copyright>Copyright (c) 2004, KOffice.org Webmaster</copyright>
+    <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+
+<item>
+<title>SECURITY update: newest xpdf vulnerability in KOffice 1.3.x</title>
+<date>20th January, 2005</date>
+<fullstory>
+<b>SECURITY update:</b>
+In KOffice 1.3.x, the PDF import filter has a new vulnerabitily.
+<br />
+<a href="http://www.koffice.org/security/advisory-20050120-1.txt">Please see the corresponding
+security advice.</a>
+</fullstory>
+</item>
 
 <item>
 <title>New: KOffice Security Page</title>
