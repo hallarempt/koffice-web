@@ -9,7 +9,7 @@
   $appinfo = new AppInfo("Kexi");
   $appinfo->setIcon( "pics/cr48-app-kexi.png", "48", "48");
   $appinfo->setVersion($kexiversion);
-  $appinfo->setLicense("gpl");
+  $appinfo->setLicense("lgpl");
   $appinfo->setCopyright("2002", "the Kexi Team");
   $appinfo->addAuthor("Lucijan Busch", "lucijan@kde.org");
   $appinfo->addContributor("Lucijan Busch", "lucijan@kde.org");
