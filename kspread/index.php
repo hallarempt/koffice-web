@@ -3,35 +3,25 @@
   $site_root="../";
   include("koffice.inc");
   include("header.inc");
+  include("../variables.inc");
 ?>
 
-      <table>
-      <tr>
-      <td><img src="pics/hi48-app-kspread.png"></td>
-      <td>
-    	<b>Version <?php echo $kspreadversion; ?><br />
-      	&copy; 1998-<?php echo $currentyear; ?> by the KSpread Team <br /> 
-      	E-Mail: <a href="mailto:montel@kde.org">montel@kde.org</a><br /> 
-      	KSpread is under the GNU GPL.</b>
-      </td>
-      </tr>
-      </table>
-     
-      <p>
-	<b>Original Authors:</b><br />
-	Torben Weis
-        &lt;<a href="mailto:weis@kde.org">weis@kde.org</a>&gt;
-      </p>
 
-      <p>
-      <b>Current Contributors:</b><br />
-	Laurent Montel &lt;<a href="mailto:montel@kde.org">montel@kde.org</a>&gt;
-	Philipp Mueller &lt;<a href="mailto:philipp.mueller@gmx.de">philipp.mueller@gmx.de</a>&gt;
-	Ariya Hidayat &lt;<a href="mailto:ariya@kde.org">ariya@kde.org</a>&gt;
-	Norbert Andres &lt;<a href="mailto:nandres@web.de">nandres@web.de</a>&gt;
-      </p>
+<?php
+  $appinfo = new AppInfo("KSpread");
+  $appinfo->setIcon( "pics/hi48-app-kspread.png", "48", "48");
+  $appinfo->setVersion($kspreadversion);
+  $appinfo->setLicense("gpl");
+  $appinfo->setCopyright("1998", "the KSpread Team");
+  $appinfo->addAuthor("Torben Weis", "weis@kde.org");
+  $appinfo->addContributor("Laurent Montel", "montel@kde.org");
+  $appinfo->addContributor("Phillipp Mueller", "phillipp.mueller@gmx.de");
+  $appinfo->addContributor("Ariya Hidayat", "ariya@kde.org");
+  $appinfo->addContributor("Norbet Andres", "nandres@web.de"); 
+$appinfo->show();
+?>
 
-
+<h2>Description</h2>
      <p>KSpread is a scriptable spreadsheet program which provides both table-oriented sheets and support 
      for complex mathematical formulas and statistics. KSpread's features include:</p>
 
