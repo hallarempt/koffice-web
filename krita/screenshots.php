@@ -6,8 +6,8 @@
 ?>
 
 <?php
-$gallery = new ImageGallery("KWord Screenshots");
-$gallery->addImage("pics/kis_sm.png", "pics/kis.jpg", "204", "166", "[Screenshot]", 0 , "Transparency, layers, color chooser, basic brushes");
+$gallery = new ImageGallery("Krita Screenshots");
+$gallery->addImage("pics/kis_sm.png", "pics/kis.jpg", "204", "200", "[Screenshot]", 0 , "Krita (november 2003)");
 $gallery->show();
 ?>
 

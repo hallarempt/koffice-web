@@ -16,17 +16,20 @@
   $appinfo->addAuthor("Andrew Richards", "physajr@phys.canterbury.ac.nz");
   $appinfo->addAuthor("Carsten Pfeiffer", "pfeiffer@kde.org");
   $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
+  $appinfo->addContributor("Patrick Julien", "freak@codepimps.org");
+  $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
+
   $appinfo->show();
 ?>
 
 <h2>Description</h2>
       <p>
-      <b>Krita</b>, is a painting and image editing
-      application for KOffice. It's in the early stages of development but
-      is already usable for experimenting with painting techniques
-      and composing images using brushes and layers.  You are encouraged
-      to download, compile and test Krita to provide suggestions and
-      report bugs as development moves towards a release version.
+      <b>Krita</b> is a painting and image editing application for KOffice.
+      The application is not ready for use, but the underpinnings provide
+      a solid framework to build an application on, and everyone is invited
+      to join the development effort. Because of the current unfinished state,
+      Krita is not part of the regular Koffice releases, but the source is
+      available from the KDE CVS repository.
       </p>
 
       <p>
@@ -46,7 +49,8 @@
               </ul>
       </ul>
       </p>
-       <p>
+
+      <p>
       To join the development, contact one of the developers or join the
       KImageShop (Krita) mailing list.  To join the list, send mail to
       <a href="mailto:kimageshop-request@kde.org">kimageshop-request@kde.org</a>
@@ -55,57 +59,63 @@
       list server that processes your request.
       </p>
 
+      <p>Read also the <a href="../developer/krita/index.phtml">Developing Krita</a> document
+      for a high-level overview of the architecture of Krita.</p>
+
       <p>
       There is a mailing list archive at
       <a href="http://lists.kde.org/?l=kde-kimageshop">http://lists.kde.org/?l=kde-kimageshop</a>.
       </p>
-<!--
-      <h3>News</h3>
-      <br />
 
-      <table border=0 cellpadding=2 cellspacing=2>
-      <tr><td bgcolor="#BB8844" align=center valign=middle>
-            <font color="#ffffff"><b>November 21, 2000</b></font></td>
-          <td align=left valign=top>
-             An <a href="http://dot.kde.org/974744841/">announcement</a> at
-             kde.dot.news discusses the current plans,
-             the need for volunteers, and the latest changes
-             and enhancements.  These include:
-             <ul>
-             <li> Krita can now load and save images in its native .kis format
-             with full layer and channel information and binary image data.
-             </li>
-             <li> Krita can import/export all common image formats supported
-             by Qt such as jpg, png, bmp and xpm.  </li>
-             <li>Images can be added and removed using the tabs either from
-             external image files or by creating them from scratch.</li>
-             <li> Krita is now fairly stable and very usable for testing
-             of image creation, editing and layering using the tools which
-             have been implemennted so far. </li>
-             </ul>
-            </td>
-      </tr>
-      <tr><td bgcolor="#8888BB" align=center valign=middle>
-            <font color="#ffffff"><b>October, 2000</b></font></td>
-          <td align=left valign=top>
-             Krita now compiles and runs with other KOffice components which
-             will be released with KDE 2.0, after a major upgrade to make
-             use of current KOffice Library code. It must still be compiled
-             and installed separately, however, and is not yet part of the
-             official release</td>
-      </tr>
-      </table>
-      <br />
--->
-      <h3>Other Information</h3>
+      <h3>Status</h3>
+
+      <p>Krita has been unde development since 1999, but that doesn't mean it's
+        anywhere near usable yet. Currently (that is, November 2003) working are:</p>
+
+        <ul>
+            <li>Loading and saving of images in its native file format.</li>
+            <li>Importing and exporting of images in all file formats supported by your installation of ImageMagick.</li>
+            <li>Adding, removing, reordering and merging of layers.</li>
+            <li>Layer transparency.</li>
+            <li>Loading Gimp brushes.</li>
+            <li>Rectangular select, cut and past.</li>
+            <li>Zoom.</li>
+            <li>Color selection and drawing of one-pixel wide lines.</li>
+            <li>RGB(A) and CMYK(A) color models.</li>
+            <li>Support for Wacom tablets.</li>
+        </ul>
+
+
+      <h3>Libraries Krita currently uses</h3>
+
+      <p>Krita depends on the following libraries, apart from
+         what Koffice needs itself:</p>
+
       <ul><li><a href="http://www.imagemagick.org/">Image
               Magick X11 Image Processing and Display Package</a>
-          <li><a href="http://www.gimp.org/">The GNU Image Manipulation Program
-              (GIMP)</a>
+          <li><a href="http://www.littlecms.com">Little CMS &mdash; a free color
+management system in 100K</a></li>
+      </ul>
+
+      <h3>Inspiration</h3>
+        <p>The following applications, not all of them free, provided some inspiration
+            for Krita:</p>
+
+      <p>Free:</p>
+      <ul>
+        <li><a href="http://www.gimp.org">The Gimp</a> (The GNU Image Manipulation Program)</li>
+        <li><a href="http://www.gimp.org/~otaylor/gsumi/index.ht">GSumi</a> (Simulation of brush or pen and ink drawing)</li>
+        <li><a href="http://www.levien.com/gimp/wetdream.html">Wet Dream</a> (Watercolor paint simulation), see
+            also <a href="http://www.levien.com/gimp/brush-arch.html">An Architecture for "natural" brush types</a>.</li>
+      </ul>
+
+      <p>(Non free:)</a>
+      <ul>
+        <li><a href="http://www.corel.com/servlet/Satellite?pagename=Corel/Products/productInfo&id=1047021764853&did=1047021793915">Corel Painter (the descendant of Fractal Painter)</a></li>
+        <li><a href="http://www.squirreldome.com/cyberop.htm">DogWaffle</a></li>
+        <li><a href="http://www.mindworkshop.com/alchemy/paint.html">e-Paint</a></li>
+        <li><a href="http://jijigaga.com/product/index.htm">Smoothdraw</a></li>
+        <li><a href="http://www.pixarra.com/">Pixarra Sketchbook</a></li>
       </ul>
 
 <?php include("footer.inc"); ?>
-
-
-
-
