@@ -7,6 +7,8 @@
 
 <p>$Date$</p>
 
+<p>(<a href="nontrivial.php">Other tasks here!</a>)</p>
+
 <p>KOffice needs volunteers for many tasks, including the following tasks
 that are more suitable for developer without much experience.</p>
 
@@ -52,11 +54,13 @@ a single directory... It is more important that some part is done at all.)</p>
     resolved, closed or whatever.)</del></li>
 </ul>
     
-<h2>More Difficult Tasks</h2>
+<h2>Other Tasks</h2>
 
-<p>Of course KOffice is also still searching developers wanting to do more 
-difficult tasks, for example currently we would need people to help 
-developing the OpenOffice to KOffice filters (and vice-versa of course.)</p>
+<p><a href="nontrivial.php">Of course KOffice is also still searching developers wanting to do more 
+difficult tasks</a></p>
+
+<p>There is also a <a href="../website/tasks.php">Web Task List</a> for task to do for the 
+<a href="/">koffice.org site</a>.</p>
 
 <?php
    include("footer.inc");
