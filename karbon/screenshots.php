@@ -1,6 +1,7 @@
 <?php
   $page_title="Karbon14 Screenshots";
   $site_root='../';
+  include("koffice.inc");
   include("header.inc");
 ?>
 
