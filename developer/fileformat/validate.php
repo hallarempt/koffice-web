@@ -51,7 +51,7 @@
    Finally, it would be helpful to have a script that automatically checks the XML files
    inside a ZIP package (since KOffice documents are ZIP packages), so that you don't have
    to unzip it by hand.
-   Here is one (note that it requires to be given the full path to the koffice file, as argument):
+   Here is one, which I called oasisfilecheck. Note that it requires to be given the full path to the koffice file, as argument:
    <code><pre>
    #!/bin/sh
    tmpdir=/tmp/oasistmp
