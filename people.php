@@ -6,13 +6,23 @@
 ?>
 
       <p>
-      If you have suggestions, or similair, either contact the developers 
-      directly or write a mail to <a href="mailto:koffice@kde.org">koffice@kde.org</a>.
-      Some of the original authors and project founders may not be 
-      currently involved in the day-to-day development of KOffice, but all are
-      on referral. Please try to contact current maintainers first. 
-      Before contacting the developers because of compiling problems, 
-      have a look at the <a href="/faq/">FAQs</a>. 
+      If you want to report bugs or if you want to add wishes, please
+      use <a href="http://bugs.kde.org">KDE Bugs!</a>
+      </p>
+      
+      <p>
+      If you have a question or if you want to discuss about KOffice,
+      please write an email to the
+      <a href="mailto:koffice@kde.org">KOffice mailing list!</a>
+      <a href="http://lists.kde.org">(Archives.)</a>
+      If you have any compiling problem, please have a look at the
+      <a href="/faq/">FAQs</a> first.
+      </p> 
+      
+      <p>
+      If you want to contact a particular developer, please find the
+      email address below. Please note that some developers and the
+      project founders are not involved anymore in the development of KOffice!
       </p>
       
       <h2>Current maintainers by project</h2>
@@ -51,7 +61,7 @@
       (KChart)<br />
 
       <b><a href="mailto:coolo@kde.org">Stephan Kulow</a></b>
-      (KFormula, Configure-Scripts and Makefiles)<br />
+      (KFormula, Build system)<br />
 
       <b><a href="mailto:Bilibao@ouverture.it">Andrea Rizzi</a></b>
       (KFormula)<br />
@@ -90,7 +100,7 @@
       (KSpread, KChart, KPresenter, KWord)<br />
 
       <b><a href="mailto:srhaque@iee.org">Shaheed Haque</a></b>
-      (MS WinWord(tm) Import Filter, KWord)<br />
+      (MS Word(tm) Import Filter, KWord)<br />
 
       <b><a href="mailto:zander@kde.org">Thomas Zander</a></b>
       (KWord)<br />
@@ -111,13 +121,13 @@
       (Filters, KSpread)<br />
 
       <b><a href="mailto:goutte@kde.org">Nicolas Goutte</a></b>
-      (various filters)<br />
+      (various KWord filters, picture support of the KOffice library)<br />
 
       <b><a href="mailto:jowenn@kde.org">Joseph Wenninger</a></b>
        (KWord Mail merge)<br />
 
       <b><a href="mailto:rjacolin@ifrance.com">Robert Jacolin</a></b>
-      (KWord and Kontour Latex filter, XSLT filter)<br />
+      (Latex filters, XSLT filter)<br />
 
       <b><a href="mailto:nandres@web.de">Norbert Andres</a></b>
       (KSpread)<br />
