@@ -5,12 +5,6 @@
   include("header.inc");
 ?>
 
-<p style="border:solid red;color:red;text-align:center">
-    This document is <em>under construction</em>.<br />
-    KOffice 1.3.4 has <strong>not</strong> been released yet!
-</p>
-
-
 <p>
   The following summarizes the major changes and bugfixes to the KOffice Suite since the
   release of KOffice 1.3.3.
@@ -21,7 +15,7 @@
   <li>Temporary fix for Danish documentation to be processed on KDE 3.1.x</li>
 </ul>
 <p>
-  <em>Note:</em> only important language changes are listed in this section.
+  <em>Note:</em> improved translations are not listed in this section.
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
