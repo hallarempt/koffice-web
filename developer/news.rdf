@@ -9,10 +9,21 @@
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
 
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Sat, 30 Oct 2004 17:17 UT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2004 15:11 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>Kexi 0.1 beta 5 released</title>
+<pubDate>Mon, 1 Nov 2004 15:10 UT</pubDate>
+<description>
+The Kexi Team today announced the immediate availability of Kexi 0.1 beta 5, codenamed &quot;Halloween&quot;, a 
+preview release of the integrated data management environment aimed at developers and experienced users.
+Read &lt;a href="http://www.kexi-project.org/announce-0.1-beta5.html"&gt;the announcement</a>.
+</description>
+<source url="http://www.koffice.org/news.rdf">KOffice News</source>
+</item>
 
 <item>
 <title>SECURITY update: xpdf integer overflow in KOffice 1.3.x</title>
