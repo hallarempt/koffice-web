@@ -3,42 +3,26 @@
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
+  include("../variables.inc");
+?>
+
+<?php
+  $appinfo = new AppInfo("KWord");
+  $appinfo->setIcon( "pics/hi48-app-kword.png", "48", "48");
+  $appinfo->setVersion($kwordversion);
+  $appinfo->setLicense("lgpl");
+  $appinfo->setCopyright("1998", "the KWord Team");
+  $appinfo->addAuthor("Reginald Stadlbauer", "reggie@kde.org");
+  $appinfo->addAuthor("Torben Weis", "weis@kde.org");
+  $appinfo->addContributor("David Faure", "faure@kde.org");
+  $appinfo->addContributor("Thomas Zander", "zander@kde.org");
+  $appinfo->addContributor("Shaheed Haque", "srhaque@ieee.org");
+  $appinfo->addContributor("Laurent Montel", "lmontel@mandrakesoft.com");
+  $appinfo->addContributor("Sven L&uuml;ppken", "sven@kde.org");  
+  $appinfo->show();
 ?>
       
-      <table>
-      <tr>
-      <td><img src="pics/hi48-app-kword.png">
-      </td>
-      <td><b>Version <?php echo $kwordversion; ?><br />
-          &copy; 1998-<?php echo $currentyear; ?> by the KWord Team<br />
-          E-Mail: <a href="mailto:dfaure@kde.org">dfaure@kde.org</a><br />
-          KWord is under the GNU LGPL.</b>
-      </td>
-      </tr>
-      </table>
-
-      <p>
-      <b>Original Authors:</b><br />
-      Reginald Stadlbauer
-      &lt;<a href="mailto:reggie@kde.org">reggie@kde.org</a>&gt;<br />
-      Torben Weis
-      &lt;<a href="mailto:weis@kde.org">weis@kde.org</a>&gt;<br />
-      </p>
-
-      <p>
-      <b>Current Contributors:</b><br />
-      David Faure
-      &lt;<a href="mailto:dfaure@kde.org">dfaure@kde.org</a>&gt;<br />
-      Thomas Zander
-      &lt;<a href="mailto:zander@kde.org">zander@kde.org</a>&gt;<br />
-      Shaheed Haque
-      &lt;<a href="mailto:srhaque@iee.org">srhaque@iee.org</a>&gt;<br />
-      Laurent Montel
-      &lt;<a href="mailto:lmontel@mandrakesoft.com">lmontel@mandrakesoft.com</a>&gt;<br />
-      Sven L&uuml;ppken
-      &lt;<a href="mailto:sven@kde.org">sven@kde.org</a>&gt;<br />
-      </p>
-
+<h2>Description</h2>
       <p>KWord is a FrameMaker-like word-processing and desktop publishing application. KWord is capable of creating demanding and professional looking documents. Whether you are a corporate or home user, production artist or student, KWord will prove a valuable and easy to use tool for all your word processing and layout needs.
 
       <p>KWord is a wordprocessor based on frames. This can be used to place components in precise locations, as with many professional DTP applications. KWord can also handle huge amounts of texts and allows you to do professional markup with ease.</p>
