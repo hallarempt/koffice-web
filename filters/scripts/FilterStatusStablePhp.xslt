@@ -1,20 +1,15 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output method="xml" indent="yes" media-type="text/html" omit-xml-declaration="yes" encoding="UTF-8"/>
+<xsl:output method="xml" indent="yes" media-type="application/xml" omit-xml-declaration="yes" encoding="UTF-8"/>
 <xsl:template match="/">
-<xsl:variable name="webcvspath" select="/filters/version/@webcvscheckout"/>
 <xsl:processing-instruction name="php">
-  echo '&lt;?xml version="1.0" encoding="UTF-8"?&gt;';
-  echo '&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;';
+  $page_title="KOffice Filters Status (KOffice 1.3)";
+  $location = '/ &lt;a href="/">KOffice&lt;/a> / &lt;a href="/filters/">Filters&lt;/a> / Status (KOffice 1.3)';
+  include("koffice.inc");
+  include("header.inc");
 </xsl:processing-instruction>
-
-<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <xsl:comment>Do not modify! This file was generated <!-- Don't panic! This is the source--></xsl:comment>
 
-<xsl:processing-instruction name="php">
-  $title="The KOffice Project -- Filters -- Status (KOffice 1.3)";
-  $location = '/ &lt;a href="/">KOffice&lt;/a> / &lt;a href="/filters/">Filters&lt;/a> / Status (KOffice 1.3)';
-  include("../cutheader.inc");
-</xsl:processing-instruction>
+<div>
 
  <h1>KOffice Filters - Status (KOffice 1.3)</h1>
  <h2>Which filters are there?</h2>
@@ -99,10 +94,10 @@
 
 
 <xsl:processing-instruction name="php">
-  include("../cutfooter.inc");
+  include("footer.inc");
 </xsl:processing-instruction>
 
 
-</html>
+</div>
 </xsl:template>
 </xsl:stylesheet>
