@@ -255,7 +255,7 @@ DTP frames of different widths)</li>
 <li>Fix painting problem with multiple views</li>
 <li>Prevent possible crash with conditional formatting (#58713)</li>
 <li>Fix dependency problem with automatic recalculation (#58097)</li>
-<li>Better adjustment of cell references on cut &and; paste</li>
+<li>Better adjustment of cell references on cut &amp; paste</li>
 <li>Fix crash on csv import (#66047)</li>
 <li>Fix problem for cells copy/cut to clipboard (#58712)</li>
 <li>Show frame when embedded object is selected (#37152)</li>
@@ -265,7 +265,7 @@ DTP frames of different widths)</li>
 </ul>
 <em>New functions:</em><br>
 <i>GETPIVOTDATA, BESSELI, BESSELJ, BESSELK, BESSELY,
-  ERF, ERFC, CONVERT (Which categories are these??)</i>
+  ERF, ERFC, CONVERT <!--Which categories are these??--></i>
 <p><em>Date/Time (16):</em>
   EDATE, EOMONTH, DAYS360, WEEKDAY, TIMEVALUE, DATEVALUE, YEAR,
   MONTH, DAY, HOUR, MINUTE, SECOND, DAYNAME, MONTHNAME, EASTERSUNDAY,
@@ -434,7 +434,8 @@ are highly encouraged to use that flag</li>
 
 <em>KWord RTF export filter:</em>
 <ul>
-<li>Imporved table support</li>
+<li>Re-written filter</li>
+<li>Improuved table support</li>
 <li>Better conformity to RTF specification</li>
 <li>Better export for other RTF readers</li>
 <li>Better document information</li>
@@ -447,10 +448,10 @@ are highly encouraged to use that flag</li>
 <ul>
 <li>Import non-7-bit-clean files</li>
 <li>Fix underline import</li>
-<li>Better picture support (all forms except "picture in shapes".)</li>
+<li>Better picture support (all forms except "picture in shapes")</li>
 <li>Speed up importing files with many Unicode characters</li>
 <li>Support for the field-like keywords for date, time and page number</li>
-<li>Allow non-ASCII style names</li>
+<li>Allow non-ASCII style and font names</li>
 <li>Fix header/footer when they are the same for all pages</li>
 <li>Allow all combinations of first, odd, even page headers/footers</li>
 </ul>
