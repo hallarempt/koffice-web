@@ -43,17 +43,12 @@
      <li>templates</li>
      </ul>
 
-      <p>
-      Here are some <a href="screenshots.phtml">screenshots</a>.</p>
-
-     <p>For a more complete feature list, see <a href="features.phtml">here</a>.</p>
-
      <p>
      We are currently working on support for bi-directional editing of text. This is needed for Hebrew, Arabic etc. The next release will contain this functionality.
      </p>
 
      <p>If you are having trouble getting the Euro character working, take a look at
-       <a href="euro.phtml">this page</a>.
+       <a href="euro.php">this page</a>.
      </p>
 
 <?php include("footer.inc"); ?>

@@ -1,5 +1,5 @@
 <?php
-  $pagetitle="AbiWord Filter";
+  $page_title="AbiWord Filter";
   $location = '../';
   include("koffice.inc");
   include("header.inc");

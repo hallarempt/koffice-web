@@ -1,5 +1,5 @@
 <?php
-  $title="KChart";
+  $page_title="KChart";
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
