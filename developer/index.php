@@ -15,6 +15,12 @@
      <li><a href="apidocmain.php">KOffice API reference</a></li>
    </ul>
 
+   <h2>Applications</h2>
+
+   <ul>
+     <li><a href="krita">Krita</a></li>
+   </ul>
+
    <h2>External Sites About KOffice</h2>
    
    <ul>
