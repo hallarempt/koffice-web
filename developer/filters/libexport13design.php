@@ -4,7 +4,6 @@
     include("koffice.inc");
     include("header.inc");
 ?>
-<h1>Writing Export Filter for KWord using libexport</h1>
 
 <p style="text-align: center">
 <a href="mailto:ariya@kde.org">Ariya Hidayat</a><br />
