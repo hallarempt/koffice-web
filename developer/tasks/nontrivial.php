@@ -22,9 +22,13 @@ also marked with stars is how easy the tasks could be shared between developers 
     <li>Find and document portability problems of KOffice code (Difficulty: *****; Sharability: *)</li>
     <li>Verify that dialogs (or other widgets) have non-null parents. (Difficulty: **; Sharability: *)</li>
     <li>Backport non-null parents of widgets to KOffice 1.3.x. (Difficulty: **; Sharability: *)</li>
+    <li><ins>
+        Verify that private classes of public classes are usable (e.g. defined and not inline constructor of the public class)
+        (Difficulty: **; Sharability: *)
+    </ins></li>
 </ul>
 
-<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD only.</p>
+<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD.</p>
 
 <h2>Bugs</h2>
 
