@@ -15,6 +15,17 @@
     <ttl>120</ttl>
 
 <item>
+<title>KOffice 1.3.1 released</title>
+<date>Tue, 04 May 2004 09:09 UT</date>
+<description>
+The first bugfix release of KOffice 1.3 is available. See the
+&lt;a href="/releases/1.3.1-release.php"&gt;release notes&lt;/a&gt;
+and the complete &lt;a href="/announcements/changelog-1.3.1.php"&gt;list of changes&lt;/a&gt;.
+</description>
+<source url="http://www.koffice.org/news.rdf">KOffice News</source>
+</item>
+
+<item>
 <title>KOffice now uses KSpell2</title>
 <pubDate>Tue, 04 May 2004 06:10 UT</pubDate>
 <description>
@@ -22,17 +33,6 @@ KOffice uses now the new version of KSpell, KSpell2, included in kdelibs CVS HEA
 The old code for supporting KSpell in KOffice has been removed.
 Therefore when using kdelibs 3.2.x, spellchecking is disabled in KOffice.
 </description>
-</item>
-
-<item>
-<title>KOffice 1.3.1 released</title>
-<date>Mon, 03 May 2004 22:22 UT</date>
-<description>
-The first bugfix release of KOffice 1.3 is available. See the
-&lt;a href="/releases/1.3.1-release.php"&gt;release notes&lt;/a&gt;
-and the complete &lt;a href="/announcements/changelog-1.3.1.php"&gt;list of changes&lt;/a&gt;.
-</description>
-<source url="http://www.koffice.org/news.rdf">KOffice News</source>
 </item>
 
 <item>
