@@ -48,7 +48,7 @@
     which is weak against compiler optimization.</p>
     
     <p>
-        <a href="http://download.kde.org/stable/koffice-1.3.4/src/patch/koffice_xpdf_1_3_4_security_integer_overflow.diff">
+        <a href="../releases/security/koffice_1_3_4_xpdf_security_integer_overflow.diff">
             A patch for the source package is available.
         </a>
     </p>
