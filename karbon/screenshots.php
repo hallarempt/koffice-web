@@ -14,7 +14,7 @@ $gallery->addImage("pics/epsimport.png", "pics/epsimport.png", "266", "255", "[S
 $gallery->show();
 ?>
 
-<p>More screenshots can be found at <a href="http://www.xs4all.nl/~rwlbuis/karbon/">this</a> site.</p>
+<p>More screenshots can be <a href="http://www.xs4all.nl/~rwlbuis/karbon/">found at this site</a>.</p>
 
 <?php include("footer.inc"); ?>
 
