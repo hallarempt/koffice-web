@@ -33,7 +33,7 @@
     <ul>
       <li>
 <?php
-    if ( %flag )
+    if ( $flag )
     { 
         echo "<a href=\"apidocs\">Index</a>";
     }
