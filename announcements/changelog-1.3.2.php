@@ -18,17 +18,31 @@
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <h4>KOfficeCore:</h4>
 <ul>
-<li>### TODO</li>
+<li>Give the backup file the same permissions as the original file (#54459)</li>
+<li>Save window settings also when using File/Close</li>
 </ul>
 
 <h4>KOfficeUI:</h4>
 <ul>
-<li>### TODO</li>
+<li>Improved unit widgets</li>
 </ul>
 
 <h4>KoText library features (shared between KWord and KPresenter):</h4>
 <ul>
-<li>### TODO</li>
+<li>
+  Changing a style in the style manager remembered a wrong "following style",
+  so later changes in the style manager wouldn't propagate correctly (#47377)
+</li>
+<li>
+  Fixed wrong position of suffix in numbered right-to-left paragraphs (#47178)
+</li>
+<li>
+  Fixed formatting bug, where an inline formula or any other big character after
+  the paragraph counter, would make the paragraph counter disappear (#82609).
+</li>
+<li>
+  Fixed wrong alignment when using numbered paragraphs and a tab as first character (#83489)
+</li>
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
