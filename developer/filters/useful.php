@@ -22,7 +22,7 @@
         </tr>
 
         <tr bgcolor="#CCCCFF">
-        <td rowspan="10" valign="top"><b>MS Office</b></td>
+        <td rowspan="9" valign="top"><b>MS Office</b></td>
         <td><a href="http://msdn.microsoft.com">msdn</a></td>
         <td>The MS Developer's Network Library</td>
         </tr>
