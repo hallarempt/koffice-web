@@ -5,12 +5,14 @@
   include("header.inc");
 ?>
 
-<p style="border:solid red;color:red;text-align:center">
-    This document is <em>under construction</em>.<br />
-    KOffice 1.3.4 has <strong>not</strong> been released yet!
-</p>
-
       <p>The KOffice team is proud to announce the fourth bugfix version in KOffice 1.3 series.</p>
+      
+      <p>The main goals of this release are:</p>
+      <ul>
+	  <li>to fix the integer overflows in KWord's PDF import filter</li>
+	  <li>to be able to compile KOffice on KDE 3.1.5 and Qt 3.1.3 again</li>
+      </ul>
+
 
       <h2>Changelog</h2>
       <ul>
