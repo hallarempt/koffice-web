@@ -10,11 +10,22 @@
     <copyright>Copyright (c) 2003, KOffice.org Webmaster</copyright>
 
 <item>
+<title>KOffice 1.3 beta3 released</title>
+<date>14th August, 2003</date>
+<fullstory>
+The third beta version of KOffice 1.3 is available. See the short <a href="/releases/1.3beta3-release.phtml">release notes</a>
+and the complete <a href="/announcements/changelog-1.3beta3.phtml">list of changes</a>. There will be only one more
+RC and we expect to release the final version in September, after the Nov&eacute; Hrady conference during which
+we will hopefully fix many of the remaining bugs.
+</fullstory>
+</item>
+
+<item>
 <title>KSpread development roadmap</title>
 <date>26th June, 2003</date>
 <fullstory>
-Three KSpread developers, Ariya Hidayat, Norbert Andres and Phillip M&uuml;ller have produced a development roadmap, see the full story on <a href="http://dot.kde.org/1059107636/">dot.kde.org</a>.
-
+Three KSpread developers, Ariya Hidayat, Norbert Andres and Phillip M&uuml;ller have produced a development roadmap, 
+see the full story on <a href="http://dot.kde.org/1059107636/">dot.kde.org</a>.
 </fullstory>
 </item>
 

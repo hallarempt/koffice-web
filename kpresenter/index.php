@@ -9,7 +9,7 @@
   $appinfo = new AppInfo("KPresenter");
   $appinfo->setIcon( "pics/hi48-app-kpresenter.png", "48", "48");
   $appinfo->setVersion($kpresenterversion);
-  $appinfo->setLicense("gpl");
+  $appinfo->setLicense("lgpl");
   $appinfo->setCopyright("1997", "the KPresenter Team");
   $appinfo->addAuthor("Reginald Stadlbauer", "reggie@kde.org");
   $appinfo->addContributor("David Faure", "faure@kde.org");
@@ -19,6 +19,7 @@
   $appinfo->addContributor("Luk&aacute;&scaron; Tinkl", "lukas@kde.org");
   $appinfo->addContributor("Thorsten Zachmann", "t.zachmann@zagge.de");
   $appinfo->addContributor("Ariya Hidayat", "ariya@kde.org");
+  $appinfo->addContributor("Percy Leonhardt", "percy@eris23.de");
   $appinfo->show();
 ?>
 

@@ -10,14 +10,15 @@
   $appinfo = new AppInfo("KSpread");
   $appinfo->setIcon( "pics/hi48-app-kspread.png", "48", "48");
   $appinfo->setVersion($kspreadversion);
-  $appinfo->setLicense("gpl");
+  $appinfo->setLicense("lgpl");
   $appinfo->setCopyright("1998", "the KSpread Team");
   $appinfo->addAuthor("Torben Weis", "weis@kde.org");
   $appinfo->addContributor("Laurent Montel", "montel@kde.org");
   $appinfo->addContributor("Phillipp Mueller", "phillipp.mueller@gmx.de");
   $appinfo->addContributor("Ariya Hidayat", "ariya@kde.org");
   $appinfo->addContributor("Norbet Andres", "nandres@web.de"); 
-$appinfo->show();
+  $appinfo->addContributor("Luk&aacute;&scaron; Tinkl", "lukas@kde.org"); 
+  $appinfo->show();
 ?>
 
 <h2>Description</h2>

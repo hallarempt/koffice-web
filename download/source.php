@@ -30,11 +30,12 @@ regularly via CVS or CVSUP.</p>
 <p><b>KOffice 1.2.1 stable</B> is available 
 <a href="http://download.kde.org/stable/koffice-1.2.1/src/">here</a>
 
-<p><b>The latest unstable release is KOffice 1.3beta2</b>. Get it from
-<a href="http://download.kde.org/unstable/koffice-1.2.91/src/">here</a>.
+<p><b>The latest development release is KOffice 1.3beta3</b>. Get it from
+<a href="http://download.kde.org/unstable/koffice-1.2.92/src/">here</a>.
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.
-<p>The development version via <b>anonymous CVS</B> (recommended) needs extra instructions, check the <a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.
+<p>The development version via <b>anonymous CVS</B> (recommended) needs extra instructions, check the
+<a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.
 <p>The development version via <b>CVSup</B> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.
 <p>Use cvsup or anoncvs if you plan to update often, since you will save a significant amount 
 of time. If you use cvsup or anoncvs, you need to run <tt>make -f Makefile.cvs</tt> before 
@@ -48,11 +49,11 @@ In any case, you need the HEAD branch! (which is the default).
 <!--<p>For the development version of KOffice you need QT 3.0.x, arts, and kdelibs from CVS (in that order).-->
 
 <p>QT can be found <a href="ftp://ftp.trolltech.com/qt/source/">here</a>
-and the KDE development snapshots from <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.
-<p> This is the minimum to run KOffice. If you want, there are other packages which 
+and the KDE development snapshots from <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
+
+<p>This is the minimum to run KOffice. If you want, there are other packages which 
 contain a lot of different applications, from networking, graphics, multimedia to games. See the appropriate
-websites below "Family" in the left border.
-</p>
+websites below "Family" in the left border.</p>
 
 
 <h2>Installing Qt and the base KDE packages</h2>

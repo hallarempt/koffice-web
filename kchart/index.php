@@ -14,6 +14,7 @@
   $appinfo->addAuthor("Kalle Dalheimer", "kalle@kde.org");
   $appinfo->addAuthor("Torben Weis", "weis@kde.org");
   $appinfo->addContributor("Laurent Montel", "montel@kde.org");
+  $appinfo->addContributor("Karl-Heinz Zimmer", "khz@kde.org");
   $appinfo->show();
 ?>
 
