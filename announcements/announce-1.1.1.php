@@ -343,6 +343,5 @@
  </table>
  </td></tr>
  </table>
- </body>
- </html>
- 
+
+ <? include("footer.php") ?>
