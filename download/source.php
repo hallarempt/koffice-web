@@ -19,7 +19,7 @@
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
 <!--<li>For KOffice 1.2 betas and the CVS versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.5 or 1.6</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.52</a>.</li>-->
-<li>a C++ compiler which supports exceptions (preferably 
+<li>a C++ compiler which supports exceptions (preferably
 <a href="http://gcc.gnu.org">a recent version of GCC</a>).
 (see <a href="http://gcc.gnu.org">http://gcc.gnu.org</a>
 for info about getting and installing it.)
@@ -27,17 +27,17 @@ for info about getting and installing it.)
 </ul>
 
 <h2>Information</h2>
-<p>KOffice stable is currently available as version 1.3.2, designed to run with KDE 3.1 and later.<br />
-You must choose now to run the stable KOffice 1.3.2 or a development version. In case of the 
+<p>KOffice stable is currently available as version 1.3.3, designed to run with KDE 3.1 and later.<br />
+You must choose now to run the stable KOffice 1.3.3 or a development version. In case of the
 development version this can mean that it is not usable for end use.
-If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source 
+If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source
 regularly via CVS or CVSUP.</p>
 
 <?php ### TODO: use the variables of koffice.inc for the version number ?>
 
 <h2>Download</h2>
-<p><b>KOffice 1.3.2 stable</b> is available 
-<a href="http://download.kde.org/stable/koffice-1.3.2/src/">here</a></p>
+<p><b>KOffice 1.3.3 stable</b> is available
+<a href="http://download.kde.org/stable/koffice-1.3.3/src/">here</a></p>
 
 <!--
 <p><b>The latest development release is KOffice 1.3 RC 2 - XMAS version</b>. Get it from
@@ -48,9 +48,9 @@ regularly via CVS or CVSUP.</p>
 <p>The development version via <b>anonymous CVS</b> (recommended) needs extra instructions, check the
 <a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.</p>
 <p>The development version via <b>CVSup</b> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.</p>
-<p>Use cvsup or anoncvs if you plan to update often, since you will save a significant amount 
-of time. If you use cvsup or anoncvs, you need to run <tt>make -f Makefile.cvs</tt> before 
-running <tt>./configure</tt> in the instructions below, or follow the instructions on the 
+<p>Use cvsup or anoncvs if you plan to update often, since you will save a significant amount
+of time. If you use cvsup or anoncvs, you need to run <tt>make -f Makefile.cvs</tt> before
+running <tt>./configure</tt> in the instructions below, or follow the instructions on the
 cvsup or anoncvs page.<br />
 In any case, you need the HEAD branch! (which is the default).</p>
 
@@ -62,7 +62,7 @@ In any case, you need the HEAD branch! (which is the default).</p>
 <p>Qt can be <a href="ftp://ftp.trolltech.com/qt/source/">download directly from Trolltech</a>
 and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/">can be downloaded from a KDE server</a>.</p>
 
-<p>This is the minimum to run KOffice. If you want, there are other packages which 
+<p>This is the minimum to run KOffice. If you want, there are other packages which
 contain a lot of different applications, from networking, graphics, multimedia to games. See the appropriate
 websites below "Family" in the left border.</p>
 
@@ -140,7 +140,7 @@ And then for each KDE package:<br />
 
       <p>
       You should now be able to start each individual application, such as <i>kspread</i>,
-      <i>kchart</i>, <i>kpresenter</i>, <i>karbon</i>, <i>kexi</i>, 
+      <i>kchart</i>, <i>kpresenter</i>, <i>karbon</i>, <i>kexi</i>,
       <i>kformula</i>, <i>kword</i>, <i>kivio</i> and <i>kugar</i>, or run the integrated
       <i>koshell</i> for easy access to all of the applications.
       </p>
