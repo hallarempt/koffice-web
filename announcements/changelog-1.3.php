@@ -102,16 +102,16 @@
 
 <h3><a name="filters">Filters</a></h3>
 
-<em>KWord RTF export filter:</em>
-<ul>
-<li>be careful with font names containing spaces.
-</ul>
-
 <em>KWord's RTF import filter:</em>
 <ul>
 <li>allow non-ASCII style names
 <li>fix header/footer when they are the same for all pages
 <li>allow all combinaisons of first, odd, even page headers/footers
+</ul>
+
+<em>KWord's OOWriter export filter:</em>
+<ul>
+<li>be careful with font names containing spaces.</li>
 </ul>
 
 <em>KWord's OOWriter import filter:</em>
