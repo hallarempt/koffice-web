@@ -13,7 +13,7 @@
      <h2>Download</h2>
      <p>Qt 3.1.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
      <p>Download locations can be found
-     <a href="../announcements/<?php echo $currentversion; ?>-release.php">on the announcements page</a>.</p>
+     <a href="../releases/<?php echo $currentversion; ?>-release.php">on the announcements page</a>.</p>
 
       <h1>Download Binaries: KOffice <?php echo $currentversion; ?></h1>
       Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
