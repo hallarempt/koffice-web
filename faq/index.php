@@ -83,7 +83,7 @@ applications are only planned for future KOffice releases.</p>"
 );
 
 // CHECK: is 1.3 out?
-$faq->addQuestion("What is the current state of &KOffice;?",
+$faq->addQuestion("What is the current state of KOffice?",
 "<p>At the time of thiw writing, KOffice 1.3 will be soon released. KOffice is released seperately
 from the rest of KDE, so KOffice releases are not in sync with those of KDE.</p>"
 );
