@@ -14,6 +14,11 @@ might be concerned too.</p>
 
 <ul>
   <li>
+    <a href="advisory-20050120-1.txt">
+      2005-01-20 XPDF integer vulnerability, third problem (KOffice 1.3 to 1.3.5)
+    </a>
+  </li>
+  <li>
     <a href="2004_xpdf_integer_overflow_2.php">
       2004-12-23 XPDF integer overflow vulnerability, second problem (KOffice 1.3 to 1.3.5)
     </a>

@@ -1,0 +1,18 @@
+Index: filters/kword/pdf/xpdf/xpdf/XRef.cc
+===================================================================
+RCS file: /home/kde/koffice/filters/kword/pdf/xpdf/xpdf/XRef.cc,v
+retrieving revision 1.6
+retrieving revision 1.7
+diff -u -p -r1.6 -r1.7
+--- filters/kword/pdf/xpdf/xpdf/XRef.cc	30 Oct 2004 16:35:33 -0000	1.6
++++ filters/kword/pdf/xpdf/xpdf/XRef.cc	19 Jan 2005 15:43:46 -0000	1.7
+@@ -501,6 +501,9 @@ GBool XRef::checkEncrypted(GString *owne
+ 	} else {
+ 	  keyLength = 5;
+ 	}
++	if (keyLength > 16) {
++	  keyLength = 16;
++	}
+ 	permFlags = permissions.getInt();
+ 	if (encVersion >= 1 && encVersion <= 2 &&
+ 	    encRevision >= 2 && encRevision <= 3) {
