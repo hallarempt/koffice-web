@@ -25,6 +25,8 @@
   <em>Note:</em> improved translations are not listed in this section.
 </p>
 
+<?php /*
+
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <h4>KOfficeCore</h4>
 <ul>
@@ -42,6 +44,8 @@
 <ul>
 </ul>
 
+*/ ?>
+
 <h3><a name="kword">KWord</a></h3>
 <ul>
   <li>
@@ -57,6 +61,7 @@
 
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
+  <li>Ignore sticky objects when duplicating a page</li>
 </ul>
 
 
@@ -68,11 +73,12 @@
   </li>
 </ul>
 
+<?php /*
+
 <h3><a name="kchart">KChart</a></h3>
 <ul>
 </ul>
 
-<?php /*
 <h3><a name="kugar">Kugar</a></h3>
 <ul>
 </ul>
@@ -93,6 +99,8 @@
 
 <h3><a name="filters">Filters</a></h3>
 
+<?php /*
+
 <h4>KWord's OpenOffice.org Writer Export Filter</h4>
 <ul>
 </ul>
@@ -100,6 +108,8 @@
 <h4>KWord's RTF Import Filter</h4>
 <ul>
 </ul>
+
+*/ ?>
 
 <h4>KWord's PDF Import Filter</h4>
 <ul>
@@ -133,36 +143,6 @@
   <li>
   	Fix export vertical line
   </li>
-</ul>
-
-<?php /*
-<h4>KSpread's OpenOffice.org Calc Import Filter</h4>
-<ul>
-</ul>
-
-<h4>KSpread's OpenOffice.org Calc Export Filter</h4>
-<ul>
-</ul>
-
-<h4>KSpread's GNUmeric Export Filter</h4>
-<ul>
-</ul>
-
-<h4>KSpread's MS Excel Import Filter</h4>
-<ul>
-</ul>
-
-<h4>KSpread's CSV Export Filter</h4>
-<ul>
-</ul>
-*/ ?>
-
-<h4>KFormula's MathML Import Filter</h4>
-<ul>
-</ul>
-
-<h4>KFormula's MathML Export Filter</h4>
-<ul>
 </ul>
 
 <h3>Previous changelogs</h3>
