@@ -26,5 +26,9 @@
     </ul>
 
 <?php
+ kde_general_news("./news.rdf", 5, true);
+?>
+
+<?php
    include("footer.inc");
 ?>
