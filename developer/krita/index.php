@@ -12,6 +12,7 @@
 	<h3>Contents</h3>
 	<ul>
 		<li><a href="./painters.php">Paint devices and Painters</a></li>
+		<li><a href="../apidocs/krita/html/index.html">Class documentation (doxygen)</a></li>
 	</ul>
 
    <h3>Overview of the Krita Architecture</h3>
