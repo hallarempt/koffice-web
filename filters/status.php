@@ -149,7 +149,7 @@
       <td width="30%" align="left" valign="top">OpenOffice Writer</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">**</td>
-      <td width="10%" align="center" valign="top">*</td>
+      <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">PDF</td>
@@ -188,7 +188,7 @@
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/rtf/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/rtf/status.html#export?content-type=text/html">*</a>
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/rtf/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
@@ -197,7 +197,7 @@
             Contacts: <a href="mailto:ariya@kde.org">Ariya Hidayat</a>,
             <a href="mailto:info@marcozanon.com">Marco Zanon</a></td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/starwriter/status.html?content-type=text/html">+</a>
+        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/starwriter/status.html?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
         <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/starwriter/status.html?content-type=text/html">-</a>

@@ -131,7 +131,7 @@
       </td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">**</td>
-      <td width="10%" align="center" valign="top">*</td>
+      <td width="10%" align="center" valign="top">**</td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">
@@ -163,7 +163,7 @@
       </td>
       <td width="50%" align="left" valign="top">Rich Text Format</td>
       <td width="10%" align="center" valign="top">***</td>
-      <td width="10%" align="center" valign="top">*</td>
+      <td width="10%" align="center" valign="top">***</td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">
@@ -172,7 +172,7 @@
       <td width="50%" align="left" valign="top">
             Contacts: <a href="mailto:ariya@kde.org">Ariya Hidayat</a>,
             <a href="mailto:info@marcozanon.com">Marco Zanon</a></td>
-      <td width="10%" align="center" valign="top">+</td>
+      <td width="10%" align="center" valign="top">*</td>
       <td width="10%" align="center" valign="top">-</td>
     </tr>
     <tr>
