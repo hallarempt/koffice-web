@@ -19,7 +19,7 @@
 <h3><a name="i18n">Languages</a></h3>
 <ul>
   <li>
-    New:  (cy), as preview () <!-- ### TODO -->
+    New: Welsh (cy)
   </li>
 </ul>
 
@@ -67,13 +67,17 @@
     Fix all 3 style menus for any translation
     (<a href="http://bugs.kde.org/show_bug.cgi?id=61007">#61007</a>)
   </li>
+  <li>
+    Fix loading of tabulators in old KWord documents
+    (part of <a href="http://bugs.kde.org/show_bug.cgi?73351">#73351</a>)
+  </li>
 </ul>
 
-
+<?php /*
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
 </ul>
-
+*/ ?>
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
@@ -92,29 +96,29 @@
   </li>
 </ul>
 
+<?php /*
+
 <h3><a name="kchart">KChart</a></h3>
 <ul>
 </ul>
 
-<!--
 <h3><a name="kugar">Kugar</a></h3>
 <ul>
-
 </ul>
 
 <h3><a name="kivio">Kivio</a></h3>
 <ul>
-<li>### TODO</li>
 </ul>
 
 <h3><a name="kformula">KFormula</a></h3>
 <ul>
 </ul>
--->
 
 <h3><a name="karbon">Karbon</a></h3>
 <ul>
 </ul>
+
+*/ ?>
 
 <h3><a name="filters">Filters</a></h3>
 
@@ -142,10 +146,11 @@
 <li>Fix header into content.xml</li>
 </ul>
 
-
+<?php /*
 <h4>KSpread's OOCalc import filter:</h4>
 <ul>
 </ul>
+*/ ?>
 
 <h4>KSpread's OOCalc export filter:</h4>
 <ul>
@@ -187,10 +192,6 @@
     Fix export of sheets with more than 255 rows or columns
     (<a href="http://bugs.kde.org/show_bug.cgi?id=75781">Variant of bug #75781</a>)
   </li>
-</ul>
-
-<h4>Karbon's EPS filter:</h4>
-<ul>
 </ul>
 
 <h3>Previous changelogs</h3>
