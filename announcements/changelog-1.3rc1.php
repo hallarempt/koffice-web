@@ -16,11 +16,11 @@
 <li>Fixes for remote documents (authentication dialog not on top, error handling)
 <li>Restore ability to detect documents without extension (was broken by KDE-3.2-alpha's KZip)
 <li>Many stability fixes in spell checking
-<li>Fixed missed hit during search-replace backwards with a single paragraph
 </ul>
 
 <h4>KoText library features (shared between KWord and KPresenter):</h4>
 <ul>
+<li>Fixed missed hit during search-replace backwards with a single paragraph
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
