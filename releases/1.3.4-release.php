@@ -21,7 +21,7 @@
     which is weak against compiler optimization.</p>
     
     <p>
-        <a href="http://download.kde.org/stable/koffice-1.3.4/src/patch/xpdf_koffice_1_3_4_security_integer_overflow.diff">
+        <a href="http://download.kde.org/stable/koffice-1.3.4/src/patch/koffice_xpdf_1_3_4_security_integer_overflow.diff">
             A patch for the source package is available.
         </a>
     </p>
@@ -32,7 +32,7 @@
         To patch, do: (please adjust paths) <br />
         <code>
             cd koffice/filters/kword/pdf/xpdf/xpdf<br />
-            patch -p0 &lt; xpdf_koffice_1_3_4_security_integer_overflow.diff
+            patch -p0 &lt; koffice_1_3_4_xpdf_security_integer_overflow.diff
         </code>
     </p>
 
