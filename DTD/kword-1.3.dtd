@@ -43,7 +43,7 @@ Encoding (for advanced users)
 =============================
 
 KWord's document are encoded as UTF-8 by definition. Please use this encoding
-whenever possible. (Remember: ASCII is UTF-8 too and you could use numerical 
+whenever possible. (Remember: ASCII is UTF-8 too and you could use numerical
 character references like &#8164; to keep your document ASCII-clean.)
 
 If you find that writing in UTF-8 is too difficult on the system that you plan
@@ -54,7 +54,7 @@ Please write publicly available KWord documents only in one of these two encodin
 Of course, if you do not use UTF-8, replace any occurrence of UTF-8 in the text below by the
 encoding that you have chosen. And please be sure to correctly define the XML declaration <?xml
 
-(Sorry, ISO-10646-UCS4 (also known as UTF-32) is not available, as QT cannot handle it.)
+(Sorry, ISO-10646-UCS4 (also known as UTF-32) is not available, as Qt cannot handle it.)
 
 Some basic notes on XML
 =======================
@@ -678,8 +678,8 @@ don't put a </?xml...> at the end of the file!).
     EMPTY>
 <!ATTLIST PSTYLE
     name CDATA #REQUIRED>
-            
-    
+
+
 <!--
         name is the family name. Don't include fontsizes or bold, that is put in another tag.
 -->
@@ -720,7 +720,7 @@ don't put a </?xml...> at the end of the file!).
           double = double-underline.
           single-bold = thick underline
           wave = wave underline
-        styleline type of underline 
+        styleline type of underline
                 : solid, dash, dot, dashdot, dashdotdot
         underlinecolor : color of underline line.
         wordbyword: 0 or 1. If 1, spaces are not underlined. Opposite of fo:score-spaces.
@@ -1203,7 +1203,7 @@ don't put a </?xml...> at the end of the file!).
 <!-- <MAILMERGE> exists as two versions:
      - a mail-merge variable
      - the global mail merge settings
-     
+
      The mail-merge variable has the attribute "name" (#REQUIRED in that case) and no children (EMPTY)
      The global seetings has no attributes but has children (PLUGIN and DATASOURCE)
 -->
@@ -1211,7 +1211,7 @@ don't put a </?xml...> at the end of the file!).
     (PLUGIN, DATASOURCE)?>
 <!ATTLIST MAILMERGE
     name   CDATA #IMPLIED>
-    
+
 <!--
   The plugin being used. library is the name of the lib, like "kwmailmerge_qtsqldb_power"
 -->
@@ -1332,7 +1332,7 @@ For the QtSQL-power-plugin, the contents of DATASOURCE is
 <!ELEMENT BOOKMARKS ( BOOKMARKITEM+ )>
 <!ATTLIST BOOKMARKS >
 <!ELEMENT BOOKMARKITEM EMPTY>
-<!ATTLIST BOOKMARKITEM name NMTOKEN #REQUIRED 
+<!ATTLIST BOOKMARKITEM name NMTOKEN #REQUIRED
                        cursorIndexStart NMTOKEN #REQUIRED
                        cursorIndexEnd NMTOKEN #REQUIRED
                        frameset NMTOKEN #REQUIRED
@@ -1341,7 +1341,7 @@ For the QtSQL-power-plugin, the contents of DATASOURCE is
 
 <!--
         The key mapping to one picture
-        
+
         name:     the relative path to the picture in the store (e.g. picture/picture1.ext)
                   (only if <KEY> is a child of <PICTURES>, otherwise the attribute name does not exist.)
         filename: the original path of the picture

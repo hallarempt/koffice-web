@@ -153,7 +153,7 @@
      A sequence of paths with optionally arrows at the end.
 -->
 <!ELEMENT polyline (point* | gobject) >
-<!ATTLIST polyline %base_content_attributes; 
+<!ATTLIST polyline %base_content_attributes;
                    arrow1 CDATA "0"
                    arrow2 CDATA "0"
 >
@@ -170,7 +170,7 @@
 
 <!--
      polygon
-     It requires at least 3 points. The first and last are 
+     It requires at least 3 points. The first and last are
      connected.
      x,y - top left of enclosing rectangle not including dx, dy
 
@@ -193,7 +193,7 @@
 <!--
      bezier curve
      The number of points has to be n*3+1 for n=1,2,3,...
-     Point #1, #4, #7 etc. are endpoints, the others are 
+     Point #1, #4, #7 etc. are endpoints, the others are
      supporting points.
 -->
 <!ELEMENT bezier (polyline) >
@@ -228,14 +228,14 @@
      such as line parameters, fill colors and patterns, and
      fill gradients.
         strokecolor - line color coded in hex digits #rrggbb -
-                      see QT documentation on QColor::setNamedColor()
+                      see Qt documentation on QColor::setNamedColor()
         strokestyle - see QPen::setPenStyle() - 0 = no pen, 1 = solod, 2 = dashed line,
                       3 = dotted line, 4 = dash-dot, 5 = dash dotdot
         linewidth     pt.
         fillcolor     coded in hex digits #rrggbb per QColor::setNamedColor()
         fillstyle     0 = no fill, 1 = solid fill, 2 = pattern fill
                       3 = gradiant fill
-        fillpattern   0 to 15 as defined in QT documentation on QBrush::setStyle()
+        fillpattern   0 to 15 as defined in Qt documentation on QBrush::setStyle()
         gradstyle     0 = linear, 1 = radial, 2 = rectangular
         gradcolor1    coded in hex digits #rrggbb per QColor::setNamedColor()
         gradcolor2    coded in hex digits #rrggbb per QColor::setNamedColor()
