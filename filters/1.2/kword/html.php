@@ -8,16 +8,16 @@
 <p>Note: the export filter has three modes: "light", "basic" and "enhanced".
 </p>
 
-<h2>KWord Features<h2>
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<h2>KWord Features</h2>
+<table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Character Formatting</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Character Formatting</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Text (ASCII)</td>
@@ -101,13 +101,13 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Paragraph Formatting</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Paragraph Formatting</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Text Justification </td>
@@ -152,13 +152,13 @@
 
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Frame Properties</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Frame Properties</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Frames </td>
@@ -172,13 +172,13 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Document Properties</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Document Properties</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Bookmarks</td>
@@ -222,28 +222,28 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Images</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Images</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Pictures</td>
  <td bgcolor="#CECECE" align="left" valign="top">Not Supported.</td>
- <td bgcolor="#FFFFFF" align="left" valign="top">SVG (known problems)<br>WMF (not supported)<br>Most other formats supported.</td>
+ <td bgcolor="#FFFFFF" align="left" valign="top">SVG (known problems)<br />WMF (not supported)<br />Most other formats supported.</td>
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Tables</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Tables</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Tables</td>
@@ -252,13 +252,13 @@
 </tr>
 
 <tr bgcolor="#FFFFFF">
-<td colspan="3" align="left" valign="top"><br /><h2>Styles</h2></td>
+<td colspan="3" align="left" valign="top"><br /><h3>Styles</h3></td>
 </tr>
 
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>KWord Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>KWord Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Text Style </td>
@@ -278,12 +278,12 @@
 
 </table>
 
-<h2>HTML Specific Features<h2>
-<table border="5" cellspacing="0" cellpadding="5" bordercolor="#800000" >
+<h2>HTML Specific Features</h2>
+<table border="5" cellspacing="0" cellpadding="5" >
 <tr bgcolor="#FFEEAA">
- <td align="left" valign="top"><h3>HTML Feature</h3></td>
- <td align="left" valign="top"><h3>Import Status</h3></td>
- <td align="left" valign="top"><h3>Export Status</h3></td>
+ <td align="left" valign="top"><h4>HTML Feature</h4></td>
+ <td align="left" valign="top"><h4>Import Status</h4></td>
+ <td align="left" valign="top"><h4>Export Status</h4></td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">HTML 4.01</td>
@@ -311,8 +311,3 @@
 <?php
    include("footer.inc");
 ?>
-
-
-
-
-
