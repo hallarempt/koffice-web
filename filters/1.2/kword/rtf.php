@@ -144,7 +144,7 @@ otherwise restricted due to a bug.</p>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Line Spacing </td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
  <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
