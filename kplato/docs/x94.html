@@ -1,0 +1,505 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML
+><HEAD
+><TITLE
+>Functional Requirements</TITLE
+><META
+NAME="GENERATOR"
+CONTENT="Modular DocBook HTML Stylesheet Version 1.64
+"><LINK
+REL="HOME"
+TITLE="Discussion Summary for KPlato"
+HREF="index.html"><LINK
+REL="UP"
+TITLE="Functionality Requests"
+HREF="requests.html"><LINK
+REL="PREVIOUS"
+TITLE="Functionality Requests"
+HREF="requests.html"><LINK
+REL="NEXT"
+TITLE="Other Requirements"
+HREF="x188.html"></HEAD
+><BODY
+CLASS="SECTION"
+BGCOLOR="#FFFFFF"
+TEXT="#000000"
+LINK="#0000FF"
+VLINK="#840084"
+ALINK="#0000FF"
+><DIV
+CLASS="NAVHEADER"
+><TABLE
+WIDTH="100%"
+BORDER="0"
+CELLPADDING="0"
+CELLSPACING="0"
+><TR
+><TH
+COLSPAN="3"
+ALIGN="center"
+>Discussion Summary for <SPAN
+CLASS="APPLICATION"
+>KPlato</SPAN
+></TH
+></TR
+><TR
+><TD
+WIDTH="10%"
+ALIGN="left"
+VALIGN="bottom"
+><A
+HREF="requests.html"
+>Prev</A
+></TD
+><TD
+WIDTH="80%"
+ALIGN="center"
+VALIGN="bottom"
+>Chapter 2. Functionality Requests</TD
+><TD
+WIDTH="10%"
+ALIGN="right"
+VALIGN="bottom"
+><A
+HREF="x188.html"
+>Next</A
+></TD
+></TR
+></TABLE
+><HR
+ALIGN="LEFT"
+WIDTH="100%"></DIV
+><DIV
+CLASS="SECTION"
+><H1
+CLASS="SECTION"
+><A
+NAME="AEN94"
+>2.2. Functional Requirements</A
+></H1
+><DIV
+CLASS="SECTION"
+><H2
+CLASS="SECTION"
+><A
+NAME="AEN96"
+>2.2.1. Display Functions</A
+></H2
+><P
+>There are three standard display methods that have been
+requested for <SPAN
+CLASS="APPLICATION"
+>KPlato</SPAN
+>.  These methods are:</P
+><P
+></P
+><UL
+><LI
+><P
+>Spreadsheet: The list of tasks and subtasks are
+displayed down the left column of the spreadsheet.  The columns across
+the spreadsheet display the various attributes of those
+tasks.</P
+></LI
+><LI
+><P
+>PERT Chart: The tasks and their relationships are
+displayed in a network diagram.  The task interdependencies are
+indicated by the connections on the diagram.</P
+></LI
+><LI
+><P
+>GANTT Chart: The tasks are displayed on a page as
+bars.  The page is laid out such that time increases as you move
+across the page.  A task's start time/date is indicated by the point
+on the page the bar starts, and it's duration is indicated by the
+length of the bar. </P
+></LI
+></UL
+><P
+>It is expected that the spreadsheet view will be the first
+one developed for <SPAN
+CLASS="APPLICATION"
+>KPlato</SPAN
+>.</P
+></DIV
+><DIV
+CLASS="SECTION"
+><H2
+CLASS="SECTION"
+><A
+NAME="AEN109"
+>2.2.2. Work Breakdown Structure</A
+></H2
+><P
+>The Work Breakdown Structure is a hierarchical list of
+the tasks that are defined for a project.  It consists of a
+list of tasks in a project.  The tasks are numbered in a
+fashion that reflects the structure of the project.</P
+><P
+>The WBS is defined as a tree structure.  The following
+terminology is often used when discussing the WBS:</P
+><P
+></P
+><UL
+><LI
+><P
+>Project:  the project is the root node in
+the WBS tree.</P
+></LI
+><LI
+><P
+>Task: a task is any node in the WBS tree other than
+
+the root node.</P
+></LI
+><LI
+><P
+>Subtask: a subtask is any node in the WBS tree that has
+a task as its parent.</P
+></LI
+><LI
+><P
+>Terminal Node: a terminal node is any task that does
+not have any subtasks defined for it.</P
+></LI
+><LI
+><P
+>Subproject: a subproject is any subtree that exists in
+multiple Work Breakdown Structures.</P
+></LI
+></UL
+><P
+>This vocabulary is used in the application domain to
+describe specific relationships in the WBS tree and does not
+necessarily reflect a difference in the way the item is
+represented internally.</P
+><P
+>Insert sample wbs</P
+></DIV
+><DIV
+CLASS="SECTION"
+><H2
+CLASS="SECTION"
+><A
+NAME="AEN126"
+>2.2.3. Resources</A
+></H2
+><P
+>A resource is something that is required to perform a task and
+is limited in time and quantity.  Resource assignment has the following
+constraints:</P
+><P
+></P
+><OL
+TYPE="1"
+><LI
+><P
+>All terminal nodes in the WBS tree must have a 
+resource allocated to them.</P
+></LI
+><LI
+><P
+>Resources may only be allocated to tasks that are
+terminal nodes.</P
+></LI
+></OL
+><P
+>A resource is defined by its schedule of availability.  This
+is currently being viewed as a calendar that lists the days and hours
+within a day that the resource is available over a certain period
+of time.</P
+><P
+>In order to assign a resource to a task the following additional
+estimates must be made:</P
+><P
+></P
+><OL
+TYPE="1"
+><LI
+><P
+>The effort required from the resource.</P
+></LI
+><LI
+><P
+>The <A
+HREF="glossary.html#RISK"
+>risk</A
+> associated with
+the resource.</P
+></LI
+></OL
+><P
+>All these items are taken into account to determine the estimated
+duration of a task (described in the next section).</P
+><DIV
+CLASS="NOTE"
+><P
+></P
+><TABLE
+CLASS="NOTE"
+WIDTH="100%"
+BORDER="0"
+><TR
+><TD
+WIDTH="25"
+ALIGN="CENTER"
+VALIGN="TOP"
+><IMG
+SRC="../images/note.gif"
+HSPACE="5"
+ALT="Note"></TD
+><TD
+ALIGN="LEFT"
+VALIGN="TOP"
+><P
+>How do we take into account related resources? (e.g. computer
+equipment that is being used by the employee).  Break this down into
+two separate tasks that end on the same date?</P
+></TD
+></TR
+></TABLE
+></DIV
+></DIV
+><DIV
+CLASS="SECTION"
+><H2
+CLASS="SECTION"
+><A
+NAME="AEN145"
+>2.2.4. Relationships</A
+></H2
+><P
+>Tasks have relationships defined between them, indicating
+how they are related to each other.  The common relationships are
+as follows:</P
+><P
+></P
+><UL
+><LI
+><P
+>Finish-Start: task B cannot start until task
+A has finished </P
+></LI
+><LI
+><P
+>Finish-Finish: task B cannot finish until task
+A has finished</P
+></LI
+><LI
+><P
+>Start-Start: task B cannot start until task
+A has started</P
+></LI
+></UL
+><P
+>In addition each relationship can have a lag defined
+for it, which indicates a minimum time that must elapse between
+the linked items (e.g. task B cannot finish until at least 3 days
+after task A has finished)</P
+></DIV
+><DIV
+CLASS="SECTION"
+><H2
+CLASS="SECTION"
+><A
+NAME="AEN156"
+>2.2.5. Calculations</A
+></H2
+><P
+><SPAN
+CLASS="APPLICATION"
+>KPlato</SPAN
+> should be able to perform the calculations described
+in the following sections.</P
+><DIV
+CLASS="SECTION"
+><H3
+CLASS="SECTION"
+><A
+NAME="AEN160"
+>2.2.5.1. Task Duration</A
+></H3
+><P
+>Durations are calculated for a task based on the
+resources assigned to it.  The following factors need
+to be taken into account:</P
+><P
+></P
+><OL
+TYPE="1"
+><LI
+><P
+>The effort required from each resource</P
+></LI
+><LI
+><P
+>The risk associated with the resource/task pairing</P
+></LI
+><LI
+><P
+>The availability schedule of each resource</P
+></LI
+><LI
+><P
+>The other task commitments of resources</P
+></LI
+></OL
+><DIV
+CLASS="NOTE"
+><P
+></P
+><TABLE
+CLASS="NOTE"
+WIDTH="100%"
+BORDER="0"
+><TR
+><TD
+WIDTH="25"
+ALIGN="CENTER"
+VALIGN="TOP"
+><IMG
+SRC="../images/note.gif"
+HSPACE="5"
+ALT="Note"></TD
+><TD
+ALIGN="LEFT"
+VALIGN="TOP"
+><P
+CLASS="LITERALLAYOUT"
+>[Jim&nbsp;Sabatke]<br>
+&nbsp;Allow&nbsp;task&nbsp;durations&nbsp;to&nbsp;be&nbsp;calculated&nbsp;from&nbsp;the&nbsp;following&nbsp;columns:<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Optimistic&nbsp;Hours"&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Pessimistic&nbsp;Hours"&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Expected&nbsp;Hours"&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Risk"&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Duration"<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;"Duration"&nbsp;would&nbsp;be&nbsp;calculated&nbsp;like:<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Risk"&nbsp;=&nbsp;Low&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration&nbsp;=&nbsp;(OH&nbsp;+&nbsp;4EH&nbsp;+PH)&nbsp;/&nbsp;6<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Risk"&nbsp;=&nbsp;High&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration&nbsp;=&nbsp;(OH&nbsp;+&nbsp;4EH&nbsp;+&nbsp;2PH)&nbsp;/&nbsp;7<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Risk"&nbsp;=&nbsp;None&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OH&nbsp;=&nbsp;EH&nbsp;=&nbsp;PH&nbsp;=&nbsp;"Duration"&nbsp;&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If&nbsp;Duration&nbsp;is&nbsp;entered,&nbsp;then&nbsp;OH,&nbsp;PH,&nbsp;EH&nbsp;all&nbsp;will&nbsp;be&nbsp;set&nbsp;to&nbsp;<br>
+"Duration"&nbsp;and&nbsp;"Risk&nbsp;=&nbsp;None"</P
+></TD
+></TR
+></TABLE
+></DIV
+></DIV
+><DIV
+CLASS="SECTION"
+><H3
+CLASS="SECTION"
+><A
+NAME="AEN174"
+>2.2.5.2. Task Start Date</A
+></H3
+><P
+>The start date of a task is calculated based on the following
+information:</P
+><P
+></P
+><OL
+TYPE="1"
+><LI
+><P
+>Any constraints that have been entered on the start
+or finish date of the task</P
+></LI
+><LI
+><P
+>The relationships that have been defined by
+any other tasks.</P
+></LI
+></OL
+></DIV
+><DIV
+CLASS="SECTION"
+><H3
+CLASS="SECTION"
+><A
+NAME="AEN182"
+>2.2.5.3. Float</A
+></H3
+><P
+>Float is the amount of time the end date of a task can be
+delayed without without affecting the overall end date of the
+project.</P
+></DIV
+><DIV
+CLASS="SECTION"
+><H3
+CLASS="SECTION"
+><A
+NAME="AEN185"
+>2.2.5.4. Critical Path</A
+></H3
+><P
+>The critical path is the path through the network diagram for
+which all tasks have a zero float.</P
+></DIV
+></DIV
+></DIV
+><DIV
+CLASS="NAVFOOTER"
+><HR
+ALIGN="LEFT"
+WIDTH="100%"><TABLE
+WIDTH="100%"
+BORDER="0"
+CELLPADDING="0"
+CELLSPACING="0"
+><TR
+><TD
+WIDTH="33%"
+ALIGN="left"
+VALIGN="top"
+><A
+HREF="requests.html"
+>Prev</A
+></TD
+><TD
+WIDTH="34%"
+ALIGN="center"
+VALIGN="top"
+><A
+HREF="index.html"
+>Home</A
+></TD
+><TD
+WIDTH="33%"
+ALIGN="right"
+VALIGN="top"
+><A
+HREF="x188.html"
+>Next</A
+></TD
+></TR
+><TR
+><TD
+WIDTH="33%"
+ALIGN="left"
+VALIGN="top"
+>Functionality Requests</TD
+><TD
+WIDTH="34%"
+ALIGN="center"
+VALIGN="top"
+><A
+HREF="requests.html"
+>Up</A
+></TD
+><TD
+WIDTH="33%"
+ALIGN="right"
+VALIGN="top"
+>Other Requirements</TD
+></TR
+></TABLE
+></DIV
+></BODY
+></HTML
+>
