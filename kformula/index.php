@@ -2,7 +2,6 @@
   $page_title="KFormula";
   $site_root='../';
   include("koffice.inc");
-  include("../variables.inc");
   include("header.inc");
 ?>
 

@@ -3,7 +3,6 @@
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
-  include("../variables.inc");
 ?>
 
 <?php

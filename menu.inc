@@ -1,5 +1,4 @@
 <?php
-include("variables.inc");
 $this->setName ("KOffice Homepage");
 
 $section =& $this->appendSection("Inform");

@@ -2,7 +2,6 @@
   $page_title = "KOffice - Integrated Office Suite";
   $site_root = "./";
   $site_menus = 2;
-  include("variables.inc");
   include("header.inc");
   include("koffice.inc");
 ?>

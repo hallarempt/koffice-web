@@ -1,7 +1,6 @@
 <?php
   $page_title="Kexi";
   $site_root='../';
-  include("../variables.inc");
   include("koffice.inc");
   include("header.inc");
 ?>
