@@ -105,7 +105,7 @@
 <li>Allow ampersands in font names</li>
 </ul>
 
-<em>KPresenter's OOImpress import filter:</em>
+<h4>KPresenter's OOImpress import filter:</h4>
 <ul>
 <li>Import rotate object</li>
 <li>Fix load end/start line</li>
@@ -117,7 +117,7 @@
 <li>Fix import background style</li>
 </ul>
 
-<em>KPresenter's OOImpress export filter:</em>
+<h4>KPresenter's OOImpress export filter:</h4>
 <ul>
 <li>Export polygone/polyline object</li>
 <li>Export pie/chord/arc object</li>
@@ -126,7 +126,7 @@
 </ul>
 
 
-<em>KSpread's OOCalc import filter:</em>
+<h4>KSpread's OOCalc import filter:</h4>
 <ul>
 <li>Import support for protect document</li>
 <li>Fix #67087 import template document</li>
@@ -137,13 +137,13 @@
 <li>Fix import note with multiline</li>
 </ul>
 
-<em>KSpread's OOCalc export filter:</em>
+<h4>KSpread's OOCalc export filter:</h4>
 <ul>
 <li>Fix export header/footer</li>
 <li>Export print range</li>
 </ul>
 
-<em>Karbon's eps filter:</em>
+<h4>Karbon's EPS filter:</h4>
 <ul>
 <li>Fix #82964 (Fix parsing of boundingbox in the presence of "%ALDBoundingBox")</li>
 </ul>
