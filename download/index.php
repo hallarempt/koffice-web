@@ -8,7 +8,7 @@
       <h2>Information</h2>
       <p>KOffice is currently available as version 1.2.1 designed to run with KDE 3.0 or later. KOffice is released seperately from the rest of
        KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a newer development version, then you will need to
-	  <a href="install-source.phtml">compile from source</a>.</p>
+	  <a href="source.php">compile from source</a>.</p>
       <h2>Download</h2>
      <p>Qt 3.0.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
      <p>Download locations can be found on the announcements page, and by clicking <a href="/announcements/announce-1.2.1.phtml#package_locations">here</a></p>
