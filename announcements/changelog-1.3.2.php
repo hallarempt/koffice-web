@@ -16,12 +16,12 @@
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
-<p>KOfficeCore:</p>
+<h4>KOfficeCore:</h4>
 <ul>
 <li>### TODO</li>
 </ul>
 
-<p>KOfficeUI:</p>
+<h4>KOfficeUI:</h4>
 <ul>
 <li>### TODO</li>
 </ul>
