@@ -5,6 +5,8 @@
   include("header.inc");
 ?>
 
+<p>Draft $Date$</p>
+
 <h2>Abstract</h2>
 
 <p>This tutorial is about how to send modifications of code by the way of patches.</p>
@@ -45,12 +47,12 @@ That allows to patch even if the line numbers are not the same anymore.</p>
 <p>The most simple patch is created between the modified file (here called <tt>source.cpp</tt>)
 and the non-modified version of the file (here called <tt>source.cpp.orig</tt>.)</p>
 
-<p><tt>diff -u source.cpp.orig source.cpp</tt></p>
+<p><tt>diff -u -p source.cpp.orig source.cpp</tt></p>
 
-<p>That lists the difference between the two files in the unified diff format. However it only displays
+<p>That lists the difference between the two files in the unified diff format (and with function name information if possible.) However it only displays
 it to screen, which is of course not the goal. So you need to redirect the output.</p>
 
-<p><tt>diff -u source.cpp.orig source.cpp > ~/patch.diff</tt></p>
+<p><tt>diff -u -p source.cpp.orig source.cpp > ~/patch.diff</tt></p>
 
 <p>~/patch.diff is here an example and you can create the file where you prefer with the name that you prefer.
 (You will soon find out that it is probably not a good idea to create it where the source is.)</p>
@@ -69,16 +71,16 @@ be able to make the difference later. But here too, there is a solution.</p>
 <p>You can run it like this and it will give you the difference of the current directory and all
 sub-directories below it. Of course, here too, you want to redirect the output.</p>
 
-<p><tt>cvs diff > ~/patch.diff</tt></p>
+<p><tt>cvs diff -u -p > ~/patch.diff</tt></p>
 
 <p>There are useful variants too (shown here without redirection)
   <ul>
-    <li>For just one file: <tt>cvs diff source.cpp</tt></li>
-    <li>For the current directory only: <tt>cvs diff -l</tt></li>
+    <li>For just one file: <tt>cvs diff -u -p source.cpp</tt></li>
+    <li>For the current directory only: <tt>cvs diff -l -u -p</tt></li>
   </ul>
 </p>
 
-<p>Please note: even if cvs can make the difference of a directory (<tt>cvs diff mydirectory</tt>), it is not
+<p>Please note: even if cvs can make the difference of a directory (<tt>cvs diff -u -p mydirectory</tt>), it is not
 recommended to do it for a patch that should be applied again. (The problem is that the person that will apply
 the patch will have to be more careful about how he applies it.)</p>
 
