@@ -573,113 +573,13 @@ $faq->addQuestion("What is Krita?",
 
 $faq->addSection("Contributing to KOffice");
 
-//CHECK
 $faq->addQuestion("I like this project! How can I contribute?",
 "<p>Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
-and tell where you would want to help!</p>"
+and tell where you would want to help!</p>
+<p>Please look also at
+<a href=\"http://www.koffice.org/getinvolved/">\"Get Involved?\"<a>!</p>"
 );
-/*
-<qandaentry><question><para> I like this project! How can I contribute?</para></question>
-<answer>
-<para>
-Great. There are many fields, where help is needed (in fact, all fields).
- You might:</para>
 
-<itemizedlist>
-<listitem><para>help programming. This means development work on the main applications, new
- applications, filters (desperately needed!), plugins and datatools, more
- functions for &KSpread; ...</para></listitem>
-<listitem><para><ulink url="http://koffice.kde.org/getinvolved/doc-help.html">write documentation</ulink></para></listitem>
-<listitem><para>translate &KOffice;</para></listitem>
-<listitem><para>draw graphics</para></listitem>
-<listitem><para>help maintaining the web page</para></listitem>
-<listitem><para>fix small bugs if you find them and send a patch to <email>koffice at kde dot org</email>.</para></listitem>
-<listitem><para><ulink url="http://koffice.kde.org/support">
-donate</ulink> money or hardware :-) Yes, this is needed in free software
-development, too :)
-</para></listitem> </itemizedlist>
-
-<para>If you want to help the &KOffice; developers (or even become one) please
-<ulink url="http://koffice.kde.org/contact.phtml#lists">subscribe</ulink> to our
-mailing lists so you know what's needed and we avoid duplicating work.
-Please don't be angry if you don't get instant replies - everybody has a lot to do.
-</para> </answer> </qandaentry>
-
-<qandaentry><question><para> I
-want to help with documentation. How do I start?</para></question> <answer>
-<para> Have a look at the <filename>doc</filename>-directory and its
-subdirs in the &KOffice; sources. In
-<filename>README.documentation</filename> you can see an (incomplete) list
-of tasks and who they're assigned to. Pick what you like best and contact
-the person in charge or put yourself in charge if nobody has started yet.
-As I can't assure <filename>README.documentation</filename> will always be
-up-to-date, you may first want to send a mail to all mentioned authors,
-saying hello and such. They can help you to get a start and can answer
-questions.</para> <para>
-Our documentation markup language of choice is DocBook. You might want to
-subscribe to <email>kde-docbook at kde dot org</email>, where DocBook-related questions can be
-asked. Please visit <ulink url="http://i18n.kde.org">http://i18n.kde.org</ulink>
-for more information and a DocBook crash course.</para>
-<para>
-If you don't know DocBook and don't want to learn it, you can still work on
-documentation by writing plain text. Send it to me (Jost Schenck)
-<email>jost at schenck dot de</email>. Either I'll convert it and check it in or I'll
-send it to the person that's in charge of this right now. Note that it's easier for
-us if you send us plain text rather than HTML.
-</para>
-</answer>
-</qandaentry>
-<qandaentry><question><para> I want to write filters. How do I start?</para></question>
-<answer>
-<para>
-Werner Trobin <email>trobin at kde dot org</email> is the one you need to talk
- to. Werner has uploaded <ulink url="http://koffice.kde.org/filters/index.phtml">useful information on filters</ulink>
- to the KOffice web page.
-</para>
-</answer>
-</qandaentry>
-<qandaentry><question><para> I want to help with application XYZ. How do I start?</para></question>
-<answer>
-<para>
-Just write to <email>koffice at kde dot org</email> or subscribe and write to
-<email>koffice-devel at kde dot org</email> (koffice-devel is only open for postings
-by subscribed people) and tell us what you want to work on.
-</para>
-</answer>
-</qandaentry>
-<qandaentry><question><para> I want to write a new KOffice application. How do I start?</para></question>
-<answer>
-<para>
-In the CVS module <filename>koffice</filename> you'll find an
-example program. This program is probably a good start for your own KOffice compliant
-application. Additionally, you might want to use <application>kdoc</application> on
-the headers in <filename>koffice/lib/*</filename> to get library documentation.
-You'll find <application>kdoc</application> in the CVS module <filename>kdoc</filename>.
-</para>
-</answer>
-</qandaentry>
-*/
-
-// CHECK
-/*
-<qandaentry><question><para> I want to do graphics. How do I start?</para></question>
-<answer>
-<para>
-Please subscribe to kde-artists at kde dot org.
-</para>
-</answer>
-</qandaentry>
-*/
-
-//CHECK
-/*
-qandaentry><question><para> I want to donate money or hardware!</para></question>
-<answer>
-<para>
-</para>
-</answer>
-</qandaentry>
-*/
 
 //CHECK
 /*
