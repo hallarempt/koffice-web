@@ -44,6 +44,9 @@
 <li>
   Fixed wrong alignment when using numbered paragraphs and a tab as first character (#83489)
 </li>
+<li>
+  Added newParagraph DCOP call (see <a href="http://www.koffice.org/developer/dcop/">this short howto</a>)
+</li>
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
