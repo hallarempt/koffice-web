@@ -79,7 +79,7 @@
             <li>Importing and exporting of images in all file formats supported by your installation of ImageMagick.</li>
             <li>Adding, removing, reordering and merging of layers.</li>
             <li>Layer transparency.</li>
-            <li>Loading Gimp brushes.</li>
+            <li>Loading Gimp brushes, pipe brushes and patterns.</li>
             <li>Rectangular select, cut and past.</li>
             <li>Zoom.</li>
             <li>Color selection.</li>
@@ -109,6 +109,8 @@ management system in 100K</a></li>
         <li><a href="http://www.gimp.org/~otaylor/gsumi/">GSumi</a> (Simulation of brush or pen and ink drawing)</li>
         <li><a href="http://www.levien.com/gimp/wetdream.html">Wet Dream</a> (Watercolor paint simulation), see
             also <a href="http://www.levien.com/gimp/brush-arch.html">An Architecture for "natural" brush types</a>.</li>
+	<li><a href="http://members.ozemail.com.au/~hodsond/gimpbrush.html">A Gimp Brush Proposal</a> -- never
+	implemented, I guess, but interesting nonetheless.</li>
       </ul>
 
       <p>(Non free:)</a>
