@@ -10,6 +10,18 @@
     <copyright>Copyright (c) 2004, KOffice.org Webmaster</copyright>
 
 <item>
+<title>SECURITY: xpdf integer overflow in KOffice 1.3.x</title>
+<date>22th October, 2004</date>
+<fullstory>
+<b>SECURITY:</b>
+The PDF import filter of KWord 1.3.x is vulnerable to integer overflows.
+<a href="http//kde.org/areas/koffice/releases/security/xpdf-CESA-2004-007-xpdf2-newer.diff">
+A patch is available for the source</a>, it should apply on any KOffice
+version until KOffice 1.3.x.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice 1.3.3 released</title>
 <date>19th September, 2004</date>
 <fullstory>
