@@ -231,6 +231,7 @@ remove all <filename>.deps</filename>-directories in your koffice source
 tree and try again (<command>make  maintainer-clean</command> is the
 safest, I think).</li>
 -->
+</ul>
 <p>After you have checked all this but the problems still persist, contact the
 <a href=\"mailto:koffice@kde.org\">koffice mailing list.</a>
  Please include information  about your system and the tail of the output of <code>make</code>.</p>
