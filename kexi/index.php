@@ -19,7 +19,7 @@
   $appinfo->show();
 ?>
 
-<h2>Description
+<h2>Description</h2>
 
 <p>
 <b>
