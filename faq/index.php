@@ -366,7 +366,7 @@ $faq->addQuestion("In printout, KOffice replaces some of my fonts with different
 <code>
 /ArialBlack-Roman	/Arial_Black	;<br />
 /Arnoldboecklin-Roman	/ArnoldBoecklin-ExtraBold	;<br />
-<code>
+</code>
 </p>
 <p> This problem will have to be solved within Qt; until then you will have to modify your fontmap.
  If you want to do this yourself, the following information might help you:</p>
