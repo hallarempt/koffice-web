@@ -65,7 +65,7 @@ other office suites or office programs).
 <p>
 KOffice and all its components are available for free under
 Open Source licenses from the KDE
-<a href="http://master.kde.org/stable/koffice-1.1/">server</a>
+<a href="http://download.kde.org/stable/koffice-1.1/">server</a>
 and its <a href="http://www.kde.org/mirrors.html">mirrors</a>.
 As a result of the dedicated efforts of hundreds of translators,
 KOffice 1.1 is available in 28 languages.
@@ -120,7 +120,7 @@ available at the <a href="http://www.koffice.org/">KOffice website</a>.
 Some distributors choose to provide binary packages of KOffice for certain
 versions of their distribution.  Some of these binary packages for
 KOffice 1.1 will be available for free download under
-<a href="http://master.kde.org/stable/koffice-1.1/">http://master.kde.org/stable/koffice-1.1/</a>
+<a href="http://download.kde.org/stable/koffice-1.1/">http://download.kde.org/stable/koffice-1.1/</a>
 or under the equivalent directory at one of the many KDE ftp server
 <a href="http://www.kde.org/mirrors.html">mirrors</a>. Please note that the
 KDE team is not responsible for these packages as they are provided by third
@@ -144,19 +144,19 @@ Library Requirements</a>.
 At the time of this release, pre-compiled packages are available for:
 </p>
 <ul>
- <li><a href="http://www.caldera.com/">Caldera Systems</a> (<a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/README">README</a>)
+ <li><a href="http://www.caldera.com/">Caldera Systems</a> (<a href="http://download.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/README">README</a>)
   <ul>
    <li>OpenLinux-3.1
     <ul>
-     <li>kdelibs 2.2:  <a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.2/">Intel x86 (i386)</a></li>
-     <li>kdelibs 2.1.2:  <a href="http://master.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.1/">Intel x86 (i386)</a></li>
+     <li>kdelibs 2.2:  <a href="http://download.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.2/">Intel x86 (i386)</a></li>
+     <li>kdelibs 2.1.2:  <a href="http://download.kde.org/stable/koffice-1.1/Caldera/OpenLinux-3.1/RPMS/kde2.1/">Intel x86 (i386)</a></li>
     </ul>
    </li>
   </ul>
  </li>
- <li><a href="http://www.conectiva.com/">Conectiva Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/Conectiva/7.0/README">README</a>)
+ <li><a href="http://www.conectiva.com/">Conectiva Linux</a> (<a href="http://download.kde.org/stable/koffice-1.1/Conectiva/7.0/README">README</a>)
   <ul>
-   <li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/Conectiva/7.0/i386/RPMS.main/">Intel x86 (i386)</a></li>
+   <li>7.0:  <a href="http://download.kde.org/stable/koffice-1.1/Conectiva/7.0/i386/RPMS.main/">Intel x86 (i386)</a></li>
   </ul>
  </li>
  <li><a href="http://www.debian.org/">Debian GNU/Linux</a> (package "koffice"):
@@ -167,36 +167,36 @@ At the time of this release, pre-compiled packages are available for:
  </li>
  <li><a href="http://www.linux-mandrake.com/en/">Linux Mandrake</a>:
   <ul>
-   <li>Cooker: <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/cooker/">Intel x86 (i586)</a></li> 
-   <li>8.0:  <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/8.0/">Intel x86 (i586)</a>, <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/ppc/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/Mandrake/ia64/">HP/Intel IA-64 (ia64)</a></li>
+   <li>Cooker: <a href="http://download.kde.org/stable/koffice-1.1/Mandrake/cooker/">Intel x86 (i586)</a></li> 
+   <li>8.0:  <a href="http://download.kde.org/stable/koffice-1.1/Mandrake/8.0/">Intel x86 (i586)</a>, <a href="http://download.kde.org/stable/koffice-1.1/Mandrake/ppc/">PowerPC (ppc)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/Mandrake/ia64/">HP/Intel IA-64 (ia64)</a></li>
   </ul>
  </li>
- <li><a href="http://www.redhat.com/">RedHat Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/README">README</a>):
+ <li><a href="http://www.redhat.com/">RedHat Linux</a> (<a href="http://download.kde.org/stable/koffice-1.1/RedHat/7.x/README">README</a>):
   <ul>
-   <li>7.x:  <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/i386/">Intel x86 (i386)</a>; <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/ia64/">HP/Intel IA-64 (ia64)</a>; <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/alpha/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/s390/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/RedHat/7.x/noarch/">noarch</a> directory for common files</li>
+   <li>7.x:  <a href="http://download.kde.org/stable/koffice-1.1/RedHat/7.x/i386/">Intel x86 (i386)</a>; <a href="http://download.kde.org/stable/koffice-1.1/RedHat/7.x/ia64/">HP/Intel IA-64 (ia64)</a>; <a href="http://download.kde.org/stable/koffice-1.1/RedHat/7.x/alpha/">Alpha (alpha)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/RedHat/7.x/s390/">IBM S390 (s390)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/RedHat/7.x/noarch/">noarch</a> directory for common files</li>
   </ul>
  </li>
- <li><a href="http://www.suse.com/">SuSE Linux</a> (<a href="http://master.kde.org/stable/koffice-1.1/SuSE/README">README</a>):
+ <li><a href="http://www.suse.com/">SuSE Linux</a> (<a href="http://download.kde.org/stable/koffice-1.1/SuSE/README">README</a>):
   <ul>
    <li>kdelibs 2.2
     <ul>
-     <li>7.2:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-     <li>7.1:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.1/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.1/">PowerPC (ppc)</a>; <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/axp/7.1/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-     <li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.0/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
-     <li>6.4:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>7.2:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>7.1:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.1/">Intel x86 (i386)</a>, <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.1/">PowerPC (ppc)</a>; <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/axp/7.1/">Alpha (alpha)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>7.0:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/7.0/">Intel x86 (i386)</a>, <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
+     <li>6.4:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.2/noarch/">noarch</a> directory for common files</li>
     </ul>
    </li>
    <li>kdelibs 2.1.2 and kdesupport 2.1.1
     <ul>
-     <li>7.2:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-     <li>7.1:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.1/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.1/">PowerPC (ppc)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/axp/7.1/">Alpha (alpha)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-     <li>7.0:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.0/">Intel x86 (i386)</a>, <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
-     <li>6.4:  <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://master.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>7.2:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.2/">Intel x86 (i386)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ia64/7.2/">HP/Intel IA-64 (ia64)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>7.1:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.1/">Intel x86 (i386)</a>, <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.1/">PowerPC (ppc)</a>, <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/axp/7.1/">Alpha (alpha)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/sparc/7.1/">Sun Sparc (sparc)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>7.0:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/7.0/">Intel x86 (i386)</a>, <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/ppc/7.0/">PowerPC (ppc)</a>; and <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/s390/7.0/">IBM S390 (s390)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
+     <li>6.4:  <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/i386/6.4/">Intel x86 (i386)</a>; please see the <a href="http://download.kde.org/stable/koffice-1.1/SuSE/KDE-2.1/noarch/">noarch</a> directory for common files</li>
     </ul>
    </li>
   </ul>
  </li>
- <li>Tru64 Systems:  <a href="http://master.kde.org/stable/koffice-1.1/Tru64/">4.0e,f,g, or 5.x</a> (<a href="http://master.kde.org/stable/koffice-1.1/Tru64/README.Tru64">README.Tru64</a>)</li>
+ <li>Tru64 Systems:  <a href="http://download.kde.org/stable/koffice-1.1/Tru64/">4.0e,f,g, or 5.x</a> (<a href="http://download.kde.org/stable/koffice-1.1/Tru64/README.Tru64">README.Tru64</a>)</li>
 </ul>
 
 <p>
@@ -213,7 +213,7 @@ this or early next week.
 <p>
 <a name="Source_Code"></a><em><strong>Source Packages</strong></em>.
 The source packages for KOffice 1.1 are available for free download at
-<a href="http://master.kde.org/stable/koffice-1.1/src/">http://master.kde.org/stable/koffice-1.1/src/</a> or in the
+<a href="http://download.kde.org/stable/koffice-1.1/src/">http://download.kde.org/stable/koffice-1.1/src/</a> or in the
 equivalent directory at one of the many KDE ftp server
 <a href="http://www.kde.org/mirrors.html">mirrors</a>.
 </p>
@@ -229,8 +229,8 @@ versions are recommended.
 or greater, kdesupport-2.1.x (not needed if using KDE 2.2), and
 kdelibs-2.1.2 or greater.  The KDE packages are available from the KDE
 ftp servers at
-<a href="http://master.kde.org/stable/2.1.1/distribution/">http://master.kde.org/stable/2.1.1/distribution/</a>
-and <a href="http://master.kde.org/stable/2.1.2/distribution/">http://master.kde.org/stable/2.1.2/distribution/</a>.
+<a href="http://download.kde.org/stable/2.1.1/distribution/">http://download.kde.org/stable/2.1.1/distribution/</a>
+and <a href="http://download.kde.org/stable/2.1.2/distribution/">http://download.kde.org/stable/2.1.2/distribution/</a>.
 Please note, however, that kdelibs-2.1.1 will cause some crashes and
 anti-aliased font problems.  Moreover, both kdelibs-2.1.1 and kdelibs-2.1.2
 will not properly accept .doc documents in the file selection dialog (see the
