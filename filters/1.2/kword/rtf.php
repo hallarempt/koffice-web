@@ -205,8 +205,8 @@ otherwise restricted due to a bug.</p>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Document Variables </td>
- <td bgcolor="#FFFFFF" align="left" valign="top">Supported</td>
  <td bgcolor="#FFFFFF" align="left" valign="top">Supported (partially)</td>
+ <td bgcolor="#CECECE" align="left" valign="top">Bug</td>
 </tr>
 
 <tr bgcolor="#FFFFFF"><td align="left" valign="top">Paper Size </td>
