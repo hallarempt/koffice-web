@@ -39,13 +39,25 @@
 
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
-<li>### TODO</li>
+<li>Fixed crash in infinite loop presentation mode when first slide is not shown</li>
+<li>Fixed show the duration for the correct page if not all slides are shown</li>
+<li>Fixes for vertical alignment of text inside text objects.</li>
+<li>Fixed bug #76286 export web presentation into network</li>
+<li></li>
 </ul>
 
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
-<li>### TODO</li>
+<li>Fix condition cell attribute (multi condition)</li>
+<li>Fix #69798 (kspread sexdec parse error)</li>
+<li>Fix enable/disable action into validation dialogbox<li>
+<li>Fix disable/enable "show table" menu item</li>
+</ul>
+
+<h3><a name="kchart">KChart</a></h3>
+<ul>
+<li>Fix crash bug#82149</li>
 </ul>
 
 <!--
