@@ -44,7 +44,7 @@ INDEX=$DESTDIR/index.html
 echo "<html>" > $INDEX
 echo "<head><title>KOffice API Documentation</title></head>" >> $INDEX
 echo "<body>" >> $INDEX
-echo "<h1>KOffice API Documenation</h2>" >> $INDEX
+echo "<h1>KOffice API Documenation</h1>" >> $INDEX
 echo "<p>Select a component to view the documentation for that component</p>" >> $INDEX
 echo "<ul>" >> $INDEX
 for dir in $DIR
