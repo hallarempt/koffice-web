@@ -6,11 +6,11 @@
 ?>
 <h1>Writing Export Filter for KWord using libexport</h1>
 
-<p>
+<p style="text-align: center">
 <a href="mailto:ariya@kde.org">Ariya Hidayat</a><br />
 <a href="mailto:goutte@kde.org">Nicolas Goutte</a></p>
 
-<p>Last revision: $Date$</p>
+<p style="text-align: center">Last revision: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?> </p>
 
 <h2>Introduction</h2>
 
@@ -104,7 +104,7 @@ document.</p>
 
 <p>The first step is to create the class TextWorker:</p>
 
-<pre>
+<pre style="background-color: #eeeeee; margin: 2%; padding: 3pt"><code>
 class TextWorker : public KWEFBaseWorker
 {
 public:
@@ -117,11 +117,11 @@ public:
    virtual bool doFullParagraph(const QString&amp; paraText, const LayoutData&amp; layout,
       const ValueListFormatData&amp; paraFormatDataList);
 };
-</pre>
+</code></pre>
 
 <p>And here is the implementation:</p>
 
-<pre>
+<pre style="background-color: #eeeeee; margin: 2%; padding: 3pt"><code>
 bool TextWorker::doOpenFile(const QString&amp; , const QString&amp; )
 {
   return true;
@@ -148,7 +148,7 @@ bool TextWorker::doFullParagraph(const QString&amp; paraText,
   kdDebug() &lt;&lt; paraText &lt;&lt; endl;
   return true;
 }
-</pre>
+</code></pre>
 
 <p>As you might see, we are not interested in other than
 <tt>doFullParagraph</tt> so the other methods will simply return
@@ -156,11 +156,11 @@ bool TextWorker::doFullParagraph(const QString&amp; paraText,
 
 <p>To invoke the Leader/Worker:</p>
 
-<pre>
+<pre style="background-color: #eeeeee; margin: 2%; padding: 3pt"><code>
 TextWorker* worker=new TextWorker();
 KWEFKWordLeader* leader=new KWEFKWordLeader(worker);
 leader->filter(filenameIn,filenameOut,from,to,param);
-</pre>
+</code></pre>
 
 <p>That's all !</p>
 
