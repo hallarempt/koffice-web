@@ -1,5 +1,5 @@
 <?php
-  $title='Kexi Screenshots';
+  $page_title='Kexi Screenshots';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
