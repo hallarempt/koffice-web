@@ -75,7 +75,7 @@
     <ul>
       <li>Selection Tools</li>
 
-      <li>Insert cliparts (WMF)</li>
+      <li>Insert clipart (WMF)</li>
 
       <li>Insert lines in different styles (pen, brush,
       begin/end-style)</li>
@@ -133,7 +133,7 @@
 
       <li>Set and change the background color (plain or gradiend),
       background picture (GIF, JPEG, BMP, XPM, XBM, PNM and PNG) or
-      backround clipart (WMF) for a certain or for all pages</li>
+      background clipart (WMF) for a certain or for all pages</li>
 
       <li>Set and change page layout (size, format and
       borders)</li>
@@ -148,7 +148,7 @@
     <ul>
       <li>Configure pages</li>
 
-      <li>Open presentation structur viewer</li>
+      <li>Open presentation structure viewer</li>
 
       <li>Assign effects</li>
 
@@ -176,7 +176,7 @@
 
       <li>Show information about KOffice</li>
 
-      <li>Show information abot KDE</li>
+      <li>Show information about KDE</li>
     </ul>
     <br />
      
@@ -184,7 +184,7 @@
     <p><b>Rich textobject:</b><br />
      To create nice looking texts of course there exists a
     textobject which allows you to write and edit texts with
-    several fonts and colors. It also offers an automatical line
+    several fonts and colors. It also offers an automatic line
     break, different alignments, (hierarchical) lists, different
     linespaces, different distances before and after paragraphs,
     etc.</p>
@@ -196,7 +196,7 @@
 
     <p><b>Resizing and moving:</b><br />
      Of course you can resize every object. In this case pictures
-    are scaled automatically, and text objects do an automatical
+    are scaled automatically, and text objects do an automatic
     linebreak. The other objects just change their size. You can
     also move on or more objects together.</p>
 

@@ -56,7 +56,7 @@ and over again.-->
 </p>
 
 <p>
-Kexi Project, started in 2002, is developed by <a href="http://www.kexi-project.org/people.html">Kexi Team</a> - an international group of independent developers, since february 2003 with assistance and support from the <a href="http://www.openoffice.com.pl">OpenOffice Polska</a> company.
+Kexi Project, started in 2002, is developed by <a href="http://www.kexi-project.org/people.html">Kexi Team</a> - an international group of independent developers, since February 2003 with assistance and support from the <a href="http://www.openoffice.com.pl">OpenOffice Polska</a> company.
 </p>
 
 <p>

@@ -27,7 +27,7 @@
       <p><b>Easy to Use:</b><br /></p>
       <ul>
         <li>default values for all parameters</li>
-        <li>automatical ordinate axis computation based on highest/lowest data value</li>
+        <li>automatic ordinate axis computation based on highest/lowest data value</li>
         <li>default sizes (fonts, line widths...) relative to the window size</li>
       </ul>
 

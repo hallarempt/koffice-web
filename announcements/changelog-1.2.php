@@ -76,9 +76,9 @@
         tar and gzip) for archiving / compressing its native file
         format and to using "relative paths" for objects included in
         the archive (such as images or embedded components).  This provides
-        greatly improved document compatability with other Open Source
+        greatly improved document compatibility with other Open Source
         office suites, while enhancing performance.  For backwards
-        compatability, KOffice 1.2 will support saving in the KOffice
+        compatibility, KOffice 1.2 will support saving in the KOffice
         1.1 format, and KOffice 1.1 users can download a utility to convert
         from the KOffice 1.2 to the KOffice 1.1 format.
       </div>
@@ -875,7 +875,7 @@
       <div align="justify">
         <em>SGML DocBook</em>.
         New export functionality includes: tables; images (saved in a
-        seperate directory); lists (one level only); and hyperlinks.
+        separate directory); lists (one level only); and hyperlinks.
       </div>
     </li>
   </ol>

@@ -40,7 +40,7 @@ and 1.1.1 releases.
     <li>Fixed applying a format change (e.g. new font family) to a selection</li>
     <li>Insert Frame Break at cursor position</li>
     <li>Make the document readonly during a search/replace or a spellcheck</li>
-    <li>Fixed crash when undoing a format change, due to cursor positionned too far right</li>
+    <li>Fixed crash when undoing a format change, due to cursor positioned too far right</li>
 </ul>
 
 <h2><a name="kspread">KSpread</a></h2>

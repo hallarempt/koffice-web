@@ -180,7 +180,7 @@
 
           <li>advanced undo/redo;</li>
 
-          <li>setting background (color, gradients, pictures, cliparts,
+          <li>setting background (color, gradients, pictures, clipart,
           etc.);</li>
 
           <li>assigning effects for animating objects and defining effects for
@@ -204,7 +204,7 @@
         <ul>
           <li>Added "Copy Page" feature.</li>
 
-          <li>Much faster and flicker-free switching to fullscreen mode.</li>
+          <li>Much faster and flicker-free switching to full screen mode.</li>
 
           <li>Sidebar, painting and ellipses drawing fixes.</li>
         </ul>
@@ -247,7 +247,7 @@
         href="http://www.koffice.org/kontour"><em>KIllustrator</em></a>
         (<em>alpha</em>). KIllustrator is the vector drawing program for
         KOffice. The aim of the KIllustrator project is the development of a
-        freely available vector-based drawing application similiar to <a
+        freely available vector-based drawing application similar to <a
         href="http://www3.corel.com/cgi-bin/gx.cgi/AppLogic+FTContentServer?pagename=Corel/Product/Details&amp;id=CC1IOY1YKCC">
         Corel Draw</a> or <a
         href="http://www.adobe.com/products/illustrator/main.html">Adobe
@@ -312,9 +312,9 @@
 
           <li>Clipboard history. Paste previously copied stencils!</li>
 
-          <li>Layer support. Stencils can be layed out on different layers for
+          <li>Layer support. Stencils can be laid out on different layers for
           easier organization. Stencils also default to specific layers. For
-          example, if you are laying out a floorplan, furniture goes on one
+          example, if you are laying out a floor plan, furniture goes on one
           layer, while walls and structural shapes go on another, and wiring on
           yet another.</li>
 

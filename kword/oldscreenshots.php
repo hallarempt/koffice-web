@@ -17,7 +17,7 @@ $gallery->startNewRow();
 $gallery->addImage("pics/kword16_sm.png", "pics/kword16.png", "190", "165", "[Screenshot]", 0 , "KWord 1.1 taking full advantage of KDE 2's innovations such as themes and crisp font rendering (11/01)");
 $gallery->addImage("pics/kword13_sm.png", "pics/kword13.png", "180", "160", "[Screenshot]", 0 , "Many templates are provided to help you get started (11/01)");
 $gallery->startNewRow();
-$gallery->addImage("pics/kword11_sm.png", "pics/kword11.png", "190", "165", "[Screenshot]", 0 , "No new features are shown here though there are new ones like automatica table of contents generation, serial letters, custom variables, and a few more (11/99)");
+$gallery->addImage("pics/kword11_sm.png", "pics/kword11.png", "190", "165", "[Screenshot]", 0 , "No new features are shown here though there are new ones like automatic table of contents generation, serial letters, custom variables, and a few more (11/99)");
 $gallery->addImage("pics/kword12_sm.png", "pics/kword12.png", "180", "160", "[Screenshot]", 0 , "KWord 1.0 running under KDE 2.1(03/01)");
 $gallery->startNewRow();
 $gallery->addImage("pics/kword10_sm.png", "pics/kword10.png", "183", "186", "[Screenshot]", 0 , "Improved frames and simple DTP (08/99)");

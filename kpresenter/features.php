@@ -60,7 +60,7 @@
     <ul>
       <li>New page (with template)</li>
 
-      <li>Pictures and cliparts in following formats: GIF, JPEG, BMP, XPM, XBM,
+      <li>Pictures and clipart in following formats: GIF, JPEG, BMP, XPM, XBM,
       PNM, PNG, EPS and WMF.</li>
 
       <li>Autoforms in different styles (pen, brush)</li>
@@ -144,7 +144,7 @@
     <ul>
       <li>Configure pages</li>
 
-      <li>Open presentation structur viewer</li>
+      <li>Open presentation structure viewer</li>
 
       <li>Assign effects</li>
 
@@ -172,7 +172,7 @@
 
       <li>Show information about KOffice</li>
 
-      <li>Show information abot KDE</li>
+      <li>Show information about KDE</li>
     </ul>
     <br />
 
@@ -180,7 +180,7 @@
     <p><b>Rich textobject:</b><br />
      To create nice looking texts of course there exists a
     textobject which allows you to write and edit texts with
-    several fonts and colors. It also offers an automatical line
+    several fonts and colors. It also offers an automatic line
     break, different alignments, (hierarchical) lists, different
     linespaces, different distances before and after paragraphs,
     etc.</p>
@@ -192,7 +192,7 @@
 
     <p><b>Resizing and moving:</b><br />
      Of course you can resize every object. In this case pictures
-    are scaled automatically, and text objects do an automatical
+    are scaled automatically, and text objects do an automatic
     linebreak. The other objects just change their size. You can
     also move one or more objects together.</p>
 

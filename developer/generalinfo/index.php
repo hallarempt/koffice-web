@@ -27,7 +27,7 @@
    
    <h2>KDE Resources</h2>
    
-   <p>General information about KDE developement (therefore also for KOffice's)
+   <p>General information about KDE development (therefore also for KOffice's)
    are on the <a href="http://developer.kde.org">KDE Developer Site</a>.</p>
 
    <h2>External Resources</h2>

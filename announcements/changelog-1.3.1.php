@@ -67,7 +67,7 @@
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
 <li>Fixed possible crash in presentation mode if not all slides are shown</li>
-<li>Fixed wrong clipping of fullscreen presentation (#73943)</li>
+<li>Fixed wrong clipping of full screen presentation (#73943)</li>
 <li>Fixed show the duration for the correct page if not all slides are shown</li>
 <li>Fixed crash in infinite loop presentation mode when first slide is not shown</li>
 <li>Fixed speed of automatic presentation (it was reversed) (#69260)</li>

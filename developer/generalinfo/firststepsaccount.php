@@ -23,7 +23,7 @@ CVS account for KDE.</p>
 <h2>Preliminary</h2>
 
 <p>This tutorial assumes that you have applied for a KDE CVS account like
-descibed <a href="applycvsaccount.php">here</a> and that you have received
+described <a href="applycvsaccount.php">here</a> and that you have received
 a positive answer with the data of your new account.</p>
 
 <h2>Changing The Root Of Your Local CVS Copy</h2>
@@ -81,7 +81,7 @@ server.</p>
 this file cannot be read by third persons. In case that someone has gained
 access to your password (or if you have a doubt) please email
 <a href="mailto:sysadmin@office.kde.org">KDE's Sysadmins</a>
-to change your password (or at least to get it disabled temporarly.)</p>
+to change your password (or at least to get it disabled temporarily.)</p>
 
 <p>If you are being part of another project using CVS (be it by as
 anonymous or as named account), you do not need to worry. The cvs program can
@@ -133,8 +133,8 @@ drive you crazy when you have to debug a problem.)</p>
 <p>Good code is not always only about questions like if the code compiles. The code
 must also fit in what is planned. For example if a new code fixes just one little bug
 but the maintainer of the code is currently doing a re-write, he will perhaps not be
-pleased that something has been committed, because he will have to fix all conficts
-between the newly commited code and his new code.</p>
+pleased that something has been committed, because he will have to fix all conflicts
+between the newly committed code and his new code.</p>
 
 <p>So the best is to communicate (if possible early) to avoid any surprise. A surprised
 developer is highly at risk of giving a rude answer or at least not a pleasant answer.

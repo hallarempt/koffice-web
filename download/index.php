@@ -6,7 +6,7 @@
 ?>
 
      <h2>Information</h2>
-     <p>KOffice is currently available as version 1.3.1 designed to run with KDE 3.1 or later. KOffice is released seperately from the rest of
+     <p>KOffice is currently available as version 1.3.1 designed to run with KDE 3.1 or later. KOffice is released separately from the rest of
      KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a newer development version, then you will need to
      <a href="source.php">compile from source</a>.</p>
 

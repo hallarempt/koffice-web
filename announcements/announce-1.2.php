@@ -231,7 +231,7 @@
         tar and gzip) for archiving / compressing its native file
         format and to using "relative paths" for objects included in
         the archive (such as images or embedded components).  This provides
-        greatly improved document compatability with other Open Source
+        greatly improved document compatibility with other Open Source
         office suites, while enhancing performance.  KOffice 1.1 document
         format support is retained.
       </div>
@@ -394,7 +394,7 @@
         <em>Functions</em>.
         KSpread has 37 new built-in functions, including Euro conversion
         functions, and now supports "Goal Seek".  KSpread function names
-        are now case-insensitive and provide greater compatability with
+        are now case-insensitive and provide greater compatibility with
         Excel functions.
       </div>
     </li>

@@ -97,7 +97,7 @@
               <li>added a submenu for selecting a type of embedded document to
               insert;</li>
 
-              <li>improved useability of template creation dialog;</li>
+              <li>improved usability of template creation dialog;</li>
 
               <li>improved template names to permit special characters, like
               '(';</li>
@@ -220,7 +220,7 @@
               when pasting text with inline items;</li>
 
               <li>fixed loading of multi-columns documents, and loading of
-              cliparts;</li>
+              clipart;</li>
 
               <li>fixed saving of copied frames; and</li>
 

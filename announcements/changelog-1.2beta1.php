@@ -59,7 +59,7 @@ Auto-hide mouse cursor while typing.
 "Change picture" feature.
 </li>
 <li>
-SVG support (for cliparts).
+SVG support (for clipart).
 </li>
 <li>
 Module for WMF previews in Konqueror.
@@ -189,7 +189,7 @@ Add Configure Picture Dialog
 Many bug fixes :-)
 </li>
 <li>
-Perfomance enhancements
+Performance enhancements
 </li>
 <li>
 Support up to 2<sup>15</sup> (32,768) columns and rows (formerly it
@@ -275,7 +275,7 @@ eps-import/export
 svg export
 </li>
 <li>
-antialiased rendering with transperancy.
+antialiased rendering with transparency.
 </li>
 </ul>
 <h3>KThesaurus</h3>
@@ -321,7 +321,7 @@ SGML export:
   tables
   </li>
   <li>
-  images (saved in a seperate directory)
+  images (saved in a separate directory)
   </li>
   <li>
   lists (one depth only)
@@ -349,7 +349,7 @@ HTML export:
   inlined images
   </li>
   <li>
-  inlined cliparts (preliminary) 
+  inlined clipart (preliminary) 
   </li>
   <li>
   tables

@@ -551,7 +551,7 @@
       to select an Encoding for windows character set conversion and also any
       special import options.
       Pagebreaking should finally work, as well as import of Soft Hyphenation
-      and Multiple Newlines in a pargraph.
+      and Multiple Newlines in a paragraph.
       Documents with Font Table information terminated by a null entry do not 
       cause the filter to abort anymore, so document import works more reliably.
   </li>

@@ -82,7 +82,7 @@ KParts architecture and plugins allow:
 <p>&nbsp;");
 $faq->addQuestion("When will it be released?",
 "Well, Krita may be part of KOffice, it's not nearly usable enough to be released together with KOffice. I'd
-love to be able to say that Krita will be done in time for Koffice 1.4, but that would be promising
+love to be able to say that Krita will be done in time for KOffice 1.4, but that would be promising
 something I cannot promise. If people pitch in and start working on features, we might have a
 promising alpha by that time.");
 $faq->addQuestion("How Do I Get Involved?", "If you are a potential user, a professional or amateur artist or web designer,

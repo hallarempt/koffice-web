@@ -23,8 +23,8 @@
 
 <p>
 Kivio is a flowcharting and diagramming application for the KOffice application
-suite, and has an userinterface that is simliar to Visio&reg;.
-It is fully integrated into KOffice and can for example be embeded into KWord.
+suite, and has an userinterface that is similar to Visio&reg;.
+It is fully integrated into KOffice and can for example be embedded into KWord.
 </p>
 
 <p>

@@ -63,7 +63,7 @@ release, that it is difficult to remember or find trace of everything...
     <li>KWord can now be embedded into another KOffice application.</li>
     <li>More precise coordinate system (especially for frames).</li>
     <li>Many improvements for tables (including splitting and merging cells).</li>
-    <li>Highlight mispelled word during spell-checking, and spell-check all framesets.</li>
+    <li>Highlight misspelled word during spell-checking, and spell-check all framesets.</li>
     <li>UI improvements including a complete redesign of the menus, undo/redo fixes, font-size fix, border-drawing improved, etc.</li>
     <li>Fixed crash when embedding into Konqueror.</li>
     <li>Many new variables available.</li>
@@ -94,7 +94,7 @@ release, that it is difficult to remember or find trace of everything...
 <h2><a name="kpresenter">KPresenter</a></h2>
 <ul>
     <li>"Copy Page" feature.</li>
-    <li>Much faster and flicker-free switching to fullscreen mode.</li>
+    <li>Much faster and flicker-free switching to full screen mode.</li>
     <li>Sidebar fixes.</li>
     <li>Fixed drawing of ellipses (rotation/gradient).</li>
     <li>Painting fixes.</li>

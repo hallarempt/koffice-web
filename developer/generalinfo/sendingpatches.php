@@ -93,7 +93,7 @@ So those files need to be attached separately to the email.)</p>
 
 <h2>How To Share the Patch?</h2>
 
-<p>TODO (In short: patch bigger than a few 10KB sould not be send to the mailing list. If there is a bug registered at KDE Bugs,
+<p>TODO (In short: patch bigger than a few 10KB should not be sent to the mailing list. If there is a bug registered at KDE Bugs,
 they should be attached there. If not, you should make them public on a Web server where you have access. If you have not,
 ask in the mailing list who would be interested by such a patch and send it to people that answer that they want your patch.)</p>
 
@@ -115,7 +115,7 @@ has time, then you can send it to him directly.</p>
 anything else in the email. So you will not forget to attach it.</p>
 
 <p>A little note here: yes, in KOffice (and in KDE too and unlike Linux for example), we prefer to have the patches
-sent as attachements.</p>
+sent as attachments.</p>
 
 <p>Now you are ready to write the rest of the email. Please think of a title that matches your patch. (Think of having to
 find it again in the archives in a few months.) A good habit is to precede the title by <q>[PATCH]</q>.

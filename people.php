@@ -151,7 +151,7 @@
       (KSpread export filter for html) <br />
 
       <b><a href="mailto:GrahShrt@netscape.net">Graham Short</a></b>
-      (KSpread import filter for quattro Pro)<br />
+      (KSpread import filter for Quattro Pro)<br />
 
       <b><a href="mailto:ennobartels@t-online.de">Enno Bartels</a></b>
       (KWord, Kontour, KSpread import filter for applixword, -spreadsheet, -graphics)<br />

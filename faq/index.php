@@ -88,7 +88,7 @@ applications are only planned for future KOffice releases."
 
 // CHECK: "sync" is an abbreviation
 $faq->addQuestion("What is the current state of KOffice?",
-"At the time of this writing, KOffice 1.3 has been released. KOffice is released seperately
+"At the time of this writing, KOffice 1.3 has been released. KOffice is released separately
 from the rest of KDE, so KOffice releases are not in sync with those of KDE."
 );
 
@@ -138,7 +138,7 @@ $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources u
 "You need to checkout the module koffice of KDE's CVS either
 by <a href=\"http://developer.kde.org/source/anoncvs.html\">anonymous CVS</a>
 or by <a href=\"http://developer.kde.org/source/cvsup.html\">CVSup</a>.</p>
-<p>Please keep in mind that the developement versions are not supposed to work stable!"
+<p>Please keep in mind that the development versions are not supposed to work stable!"
 );
 
 
@@ -235,7 +235,7 @@ of the bug. Please avoid meaningless descriptions like: <q>KOffice does not work
 <p>How can the bug be reproduced? Does it always happen? Does something very similar work without any problem?</p>
 <p>Then we need to know about the <em>software</em> of your system. If you have only installed the packages of your
 distribution, then this point is not really important. But if you are using special software, like a non-gcc compiler,
-or some very new developement library, then please tell us in your bug report.</p>
+or some very new development library, then please tell us in your bug report.</p>
 <p>If the bug is a message box that should not happen, then please tell us the <em>exact error message</em>.</p>
 <p>If the bug is triggered by the loading of a <em>file</em>, then please add the file to the bug report or,
 even better, a short example file that triggers the bug.</p>

@@ -38,14 +38,14 @@ Note that transparent images do not print properly with the current Qt, Qt 3.1 w
 <em>Bugfixes:</em>
 <ul>
 <li>Several fixes for the readonly case.</li>
-<li>Unified picture handling (images and cliparts).</li>
+<li>Unified picture handling (images and clipart).</li>
 <li>Improvements to frame dialog when opened for multiple frames, many crashes fixed.</li>
 <li>Fixed frame-creation rectangle remaining visible in margin after right click.</li>
 <li>Many fixes for the background spellchecking.</li>
 <li>Many fixes for "Insert File" (pictures, embedded objects, inline frames,...).</li>
 <li>Ability to use the text view mode for any text frameset.</li>
 <li>Embedded document must be selected before clicking on them starts editing them.</li>
-<li>More KOffice-1.1 compatibility on saving (when explicitely requested).</li>
+<li>More KOffice-1.1 compatibility on saving (when explicitly requested).</li>
 <li>Save correct variable value even when variable codes are displayed.</li>
 <li>When making an inline frame non-inline, ensure it appears on top (bigger z-order).</li>
 <li>'Copy' exports paragraph numbers with the text.</li>
@@ -109,7 +109,7 @@ instead of being as high as the biggest char in the paragraph).</li>
 <li>Speedup in displaying of the pixmap objects.</li>
 <li>Fixed the drawing of the background (no gradient when background is
   an image or a clipart).</li>
-<li>Unified picture handling (images and cliparts).</li>
+<li>Unified picture handling (images and clipart).</li>
 <li>Fix save picture dialog (We can only save in the format of the internal data.)</li>
 </ul>
 

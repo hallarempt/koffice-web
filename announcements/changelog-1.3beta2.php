@@ -77,7 +77,7 @@
 
 <h3><a name="kivio">Kivio</a></h3>
 <ul>
-<li>Fixed embeding of kivio in other KOffice app</li>
+<li>Fixed embedding of kivio in other KOffice app</li>
 <li>Implemented real clipboard support</li>
 <li>Added more stencils</li>
 <li>Improved diastencil support</li>
@@ -94,10 +94,10 @@
 <h3><a name="karbon">Karbon</a></h3>
 <ul>
 <li>new tool controller</li>
-<li>refactoring flattenpath commmand after WMF filter changes</li>
+<li>refactoring flattenpath command after WMF filter changes</li>
 <li>zooming fix</li>
 <li>svg exporting uses document dimension, not dimension of the active selection</li>
-<li>new style docker introduced, with dragable cliparts</li>
+<li>new style docker introduced, with dragable clipart</li>
 <li>added aspect-ratio keeping way of scaling for select tool</li>
 <li>various ui tweaks, including new icons</li>
 <li>improved behaviour for strokefill preview widget</li>

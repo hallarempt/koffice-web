@@ -416,7 +416,7 @@
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">SVG</td>
-      <td width="50%" align="left" valign="top">Scaleable Vector Graphics (W3C)</td>
+      <td width="50%" align="left" valign="top">Scalable Vector Graphics (W3C)</td>
       <td width="10%" align="center" valign="top">***</td>
       <td width="10%" align="center" valign="top">**</td>
     </tr>
@@ -471,7 +471,7 @@
         <strong>**</strong>
       </td>
       <td valign="top"> -- </td>
-      <td valign="top">The filter generally works although it is not finished, and it may suffer from some unstability.</td>
+      <td valign="top">The filter generally works although it is not finished, and it may suffer from some instability.</td>
     </tr>
     <tr>
       <td valign="top">

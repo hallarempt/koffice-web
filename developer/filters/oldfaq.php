@@ -14,14 +14,14 @@ for KOffice 1.3 and totally for KOffice 1.4.</p>
 $faq = new FAQ();
 
 $faq->addQuestion("Do we really need filters", "In my opinion we definitely need filters because an important factor influencing the success of an office suite is the ability to import and export documents. Of course this is not critical stuff like printing or a nice and straightforward use interface, but it's not just a &quot;nice-to-have&quot; feature, either.</p>
-<p>Just imagine a user working in a heterogenous environment using KOffice among other office suites. Sometimes it is necessary to exchange documents as we all know. Now the adventure begins:</p>
+<p>Just imagine a user working in a heterogeneous environment using KOffice among other office suites. Sometimes it is necessary to exchange documents as we all know. Now the adventure begins:</p>
 <ul>
 <li> Which format do I use (i.e. Which format is supported by both office suites)?</li>
 <li>How much information is lost due to internal differences between the office suites (e.g. formatting, tables, pictures, columns,...)?</li>
 <li>What about the character sets (i.e. the encoding of umlauts and so on)?</li>
 <li>Can I use Unicode characters in the other office suite?</li>
 </ul>
-<p>Another problem is that some vendors of proprietary office suites provide inaccurate and/or incomplete documentation of the file formats (or no information at all). This is one of the obstacles we face because it's really time consuming to search for information in a binary file as you can imagine... (At this place I'd like to thank Espen Sand for his brillant KHexEditor <i>(should be on your hard disk already if you installed the <b>kdeutils</b> package).</i>");
+<p>Another problem is that some vendors of proprietary office suites provide inaccurate and/or incomplete documentation of the file formats (or no information at all). This is one of the obstacles we face because it's really time consuming to search for information in a binary file as you can imagine... (At this place I'd like to thank Espen Sand for his brilliant KHexEditor <i>(should be on your hard disk already if you installed the <b>kdeutils</b> package).</i>");
 
 $faq->addQuestion("Which filters are there?", "Please have a look at the <a href=\"status.php\">status page</a> for all available filters. Please note that this page reflects the state of current development. This means that some filters might not be in the latest release.");
 
@@ -111,7 +111,7 @@ $faq->addQuestion("How do I develop a filter?", "
         <li>Believe it or not, but this is nearly all Makefile/build system hackery
             you have to do. <code>cd</code> back to the filters/template directory and
             call <code>make</code>. This should start compilation of that
-            small, no-op template. If this step isn't successfull, please
+            small, no-op template. If this step isn't success, please
             write a mail to
             <a href=\"mailto:koffice@mail.kde.org\">&lt;koffice@mail.kde.org&gt;</a>.</li>
         <li>Please rename all <i>foo</i> names to match the name of your
@@ -233,7 +233,7 @@ $faq->addQuestion("Advanced Techniques",
       KoFilter and just use the KoFilterChain to access different streams than just
       the &quot;root&quot; (=maindoc.xml) stream in the compound storage file. Be careful
       though, as the storage classes don't allow simultaneous access to more than one
-      stream at a time. Therefore you might have to temporarly store images in memory and/or
+      stream at a time. Therefore you might have to temporarily store images in memory and/or
       write them all at once after converting the main document.
       </p>
      <p>
@@ -246,7 +246,7 @@ $faq->addQuestion("Advanced Techniques",
       ask it to save the source file. Then it will convert it and insert it to the right place of your
       storage file. The returned integer should be used to refer to the converted part from within
       your filter's output file. If you obey the rules stated in the API documentation of that class
-      embedding is really straighforward. Unless you're trying to convert a seriously screwed format
+      embedding is really straightforward. Unless you're trying to convert a seriously screwed format
       like OLE files you won't need start/endInternalEmbedding. As this code isn't used a lot in
       current KOffice filters I'd be curious about feedback about the API. Just tell us if it's hard
       to use or buggy, maybe we can clean it up a bit.

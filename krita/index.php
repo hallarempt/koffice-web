@@ -33,7 +33,7 @@
       The application is not ready for use, but the underpinnings provide
       a solid framework to build an application on, and everyone is invited
       to join the development effort. Because of the current unfinished state,
-      Krita is not part of the regular Koffice releases, but the source is
+      Krita is not part of the regular KOffice releases, but the source is
       available from the KDE CVS repository.
       </p>
 
@@ -99,7 +99,7 @@
       <h3>Libraries Krita currently uses</h3>
 
       <p>Krita depends on the following libraries, apart from
-         what Koffice needs itself:</p>
+         what KOffice needs itself:</p>
 
       <ul><li><a href="http://www.imagemagick.org/">Image
               Magick X11 Image Processing and Display Package</a></li>

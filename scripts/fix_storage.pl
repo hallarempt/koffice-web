@@ -107,7 +107,7 @@ sub fixLine {
     }
     return $tmp;
   }
-# Replace pictures by images, as cliparts will never work with only this script.
+# Replace pictures by images, as clipart will never work with only this script.
   elsif($line =~ m%\s*\<PICTURE%) {
       $line =~ s%\<PICTURES%\<PIXMAPS% ;
       $line =~ s%\<PICTURE%\<IMAGE% ;

@@ -134,7 +134,7 @@ and
 <title>Fix available for KWord crashes</title>
 <date>28th January, 2003</date>
 <fullstory>
-A <a href="/bugfixes/1.2.1_kword_crashes.diff">fix</a> is available for two kword crashs when closing the 
+A <a href="/bugfixes/1.2.1_kword_crashes.diff">fix</a> is available for two kword crashes when closing the 
 "Insert Special Character" dialog and when updating the Table Of Contents.
 </fullstory>
 </item>
@@ -153,7 +153,7 @@ href="/announcements/changelog-1.2.1.phtml">full changelog</a>.
 <title>Fix available for KSpread crashes</title>
 <date>21st October, 2002</date>
 <fullstory>
-A <a href="/bugfixes/1.2_kspread_obscured_cells.diff">fix</a> is available for kspread's crashes when 
+A <a href="/bugfixes/1.2_kspread_obscured_cells.diff">fix</a> is available for KSpread's crashes when 
 working with long text which overlaps several cells or when working with merged cells.
 </fullstory>
 </item>
@@ -219,7 +219,7 @@ Meanwhile, work continues on the KOffice 1.2 which will only work on KDE 3.
 </item>
 
 <item>
-<title>Dbase filter</title>
+<title>dBase Filter</title>
 <date>31st March, 2002</date>
 <fullstory>
 <a href="mailto:ariyahidayat@yahoo.de">Ariya Hidayat</a> has added a dBase import filter for KSpread.

@@ -161,7 +161,7 @@
   </ul>
 </li>
 <li>insert special characters</li>
-<li>smaller, more efficent file format</li>
+<li>smaller, more efficient file format</li>
 <li>many performance enhancements</li>
 <li>more powerful conditional cell attributes (you can assign a whole style if condition matches)</li>
 <li>conditions can be used for text and numbers now (was numbers only before)</li>
@@ -254,7 +254,7 @@ variance, pow, isnottext, isnum, effective</p>
 <h3><a name="kivio">Kivio</a></h3>
 <ul>
 <li>GUI cleanup</li>
-<li>Better KOffice intergation</li>
+<li>Better KOffice integration</li>
 <li>Lots of bugfixes</li>
 </ul>
 

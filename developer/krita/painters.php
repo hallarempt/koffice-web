@@ -70,7 +70,7 @@ desired data and feed that to the tile manager.</p>
 per channel; <tt>QUANTUM</tt> can be bigger.</p>
 
 <pre>
-	buf = new QUANTUM[width * heigth * depth * sizeof(QUANTUM)];
+	buf = new QUANTUM[width * height * depth * sizeof(QUANTUM)];
 </pre>
 
 <p>Fill the buf with the data. x1, y1, x2, y2 are the top left and bottom

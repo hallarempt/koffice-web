@@ -46,7 +46,7 @@
 
     <p>The Krita core is a 2d canvas, comparable to <a href="http://doc.trolltech.com/3.2/qpainter.html">QPainter</a>/
     <a href="http://doc.trolltech.com/3.2/qpaintdevice.html">QPaintDevice</a>, but designed for
-        large images. It supports alpha transparancy, multiple color models (RGB, CMYK)
+        large images. It supports alpha transparency, multiple color models (RGB, CMYK)
         and compositing. This part of Krita could potentially be decoupled from the application
         and form the basis of a 2d graphics library like <a href="http://www.imagemagick.org/">ImageMagick</a>
         or <a href="http://www.artofcode.com/libart.html">LibArt</a>. Potentially, because the API
@@ -70,7 +70,7 @@
        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/tiles/kispixeldata.h">pixel data</a>, that
        is the chunk of memory where three, four of five bytes in a row represent the red, green, blue, alpha or cyan, magenta,
        yellow, black and alpha components that form one pixel. Whenever a pixel in a 64x64 pixel tile changes, the
-       tile is saved to make it possible to undo the change. This is encapsualted in the <tt>beginTransaction</tt>
+       tile is saved to make it possible to undo the change. This is encapsulated in the <tt>beginTransaction</tt>
        and <tt>endTransaction</tt> methods of KisPainter.</p>
 
       <p>See <a href="./painters.php">Paint devices and Painters</a> for more information on
@@ -85,7 +85,7 @@
 
     <h3>User interface</h3>
 
-    <p>Krita is a Koffice application and therefore uses the standard Koffice GUI wrapper that
+    <p>Krita is a KOffice application and therefore uses the standard KOffice GUI wrapper that
       creates a multiple document/view shell with toolbars, menubars and all that sort of thing.
       The basis is in
       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_view.h">KisView</a>;
