@@ -18,7 +18,7 @@
 <title>New XML Writing Class</title>
 <pubDate>Sat, 24 Apr 2004 19:37 UT</pubDate>
 <description>KoXmlWriter: a new class for saving XML documents without the high memory
-usage required by QDom and without the slowness of QTextStream (in utf8 mode).
+usage required by QDom and without the slowness of QTextStream (in UTF-8 mode).
 See 
 &lt;a href="http://lists.kde.org/?l=kde-cvs&amp;m=108211792706233&amp;w=2"&gt;the commit&lt;/a&gt;.
 </description>
