@@ -434,14 +434,19 @@
     </tr>
   </table>
   <h3>Krita</h3>
-  <table border="5" cellspacing="0" cellpadding="5">
+        <p><i>Krita uses ImageMagick for importing and exporting images. This
+        means that Krita can work with all images that your installation of
+ImageMagick supports. This includes all common image file formats, including
+the native formats of Photoshop and the Gimp.</i></p>
+
+  <!--table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">From/To</th>
       <th width="50%" align="left" valign="top">Notes</th>
       <th width="10%" align="left" valign="top">Import</th>
       <th width="10%" align="left" valign="top">Export</th>
     </tr>
-  </table>
+  </table-->
   <hr />
   <h2>Key</h2>
   <table>
