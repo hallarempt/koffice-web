@@ -631,7 +631,7 @@ In the world of components this is different. Applications are not isolated
 
 $faq->addQuestion("Where can I get more developer information?",
 "KOffice Developer Pages are <a href=\"http://www.koffice.org/developer/\">here</a>.
-The genral KDE Developer Pages are <a href=\"http://developer.kde.org\">here</a>.");
+The general KDE Developer Pages are <a href=\"http://developer.kde.org\">here</a>.");
 
 $faq->show();
 ?>
