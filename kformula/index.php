@@ -6,7 +6,7 @@
 ?>
 
 <?php
-  $appinfo = new AppInfo("KFormulat");
+  $appinfo = new AppInfo("KFormula");
   $appinfo->setIcon( "pics/hi48-app-kformula.png", "48", "48");
   $appinfo->setVersion($formulaversion);
   $appinfo->setLicense("gpl");
@@ -35,7 +35,7 @@
       
       <p>
       KFormula uses the KOffice formula drawing library. If you have to deal with many
-      formulae you may wish to use a KFormula object embedded in <a href="/kword/">KWord</a> or
+      formulas you may wish to use a KFormula object embedded in <a href="/kword/">KWord</a> or
       <a href="/kspread/">KSpread</a>.
       </p>
 
