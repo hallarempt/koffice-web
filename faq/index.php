@@ -74,7 +74,8 @@ $faq->addQuestion("Which KOffice application do exist?",
 <ul>
 <li>Krita - an image manipulation program</li>
 <li>Kexi - a database management tool</li>
-</ul>"
+</ul>
+<p>&nbsp;" # dummy paragraph
 );
 
 // CHECK: entry sounds badly (especially PIM)
@@ -377,7 +378,7 @@ $faq->addQuestion("In printout, KOffice replaces some of my fonts with different
  of the script might occasionally require a little hand tweaking, but at
  least the script does most of the work. Note that the aliases must
  precede the fonts. </p>
-<para>Donovan has also provided <a href=\"http://koffice.org/tools/Fontmap.ms\">fontmap entries</a> for the widely used Microsoft Web Fonts.
+<p>Donovan has also provided <a href=\"http://koffice.org/tools/Fontmap.ms\">fontmap entries</a> for the widely used Microsoft Web Fonts.
  Just append them to your font map and fix the paths.</p>
 <p>For more information, please see the <a href=\"http://pegasus.rutgers.edu/~elflord/font_howto/\">Font HOWTO</a>."
 );
@@ -580,10 +581,10 @@ $faq->addQuestion("What is Krita?",
 $faq->addSection("Contributing to KOffice");
 
 $faq->addQuestion("I like this project! How can I contribute?",
-"Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
+"Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list</a>
 and tell where you would want to help!</p>
 <p>Please look also at
-<a href=\"http://www.koffice.org/getinvolved/\">\"Get Involved?\"<a>!"
+<a href=\"http://www.koffice.org/getinvolved/\">\"Get Involved?\"</a>!"
 );
 
 
