@@ -72,6 +72,7 @@
 <li>Fix #69798 (kspread sexdec parse error)</li>
 <li>Fix enable/disable action into validation dialogbox</li>
 <li>Fix disable/enable "show table" menu item</li>
+<li>Fix crash when viewing a KSpread document in Konqueror <!-- TODO: bug number --></li>
 </ul>
 
 <h3><a name="kchart">KChart</a></h3>
