@@ -43,7 +43,7 @@
     (<a href="http://bugs.kde.org/show_bug.cgi?id=80376">#80376</a>)
   </li>
   <li>
-    Do not use a different size for bullets/numbers in front of parags starting with bold or italic.
+    Do not use a different size for bullets/numbers in front of paragraphs starting with bold or italic.
   </li>
   <li>
     Fixed copy/pasting of lines containing tabs (not all lines would be pasted)
