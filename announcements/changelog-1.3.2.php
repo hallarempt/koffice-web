@@ -20,6 +20,7 @@
 <ul>
 <li>Give the backup file the same permissions as the original file (#54459)</li>
 <li>Save window settings also when using File/Close</li>
+<li>Fix #83972 (koffice compiles fine under qt3.1/kde3.1) </li>
 </ul>
 
 <h4>KOfficeUI:</h4>
