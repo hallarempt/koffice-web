@@ -1,6 +1,6 @@
 <?php 
-  $page_title="KOffice Filters Status (KOffice 1.3 branch)";
   $site_root="../../";
+  include("./kofficeversion.inc"); // Defines also $page_title
   include("koffice.inc");
   include("header.inc");
 ?><div>
@@ -10,7 +10,7 @@
  (i.e.: they are able to use filters for file conversion.) The filters are not perfect
  and some not even done. The status of the current filters is listed below, sorted per
  application.</p>
-  <p>Note: this document is about <b>the KOffice 1.3 branch</b>.</p>
+  <p>Note: this document is about <b><?php print $kofficeversiondescription;?></b>.</p>
   <hr />
   <h3>Generic (for all KOffice applications)</h3>
   <table border="5" cellspacing="0" cellpadding="5">
