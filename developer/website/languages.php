@@ -38,6 +38,8 @@ does not make any difference.)</p>
 
 <p>FAQs are handled by a PHP object. So there are a little special.</p>
 
+<p>See also the <a href="http://www.kde.org/media/readme.php">KDE Web Site Tutorial</a></p>
+
 <?php
    include("footer.inc");
 ?>
