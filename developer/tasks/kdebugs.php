@@ -50,6 +50,10 @@ easily recognize bugs easier to fix or wishes esiaer to implement than the avera
 </ul>
 
 <p>
+<a href="http://bugs.kde.org/buglist.cgi?short_desc_type=allwordssubstr&amp;short_desc=JJ%3A&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;product=koffice&amp;product=kword&amp;product=kspread&amp;product=kpresenter&amp;product=kivio&amp;product=karbon14&amp;product=krita&amp;product=kugar&amp;product=kchart&amp;product=kformula&amp;product=kexi">
+Click here to query for all the Junior Jobs in KOffice.</a></p>
+
+<p>
 <a href="http://bugs.kde.org/buglist.cgi?short_desc_type=allwordssubstr&amp;short_desc=JJ%3A&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
 Click here to query for all the Junior Jobs in KDE.</a></p>
 
