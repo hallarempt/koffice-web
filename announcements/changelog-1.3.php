@@ -91,13 +91,13 @@
 
 <h3><a name="karbon">Karbon</a></h3>
 <ul>
-- make imported SVG's visible by default
-- Karbon freezes when opening karbon file (#68499)
-- fixed loading recent files
-- update statusbar info while moving the selection using arrow keys
-- delete key deletes selected object (#68062)
-- fixed zooming into rectangular areas (#60842)
-- fixed crash with polyline tool drawing + Ctrl key (#63981)
+<li>make imported SVG's visible by default
+<li>Karbon freezes when opening karbon file (#68499)
+<li>fixed loading recent files
+<li>update statusbar info while moving the selection using arrow keys
+<li>delete key deletes selected object (#68062)
+<li>fixed zooming into rectangular areas (#60842)
+<li>fixed crash with polyline tool drawing + Ctrl key (#63981)
 </ul>
 
 <h3><a name="filters">Filters</a></h3>
