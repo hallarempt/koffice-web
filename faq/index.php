@@ -577,7 +577,7 @@ $faq->addQuestion("I like this project! How can I contribute?",
 "<p>Welcome! Please send an email to the <a href=\"mailto:koffice@kde.org\">koffice mailing list<a>
 and tell where you would want to help!</p>
 <p>Please look also at
-<a href=\""http://www.koffice.org/getinvolved/\">\"Get Involved?\"<a>!</p>"
+<a href=\"http://www.koffice.org/getinvolved/\">\"Get Involved?\"<a>!</p>"
 );
 
 
