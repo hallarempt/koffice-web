@@ -19,7 +19,7 @@
    <pre>fs=$(dcopobject "`dcop $appid Document-0 textFrameSet 0`")</pre>
 
    Start editing it<br/>
-   <pre>edit=$(dcopobject "`dcop $appid $fs startEditing`")</pre>
+   <pre>edit=$(dcopobject "`dcop $appid "$fs" startEditing`")</pre>
 
    Now you can insert text<br/>
    <pre>dcop $appid $edit insertText 'Hello world!'</pre>
