@@ -176,9 +176,8 @@ you will certainly be able to have an account.</p>
 technical sort.</p>
 
 <p>Yes: you have an account. Welcome! Now you need to adapt your local copy to the new
-server.</p>
-
-(To be continued.)
+server. See the <a href="firststepsaxxount.php">next tutorial</a> for your
+first steps with your new account.</p>
 
 <?php
    include("footer.inc");
