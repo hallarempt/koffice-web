@@ -78,7 +78,7 @@
       <h3>Status</h3>
 
       <p>Krita has been under development since 1999, but that doesn't mean it's
-        anywhere near usable yet. Currently (that is, September 2004) working are:</p>
+        anywhere near usable yet. Currently (that is, August 2004) working are:</p>
 
         <ul>
             <li>Painting with brushes and colors</li>
