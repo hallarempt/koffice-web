@@ -1,0 +1,2 @@
+ErrorDocument 404 /404.php
+php_value include_path .:/home/groups/k/ko/koffice/htdocs/media
