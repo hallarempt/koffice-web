@@ -113,8 +113,12 @@
 <ul>
 </ul>
 
-<h4>KSpread's HTML export filter:</h4>
+<h4>KFormula's MathML import filter:</h4>
 <ul>
+  <li>
+    Make the import filter work again
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=70209">#70209</a>)
+  </li>
 </ul>
 
 <h3>Previous changelogs</h3>
