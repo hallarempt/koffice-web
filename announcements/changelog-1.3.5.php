@@ -59,6 +59,10 @@
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
+  <li>
+    Fix un-merging of cells
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=87700">#87700</a>)
+  </li>
 </ul>
 
 <h3><a name="kchart">KChart</a></h3>
