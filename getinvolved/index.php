@@ -24,7 +24,10 @@
       needed!)</a>, plugins and datatools, more functions for
       KSpread, ...</li>
 
-      <li>fix small bugs if you find them and send a patch.</li>
+      <li>fix small bugs if you find them and send a patch.
+      See also the <a href="/developer/tasks">Task List</a>.</li>
+      
+      <li>help maintaining koffice.org. See the <a href="/developer/website/tasks.php">Web Task List</a>.
 
       <li>test KOffice extensively and send descriptive bug reports
       via the "Help, Report Bug" mechanism in the programs.</li>
