@@ -18,8 +18,6 @@
 
 <p><em>Disclaimer:</em> We offer <em>no liability</em> for the contents of this FAQ document.</p>
 
-<p>Currently this FAQ is worked on. So for now, this is a short version of the FAQ. More entries in the next days. Sorry!</p>
-
 <?php
 $faq = new FAQ();
 
@@ -51,7 +49,7 @@ $faq->addQuestion("Which mailing lists are used for KOffice?",
 <p>The koffice mailing list is mainly for the users of KOffice, the koffice-devel is mainly for the developers.
 Please note that the write access of the koffice-devel mailing list is restricted.</p>
 <p>As KOffice is part of KDE is uses some of KDE's mailing lists, for example for the translaltors.</p>
-<p>Information on the mailing lists can be obtained <a href=\"http://www.koffice.org/mailinglists\">here</a>.
+<p>Information on the mailing lists can be obtained <a href=\"http://www.kde.org/mailinglists\">here</a>.
 The archives of mailing lists is <a href=\"http://lists.kde.org\">here.</a></p>"
 );
 
@@ -138,7 +136,7 @@ $faq->addQuestion("How do I report bugs?",
 "<p>Like for any KDE application, please report bugs to <a href=\"http://bugs.kde.org\">KDE Bugs.</a></p>
 <p>Please avoid bug reports with meaningless contents like: \"It does not work!\", \"KOffice is bad\",
 \"XYZ is much better than your KOffice\".</p>
-<p>A good bug report should first have a <em>title.</em> Try to give in a few keywords an overview of the problem.
+<p>A good bug report should first have a <em>title.</em> Try to give in a few keywords an overview of the problem!
 That makes it easier for the developers to find your bug again.</p>
 <p>Then please we need a <em>good description</em>
 of the bug. How can the bug be reproduced? Does it always happen? Does something very similar work without any problem?</p>
@@ -148,7 +146,7 @@ or some very new developement library, then please tell us in your bug report.</
 <p>If the bug is a message box that should not happen, then please tell us the <em>exact error message</em>.</p>
 <p>If the bug is triggered by the loading of a <em>file</em>, then please add the file to the bug report or
 even better a short example file that triggers the bug. (Please be careful that sending a file to KDE Bugs makes it
-public, so be careful not to send us files not meant for the public.</p>
+public, so be careful not to send us files not meant for the public!)</p>
 <p>Of course, if you are able to make a <em>patch</em> to fix the bug, it would be the optimum.</p>"
 );
 
@@ -160,7 +158,7 @@ you want. One wish per report helps the developers to manage easilier the bugs a
 );
 
 $faq->addQuestion("Can I use KOffice on Windows?",
-"<p>There is on-going work of <a url=\"http://kde-cygwin.sourceforge.net\">KDE Cygwin project</a> to port
+"<p>There is on-going work of <a href=\"http://kde-cygwin.sourceforge.net\">KDE Cygwin project</a> to port
 KDE to MS Windows. It is also planned to port KOffice. Just keep in mind that this port is not done
 by the KOffice developers themselves, so please report bugs to the project.</p>"
 );
@@ -168,15 +166,15 @@ by the KOffice developers themselves, so please report bugs to the project.</p>"
 
 $faq->addSection("How to get and install KOffice?");
 
-// CHECK
 $faq->addQuestion("How do I get and compile the KOffice sources?",
-"<p>Please have a look at <a url=\"http://koffice.kde.org/install-source.phtml\">
+"<p>Please have a look at <a url=\"http://www.koffice.org/download/source.php\">
 http://koffice.kde.org/install-source.phtml</a></p>"
 );
 
-// CHECK: URLs for anoncvs and cvs up
 $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources up to date?",
-"<p>You need to checkout the module koffice of KDE's CVS either by anonymous CVS or by CVS UP.</p>
+"<p>You need to checkout the module koffice of KDE's CVS either
+by <a href=\"http://developer.kde.org/source/anoncvs.html\">anonymous CVS</a>
+or by <a href=\"http://developer.kde.org/source/cvsup.html\">CVSup</a>.</p>
 <p>Please keep in mind that the versions in the development branch are not supposed to work stable!</p>"
 );
 
@@ -202,14 +200,10 @@ See
 */
 
 $faq->addQuestion("What binary distributions are there and where do I find them?",
-"<p>You can find up-to-date information on available binaries <a url=\"http://www.koffice.org/install-binaries.phtml\">here</a>.</p>
+"<p>You can find up-to-date information on available binaries and how to install them
+<a href=\"http://www.koffice.org/download\">here</a>.</p>
 <p>Please notice that KOffice only makes the source, binary distributions are made by third persons, even if they
 are distributed by KDE or by KOffice.</p>"
-);
-
-$faq->addQuestion("How do I install binary RPMs?",
-"<p>Type the following as root: <code>rpm -U koffice.rpm</code>. Please replace koffice.rpm
- with the full path to and the name of your binary rpm.</p>"
 );
 
 $faq->addQuestion("Is KOffice available on CD?",
@@ -361,7 +355,7 @@ $faq->addQuestion("In printout, KOffice replaces some of my fonts with different
  names, it (respectively Qt) tries to guess them and sometimes fails on this task. This problem
  can be avoided by mapping the font names used by Qt to the correct X11 font names.
  See the following example how this can be done:</p>
-<p>mapping of font names in the ghostscript fontmap:
+<p>mapping of font names in the ghostscript fontmap:<br /><br />
 <code>
 /ArialBlack-Roman	/Arial_Black	;<br />
 /Arnoldboecklin-Roman	/ArnoldBoecklin-ExtraBold	;<br />
