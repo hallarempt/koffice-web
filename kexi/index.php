@@ -87,7 +87,7 @@ Database Backends:
 </ul>
 <P>
 <b>Note: It is highly recommended to use MySQL for beta testing since
- the CQL++ driver is implemented only partly.</b>
+ other drivers are implemented only partly.</b>
 
 <br><br>
 <p>
