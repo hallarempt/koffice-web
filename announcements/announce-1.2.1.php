@@ -262,7 +262,7 @@
   <a href="http://www.gnupg.org/">GnuPG</a> using the David Faure
   PGP Key
   (available from the
-  <a href="http://www.koffice.org/signature.php">KDE Signature page</a>
+  <a href="http://www.koffice.org/download/signature.php">KDE Signature page</a>
   or public key servers), and their respective MD5 sums are listed on the
   <a href="http://www.koffice.org/releases/1.2.1-release.php">KOffice
   1.2.1 Info Page</a>.
