@@ -18,12 +18,14 @@
 <li>Page Layout Dialog: validate user input to prevent nonsense
 (e.g. margins wider than page)</li>
 <li>Support for EPS images: works again for gs interpreters without the png16m device</li>
-<li>Fixed saving of the window size when closing</li>
 <li>Cache the configuration object around kofficerc,
   to improve startup performance</li>
+</ul>
+<em>Fixes:</em>
+<ul>
 <li>Restart autosave timer when saving</li>
+<li>Fixed saving of the window size when closing</li>
 <li>Fixes for remote documents (authentication dialog not on top, error handling)</li>
-<li>Restore ability to detect documents without extension (was broken by KDE-3.2-alpha's KZip)</li>
 <li>Many stability fixes in spell checking</li>
 <li>Fixed doc/window association which led to closing all windows when closing only one</li>
 <li>Fixed bug where the dialog wouldn't show the spell client from the config file</li>
@@ -36,17 +38,8 @@ DTP frames of different widths)</li>
 <li>Improve hierarchical numbering  - doesn't require using a suffix of '.' anymore,
   and doesn't copy over the prefix and suffix from parent levels anymore (#40911)</li>
 <li>PgUp/PgDown works better than before when "move the caret" is enabled (#45246)</li>
-<li>Fixed painting of non-breakable-spaces (could show up as a visible square)</li>
 <li>Implemented painting of non-breakable-spaces when "draw formatting characters" is on</li>
-<li>Fixed crash (e.g. happening with 'section title' variable, #61735)</li>
-<li>Fixed pasting of plain text (so that it creates new pages if necessary, #58651)</li>
-<li>Fixed insert dialog for date and time variables</li>
 <li>Added more default formats for date variables</li>
-<li>Fixed missed hit during search-replace backwards with a single paragraph</li>
-<li>Fixed rare crash when applying a format to a selection</li>
-<li>Fixed painting bug in text view mode (the right side was being erased)</li>
-<li>Fixed saving of left-to-right direction in RTL paragraphs</li>
-<li>Created/modified/printed document date (bug #24242)</li>
 <li>Added time/date variable offset (new)</li>
 <li>Added new variables: Next page number, Previous page number (new)</li>
 </ul>
@@ -63,6 +56,18 @@ DTP frames of different widths)</li>
 <li>Shadow is now a character property (instead of a paragraph property)</li>
 <li>More precise painting of paragraph borders</li>
 </ul>
+<em>Fixes:</em>
+<ul>
+<li>Fixed painting of non-breakable-spaces (could show up as a visible square)</li>
+<li>Fixed crash (e.g. happening with 'section title' variable, #61735)</li>
+<li>Fixed pasting of plain text (so that it creates new pages if necessary, #58651)</li>
+<li>Fixed insert dialog for date and time variables</li>
+<li>Fixed missed hit during search-replace backwards with a single paragraph</li>
+<li>Fixed rare crash when applying a format to a selection</li>
+<li>Fixed painting bug in text view mode (the right side was being erased)</li>
+<li>Fixed saving of left-to-right direction in RTL paragraphs</li>
+<li>Created/modified/printed document date (bug #24242)</li>
+</ul>
 
 <h3><a name="kword">KWord</a></h3>
 <ul>
@@ -77,26 +82,29 @@ DTP frames of different widths)</li>
 <li>PDF import filter</li>
 <li>Right-click on a selected frame shouldn't unselect it</li>
 <li>Esc to deselect all frames</li>
-<li>Fixed Paragraph numbering: simple lists are not restarted by simple text in between</li>
-<li>Fixed line-height bug due to hyphenation</li>
-<li>Fixed handling of part frames (clicking didn't select it anymore, #63041)</li>
-<li>Fixed cursor shape when pressing Ctrl</li>
-<li>Unbreak text view mode (cursor disappeared, #57554)</li>
-<li>Fix for frames extending beyond the page getting the wrong size in 'preview mode'</li>
-<li>Fixed wrong layouting of inline frames (e.g. pictures)</li>
 <li>Don't select inline frame after pasting text containing it (only select non-inline frames)</li>
 <li>Improved "create style from selection": use format at cursor if no selection,
   allow to type the name of an existing style to update it, and select the style
   for the current paragraph after creating it</li>
+<li>Frames default to "auto-resize" mode instead of "auto-create-new-page"</li>
+<li>Better handing of "auto-resize" mode (manually-set size acts as minimum size)</li>
+<li>Make the find dialog avoid the area where the match is
+    (requires kde-3.2)</li>
+</ul>
+<em>Fixes:</em>
+<ul>
+<li>Fixed Paragraph numbering: simple lists are not restarted by simple text in between</li>
+<li>Fixed line-height bug due to hyphenation</li>
+<li>Fixed handling of part frames (clicking didn't select it anymore, #63041)</li>
+<li>Fixed cursor shape when pressing Ctrl</li>
+<li>Fixed cursor in text view mode (#57554)</li>
+<li>Added fix for frames extending beyond the page getting the wrong size in 'preview mode'</li>
+<li>Fixed wrong layouting of inline frames (e.g. pictures)</li>
 <li>Fixed crash in table operations (#66349)</li>
 <li>Fixed crash in table iterator</li>
 <li>Fixed "edit frameset" for tables in doc structure panel (#67084)</li>
 <li>Save "no underline" explicitly if the paragraph layout says "underline" but the user removed the underline (#67735)</li>
 <li>Fixed successive image DnD</li>
-<li>Frames default to "auto-resize" mode instead of "auto-create-new-page"</li>
-<li>Better handing of "auto-resize" mode (manually-set size acts as minimum size)</li>
-<li>Make the find dialog avoid the area where the match is
-    (requires kde-3.2)</li>
 </ul>
 
 <h3><a name="kpresenter">KPresenter</a></h3>
@@ -124,44 +132,41 @@ DTP frames of different widths)</li>
 <em>Misc:</em>
 <ul>
 <li>Web presentation: better HTML generation, usability improvement of the wizard (new)</li>
-<li>Copy/paste image/embedded objects between different instances (bugfix)</li>
 <li>Comment text can be copied now (bugfix)</li>
 <li>Undo/redo shows history of commands (new)</li>
 <li>Objects use "forbidden" cursor when they're protected (new)</li>
 <li>Display an "End of presentation"-slide at end of presentation; configurable
     (new)</li>
 <li>Transition effect dialog with preview (new)</li>
-<li>Flip groups horizontally/vertically (#45561)</li>
-<li>Fixed loading of old documents with invalid paragraph indents</li>
-<li>Paste image gives tiny initial object (#59058)</li>
-<li>Setting the font size in the toolbar doesn't work (#39786)</li>
-<li>Objects disappears on the rightside of a dinA0 presentation (#37370)</li>
-<li>Large unwanted offset in print preview and printing (#56123)</li>
-<li>Fixed KPR 'forgetting' solid line attribute of text frames (#61343)</li>
-<li>Fix pasting text objects screwing UTF-8 text</li>
-<li>Snap to Grid function aligns relatively, not absolutely (#56181)</li>
-<li>When cutting&pasting a vertically centred text frame,
-  the vertical position changes (#61330)</li>
 <li>Grid, snap to grid are on now by default, with a finer step of 5mm
   (#60011 and #60013)</li>
+</ul>
+<em>Fixes:</em>
+<ul>
+<li>Fixed copy/paste of images/embedded objects between different instances</li>
+<li>Fixed flipping groups horizontally/vertically (#45561)</li>
+<li>Fixed loading of old documents with invalid paragraph indents</li>
+<li>Fixed initial size of pasted images (#59058)</li>
+<li>Fixed adjusting of font size in the toolbar (#39786)</li>
+<li>Fixed problem with disappearing objects on dinA0 presentations (#37370)</li>
+<li>Fixed large offset in print preview and printing (#56123)</li>
+<li>Fixed KPR 'forgetting' solid line attribute of text frames (#61343)</li>
+<li>Fixed pasting text objects with UTF-8 text</li>
+<li>Snap to Grid function aligns relatively, not absolutely (#56181)</li>
+<li>Fixed problem with cutting&pasting a vertically centred text frame (#61330)</li>
 <li>Fixed cursor not blinking in some cases</li>
 <li>Fixed "blinking cursor erases formatting characters" bug</li>
 <li>"Adjust object to contents" works as intended now</li>
-<li>Purpose of the 'Notebar' is unknown (#63037)</li>
-<li>KPresenter crashed when I tried to insert the variable
+<li>Clearified purpose of the 'Notebar' (#63037)</li>
+<li>Fixed crashed when inserting the variable
   "section title" (#61735)</li>
-<li>Large footer from KPresenter 1.2.1 will crash KPresenter
-  (#61449)</li>
-<li>Embedded spreadsheet (table button) appears at wrong size
-  (#58498)</li>
-<li>Embedded KSpread object displayed with wrong size (#33233)</li>
-<li>KPresenter hangs when inserted text wraps to newline
-  (#56946)</li>
-<li>Layer lowering is incorrect (#53277)</li>
-<li>Resize handles deceptive when zoomed out (#61602)</li>
+<li>Fixed embedded KSpread object getting  wrong size (#33233)</li>
+<li>Fixed hang when inserted text wraps to newline (#56946)</li>
+<li>Fixed layer lowering (#53277)</li>
+<li>Fixed problem with zoomed out resize handles (#61602)</li>
 <li>Fixed painting garbage at a side of the screen in the presentation mode (on
   weird DPIs)</li>
-<li>Resizing a frame it does not snap to the grid (#63032)</li>
+<li>Fixed snap to grid when resizing a frame (#63032)</li>
 <li>Fixed when after resize/undo size of object is not the same</li>
 <li>Fixed when after move/undo position of object is not the same</li>
 <li>Fixed resizing of poly line objects</li>
@@ -234,34 +239,7 @@ DTP frames of different widths)</li>
 <li>Conditions can be used for text and numbers now (was numbers only before)</li>
 <li>Adjust print zoom to limit printout to m x n pages</li>
 <li>New templates: Balance Sheet, Price Quotation, Packing Slip</li>
-<li>Fixed KSpread redrawing problem during and after 'Print Preview' (#60147)</li>
-<li>Fixed KSpread crash when changing paper orientation (#60279)</li>
-<li>KSpread is slow during text to column conversion (#59999)</li>
-<li>Fix problem cycling absolute cell reference with F4 key (#46959)</li>
-<li>The calculator plugin saves its configuration now (#49954)</li>
-<li>KSpread problem with calculating dates (#64794)</li>
-<li>Cell border does not work with merged cells (#61570)</li>
-<li>Fix display of text starting with a single quote</li>
-<li>Fix problem formatting the whole row (#65504)</li>
-<li>Make the top/middle/bottom alignment buttons work</li>
-<li>Fix problem with reference from another sheet (bug #60455)</li>
-<li>Show indicator of chosen/selected cells (bug #58098)</li>
-<li>Hide in-place cell editing when choosing other sheet</li>
-<li>Proper zoom and display of formatted hyperlink (#66214)</li>
-<li>Fix flickering problem with many hyperlinks (#65501)</li>
-<li>Don't crash when leaving the preview in Konq (#65928)</li>
-<li>Fix redraw problem with Print Preview (#60147)</li>
-<li>Support only one zoom for two or more views</li>
-<li>Fix painting problem with multiple views</li>
-<li>Prevent possible crash with conditional formatting (#58713)</li>
-<li>Fix dependency problem with automatic recalculation (#58097)</li>
-<li>Better adjustment of cell references on cut &amp; paste</li>
-<li>Fix crash on csv import (#66047)</li>
-<li>Fix problem for cells copy/cut to clipboard (#58712)</li>
-<li>Show frame when embedded object is selected (#37152)</li>
-<li>Better handling of "nothing to print" warning (#60147)</li>
-<li>When embedded, use real zoom instead of scaling (#45503)</li>
-<li>Fix data sorting (#63317)</li>
+<li>Improved speed of text to column conversion (#59999)</li>
 </ul>
 <em>New functions:</em><br>
 <i>GETPIVOTDATA, BESSELI, BESSELJ, BESSELK, BESSELY,
@@ -323,6 +301,36 @@ ISNONTEXT, ISNUMBER
 
 <p><em>Obsolete (does no longer show up in dialog) but still usable formulas:</em>
 variance, pow, isnottext, isnum, effective</p>
+<em>Fixes:</em>
+<ul>
+<li>Fixed KSpread redrawing problem during and after 'Print Preview' (#60147)</li>
+<li>Fixed KSpread crash when changing paper orientation (#60279)</li>
+<li>Fix problem cycling absolute cell reference with F4 key (#46959)</li>
+<li>The calculator plugin saves its configuration now (#49954)</li>
+<li>Fixed problem with calculating dates (#64794)</li>
+<li>Fixed cell border of merged cells (#61570)</li>
+<li>Fixed display of text starting with a single quote</li>
+<li>Fixed  problem formatting the whole row (#65504)</li>
+<li>Made the top/middle/bottom alignment buttons work</li>
+<li>Fixed problem with reference from another sheet (bug #60455)</li>
+<li>Show indicator of chosen/selected cells (bug #58098)</li>
+<li>Hide in-place cell editing when choosing other sheet</li>
+<li>Proper zoom and display of formatted hyperlink (#66214)</li>
+<li>Fixed flickering problem with many hyperlinks (#65501)</li>
+<li>Don't crash when leaving the preview in Konq (#65928)</li>
+<li>Fixed redraw problem with Print Preview (#60147)</li>
+<li>Support only one zoom for two or more views</li>
+<li>Fixed painting problem with multiple views</li>
+<li>Prevent possible crash with conditional formatting (#58713)</li>
+<li>Fixed dependency problem with automatic recalculation (#58097)</li>
+<li>Better adjustment of cell references on cut &amp; paste</li>
+<li>Fix crash on csv import (#66047)</li>
+<li>Fix problem for cells copy/cut to clipboard (#58712)</li>
+<li>Show frame when embedded object is selected (#37152)</li>
+<li>Better handling of "nothing to print" warning (#60147)</li>
+<li>When embedded, use real zoom instead of scaling (#45503)</li>
+<li>Fixed data sorting (#63317)</li>
+</ul>
 
 <h3><a name="kugar">Kugar</a></h3>
 <ul>
@@ -353,33 +361,21 @@ variance, pow, isnottext, isnum, effective</p>
 <ul>
 <li>GUI cleanup</li>
 <li>Better KOffice intergation</li>
-<li>Fixed embeding of kivio in other KOffice app</li>
 <li>Implemented real clipboard support</li>
 <li>Added more stencils</li>
 <li>Improved diastencil support</li>
 <li>Added template support</li>
+<li>The connector tool now snaps to targets before the grid/help lines</li>
+<li>The select tool now snaps to targets before the grid when resizing connectors</li>
+</ul>
+<em>Fixes:</em>
+<ul>
+<li>Fixed embeding of kivio in other KOffice app</li>
 <li>Fixed layout problem at start up when using a template</li>
 <li>Fixed deletion of connected connectors</li>
 <li>Fixed copying text in other codecs then latin1</li>
 <li>Fixed the size of the stencilbar when loading stencils at start up</li>
-<li>Made the connector tool snap to targets before the grid/help lines</li>
-<li>Made the select tool snap to targets before the grid when resizing connectors</li>
 <li>Lots of other bugfixes</li>
-</ul>
-
-<h3><a name="kexi">Kexi</a></h3>
-<ul>
-  <li>Hiding of database backend specifics from the user,
-      but allowing advanced users full access at the same time</li>
-  <li>Table structure altering</li>
-  <li>Table creation</li>
-  <li>Easy database query creation, without the need of knowing SQL (Structured Query Language)</li>
-  <li>User-friendly data manipulation (even on complicated queries)</li>
-  <li>Easy data report generation using Kugar</li>
-  <li>User-defined forms for data input and presentation</li>
-  <li>Scripting support with a JavaScript/ECMA-Script like language (QSA)</li>
-  <li>MySql backend</li>
-  <li>CQL++ backend and embedding</li>
 </ul>
 
 <h3><a name="kformula">KFormula</a></h3>
@@ -414,10 +410,13 @@ variance, pow, isnottext, isnum, effective</p>
 <li>Improved behaviour for strokefill preview widget</li>
 <li>Speedups on large documents for the document tree widget</li>
 <li>Make imported SVG's visible by default</li>
-<li>Karbon freezes when opening karbon file (#68499)</li>
-<li>Fixed loading recent files</li>
 <li>Update statusbar info while moving the selection using arrow keys</li>
-<li>Delete key deletes selected object (#68062)</li>
+<li>Delete key now deletes selected object (#68062)</li>
+</ul>
+<em>Fixes:</em>
+<ul>
+<li>Fixed freeze when opening certain karbon files (#68499)</li>
+<li>Fixed loading recent files</li>
 <li>Fixed zooming into rectangular areas (#60842)</li>
 <li>Fixed crash with polyline tool drawing + Ctrl key (#63981)</li>
 </ul>
