@@ -20,6 +20,12 @@
     <li><a href="http://lists.kde.org/?l=koffice-devel&m=107835129123866&w=2">KWord vs Framemaker review</a></li>
 </ul>
 
+<h2>WebSites</h2>
+
+<ul>
+    <li><a href="http://users.pandora.be/taiji/KSpread/">Marc Heyvaert's &quot;Using KOffice&quot;</a> (mainly about KSpread)</li>
+</ul>
+
 <?php
    include("footer.inc");
 ?>
