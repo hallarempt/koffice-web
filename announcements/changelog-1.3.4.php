@@ -123,6 +123,16 @@
   </li>
 </ul>
 
+<h4>KWord's PDF Import Filter</h4>
+<ul>
+  <li>
+    <strong>SECURITY:</strong>
+    fix the integer overflow vulnerability
+    <!-- ### TODO: reference -->
+  </li>
+  <li>Fix for compiling with --enable-final</li>
+</ul>
+
 <?php /*
 <h4>KPresenter's OpenOffice.org Impress Import Filter</h4>
 <ul>
