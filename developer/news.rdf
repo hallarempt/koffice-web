@@ -9,10 +9,20 @@
     <copyright>Copyright (C) 2003, 2004 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php </copyright>
 
     <!-- Do not forget to change this date when doing any change in this file! -->
-    <lastBuildDate>Sat, 24 Apr 2004 21:54 UT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mai 2004 06:10 UT</lastBuildDate>
 
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <ttl>120</ttl>
+
+<item>
+<title>KOffice now uses KSpell2</title>
+<pubDate>Tue, 04 Mai 2004 06:10 UT</pubDate>
+<description>
+KOffice uses now the new version of KSpell, KSpell2, included in kdelibs CVS HEAD.
+The old code for supporting KSpell in KOffice has been removed.
+Therefore when using kdelibs 3.2.x, spellchecking is disabled in KOffice.
+</description>
+</item>
 
 <item>
 <title>Saving in OASIS</title>
