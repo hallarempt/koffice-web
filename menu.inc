@@ -6,12 +6,12 @@ $section =& $this->appendSection("Inform");
 $section->appendLink("Home","");
 $section->appendLink("KDE Home","http://www.kde.org/",false);
 $section->appendLink("News","news.php");
-$section->appendLink("Information", "info");
-$section->appendLink("FAQ", "faq");
+$section->appendDir("Information", "info");
+$section->appendDir("FAQ", "faq");
 //$section->appendDir("Download", "download");
-$section->appendLink("Add-ons for KOffice", "addons");
+$section->appendDir("Add-ons for KOffice", "addons");
 $section->appendLink("People", "people.php");
-$section->appendLink("Mailing Lists", "contact");
+$section->appendDir("Mailing Lists", "contact");
 $section->appendDir("Support KOffice", "support");
 $section->appendDir("Get Involved", "getinvolved");
 
