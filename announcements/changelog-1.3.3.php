@@ -70,6 +70,10 @@
     Fix loading of tabulators in old KWord documents
     (part of <a href="http://bugs.kde.org/show_bug.cgi?73351">#73351</a>)
   </li>
+  <li>
+    Restart numbering starting a new list
+    (<a href="http://bugs.kde.org/show_bug.cgi?id=68927">#68927</a>)
+  </li>
 </ul>
 
 <?php /*
