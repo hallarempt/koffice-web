@@ -39,8 +39,6 @@
 
    <h2>External Wiki Pages About KOffice</h2>
    
-   <p>The wiki.kdenews.org service is currently down, so these links are not available at the moment.</p>
-
    <ul>
      <?php /* Note: the following URL is really Koffice (with lower case o) */	?>
      <li><a href="http://wiki.kdenews.org/tiki-index.php?page=Quality+Team+KDE+Koffice">KOffice Quality</a></li>
