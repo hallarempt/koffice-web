@@ -133,5 +133,7 @@ management system in 100K</a></li>
 	<p>Academic:</p>
 <ul>
 	<li><a href="http://www.cs.unc.edu/Research/geom/dab/">dAb Interactive Haptic Painting with 3D Virtual Brushes</a></li>
+	<li><a href="http://gamma.cs.unc.edu/impasto/">IMPaSTo - A realistic, Interactive
+Model for Paint</a></li>
 </ul>
 <?php include("footer.inc"); ?>
