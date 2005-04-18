@@ -41,6 +41,16 @@ downloaded at the following sites:</p>
 
 <p>Unpack the file and copy it to <tt>$KDEDIR/share/apps/thesaurus/</tt> (you can use any other directory, but this is where the English thesaurus called <tt>thesaurus.txt</tt> is). You can use the <em>Change language</em> button in KThesaurus to select the thesaurus file.</p>
 
+<h2><a name="clipart">Clip Art</a></h2>
+
+<p>Several KOffice applications allow you to insert images into your documents.
+An extensive collection of scalable clip art files that are free for any use and which are
+compatible with KOffice is available for download at the following site:</p>
+
+<ul>
+    <li>The Open Clip Art Libary at <a href="http://www.openclipart.org">www.openclipart.org</a></li>
+</ul>
+
 <?php
   include("footer.inc");
 ?>
