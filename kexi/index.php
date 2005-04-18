@@ -14,10 +14,13 @@
   $appinfo->addAuthor("Lucijan Busch", "lucijan@kde.org");
   $appinfo->addAuthor("Peter Simonsson", "psn@linux.se");
   $appinfo->addAuthor("Joseph Wenninger", "jowenn@kde.org");
-  $appinfo->addContributor("Lucijan Busch", "lucijan@kde.org");
+  $appinfo->addAuthor("Lucijan Busch", "lucijan@kde.org");
   $appinfo->addContributor("Jaros&#322;aw Staniek", "js @ iidea . pl");
   $appinfo->addContributor("Adam Pigg", "adam @ piggz . fsnet . co . uk");
   $appinfo->addContributor("C&eacute;dric Pasteur", "cedric . pasteur @ free . fr");
+  $appinfo->addContributor("Martin Ellis", "m . a . ellis @ ncl . ac . uk");
+  $appinfo->addContributor("Sebastian Sauer", "mail @ dipe . org");
+  $appinfo->addContributor("Christian Nitschkowski", "segfault_ii @ web . de");
   $appinfo->show();
 ?>
 
@@ -46,7 +49,7 @@ Kexi is an integrated environment for managing data. It helps in creating databa
 </p>
 
 <p>
-The idea of this development effort came because of noticeable lack of application like MS Access, FoxPro, Oracle Forms or File Maker that is powerful enough, inexpensive, open standards driven and highly portable between many OSes and hardware platforms.
+The idea of this development effort came because of noticeable lack of application like MS Access, FoxPro, Oracle Forms or FileMaker that is powerful enough, inexpensive, open standards driven and highly portable between many OSes and hardware platforms.
 </p>
 
 <p>As Kexi is a real member of the KDE and KOffice projects, it integrates fluently into both.
@@ -78,8 +81,8 @@ href="http://www.kexi-project.org/announce-0.1-beta5.html">the announcement</a>.
 <h3>Basic Database Features</h3>
 <ul>
  <li>Hiding of the database backend specifics from the user, but allowing advanced users full access at the same time</li>
- <li>Table structure altering (in progress)</li>
- <li>Table creation (in progress)</li>
+ <li>Table structure altering (functional)</li>
+ <li>Table creation (functional)</li>
  <li>Database query creation, without the need of knowing SQL (Structured Query Language)</li>
  <li>User-friendly data manipulation (even on complicated queries)</li>
 </ul>
@@ -87,8 +90,8 @@ href="http://www.kexi-project.org/announce-0.1-beta5.html">the announcement</a>.
 
 <h3>Data Processing and Access</h3>
 <ul>
- <li>User-defined forms for data input and presentation (mostly ready)</li>
- <li>Scripting support with a JavaScript/ECMA-Script like language and/or Python (rewrite planned)</li>
+ <li>User-defined forms for data input and presentation (functional)</li>
+ <li>Scripting support with Python and JavaScript/ECMA-Script language and/or Python (in progress)</li>
  <li>KWord mailmerge integration (planned)</li>
  <li>Easy data report generation (rewrite planned)</li>
 </ul>
@@ -98,9 +101,9 @@ href="http://www.kexi-project.org/announce-0.1-beta5.html">the announcement</a>.
 <p>
 At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:</p>
 <ul>
- <li><a href="http://www.sqlite.org">SQLite</a> (version 2 and 3, file-based, mostly complete)</li>
- <li><a href="http://www.postgresql.org">PostgreSQL (mostly workable)</a></li>
- <li><a href="http://www.mysql.com">MySQL (mostly workable)</a></li>
+ <li><a href="http://www.sqlite.org">SQLite</a> (version 2 and 3, file-based, complete)</li>
+ <li><a href="http://www.postgresql.org">PostgreSQL (complete)</a></li>
+ <li><a href="http://www.mysql.com">MySQL (complete)</a></li>
  <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (planned)</a></li>
 </ul>
 <p>
@@ -109,7 +112,7 @@ It is planned to support also other database systems, especially ODBC interface,
 
 <p>
 <b>Note: It is highly recommended to use SQLite based projects for beta testing, since
- other database drivers can be implemented only partly or can be obsolete for current KexiDB API. Also note that Kexi does not yet offers fully usable GUI for making connections to server databases.</b></p>
+ other database drivers can be implemented only partly or can be obsolete for current KexiDB API. </b></p>
 
 
 <h2>More</h2>
