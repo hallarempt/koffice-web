@@ -8,6 +8,7 @@
 <?php
 $gallery = new ImageGallery("Krita Screenshots");
 $gallery->startNewRow(); 
+$gallery->addImage("pics/rc_sm.png", "pics/rc.png", "264", "200", "[Screenshot]", 0 , "Release candidate (April 2005)");
 $gallery->addImage("pics/toolbox_sm.jpg", "pics/toolbox.jpg", "269", "200", "[Screenshot]", 0 , "Toolbox (March 2005)");
 $gallery->startNewRow(); 
 $gallery->addImage("pics/templates_sm.png", "pics/templates.png", "204", "176", "[Screenshot]", 0 , "Templates (September 2004)");

@@ -25,7 +25,7 @@ $faq->addQuestion("What are Krita's Development Goals ?",
  "Krita is primarily a painting program, although it has image processing capabilities.
   This means that Krita is intended for creative people who desire to paint and draw with computer software as they do with
    real-world tools in an art studio.  If you are looking for a tool primarily to apply effects to existing images or
-   photos, to catalog images, or to view images other software (such as <a href="http://digikam.sf.net">Digikam</a>) may be more suitable.  Ease of use and power as a
+   photos, to catalog images, or to view images other software (such as Digikam) may be more suitable.  Ease of use and power as a
    painting application will always have a higher priority in Krita's ongoing development.");
 
 $faq->addQuestion("How Does it Work?",
@@ -34,13 +34,13 @@ can of course be found in the <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi
 is still small enough at under a tenth of the code size of the Gimp that it is fairly easy to 'get into' the codebase, and start adding features. 
 Almost all functionality, from color models to tools, from filters to file formats, from colour pickers screenshot grabbers 
 is implemented as plugins on a small core. You could start you very own first Krita plugin today by simply following the 
-<a href="http://webcvs.kde.org/koffice/krita/plugins/example">lead of the example plugin</a>");
+lead of the example plugin");
 
 $faq->addQuestion("What Does it Do?",
  "Or rather, what <i>should</i> it do, and what does it do already:</p>
 <ul>
 <li>brushes, drawing and layer editing tools (not complete)</li>
-<li>Color management using <a href="http://www.littlecms.com">Little CMS</a></li>
+<li>Color management using Little CMS</li>
 <li>RGB, RGBA and Grayscale color modes with adjustable color selectors. CMYK is implemented but buggy at the moment.</li>
 <li>Import/Export of png, jpg, xpm, tiff and bmp images, including color-indexed images. Import of gif images. (complete)</li>
 <li>an XML file format which saves and loads layer and channel information and full 32 bit image data (complete)</li>
