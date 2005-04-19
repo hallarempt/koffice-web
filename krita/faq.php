@@ -96,7 +96,7 @@ $faq->addQuestion("When will it be released?",
 $faq->addQuestion("How Do I Get Involved?", "If you are a potential user, a professional or amateur artist or web designer,
 there is currently nothing you can do for Krita &mdash; but keep an eye open for announcements.<br />
 But If you are a software developer or documentation writer who wants to get involved please contact the Krita mailing list or
- me, <a href="mailto:boud@valdyas.org">Boudewijn</a>.  Your help is always welcome.  All of the code is written in very
+ me, <a href=\"mailto:boud@valdyas.org\">Boudewijn</a>.  Your help is always welcome.  All of the code is written in very
  clear C++ using Qt and Kde libraries, and there's not all that much of it, a mere 50.000 lines, a tenth of
  the size of the Gimp. It's not hard, really...<br />
    Documentation is initially written in English in DocBoox XML format and then translated into dozens of national languages.
