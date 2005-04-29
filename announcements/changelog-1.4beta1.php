@@ -122,17 +122,11 @@
 
 <em>New functions:</em><br />
 
-<p><em>Engineering (2):</em>
-ACOT,
-RANDNORM (gaussian random numbers),
-REGEXP,
-REGEXPRE (regexp replace),
-SUMIF (conditional sum)
-</p>
+<p>ACOT, RANDNORM (gaussian random numbers), REGEXP, REGEXPRE (regexp replace), SUMIF (conditional sum)</p>
 
 <h3><a name="kchart">KChart</a></h3>
 <ul>
- <li>New maintainer. Many, bugfixes.</li>
+ <li>New maintainer. Many bugfixes.</li>
  <li>Removed a lot of old non-working stuff. It will reappear, working, in future versions.</li>
  <li>New, much improved, data editor</li>
  <li>Same startup dialog as the rest of KOffice</li>
@@ -158,10 +152,10 @@ SUMIF (conditional sum)
 
 
 <h3><a name="kexi">Kexi</a></h3>
-KOffice 1.4 is the first official release to include <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">Kexi</a>.
-Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
+<p>KOffice 1.4 is the first official release to include <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">Kexi</a>.
+Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.</p>
 
-Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.
+<p>Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.</p>
 
 <em>Overview</em>
 <ul>
@@ -195,14 +189,14 @@ Kexi is considered as a long awaited Open Source competitor for MS Access, Filem
 </ul>
 
 <h3><a name="krita">Krita</a></h3>
-Krita is an image editor and paint application with a wide range of
+<p>Krita is an image editor and paint application with a wide range of
 applications, from photo editing to the creation of original artwork.
 Sporting a clear and uncluttered interface (for a paint app...) it makes the
-features it delivers accessible and intuitive to use.
+features it delivers accessible and intuitive to use.</p>
 
-This is the first public release of Krita and while it provides a coherent set
+<p>This is the first public release of Krita and while it provides a coherent set
 of features, it is only the first stepping stone towards a flexible paint
-application for artists and image editors.
+application for artists and image editors.</p>
 
 <em>Krita offers:</em>
 <ul>
@@ -226,9 +220,7 @@ application for artists and image editors.
 
 <h3><a name="kformula">KFormula</a></h3>
 <ul>
- <li>Support for multi-line formulae including element alignment</li>
- <li>Changeable char attributes</li>
- <li>New over- and underlines</li>
+ <li>OASIS file format support (incomplete)</li>
 </ul>
 
 <h3><a name="karbon">Karbon</a></h3>
