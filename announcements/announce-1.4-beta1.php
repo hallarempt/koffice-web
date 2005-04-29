@@ -13,7 +13,7 @@
   KDE Ships Beta Test Release of Major Enhancements to Free Integrated Office Suite
 </h2>
 <p align="justify">
- <strong>New Image Editor, New Database Management Application and OASIS OpenDocument support Highlight KOffice
+ <strong>New Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight KOffice
   Beta Release for Linux and Other UNIXes</strong></p>
   <p align="justify">April 29, 2005 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
@@ -42,7 +42,7 @@
     (<a href="http://www.thekompany.com/projects/kivio/">Kivio</a>);
   business quality reporting software
     (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>);
-  an integrated database client
+  a new integrated database client
     (<a href="http://www.koffice.org/kexi/">Kexi</a>);
   a new image editing application
     (<a href="http://www.koffice.org/krita/">Krita</a>);
@@ -61,16 +61,15 @@
   <a href="http://www.kde.org/announcements/announce-3.4.php">KDE 3.4</a>
   last month.  KDE is a powerful and easy-to-use Internet-enabled
   desktop for Linux and other UNIXes, and together with KOffice constitutes the
-  only Open Source project to provide a complete desktop and productivity
+  only Free Software project to provide a complete desktop and productivity
   environment for Linux/UNIX.
 </p>
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http and ftp</a> mirrors.
-
+  <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http and ftp</a> mirrors
   and can also be obtained as a
-  <a href="http://ktown.kde.org/~binner/klax/koffice.html">Linux Live CD</a>.
+  <a href="http://ktown.kde.org/~binner/klax/koffice.html">x86 Live CD</a>.
 </p>
 <h4>
   Principal Improvements
@@ -111,7 +110,7 @@ For a list of features supported by Kexi, see
       <li>
         <div align="justify">
         <em>OASIS OpenDocument support</em>.
-Most KOffice applications now support the <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument</a> file format. KOffice developer David Faure is part of 
+Most KOffice applications now support the <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument</a> file format. KOffice developer David Faure is part of
 the OASIS technical committee and was able to participate in the discussions that
 led to the creation of this standard file format.
         </div>
@@ -370,8 +369,8 @@ coming days and weeks.
   contributed Kivio and Kugar to KOffice),
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
   Datakonsult AB</a> (which has contributed KChart to KOffice),
-  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which employs Kexi 
-    developer Jaros&#322;aw Staniek and sponsored 
+  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which employs Kexi
+    developer Jaros&#322;aw Staniek and sponsored
     <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
     project which enabled porting KOffice applications to MS Windows.
   In addition, <a href="http://www.kde.org/donations.html">individual
