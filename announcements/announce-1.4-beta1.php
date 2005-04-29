@@ -14,7 +14,7 @@
 </h2>
 <p align="justify">
  <strong>New Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight KOffice
-  Beta Release for Linux and Other UNIXes</strong>:/p>
+  Beta Release for Linux and Other UNIXes</strong></p>
   <p align="justify">April 29, 2005 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
@@ -30,7 +30,7 @@
 </p>
 <p align="justify">
   This release, which is available in
-  <a href="http://i18n.kde.org/teams/index.php?action=distributed"><strong>46</strong>:/a>
+  <a href="http://i18n.kde.org/teams/index.php?action=distributed"><strong>46</strong></a>
   languages, includes
   a frame-based, full-featured word processor
     (<a href="http://www.koffice.org/kword/">KWord</a>);
@@ -66,7 +66,7 @@
 </p>
 <p align="justify">
   KOffice and all its components (including KDE) are available
-  <em><strong>for free</strong>:/em> under Open Source licenses from the KDE
+  <em><strong>for free</strong></em> under Open Source licenses from the KDE
   <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http and ftp</a> mirrors
   and can also be obtained as a
   <a href="http://ktown.kde.org/~binner/klax/koffice.html">x86 Live CD</a>.
@@ -280,7 +280,7 @@ led to the creation of this standard file format.
   Requirements</a> below.
 </p>
 <p align="justify">
-  <a name="package_locations"><strong>Package Locations</strong>:/a>.
+  <a name="package_locations"><strong>Package Locations</strong></a>:
   At the time of this release, pre-compiled packages are available for:
 </p>
 
