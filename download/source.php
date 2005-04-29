@@ -34,10 +34,8 @@ regularly via CVS or CVSUP.</p>
 <p><b>KOffice <?php echo $currentversion; ?> stable</b> is available
 <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/src/">here</a></p>
 
-<!--
 <p><b>The latest development release is KOffice <?php echo $develversion; ?></b>. Get it from
 <a href="http://download.kde.org/unstable/koffice-<?php echo $develversion; ?>/src/">here</a>.</p>
--->
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
 <p>The development version via <b>anonymous CVS</b> (recommended) needs extra instructions, check the

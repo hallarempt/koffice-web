@@ -10,6 +10,16 @@
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 1.4 beta1 released</title>
+<date>29th April, 2005</date>
+<fullstory>
+The first beta release of KOffice 1.4 is available. See the
+<a href="http://www.koffice.org/releases/1.4-beta1-release.php">release notes</a> 
+and the complete <a href="http://www.koffice.org/announcements/changelog-1.4-beta1.php">list of changes</a>.
+</fullstory>
+</item>
+
+<item>
 <title>SECURITY update: newest xpdf vulnerability in KOffice 1.3.x</title>
 <date>20th January, 2005</date>
 <fullstory>

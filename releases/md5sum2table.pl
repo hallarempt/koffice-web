@@ -1,8 +1,8 @@
 #! /usr/bin/env perl
 
 #adjust these two variables to the current version
-$VERSION="1.3.5";
-$STATUS="stable";
+$VERSION="1.4-beta1";
+$STATUS="unstable";
 
 # team names (from kde-i18n/teamnames)
 use constant LANGUAGES =>

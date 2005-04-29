@@ -11,10 +11,8 @@
     <p><b>KOffice <?php echo $currentversion ?></b> is the current official KOffice release. Please see the 
     <a class="sidebar" href="/releases/<?php echo $currentversion; ?>-release.php">release notes</a> for further details.</p>
     
-    <!--
     <p>There is also an unstable, testing version <?php echo $develversion ?> which you may try out. See the
     <a class="sidebar" href="/releases/<?php echo $develversion ?>-release.php">notes</a> for this release.</p>
-    -->
 
     <p>
       <a href="security">
