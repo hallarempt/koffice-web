@@ -77,7 +77,7 @@
 <p align="justify">
   The principal improvements over KOffice 1.3 are:
 </p>
-    <u>General</u>.
+    <strong>General</strong>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -117,7 +117,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <u>KWord (Word Processor)</u>.
+    <strong>KWord (Word Processor)</strong>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -138,7 +138,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <u>KPresenter (Presentation Tool)</u>.
+    <strong>KPresenter (Presentation Tool)</strong>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -157,7 +157,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <u>KSpread (Spreadsheet)</u>.
+    <strong>KSpread (Spreadsheet)</strong>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -186,7 +186,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <u>KChart (Graph and chart drawing tool)</u>.
+    <strong>KChart (Graph and chart drawing tool)</strong>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -215,7 +215,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <u>Kivio (Flow-charting application)</u>.
+    <strong>Kivio (Flow-charting application)</strong>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -247,7 +247,7 @@ led to the creation of this standard file format.
   Installing KOffice 1.4beta1 Binary Packages
 </h4>
 <p align="justify">
-  <u>Binary Packages</u>.
+  <strong>Binary Packages</strong>.
   Some Linux/UNIX OS vendors have kindly provided binary packages of
   KOffice 1.4 beta1 for some versions of their distribution, and in other cases
   community volunteers have done so.
@@ -269,7 +269,7 @@ led to the creation of this standard file format.
   Policy</a> and/or contact your OS vendor.
 </p>
 <p align="justify">
-  <u>Library Requirements / Options</u>.
+  <strong>Library Requirements / Options</strong>.
   The library requirements for a particular binary package vary with the
   system on which the package was compiled.  Please bear in mind that
   some binary packages may require a newer version of Qt and other libraries
@@ -280,7 +280,7 @@ led to the creation of this standard file format.
   Requirements</a> below.
 </p>
 <p align="justify">
-  <a name="package_locations"><u>Package Locations</u></a>.
+  <a name="package_locations"><strong>Package Locations</strong></a>.
   At the time of this release, pre-compiled packages are available for:
 </p>
 
@@ -300,8 +300,8 @@ coming days and weeks.
   Compiling KOffice 1.4beta1
 </h4>
 <p align="justify">
-  <a name="source_code-library_requirements"></a><u>Library
-  Requirements</u>.
+  <a name="source_code-library_requirements"></a><strong>Library
+  Requirements</strong>.
   KOffice 1.4beta1 requires the following libraries:
 </p>
 <ul>
@@ -332,13 +332,13 @@ coming days and weeks.
   </li>
 </ul>
 <p align="justify">
-  <u>Compiler Requirements</u>.
+  <strong>Compiler Requirements</strong>.
   Please note that KOffice 1.4beta1 will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
-  <a name="source_code"></a><u>Source Code</u>.
+  <a name="source_code"></a><strong>Source Code</strong>.
   The complete source code for KOffice 1.4beta1 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http</a>
@@ -347,7 +347,7 @@ coming days and weeks.
 </p>
 <!-- INCLUDE PHP FILE HERE -->
 <p align="justify">
-  <u>Further Information</u>.
+  <strong>Further Information</strong>.
   For further instructions on compiling and installing KOffice, please consult
   the KOffice <a href="http://www.koffice.org/download/source.php">installation
   instructions</a>.  For
