@@ -13,7 +13,7 @@
   KDE Ships Beta Test Release of Major Enhancements to Free Integrated Office Suite
 </h2>
 <p align="justify">
- <strong>:ew Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight KOffice
+ <strong>New Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight KOffice
   Beta Release for Linux and Other UNIXes</strong>:/p>
   <p align="justify">April 29, 2005 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
@@ -30,7 +30,7 @@
 </p>
 <p align="justify">
   This release, which is available in
-  <a href="http://i18n.kde.org/teams/index.php?action=distributed"><strong>:6</strong>:/a>
+  <a href="http://i18n.kde.org/teams/index.php?action=distributed"><strong>46</strong>:/a>
   languages, includes
   a frame-based, full-featured word processor
     (<a href="http://www.koffice.org/kword/">KWord</a>);
@@ -66,7 +66,7 @@
 </p>
 <p align="justify">
   KOffice and all its components (including KDE) are available
-  <em><strong>:or free</strong>:/em> under Open Source licenses from the KDE
+  <em><strong>for free</strong>:/em> under Open Source licenses from the KDE
   <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http and ftp</a> mirrors
   and can also be obtained as a
   <a href="http://ktown.kde.org/~binner/klax/koffice.html">x86 Live CD</a>.
@@ -77,7 +77,7 @@
 <p align="justify">
   The principal improvements over KOffice 1.3 are:
 </p>
-    <strong>:eneral</strong>:
+    <strong>General</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -117,7 +117,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <strong>:Word (Word Processor)</strong>:
+    <strong>KWord (Word Processor)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -138,7 +138,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <strong>:Presenter (Presentation Tool)</strong>:
+    <strong>KPresenter (Presentation Tool)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -157,7 +157,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <strong>:Spread (Spreadsheet)</strong>:
+    <strong>KSpread (Spreadsheet)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -186,7 +186,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <strong>:Chart (Graph and chart drawing tool)</strong>:
+    <strong>KChart (Graph and chart drawing tool)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -215,7 +215,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <strong>:ivio (Flow-charting application)</strong>:
+    <strong>Kivio (Flow-charting application)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -247,7 +247,7 @@ led to the creation of this standard file format.
   Installing KOffice 1.4beta1 Binary Packages
 </h4>
 <p align="justify">
-  <strong>:inary Packages</strong>:
+  <strong>Binary Packages</strong>:
   Some Linux/UNIX OS vendors have kindly provided binary packages of
   KOffice 1.4 beta1 for some versions of their distribution, and in other cases
   community volunteers have done so.
@@ -269,7 +269,7 @@ led to the creation of this standard file format.
   Policy</a> and/or contact your OS vendor.
 </p>
 <p align="justify">
-  <strong>:ibrary Requirements / Options</strong>:
+  <strong>Library Requirements / Options</strong>:
   The library requirements for a particular binary package vary with the
   system on which the package was compiled.  Please bear in mind that
   some binary packages may require a newer version of Qt and other libraries
@@ -280,7 +280,7 @@ led to the creation of this standard file format.
   Requirements</a> below.
 </p>
 <p align="justify">
-  <a name="package_locations"><strong>:ackage Locations</strong>:/a>.
+  <a name="package_locations"><strong>Package Locations</strong>:/a>.
   At the time of this release, pre-compiled packages are available for:
 </p>
 
@@ -300,7 +300,7 @@ coming days and weeks.
   Compiling KOffice 1.4beta1
 </h4>
 <p align="justify">
-  <a name="source_code-library_requirements"></a><strong>:ibrary
+  <a name="source_code-library_requirements"></a><strong>Library
   Requirements</strong>:
   KOffice 1.4beta1 requires the following libraries:
 </p>
@@ -332,13 +332,13 @@ coming days and weeks.
   </li>
 </ul>
 <p align="justify">
-  <strong>:ompiler Requirements</strong>:
+  <strong>Compiler Requirements</strong>:
   Please note that KOffice 1.4beta1 will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
-  <a name="source_code"></a><strong>:ource Code</strong>:
+  <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.4beta1 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http</a>
@@ -347,7 +347,7 @@ coming days and weeks.
 </p>
 <!-- INCLUDE PHP FILE HERE -->
 <p align="justify">
-  <strong>:urther Information</strong>:
+  <strong>Further Information</strong>:
   For further instructions on compiling and installing KOffice, please consult
   the KOffice <a href="http://www.koffice.org/download/source.php">installation
   instructions</a>.  For
