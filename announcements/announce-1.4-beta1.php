@@ -29,9 +29,9 @@
   release (more help is welcome!).
 </p>
 <p align="justify">
-  This release, which is available in
+  This release<!--, which is available in
   <a href="http://i18n.kde.org/teams/index.php?action=distributed"><strong>46</strong></a>
-  languages, includes
+  languages, --> includes
   a frame-based, full-featured word processor
     (<a href="http://www.koffice.org/kword/">KWord</a>);
   a presentation application
@@ -81,7 +81,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        <em>Krita</em>.
+        <strong>Krita</strong>:
 Krita is an image editor and paint application with a wide range of
 applications, from photo editing to the creation of original artwork.
 Sporting a clear and uncluttered interface (for a paint app...) it makes the
@@ -97,7 +97,7 @@ For a list of features supported by Krita, see
       </li>
       <li>
         <div align="justify">
-        <em>Kexi</em>.
+        <strong>Kexi</strong>.
 KOffice 1.4 is the first official release to include Kexi.
 Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
 
@@ -109,7 +109,7 @@ For a list of features supported by Kexi, see
       </li>
       <li>
         <div align="justify">
-        <em>OASIS OpenDocument support</em>.
+        <strong>OASIS OpenDocument support</strong>:
 Most KOffice applications now support the <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument</a> file format. KOffice developer David Faure is part of
 the OASIS technical committee and was able to participate in the discussions that
 led to the creation of this standard file format.
