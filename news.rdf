@@ -204,8 +204,8 @@ and the complete <a href="/announcements/changelog-1.3.php">list of changes</a>.
 <date>29th October, 2003</date>
 <fullstory>
 First release candidate version of KOffice 1.3 is available. See the short
-<a href="/releases/1.3rc1-release.phtml">release notes</a>
-and the complete <a href="/announcements/changelog-1.3rc1.phtml">list of changes</a>.
+<a href="/releases/1.3rc1-release.php">release notes</a>
+and the complete <a href="/announcements/changelog-1.3rc1.php">list of changes</a>.
 </fullstory>
 </item>
 
@@ -214,8 +214,8 @@ and the complete <a href="/announcements/changelog-1.3rc1.phtml">list of changes
 <date>25th September, 2003</date>
 <fullstory>
 Fourth beta version of KOffice 1.3 is available. See the short <a 
-href="/releases/1.3beta4-release.phtml">release notes</a>
-and the complete <a href="/announcements/changelog-1.3beta4.phtml">list of changes</a>.
+href="/releases/1.3beta4-release.php">release notes</a>
+and the complete <a href="/announcements/changelog-1.3beta4.php">list of changes</a>.
 This is the last beta in the 1.3 series, it includes all of the bugfixes made during the last month's
 KDE developers' meeting.
 </fullstory>
@@ -236,8 +236,8 @@ met and discussed about the future major version of the KOffice suite. Read more
 <date>14th August, 2003</date>
 <fullstory>
 The third beta version of KOffice 1.3 is available. See the short <a 
-href="/releases/1.3beta3-release.phtml">release notes</a>
-and the complete <a href="/announcements/changelog-1.3beta3.phtml">list of changes</a>. There will be only 
+href="/releases/1.3beta3-release.php">release notes</a>
+and the complete <a href="/announcements/changelog-1.3beta3.php">list of changes</a>. There will be only 
 one more
 RC and we expect to release the final version in September, after the Nov&eacute; Hrady conference during 
 which
@@ -260,8 +260,8 @@ see the full story on <a href="http://dot.kde.org/1059107636/">dot.kde.org</a>.
 <date>18th June, 2003</date>
 <fullstory>
 The second beta version of KOffice 1.3 is available. See the short <a 
-href="/releases/1.3beta2-release.phtml">release notes</a>
-and the complete <a href="/announcements/changelog-1.3beta2.phtml">list of changes</a>.
+href="/releases/1.3beta2-release.php">release notes</a>
+and the complete <a href="/announcements/changelog-1.3beta2.php">list of changes</a>.
 </fullstory>
 </item>
 
@@ -270,8 +270,8 @@ and the complete <a href="/announcements/changelog-1.3beta2.phtml">list of chang
 <date>23rd April, 2003</date>
 <fullstory>
 The first beta version of KOffice 1.3 is available. See the <a 
-href="/announcements/announce-1.3-beta1.phtml">announcement</a>
-and the complete <a href="http://www.koffice.org/announcements/changelog-1.3beta1.phtml">list of 
+href="/announcements/announce-1.3-beta1.php">announcement</a>
+and the complete <a href="http://www.koffice.org/announcements/changelog-1.3beta1.php">list of 
 changes</a>.
 It comes with many new features, improvements and new filters, but also probably a few bugs for you to find 
 and
@@ -293,8 +293,8 @@ A <a href="/bugfixes/1.2.1_kword_crashes.diff">fix</a> is available for two kwor
 <date>12th December, 2002</date>
 <fullstory>
 The final version of KOffice 1.2.1 has just been released. See the <a 
-href="/announcements/announce-1.2.1.phtml">announcement</a> and the <a 
-href="/announcements/changelog-1.2.1.phtml">full changelog</a>.
+href="/announcements/announce-1.2.1.php">announcement</a> and the <a 
+href="/announcements/changelog-1.2.1.php">full changelog</a>.
 </fullstory>
 </item>
 
@@ -312,8 +312,8 @@ working with long text which overlaps several cells or when working with merged 
 <date>10th September, 2002</date>
 <fullstory>
 The final version of KOffice 1.2 has just been released. See the <a 
-href="/announcements/announce-1.2.phtml">announcement</a> and the <a 
-href="/announcements/changelog-1.2.phtml">full changelog</a>.
+href="/announcements/announce-1.2.php">announcement</a> and the <a 
+href="/announcements/changelog-1.2.php">full changelog</a>.
 </fullstory>
 </item>
 
@@ -322,8 +322,8 @@ href="/announcements/changelog-1.2.phtml">full changelog</a>.
 <date>09th August, 2002</date>
 <fullstory>
 The release candidate of KOffice 1.2 has just been released. See the <a 
-href="/announcements/announce-1.2-rc1.phtml">announcement</a> and the <a 
-href="/announcements/changelog-1.2rc1.phtml">full changelog</a>.
+href="/announcements/announce-1.2-rc1.php">announcement</a> and the <a 
+href="/announcements/changelog-1.2rc1.php">full changelog</a>.
 </fullstory>
 </item>
 
@@ -332,8 +332,8 @@ href="/announcements/changelog-1.2rc1.phtml">full changelog</a>.
 <date>27th June, 2002</date>
 <fullstory>
 A second beta of KOffice 1.2 has just been released. See the <a 
-href="/announcements/announce-1.2-beta2.phtml">announcement</a> and the <a 
-href="/announcements/changelog-1.2beta2.phtml">full changelog</a>.
+href="/announcements/announce-1.2-beta2.php">announcement</a> and the <a 
+href="/announcements/changelog-1.2beta2.php">full changelog</a>.
 The highlights of this release are: KWord Footnotes and KSpread Database Connectivity. Try it out!
 </fullstory>
 </item>
@@ -343,7 +343,7 @@ The highlights of this release are: KWord Footnotes and KSpread Database Connect
 <date>09th June, 2002</date>
 <fullstory>
 <a href="mailto:ariya@kde.org">Ariya Hidayat</a> has added a HancomWord 2.0 import filter for KWord.
-Look at the filter <a href="filters/status.phtml">status</a> page for more information.
+Look at the filter <a href="filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
@@ -352,7 +352,7 @@ Look at the filter <a href="filters/status.phtml">status</a> page for more infor
 <date>25th April, 2002</date>
 <fullstory>
 The first beta of KOffice 1.2 is available. See the <a 
-href="/announcements/announce-1.2-beta1.phtml">announcement</a>.
+href="/announcements/announce-1.2-beta1.php">announcement</a>.
 It comes with many new features and improvements, but also probably a few bugs for you to find and report.
 </fullstory>
 </item>
@@ -372,7 +372,7 @@ Meanwhile, work continues on the KOffice 1.2 which will only work on KDE 3.
 <date>31st March, 2002</date>
 <fullstory>
 <a href="mailto:ariyahidayat@yahoo.de">Ariya Hidayat</a> has added a dBase import filter for KSpread.
-Look at the filter <a href="filters/status.phtml">status</a> page for more information.
+Look at the filter <a href="filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
@@ -390,7 +390,7 @@ KOffice developers at FOSDEM.
 <date>28th February, 2002</date>
 <fullstory>
 <a href="mailto:ariya@tf.itb.ac.id">Ariya Hidayat</a> has added a Lotus AmiPro filter for kword.
-Look at the filter <a href="filters/status.phtml">status</a> page for more information.
+Look at the filter <a href="filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
@@ -427,7 +427,7 @@ The following new import and export filters have been added to KOffice:
 <li>All applications: import and export filter for <b>XSLT</b> (eXtensible Stylesheet Language for 
 Transformations)</li>
 </ul>
-Look at the filter <a href="filters/status.phtml">status</a> page for more information.
+Look at the filter <a href="filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
@@ -436,7 +436,7 @@ Look at the filter <a href="filters/status.phtml">status</a> page for more infor
 <date>18th December, 2001</date>
 <fullstory>
 KOffice 1.1.1, a bug fix release of KOffice 1.1, has just been released. Read the announcement <a 
-href="/announcements/announce-1.1.1.phtml">here</a>.
+href="/announcements/announce-1.1.1.php">here</a>.
 </fullstory>
 </item>
 
@@ -446,7 +446,7 @@ href="/announcements/announce-1.1.1.phtml">here</a>.
 <fullstory>
 The second "stable" version of KOffice (after 1.0) is now available, and
 is a major step forward in terms of features and stability.
-Read the announcement <a href="/announcements/announce-1.1.phtml">here</a>.
+Read the announcement <a href="/announcements/announce-1.1.php">here</a>.
 </fullstory>
 </item>
 
