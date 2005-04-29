@@ -49,8 +49,8 @@ In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
-<p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.1.x, arts, and kdelibs (kdebase recommended too).</p>
-<p>For the development version of KOffice you need Qt 3.2.x, arts, and kdelibs 3.2 (Recommended: Qt 3.3.x and kdelibs 3.3.x instead).</p>
+<p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.2.x, arts, and kdelibs (kdebase recommended too).</p>
+<p>For the development version of KOffice you need Qt 3.3.x, arts, and kdelibs 3.3.</p>
 
 <p>Qt can be <a href="ftp://ftp.trolltech.com/qt/source/">download directly from Trolltech</a>
 and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/">can be downloaded from a KDE server</a>.</p>
@@ -58,6 +58,8 @@ and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/"
 <p>This is the minimum to run KOffice. If you want, there are other packages which
 contain a lot of different applications, from networking, graphics, multimedia to games. See the appropriate
 websites below "KDE Family" <a href="http://www.kde.org/">on the main KDE page</a>.</p>
+
+<p>See also the instructions for <a href="http://www.kexi-project.org/compiling.html">compiling kexi</a></p>
 
 
 <h2>Installing Qt and the base KDE packages</h2>
