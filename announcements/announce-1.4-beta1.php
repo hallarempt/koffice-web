@@ -10,7 +10,7 @@
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
-  KDE Ships Beta Test Release of Major Enhancements to Free Integrated Office Suite
+  KDE Ships Beta Release of Major Enhancements to Free Integrated Office Suite
 </h2>
 <p align="justify">
  <strong>New Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight KOffice
