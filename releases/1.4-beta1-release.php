@@ -9,7 +9,7 @@
 
       <h2>Changelog</h2>
       <ul>
-      <li><a href="/announcements/changelog-1.4-beta1.php">Changelog</a></li>
+      <li><a href="/announcements/changelog-1.4beta1.php">Changelog</a></li>
       </ul>
 
       <h2>Download</h2>
