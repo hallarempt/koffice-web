@@ -10,6 +10,12 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>29 April 2005</strong>
+ - <a href="announce-1.4-beta1.php">KDE Ships Beta Test Release of Major Enhancements to Free Integrated Office Suite</a>
+<br />"<em>New Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight KOffice
+  Beta Release for Linux and Other UNIXes</em>"
+<p />
+
 <strong>27 January 2004</strong>
  - <a href="announce-1.3.php">KOffice 1.3 Announcement</a>
 <br />"<em>Improved interoperability Highlights Stable KOffice Release for Linux and Other UNIXes</em>"

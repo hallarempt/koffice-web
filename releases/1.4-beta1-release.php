@@ -5,7 +5,12 @@
   include("header.inc");
 ?>
 
-      <p>The KOffice team is proud to announce the final version of KOffice 1.4 beta1.</p>
+      <p>The KOffice team is proud to announce KOffice 1.4 beta1.</p>
+
+      <h2>Announcement</h2>
+      <ul>
+      <li><a href="/announcements/announce-1.4-beta1.php">Announcement</a></li>
+      </ul>
 
       <h2>Changelog</h2>
       <ul>
