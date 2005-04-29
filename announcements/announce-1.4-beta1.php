@@ -99,8 +99,8 @@ For a list of features supported by Krita, see
       <li>
         <div align="justify">
         <em>Kexi</em>.
-KOffice 1.4 is the first official release to include Kexi - the KOffice database management application.
- Kexi is an integrated environment for managing data. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
+KOffice 1.4 is the first official release to include Kexi.
+Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
 
 Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.
 
@@ -123,7 +123,8 @@ led to the creation of this standard file format.
       <li>
         <div align="justify">
          rewritten spell-checking support which is much faster and solves many problems
-         (e.g. KOffice-1.3's right-click-menu sometimes hanging);
+         (e.g. KOffice-1.3's right-click-menu sometimes hanging); with aspell,
+         spell-checking is available in more than 70 languages.
         </div>
       </li>
       <li>
@@ -171,7 +172,7 @@ led to the creation of this standard file format.
       </li>
       <li>
         <div align="justify">
-        a calendar plugin;
+        a calendar plug-in;
         </div>
       </li>
       <li>
@@ -215,7 +216,7 @@ led to the creation of this standard file format.
       </li>
     </ul>
   <p />
-    <u>Kivio (Flowcharting application)</u>.
+    <u>Kivio (Flow-charting application)</u>.
     <ul type="disc">
       <li>
         <div align="justify">
@@ -234,7 +235,7 @@ led to the creation of this standard file format.
       </li>
       <li>
         <div align="justify">
-        a polyline connector.
+        a poly-line connector.
         </div>
       </li>
     </ul>
@@ -366,11 +367,13 @@ coming days and weeks.
   <a href="http://www.trolltech.com/">Trolltech</a> (which sponsors
   KOffice developer David Faure),
   <a href="http://www.thekompany.com/">theKompany.com</a> (which has
-  contributed Kivio and Kugar to KOffice)
+  contributed Kivio and Kugar to KOffice),
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
-  Datakonsult AB</a> (which has contributed KChart to KOffice)
-  and <a href="http://www.suse.com">SuSE AG</a>
-  which employs KOffice developer Luk&aacute;&scaron; Tinkl.
+  Datakonsult AB</a> (which has contributed KChart to KOffice),
+  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which employs Kexi 
+    developer Jaros&#322;aw Staniek and sponsored 
+    <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
+    project which enabled porting KOffice applications to MS Windows.
   In addition, <a href="http://www.kde.org/donations.html">individual
   sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
   provide significant support for KDE and KOffice. Thanks!
