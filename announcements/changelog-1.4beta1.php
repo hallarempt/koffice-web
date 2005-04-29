@@ -152,7 +152,7 @@
 
 
 <h3><a name="kexi">Kexi</a></h3>
-<p>KOffice 1.4 is the first official release to include <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">Kexi</a>.
+<p>KOffice 1.4 is the first official release to include <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4Beta1">Kexi</a>.
 Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.</p>
 
 <p>Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.</p>

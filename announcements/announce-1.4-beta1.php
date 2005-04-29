@@ -104,7 +104,7 @@ Kexi is an integrated environment for creating and managing databases. It can be
 Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.
 
 For a list of features supported by Kexi, see
- <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">the kexi website</a>.
+ <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4Beta1">the kexi website</a>.
         </div>
       </li>
       <li>
