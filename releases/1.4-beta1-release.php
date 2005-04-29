@@ -7,12 +7,6 @@
 
       <p>The KOffice team is proud to announce the final version of KOffice 1.4 beta1.</p>
 
-      <p>Note: Kexi is not part of this version. 
-      It is slated for a stand-alone release later this year and
-      will be integrated into the next major version of KOffice.
-      </p>
-
-
       <h2>Changelog</h2>
       <ul>
       <li><a href="/announcements/changelog-1.4-beta1.php">Changelog</a></li>
