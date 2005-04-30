@@ -27,9 +27,9 @@
 
 <p>
 <b>
-Note: Kexi isn't part of this version nor will it be in the final KOffice 1.3.
-It is slated for a stand-alone release later this year and will re-integrated
-into KOffice in the next major version.
+Note: Kexi is part of the recently released KOffice 1.4Beta, and no final version has
+been released yet.
+It is also slated for a stand-alone release later this year.
 </b>
 </p>
 
