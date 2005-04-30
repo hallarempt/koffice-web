@@ -25,23 +25,6 @@
 
 <h2>Description</h2>
 
-<p>
-<b>
-Note: Kexi is part of the recently released KOffice 1.4Beta, and no final version has
-been released yet.
-It is also slated for a stand-alone release later this year.
-</b>
-</p>
-
-<!-- p>
-<b>Note: 
-Currently, the main change in Kexi project is a migration to renewed db api
-(including db abstraction), kexidb module koffice/kexi/kexidb/ in kde.org
-cvs, that can be hopfully considered as superset of QSql. Until other Kexi parts that
-depend on old kexiDB could be ported, Kexi sources can be broken. 
-<a href="http://lists.kde.org/?l=kde-cvs&m=106441791719847&w=2">More information</a>
-</b>
-</p -->
 
 <p>
 Kexi is an integrated environment for managing data. It helps in creating database schema, inserting, querying and processing data.
@@ -70,8 +53,17 @@ data provider for mailmerge in KWord.</p -->
 
 <h2>Current version</h2>
 
-Current Kexi version is 0.1 beta 5. See <a
-href="http://www.kexi-project.org/announce-0.1-beta5.html">the announcement</a>.
+<p>
+Current Kexi version is 0.8 beta 1, released together with KOffice 1.4 Beta
+1. See <a
+href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4Beta1">the announcement</a>.
+</p>
+
+<p>
+<b>
+Note: Kexi is also slated for a stand-alone 0.9 release later (may 2005).
+</b>
+</p>
 
 
 <h2>Features</h2>
