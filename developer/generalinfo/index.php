@@ -4,11 +4,6 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-    <p>Note: this section is going away, as it is now on
-    <a href="http://developer.kde.org/documentation/misc/index.php">
-    developer.kde.org</a>.
-
-   <hr />
 
    <p>This section provides information about <a href="http://developer.kde.org">developing in KDE</a>,
    viewed from KOffice's point of view.</p>
@@ -20,22 +15,14 @@
      development sourcecode of KOffice.</li>
    </ul> 
 
-   <h2>Patches</h2>
-   <ul>
-     <li><a href="sendingpatches.php">Sending Patches</a></li>
-   </ul>
-
-   <h2>A New CVS Account</h2>
-   <ul>
-   <li><a href="applycvsaccount.php">Applying For A KDE CVS Account</a></li>
-   <li><a href="firststepsaccount.php">First Steps With Your New CVS Account</a></li>
-   <!--<li><a href="sharedprog.php">Shared Developement</a></li>-->
-   </ul>
-   
    <h2>KDE Resources</h2>
    
    <p>General information about KDE development (therefore also for KOffice's)
    are on the <a href="http://developer.kde.org">KDE Developer Site</a>.</p>
+
+   <p>Note: this former documents avaiable in this section are now on
+    <a href="http://developer.kde.org/documentation/misc/index.php">
+    developer.kde.org</a> too.</p>
 
    <h2>External Resources</h2>
    
