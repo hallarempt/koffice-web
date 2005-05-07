@@ -5,9 +5,6 @@
   include("header.inc");
 ?>
 
-   <p>This section provides information about <a href="http://developer.kde.org">developing in KDE</a>,
-   viewed from KOffice's point of view.</p>
-
    <h2>Getting the latest KOffice Sources</h2>
    <ul>
      <li><a href="http://www.koffice.org/download/source.php">Instructions on
