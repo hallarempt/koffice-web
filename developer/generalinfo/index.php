@@ -20,7 +20,8 @@
    <p>General information about KDE development (therefore also for KOffice's)
    are on the <a href="http://developer.kde.org">KDE Developer Site</a>.</p>
 
-   <p>Note: this former documents avaiable in this section are now on
+   <p>Note: the documents that were previously avaiable in this section
+    are now on
     <a href="http://developer.kde.org/documentation/misc/index.php">
     developer.kde.org</a> too.</p>
 
