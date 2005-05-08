@@ -26,7 +26,7 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
         fclose( $file );
 
         // Process header
-        eregi( "<channel>(.*)<item>", $rf, $header );
+        eregi( "<channel>(.*)<item>.*", $rf, $header );
         eregi( "<title>(.*)</title>", $header[1], $title );
         eregi( "<link>(.*)</link>", $header[1], $link );
         eregi( "<description>(.*)</description>", $header[1], $description );
@@ -65,11 +65,12 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
             $description = ereg_replace( "&", "&amp;", $description );
             $description = ereg_replace( "<", "&lt;", $description );
             $description = ereg_replace( ">", "&gt;", $description );
+            $description = ereg_replace( "\"", "&quot;", $description );
 
             // Process date (e.g.: "29th April, 2005")
             // The function strtotime cannot handle the "th" and the comma, so have find day, month and year
-            ereg( "([0-9]+)[a-zA-Z]+ +([a-zA-Z]+).+ +([0-9]+)", $date[1], $datepieces );
-            $newdate = $datepiece[1] . " " . $datepiece[2] . " " . $datepiece[3] /*. " UTC"*/;
+            ereg( "([0-9]+)[a-zA-Z]+ +([a-zA-Z]+).+ +([0-9]+)", $date[1], $datepiece );
+            $newdate = $datepiece[1] . " " . $datepiece[2] . " " . $datepiece[3] . " UTC";
             // Nevertheless we use strtotime to avoid to have a month name table
             $pubdate = strtotime( $newdate );
 
