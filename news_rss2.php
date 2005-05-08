@@ -2,18 +2,27 @@
 /*
  * Converts a typical KDE RDF into a RSS 2 that can be validated
  *
- * Note: the dates need to be RFC 2822 conform, this is done by the "r" format of the gmdate function
+ * Part of the code comes from other KDE PHP functions proecessing RDF/RSS feeds:
+ * media/include/functions.inc
+ * media/include/rss2.inc
+ * media/include/classes/class_rdf.inc
+ *
+ * Note: in the current state, the code is more tailored for the KOffice News.
+ * It might not work out of the box for other KDE news feeds
+ *
+ * Note 2: the dates need to be RFC 2822 conform, this is done by the "r" format of the gmdate function
+ *
+ * Parameters:
+ * $rdf_file: name of the RDF file that is to be transformed to RSS 2
+ * $refered_news_file: full URL of a HTML page where the news are displayed
  */
-function kde_rdf_to_valid_rss2 ( $rdf_file )
+function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
 {
-    global $site_locale;
-    startTranslation( $site_locale );
-
     $file = @fopen( $rdf_file, "r" );
 
     if ($file) {
-        // read 32K, it should be enough to get the header
-        $rf = fread( $file, 32000 ); // ### TODO: support more than 32MB ( rss 2.0 has not any limit )
+        // ### TODO: support more than 32MB ( rss 2.0 has not any limit )
+        $rf = fread( $file, 32000 );
         fclose( $file );
 
         // Process header
@@ -63,9 +72,13 @@ function kde_rdf_to_valid_rss2 ( $rdf_file )
             // Nevertheless we use strtotime to avoid to have a month name table
             $pubdate = strtotime( $datepiece[1] . " " . $datepiece[2] . " " . $datepiece[3] . " UTC");
 
+            // Create link (the reference to a HTML file where the news can be read)
+            $link = $refered_news_file . "#item" . ereg_replace("[^a-zA-Z0-9]", "", $title[1]);
+
             // Write one item
             print( "   <item>\n" );
             print( "    <title>" . $title[1] . "</title>\n" );
+            print "     <link>" . $link . "</link>\n";
             print( "    <pubDate>" . gmdate( "r", $pubdate ) . "</pubDate>\n" ); // ### TODO
             print( "    <description>" . $description[1] . "</description>\n" );
             print( "   </item>\n" );
@@ -80,6 +93,6 @@ function kde_rdf_to_valid_rss2 ( $rdf_file )
 }
 
 header( "Content-Type: application/rss+xml" );
-kde_rdf_to_valid_rss2( "news.rdf" );
+kde_rdf_to_valid_rss2( "news.rdf", "http://www.koffice.org/news.php" );
 
 ?>
