@@ -26,7 +26,7 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
         fclose( $file );
 
         // Process header
-        explode( "<item>", $rf, $header, 1 ); // The header is before the first item
+        $header = explode( "<item>", $rf, 1 ); // The header is before the first item
         ereg( "<title>(.*)</title>", $header[1], $title );
         ereg( "<link>(.*)</link>", $header[1], $link );
         ereg( "<description>(.*)</description>", $header[1], $description );
