@@ -76,17 +76,19 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
             $link = $refered_news_file . "#item" . ereg_replace("[^a-zA-Z0-9]", "", $title[1]);
 
             // Write one item
+            print( "\n" );
             print( "   <item>\n" );
             print( "    <title>" . $title[1] . "</title>\n" );
-            print "     <link>" . $link . "</link>\n";
+            print( "     <link>" . $link . "</link>\n" );
             print( "    <pubDate>" . gmdate( "r", $pubdate ) . "</pubDate>\n" ); // ### TODO
-            print( "    <description>" . $description[1] . "</description>\n" );
+            print( "    <description>" . $description . "</description>\n" );
             print( "   </item>\n" );
         }
 
 
         
         // Write RSS 2 footer
+        print( "\n" );
         print( " </channel>\n" );
         print( "</rss>\n" );
     }
