@@ -69,8 +69,9 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
             // Process date (e.g.: "29th April, 2005")
             // The function strtotime cannot handle the "th" and the comma, so have find day, month and year
             ereg( "([0-9]+)[a-zA-Z]+ +([a-zA-Z]+).+ +([0-9]+)", $date[1], $datepieces );
+            $newdate = $datepiece[1] . " " . $datepiece[2] . " " . $datepiece[3] /*. " UTC"*/;
             // Nevertheless we use strtotime to avoid to have a month name table
-            $pubdate = strtotime( $datepiece[1] . " " . $datepiece[2] . " " . $datepiece[3] . " UTC");
+            $pubdate = strtotime( $newdate );
 
             // Create link (the reference to a HTML file where the news can be read)
             $link = $refered_news_file . "#item" . ereg_replace("[^a-zA-Z0-9]", "", $title[1]);
@@ -79,7 +80,11 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
             print( "\n" );
             print( "   <item>\n" );
             print( "    <title>" . $title[1] . "</title>\n" );
-            print( "     <link>" . $link . "</link>\n" );
+            print( "    <link>" . $link . "</link>\n" );
+
+            //DEBUG:
+            print( "     <!-- Date: " . $date[1] . " gives: " . $newdate . " value: " . $pubdate . "-->\n");
+            
             print( "    <pubDate>" . gmdate( "r", $pubdate ) . "</pubDate>\n" ); // ### TODO
             print( "    <description>" . $description . "</description>\n" );
             print( "   </item>\n" );
