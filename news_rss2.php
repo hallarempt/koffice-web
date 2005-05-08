@@ -15,8 +15,9 @@
  * Parameters:
  * $rdf_file: name of the RDF file that is to be transformed to RSS 2
  * $refered_news_file: full URL of a HTML page where the news are displayed
+ * $base_site: base site URL for relative links
  */
-function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
+function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file, $base_site )
 {
     $file = @fopen( $rdf_file, "r" );
 
@@ -26,7 +27,7 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
         fclose( $file );
 
         // Process header
-        $header = explode( "<item>", $rf, 1 ); // The header is before the first item
+        $header = explode( "<item>", $rf, 2 ); // The header is before the first item
         ereg( "<title>(.*)</title>", $header[1], $title );
         ereg( "<link>(.*)</link>", $header[1], $link );
         ereg( "<description>(.*)</description>", $header[1], $description );
@@ -65,6 +66,7 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
             $description = ereg_replace( "&", "&amp;", $description );
             $description = ereg_replace( "<", "&lt;", $description );
             $description = ereg_replace( ">", "&gt;", $description );
+            $description = ereg_replace( "href=\"/", "href=&quot;". $base_site . "/", $description );
             $description = ereg_replace( "\"", "&quot;", $description );
 
             // Process date (e.g.: "29th April, 2005")
@@ -97,6 +99,6 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
 }
 
 header( "Content-Type: application/rss+xml" );
-kde_rdf_to_valid_rss2( "news.rdf", "http://www.koffice.org/news.php" );
+kde_rdf_to_valid_rss2( "news.rdf", "http://www.koffice.org/news.php", "http://www.koffice.org" );
 
 ?>
