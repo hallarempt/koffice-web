@@ -29,15 +29,15 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file, $base_site )
 
         // Process header
         $pos = strpos( $rf, "<item>" ); // The header is before the first item
-        // ### TODO: test if === -1
-        $header = substr( $rf, 0, $pos - 1 );
+        // ### TODO: test if $pos === FALSE
+        $header = substr( $rf, 0, $pos );
         
-        ereg( "<title>(.*)</title>", $header[1], $title );
-        ereg( "<link>(.*)</link>", $header[1], $link );
-        ereg( "<description>(.*)</description>", $header[1], $description );
-        ereg( "<language>(.*)</language>", $header[1], $language );
-        ereg( "<webMaster>(.*)</webMaster>", $header[1], $webmaster );
-        ereg( "<copyright>(.*)</copyright>", $header[1], $copyright );
+        ereg( "<title>(.*)</title>", $header, $title );
+        ereg( "<link>(.*)</link>", $header, $link );
+        ereg( "<description>(.*)</description>", $header, $description );
+        ereg( "<language>(.*)</language>", $header, $language );
+        ereg( "<webMaster>(.*)</webMaster>", $header, $webmaster );
+        ereg( "<copyright>(.*)</copyright>", $header, $copyright );
 
         // Write RSS 2 header
         print( "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" );
