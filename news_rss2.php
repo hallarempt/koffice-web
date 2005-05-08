@@ -26,13 +26,13 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
         fclose( $file );
 
         // Process header
-        eregi( "<channel>(.*)<item>.*", $rf, $header );
-        eregi( "<title>(.*)</title>", $header[1], $title );
-        eregi( "<link>(.*)</link>", $header[1], $link );
-        eregi( "<description>(.*)</description>", $header[1], $description );
-        eregi( "<language>(.*)</language>", $header[1], $language );
-        eregi( "<webMaster>(.*)</webMaster>", $header[1], $webmaster );
-        eregi( "<copyright>(.*)</copyright>", $header[1], $copyright );
+        explode( "<item>", $rf, $header, 1 ); // The header is before the first item
+        ereg( "<title>(.*)</title>", $header[1], $title );
+        ereg( "<link>(.*)</link>", $header[1], $link );
+        ereg( "<description>(.*)</description>", $header[1], $description );
+        ereg( "<language>(.*)</language>", $header[1], $language );
+        ereg( "<webMaster>(.*)</webMaster>", $header[1], $webmaster );
+        ereg( "<copyright>(.*)</copyright>", $header[1], $copyright );
 
         // Write RSS 2 header
         print( "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" );
@@ -46,7 +46,7 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
         print( "  <copyright>" . $copyright[1] . "</copyright>\n" );
         print( "  <docs>http://blogs.law.harvard.edu/tech/rss</docs>\n" );
         print( "  <ttl>120</ttl>\n" );
-        print( "  <lastBuildDate>" . gmdate( "r", filemtime("./news.rdf") ) ."</lastBuildDate>\n" ); // ### TODO
+        print( "  <lastBuildDate>" . gmdate( "r", filemtime("./news.rdf") ) ."</lastBuildDate>\n" );
 
         // Process and write items
         eregi( "<item>(.*)</item>", $rf, $printing );
@@ -82,11 +82,7 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file )
             print( "   <item>\n" );
             print( "    <title>" . $title[1] . "</title>\n" );
             print( "    <link>" . $link . "</link>\n" );
-
-            //DEBUG:
-            print( "     <!-- Date: " . $date[1] . " gives: " . $newdate . " value: " . $pubdate . "-->\n");
-            
-            print( "    <pubDate>" . gmdate( "r", $pubdate ) . "</pubDate>\n" ); // ### TODO
+            print( "    <pubDate>" . gmdate( "r", $pubdate ) . "</pubDate>\n" );
             print( "    <description>" . $description . "</description>\n" );
             print( "   </item>\n" );
         }
