@@ -25,31 +25,29 @@
 
 <h2>Description</h2>
 
+<p>
+Kexi is an integrated data management application. It can be used for creating database schemas, inserting data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share data and design.
+</p>
 
 <p>
-Kexi is an integrated environment for managing data. It helps in creating database schema, inserting, querying and processing data.
+As a real member of the KDE and KOffice projects, Kexi integrates fluently into both. It is designed to be fully usable also without KDE on Linux/Unix and MS Windows platforms (Mac OS X version planned).
 </p>
 
 <p>
-The idea of this development effort came because of noticeable lack of application like MS Access, FoxPro, Oracle Forms or FileMaker that is powerful enough, inexpensive, open standards driven and highly portable between many OSes and hardware platforms.
+Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many operating systems and hardware platforms. 
 </p>
 
-<p>As Kexi is a real member of the KDE and KOffice projects, it integrates fluently into both.
-<!-- The report generation for instance is done by reusing the well known and well-tried Kugar
-report generator component of the KOffice suite, instead of reinventing the wheel over
-and over again.--> 
-</p>
+
+<h2>The Project</h2>
 
 <p>
 Kexi Project, started in 2002, is developed by <a href="http://www.kexi-project.org/people.html">Kexi Team</a> - an international group of independent developers, since February 2003 with assistance and support from the <a href="http://www.openoffice.com.pl">OpenOffice Polska</a> company.
 </p>
 
 <p>
-The major communication channel in Kexi development is <a href="irc://irc.freenode.net/#kexi">the Kexi IRC channel</a>.
+The major communication channel in Kexi development is <a href="irc://irc.freenode.net/#kexi">the Kexi IRC channel</a> and <a href="http://www.kexi-project.org/wiki/wikiview/">Kexi Development Wiki</a> web site.
 </p>
 
-<!-- p>Another example for the integration into the whole KOffice suite is that Kexi can be used as a
-data provider for mailmerge in KWord.</p -->
 
 <h2>Current version</h2>
 
@@ -60,14 +58,13 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice
 </p>
 
 <p>
-<b>
-Note: Kexi is also slated for a stand-alone 0.9 release later (may 2005).
-</b>
+<b>Note:</b> There are also stand-alone Kexi releases. The most current is 0.9 beta 1. 
+See <a
+href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Beta1Announcement">the announcement</a>.
 </p>
 
 
 <h2>Features</h2>
-
 
 <h3>Basic Database Features</h3>
 <ul>
@@ -95,15 +92,11 @@ At the moment this documentation is written, drivers for the following database 
  <li><a href="http://www.sqlite.org">SQLite</a> (version 2 and 3, file-based, complete)</li>
  <li><a href="http://www.postgresql.org">PostgreSQL (complete)</a></li>
  <li><a href="http://www.mysql.com">MySQL (complete)</a></li>
- <li><a href="http://firebird.sourceforge.net">FireBird/Interbase (planned)</a></li>
+ <li><a href="http://firebird.sourceforge.net"> (planned)</a></li>
 </ul>
 <p>
-It is planned to support also other database systems, especially ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are: SQLite and PostgreSQL.
+It is planned to support also other database systems, especially for FireBird/Interbase and ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are always: SQLite, PostgreSQL and MySQL.
 </p>
-
-<p>
-<b>Note: It is highly recommended to use SQLite based projects for beta testing, since
- other database drivers can be implemented only partly or can be obsolete for current KexiDB API. </b></p>
 
 
 <h2>More</h2>
