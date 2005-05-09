@@ -382,7 +382,7 @@ Meanwhile, work continues on the KOffice 1.2 which will only work on KDE 3.
 <date>31st March, 2002</date>
 <fullstory>
 <a href="mailto:ariyahidayat@yahoo.de">Ariya Hidayat</a> has added a dBase import filter for KSpread.
-Look at the filter <a href="filters/status.php">status</a> page for more information.
+Look at the filter <a href="/filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
@@ -400,7 +400,7 @@ KOffice developers at FOSDEM.
 <date>28th February, 2002</date>
 <fullstory>
 <a href="mailto:ariya@tf.itb.ac.id">Ariya Hidayat</a> has added a Lotus AmiPro filter for kword.
-Look at the filter <a href="filters/status.php">status</a> page for more information.
+Look at the filter <a href="/filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
@@ -437,7 +437,7 @@ The following new import and export filters have been added to KOffice:
 <li>All applications: import and export filter for <b>XSLT</b> (eXtensible Stylesheet Language for 
 Transformations)</li>
 </ul>
-Look at the filter <a href="filters/status.php">status</a> page for more information.
+Look at the filter <a href="/filters/status.php">status</a> page for more information.
 </fullstory>
 </item>
 
