@@ -14,7 +14,7 @@
       <h2>Requirements</h2>
       <p>To compile KOffice you need:</p>
 <ul>
-<li>For KOffice 1.3 or CVS versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
+<li>For KOffice 1.3 or trunk versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
 <li>a C++ compiler which supports exceptions (preferably
 <a href="http://gcc.gnu.org">a recent version of GCC</a>).
@@ -28,7 +28,7 @@ for info about getting and installing it.)
 You must choose now to run the stable KOffice <?php echo $currentversion; ?> or a development version. In case of the
 development version this can mean that it is not usable for end use.
 If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source
-regularly via CVS or CVSUP.</p>
+regularly via SVN.</p>
 
 <h2>Download</h2>
 <p><b>KOffice <?php echo $currentversion; ?> stable</b> is available
@@ -38,13 +38,13 @@ regularly via CVS or CVSUP.</p>
 <a href="http://download.kde.org/unstable/koffice-<?php echo $develversion; ?>/src/">here</a>.</p>
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
-<p>The development version via <b>anonymous CVS</b> (recommended) needs extra instructions, check the
-<a href="http://developer.kde.org/source/anoncvs.html">anoncvs instructions</a>.</p>
-<p>The development version via <b>CVSup</b> needs instructions which are <a href="http://developer.kde.org/source/cvsup.html">here</a>.</p>
-<p>Use cvsup or anoncvs if you plan to update often, since you will save a significant amount
-of time. If you use cvsup or anoncvs, you need to run <tt>make -f Makefile.cvs</tt> before
+<p>The development version via <b>anonymous SVN</b> (recommended) needs extra instructions, check the
+<a href="http://developer.kde.org/source/anonsvn.html">anonsvn instructions</a>.</p>
+
+<p>Use anonsvn if you plan to update often, since you will save a significant amount
+of time. If you use anonsvn, you need to run <tt>make -f Makefile.cvs</tt> before
 running <tt>./configure</tt> in the instructions below, or follow the instructions on the
-cvsup or anoncvs page.<br />
+anonsvn page.<br />
 In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
@@ -74,7 +74,7 @@ Qt snapshot :<br /><br />
 <p>
 And then for each KDE package:<br />
 <em>Make sure you have done the QTDIR export in the Qt dir as pointed out above, this is still used!</em><br /><br />
-<tt>bunzip2 &lt;package&gt;.tar.bz2 or cvs checkout</tt>
+<tt>bunzip2 &lt;package&gt;.tar.bz2</tt> or <tt>svn checkout</tt>
 <br /><tt>tar xvf &lt;package&gt;.tar</tt>
 <br /><tt>cd &lt;package&gt;</tt>
 <br /><tt>./configure</tt>
