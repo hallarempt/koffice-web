@@ -53,10 +53,9 @@
      <li><a href="http://www.rule-project.org/article.php3?id_article=59">The RULE Mini Kde page</a></li>
    </ul>
 
-<?php
- include("rss2.inc");
- kde_general_news_rss2("./news.rdf", 5, true);
-?>
+   <hr />
+
+   <p><a href="news.php">The formerly KOffice Developer News do not exist anymore.</a></p>
 
 <?php
    include("footer.inc");

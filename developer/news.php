@@ -1,14 +1,25 @@
 <?php
   // Header
-  $page_title="KOffice Developer News";
+  $page_title="Former KOffice Developer News";
   $site_root="../";
   include("koffice.inc");
   include("header.inc");
-
-  // Document
-  include("rss2.inc");
-  kde_general_news_rss2("./news.rdf", 25, false);
 ?>
+
+<p>The formerly KOffice Developer News do not exist anymore,
+due to the lack of content.</p>
+
+<p>However the KOffice News still exist:</p>
+
+<ul>
+  <li><a href="../news.php" alt="Link to the KOffice News page">as HTML page</a></li>
+  <li><a href="../news_rss2.php" type="application/rss+xml"
+    alt="Link to the RSS 2 news feed of the KOffice News">as RSS 2.0 news feed</a></li>
+  <li><a href="../news.rdf" alt="Link to KDE RDF/RSS news feed of the KOffice News">as
+  classical KDE RDF/RSS news feed</a></li>
+</ul>
+  
+<p>Happy reading!</p>
 
 <?php
   // Footer
