@@ -2,12 +2,24 @@
 <!DOCTYPE rss SYSTEM "http://my.netscape.com/publish/formats/rss-0.91.dtd">
 <rss version="0.91">
   <channel>
-    <title>koffice.org: KOffice Integrated Suite</title>
+    <title>KOffice News</title>
     <link>http://www.koffice.org/</link>
-    <description>KOffice is an office suite integrated with KDE</description>
+    <description>The news from KOffice, an office suite integrated with KDE</description>
     <language>en-us</language>
-    <webMaster>webmaster@kde.org (Webmaster)</webMaster>
+    <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+
+<item>
+<title>KOffice News as RSS 2 news feed</title>
+<date>14th May, 2005</date>
+<fullstory>
+The <a href="http://www.koffice.org/new.php">KOffice News</a>
+also exists now as
+<a href="http://www.koffice.org/news_rss2.php" type="application/rss+xml">RSS Version 2.0 news feed</a>!
+Of course the news feed is still available in
+<a href="http://www.koffice.org/news.rdf">the KDE RDF/RSS format</a>.
+</fullstory>
+</item>
 
 <item>
 <title>Kexi 0.9 beta 1 released</title>
