@@ -30,7 +30,7 @@
     </li>
 </ul>
 
-<p>Please note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (However some tasks could be backported to the last stable version of KOffice.)</p>
+<p>Please note: if not otherwise specified, the tasks are for KOffice SVN trunk. (However some tasks could be backported to the last stable version of KOffice.)</p>
 
 <?php
    include("footer.inc");

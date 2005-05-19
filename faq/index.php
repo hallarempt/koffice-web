@@ -106,7 +106,7 @@ KOffice developers are always willing to help you if you want to get your hands 
 You should use the latest Qt library, i.e. 3.0.5 (see <ulink url="ftp://ftp.trolltech.com/qt/source/">
 ftp://ftp.trolltech.com/qt/source/</ulink>) and the latest <ulink url="http://www.kde.org">KDE
  libraries</ulink> (eg. 3.0.3 for &KOffice; 1.2; the next &KOffice; release will require
- KDE 3.1 and Qt 3.1). If you are compiling a development version from CVS, this information
+ KDE 3.1 and Qt 3.1). If you are compiling a development version from SVN, this information
  is not up-to-date anymore; consult the <ulink url="http://lists.kde.org">mailing list
  archives</ulink> of the koffice-devel list for information on the needed libraries or ask
  on the <ulink url="mailto:koffice at kde dot org">koffice</ulink> or
@@ -135,9 +135,8 @@ this page.</a>"
 );
 
 $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources up to date?",
-"You need to checkout the module koffice of KDE's CVS either
-by <a href=\"http://developer.kde.org/source/anoncvs.html\">anonymous CVS</a>
-or by <a href=\"http://developer.kde.org/source/cvsup.html\">CVSup</a>.</p>
+"You need to checkout the koffice path of KDE's SVN either
+by <a href=\"http://developer.kde.org/source/anonsvn.html\">anonymous SVN</a>.</p>
 <p>Please keep in mind that the development versions are not supposed to work stable!"
 );
 
@@ -309,7 +308,7 @@ Most &KOffice; applications store their document data as XML code (eXtensible
 <para>
  So the native format is XML, within a ZIP packaging, much like OpenOffice.
  If you want to save uncompressed XML files, for instance to use KOffice in
- conjunction with CVS, you can select the "Uncompressed XML files" format when
+ conjunction with SVN, you can select the "Uncompressed XML files" format when
  saving. This saves everything in a directory - which means you need one
  directory per document. To reopen the document, select maindoc.xml in the
  file dialog.

@@ -9,7 +9,7 @@
 <!-- TODO: make something correct out of the text -->
 <h2>Generalities</h2>
 
-<p>The www module is protected against writing, even for KDE CVS account holders.
+<p>The www module is protected against writing, even for KDE SVN account holders.
 Of course, you can ask for having that write protection removed site by site,
 for example for KOffice.</p>
 
@@ -30,10 +30,10 @@ to commit from time to time in the <a href="/">KOffice web site</a>, you have to
 that you would like to have write permission on www/areas/koffice .
 Do not forget to give your account name.</p>
 
-<p>If you have not an account for KDE CVS yet, 
-<a href="/developer/generalinfo/applycvsaccount.php">see how to apply for one</a>.
+<p>If you have not an account for KDE SVN yet, 
+<a href="http://developer.kde.org/documentation/other/developer-faq.html#q1.8">see how to apply for one</a>.
 You can ask for removing the write protection for you in the same message
-than for applying for a CVS account.
+than for applying for a SVN account.
 </p>
 
 <h2>How Is Site Built</h2>

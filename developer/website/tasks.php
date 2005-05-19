@@ -9,8 +9,8 @@
 
 <p>The following tasks for koffice.org would need some volunteers.</p>
 
-<p>If you send patches for the koffice.org, be careful to use the source in the CVS directory:
-www/areas/koffice</p>
+<p>If you send patches for the koffice.org, be careful to use the source in the SVN directory:
+trunk/www/areas/koffice</p>
 
 <ul>
     <li><em>No predefined web tasks are available currently.</em></li>

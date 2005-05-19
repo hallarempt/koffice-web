@@ -4,7 +4,7 @@
   include("koffice.inc");
   include("header.inc");
 
-# Note: the anchor name is the CVS account name of the respective developer
+# Note: the anchor name is the SVN account name of the respective developer
 ?>
 
 

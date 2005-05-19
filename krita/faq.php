@@ -30,7 +30,7 @@ $faq->addQuestion("What are Krita's Development Goals ?",
 
 $faq->addQuestion("How Does it Work?",
 "This question is answered globally in <a href=\"/developer/krita/\">Developing Krita</a>. The most complete answer
-can of course be found in the <a href=\"http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita\">Krita source.</a>  Krita
+can of course be found in the <a href=\"http://websvn.kde.org/trunk/koffice/krita\">Krita source.</a>  Krita
 is still small enough at under a tenth of the code size of the Gimp that it is fairly easy to 'get into' the codebase, and start adding features. 
 Almost all functionality, from color models to tools, from filters to file formats, from colour pickers screenshot grabbers 
 is implemented as plugins on a small core. You could start you very own first Krita plugin today by simply following the 

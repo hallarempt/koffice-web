@@ -14,7 +14,7 @@ that are more suitable for developer without much experience.</p>
 to be done completely in one go. (For a example a user could do a single file, 
 a single directory... It is more important that some part is done at all.)</p>
 
-<p>Note: if not otherwise specified, the tasks are for KOffice CVS HEAD. (Some of the tasks could be done KDE-wide.)</p>
+<p>Note: if not otherwise specified, the tasks are for KOffice SVN trunk. (Some of the tasks could be done KDE-wide.)</p>
 
 <ul>
     <li>Check spelling errors in comments (Difficulty: *; Sharability: *)</li>

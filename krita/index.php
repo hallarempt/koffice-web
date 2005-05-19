@@ -40,7 +40,7 @@
       The application is almost ready for use, and the architecture provides
       a solid framework to build an application on. Because of the current unfinished state,
       Krita is not yet part of the regular KOffice releases, but the source is
-      available from the KDE CVS repository. We hope to get Krita into a releasable
+      available from the KDE SVN repository. We hope to get Krita into a releasable
       state for KOffice 1.4.
       </p>
 
