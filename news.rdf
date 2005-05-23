@@ -65,7 +65,7 @@ security advice.</a>
 <title>New: KOffice Security Page</title>
 <date>29th December, 2004</date>
 <fullstory>
-<a href="http://www.koffice.org/security">KOffice has now its own security page.</a>
+<a href="http://www.koffice.org/security/">KOffice has now its own security page.</a>
 </fullstory>
 </item>
 
@@ -76,7 +76,7 @@ security advice.</a>
 <b>SECURITY update:</b>
 In KOffice 1.3.x, the PDF import filter is again vulnerable to integer overflows.
 <br />
-<a href="http://kde.org/areas/koffice/releases">Please see in the corresponding
+<a href="http://kde.org/areas/koffice/releases/">Please see in the corresponding
 release notes to see how to apply the new source patch</a>
 </fullstory>
 </item>
