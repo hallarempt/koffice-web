@@ -71,7 +71,7 @@
       bit is the language (in this case French), the second bit is the country (in this
       case FR for France), and the '@euro' is a variant of that locale, that provides the
       euro symbol. If you can't find any relevant locales, make sure you installed the
-      appropriate package (under Mandrake and probably RedHat, it's <code>locales-fr</code>
+      appropriate package (under Mandriva and probably RedHat, it's <code>locales-fr</code>
       for instance).
       <br/>
       To select a locale, add </p>
