@@ -38,10 +38,8 @@
       <p>
       <b>Krita</b> is a painting and image editing application for KOffice.
       The application is almost ready for use, and the architecture provides
-      a solid framework to build an application on. Because of the current unfinished state,
-      Krita is not yet part of the regular KOffice releases, but the source is
-      available from the KDE SVN repository. We hope to get Krita into a releasable
-      state for KOffice 1.4.
+      a solid framework to build an application on. Krita is part of KOffice 
+      since 1.4.
       </p>
 
       <p>
@@ -84,17 +82,18 @@
 
       <h3>Status</h3>
 
-      <p>Krita has been under development since 1999, but that doesn't mean it's
-        anywhere near usable yet. Currently (that is, March 2005) working are:</p>
+      <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
+         pauses between bursts of development wasn't ready for use until 2005. Now Krita is a capable 
+	 image editor and a great platform for future development. The first public release of Krita has
+         the following features:</p>
 
         <ul>
             <li>Painting with brushes and colors</li>
             <li>Creating brushes from circles and squares</li>
-            <li>Filling with colour and patterns</li>
-	        <li>Gradients</li>
+            <li>Filling with colour, patterns and gradients</li>
             <li>Erasing</li>
             <li>Airbrush</li>
-            <li>Simple geometric forms</li>
+            <li>Simple geometric forms, optionally filled with colours, patterns or gradient.</li>
             <li>Many filters</li>
             <li>undo and redo</li>
             <li>Loading and saving of images in its native file format.</li>
@@ -104,11 +103,13 @@
             <li>Loading Gimp brushes, pipe brushes, gradients and patterns.</li>
             <li>Zoom.</li>
             <li>Color selection.</li>
-            <li>Gray(A), RGB(A) and color models.</li>
+            <li>Gray(A), RGB(A) color models.</li>
             <li>Support for Wacom tablets.</li>
-            <li>High-quality scaling</li>
-	    <li>Selections</li>
-            <li>And much, much more</li>
+            <li>High-quality scaling, rotating and shearing.</li>
+	    <li>Selections, with a full set of selection tools.</li>
+    	    <li>A complete color management system based on lcms</li>
+    	    <li>A cimg-based image restoration tool</li>
+    	    <li>Histograms</li>
         </ul>
 
 

@@ -91,8 +91,7 @@ $faq->addQuestion("So, why not? Why reinvent the wheel?",
 
 
 $faq->addQuestion("When will it be released?",
-"Well, Krita may be part of KOffice, it's not nearly usable enough to be released together with KOffice.
- We're working towards inclusion in KOffice 1.4, which will be released July 7, 2005.");
+"The first official, public release of Krita is part of KOffice 1.4, which will be released July 7, 2005.");
 $faq->addQuestion("How Do I Get Involved?", "If you are a potential user, a professional or amateur artist or web designer,
 there is currently nothing you can do for Krita &mdash; but keep an eye open for announcements.<br />
 But If you are a software developer or documentation writer who wants to get involved please contact the Krita mailing list or
