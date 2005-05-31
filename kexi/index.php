@@ -58,9 +58,9 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice
 </p>
 
 <p>
-<b>Note:</b> There are also stand-alone Kexi releases. The most current is 0.9 beta 1. 
+<b>Note:</b> There are also stand-alone Kexi releases. The most current is 0.9. 
 See <a
-href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Beta1Announcement">the announcement</a>.
+href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the announcement</a>.
 </p>
 
 
