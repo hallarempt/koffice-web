@@ -42,8 +42,8 @@
 </ul>
 
 <h3><a name="kotext">KoText library features (shared between KWord and KPresenter)</a></h3>
-<ul>
 <em>Bugfixes:</em>
+<ul>
  <li>Autocorrection fixes:</li>
  <ul>
   <li>redundant-space-removal shouldn't remove tabs</li>
@@ -63,10 +63,6 @@
 
 
 <h3><a name="kword">KWord</a></h3>
-<em>New features:</em>
-<ul>
-</ul>
-
 <em>Changes:</em>
 <ul>
  <li>Added "Apply" button to the frame and "resize column" dialogs</li>
