@@ -89,7 +89,7 @@
  <li>Fixed setting a background color from the frame dialog (<a href="http://bugs.kde.org/show_bug.cgi?id=106029">#106029</a>)</li>
  <li>Avoid two frames with the same z-order after loading</li>
  <li>Fix for "can't scroll to bottom of KWord document after saving".</li>
- <li>Many fixes for footnotes (#72506, #57298, #62360, #84678, #85148)</li>
+ <li>Many fixes for footnotes (<a href="http://bugs.kde.org/show_bug.cgi?id=72506">#72506</a>, <a href="http://bugs.kde.org/show_bug.cgi?id=57298">#57298</a>, <a href="http://bugs.kde.org/show_bug.cgi?id=62360">#62360</a>, <a href="http://bugs.kde.org/show_bug.cgi?id=84678">#84678</a>, <a href="http://bugs.kde.org/show_bug.cgi?id=85148">#85148</a>)</li>
  <li>Show the content of the footnote/endnote in the status barwhen the mouse cursor is placed over a footnote/endnote reference (part of feature #48794)</li>
  <li>Ensure that text runs around frames upon loading, was broken for DTP documents (<a href="http://bugs.kde.org/show_bug.cgi?id=106187">#106187</a>)</li>
  <li>Many improvements to the documentation</li>
@@ -240,7 +240,7 @@
  <li>Fixed crash if the pattern doesn't have an image (<a href="http://bugs.kde.org/show_bug.cgi?id=77476">#77476</a>)</li>
  <li>Fixed "add pattern"</li>
  <li>Don't crash when creating a new layer if any layer contains group objects (<a href="http://bugs.kde.org/show_bug.cgi?id=93903">#93903</a>)</li>
- <li>Update the list according to the z order of the layer (<a href="http://bugs.kde.org/show_bug.cgi?id=68060">#68060</a>)</li>
+ <li>Update the list according to the z order of the layer (#68060)</li>
 </ul>
 
 
