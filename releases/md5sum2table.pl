@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 
 #adjust these two variables to the current version
-$VERSION="1.4-beta1";
+$VERSION="1.4-rc1";
 $STATUS="unstable";
 
 # team names (from kde-i18n/teamnames)
