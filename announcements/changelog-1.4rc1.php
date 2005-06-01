@@ -7,20 +7,25 @@
 
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  vn checkout https://zachmann@svn.kde.org/home/kde/branches/koffice/1.4/koffisvn checkout https://zachmann@svn.kde.org/home/kde/branches/koffice/1.4/koffielease of KOffice 1.4-beta1.
+  release of KOffice 1.4beta1 release.
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <ul>
- <li>Document information dialog: Added keywords and subject for the document, as well as
-        position, company, and telephone (home/work) for the author</li>
- <li>Make the default unit be inch or cm depending on the KDE-wide measure system (imperial or metric)</li>
- <li>Synchronous DCOP interface for scripting load and save</li>
- <li>-dpi command line option to override the DPI detected by X. You can set one value for x and y, or use -dpi x,y</li>
- <li>Improve filter chains to avoid absurd chains (e.g. kword -&gt; plain text -&gt; kspread)</li>
- <li>Startup dialog: themeable icons, correct initial tab, hide non-existent recent local files</li>
- <li>Page layout dialog: better preview, new GUI for margins</li>
- <li>Rulers: made more readable at all resolutions, added tooltips</li>
+ <li>Compilation fixes for gcc4</li>
+ <li>Template dialog now has a default template preselected for first time use</li>
+ <li>Template dialog uses now a tristate checkbox to let the user choose which template</li>
+ <li>to use for the next application startup (#77542)</li>
+ <li>Support for OASIS OpenDocument templates</li>
+ <li>Show error message when trying to load a template that doesn't exist</li>
+ <li>Fixed "closing with embedded doc asks save/discard twice" (#105879)</li>
+ <li>Really delete "removed" templates (#76297)</li>
+ <li>Make sure every template name has a unique file name</li>
+ <li>Fixed "embedded kword document leads to main document being marked as modified right after loading"</li>
+ <li>Hide "Save As KOffice 1.1" from applications that didn't exist in 1.1.</li>
+ <li>Don't insert the OASIS OpenDocument mimetypes twice in the filedialog's filter combo (when saving).</li>
+ <li>OASIS OpenDocument format support: support for metadata (document and author information)</li>
+ <li>Load remote svg pictures which begin with "&gt?xml" (and not only "&gt?XML").</li>
 </ul>
 
 <h3><a name="koshell">KOffice Workspace (koshell)</a></h3>
