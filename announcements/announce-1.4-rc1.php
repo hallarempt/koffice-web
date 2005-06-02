@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-  DATELINE APRIL 29, 2005<br />
+  DATELINE JUNE 02, 2005<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
