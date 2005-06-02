@@ -164,6 +164,9 @@
       
       <b><a href="mailto:js @ iidea . pl">Jaroslaw Staniek</a></b>
       (Kexi)<br />
+
+      <b><a href="mailto:f_edemar@linux.se">Fredrik Edemar</a></b>
+      (KWord, KPresenter, KSpread, KChart)<br />
 </p>
 
 
