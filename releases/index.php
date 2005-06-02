@@ -11,6 +11,7 @@ KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">m
 </p>
 
 <ul>
+  <li><a href="1.3.5-release.php">KOffice 1.3.5 Release</a></li>
   <li><a href="1.3.4-release.php">KOffice 1.3.4 Release</a></li>
   <li><a href="1.3.3-release.php">KOffice 1.3.3 Release</a></li>
   <li><a href="1.3.2-release.php">KOffice 1.3.2 Release</a></li>
