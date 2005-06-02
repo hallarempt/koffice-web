@@ -17,7 +17,7 @@
   $appinfo->addContributor("Jaros&#322;aw Staniek", "js @ iidea . pl");
   $appinfo->addContributor("Adam Pigg", "adam @ piggz . fsnet . co . uk");
   $appinfo->addContributor("C&eacute;dric Pasteur", "cedric . pasteur @ free . fr");
-  $appinfo->addContributor("Martin Ellis", "m . a . ellis @ ncl . ac . uk");
+  $appinfo->addContributor("Martin Ellis", "martin .  ellis @ kdemail . net");
   $appinfo->addContributor("Sebastian Sauer", "mail @ dipe . org");
   $appinfo->addContributor("Christian Nitschkowski", "segfault_ii @ web . de");
   $appinfo->show();
