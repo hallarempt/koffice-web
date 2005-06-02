@@ -12,20 +12,19 @@
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <ul>
- <li>Compilation fixes for gcc4</li>
- <li>Template dialog now has a default template preselected for first time use</li>
- <li>Template dialog uses now a tristate checkbox to let the user choose which template</li>
- <li>to use for the next application startup (<a href="http://bugs.kde.org/show_bug.cgi?id=77542">#77542</a>)</li>
  <li>Support for OASIS OpenDocument templates</li>
+ <li>Template dialog now has a default template preselected for first time use</li>
+ <li>Template dialog uses now a tristate checkbox to let the user choose which template to use for the next application startup (<a href="http://bugs.kde.org/show_bug.cgi?id=77542">#77542</a>)</li>
+ <li>Make sure every template name has a unique file name</li>
+ <li>Really delete "removed" templates (<a href="http://bugs.kde.org/show_bug.cgi?id=76297">#76297</a>)</li>
  <li>Show error message when trying to load a template that doesn't exist</li>
  <li>Fixed "closing with embedded doc asks save/discard twice" (<a href="http://bugs.kde.org/show_bug.cgi?id=105879">#105879</a>)</li>
- <li>Really delete "removed" templates (<a href="http://bugs.kde.org/show_bug.cgi?id=76297">#76297</a>)</li>
- <li>Make sure every template name has a unique file name</li>
  <li>Fixed "embedded kword document leads to main document being marked as modified right after loading"</li>
  <li>Hide "Save As KOffice 1.1" from applications that didn't exist in 1.1.</li>
  <li>Don't insert the OASIS OpenDocument mimetypes twice in the filedialog's filter combo (when saving).</li>
  <li>OASIS OpenDocument format support: support for metadata (document and author information)</li>
- <li>Load remote svg pictures which begin with "&lt?xml" (and not only "&lt?XML").</li>
+ <li>Load remote svg pictures which begin with "&lt;?xml" (and not only "&lt;?XML").</li>
+ <li>Compilation fixes for gcc4</li>
 </ul>
 
 <h3><a name="koshell">KOffice Workspace (koshell)</a></h3>
@@ -52,7 +51,7 @@
   <li>URL detection: URLs beginning with "ftp." are now valid links</li>
   <li>load all week days, from 1 to 7 (not 0 to 6)</li>
   <li>capitalize name of days after a punctuation too</li>
- </ul> 
+ </ul>
  <li>Fixed "completion doesn't show any tooltip for autocompletion" (<a href="http://bugs.kde.org/show_bug.cgi?id=105065">#105065</a>)</li>
  <li>Do not always save a document in OASIS format with striked-out and underlined text (<a href="http://bugs.kde.org/show_bug.cgi?id=92654">#92654</a>)</li>
  <li>Fixed missing color for highlighted match during search-n-replace (<a href="http://bugs.kde.org/show_bug.cgi?id=103787">#103787</a>)</li>
