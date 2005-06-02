@@ -92,7 +92,7 @@ of features, it is only the first stepping stone towards a flexible paint
 application for artists and image editors.
 
 For a list of features supported by Krita, see
- <a href="http://www.koffice.org/announcements/changelog-1.4rc1.php">the changelog</a>.
+ <a href="http://www.koffice.org/krita">the krita information page</a>.
         </div>
       </li>
       <li>
