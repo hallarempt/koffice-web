@@ -8,11 +8,9 @@
   <h2>Specifications</h2>
 
     <ul>
-      <li><a href="http://w3c.org">W3C</a> (XHTML, CSS, XPath, XSL, SVG...)</li>
+      <li><a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument Home Page</a>, contains the specification (in OpenOffice.org format and in PDF), as well as the RelaxNG schemas</a></li>
       <li><a href="http://xml.openoffice.org">OpenOffice's File Format Site</a></li>
-      <!-- TODO: direct link to OO's XML description PDF file -->
-      <li><a href="http://www.oasis-open.org/committees/download.php/6032/office-spec-1.0-cd-1.sxw">OASIS Open Office Specification (in OpenOffice.org format)</a></li>
-      <li><a href="http://www.oasis-open.org/committees/download.php/6033/office-schema-1.0-cd-1.rng">OASIS Open Office Specification (RelaxNG schema)</a></li>
+      <li><a href="http://w3c.org">W3C</a> (XHTML, CSS, XPath, XSL, SVG...)</li>
       <li><a href="http://www.zvon.org/xxl/RelaxNG/Output/index.html">RelaxNG reference</a></li>
     </ul>
 

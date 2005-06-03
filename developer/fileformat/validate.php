@@ -1,17 +1,17 @@
 <?php
-  $page_title="How to validate an OASIS file";
+  $page_title="How to validate an OASIS OpenDocument file";
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
 ?>
 
-  <p>It is important to check that all files produced by KOffice when choosing the OASIS file format,
-  conform to the OASIS RelaxNG schema. Developers will try to ensure that, but it can also be helpful
+  <p>It is important to check that all files produced by KOffice when choosing the OASIS OpenDocument file format,
+  conform to the OASIS OpenDocument RelaxNG schema. Developers will try to ensure that, but it can also be helpful
   to check yourself, in order to help them fix such problems before they create interoperability trouble.</p>
 
   <h2>Download the RelaxNG schemas</h2>
   <p>
-    Your first mission is to download the latest RelaxNG schema of the OASIS open office specification
+    Your first mission is to download the latest RelaxNG schema of the OASIS OpenDocument specification
     from <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">www.oasis-open.org</a>.
     Make sure you take the three RNG schemas, and the human-readable version of the specification as well, with the comments
     (either the .sxw or the .pdf)
