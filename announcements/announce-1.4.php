@@ -61,7 +61,7 @@ OASIS OpenDocument</a> file format, which has become an accepted standard.</li>
 </ul>
 <p>
 Other major improvements include a completely rewritten Excel filter
-which can import as well as export xls files - even pretty good.
+which can import Microsoft Excel files very well.
 KChart has received many improvements, making it much more usable
 and functional than before.
 <br>
