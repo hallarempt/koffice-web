@@ -4,12 +4,21 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-<!-- TODO
-* link to the OpenDocument file format spec (oasis-open) in first paragraph -->
-<p>
-On June 12th, the <a href="http://www.kde.org/">KDE Project</a>
-released KOffice 1.4 for Linux and Unix operating systems. KOffice
-is an integrated set of free office applications based on the
+
+<p align="justify">
+  DATELINE JUNE 21, 2005<br />
+  FOR IMMEDIATE RELEASE
+</p>
+<h2>
+  KDE Ships Final Release of KOffice 1.4 - a Free Integrated Office Suite
+</h2>
+<p align="justify">
+<strong>New Image Editor, New Database Management Application and OASIS OpenDocument
+Support Highlight KOffice 1.4 Release for Linux and Other UNIXes</strong></p>
+<p align="justify">June 21, 2005 (The INTERNET).
+The <a href="http://www.kde.org/">KDE Project</a> today announced the
+immediate release of KOffice 1.4 for Linux and Unix operating systems.
+KOffice is an integrated set of free office applications based on the
 <a href="http://www.kde.org/awards/">award winning</a> KDE desktop.
 KOffice is a light-weight yet feature rich office solution and
 provides a variety of filters to interoperate with other popular
@@ -43,7 +52,7 @@ This full set of integrated components makes KOffice one of the most
 complete office suites available.
 </p>
 <p>
-The most outstanding highlights in the 1.4 release are:
+The most greatest highlights in the 1.4 release are:
 </p>
 <ul>
 <li>Two new applications: <a href="../krita/">Krita</a> and <a href="../kexi/">Kexi</a>.</li>
@@ -62,194 +71,195 @@ THAN FROM THE 1.3 RELEASE.
 <br>
 CONTINUE UPDATING THE ANNOUNCEMENT FROM HERE.</b>
 </p>
-<p>
-<i>"Many people have been asking for improved support for the Microsoft
-document-formats and we have made significant improvements in that area
-for this release,"</i> says David Faure, a KOffice developer for
-Klarälvdalens Datakonsult AB. <i>"Especially the support for Microsoft 
-Word 95/97/2000/XP documents has become much better."</i></p>
+
 <h4>
   Principal Improvements
 </h4>
 <p align="justify">
-  The principal improvements over KOffice 1.2 are:
+  The principal improvements over KOffice 1.3 are:
 </p>
-<p>
-    <u>KWord (Word Processor)</u>.
-</p>
+    <strong>General</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
-        support for automatic hyphenation;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        a new MS Word import filter;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        support for pictures, tables and footnotes in the
-        RTF export filter (which has been re-written);
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        support for pictures and footnotes in the
-        LaTeX export filter;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        a new MS Write export filter and a re-written
-        MS Write import filter;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        support for bookmarks;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        text sorting;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        new character attributes, such as word-by-word
-        underlining and relative font sizes; and
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        improved spell checking (selection only; ignore
-        words; etc.).
-        </div>
-      </li>
-    </ul>
+        <strong>Krita</strong>:
+Krita is an image editor and paint application with a wide range of
+applications, from photo editing to the creation of original artwork.
+Sporting a clear and uncluttered interface (for a paint app...) it makes the
+features it delivers accessible and intuitive to use.
 
-<p>
-    <u>KPresenter (Presentation Tool)</u>.
-</p>
-    <ul type="disc">
-      <li>
-        <div align="justify">
-        support for automatic hyphenation;
+This is the first public release of Krita and while it provides a coherent set
+of features, it is only the first stepping stone towards a flexible paint
+application for artists and image editors.
+
+For a list of features supported by Krita, see
+ <a href="http://www.koffice.org/krita">the krita information page</a>.
         </div>
       </li>
       <li>
         <div align="justify">
-        an improved slide transition dialog, featuring a
-        preview of the slide effect;
+        <strong>Kexi</strong>.
+KOffice 1.4 is the first official release to include Kexi.
+Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
+
+Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.
+
+For a list of features supported by Kexi, see
+ <a href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the kexi website</a>.
         </div>
       </li>
       <li>
         <div align="justify">
-        drawing images with alpha channels;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        customizable printing of slide notes; and
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        improved HTML export as well as usability
-        enhancements to the HTML export wizard.
+        <strong>OASIS OpenDocument support</strong>:
+Most KOffice applications now support the <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument</a> file format. KOffice developer David Faure is part of
+the OASIS technical committee and was able to participate in the discussions that
+led to the creation of this standard file format.
         </div>
       </li>
     </ul>
-<p>
-    <u>KSpread (Spreadsheet)</u>.
-</p>
+  <p />
+    <strong>KWord (Word Processor)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
-        over 100 new formulas (date/time, math, statistical,
-        financial and more);
+         rewritten spell-checking support which is much faster and solves many problems
+         (e.g. KOffice-1.3's right-click-menu sometimes hanging); with aspell,
+         spell-checking is available in more than 70 languages.
         </div>
       </li>
       <li>
         <div align="justify">
-        an OpenCalc import and export filter;
+         word completion with tooltip;
         </div>
       </li>
       <li>
         <div align="justify">
-        a new LaTeX export filter;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        enhancements to the CSV import and export options;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        new date and time formats;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        a subtotal dialog and formula; and
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        default cell styles.
+         a new WordPerfect import filter, based on an external library, libwpd;
         </div>
       </li>
     </ul>
-<p>
-    <u>Kugar / Kugar Designer (Business Reporting)</u>.
-</p>
+  <p />
+    <strong>KPresenter (Presentation Tool)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
-        redesigned to better integrate into the
-        KOffice environment;
+        a master page concept;
         </div>
       </li>
       <li>
         <div align="justify">
-        enhanced handling of items in the designer
-        (cut / copy / paste; undo / redo; manual
-        z-ordering; etc.);
+        reworked dialogs (property editor, object and page effects); and
         </div>
       </li>
       <li>
         <div align="justify">
-        support for printing reports from the
-        command line / scripts; and
+        customizable slide order and selection for slide show.
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>KSpread (Spreadsheet)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         Support for right-to-left spreadsheets;
         </div>
       </li>
       <li>
         <div align="justify">
-        a DCOP interface.
+        much improved value parsing and formatting;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        a calendar plug-in;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        additional options for cell validity, 5 new functions, and
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        a new Microsoft Excel import filter.
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>KChart (Graph and chart drawing tool)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+        New, much improved, data editor;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        linear or logarithmic scale;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        printing support;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        support for data as rows or columns; and
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        export to PNG and SVG formats.
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Kivio (Flow-charting application)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         New stencils: Nassi Schneiderman;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        a docker for adding stencils to the document;
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        a tool for adding connector targets to stencils; and
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        a poly-line connector.
         </div>
       </li>
     </ul>
 <p align="justify">
-  A more complete
-  <a href="http://www.koffice.org/announcements/changelog-1.3.php">list
-  of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
+  A complete
+  <a href="http://www.koffice.org/announcements/changelog-1.4rc1.php">list
+  of changes since KOffice-1.4-beta1</a> is available at the KOffice web site.
 </p>
 <h4>
-  Installing KOffice 1.3 Binary Packages
+  Installing KOffice 1.4rc1 Binary Packages
 </h4>
 <p align="justify">
-  <u>Binary Packages</u>.
+  <strong>Binary Packages</strong>:
+  At the time of this release, there are no pre-compiled packages.
+  The final release will include pre-compiled packages for most Linux distributions.
+  <!--
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.3 for some versions of their distribution, and in other cases
+  KOffice 1.4 rc1 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/stable/koffice-1.3/">http</a> or
-  <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.4-rc1/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
+  -->
 </p>
 <p align="justify">
   Please note that the KDE Project makes these packages available from the
@@ -264,54 +274,60 @@ Word 95/97/2000/XP documents has become much better."</i></p>
   Policy</a> and/or contact your OS vendor.
 </p>
 <p align="justify">
-  <u>Library Requirements / Options</u>.
+  <strong>Library Requirements / Options</strong>:
   The library requirements for a particular binary package vary with the
   system on which the package was compiled.  Please bear in mind that
   some binary packages may require a newer version of Qt and other libraries
   than was shipped with the system (e.g., LinuxDistro X.Y
-  may have shipped with Qt-3.0.0 but the packages below may require
-  Qt-3.0.3).  For general library requirements for KDE, please see the text at
+  may have shipped with Qt-3.3.0 but the packages below may require
+  Qt-3.3.2).  For general library requirements for KDE, please see the text at
   <a href="#source_code-library_requirements">Source Code - Library
   Requirements</a> below.
 </p>
+  <!--
 <p align="justify">
-  <a name="package_locations"><u>Package Locations</u></a>.
-  At the time of this release, pre-compiled packages are available for:
+  <a name="package_locations"><strong>Package Locations</strong></a>:
+  At the time of this release, there are no pre-compiled packages.
+  The final release will include pre-compiled packages for most Linux distributions.
+  pre-compiled packages are available for:
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/stable/koffice-1.3/SuSE/">SUSE Linux</a></li>
-  <li><a href="http://download.kde.org/stable/koffice-1.3/contrib/Slackware/">Slackware Linux</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/Mandriva/">Mandriva Linux 10.2</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/kubuntu/">Kubuntu</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/contrib/Slackware/">Slackware Linux 10.1</a></li>
 </ul>
+-->
 
 <p align="justify">
 Please check the servers periodically for pre-compiled packages for other
-distributions.  More binary packages will become available over the
+distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
 <h4>
-  Compiling KOffice 1.3
+  Compiling KOffice 1.4rc1
 </h4>
 <p align="justify">
-  <a name="source_code-library_requirements"></a><u>Library
-  Requirements</u>.
-  KOffice 1.3 requires the following libraries:
+  <a name="source_code-library_requirements"></a><strong>Library
+  Requirements</strong>:
+  KOffice 1.4 requires the following libraries:
 </p>
 <ul>
   <li>
     <div align="justify">
-    kdelibs 3.1, which can be downloaded following the
-    <a href="http://www.kde.org/info/3.1.5.php">instructions</a>
+    kdelibs 3.3 or 3.4, which can be downloaded following the
+    <a href="http://www.kde.org/info/3.4.php">instructions</a>
     at the KDE website (for more information on these kdelibs releases, please
-    see the <a href="http://www.kde.org/announcements/announce-3.1.5.php">KDE
-    3.1.5 announcement</a>);
+    see the <a href="http://www.kde.org/announcements/announce-3.4.php">KDE
+    3.4 press release</a>);
     </div>
   </li>
   <li>
     <div align="justify">
-    Qt-3.1, which is available in source code from Trolltech as
-    <a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.1.0.tar.gz">qt-x11-free-3.1.0.tar.gz</a>
-    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.1.2.tar.gz">qt-x11-free-3.1.2.tar.gz</a>
+    Qt-3.3, which is available in source code from Trolltech as
+    <a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.0.tar.gz">qt-x11-free-3.3.0.tar.gz</a>
+    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.4.tar.gz">qt-x11-free-3.3.4.tar.gz</a>
     is recommended);
     and
     </div>
@@ -325,18 +341,22 @@ coming days and weeks.
   </li>
 </ul>
 <p align="justify">
-  <u>Compiler Requirements</u>.
-  At a minimum gcc-2.95-* is required.
+  <strong>Compiler Requirements</strong>:
+  Please note that KOffice 1.4rc1 will not
+  compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
+  such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
-  <a name="source_code"></a><u>Source Code</u>.
-  The complete source code for KOffice 1.3 is available for free download
+  <a name="source_code"></a><strong>Source Code</strong>:
+  The complete source code for KOffice 1.4rc1 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/stable/koffice-1.3/src/">http</a>
-  or <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.4-rc1/src/">http</a>
+  or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
+  <!--Additionally, source rpms are available for the following distributions:-->
 </p>
+<!-- INCLUDE PHP FILE HERE -->
 <p align="justify">
-  <u>Further Information</u>.
+  <strong>Further Information</strong>:
   For further instructions on compiling and installing KOffice, please consult
   the KOffice <a href="http://www.koffice.org/download/source.php">installation
   instructions</a>.  For
@@ -352,15 +372,19 @@ coming days and weeks.
   themselves, significant support for KOffice development has been provided by
   <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
   KOffice developer Laurent Montel),
+  <a href="http://www.trolltech.com/">Trolltech</a> (which sponsors
+  KOffice developer David Faure),
   <a href="http://www.thekompany.com/">theKompany.com</a> (which has
   contributed Kivio and Kugar to KOffice),
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
-  Datakonsult AB</a> (which partially sponsors KOffice developer
-  David Faure and has contributed KChart to KOffice) and <a href="http://www.suse.com">SUSE AG</a>
-  which employs Luk&aacute;&scaron; Tinkl, the current KOffice release manager.
-  In addition, a large number of <a href="http://www.kde.org/support/donations.php">individual
-  sponsors</a> (<a href="http://www.kde.org/support/support.php">donate</a>) have
-  provided significant support for KDE and KOffice.  Thanks!
+  Datakonsult AB</a> (which has contributed KChart to KOffice),
+  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which employs Kexi
+    developer Jaros&#322;aw Staniek and sponsored
+    <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
+    project which enabled porting KOffice applications to MS Windows.
+  In addition, <a href="http://www.kde.org/donations.html">individual
+  sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
+  provide significant support for KDE and KOffice. Thanks!
 </p>
 <h4>
   About KOffice/KDE
@@ -375,8 +399,7 @@ coming days and weeks.
   platform.  KDE provides a stable, mature desktop, a full, component-based
   office suite (<a href="http://www.koffice.org/">KOffice</a>), a large
   set of networking and administration tools and utilities, and an
-  efficient, intuitive development environment featuring the
-  <a href="http://www.kde.org/awards/">excellent</a> IDE
+  efficient, intuitive development environment featuring the excellent IDE
   <a href="http://www.kdevelop.org/">KDevelop</a>.  KDE is working proof
   that the Open Source "Bazaar-style" software development model can yield
   first-rate technologies on par with and superior to even the most complex
@@ -385,7 +408,7 @@ coming days and weeks.
 <p align="justify">
   Please visit the KDE family of web sites for the
   <a href="http://www.kde.org/info/faq.php">KDE FAQ</a>,
-  <a href="http://www.kde.org/screenshots/kde310shots.php">screenshots</a>,
+  <a href="http://www.kde.org/screenshots/kde330shots.php">screenshots</a>,
   <a href="http://www.koffice.org/">KOffice information</a> and
   <a href="http://developer.kde.org/documentation/">developer
   information</a>.
@@ -393,11 +416,19 @@ coming days and weeks.
   about KDE is available from KDE's
   <a href="http://www.kde.org/family/">family of web sites</a>.
 </p>
+<p align="justify">
+  <font size="2">
+  <em>Release Coordinator</em>:  Thanks to David Faure
+  for his excellent services as release coordinator.
+  </font>
+</p>
 <hr />
 <p align="justify">
   <font size="2">
-  <em>Release Coordinator</em>:  Thanks to Luk&aacute;&scaron;
-  Tinkl for his excellent services as release coordinator.
+  <em>Press Release</em>:
+  Written by <a href="mailto:raphael.langerhorst AT kdemail DOT net">Raphael
+  Langerhorst</a>.
+<!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
 <p align="justify">
@@ -406,14 +437,14 @@ coming days and weeks.
 
   KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
   Incorporated.
-<!--
+
   Adobe Illustrator and PostScript are registered trademarks of Adobe Systems
 
   dBASE is a registered trademark of dBASE Inc.
 
   Corel, Quattro Pro and WordPerfect are registered trademarks of Corel
   Corporation or Corel Corporation Limited.
--->
+
   Linux is a registered trademark of Linus Torvalds.
 
   Trolltech and Qt are trademarks of Trolltech AS.
@@ -425,7 +456,7 @@ coming days and weeks.
   </font>
 </p>
 <hr />
-<h4>Press Contacts</h4>
+<h2>Press Contacts</h2>
 <table cellpadding="10"><tr valign="top">
 <td>
 
@@ -435,7 +466,7 @@ P.P.Box 30955<br />
 Windhoek<br />
 Namibia<br />
 Phone: +264 - 61 - 24 92 49<br />
-<a href="&#x6d;a&#0105;lt&#0111;:&#x69;&#110;fo-a&#x66;ric&#x61;&#x40;&#x6b;&#0100;&#101;&#x2e;&#x6f;rg">inf&#x6f;&#0045;&#x61;&#00102;&#x72;i&#00099;&#0097;&#64;&#x6b;d&#0101;.&#111;r&#103;</a><br />
+<a href="&#109;a&#105;l&#116;o:&#105;&#110;fo-&#0097;&#0102;r&#105;&#99;a&#x40;k&#100;e.&#111;&#x72;g">info-africa kde.org</a><br />
 </td>
 
 <td>
@@ -445,7 +476,7 @@ C-324 Defence Colony <br />
 New Delhi <br />
 India 110024 <br />
 Phone: +91-981807-8372 <br />
-<a href="&#109;ail&#116;&#0111;&#0058;&#x69;&#00110;&#102;&#111;&#45;&#97;&#x73;&#105;&#97;&#x40;&#00107;d&#101;.o&#x72;&#0103;">&#x69;n&#102;&#x6f;-&#97;s&#105;a&#x40;kd&#x65;&#x2e;or&#0103;</a>
+<a href="ma&#0105;&#108;to&#00058;inf&#00111;-&#97;&#115;&#x69;a&#x40;kde.or&#x67;">info-asia kde.org</a>
 </td>
 
 </tr>
@@ -459,7 +490,7 @@ S-683 92 Hagfors<br />
 Sweden<br />
 Phone: +46-563-540023<br />
 Fax: +46-563-540028<br />
-<a href="ma&#x69;l&#x74;&#111;&#58;&#105;&#110;&#102;o&#x2d;e&#117;r&#111;&#112;e&#64;&#107;&#100;e&#046;or&#x67;">&#105;n&#x66;o&#45;europe&#x40;kd&#101;.org</a>
+<a href="m&#x61;il&#0116;o&#x3a;i&#x6e;fo-&#00101;&#00117;rope&#64;k&#x64;&#x65;&#00046;o&#x72;&#00103;">info-europe kde.org</a>
 </td>
 
 <td>
@@ -469,7 +500,7 @@ George Staikos <br />
 Toronto, ON, M5S 3K5 <br />
 Canada<br />
 Phone: (416)-925-4030 <br />
-<a href="m&#97;ilt&#x6f;&#00058;&#105;&#x6e;&#x66;&#111;&#045;&#0110;&#111;rtha&#109;&#0101;ri&#99;a&#x40;kd&#x65;&#46;&#111;r&#x67;">in&#102;o-&#110;&#111;&#x72;t&#104;am&#101;r&#x69;&#99;a&#64;&#107;&#x64;e.&#x6f;rg</a><br />
+<a href="&#109;ai&#x6c;&#x74;&#x6f;&#0058;i&#x6e;&#0102;o&#0045;no&#0114;t&#104;&#0097;m&#x65;&#x72;i&#x63;&#x61;&#x40;k&#x64;e&#46;&#0111;&#x72;&#x67;">info-northamerica kde.org</a><br />
 </td>
 
 </tr>
@@ -482,7 +513,7 @@ Hamish Rodda<br />
 Eltham VIC 3095<br />
 Australia<br />
 Phone: (+61)402 346684<br />
-<a href="&#x6d;&#00097;&#105;l&#0116;&#111;&#0058;inf&#111;&#45;&#111;&#099;&#101;ani&#097;&#x40;k&#100;e&#046;&#111;rg">&#0105;n&#102;o&#x2d;&#x6f;c&#00101;a&#110;&#x69;&#0097;&#64;&#107;&#100;&#0101;.o&#x72;g</a><br />
+<a href="&#109;&#x61;&#x69;&#x6c;&#x74;o:&#105;&#x6e;fo&#45;&#x6f;c&#101;&#x61;&#110;ia&#064;kde&#00046;org">info-oceania kde.org</a><br />
 </td>
 
 <td>
@@ -492,9 +523,8 @@ R. Jos&eacute; de Alencar 120, apto 1906<br />
 Curitiba, PR 80050-240<br />
 Brazil<br />
 Phone: +55(41)262-0782 / +55(41)360-2670<br />
-<a href="&#x6d;ai&#x6c;&#x74;&#x6f;&#x3a;i&#x6e;&#x66;&#00111;-&#115;o&#117;&#x74;h&#0097;&#109;er&#x69;ca&#x40;&#107;&#100;&#101;&#46;o&#x72;&#103;">inf&#111;-s&#0111;uth&#x61;m&#x65;&#x72;&#x69;&#099;a&#x40;&#x6b;&#00100;&#101;&#x2e;org</a><br />
+<a href="ma&#105;&#x6c;&#116;&#x6f;&#x3a;&#0105;&#110;&#102;&#x6f;-&#00115;&#111;ut&#104;&#97;&#x6d;e&#0114;&#x69;ca&#0064;&#107;d&#x65;.&#111;r&#x67;">info-southamerica kde.org</a><br />
 </td>
-
 
 </tr></table>
 
