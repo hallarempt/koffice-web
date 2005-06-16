@@ -1,4 +1,4 @@
-<?php
+1<?php
   $page_title ='KOffice 1.4 Changelog';
   $site_root = '../';
   include("koffice.inc");
@@ -362,6 +362,11 @@ application for artists and image editors.</p>
 
 <em>Bugfixes:</em>
 <ul>
+ <li>Added true hard paint mode for pen tool</li>
+ <li>Fixed importing photoshop files some (layer location, name and opacity is now respected)</li>
+ <li>Fix wildly changing color button but</li>
+ <li>Much improved rotation and shearing</li>
+ <li>Fixes for inserting Krita objects in other KOffices apps (scaling, mime type recognition)</li>
  <li>Fixed incompatibilities between versions of ImageMagick</li>
  <li>Load and save EXIF annotations for .jpg files.</li>
  <li>Load and save ICC profiles to file formats that support icc (.png, .jpg, .tiff)</li>
