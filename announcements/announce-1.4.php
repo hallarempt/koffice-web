@@ -52,24 +52,25 @@ This full set of integrated components makes KOffice one of the most
 complete office suites available.
 </p>
 <p>
-The most greatest highlights in the 1.4 release are:
+The greatest highlights in the 1.4 release are:
 </p>
 <ul>
-<li>Two new applications: <a href="../krita/">Krita</a> and <a href="../kexi/">Kexi</a>.</li>
+<li><a href="../krita/">Krita</a> and <a href="../kexi/">Kexi</a>, two new applications.</li>
 <li>Integration of the <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">
 OASIS OpenDocument</a> file format, which has become an accepted standard.</li>
 </ul>
 <p>
-Other majore improvements include a completely rewritten Excel filter
+Other major improvements include a completely rewritten Excel filter
 which can import as well as export xls files - even pretty good.
 KChart has received many improvements, making it much more usable
 and functional than before.
 <br>
-<b>INCLUDE FURTHER HIGHLIGHTS HERE. INSERT THE KRITA AND KEXI PARTS FROM THE
-BETA ANNOUNCEMENT. CONSIDER USING MORE FROM THE 1.4 BETA AND RC ANNOUNCEMENTS
-THAN FROM THE 1.3 RELEASE.
-<br>
-CONTINUE UPDATING THE ANNOUNCEMENT FROM HERE.</b>
+<b>INCLUDE FURTHER HIGHLIGHTS HERE.</b>
+</p>
+<p>
+<b>
+CONTINUE UPDATING THE ANNOUNCEMENT FROM HERE.
+<br>ALSO UPDATE THE CHANGES - Principal Improvements</b>
 </p>
 
 <h4>
@@ -87,11 +88,11 @@ Krita is an image editor and paint application with a wide range of
 applications, from photo editing to the creation of original artwork.
 Sporting a clear and uncluttered interface (for a paint app...) it makes the
 features it delivers accessible and intuitive to use.
-
+<br>
 This is the first public release of Krita and while it provides a coherent set
 of features, it is only the first stepping stone towards a flexible paint
 application for artists and image editors.
-
+<br>
 For a list of features supported by Krita, see
  <a href="http://www.koffice.org/krita">the krita information page</a>.
         </div>
@@ -100,10 +101,18 @@ For a list of features supported by Krita, see
         <div align="justify">
         <strong>Kexi</strong>.
 KOffice 1.4 is the first official release to include Kexi.
-Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
-
-Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.
-
+Kexi is an integrated environment for creating and managing databases.
+It can be used for creating database schemas; inserting data; performing
+queries, and processing data. Forms can be created to provide a custom
+interface to your data. All database objects - tables, queries and
+forms - are stored in the database, making it easy to share databases.
+<br>
+Kexi is considered as a long awaited Open Source competitor for MS Access,
+Filemaker and Oracle Forms. Its development is motivated by the lack of
+Rapid Application Development (RAD) tools for database systems that are
+sufficiently powerful, inexpensive, open standards driven and portable
+across many OSes and hardware platforms.
+<br>
 For a list of features supported by Kexi, see
  <a href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the kexi website</a>.
         </div>
@@ -241,11 +250,16 @@ led to the creation of this standard file format.
     </ul>
 <p align="justify">
   A complete
-  <a href="http://www.koffice.org/announcements/changelog-1.4rc1.php">list
+  <a href="http://www.koffice.org/announcements/changelog-1.4.php">list
   of changes since KOffice-1.4-beta1</a> is available at the KOffice web site.
 </p>
+<p>
+If you can't wait to see all these improvements, you can fetch a KOffice 1.4 Live-CD from
+<a href="http://ktown.kde.org/~binner/klax/koffice.html">http://ktown.kde.org/~binner/klax/koffice.html</a>
+which was kindly provided by Stephan Binner.
+</p>
 <h4>
-  Installing KOffice 1.4rc1 Binary Packages
+  Installing KOffice 1.4 Binary Packages
 </h4>
 <p align="justify">
   <strong>Binary Packages</strong>:
@@ -253,10 +267,10 @@ led to the creation of this standard file format.
   The final release will include pre-compiled packages for most Linux distributions.
   <!--
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.4 rc1 for some versions of their distribution, and in other cases
+  KOffice 1.4 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.4-rc1/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.4/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
   -->
@@ -293,10 +307,10 @@ led to the creation of this standard file format.
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/Mandriva/">Mandriva Linux 10.2</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/kubuntu/">Kubuntu</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-rc1/contrib/Slackware/">Slackware Linux 10.1</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4/Mandriva/">Mandriva Linux 10.2</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4/kubuntu/">Kubuntu</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.4/contrib/Slackware/">Slackware Linux 10.1</a></li>
 </ul>
 -->
 
@@ -306,7 +320,7 @@ distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
 <h4>
-  Compiling KOffice 1.4rc1
+  Compiling KOffice 1.4
 </h4>
 <p align="justify">
   <a name="source_code-library_requirements"></a><strong>Library
@@ -342,15 +356,15 @@ coming days and weeks.
 </ul>
 <p align="justify">
   <strong>Compiler Requirements</strong>:
-  Please note that KOffice 1.4rc1 will not
+  Please note that KOffice 1.4 will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
   <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.4rc1 is available for free download
+  The complete source code for KOffice 1.4 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.4-rc1/src/">http</a>
+  <a href="http://download.kde.org/unstable/koffice-1.4/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
