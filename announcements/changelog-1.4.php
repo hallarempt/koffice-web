@@ -7,7 +7,7 @@
 
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 1.4 release.
+  release of KOffice 1.3 release.
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>

@@ -65,6 +65,12 @@ which can import Microsoft Excel files very well.
 KChart has received many improvements, making it much more usable
 and functional than before.
 <br>
+The OASIS OpenDocument is supported by a number of KOffice applications to a large
+extend. This release has not fully switched to the OpenDocument format as a native
+format because the KOffice developers want to have the OpenDocument filters thoroughly
+tested before switching to it as native format. Please send in any feedback
+on the OpenDocument support to make it rock solid as a native format for the
+next KOffice release.
 <b>INCLUDE FURTHER HIGHLIGHTS HERE.</b>
 </p>
 <p>
