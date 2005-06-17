@@ -7,7 +7,8 @@
 
 <p align="justify">
   DATELINE JUNE 21, 2005<br />
-  FOR IMMEDIATE RELEASE
+  <div style="width: 100%; height: 60px; background: red; border: 
+  3px black solid;">This is a draft! DO NOT PUBLISH before announced!</div>
 </p>
 <h2>
   KDE Ships Final Release of KOffice 1.4 - a Free Integrated Office Suite
@@ -407,34 +408,32 @@ coming days and weeks.
   provide significant support for KDE and KOffice. Thanks!
 </p>
 <h4>
-  About KOffice/KDE
+  About KOffice and KDE
 </h4>
 <p align="justify">
-  KOffice is part of the KDE Project.
-  KDE is an independent project of hundreds of developers, translators,
-  artists and professionals worldwide collaborating over the Internet
+  <a href="http://www.koffice.org">KOffice</a> is part of the KDE Project.
+  <a href="http://www.kde.org">KDE</a> is an <a href="/awards/">award-winning</a>,
+  independent <a href="/people/">project of hundreds</a> of developers, translators,
+  artists and other professionals worldwide collaborating over the Internet
   to create and freely distribute a sophisticated, customizable and stable
   desktop and office environment employing a flexible, component-based,
   network-transparent architecture and offering an outstanding development
-  platform.  KDE provides a stable, mature desktop, a full, component-based
+  platform.<p>
+
+<p align="justify">
+  KDE provides a stable, mature desktop including a state-of-the-art browser
+  (<a href="http://konqueror.kde.org/">Konqueror</a>), a personal information
+  management suite (<a href="http://kontact.org/">Kontact</a>), a full 
   office suite (<a href="http://www.koffice.org/">KOffice</a>), a large
-  set of networking and administration tools and utilities, and an
+  set of networking application and utilities, and an
   efficient, intuitive development environment featuring the excellent IDE
-  <a href="http://www.kdevelop.org/">KDevelop</a>.  KDE is working proof
+  <a href="http://www.kdevelop.org/">KDevelop</a>.</p>
+
+<p align="justify">
+  KDE is working proof
   that the Open Source "Bazaar-style" software development model can yield
   first-rate technologies on par with and superior to even the most complex
   commercial software.
-</p>
-<p align="justify">
-  Please visit the KDE family of web sites for the
-  <a href="http://www.kde.org/info/faq.php">KDE FAQ</a>,
-  <a href="http://www.kde.org/screenshots/kde330shots.php">screenshots</a>,
-  <a href="http://www.koffice.org/">KOffice information</a> and
-  <a href="http://developer.kde.org/documentation/">developer
-  information</a>.
-  Much more <a href="http://www.kde.org/whatiskde/">information</a>
-  about KDE is available from KDE's
-  <a href="http://www.kde.org/family/">family of web sites</a>.
 </p>
 <p align="justify">
   <font size="2">
