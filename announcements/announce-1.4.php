@@ -277,7 +277,7 @@ which was kindly provided by Stephan Binner.
   KOffice 1.4 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.4/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.4/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
   -->
@@ -314,10 +314,10 @@ which was kindly provided by Stephan Binner.
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4/Mandriva/">Mandriva Linux 10.2</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4/kubuntu/">Kubuntu</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4/contrib/Slackware/">Slackware Linux 10.1</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.4/Mandriva/">Mandriva Linux 10.2</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.4/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.4/kubuntu/">Kubuntu</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.4/contrib/Slackware/">Slackware Linux 10.1</a></li>
 </ul>
 -->
 
@@ -338,7 +338,7 @@ coming days and weeks.
   <li>
     <div align="justify">
     kdelibs 3.3 or 3.4, which can be downloaded following the
-    <a href="http://www.kde.org/info/3.4.php">instructions</a>
+    <a href="http://www.kde.org/info/3.4.1.php">instructions</a>
     at the KDE website (for more information on these kdelibs releases, please
     see the <a href="http://www.kde.org/announcements/announce-3.4.php">KDE
     3.4 press release</a>);
@@ -371,7 +371,7 @@ coming days and weeks.
   <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.4 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.4/src/">http</a>
+  <a href="http://download.kde.org/stable/koffice-1.4/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
