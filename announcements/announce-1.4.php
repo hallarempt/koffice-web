@@ -74,7 +74,7 @@ KSpread as well as <a href="./changelog-1.4.php">many more</a>.
 </p>
 <p>
 <strong>KOffice is the first office suite supporting the
-OASIS OpenDocument to a large extend.</strong><br>
+OASIS OpenDocument to a large extent.</strong><br>
 These filters are provided for thorough testing
 while still using the KOffice native format as a solid and known to work choice
 for documents. Switching to the OpenDocument format as the new native format is
