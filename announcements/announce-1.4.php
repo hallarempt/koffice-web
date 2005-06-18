@@ -11,7 +11,7 @@
   3px black solid;">This is a draft! DO NOT PUBLISH before announced!</div>
 </p>
 <h2>
-  KDE Ships Final Release of KOffice 1.4 - a Free Integrated Office Suite
+  KDE Ships KOffice 1.4 - a Free Integrated Office Suite
 </h2>
 <p align="justify">
 <strong>New Image Editor, New Database Management Application and OASIS OpenDocument
