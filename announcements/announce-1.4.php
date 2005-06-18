@@ -28,7 +28,8 @@ the KOffice 1.4 release is a large step towards embracing the
 <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">
 OASIS OpenDocument</a> file format which has become an approved
 standard for office file formats. This format is also used by
-OpenOffice.org, thus providing high interoperability.
+the upcoming <a href="http://www.openoffice.org">OpenOffice.org 2.0</a>,
+thus providing high interoperability.
 </p>
 <p>
 KOffice 1.4 consists of the following applications:</p>
