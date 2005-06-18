@@ -1,4 +1,4 @@
-1<?php
+<?php
   $page_title ='KOffice 1.4 Changelog';
   $site_root = '../';
   include("koffice.inc");
@@ -6,8 +6,8 @@
 ?>
 
 <p>
-  The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 1.3 release.
+  The following summarizes the major changes of KOffice since the
+  release of KOffice 1.3.
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
