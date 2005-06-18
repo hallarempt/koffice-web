@@ -7,7 +7,7 @@
 
 <p align="justify">
   DATELINE JUNE 21, 2005<br />
-  <div style="width: 100%; height: 60px; background: red; border: 
+  <div style="width: 100%; height: 60px; background: red; border:
   3px black solid;">This is a draft! DO NOT PUBLISH before announced!</div>
 </p>
 <h2>
@@ -104,7 +104,7 @@ of features, it is only the first stepping stone towards a flexible paint
 application for artists and image editors.
 <br>
 For a list of features supported by Krita, see
- <a href="http://www.koffice.org/krita">the krita information page</a>.
+ <a href="http://www.koffice.org/krita">the Krita information page</a>.
         </div>
       </li>
       <li>
@@ -124,7 +124,7 @@ sufficiently powerful, inexpensive, open standards driven and portable
 across many OSes and hardware platforms.
 <br>
 For a list of features supported by Kexi, see
- <a href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the kexi website</a>.
+ <a href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the Kexi website</a>.
         </div>
       </li>
       <li>
@@ -264,9 +264,7 @@ led to the creation of this standard file format.
   of changes since KOffice-1.4-beta1</a> is available at the KOffice web site.
 </p>
 <p>
-Can't wait to see the new KOffice? Fetch a KOffice 1.4 Live-CD from
-<a href="http://ktown.kde.org/~binner/klax/koffice.html">http://ktown.kde.org/~binner/klax/koffice.html</a>
-which was kindly provided by Stephan Binner.
+Can't wait to see the new KOffice? Fetch the <a href="http://ktown.kde.org/~binner/klax/koffice.html">KOffice 1.4 Live-CD</a>.
 </p>
 <h4>
   Installing KOffice 1.4 Binary Packages
@@ -372,7 +370,7 @@ coming days and weeks.
   The complete source code for KOffice 1.4 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/stable/koffice-1.4/src/">http</a>
-  or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
+  or <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
 <!-- INCLUDE PHP FILE HERE -->
@@ -423,7 +421,7 @@ coming days and weeks.
 <p align="justify">
   KDE provides a stable, mature desktop including a state-of-the-art browser
   (<a href="http://konqueror.kde.org/">Konqueror</a>), a personal information
-  management suite (<a href="http://kontact.org/">Kontact</a>), a full 
+  management suite (<a href="http://kontact.org/">Kontact</a>), a full
   office suite (<a href="http://www.koffice.org/">KOffice</a>), a large
   set of networking application and utilities, and an
   efficient, intuitive development environment featuring the excellent IDE
