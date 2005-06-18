@@ -69,8 +69,8 @@ custom slide orders; KWord now offers much faster spell checking,
 a new Word Perfect import filter and tooltip based autocompletion.
 And Kivio has improved stencil support.
 <br>
-There were also many bugs fixed including printing bugs of KSpread and
-<a href="./changelog-1.4.php">many more</a>.
+There were also many bugs fixed with notable ones like printing bugs in
+KSpread as well as <a href="./changelog-1.4.php">many more</a>.
 </p>
 <p>
 <strong>KOffice is the first office suite supporting the
@@ -264,7 +264,7 @@ led to the creation of this standard file format.
   of changes since KOffice-1.4-beta1</a> is available at the KOffice web site.
 </p>
 <p>
-If you can't wait to see all these improvements, you can fetch a KOffice 1.4 Live-CD from
+Can't wait to see the new KOffice? Fetch a KOffice 1.4 Live-CD from
 <a href="http://ktown.kde.org/~binner/klax/koffice.html">http://ktown.kde.org/~binner/klax/koffice.html</a>
 which was kindly provided by Stephan Binner.
 </p>
@@ -391,7 +391,7 @@ coming days and weeks.
   Besides the valuable and excellent efforts by the
   <a href="http://www.koffice.org/people.php">KOffice developers</a>
   themselves, significant support for KOffice development has been provided by
-  <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
+  <a href="http://www.mandriva.com/">Mandriva</a> (which sponsors
   KOffice developer Laurent Montel),
   <a href="http://www.trolltech.com/">Trolltech</a> (which sponsors
   KOffice developer David Faure),
@@ -412,8 +412,8 @@ coming days and weeks.
 </h4>
 <p align="justify">
   <a href="http://www.koffice.org">KOffice</a> is part of the KDE Project.
-  <a href="http://www.kde.org">KDE</a> is an <a href="/awards/">award-winning</a>,
-  independent <a href="/people/">project of hundreds</a> of developers, translators,
+  <a href="http://www.kde.org">KDE</a> is an <a href="http://www.kde.org/awards/">award-winning</a>,
+  independent <a href="http://www.kde.org/people/">project of hundreds</a> of developers, translators,
   artists and other professionals worldwide collaborating over the Internet
   to create and freely distribute a sophisticated, customizable and stable
   desktop and office environment employing a flexible, component-based,
@@ -457,12 +457,7 @@ coming days and weeks.
   KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
   Incorporated.
 
-  Adobe Illustrator and PostScript are registered trademarks of Adobe Systems
-
-  dBASE is a registered trademark of dBASE Inc.
-
-  Corel, Quattro Pro and WordPerfect are registered trademarks of Corel
-  Corporation or Corel Corporation Limited.
+  WordPerfect is a registered trademarks of Corel Corporation or Corel Corporation Limited.
 
   Linux is a registered trademark of Linus Torvalds.
 
