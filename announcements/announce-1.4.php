@@ -64,20 +64,21 @@ OASIS OpenDocument</a> file format, which has become an accepted standard.</li>
 Other major improvements include a completely rewritten Excel filter
 which can import Microsoft Excel files very well.
 KChart has received many improvements, making it much more usable
-and functional than before.
+and functional than before; KPresenter now supports master pages and
+custom slide orders; KWord now offers much faster spell checking,
+a new Word Perfect import filter and tooltip based autocompletion.
+And Kivio has improved stencil support.
 <br>
-The OASIS OpenDocument is supported by a number of KOffice applications to a large
-extend. This release has not fully switched to the OpenDocument format as a native
-format because the KOffice developers want to have the OpenDocument filters thoroughly
-tested before switching to it as native format. Please send in any feedback
-on the OpenDocument support to make it rock solid as a native format for the
-next KOffice release.
-<b>INCLUDE FURTHER HIGHLIGHTS HERE.</b>
-</p>
-<p>
-<b>
-CONTINUE UPDATING THE ANNOUNCEMENT FROM HERE.
-<br>ALSO UPDATE THE CHANGES - Principal Improvements</b>
+There were also many bugs fixed including printing bugs of KSpread and
+<a href="./changelog-1.4.php">many more</a>.
+<br>
+<strong>KOffice is the first office suite supporting the OASIS OpenDocument to a large
+extend.</strong> These filters are provided for thorough testing
+while still using the KOffice native format as a solid and known to work choice
+for documents. Switching to the OpenDocument format as the new native format is
+planned for the next release when these filters are known to be rock solid and
+functional. With this in mind the current KOffice release provides the
+OASIS OpenDocument filters.
 </p>
 
 <h4>
@@ -270,9 +271,6 @@ which was kindly provided by Stephan Binner.
 </h4>
 <p align="justify">
   <strong>Binary Packages</strong>:
-  At the time of this release, there are no pre-compiled packages.
-  The final release will include pre-compiled packages for most Linux distributions.
-  <!--
   Some Linux/UNIX OS vendors have kindly provided binary packages of
   KOffice 1.4 for some versions of their distribution, and in other cases
   community volunteers have done so.
@@ -280,7 +278,6 @@ which was kindly provided by Stephan Binner.
   <a href="http://download.kde.org/stable/koffice-1.4/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
-  -->
 </p>
 <p align="justify">
   Please note that the KDE Project makes these packages available from the
@@ -312,6 +309,7 @@ which was kindly provided by Stephan Binner.
   The final release will include pre-compiled packages for most Linux distributions.
   pre-compiled packages are available for:
 </p>
+
 
 <ul>
   <li><a href="http://download.kde.org/stable/koffice-1.4/Mandriva/">Mandriva Linux 10.2</a></li>
