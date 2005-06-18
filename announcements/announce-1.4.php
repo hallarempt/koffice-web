@@ -71,9 +71,11 @@ And Kivio has improved stencil support.
 <br>
 There were also many bugs fixed including printing bugs of KSpread and
 <a href="./changelog-1.4.php">many more</a>.
-<br>
-<strong>KOffice is the first office suite supporting the OASIS OpenDocument to a large
-extend.</strong> These filters are provided for thorough testing
+</p>
+<p>
+<strong>KOffice is the first office suite supporting the
+OASIS OpenDocument to a large extend.</strong><br>
+These filters are provided for thorough testing
 while still using the KOffice native format as a solid and known to work choice
 for documents. Switching to the OpenDocument format as the new native format is
 planned for the next release when these filters are known to be rock solid and
