@@ -34,7 +34,7 @@ by default. Thesaurus files for other languages can be
 downloaded at the following sites:</p>
 
 <ul>
-	<li>German thesaurus at <a href="http://thesaurus.kdenews.org/">thesaurus.kdenews.org</a></li>
+	<li>German thesaurus at <a href="http://www.openthesaurus.de/">www.openthesaurus.de</a></li>
 </ul>
 
 <p><strong>Installation:</strong></p>
