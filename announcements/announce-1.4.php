@@ -262,7 +262,7 @@ led to the creation of this standard file format.
 <p align="justify">
   A complete
   <a href="http://www.koffice.org/announcements/changelog-1.4.php">list
-  of changes since KOffice-1.4-beta1</a> is available at the KOffice web site.
+  of changes since KOffice-1.3</a> is available at the KOffice web site.
 </p>
 <p>
 Can't wait to see the new KOffice? Fetch the <a href="http://ktown.kde.org/~binner/klax/koffice.html">KOffice 1.4 Live-CD</a>.
