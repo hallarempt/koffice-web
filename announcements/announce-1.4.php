@@ -302,7 +302,6 @@ Can't wait to see the new KOffice? Fetch the <a href="http://ktown.kde.org/~binn
   <a href="#source_code-library_requirements">Source Code - Library
   Requirements</a> below.
 </p>
-  <!--
 <p align="justify">
   <a name="package_locations"><strong>Package Locations</strong></a>:
   At the time of this release, there are no pre-compiled packages.
@@ -313,11 +312,12 @@ Can't wait to see the new KOffice? Fetch the <a href="http://ktown.kde.org/~binn
 
 <ul>
   <li><a href="http://download.kde.org/stable/koffice-1.4/Mandriva/">Mandriva Linux 10.2</a></li>
-  <li><a href="http://download.kde.org/stable/koffice-1.4/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
   <li><a href="http://download.kde.org/stable/koffice-1.4/kubuntu/">Kubuntu</a></li>
-  <li><a href="http://download.kde.org/stable/koffice-1.4/contrib/Slackware/">Slackware Linux 10.1</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.4/contrib/kde-redhat/redhat">RedHat 9, Red Hat Enterprise 3 and Red Hat Enterprise 4</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.4/contrib/kde-redhat/fedora">Fedora Core 3, Fedora Core 4</a></li>
+  <!--<li><a href="http://download.kde.org/stable/koffice-1.4/SuSE/">SuSE Linux 9.2 and 9.3</a></li>-->
+  <!--<li><a href="http://download.kde.org/stable/koffice-1.4/contrib/Slackware/">Slackware Linux 10.1</a></li>-->
 </ul>
--->
 
 <p align="justify">
 Please check the servers periodically for pre-compiled packages for other

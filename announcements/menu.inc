@@ -1,5 +1,6 @@
 <?php
 $this->addLink("Information", "index.php");
+$this->addLink("KOffice 1.4", "announce-1.4.php");
 $this->addLink("KOffice 1.4rc1", "announce-1.4-rc1.php");
 $this->addLink("KOffice 1.4beta1", "announce-1.4-beta1.php");
 $this->addLink("KOffice 1.3", "announce-1.3.php");
