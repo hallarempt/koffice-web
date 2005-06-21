@@ -50,15 +50,19 @@ The major communication channel in Kexi development is <a href="irc://irc.freeno
 
 
 <h2>Current version</h2>
-
 <p>
-Current Kexi version is 0.8 beta 1, released together with KOffice 1.4 Beta
-1. See <a
-href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4Beta1">the announcement</a>.
+There are two kinds of Kexi release. 
 </p>
 
+<h3>Released with KOffice</h3>
 <p>
-<b>Note:</b> There are also stand-alone Kexi releases. The most current is 0.9. 
+Current Kexi version released together with KOffice 1.4 is <b>0.8</b>. See <a
+href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">the announcement</a>.
+</p>
+
+<h3>Standalone Kexi release</h3>
+<p>
+The most current Kexi released without KOffice is <b>0.9</b>. 
 See <a
 href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the announcement</a>.
 </p>
@@ -66,7 +70,7 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the a
 
 <h2>Features</h2>
 
-<h3>Basic Database Features</h3>
+<h3>Standard Database Features</h3>
 <ul>
  <li>Hiding of the database backend specifics from the user, but allowing advanced users full access at the same time</li>
  <li>Table structure altering (functional)</li>
