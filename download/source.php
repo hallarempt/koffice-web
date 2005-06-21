@@ -7,14 +7,14 @@
 
       <h2>Links For Special Distributions</h2>
       <ul>
-      <li><a href="http://lists.kde.org?l=koffice-devel&amp;m=106571934702580&amp;w=2">
-        KOffice CVS Head with Gideon on Debian</a></li>
+      <li><a href="http://ktown.kde.org/~binner/klax/koffice.html">
+        KOffice <?php echo $currentversion; ?> Live-CD</a></li>
       </ul>
 
       <h2>Requirements</h2>
       <p>To compile KOffice you need:</p>
 <ul>
-<li>For KOffice 1.3 or trunk versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
+<li>For KOffice <?php echo $currentversion; ?> or trunk versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
 <li>a C++ compiler which supports exceptions (preferably
 <a href="http://gcc.gnu.org">a recent version of GCC</a>).
@@ -24,10 +24,10 @@ for info about getting and installing it.)
 </ul>
 
 <h2>Information</h2>
-<p>KOffice stable is currently available as version <?php echo $currentversion; ?>, designed to run with KDE 3.1 and later.<br />
+<p>KOffice stable is currently available as version <?php echo $currentversion; ?>, designed to run with KDE 3.3 and later.<br />
 You must choose now to run the stable KOffice <?php echo $currentversion; ?> or a development version. In case of the
 development version this can mean that it is not usable for end use.
-If you want the development version (where you need at least KDE 3.2) you can choose between a daily snapshot, or obtain source
+If you want the development version (where you need at least KDE 3.3) you can choose between a daily snapshot, or obtain source
 regularly via SVN.</p>
 
 <h2>Download</h2>
@@ -49,7 +49,7 @@ In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
-<p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.2.x, arts, and kdelibs (kdebase recommended too).</p>
+<p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.3.x, arts, and kdelibs (kdebase recommended too).</p>
 <p>For the development version of KOffice you need Qt 3.3.x, arts, and kdelibs 3.3.</p>
 
 <p>Qt can be <a href="ftp://ftp.trolltech.com/qt/source/">download directly from Trolltech</a>

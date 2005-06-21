@@ -15,10 +15,12 @@
       </p>
 
 
-      <h2>Changelog</h2>
+      <h2>Announcement and Changelog</h2>
       <ul>
+      <li><a href="/announcements/announce-1.4.php">Announcement</a></li>
       <li><a href="/announcements/changelog-1.4.php">Changelog</a></li>
       </ul>
+
 
       <h2>Download</h2>
       <p>Both source code and binary packages are available.</p>

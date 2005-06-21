@@ -6,12 +6,12 @@
 ?>
 
      <h2>Information</h2>
-     <p>KOffice is currently available as version <?php echo $currentversion ?> designed to run with KDE 3.1 or later. KOffice is released separately from the rest of
+     <p>KOffice is currently available as version <?php echo $currentversion ?> designed to run with KDE 3.3 or later. KOffice is released separately from the rest of
      KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a newer development version, then you will need to
      <a href="source.php">compile from source</a>.</p>
 
      <h2>Download</h2>
-     <p>Qt 3.1.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
+     <p>Qt 3.3.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
      <p>Download locations can be found
      <a href="../releases/<?php echo $currentversion; ?>-release.php">on the announcements page</a>.</p>
 
