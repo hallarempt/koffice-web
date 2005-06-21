@@ -58,4 +58,10 @@
       <p>Available from the Fink project at 
       <a href="http://fink.sourceforge.net/pdb/search.php?s=koffice">fink.sf.net</a>.</p>
 
+      <h2>See also</h2>
+      <p>
+      <ul><li><a href="http://www.kexi-project.org/wiki/wikiview/index.php?Download">Standalone Kexi releases</a> (binaries and source code), including versions for MS Windows.</a></li>
+      </ul>
+      </p>
+
 <?php include("footer.inc"); ?>
