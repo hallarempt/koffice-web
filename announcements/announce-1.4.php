@@ -7,8 +7,7 @@
 
 <p align="justify">
   DATELINE JUNE 21, 2005<br />
-  <div style="width: 100%; height: 60px; background: red; border:
-  3px black solid;">This is a draft! DO NOT PUBLISH before announced!</div>
+  FOR IMMEDIATE RELEASE!
 </p>
 <h2>
   The KDE Project Ships KOffice 1.4 - a Free Integrated Office Suite
@@ -125,7 +124,7 @@ sufficiently powerful, inexpensive, open standards driven and portable
 across many OSes and hardware platforms.
 <br>
 For a list of features supported by Kexi, see
- <a href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the Kexi website</a>.
+ <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">the Kexi website</a>.
         </div>
       </li>
       <li>
