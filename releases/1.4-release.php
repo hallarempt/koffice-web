@@ -36,8 +36,8 @@
 <?php
 include "md5-koffice-1.4.inc"
 ?>
-      <p>
+<!--      <p>
        Also provided: <a href="md5-pgp-koffice-1.4.txt">a PGP-signed version of the MD5 sums</a>.
-      </p>
+      </p> -->
 
 <?php include("footer.inc"); ?>
