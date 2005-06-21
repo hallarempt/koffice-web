@@ -85,6 +85,7 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the a
 <h3>Data Processing and Access</h3>
 <ul>
  <li>User-defined forms for data input and presentation (functional)</li>
+ <li>Data migration from MySQL, PostgreSQL. Migration from MS Access databases is available as an <a href="http://www.kexi-project.org/wiki/wikiview/index.php?MDBDriver#2._Download">additional plugin</a>. (functional)</li>
  <li>Scripting support with Python and JavaScript/ECMA-Script language and/or Python (in progress)</li>
  <li>KWord mailmerge integration (planned)</li>
  <li>Easy data report generation (rewrite planned)</li>
