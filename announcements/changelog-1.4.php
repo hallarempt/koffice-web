@@ -398,7 +398,6 @@ application for artists and image editors.</p>
 
 <em>Caveats:</em>
 <ul>
- <li>In this beta version exif data embedded in jpeg images is not preserved.</li>
  <li>Some tools and menu options do not yet function completely correctly.</li>
  <li>Printing is not well supported, yet. It is suggested to export as PNG and use KWord for
  printing.</li>
