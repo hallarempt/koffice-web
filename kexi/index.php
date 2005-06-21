@@ -99,7 +99,7 @@ At the moment this documentation is written, drivers for the following database 
  <li><a href="http://www.sqlite.org">SQLite</a> (version 2 and 3, file-based, complete)</li>
  <li><a href="http://www.postgresql.org">PostgreSQL (complete)</a></li>
  <li><a href="http://www.mysql.com">MySQL (complete)</a></li>
- <li><a href="http://firebird.sourceforge.net"> (planned)</a></li>
+ <li><a href="http://firebird.sourceforge.net">Firebird (planned)</a></li>
 </ul>
 <p>
 It is planned to support also other database systems, especially for FireBird/Interbase and ODBC interface, for better corporate usage in the next versions. Typically, most up to date and best supported backends (from KexiDB point of view) are always: SQLite, PostgreSQL and MySQL.
