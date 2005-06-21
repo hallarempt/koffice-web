@@ -24,7 +24,7 @@ KOffice is a light-weight yet feature rich office solution and
 provides a variety of filters to interoperate with other popular
 office suites such as OpenOffice.org and Microsoft Office. In fact
 the KOffice 1.4 release is a large step towards embracing the
-<a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">
+<a href="http://en.wikipedia.org/wiki/OpenDocument">
 OASIS OpenDocument</a> file format which has become an approved
 standard for office file formats. This format is also used by
 the upcoming <a href="http://www.openoffice.org">OpenOffice.org 2.0</a>,
