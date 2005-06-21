@@ -359,6 +359,21 @@ coming days and weeks.
     <a href="http://xmlsoft.org/XSLT/">libxslt</a> &gt;= 1.0.7.
     </div>
   </li>
+  <li>
+    <div align="justify">
+    <a href="http://sourceforge.net/projects/wvware/">libwv2</a> &gt;= 0.1.9 for kword's MSWord import filter
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    <a href="http://www.littlecms.com/downloads.htm">littlecms</a> &gt;= 1.12 for krita
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    <a href="http://sourceforge.net/project/showfiles.php?group_id=24099">imagemagick</a> 6 for krita's import/export filter
+    </div>
+  </li>
 </ul>
 <p align="justify">
   <strong>Compiler Requirements</strong>:
