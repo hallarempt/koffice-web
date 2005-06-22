@@ -7,7 +7,7 @@
 <?php
   $appinfo = new AppInfo("KPlato");
   //$appinfo->setIcon( "pics/hi48-app-kword.png", "48", "48");
-<!--  $appinfo->setVersion($kplatoversion); -->
+  //$appinfo->setVersion($kplatoversion);
   $appinfo->setLicense("lgpl");
   $appinfo->setCopyright("2001", "the KPlato Team");
   $appinfo->addAuthor("Thomas Zander", "zander@kde.org");
