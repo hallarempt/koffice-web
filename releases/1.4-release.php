@@ -40,4 +40,9 @@ include "md5-koffice-1.4.inc"
        Also provided: <a href="md5-pgp-koffice-1.4.txt">a PGP-signed version of the MD5 sums</a>.
       </p>
 
+      <h2>Bugfixes</h2>
+      <p>A fix for <b>KoShell</b> is available, to make it able to save documents.
+        The patch, available <a href="/bugfixes/1.4-koshell-saving.diff">here</a> must be applied
+        against the KOffice 1.4 sources (in the koffice/lib/kofficecore directory).</p>
+
 <?php include("footer.inc"); ?>
