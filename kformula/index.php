@@ -8,7 +8,7 @@
 <?php
   $appinfo = new AppInfo("KFormula");
   $appinfo->setIcon( "pics/hi48-app-kformula.png", "48", "48");
-  $appinfo->setVersion($formulaversion);
+  $appinfo->setVersion($kformulaversion);
   $appinfo->setLicense("gpl");
   $appinfo->setCopyright("2001", "the KFormula Team");
   $appinfo->addAuthor("Andrea Rizzi", "rizzi@kde.org");
