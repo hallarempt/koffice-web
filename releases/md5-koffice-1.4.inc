@@ -5,9 +5,9 @@
 koffice-1.4.0a.tar.bz2</a></td>
 <td><tt>9a8494144962ea5434397289ed326385</tt></td></tr>
 <tr><td>General *</td>
-<td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.3.5-1.4.0.tar.xdelta">
-koffice-1.3.5-1.4.0.tar.xdelta</a></td>
-<td><tt>33668bd83e46cbc5271009b4ed7e6e72</tt></td></tr>
+<td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.3.5-1.4.0a.tar.xdelta">
+koffice-1.3.5-1.4.0a.tar.xdelta</a></td>
+<td><tt>5c6829f73848ecd52818b8dcdb38a900</tt></td></tr>
 <tr><td>General</td>
 <td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-l10n/koffice-l10n-bg-1.4.0.tar.bz2">
 koffice-l10n/koffice-l10n-bg-1.4.0.tar.bz2</a></td>
