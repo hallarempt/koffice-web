@@ -4,6 +4,10 @@
 <td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.4.0.tar.bz2">
 koffice-1.4.0.tar.bz2</a></td>
 <td><tt>3e6fd9f92024de68e5879c22d02a33c5</tt></td></tr>
+<tr><td>General *</td>
+<td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.3.5-1.4.0.tar.xdelta">
+koffice-1.3.5-1.4.0.tar.xdelta</a></td>
+<td><tt>33668bd83e46cbc5271009b4ed7e6e72</tt></td></tr>
 <tr><td>General</td>
 <td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-l10n/koffice-l10n-bg-1.4.0.tar.bz2">
 koffice-l10n/koffice-l10n-bg-1.4.0.tar.bz2</a></td>
