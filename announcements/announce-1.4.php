@@ -360,17 +360,22 @@ coming days and weeks.
   </li>
   <li>
     <div align="justify">
-    <a href="http://sourceforge.net/projects/wvware/">libwv2</a> &gt;= 0.1.9 for kword's MSWord import filter
+    <a href="http://sourceforge.net/projects/wvware/">libwv2</a> &gt;= 0.1.9 for KWord's MS Word import filter
     </div>
   </li>
   <li>
     <div align="justify">
-    <a href="http://www.littlecms.com/downloads.htm">littlecms</a> &gt;= 1.12 for krita
+    <a href="http://libwpd.sourceforge.net">libwpd</a> &gt;= 0.8 for KWord's Word Perfect import filter
     </div>
   </li>
   <li>
     <div align="justify">
-    <a href="http://sourceforge.net/project/showfiles.php?group_id=24099">imagemagick</a> 6 for krita's import/export filter
+    <a href="http://www.littlecms.com/downloads.htm">littlecms</a> &gt;= 1.12 for Krita
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    <a href="http://sourceforge.net/project/showfiles.php?group_id=24099">imagemagick</a> 6 for Krita's import/export filter
     </div>
   </li>
 </ul>
