@@ -1,9 +1,9 @@
 <table border="0" cellpadding="4" cellspacing="0">
 <tr><th align="left">Description</th><th align="left">Location</th><th align="left">MD5&nbsp;Sum</th></tr>
 <tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.4.0.tar.bz2">
-koffice-1.4.0.tar.bz2</a></td>
-<td><tt>3e6fd9f92024de68e5879c22d02a33c5</tt></td></tr>
+<td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.4.0a.tar.bz2">
+koffice-1.4.0a.tar.bz2</a></td>
+<td><tt>9a8494144962ea5434397289ed326385</tt></td></tr>
 <tr><td>General *</td>
 <td><a href="http://download.kde.org/stable/koffice-1.4/src/koffice-1.3.5-1.4.0.tar.xdelta">
 koffice-1.3.5-1.4.0.tar.xdelta</a></td>

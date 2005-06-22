@@ -29,11 +29,6 @@
       <li><a href="/download/">Binary packages</a></li>
       </ul>
 
-      <h2>Bugfixes</h2>
-      <p>A fix for <b>KoShell</b> is available, to make it able to save documents.
-        The patch, available <a href="/bugfixes/1.4-koshell-saving.diff">here</a> must be applied
-        against the KOffice 1.4 sources (in the koffice/lib/kofficecore directory).</p>
-
       <h2>MD5 sums</h2>
       <p>
        The MD5 sums for the tarballs are:
