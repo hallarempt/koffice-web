@@ -8,7 +8,7 @@
 <?php
 $faq = new FAQ();
 
-$faq-addQuestion("What an ugly name! It doesn't mean anything either, does it?",
+$faq->addQuestion("What an ugly name! It doesn't mean anything either, does it?",
 "Krita is Swedish for chalk or pencil. That 'rita' is also Swedish for to draw and that 
 the name Krita could be read a k-rita was unintentional. The reason for this name is
 that preceding maintainers were fairly sure that we wouldn't get hit by lawyers again
