@@ -26,8 +26,8 @@ $faq->addQuestion("Yet another Paint Program?",
 "Why, yes. Why not? As a KOffice application, Krita should integrate with KDE more tightly than the Gimp
  could ever hope to do. By following the KDE User Interface Design guidelines, users won't have to switch
  between user interface paradigms. And, last but not least, different projects can work towards different
- design goals. The Gimp isn't designed for the creation of original art; it is an image manipulation application,
- not a paint application. Krita could become that free paint application that is still missing.");
+ design goals. Krita could become the free paint application, a Deep Paint or Corel Painter (but
+ better!) that is still missing.");
 
 $faq->addQuestion("What are Krita's Development Goals ?",
  "Krita is primarily a painting program, although it has image processing capabilities.
@@ -39,7 +39,7 @@ $faq->addQuestion("What are Krita's Development Goals ?",
 $faq->addQuestion("How Does it Work?",
 "This question is answered globally in <a href=\"/developer/krita/\">Developing Krita</a>. The most complete answer
 can of course be found in the <a href=\"http://websvn.kde.org/trunk/koffice/krita\">Krita source.</a>  Krita
-is still small enough at under a tenth of the code size of the Gimp that it is fairly easy to 'get into' the codebase, and start adding features. 
+is still small enough that it is fairly easy to 'get into' the codebase, and start adding features.
 Almost all functionality, from color models to tools, from filters to file formats, from colour pickers screenshot grabbers 
 is implemented as plugins on a small core. You could start you very own first Krita plugin today by simply following the 
 lead of the example plugin");
@@ -95,24 +95,32 @@ using Perl to give the Gimp a KDE interface. This is a completely new applicatio
 the same design goals as the Gimp does.");
 
 $faq->addQuestion("So, why not? Why reinvent the wheel?",
-"Because we don't want to do the same thing as the Gimp.");
-
+"Because we don't want to do the same thing as the Gimp. The Gimp is outstanding at what it does, and
+there's indeed no reason to reinvent the wheel.");
 
 $faq->addQuestion("When will it be released?",
-"The first official, public release of Krita is part of KOffice 1.4, which will be released July 7, 2005.");
-$faq->addQuestion("How Do I Get Involved?", "If you are a potential user, a professional or amateur artist or web designer,
-there is currently nothing you can do for Krita &mdash; but keep an eye open for announcements.<br />
-But If you are a software developer or documentation writer who wants to get involved please contact the Krita mailing list or
- me, <a href=\"mailto:boud@valdyas.org\">Boudewijn</a>.  Your help is always welcome.  All of the code is written in very
- clear C++ using Qt and Kde libraries, and there's not all that much of it, a mere 50.000 lines, a tenth of
- the size of the Gimp. It's not hard, really...<br />
-   Documentation is initially written in English in DocBoox XML format and then translated into dozens of national languages.
-    The final output is in HTML in each language for which translations are made.<br />
-If you represent a company or organization which wants its specific software and/or hardware products to smoothly interface
-with Krita, please contact the current maintainers or the Krita mailing list. We will be happy to work with you.
- Source code is open and freely available to help you better write your own plugins and interfaces, and your
- questions will be answered in the mailing list.  Dozens or even hundreds of KDE developers not directly working
- on Krita to pitch in from time to time to look into specific technical issues and answer questions.");
+"The first official, public release of Krita is part of KOffice 1.4, has been released June 20, 2005.
+The next release will contain the first painterly features.");
+
+$faq->addQuestion("Would you like bug reports?",
+"Definitely. Even wishlist reports. Please take care to include backtraces if you've got a crash,
+and if there's an image that breaks Krita for you, try to attach the image to the report. If it's
+too big, mail <a href=\"mailto:boud@valdyas.org\">me</a>, and we'll find a formula. About wishlist items:
+it may be a good idea to read our <a href=\"http://websvn.kde.org/trunk/koffice/krita/TODO\">TODO</a>, which
+is already quite extensive and probably contains your wish already.");
+
+
+$faq->addQuestion("Can I get in on this thing?",
+"Indubitably. The best thing you can do is use and enjoy Krita!  Learn to use Krita and
+teach others. Create tutorials and sample files, create artwork to show
+ ff what Krita can do and spread the good word. And if you want to be more directly involved, well,
+I didn't know any C++ when I started hacking on Krita and I managed. You can do that, too!
+And if you don't feel like hacking C++ -- well, there's the manual that needs someone attending to it,
+a set of tutorials would be nice, I'm everlastingly needing more artwork for interface elements, and finally,
+I really appreciate reports from people using it, telling me about their workflow and what hampers or
+helps them.");
+
+
 $faq->show();
 ?>
 <?php include("footer.inc"); ?>
