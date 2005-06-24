@@ -121,7 +121,7 @@
       (various KWord filters, picture support of the KOffice library)<br />
 
       <b><a href="m&#x61;i&#x6c;to&#58;&#x6a;o&#x77;&#101;n&#110;&#x40;k&#00100;&#x65;.o&#0114;&#103;">Joseph Wenninger</a></b>
-       (KWord Mail merge)<br />
+       (KWord Mail merge, Kexi)<br />
 
       <b><a href="m&#00097;&#105;&#108;&#0116;&#111;&#58;&#114;jac&#x6f;&#108;&#0105;&#110;&#0064;i&#x66;r&#97;nce.&#99;&#x6f;&#00109;">Robert Jacolin</a></b>
       (Latex filters, XSLT filter)<br />
@@ -156,10 +156,13 @@
       <b><a href="&#x6d;&#x61;il&#116;&#x6f;&#x3a;lu&#107;&#097;&#x73;&#x40;k&#x64;&#x65;&#x2e;&#00111;&#114;g">Luk&aacute;&scaron; Tinkl</a></b>
       (KPresenter, KSpread, filters)<br />
 
+      <b><a href="lucijan@kde.org">Lucijan Busch</a></b>
+      (Kexi)<br />
+
       <b><a href="ma&#0105;lt&#x6f;:p&#115;&#110;&#064;li&#x6e;u&#120;&#x2e;&#x73;e">Peter Simonsson</a></b>
       (Kivio, Kexi)<br />
       
-      <b><a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaroslaw Staniek</a></b>
+      <b><a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b>
       (Kexi)<br />
 
       <b><a href="&#109;&#x61;&#x69;&#x6c;&#116;&#00111;:&#102;&#x5f;&#101;demar&#x40;l&#x69;&#110;ux.&#115;e">Fredrik Edemar</a></b>
