@@ -32,7 +32,8 @@
       <a href="&#x6d;&#097;&#x69;l&#0116;&#111;:&#00102;a&#117;&#x72;e&#x40;kde&#x2e;&#x6f;&#114;g">David Faure</a>,&nbsp;
       <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
       <b>KSpread &amp; KChart: <a href="&#109;ail&#0116;&#x6f;&#x3a;&#109;&#111;n&#116;&#101;&#x6c;&#64;kde.org">Laurent Montel</a>, <a href="mailto:inge@lysator.liu.se">Inge Wallin</a></b><br />
-      <b>KPresenter: <a href="mailto:t.zachmann@zagge.de">Thorsten Zachmann</a></b><br /> 
+      <b>KPresenter: <a href="mailto:t.zachmann@zagge.de">Thorsten Zachmann</a>,&nbsp;
+      <a href="montel@kde.org">Laurent Montel</a></b><br /> 
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
       <b>Krita: <a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
       <b>Kexi: <a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b><br />
@@ -63,6 +64,14 @@
 
       <b><a href="&#109;a&#105;&#x6c;&#116;o:&#66;&#00105;l&#x69;b&#x61;&#0111;&#x40;&#111;u&#0118;&#101;r&#x74;ure.it">Andrea Rizzi</a></b>
       (KFormula)<br />
+      
+      <b><a
+      href="m&#97;&#x69;lto:&#117;lri&#x63;h&#46;&#107;u&#x65;tt&#0108;e&#00114;&#00064;&#x6d;&#0097;&#105;&#108;&#x62;&#x6f;x.&#x74;u&#45;&#x64;&#114;&#x65;sde&#00110;&#00046;de">Ulrich
+      Kuettler</a></b>
+      (KFormula)<br />
+      
+      <b><a href="mailto:hadacek@kde.org">Nicolas Hadacek</a></b>
+      (KWord PDF Import/Export filter)<br />
 
       <b><a href="&#x6d;a&#x69;lto&#x3a;kus&#x40;i&#00116;i&#x2e;&#99;&#x73;.&#x75;&#110;&#x69;-&#x6d;&#x61;gde&#098;urg&#46;d&#x65;">Kai-Uwe Sattler</a></b>
       (Kontour)<br />
@@ -189,6 +198,9 @@
 
       <b><a href="mailto:segfault_ii@web.de">Christian Nitschkowski</a></b>
       (Kexi)<br />
+      
+      <b><a href="mailto:bramschoenmakers@kde.nl">Bram Schoenmakers</a></b>
+      (KWord and KSpread HTML export filters)
 
 </p>
 
