@@ -104,7 +104,7 @@
       (Import/Export Filters, KOffice Library, graphite)<br />
 
       <b><a href="m&#00097;ilt&#111;:&#x6d;&#x6f;n&#00116;&#101;l&#x40;&#x6b;de&#x2e;or&#00103;">Laurent Montel</a></b>
-      (KSpread, KChart, KPresenter, KWord)<br />
+      (KSpread, KChart, KPresenter, KWord, Krita)<br />
 
       <b><a href="&#109;&#0097;il&#116;&#111;&#58;s&#114;&#0104;aq&#0117;e&#0064;i&#00101;&#0101;.&#111;&#x72;&#x67;">Shaheed Haque</a></b>
       (MS Word(tm) Import Filter, KWord)<br />
@@ -122,7 +122,7 @@
       (KPresenter)<br />
 
       <b><a href="ma&#x69;lt&#x6f;&#58;&#115;ve&#110;&#00064;&#107;&#x64;&#101;&#x2e;&#x6f;r&#00103;">Sven L&uuml;ppken</a></b>
-      (KWord)<br />
+      (KWord, Krita)<br />
 
       <b><a href="&#x6d;&#97;i&#x6c;&#0116;o:&#97;&#114;&#00105;ya&#x40;&#x6b;de.&#0111;&#x72;g">Ariya Hidayat</a></b>
       (Filters, KSpread)<br />
@@ -200,8 +200,55 @@
       (Kexi)<br />
       
       <b><a href="mailto:bramschoenmakers@kde.nl">Bram Schoenmakers</a></b>
-      (KWord and KSpread HTML export filters)
+      (KWord and KSpread HTML export filters)<br />
+      
+      <b><a href="mailto:Adrian.Page@tesco.net">Adrian Page</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:kde@bartcoppens.be">Bart Coppens</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:carpdjih@cetus.zrz.tu-berlin.de">Carsten Pfeiffer</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:cbr@boemann.dk">Casper Boemann</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:dang@kde.org">Clarence Dang</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:cyb@lepi.org">Cyrille Berger</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:dirk.schoenberger@sz-online.de">Dirk Schoenberger</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:danny@dannyallen.co.uk">Danny Allen</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:jcaliff@compuzone.net">John Califf</a></b>
+      (Krita)<br />
 
+      <b><a href="mailto:me@kde.org">Matthias Elter</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:mfranz@kde.org">Melchior Franz</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:koch@kde.org">Michael Koch</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:michael.thaler@physik.tu-muenchen.de">Michael Thaler</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:freak@codepimps.org">Patrick Julien</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:roger.larsson@norran.net">Roger Larsson</a></b>
+      (Krita)<br />
+      
+      <b><a href="mailto:fujioka@kde.org">Toshitaka Fujioka</a></b>
+      (Krita)<br />
 </p>
 
 
