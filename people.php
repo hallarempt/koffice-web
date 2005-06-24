@@ -33,9 +33,10 @@
       <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
       <b>KSpread &amp; KChart: <a href="&#109;ail&#0116;&#x6f;&#x3a;&#109;&#111;n&#116;&#101;&#x6c;&#64;kde.org">Laurent Montel</a>, <a href="mailto:inge@lysator.liu.se">Inge Wallin</a></b><br />
       <b>KPresenter: <a href="mailto:t.zachmann@zagge.de">Thorsten Zachmann</a></b><br /> 
-      <b>Krita: <a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
-      <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
+      <b>Krita: <a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
+      <b>Kexi: <a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b><br />
+      <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
 	  <b>SVN Repository, Configure-Scripts and Makefiles: <a href="&#0109;&#x61;ilt&#111;:c&#111;&#111;&#108;&#111;&#64;k&#x64;e.o&#00114;&#103;">Stephan Kulow</a></b><br />
       </p>
       
@@ -169,6 +170,22 @@
 
       <b><a href="mailto:mecirt@gmail.com">Tomas Mecir</a></b>
       (KSpread)<br />
+
+      <b><a href="mailto:adam@piggz.fsnet.co.uk">Adam Pigg</a></b>
+      (Kexi)<br />
+
+      <b><a href="mailto:cedric.pasteur@free.fr">C&eacute;dric Pasteur</a></b>
+      (Kexi)<br />
+
+      <b><a href="mailto:martin.ellis@kdemail.net">Martin Ellis</a></b>
+      (Kexi)<br />
+
+      <b><a href="mailto:mail@dipe.org">Sebastian Sauer</a></b>
+      (Kexi)<br />
+
+      <b><a href="mailto:segfault_ii@web.de">Christian Nitschkowski</a></b>
+      (Kexi)<br />
+
 </p>
 
 
