@@ -18,6 +18,9 @@
   $appinfo->addContributor("Ariya Hidayat", "ariya@kde.org");
   $appinfo->addContributor("Norbet Andres", "nandres@web.de"); 
   $appinfo->addContributor("Luk&aacute;&scaron; Tinkl", "lukas@kde.org"); 
+  $appinfo->addContributor("Raphael Langerhorst", "raphael.langerhorst@kdemail.net"); 
+  $appinfo->addContributor("Tomas Mecir", "mecirt@gmail.com"); 
+  $appinfo->addContributor("Inge Wallin", "inge@lysator.liu.se"); 
   $appinfo->show();
 ?>
 
