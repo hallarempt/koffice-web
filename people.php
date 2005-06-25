@@ -39,7 +39,7 @@
       <b>Kexi: <a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b><br />
       <b>KPlato: <a href="mailto:danders@get2net.dk">Dag Andersen</a></b><br />
       <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
-      <b>KOffice Workspace: <a href="Sven.Lueppken@fh-swf.de">Sven L&uuml;ppken</a></b><br />
+      <b>KOffice Workspace: <a href="mailto:sven@kde.org">Sven L&uuml;ppken</a></b><br />
       <b>Documentation: <a href="raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></b><br />
 	  <b>SVN Repository, Configure-Scripts and Makefiles: <a href="&#0109;&#x61;ilt&#111;:c&#111;&#111;&#108;&#111;&#64;k&#x64;e.o&#00114;&#103;">Stephan Kulow</a></b><br />
       </p>
