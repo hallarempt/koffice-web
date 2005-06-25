@@ -33,7 +33,7 @@
       <b>KWord: <a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a>,&nbsp; 
       <a href="&#x6d;&#097;&#x69;l&#0116;&#111;:&#00102;a&#117;&#x72;e&#x40;kde&#x2e;&#x6f;&#114;g">David Faure</a>,&nbsp;
       <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
-      <b>KSpread &amp; KChart: <a href="&#109;ail&#0116;&#x6f;&#x3a;&#109;&#111;n&#116;&#101;&#x6c;&#64;kde.org">Laurent Montel</a>, <a href="mailto:inge@lysator.liu.se">Inge Wallin</a></b><br />
+      <b>KSpread: <a href="&#109;ail&#0116;&#x6f;&#x3a;&#109;&#111;n&#116;&#101;&#x6c;&#64;kde.org">Laurent Montel</a></b><br />
       <b>KPresenter: <a href="mailto:t.zachmann@zagge.de">Thorsten Zachmann</a>,&nbsp;
       <a href="montel@kde.org">Laurent Montel</a></b><br /> 
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
