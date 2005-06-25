@@ -124,7 +124,7 @@
       (KPresenter)<br />
 
       <b><a href="ma&#x69;lt&#x6f;&#58;&#115;ve&#110;&#00064;&#107;&#x64;&#101;&#x2e;&#x6f;r&#00103;">Sven L&uuml;ppken</a></b>
-      (KWord, Krita, koshell)<br />
+      (KWord, koshell)<br />
 
       <b><a href="&#x6d;&#97;i&#x6c;&#0116;o:&#97;&#114;&#00105;ya&#x40;&#x6b;de.&#0111;&#x72;g">Ariya Hidayat</a></b>
       (Filters, KSpread)<br />
