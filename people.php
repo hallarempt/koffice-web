@@ -29,7 +29,7 @@
       
       <p>
       <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
-      <b>KOffice Workspace: <a href="mailto:Sven.Lueppken@fh-swf.de">Sven L&uuml;ppken</a></b><br />
+      <b>KOffice Workspace: <a href="mailto:sven@kde.org">Sven L&uuml;ppken</a></b><br />
       <b>KWord: <a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a>,&nbsp; 
       <a href="&#x6d;&#097;&#x69;l&#0116;&#111;:&#00102;a&#117;&#x72;e&#x40;kde&#x2e;&#x6f;&#114;g">David Faure</a>,&nbsp;
       <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
