@@ -28,6 +28,8 @@
       <h2>Current maintainers by project</h2>
       
       <p>
+      <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
+      <b>KOffice Workspace: <a href="mailto:Sven.Lueppken@fh-swf.de">Sven L&uuml;ppken</a></b><br />
       <b>KWord: <a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a>,&nbsp; 
       <a href="&#x6d;&#097;&#x69;l&#0116;&#111;:&#00102;a&#117;&#x72;e&#x40;kde&#x2e;&#x6f;&#114;g">David Faure</a>,&nbsp;
       <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
@@ -35,12 +37,14 @@
       <b>KPresenter: <a href="mailto:t.zachmann@zagge.de">Thorsten Zachmann</a>,&nbsp;
       <a href="montel@kde.org">Laurent Montel</a></b><br /> 
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
+      <b>Karbon14: </b><br />
       <b>Krita: <a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
+      <b>Kugar: <a href="mailto:treat@kde.org">Adam Treat</a></b><br />
       <b>Kexi: <a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b><br />
       <b>KPlato: <a href="mailto:danders@get2net.dk">Dag Andersen</a></b><br />
-      <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
-      <b>KOffice Workspace: <a href="mailto:sven@kde.org">Sven L&uuml;ppken</a></b><br />
-      <b>Documentation: <a href="raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></b><br />
+      <b>KChart: <a href="mailto:inge@lysator.liu.se">Inge Wallin</a></b><br />
+      <b>KFormula: </b><br />
+      <b>Documentation: <a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></b><br />
 	  <b>SVN Repository, Configure-Scripts and Makefiles: <a href="&#0109;&#x61;ilt&#111;:c&#111;&#111;&#108;&#111;&#64;k&#x64;e.o&#00114;&#103;">Stephan Kulow</a></b><br />
       </p>
       
@@ -179,12 +183,18 @@
 
       <b><a href="&#109;&#x61;&#x69;&#x6c;&#116;&#00111;:&#102;&#x5f;&#101;demar&#x40;l&#x69;&#110;ux.&#115;e">Fredrik Edemar</a></b>
       (KWord, KPresenter, KSpread, KChart)<br />
+      
+      <b><a href="mailto:mpmcbride7@yahoo.com">Mike McBride</a></b>
+      (KWord handbook)<br />
 
       <b><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></b>
       (KSpread, Documentation)<br />
 
       <b><a href="mailto:mecirt@gmail.com">Tomas Mecir</a></b>
       (KSpread)<br />
+      
+      <b><a href="mailto:inge@lysator.liu.se">Inge Wallin</a></b>
+      (KChart, KSpread)<br />
 
       <b><a href="mailto:adam@piggz.fsnet.co.uk">Adam Pigg</a></b>
       (Kexi)<br />
@@ -251,6 +261,12 @@
       
       <b><a href="mailto:fujioka@kde.org">Toshitaka Fujioka</a></b>
       (Krita)<br />
+      
+      <b><a href="mailto:buis@kde.org">Rob Buis</a></b>
+      (Karbon14)<br />
+      
+      <b><a href="mailto:treat@kde.org">Adam Treat</a></b>
+      (Kugar)<br />
 </p>
 
 
