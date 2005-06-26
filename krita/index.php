@@ -12,23 +12,23 @@
   $appinfo->setVersion($kritaversion);
   $appinfo->setLicense("gpl");
   $appinfo->setCopyright("2000", "the Krita Team");
-  $appinfo->addAuthor("Michael Koch", "koch@kde.org");
-  $appinfo->addAuthor("Matthias Elter", "me@kde.org");
-  $appinfo->addAuthor("Andrew Richards", "physajr@phys.canterbury.ac.nz");
-  $appinfo->addAuthor("Carsten Pfeiffer", "pfeiffer@kde.org");
-  $appinfo->addAuthor(" Toshitaka Fujioka", "fujioka@kde.org");
-  $appinfo->addAuthor("John Califf", "jcaliff@compuzone.net");
-  $appinfo->addAuthor("Patrick Julien", "freak@codepimps.org");
-  $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org");
-  $appinfo->addContributor("Sven Langkamp", "longamp@reallygood.de");
-  $appinfo->addContributor("Cyrille Berger", "cyb@lepi.org");
-  $appinfo->addContributor("Adrian Page", "Adrian.Page@tesco.net");
-  $appinfo->addContributor("Bart Coppens", "kde@bartcoppens.be");
+  $appinfo->addAuthor("Michael Koch", "&#107;&#0111;c&#104;&#x40;&#107;d&#00101;.&#x6f;r&#x67;");
+  $appinfo->addAuthor("Matthias Elter", "me&#64;&#x6b;de&#46;or&#103;");
+  $appinfo->addAuthor("Andrew Richards", "ph&#121;&#00115;a&#106;r&#00064;&#112;h&#121;&#x73;.can&#116;&#101;r&#98;&#00117;r&#121;&#0046;&#00097;c&#00046;&#x6e;&#x7a;");
+  $appinfo->addAuthor("Carsten Pfeiffer", "&#x70;&#x66;e&#x69;&#102;&#102;&#x65;&#x72;&#x40;&#x6b;de&#x2e;&#x6f;r&#103;");
+  $appinfo->addAuthor(" Toshitaka Fujioka", "&#0102;&#117;&#106;&#x69;o&#x6b;a&#0064;&#x6b;de&#x2e;&#x6f;rg");
+  $appinfo->addAuthor("John Califf", "&#0106;c&#097;&#108;&#0105;&#x66;f&#x40;&#x63;o&#109;p&#117;zone.&#x6e;&#101;t");
+  $appinfo->addAuthor("Patrick Julien", "freak&#x40;&#099;&#x6f;d&#101;&#x70;im&#112;&#x73;.o&#x72;&#x67;");
+  $appinfo->addContributor("Boudewijn Rempt", "&#98;ou&#100;&#064;&#118;ald&#121;a&#00115;.o&#0114;g");
+  $appinfo->addContributor("Sven Langkamp", "lo&#00110;&#x67;&#x61;&#x6d;&#0112;&#x40;r&#x65;al&#108;&#x79;g&#x6f;&#x6f;d&#0046;d&#101;");
+  $appinfo->addContributor("Cyrille Berger", "cyb&#64;le&#112;i&#0046;or&#103;");
+  $appinfo->addContributor("Adrian Page", "Adrian.&#x50;age&#0064;&#0116;es&#99;&#111;.net");
+  $appinfo->addContributor("Bart Coppens", "&#107;&#x64;&#101;&#64;b&#097;&#x72;&#116;co&#x70;&#x70;en&#115;.b&#x65;");
   $appinfo->addContributor("Clarence Dang", "dang at kde dot org");
-  $appinfo->addContributor("Michael Thaler", "michael.thaler@physik.tu-muenchen.de");
+  $appinfo->addContributor("Michael Thaler", "michael.thal&#x65;&#0114;&#x40;ph&#00121;&#00115;&#x69;k&#46;tu&#045;&#x6d;&#117;&#101;&#x6e;&#99;h&#0101;n&#46;&#00100;&#x65;");
   $appinfo->addContributor("Dirk Sch&ouml;nberger", "");
   $appinfo->addContributor("Casper Boemann", "");
-  $appinfo->addContributor("Daniel Molkentin", "danimo@kde.org");
+  $appinfo->addContributor("Daniel Molkentin", "d&#x61;&#x6e;&#105;&#00109;&#00111;&#0064;kde.or&#x67;");
 
   $appinfo->show();
 ?>
@@ -64,7 +64,7 @@
       <p>
       To join the development, contact one of the developers or join the
       KImageShop (Krita) mailing list.  To join the list, send mail to
-      <a href="mailto:kimageshop-request@kde.org">kimageshop-request@kde.org</a>
+      <a href="m&#x61;&#0105;l&#116;&#111;&#58;&#x6b;&#105;&#x6d;a&#x67;e&#x73;&#104;&#0111;p-req&#x75;e&#115;&#116;&#64;k&#100;e&#0046;&#111;&#x72;g">kimageshop-re&#113;&#117;e&#115;&#x74;&#x40;&#x6b;&#x64;e.&#0111;&#114;&#x67;</a>
       with the subject &quot;subscribe <i>your email address</i>&quot;. Please
       don't include a signature or other information that would confuse the
       list server that processes your request.
