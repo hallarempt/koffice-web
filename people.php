@@ -177,6 +177,9 @@
 
       <b><a href="ma&#0105;lt&#x6f;:p&#115;&#110;&#064;li&#x6e;u&#120;&#x2e;&#x73;e">Peter Simonsson</a></b>
       (Kivio, Kexi)<br />
+
+      <b><a href="mailto:livne@kde.org">Meni Livne</a></b>
+      (KSpread)<br />
       
       <b><a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b>
       (Kexi)<br />
