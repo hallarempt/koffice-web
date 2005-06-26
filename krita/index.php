@@ -82,6 +82,9 @@
 
       <h3>Status</h3>
 
+	<p>Who's working on what, and what's planned to be done can be found on the <a href="http://wiki.kde.org/krita+todo">
+	Krita TODO and who's doing what</a> page.</p>
+
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
          pauses between bursts of development wasn't ready for use until 2005. Now Krita is a capable 
 	 image editor and a great platform for future development. The first public release of Krita has
