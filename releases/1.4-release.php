@@ -31,10 +31,26 @@
       <ul>
       <li><a href="/bugfixes/koffice_1.4.0_patchset_1b.diff.bz2">Download the patch</a></li>
       <li>bunzip2 koffice_1.4.0_patchset_1b.diff.bz2</li>
-      <li>apply the patch in the top directory of the unpacked KOffice 1.4.0a sourcecode:
+      <li>apply the patch in the top directory of the unpacked KOffice 1.4.0a sourcecode:<br>
       patch -p0 &lt; koffice_1.4.0_patchset_1b.diff</li>
       <li>Then compile and install KOffice as described <a href="/download/source.php">here</a>.</li>
       </ul>
+      
+      <h3>1.4.0b Changes since 1.4.0a</h3>
+      <p>
+      <ul>
+      <li>Crash when pressing Quit on startup
+      (<a href="http://bugs.kde.org/show_bug.cgi?id=107911">107911</a>)</li>
+      <li>KSpread crashes when rendering obscured cells
+      (<a href="http://bugs.kde.org/show_bug.cgi?id=108659">108659</a>)</li>
+      <li>KWord crash when updating TOC with table inside of it
+      (<a href="http://bugs.kde.org/show_bug.cgi?id=107961">107961</a>)</li>
+      <li>Revised OASIS saving in KSpread</li>
+      <li>Revised OASIS support in KPresenter</li>
+      <li>Many improvements and bugfixes in Krita and Kexi.</li>
+      <li>Various other bugfixes.</li>
+      </ul>
+      </p>
 
 
       <h2>Download</h2>
