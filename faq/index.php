@@ -59,7 +59,7 @@ have their own mailing lists.</p>
 
 // CHECK: Kexi, Kugar, KPlato
 $faq->addQuestion("Which KOffice application do exist?",
-"Following applications exist and are part of KOffice 1.3:</p>
+"Following applications exist and are part of KOffice 1.4:</p>
 <ul>
 <li>KWord - a word processor</li>
 <li>KSpread - a spread sheet</li>
@@ -69,11 +69,12 @@ $faq->addQuestion("Which KOffice application do exist?",
 <li>KFormula - a formel editor</li>
 <li>KChart - a tool for drawing charts and diagrams</li>
 <li>Kugar - a database report creator</li>
+<li>Krita - an image manipulation program</li>
+<li>Kexi - a database management tool</li>
 </ul>
 <p>Following applications are planned for future versions:</p>
 <ul>
-<li>Krita - an image manipulation program</li>
-<li>Kexi - a database management tool</li>
+<li>KPlato - a project management program</li>
 </ul>
 <p>&nbsp;" # dummy paragraph
 );
@@ -88,7 +89,7 @@ applications are only planned for future KOffice releases."
 
 // CHECK: "sync" is an abbreviation
 $faq->addQuestion("What is the current state of KOffice?",
-"At the time of this writing, KOffice 1.3 has been released. KOffice is released separately
+"At the time of this writing, KOffice 1.4.0 has been released. KOffice is released separately
 from the rest of KDE, so KOffice releases are not in sync with those of KDE."
 );
 
@@ -279,13 +280,13 @@ like for examples CUPS or lpr. KOffice applications print by using Qt's PostScri
 can unfortunately lead to limitations (like for printing EPS files.)"
 );
 
-### OASIS, not OO
 $faq->addQuestion("What data format does KOffice read and write natively?",
 "KOffice documents are zipped files. Inside these files KOffice's data is
 stored in XML files. Pictures however are directly stored as binary.</p>
 <p>Up to KOffice 1.3, the XML tags used by KOffice's applications are private to
-KOffice. From KOffice 1.4 on, we plan to switch to OpenOffice.org compatible file
-formats."
+KOffice. From KOffice 1.4.1, you can use the OASIS OpenDocument support in most
+applications, to e.g. exchange documents with OpenOffice.org.
+In the future we plan to switch to that format by default."
 );
 
 /*
@@ -315,7 +316,6 @@ Most &KOffice; applications store their document data as XML code (eXtensible
 </para>
 */
 
-// CHECK: add InfoZIP's URL for unzip?
 $faq->addQuestion("I am stuck without KOffice. How can I get at least the text out of the KOffice files?",
 "As KOffice files are zipped, you need to unzip them with any program that can handle ZIP files."
 );
@@ -334,12 +334,12 @@ also based on XML but different."
 );
 
 $faq->addQuestion("Which international text encodings does KOffice support?",
-"KOffice uses Unicode everywhere. However this unfortunately do not mean that every language will display well."
+"KOffice uses Unicode everywhere."
 );
 
 $faq->addQuestion("Does KOffice support languages that write right to left?",
 "KOffice supports languages written from right to left. Left-to-right text mixed in right-to-left text works too.
-However we have not any developer that can write such languages, so any help is welcome."
+However none of the main developers can write such languages, so any help is welcome."
 );
 
 $faq->addQuestion("Does KOffice support languages that write top to bottom?",
@@ -347,9 +347,7 @@ $faq->addQuestion("Does KOffice support languages that write top to bottom?",
 );
 
 $faq->addQuestion("Does KOffice support Indic scripts?",
-"No, sorry, not yet! Especially KWord and KPresenter do not use Qt directly for drawing text
-and therefore the support for Indic script that is in Qt 3.2 has no effect in KOffice 1.2 or 1.3.
-Of course, help would be welcomed in this case too."
+"Partially. KOffice 1.4 has support for some Indic scripts (depending on your Qt version, too)."
 );
 
 
@@ -431,8 +429,8 @@ $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter,
 "Yes, there are filters for KWord. <a href=\"/filters\">See this page for documentation.</a></p>
 <p>Some filters are not always working well, as implementing a filter depends on the available documentation
 of the file format.</p>
-<p>Please note that in KOffice 1.3, it is recommended to save as RTF (Rich Text Format) to exchange with other word
-processors! (PDF can be a good file format too for importing into KWord.)"
+<p>Please note that in KOffice 1.4, it is recommended to save as RTF (Rich Text Format) to exchange with MS-Word.
+(PDF can be a good file format too for importing into KWord.)"
 );
 
 $faq->addSection("KSpread");
