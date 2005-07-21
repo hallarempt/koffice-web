@@ -101,8 +101,10 @@
 
 <h3><a name="kexi">Kexi</a></h3>
 <ul>
-<li>Fix compilation on FreeBSD's version of gcc</li>
-<li>Fix crash on startup on FreeBSD (#109025)</li>
+<li>Fix compilation using gcc</li>
+<li>Fix crash on startup when Kexi is started from K Menu (#109025)</li>
+<li>Form widgets: shadow in label widgets is properly set for altered indenting, 
+margins and alignment</li>
 </ul>
 
 <!--
