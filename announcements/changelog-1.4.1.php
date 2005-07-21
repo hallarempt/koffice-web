@@ -7,23 +7,23 @@
 
 <p>
   The following summarizes the major changes and bugfixes to the KOffice Suite since the
-  release of KOffice 1.4.
+  release of KOffice 1.4.0a.
 </p>
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <p>KOfficeCore:</p>
 <ul>
 <li>OASIS loading/saving fix for embedded objects</li>
-<li>Fix crash when pressing Quit in the initial startup dialog (<a href="http://bugs.kde.org/show_bug.cgi?id=107911">107911</a>)</li>
+<li>Fix crash when pressing Quit in the initial startup dialog (<a href="http://bugs.kde.org/show_bug.cgi?id=107911">#107911</a>)</li>
 <li>Fix the handling of Automatically select filename extension when directory was selected</li>
 </ul>
 
 <p>KOffice UI:</p>
 <ul>
 <li>Fix typing a URL in startup dialog and clicking OK; the URL wasn't loaded
-(<a href="http://bugs.kde.org/show_bug.cgi?id=109000">109000</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=109000">#109000</a>)</li>
 <li>Fix "Always start X with this template" behaving as if it was checked when it wasn't
-(<a href="http://bugs.kde.org/show_bug.cgi?id=108843">108843</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=108843">#108843</a>)</li>
 </ul>
 
 <h3>KOffice Workspace:</h3>
@@ -34,13 +34,13 @@
 <h3><a name="kword">KWord</a></h3>
 <ul>
 <li>Fix crash when updating a TOC with a table inside it
-(<a href="http://bugs.kde.org/show_bug.cgi?id=107961">107961</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=107961">#107961</a>)</li>
 </ul>
 
 <h4><a name="kwordoasis">KWord OASIS OpenDocument support</h4>
 <ul>
 <li>Fixed loading of headers and footers
-(<a href="http://bugs.kde.org/show_bug.cgi?id=107424">107424</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=107424">#107424</a>)</li>
 <li>Implemented saving of headers and footers</li>
 <li>Implemented saving and loading columns (count and spacing)</li>
 <li>Fix for text:h without outline-level</li>
@@ -48,7 +48,7 @@
 <li>Save office:font-face-decls tag so that OOo loads the fonts</li>
 <li>Fixed loading of font sizes specified as a percentage</li>
 <li>Implemented loading of list indentation (space-before)
-(<a href="http://bugs.kde.org/show_bug.cgi?id=109223">109223</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=109223">#109223</a>)</li>
 <li>Improved OOo compatibility when saving page breaks</li>
 <li>Save first page number the right way so that OOo can load it</li>
 </ul>
@@ -58,7 +58,7 @@
 <ul>
 <li>Fix painting shadows of all 2D shapes</li>
 <li>Fixed "copy-page has a little offset for embedded objects"
-(<a href="http://bugs.kde.org/show_bug.cgi?id=105878">105878</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=105878">#105878</a>)</li>
 </ul>
 
 <h4><a name="kwordoasis">KPresenter OASIS OpenDocument fixes for polyline, polygon and regular-polygon</h4>
@@ -73,7 +73,7 @@
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
 <li>Fix crash related to obscured cells in rendering code
-(<a href="http://bugs.kde.org/show_bug.cgi?id=108659">108659</a>)</li>
+(<a href="http://bugs.kde.org/show_bug.cgi?id=108659">#108659</a>)</li>
 </ul>
 
 <!--
@@ -85,25 +85,31 @@
 
 <h3><a name="krita">Krita</a></h3>
 <ul>
-<li>Fix bug <a href="http://bugs.kde.org/show_bug.cgi?id=108398">108398</a>
-(Guides don't do anything useful & don't get painted often enough)</li>
+<li>Fix bug #<a href="http://bugs.kde.org/show_bug.cgi?id=108398">#108398</a>
+(Guides don't do anything useful &amp; don't get painted often enough)</li>
 <li>Move the layers palette to the control box docker, so there's one docker less on screen</li>
 <li>Add shortcut keys for many more actions (Thanks to Alan)</li>
 <li>Various performance optimizations</li>
 <li>On selecting the crop tool when there is a selections present, crop</li>
 <li>Crop layer on double click</li>
-<li>Fix bug 108704: Crash when copying with ctrl+c</li>
-<li>Fix bug 108397: crashing on (external) clipboard change</li>
-<li>Fix Bug 107994: Moving a detached docker resizes it to a minimum</li>
-<li>Fix Bug 107938: Select all and cut/copy makes Krita hang</li>
-<li>Improved .psd loading (subbug of: Bug 107122: Layers box behaves strangely)</li>
+<li>Fix bug <a href="http://bugs.kde.org/show_bug.cgi?id=108704">#108704</a>:
+Crash when copying with ctrl+c</li>
+<li>Fix bug <a href="http://bugs.kde.org/show_bug.cgi?id=108397">#108397</a>:
+crashing on (external) clipboard change</li>
+<li>Fix bug <a href="http://bugs.kde.org/show_bug.cgi?id=107994">#107994</a>:
+Moving a detached docker resizes it to a minimum</li>
+<li>Fix bug <a href="http://bugs.kde.org/show_bug.cgi?id=107938">#107938</a>:
+Select all and cut/copy makes Krita hang</li>
+<li>Improved .psd loading (subbug of: bug <a href="http://bugs.kde.org/show_bug.cgi?id=107122">#107122</a>:
+Layers box behaves strangely)</li>
 </ul>
 
 <h3><a name="kexi">Kexi</a></h3>
 <ul>
 <li>Fix compilation using gcc</li>
-<li>Fix crash on startup when Kexi is started from K Menu (#109025)</li>
-<li>Form widgets: shadow in label widgets is properly set for altered indenting, 
+<li>Fix crash on startup when Kexi is started from K Menu
+(<a href="http://bugs.kde.org/show_bug.cgi?id=109025">#109025</a>)</li>
+<li>Form widgets: shadow in label widgets is properly set for altered indenting,
 margins and alignment</li>
 </ul>
 
