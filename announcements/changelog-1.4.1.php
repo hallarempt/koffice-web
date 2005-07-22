@@ -85,7 +85,7 @@
 
 <h3><a name="krita">Krita</a></h3>
 <ul>
-<li>Fix bug #<a href="http://bugs.kde.org/show_bug.cgi?id=108398">#108398</a>
+<li>Fix bug <a href="http://bugs.kde.org/show_bug.cgi?id=108398">#108398</a>
 (Guides don't do anything useful &amp; don't get painted often enough)</li>
 <li>Move the layers palette to the control box docker, so there's one docker less on screen</li>
 <li>Add shortcut keys for many more actions (Thanks to Alan)</li>
@@ -106,7 +106,7 @@ Layers box behaves strangely)</li>
 
 <h3><a name="kexi">Kexi</a></h3>
 <ul>
-<li>Fix compilation using gcc</li>
+<li>Fix compilation using gcc on some platforms</li>
 <li>Fix crash on startup when Kexi is started from K Menu
 (<a href="http://bugs.kde.org/show_bug.cgi?id=109025">#109025</a>)</li>
 <li>Form widgets: shadow in label widgets is properly set for altered indenting,
