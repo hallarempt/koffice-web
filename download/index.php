@@ -16,9 +16,12 @@
      <a href="../releases/<?php echo $currentversion; ?>-release.php">on the announcements page</a>.</p>
 
       <h1>Download Binaries: KOffice <?php echo $currentversion; ?></h1>
-      Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
-      <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here</a>.
-      Please note these builds are not supported by the KOffice team which provides source packages only.
+      <p>Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
+      <a href="http://download.kde.org/stable/koffice-1.4/">here (koffice-1.4)</a> and
+      <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.
+      Please note these builds are not supported by the KOffice team which provides source packages only.</p>
+
+      <p><a href="www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
 
       <h1>Installing Binaries</h1>
       <br />
