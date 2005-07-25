@@ -65,6 +65,10 @@ changes</a> to see all the improvements made to KOffice since the
 <a href="http://www.koffice.org/announcements/announce-1.4.php">1.4 release</a>.
 </p>
 
+<p>
+Can't wait to see the new KOffice? Fetch the <a href="http://ktown.kde.org/~binner/klax/koffice.html">KOffice 1.4.1 Live-CD</a>.
+</p>
+
 <h3>Getting KOffice 1.4.1</h3>
 <p>
 Download information can be found on the
