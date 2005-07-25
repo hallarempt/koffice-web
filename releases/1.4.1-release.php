@@ -9,8 +9,8 @@
 
       <h2>Announcement and Changelog</h2>
       <ul>
-      <li><a href="/announcements/announce-1.4.php">Announcement</a></li>
-      <li><a href="/announcements/changelog-1.4.php">Changelog</a></li>
+      <li><a href="/announcements/announce-1.4.1.php">Announcement</a></li>
+      <li><a href="/announcements/changelog-1.4.1.php">Changelog</a></li>
       </ul>
 
       <h2>Download</h2>
