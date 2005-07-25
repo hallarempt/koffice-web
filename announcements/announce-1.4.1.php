@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-  DATELINE JUNE 25, 2005<br />
+  DATELINE JULY 25, 2005<br />
   DRAFT VERSION, DO NOT USE UNTIL ANNOUNCED!
 </p>
 <h2>
