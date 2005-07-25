@@ -26,7 +26,7 @@
 (<a href="http://bugs.kde.org/show_bug.cgi?id=108843">#108843</a>)</li>
 </ul>
 
-<h3>KOffice Workspace:</h3>
+<h3>KOffice Workspace</h3>
 <ul>
 <li>Has an icon, finally :)</li>
 </ul>
