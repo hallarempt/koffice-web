@@ -7,7 +7,6 @@
 
 <p align="justify">
   DATELINE JULY 25, 2005<br />
-  DRAFT VERSION, DO NOT USE UNTIL ANNOUNCED!
 </p>
 <h2>
   The KDE Project Ships KOffice 1.4.1 - a Free Integrated Office Suite
