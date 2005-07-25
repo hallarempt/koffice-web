@@ -37,7 +37,7 @@
 (<a href="http://bugs.kde.org/show_bug.cgi?id=107961">#107961</a>)</li>
 </ul>
 
-<h4><a name="kwordoasis">KWord OASIS OpenDocument support</h4>
+<h4><a name="kwordoasis">KWord OASIS OpenDocument support</a></h4>
 <ul>
 <li>Fixed loading of headers and footers
 (<a href="http://bugs.kde.org/show_bug.cgi?id=107424">#107424</a>)</li>
@@ -61,7 +61,7 @@
 (<a href="http://bugs.kde.org/show_bug.cgi?id=105878">#105878</a>)</li>
 </ul>
 
-<h4><a name="kwordoasis">KPresenter OASIS OpenDocument fixes for polyline, polygon and regular-polygon</h4>
+<h4><a name="kpresenteroasis">KPresenter OASIS OpenDocument fixes for polyline, polygon and regular-polygon</a></h4>
 <ul>
 <li>Use the viewBox in saving and loading of draw:points</li>
 <li>be more precise when saving draw:points</li>
