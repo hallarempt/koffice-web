@@ -40,7 +40,7 @@
       <a href="http://download.kde.org/stable/koffice-1.4/">here (koffice-1.4)</a> and
       <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.
 
-      <p><a href="www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
+      <p><a href="http://www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
 
      <h2>Installing Binaries</h2>
       <br />
