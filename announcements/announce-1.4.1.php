@@ -67,7 +67,8 @@ changes</a> to see all the improvements made to KOffice since the
 
 <h3>Getting KOffice 1.4.1</h3>
 <p>
-Download information can be found on the KOffice website.
+Download information can be found on the
+<a href="http://www.koffice.org/download/">KOffice website</a>.
 </p>
 
 <h4>
