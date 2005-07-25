@@ -12,18 +12,37 @@
 
      <h2>Download</h2>
      <p>Qt 3.3.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
-     <p>Download locations can be found
-     <a href="../releases/<?php echo $currentversion; ?>-release.php">on the announcements page</a>.</p>
 
-      <h1>Download Binaries: KOffice <?php echo $currentversion; ?></h1>
+     <h3>Download sources: KOffice <?php echo $currentversion; ?></h3>
+
+     <a name="source_code"></a><strong>Source Code</strong>:
+
+     The complete source code for KOffice <?php echo $currentversion ?> is available for free download
+     via one of the KDE <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion ?>/src/">http</a>
+     or <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
+
+     <h3>Download Binaries: KOffice <?php echo $currentversion; ?></h3>
+
+    <p align="justify">
+      Please note that the KDE Project makes these packages available from the
+      KDE web site as a convenience to KDE users.  The KDE Project is not
+      responsible for these packages as they are provided by third
+      parties - typically, but not always, the distributor of the relevant
+      distribution - using tools, compilers, library versions and quality
+      assurance procedures over which KDE exercises no control. If you
+      cannot find a binary package for your OS, or you are displeased with
+      the quality of binary packages available for your system, please read
+      the <a href="http://www.kde.org/download/packagepolicy.php">KDE Binary Package Policy</a>
+      and/or contact your OS vendor.
+    </p>
+
       <p>Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
       <a href="http://download.kde.org/stable/koffice-1.4/">here (koffice-1.4)</a> and
       <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.
-      Please note these builds are not supported by the KOffice team which provides source packages only.</p>
 
       <p><a href="www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
 
-      <h1>Installing Binaries</h1>
+     <h2>Installing Binaries</h2>
       <br />
       <b>RPMs:</b>
       <br />

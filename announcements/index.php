@@ -10,6 +10,12 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>25 July 2005</strong>
+ - <a href="announce-1.4.1.php">KOffice 1.4.1 Announcement</a>
+<br />"<em>Improved Overall Stability, Better OASIS OpenDocument Support,
+Krita gains Performance and the KOffice Workspace gets a new Icon.</em>"
+<p />
+
 <strong>21 June 2005</strong>
  - <a href="announce-1.4.php">KOffice 1.4 Announcement</a>
 <br />"<em>New Image Editor, New Database Management Application and OASIS OpenDocument Support Highlight This KOffice
