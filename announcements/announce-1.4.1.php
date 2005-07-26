@@ -51,11 +51,11 @@ one of the most complete office suites available.
 <h3>
 Major Improvements in the KOffice 1.4.1 release are:
 </h3>
-<ul>Improved OASIS OpenDocument Support, especially in KWord and KPresenter</ul>
-<ul>Crash fixes for Kexi, Krita, KWord and KSpread</ul>
-<ul>Krita Performance Improvements</ul>
-<ul>Various other bugfixes</ul>
-<li>
+<ul>
+<li>Improved OASIS OpenDocument Support, especially in KWord and KPresenter</li>
+<li>Crash fixes for Kexi, Krita, KWord and KSpread</li>
+<li>Krita Performance Improvements</li>
+<li>Various other bugfixes</li>
 </ul>
 <p>
 Please take a look at the 
