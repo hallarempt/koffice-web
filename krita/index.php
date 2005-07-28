@@ -29,6 +29,7 @@
   $appinfo->addContributor("Dirk Sch&ouml;nberger", "");
   $appinfo->addContributor("Casper Boemann", "");
   $appinfo->addContributor("Daniel Molkentin", "d&#x61;&#x6e;&#105;&#00109;&#00111;&#0064;kde.or&#x67;");
+  $appinfo->addContributor("Thomas Zander", "zander@kde.org");
 
   $appinfo->show();
 ?>
