@@ -38,9 +38,11 @@
 <h2>Description</h2>
       <p>
       <b>Krita</b> is a painting and image editing application for KOffice.
-      The application is almost ready for use, and the architecture provides
-      a solid framework to build an application on. Krita is part of KOffice 
-      since 1.4.
+	Krita is part of KOffice since 1.4. Krita contains both ease-of-use and fun
+	features like guided painting (never before has it been so easy to
+	airbrush a straight line!) and high-end features like support for
+	16 bit images, CMYK and even <a href="http://www.openexr.org">OpenEXR</a>
+	HDR images.
       </p>
 
       <p>
@@ -69,6 +71,8 @@
       with the subject &quot;subscribe <i>your email address</i>&quot;. Please
       don't include a signature or other information that would confuse the
       list server that processes your request.
+      There is a mailing list archive at
+      <a href="http://lists.kde.org/?l=kde-kimageshop">http://lists.kde.org/?l=kde-kimageshop</a>.
       </p>
 
       <p>Read also the <a href="../developer/krita/index.php">Developing Krita</a> document
@@ -76,10 +80,12 @@
       and Paint Devices</a> for information on the 2D canvas library that is at the heart of
       Krita.</p>
 
-      <p>
-      There is a mailing list archive at
-      <a href="http://lists.kde.org/?l=kde-kimageshop">http://lists.kde.org/?l=kde-kimageshop</a>.
-      </p>
+      <p>Krita also needs a dedicated artist who wants to work with us on creating
+	a coherent, consistent and satisfying visual appearance for Krita. This includes
+	tool icons, dialog box design and the implementation of visual cues for painterly
+	features like a mixing palette or a set of images for artist's tools like brushes,
+	erasers and pencils.
+
 
       <h3>Status</h3>
 
@@ -88,7 +94,7 @@
 
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
          pauses between bursts of development wasn't ready for use until 2005. Now Krita is a capable 
-	 image editor and a great platform for future development. The first public release of Krita has
+	 image editor and a great platform for future development. The first public release of Krita (version 1.4.1) has
          the following features:</p>
 
         <ul>
@@ -114,8 +120,19 @@
     	    <li>A complete color management system based on lcms</li>
     	    <li>A cimg-based image restoration tool</li>
     	    <li>Histograms</li>
+		<li>And much more...</li>
         </ul>
 
+
+	<p>Features working in SVN include:</p>
+	<ul>
+		<li>CMYK</li>
+		<li>OpenEXR</li>
+		<li>16 bit/channel RGBA images</li>
+		<li>Many more filters</li>
+		<li>Painting with watercolors</li>
+		<li>Adjusting brightness and contrast with curves</li>
+	</ul>
 
       <h3>Libraries Krita currently uses</h3>
 
@@ -126,6 +143,7 @@
               Magick X11 Image Processing and Display Package</a></li>
           <li><a href="http://www.littlecms.com">Little CMS &mdash; a free color
 management system in 100K</a></li>
+		<li><a href="http://www.openexr.com">OpenEXR</a></li>
       </ul>
 
       <h3>Inspiration</h3>
