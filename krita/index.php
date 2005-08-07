@@ -85,6 +85,10 @@
 	features like a mixing palette or a set of images for artist's tools like brushes,
 	erasers and pencils.
 
+	<h3>Manual</h3>
+
+	<p>The manual is a work in progress, but the chapter on selections is fairly complete.
+	You can <a href="./krita.pdf">download the manual in pdf format</a>.
 
       <h3>Status</h3>
 
