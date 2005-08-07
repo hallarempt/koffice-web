@@ -10,9 +10,12 @@ $faq = new FAQ();
 
 $faq->addQuestion("What an ugly name! It doesn't mean anything either, does it?",
 "Krita is Swedish for chalk or pencil. That 'rita' is also Swedish for to draw and that 
-the name Krita could be read a k-rita was unintentional. The reason for this name is
-that preceding maintainers were fairly sure that we wouldn't get hit by lawyers again
-for using <i>this</i> name. Me, I would have preferred Kandinsky, but there's already
+the name Krita could be read a k-rita was unintentional. It is also possible that
+the then-maintainer of Krita choose 'krita' in the Sanskrit meaning of the word,
+namely perfect, as in 'krita yuga' -- perfect age. Anyway, since John Califf has disappeared
+we can never be sure. 
+However, preceding maintainers were fairly sure that we wouldn't get hit by lawyers again
+by using <i>this</i> name. Me, I would have preferred Kandinsky, but there's already
 an art app (for the Atari ST) with that name. I won't do another renaming: three
 names is enough for any application.");
 
