@@ -5,7 +5,6 @@
   include("header.inc");
 ?>
 
-<a name="authors"/>
 <?php
   $appinfo = new AppInfo("Krita");
   $appinfo->setIcon( "pics/hi48-app-krita.png", "48", "48");
