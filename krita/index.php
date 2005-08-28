@@ -58,13 +58,9 @@
       <p>
       <b>Additional Krita documents and links:</b>
       </p>
-      <ul><li><a href="faq.php">FAQs</a>
-              <ul><li><a href="faq.php#whatis">What Is It?</a></li>
-                  <li><a href="faq.php#how">How Does It Work?</a></li>
-                  <li><a href="faq.php#whatdoes">What Does It Do?</a></li>
-              </ul>
-          </li>
-          <li><a href="http://wiki.kde.org/krita+todo">Development TODO</a></li>
+      <ul>
+	<li><a href="faq.php">FAQs</a>
+        <li><a href="http://wiki.kde.org/krita+todo">Development TODO</a></li>
       </ul>
 
       <p>
@@ -93,6 +89,10 @@
 
 	<p>The manual is a work in progress, but the chapter on selections is fairly complete.
 	You can <a href="./krita.pdf">download the manual in pdf format</a>.
+
+    <h3>aKademy 2005 presentation</h3>
+
+    <p><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></p>
 
       <h3>Status</h3>
 
