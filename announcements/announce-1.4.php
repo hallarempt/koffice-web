@@ -42,7 +42,7 @@ KOffice 1.4 consists of the following applications:</p>
 <li><a href="../kword/">KWord</a> - A frame-based word processor</li>
 <li><a href="../kspread/">KSpread</a> - An advanced spreadsheet application</li>
 <li><a href="../kpresenter/">KPresenter</a> - A full-featured presentation program</li>
-<li><a href="../kivio/">Kivio</a> - A Visio®-style flowcharting application</li>
+<li><a href="../kivio/">Kivio</a> - A Visio-style flowcharting application</li>
 <li><a href="../karbon/">Karbon14</a> - A vector drawing application</li>
 <li><a href="../kugar/">Kugar</a> - A tool for generating business quality reports</li>
 <li><a href="../kchart/">KChart</a> - An integrated graph and chart drawing tool</li>
@@ -68,13 +68,13 @@ and functional than before; KPresenter now supports master pages and
 custom slide orders; KWord now offers much faster spell checking,
 a new Word Perfect import filter and tooltip based autocompletion.
 And Kivio has improved stencil support.
-<br>
+<br />
 There were also many bugs fixed with notable ones like printing bugs in
 KSpread as well as <a href="./changelog-1.4.php">many more</a>.
 </p>
 <p>
 <strong>KOffice is the first office suite supporting the
-OASIS OpenDocument to a large extent.</strong><br>
+OASIS OpenDocument to a large extent.</strong><br />
 These filters are provided for thorough testing
 while still using the KOffice native format as a solid and known to work choice
 for documents. Switching to the OpenDocument format as the new native format is
@@ -98,11 +98,11 @@ Krita is an image editor and paint application with a wide range of
 applications, from photo editing to the creation of original artwork.
 Sporting a clear and uncluttered interface (for a paint app...) it makes the
 features it delivers accessible and intuitive to use.
-<br>
+<br />
 This is the first public release of Krita and while it provides a coherent set
 of features, it is only the first stepping stone towards a flexible paint
 application for artists and image editors.
-<br>
+<br />
 For a list of features supported by Krita, see
  <a href="http://www.koffice.org/krita">the Krita information page</a>.
         </div>
@@ -116,13 +116,13 @@ It can be used for creating database schemas; inserting data; performing
 queries, and processing data. Forms can be created to provide a custom
 interface to your data. All database objects - tables, queries and
 forms - are stored in the database, making it easy to share databases.
-<br>
+<br />
 Kexi is considered as a long awaited Open Source competitor for MS Access,
 Filemaker and Oracle Forms. Its development is motivated by the lack of
 Rapid Application Development (RAD) tools for database systems that are
 sufficiently powerful, inexpensive, open standards driven and portable
 across many OSes and hardware platforms.
-<br>
+<br />
 For a list of features supported by Kexi, see
  <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">the Kexi website</a>.
         </div>
@@ -436,7 +436,7 @@ coming days and weeks.
   to create and freely distribute a sophisticated, customizable and stable
   desktop and office environment employing a flexible, component-based,
   network-transparent architecture and offering an outstanding development
-  platform.<p>
+  platform.</p>
 
 <p align="justify">
   KDE provides a stable, mature desktop including a state-of-the-art browser

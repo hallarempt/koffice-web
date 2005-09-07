@@ -36,7 +36,7 @@ file format.
 <li><a href="../kword/">KWord</a> - A frame-based word processor</li>
 <li><a href="../kspread/">KSpread</a> - An advanced spreadsheet application</li>
 <li><a href="../kpresenter/">KPresenter</a> - A full-featured presentation program</li>
-<li><a href="../kivio/">Kivio</a> - A Visio®-style flowcharting application</li>
+<li><a href="../kivio/">Kivio</a> - A Visio-style flowcharting application</li>
 <li><a href="../krita/">Krita</a> - A pixel based image manipulation application</li>
 <li><a href="../kexi/">Kexi</a> - An integrated data management application</li>
 <li><a href="../karbon/">Karbon14</a> - A vector drawing application</li>
@@ -85,7 +85,7 @@ Download information can be found on the
   to create and freely distribute a sophisticated, customizable and stable
   desktop and office environment employing a flexible, component-based,
   network-transparent architecture and offering an outstanding development
-  platform.<p>
+  platform.</p>
 
 <p align="justify">
   KDE provides a stable, mature desktop including a state-of-the-art browser

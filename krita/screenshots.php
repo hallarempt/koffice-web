@@ -7,7 +7,7 @@
 
 <?php
 $gallery = new ImageGallery("Krita Screenshots");
-$gallery->startNewRow(); 
+// $gallery->startNewRow(); should not be used before first image as it prevents validation
 $gallery->addImage("pics/krita_08_2005_sm.png", "pics/krita_08_2005.png", "262", "200", "[Screenshot]", 0 , "After the hackathon (August 2005)");
 $gallery->startNewRow(); 
 $gallery->addImage("pics/rc_sm.png", "pics/rc.png", "264", "200", "[Screenshot]", 0 , "Release candidate (April 2005)");

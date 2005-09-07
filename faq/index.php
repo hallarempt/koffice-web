@@ -571,7 +571,7 @@ Kformula is part of the stable releases of KOffice."
 );
 
 $faq->addQuestion("What is Krita?",
-"Krita is an image processor for KOffice, which should be suitable for all your image creation and editing needs.</p>"
+"Krita is an image processor for KOffice, which should be suitable for all your image creation and editing needs."
 );
 
 $faq->addSection("Contributing to KOffice");

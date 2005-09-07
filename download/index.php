@@ -38,7 +38,7 @@
 
       <p>Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
       <a href="http://download.kde.org/stable/koffice-1.4/">here (koffice-1.4)</a> and
-      <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.
+      <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.</p>
 
       <p><a href="http://www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
       <p>PCLinuxOS users can get <a href="http://distro.ibiblio.org/pub/linux/distributions/texstar/pclinuxos/apt/pclinuxos/2004/RPMS.texstar/koffice-1.4.1-1tex.i586.rpm">koffice-1.4.1-1tex.i586.rpm</a></p>
@@ -83,7 +83,7 @@
 
       <h2>See also</h2>
       <p>
-      <ul><li><a href="http://www.kexi-project.org/wiki/wikiview/index.php?Download">Standalone Kexi releases</a> (binaries and source code), including versions for MS Windows.</a></li>
+      <ul><li><a href="http://www.kexi-project.org/wiki/wikiview/index.php?Download">Standalone Kexi releases</a> (binaries and source code), including versions for MS Windows.</li>
       </ul>
       </p>
 

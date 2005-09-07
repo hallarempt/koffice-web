@@ -54,7 +54,7 @@
 <h3><a name="kotext">KoText library features (shared between KWord and KPresenter)</a></h3>
 <em>Bugfixes:</em>
 <ul>
- <li>Autocorrection fixes:</li>
+ <li>Autocorrection fixes:
  <ul>
   <li>redundant-space-removal shouldn't remove tabs</li>
   <li>capitalize-first-letter-correction didn't work at beginning of line (<a href="http://bugs.kde.org/show_bug.cgi?id=105064">#105064</a>)</li>
@@ -63,6 +63,7 @@
   <li>load all week days, from 1 to 7 (not 0 to 6)</li>
   <li>capitalize name of days after a punctuation too</li>
  </ul>
+ </li>
  <li>Rewritten spell-checking support (based on kspell2, the main reason for the kdelibs &gt;= 3.3 requirement) which is much faster and solves many problems (e.g. the hanging contextual menu in KOffice-1.3). With aspell, spell-checking is available in more than 70 languages</li>
  <li>Word completion with tooltip</li>
  <li>Open links by clicking on them, use hand pointer, show link target in statusbar</li>
@@ -308,7 +309,7 @@ Kexi is an integrated environment for creating and managing databases. It can be
 
 <em>Bugfixes:</em>
 <ul>
- <li>Form Designer:</li>
+ <li>Form Designer:
  <ul>
   <li>all known property and enum names are translated; names are simplified</li>
   <li>more properties turned to advanced set and thus made invisible in Kexi</li>
@@ -321,10 +322,11 @@ Kexi is an integrated environment for creating and managing databases. It can be
   <li>setting duplicated or invalid widget name is now impossible</li>
   <li>row deleting and inserting implemented</li>
   <li>"+ button" code shared with table view</li>
-  <li>fixed problems with data in subforms: data provider only sets data</li>
+  <li>fixed problems with data in subforms: data provider only sets data
    for own items, not inside subforms (data-awarness is disabled in subforms for now)</li>
  </ul>
- <li>KexiDB:</li> 
+ </li>
+ <li>KexiDB:
   <ul>
     <li>magic data is now defined for application/x-sqliteX, not for
      application/x-kexiproject-sqliteX (X == 2 or 3)</li>
@@ -333,6 +335,7 @@ Kexi is an integrated environment for creating and managing databases. It can be
      compatibility)</li>
    <li>we're handling application/x-sqlite2 and application/x-sqlite3</li>
   </ul>
+ </li>
 </ul>
 
 <h3><a name="krita">Krita</a></h3>

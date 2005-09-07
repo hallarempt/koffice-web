@@ -69,7 +69,7 @@ $faq->addQuestion("What Does it Do?",
 <li>import/export of xcf (Gimp) image files (complete, in as far as ImageMagick supports this)</li>
 <li>embedding in other KOffice apps (needs testing)</li>
 <li>user-oriented documentation of all the above basic functionality (incomplete)</li>
-<li>Scripting using kjsembed</lI>
+<li>Scripting using kjsembed</li>
 </ul>
 <p>
 Other planned features:

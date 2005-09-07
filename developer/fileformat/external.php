@@ -10,7 +10,7 @@
     <ul>
       <li><a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument Home Page</a>, contains the specification (in OpenOffice.org format and in PDF), as well as the RelaxNG schemas</a></li>
       <li><a href="http://xml.openoffice.org">OpenOffice's File Format Site</a></li>
-      <li><a href="http://w3c.org">W3C</a> (XHTML, CSS, XPath, XSL, SVG...)</li>
+      <li><a href="http://w3c.org">W3C</a> (XHTML, CSS, XPath, XSL, SVG...)</a></li>
       <li><a href="http://www.zvon.org/xxl/RelaxNG/Output/index.html">RelaxNG reference</a></li>
     </ul>
 

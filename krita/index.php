@@ -59,7 +59,7 @@
       <b>Additional Krita documents and links:</b>
       </p>
       <ul>
-	<li><a href="faq.php">FAQs</a>
+	<li><a href="faq.php">FAQs</a></li>
         <li><a href="http://wiki.kde.org/krita+todo">Development TODO</a></li>
       </ul>
 
@@ -83,12 +83,12 @@
 	a coherent, consistent and satisfying visual appearance for Krita. This includes
 	tool icons, dialog box design and the implementation of visual cues for painterly
 	features like a mixing palette or a set of images for artist's tools like brushes,
-	erasers and pencils.
+	erasers and pencils.</p>
 
 	<h3>Manual</h3>
 
 	<p>The manual is a work in progress, but the chapter on selections is fairly complete.
-	You can <a href="./krita.pdf">download the manual in pdf format</a>.
+	You can <a href="./krita.pdf">download the manual in pdf format</a>.</p>
 
     <h3>aKademy 2005 presentation</h3>
 
@@ -180,8 +180,8 @@ management system in 100K</a></li>
  
 <p>(These dissertations are made available for non-commercial purposes by Bill Baxter on his <a href="http://www.cs.unc.edu/~baxter/projects/index.html">projects webpage</a>)</p>
 <ul>
-        <li><a href="http://www.billbaxter.com/refs/Cockshott-Dissertation.pdf">Wet & Sticky</a> -- dissertion by Tunde Cockshott on modelling wet paint.</a></li>
-        <li><a href="http://www.billbaxter.com/refs/Fishkin-Dissertation.pdf">Applying Color Science to Computer Graphics</a> -- dissertion by Kenneth Paul Fishkin.
+        <li><a href="http://www.billbaxter.com/refs/Cockshott-Dissertation.pdf">Wet &amp; Sticky</a> -- dissertion by Tunde Cockshott on modelling wet paint.</a></li>
+        <li><a href="http://www.billbaxter.com/refs/Fishkin-Dissertation.pdf">Applying Color Science to Computer Graphics</a> -- dissertion by Kenneth Paul Fishkin.</li>
         <li><a href="http://www.billbaxter.com/dissertation/Baxter-dissertation.pdf">Physically based interactive painting</a> -- dissertion by Bill Baxter.</p></a></li>
 	<li><a href="http://www.cs.unc.edu/Research/geom/dab/">dAb Interactive Haptic Painting with 3D Virtual Brushes</a></li>
 	<li><a href="http://gamma.cs.unc.edu/impasto/">IMPaSTo - A realistic, Interactive

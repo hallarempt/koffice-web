@@ -14,7 +14,7 @@ due to the lack of content.</p>
 <ul>
   <li><a href="../news.php">as HTML page</a></li>
   <li><a href="../news_rss2.php" type="application/rss+xml"
-    alt="Link to the RSS 2 news feed of the KOffice News">as RSS 2.0 news feed</a></li>
+    title="Link to the RSS 2 news feed of the KOffice News">as RSS 2.0 news feed</a></li>
   <li><a href="../news.rdf">as
   classical KDE RDF/RSS news feed</a></li>
 </ul>
