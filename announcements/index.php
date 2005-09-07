@@ -47,7 +47,7 @@ Krita gains Performance and the KOffice Workspace gets a new Icon.</em>"
 
 <strong>12 December 2002</strong>
  - <a href="announce-1.2.1.php">KDE Ships Stability Release of Free Integrated Office Suite</a>
-<br />"<em>Improved Performance / Stability Highlight KOffice Release for Linux and Other UNIXes</em"
+<br />"<em>Improved Performance / Stability Highlight KOffice Release for Linux and Other UNIXes</em>"
 <p />
 
 <strong>10 September 2002</strong>

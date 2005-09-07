@@ -43,7 +43,7 @@
 <h3><a name="kotext">KoText library features (shared between KWord and KPresenter)</a></h3>
 <em>Bugfixes:</em>
 <ul>
- <li>Autocorrection fixes:</li>
+ <li>Autocorrection fixes:
  <ul>
   <li>redundant-space-removal shouldn't remove tabs</li>
   <li>capitalize-first-letter-correction didn't work at beginning of line (<a href="http://bugs.kde.org/show_bug.cgi?id=105064">#105064</a>)</li>
@@ -51,7 +51,7 @@
   <li>URL detection: URLs beginning with "ftp." are now valid links</li>
   <li>load all week days, from 1 to 7 (not 0 to 6)</li>
   <li>capitalize name of days after a punctuation too</li>
- </ul>
+ </ul></li>
  <li>Fixed "completion doesn't show any tooltip for autocompletion" (<a href="http://bugs.kde.org/show_bug.cgi?id=105065">#105065</a>)</li>
  <li>Do not always save a document in OASIS format with striked-out and underlined text (<a href="http://bugs.kde.org/show_bug.cgi?id=92654">#92654</a>)</li>
  <li>Fixed missing color for highlighted match during search-n-replace (<a href="http://bugs.kde.org/show_bug.cgi?id=103787">#103787</a>)</li>
@@ -160,7 +160,7 @@
 <h3><a name="kexi">Kexi</a></h3>
 <em>Bugfixes:</em>
 <ul>
- <li>Form Designer:</li>
+ <li>Form Designer:
  <ul>
   <li>all known property and enum names are translated; names are simplified</li>
   <li>more properties turned to advanced set and thus made invisible in Kexi</li>
@@ -175,8 +175,8 @@
   <li>"+ button" code shared with table view</li>
   <li>fixed problems with data in subforms: data provider only sets data</li>
    for own items, not inside subforms (data-awarness is disabled in subforms for now)</li>
- </ul>
- <li>KexiDB:</li> 
+ </ul></li>
+ <li>KexiDB:
   <ul>
     <li>magic data is now defined for application/x-sqliteX, not for
      application/x-kexiproject-sqliteX (X == 2 or 3)</li>
@@ -184,7 +184,7 @@
      one mime type (added all known mimetypes thee, including Knoda's mimes, for
      compatibility)</li>
    <li>we're handling application/x-sqlite2 and application/x-sqlite3</li>
-  </ul>
+  </ul></li>
 </ul>
 
 <h3><a name="krita">Krita</a></h3>
