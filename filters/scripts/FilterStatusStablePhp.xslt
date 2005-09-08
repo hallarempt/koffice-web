@@ -27,6 +27,10 @@
 <xsl:if test="@released!='no'">
 <h3><xsl:value-of select="title" /></h3>
 
+<xsl:if test="boolean(foreword)">
+  <p><xsl:value-of select="foreword" disable-output-escaping="yes" /></p>
+</xsl:if>
+
 <table border="5" cellspacing="0" cellpadding="5"> <!-- bordercolor="#800000" -->
 
  <tr bgcolor="#FFEEAA">

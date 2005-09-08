@@ -347,6 +347,38 @@
       <td width="10%" align="center" valign="top">-</td>
     </tr>
   </table>
+  <h3>Krita</h3>
+  <p> Krita uses <a
+            href="http://imagemagick.org/">ImageMagick</a>
+            for importing and exporting images. This means that Krita
+            can work with all images that your installation of
+            ImageMagick supports. This includes all common image file
+            formats, including the native formats of Photoshop and the
+            Gimp.  <br /> <a
+            href="http://imagemagick.org/script/formats.php">More
+            information on file formats supported by
+            ImageMagick.</a>
+            </p>
+  <table border="5" cellspacing="0" cellpadding="5">
+    <tr bgcolor="#FFEEAA">
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">Gimp (XCF)</td>
+      <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">+</td>
+      <td width="10%" align="center" valign="top">+</td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">OpenEXR</td>
+      <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">****</td>
+      <td width="10%" align="center" valign="top">****</td>
+    </tr>
+  </table>
   <h3>KChart</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
@@ -366,6 +398,12 @@
       <td width="50%" align="left" valign="top">Scalable Vector Graphics (W3C)</td>
       <td width="10%" align="center" valign="top">-</td>
       <td width="10%" align="center" valign="top">****</td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">Text</td>
+      <td width="50%" align="left" valign="top">Text file (e.g. CSV or tab-delimited)</td>
+      <td width="10%" align="center" valign="top">****</td>
+      <td width="10%" align="center" valign="top">-</td>
     </tr>
   </table>
   <hr/>
