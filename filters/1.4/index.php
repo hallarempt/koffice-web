@@ -366,18 +366,6 @@
       <th width="10%" align="left" valign="top">Import</th>
       <th width="10%" align="left" valign="top">Export</th>
     </tr>
-    <tr>
-      <td width="30%" align="left" valign="top">Gimp (XCF)</td>
-      <td width="50%" align="left" valign="top"> </td>
-      <td width="10%" align="center" valign="top">+</td>
-      <td width="10%" align="center" valign="top">+</td>
-    </tr>
-    <tr>
-      <td width="30%" align="left" valign="top">OpenEXR</td>
-      <td width="50%" align="left" valign="top"> </td>
-      <td width="10%" align="center" valign="top">****</td>
-      <td width="10%" align="center" valign="top">****</td>
-    </tr>
   </table>
   <h3>KChart</h3>
   <table border="5" cellspacing="0" cellpadding="5">
