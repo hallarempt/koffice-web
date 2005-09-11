@@ -27,7 +27,7 @@
     
     <tr>
     <td><a href="kword/"><img src="pics/hi32-app-kword.png" alt="KWord logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="kword/">KWord</a></b> - A frame-based word processor capable of professional standard documents</td>
+    <td><b><a href="kword/">KWord</a></b> - A frame-based word processor that can work in two modes: page oriented or layout oriented</td>
     </tr>
     <tr>
     <td><a href="kspread/"><img src="pics/hi32-app-kspread.png" alt="KSpread logo" width="32" height="32" border="0" /></a></td>
