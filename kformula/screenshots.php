@@ -6,9 +6,9 @@
 ?>
 
 <?php
-$gallery = new ImageGallery("KWord Screenshots");
-$gallery->addImage("pics/kformula1_sm.png", "pics/kformula1.png", "180", "126", "[Screenshot]", 0 , "KFormula at work");
-$gallery->addImage("pics/kformula2_sm.png", "pics/kformula2.png", "198", "74", "[Screenshot]", 0 , "The famous formula string dialog");
+$gallery = new ImageGallery("KFormula Screenshots");
+$gallery->addImage("pics/kformula1_sm.png", "pics/kformula1.png", "220", "181", "[Screenshot]", 0 , "KFormula at work");
+$gallery->addImage("pics/kformula2_sm.png", "pics/kformula2.png", "220", "133", "[Screenshot]", 0 , "The famous formula string dialog");
 $gallery->show();
 ?>
 
