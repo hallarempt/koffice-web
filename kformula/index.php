@@ -8,6 +8,9 @@
 <h2>Description</h2>
 
       <p>
+      KFormula is a free KDE formula editor, part of KOffice.
+      </p>
+      <p>
       KFormula is an easy to use formula editor. It provides the basic input
       facilities and the support functionality you come to expect of a KOffice
       application. But there is more. Some of its most exciting features are:
@@ -22,7 +25,7 @@
 
         <center>
         <?php
-        $gallery = new EduGallery("KWFormula- Screenshot");
+        $gallery = new ImageGallery("KFormula- Screenshot");
         $gallery->addImage("pics/kformula3_sm.png", "pics/kformula3.png", 330, 119,  "[Screenshot]", "", "KFormula");
         $gallery->show();
         ?>
