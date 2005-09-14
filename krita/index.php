@@ -93,7 +93,20 @@
 
     <p><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></p>
 
-      <h3>Status</h3>
+    <h3>Video's</h3>
+
+    <p>Bart Coppens has made several instructional videos showing how to do things with Krita at
+     important milestones like the developer preview release or the first public release candidate.
+     While cool, these videos do not necessarily show the current, latest and greatest state of Krita.</p>
+
+    <ul>
+     <li><a href="./videos/krita_preview1.mpeg">First video for the first developer preview release</a></li>
+     <li><a href="./videos/krita_preview2.mpeg">Second video for the first developer preview release</a></li>
+     <li><a href="./videos/krita_rc1.avi">Video for the first public release candidate</a></li>
+    </ul>
+     
+
+    <h3>Status</h3>
 
 	<p>Who's working on what, and what's planned to be done can be found on the <a href="http://wiki.kde.org/krita+todo">
 	Krita TODO and who's doing what</a> page.</p>
