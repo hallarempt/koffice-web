@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-<p>$Date$</p>
+<!--<p>$Date$</p>
 
 <h2>Foreword</h2>
 
@@ -18,18 +18,18 @@ also marked with stars is how easy the tasks could be shared between developers 
 to be done completely in one go. (For a example a user can do a single file, 
 a single directory... It is more important that some part is done at all.)</p>
 
-<p>(Some of the tasks could be done KDE-wide.)</p>
+<p>(Some of the tasks could be done KDE-wide.)</p> -->
 
 <h2>Task Lists</h2>
 
 <ul>
-    <li><a href="trivial.php">Rather trivial tasks</a>.</li>
+    <li><a href="features.php">KOffice tasks</a>.</li>
     
     <li><a href="nontrivial.php">Non-trivial tasks</a>.</li>
     
     <li><a href="kdebugs.php">KOffice bugs in KDE Bugs</a>.</li>
 
-    <li><a href="/developer/website/tasks.php">Tasks for koffice.org</a>.</li>
+    <!--<li><a href="/developer/website/tasks.php">Tasks for koffice.org</a>.</li>-->
 </ul>
 
 <h2>More?</h2>
@@ -45,6 +45,12 @@ a single directory... It is more important that some part is done at all.)</p>
 <a href="http://www.kde.org/mailinglists/index.php#koffice-devel">the KOffice Development mailing list</a>. We have surely a task for
 you.</p>
 
+
+<br />
+<br />
+<hr width="30%" align="center" />
+Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+</p>
 <?php
    include("footer.inc");
 ?>
