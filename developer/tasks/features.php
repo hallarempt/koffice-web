@@ -288,7 +288,7 @@ KOffice libraries.</p>
     <td bgcolor="#00FF00">Shared</td>
 
     <td bgcolor="#00FF00">Shared</td>
-    <td></td>
+    <td bgcolor="#00FF00">Shared</td>
     <td></td>
 
     <td></td>
