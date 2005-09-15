@@ -14,8 +14,8 @@ committing, then commit and check the result when the website
 updates.  If you need to make significant changes to the website, see
 the <a href="#development">Development</a> section</p>
     
-<p>For most of the PHP files, Konqueror do not recognize them as
-HTML files and therefore refuse to display them. The little trick is
+<p>For most of the PHP files, Konqueror does not recognize them as
+HTML files and therefore refuses to display them. The trick is
 to add <tt>&lt;html&gt;</tt> on the first line
 and <tt>&lt;/html&gt;</tt> on the last line of the document.</p>
     
