@@ -14,10 +14,11 @@ Of course, you can ask for having that write protection removed site by site,
 for example for KOffice.</p>
 
 <p>The <a href="http://www.koffice.org">site itself</a> is updated
-from www/areas/koffice. The update happens regularly, normally every two hours.
-So when you commit into www, it can take a certain delay before
-the commit really appears on the web site.
-</p>
+from www/areas/koffice. The update happens regularly, normally every
+ten minutes.  So when you commit into www, it can take a certain delay
+before the commit really appears on the web site.  If the main site
+has not updated, then it may have updated 
+<a href="http://www.kde/org/areas/koffice">here</a>.</p>
 
 <h2>Applying For Removing The Write Protection</h2>
 
@@ -26,7 +27,7 @@ a part of <a href="/">www.koffice.org</a> or if you plan
 to commit from time to time in the <a href="/">KOffice web site</a>, you have to ask the
 <a href="ma&#105;&#108;&#x74;o&#58;s&#x79;&#x73;a&#0100;mi&#x6e;&#x40;of&#00102;ic&#101;.kd&#101;&#46;org">Sysadmins</a>.</p>
 
-<p>Tell on which part of KOffice.org you would like to work and
+<p>Tell them which part of KOffice.org you would like to work and
 that you would like to have write permission on www/areas/koffice .
 Do not forget to give your account name.</p>
 
