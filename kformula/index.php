@@ -5,18 +5,14 @@
   include("header.inc");
 ?>
 
-<?php
-  include("kformula.inc");
-  $appinfo->showIconAndCopyright();
-?>
-
-      <p>KFormula is a formula editor for KOffice.</p>
+<h2>Description</h2>
 
       <p>
-      KFormula can be used to create and edit mathematical
-      formulas that can be included in other KOffice documents. 
-      It provides simple input
-      facilities and supports the functionality you expect from a KOffice
+      KFormula is a free KDE formula editor, part of KOffice.
+      </p>
+      <p>
+      KFormula is an easy to use formula editor. It provides the basic input
+      facilities and the support functionality you come to expect of a KOffice
       application. But there is more. Some of its most exciting features are:
       </p>
       <ul><li>Easy Greek letter insertion</li>
