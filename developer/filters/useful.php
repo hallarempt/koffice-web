@@ -29,7 +29,7 @@
         </tr>
 
         <tr>
-        <td><a href="http://snake.cs.tu-berlin.de:8081/~schwartz/pmh/index.html">LAOLA</a></td>
+        <td><a href="http://user.cs.tu-berlin.de/~schwartz/pmh/">LAOLA</a></td>
         <td>The famous LAOLA homepage (OLE)</td>
         </tr>
 
@@ -61,28 +61,24 @@
 ?>
 
         <tr>
-        <td><a href="http://www.mlib.unibel.by/pub/pub/qqq/office/MSWordView.html">Word 8</a></td>
+        <td><a href="http://gnu.fyxm.net/software/mswordview/MSWordView.html">Word 8</a></td>
         <td>MSWord 8 converter for unix: MSWordView</td>
         </tr>
 
         <tr>
-        <td><a href="http://www.wvware.com/wvInfo.html">File formats</a></td>
-        <td>MS Office File Formats Information and Converters </td>
+        <td><a href="http://sourceforge.net/projects/wvware">wvWare</a></td>
+        <td>wvWare (by Caolan McNamara)</td>
+        </tr>
+
+
+        <tr>
+        <td><a href="http://wvware.sourceforge.net/wvInfo.html">File formats</a></td>
+        <td>MS Office File Formats Information and Converters (at wvWare)</td>
         </tr>
 
         <tr>
         <td><a href="http://arturo.directmail.org/filtersweb/">Filtersweb</a></td>
         <td>libole2(GNOME), xls2xml, cole (r+w ole2 structured storage files)</td>
-        </tr>
-
-        <tr>
-        <td><a href="http://sourceforge.net/projects/wvware">wv-library</a></td>
-        <td>The wv-library (by Caolan McNamara (new link))</td>
-        </tr>
-
-        <tr>
-        <td><a href="http://skynet.csn.ul.ie/~caolan">wv-library</a></td>
-        <td>The wv-library (by Caolan McNamara (old link))</td>
         </tr>
 
         <tr>
@@ -147,9 +143,9 @@
     <h3>Corel</h3>
     <table border="0" cellspacing="0" cellpadding="1" >
         <tr>
-        <td><a href="http://www.corel.com/partners_developers/ds/wpsdks.htm">
+        <td><a href="http://web.archive.org/web/20011107123657/www.corel.com/partners_developers/ds/WPSDKS.HTM">
             Version 7.0</a></td>
-        <td>Fileformat description for WordPerfect, Presentations, Quattro Pro... (Version 7.0) </td>
+        <td>Fileformat description for WordPerfect, Presentations, Quattro Pro... (via <a href="http://www.waybackmachine.org/">www.waybackmachine.org</a>) </td>
         </tr>
     </table>
 
