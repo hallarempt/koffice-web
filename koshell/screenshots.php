@@ -12,6 +12,8 @@ $gallery->addImage("pics/koshell1_sm.png", "pics/koshell1.png", "350", "325", "[
 $gallery->addImage("pics/koshell2_sm.png", "pics/koshell2.png", "350", "253", "[Screenshot]", 0 , "Karbon14 in KOffice Workspace");
 $gallery->show();
 ?>
+<p>Screenshots for next coming release 1.5
+</p>
 
  <br />
  <hr width="30%" align="center" />

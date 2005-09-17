@@ -25,7 +25,7 @@
 
     <table width="90%">
     <tr>
-    <th colspan="1" class="contentheader">Core Components</th>
+    <th colspan="2" class="contentheader">Core Components</th>
     </tr>
     <tr>
     <td><a href="kword/"><img src="pics/hi32-app-kword.png" alt="KWord logo" width="32" height="32" border="0" /></a></td>
@@ -40,7 +40,7 @@
     <td><b><a href="kpresenter/">KPresenter</a></b> - A full-featured presentation program.</td>
     </tr>
     <tr>
-    <th colspan="1" class="contentheader">Graphical Components</th>
+    <th colspan="2" class="contentheader">Graphical Components</th>
     </tr>
     <tr>
     <td><a href="kivio/"><img src="pics/hi32-app-kivio.png" alt="Kivio logo" width="32" height="32" border="0" /></a></td>
