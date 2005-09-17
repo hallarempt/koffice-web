@@ -21,6 +21,7 @@ $section->appendLink("KOffice $currentversion", "releases/$currentversion-releas
 $section->appendDir("Security", "security");
 
 $section =& $this->appendSection("KOffice Applications");
+$section->appendDir("KOffice Workspace", "koshell");
 $section->appendDir("KWord", "kword");
 $section->appendDir("KSpread", "kspread");
 $section->appendDir("KPresenter", "kpresenter");
