@@ -54,6 +54,20 @@
     <td><a href="krita/"><img src="pics/hi32-app-krita.png" alt="Krita logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="krita/">Krita</a></b> - A pixel-based image manipulation program like <i>The GIMP</i> or <i>Adobe&copy; Photoshop&reg;.</i></td>
     </tr>
+
+    <tr>
+    <th colspan="2" class="contentheader">Database Component</th>
+    </tr>
+
+    <tr>
+    <td><a href="kexi/"><img src="pics/cr32-app-kexi.png" alt="Kexi logo" width="32" height="32" border="0" /></a></td>
+    <td><b><a href="kexi/">Kexi</a></b> - An integrated environment for managing data.</td>
+    </tr>
+
+    <tr>
+    <th colspan="2" class="contentheader">Helper Component</th>
+    </tr>
+
     <tr>
     <td><a href="kugar/"><img src="pics/hi32-app-kugar.png" alt="Kugar logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kugar/">Kugar</a></b> - A tool for generating business quality reports.</td>
@@ -62,11 +76,6 @@
     <tr>
     <td><a href="kplato/"><img src="pics/cr32-app-kplato.png" alt="KPlato logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kplato/">KPlato</a></b> - An integrated project management and planning tool.</td>
-    </tr>
-
-    <tr>
-    <td><a href="kexi/"><img src="pics/cr32-app-kexi.png" alt="Kexi logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="kexi/">Kexi</a></b> - An integrated environment for managing data.</td>
     </tr>
 
     <tr>
@@ -96,6 +105,11 @@
  kde_general_news("./news.rdf", 5, true);
 ?>
 
+ <br />
+ <hr width="30%" align="center" />
+ <p>
+ Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+ </p>
 <?php
   include("footer.inc");
 ?>
