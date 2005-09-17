@@ -10,13 +10,9 @@
    $appinfo->showIconAndCopyright();
 ?>
 
-<p>KOffice Workspace is the Office suite shell.</p>
+<p>KOffice Workspace is the Office suite shell. This workspace allows you to work on different KOffice documents at the same time, each one in a different tab.</p>
 
-<p>KFormula can be used to create and edit mathematical formulas that
-can be included in other KOffice documents.  It provides simple input
-facilities and supports the functionality you expect from a KOffice
-application. But there is more. Some of its most exciting features
-are:</p>
+<!--<p>KOffice Worspace </p>
 
 <ul>
   <li>Easy Greek letter insertion</li>
@@ -25,21 +21,16 @@ are:</p>
   <li>Multi-level undo support</li>
   <li>LaTeX export (copy and paste into a text editor)</li>
   <li>MathML import</li>
-</ul>
+</ul> -->
 
         <center>
         <?php
-        $gallery = new ImageGallery("KFormula- Screenshot");
-        $gallery->addImage("pics/kformula3_sm.png", "pics/kformula3.png", 330, 119,  "[Screenshot]", "", "KFormula");
+        $gallery = new ImageGallery("KOShell- Screenshot");
+        $gallery->addImage("pics/koshell_sm.png", "pics/koshell.png", 350, 247,  "[Screenshot]", "", "KOffice Workspace with KPresenter and KWord documents");
         $gallery->show();
         ?>
         </center>
 
-      <p>
-      KFormula uses the KOffice formula drawing library. If you have to deal with many
-      formulas you may wish to use a KFormula object embedded in <a href="/kword/">KWord</a> or
-      <a href="/kspread/">KSpread</a>.
-      </p>
 
  <br />
  <hr width="30%" align="center" />
