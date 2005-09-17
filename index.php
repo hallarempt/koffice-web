@@ -21,10 +21,12 @@
       KOffice Security Announcements</a>
     </p>
 
-    <p>In the KOffice suite the following parts are being developed:</p>
+    <p>In the KOffice suite the following components are being developed:</p>
 
     <table width="90%">
-    
+    <tr>
+    <th colspan="1" class="contentheader">Core Components</th>
+    </tr>
     <tr>
     <td><a href="kword/"><img src="pics/hi32-app-kword.png" alt="KWord logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kword/">KWord</a></b> - A frame-based word processor that can work in two modes: page oriented or layout oriented</td>
@@ -36,6 +38,9 @@
     <tr>
     <td><a href="kpresenter/"><img src="pics/hi32-app-kpresenter.png" alt="KPresenter logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kpresenter/">KPresenter</a></b> - A full-featured presentation program.</td>
+    </tr>
+    <tr>
+    <th colspan="1" class="contentheader">Graphical Components</th>
     </tr>
     <tr>
     <td><a href="kivio/"><img src="pics/hi32-app-kivio.png" alt="Kivio logo" width="32" height="32" border="0" /></a></td>
