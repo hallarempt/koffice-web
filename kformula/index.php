@@ -1,4 +1,5 @@
 <?php
+  $site_root = '../';
   $page_title="KFormula";
   include("koffice.inc");
   include("header.inc");

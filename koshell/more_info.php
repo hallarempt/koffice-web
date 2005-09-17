@@ -1,4 +1,5 @@
 <?php
+  $site_root = '../';
   $page_title="About KOffice Workspace";
   include("koffice.inc");
   include("header.inc");
