@@ -65,7 +65,7 @@
     </tr>
 
     <tr>
-    <th colspan="2" class="contentheader">Helper Component</th>
+    <th colspan="2" class="contentheader">Helper Components</th>
     </tr>
 
     <tr>
