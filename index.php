@@ -23,7 +23,7 @@
 
     <p>In the KOffice suite the following components are being developed:</p>
 
-    <table width="90%">
+    <table width="90%" table border="0" cellpadding="5" cellspacing="10">
     <tr>
     <th colspan="2" class="contentheader">Core Components</th>
     </tr>
