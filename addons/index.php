@@ -1,6 +1,5 @@
 <?php
   $page_title="KOffice Add-ons";
-  $site_root='../';
   include("koffice.inc");
   include("header.inc");
 ?>
