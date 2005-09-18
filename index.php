@@ -21,11 +21,11 @@
       KOffice Security Announcements</a>
     </p>
 
-    <p>In the KOffice suite the following components are being developed:</p>
+    <p>The KOffice suite includes the following productivity applications:</p>
 
     <table width="90%" table border="0" cellpadding="5" cellspacing="10">
     <tr>
-    <th colspan="2" class="contentheader">Core Components</th>
+    <th colspan="2" class="contentheader">Core Applications</th>
     </tr>
     <tr>
     <td><a href="kword/"><img src="pics/hi32-app-kword.png" alt="KWord logo" width="32" height="32" border="0" /></a></td>
@@ -39,8 +39,14 @@
     <td><a href="kpresenter/"><img src="pics/hi32-app-kpresenter.png" alt="KPresenter logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kpresenter/">KPresenter</a></b> - A full-featured presentation program.</td>
     </tr>
+
     <tr>
-    <th colspan="2" class="contentheader">Graphical Components</th>
+    <td><a href="kexi/"><img src="pics/cr32-app-kexi.png" alt="Kexi logo" width="32" height="32" border="0" /></a></td>
+    <td><b><a href="kexi/">Kexi</a></b> - An integrated environment for creating databases and database applications.</td>
+    </tr>
+
+    <tr>
+    <th colspan="2" class="contentheader">Graphical Applications</th>
     </tr>
     <tr>
     <td><a href="kivio/"><img src="pics/hi32-app-kivio.png" alt="Kivio logo" width="32" height="32" border="0" /></a></td>
@@ -56,16 +62,7 @@
     </tr>
 
     <tr>
-    <th colspan="2" class="contentheader">Database Component</th>
-    </tr>
-
-    <tr>
-    <td><a href="kexi/"><img src="pics/cr32-app-kexi.png" alt="Kexi logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="kexi/">Kexi</a></b> - An integrated environment for managing data.</td>
-    </tr>
-
-    <tr>
-    <th colspan="2" class="contentheader">Helper Components</th>
+    <th colspan="2" class="contentheader">Other Applications</th>
     </tr>
 
     <tr>
@@ -86,6 +83,10 @@
     <tr>
     <td><a href="kformula/"><img src="pics/hi32-app-kformula.png" alt="KFormula logo" width="32" height="32" border="0" /></a></td>
     <td><b><a href="kformula">KFormula</a></b> - A powerful formula editor.</td>
+    </tr>
+
+    <tr>
+    <th colspan="2" class="contentheader">Compatibility Information</th>
     </tr>
 
     <tr>
