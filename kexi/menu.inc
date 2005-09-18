@@ -1,5 +1,6 @@
 <?php
 $this->appendLink("Information","index.php");
 $this->appendLink("Screenshots","screenshots.php");
-$this->appendLink("Development Home","http://www.kexi-project.org/",false);
+$this->appendLink("Development","http://www.kexi-project.org/",false);
+$this->appendLink("More Info","more_info.php",false);
 ?>
