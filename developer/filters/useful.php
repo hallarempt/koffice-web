@@ -34,7 +34,7 @@
         </tr>
 
         <tr>
-        <td><a href="http://www.btinternet.com/~shaheedhaque/">Word 97</a></td>
+        <td><a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/wvware/wv2/src/generator/generator_wword8.htm">Word 97</a></td>
         <td>Information to Word Filters (by Shaheed Haque)</td>
         </tr>
 
