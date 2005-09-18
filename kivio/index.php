@@ -10,8 +10,6 @@
   $appinfo->showIconAndCopyright();
 ?>
 
-<h2>Description</h2>
-
 <p>
 Kivio is a flowcharting and diagramming application for the KOffice application
 suite, and has an userinterface that is similar to Visio&reg;.
@@ -26,4 +24,10 @@ It is fully integrated into KOffice and can for example be embedded into KWord.
     <li>Plugin framework for adding more functionality.</li>
   </ul>
 
+<br />
+ <br />
+ <hr width="30%" align="center" />
+ <p>
+ Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+ </p>
 <?php include("footer.inc"); ?>
