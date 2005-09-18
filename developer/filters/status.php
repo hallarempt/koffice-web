@@ -12,8 +12,8 @@
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
  and some not even done. The status of the current filters is listed here, sorted per
  application.</p>
-  <p>Note: this document is about <strong>KOffice CVS</strong> (the developer version).</p>
-  <hr />
+  <p>Note: this document is about <strong>KOffice SVN</strong> (the developer version).</p>
+  <hr/>
   <h3>Generic (for all KOffice applications)</h3>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
@@ -26,10 +26,10 @@
       <td width="30%" align="left" valign="top">XSLT</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/xsltfilter/status.html?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/xsltfilter/status.html?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/xsltfilter/status.html?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/xsltfilter/status.html?content-type=text/html">**</a>
       </td>
     </tr>
   </table>
@@ -45,90 +45,90 @@
       <td width="30%" align="left" valign="top">AbiWord</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/abiword/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/abiword/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/abiword/status.html#export?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/abiword/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">AmiPro</td>
       <td width="50%" align="left" valign="top">Lotus word processor</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/amipro/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/amipro/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/amipro/status.html#export?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/amipro/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Applix Word</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/applixword/status.html#import?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/applixword/status.html#import?content-type=text/html">**</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/applixword/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/applixword/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">DocBook</td>
       <td width="50%" align="left" valign="top">SGML DocBook only</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/docbook/status.html#import?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/docbook/status.html#import?content-type=text/html">-</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/docbook/status.html#export?content-type=text/html">?</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/docbook/status.html#export?content-type=text/html">?</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">HTML</td>
       <td width="50%" align="left" valign="top">HTML 4.01 / XHTML 1.0</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/html/status.html#import?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/html/status.html#import?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/html/status.html#export?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/html/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">HancomWord</td>
       <td width="50%" align="left" valign="top">for version 2.0, text only</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/hancomword/status.html#import?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/hancomword/status.html#import?content-type=text/html">**</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/hancomword/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/hancomword/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">LaTeX</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/latex/status.html#import?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/latex/status.html#import?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/latex/status.html#export?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/latex/status.html#export?content-type=text/html">**</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">MS Word</td>
       <td width="50%" align="left" valign="top">Microsoft Word 97/2000</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/winword97/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/winword97/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/winword97/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/winword97/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">MS Write</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/mswrite/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/mswrite/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/mswrite/status.html#export?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/mswrite/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
@@ -141,40 +141,40 @@
       <td width="30%" align="left" valign="top">PDF</td>
       <td width="50%" align="left" valign="top">Portable Document Format</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/pdf/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/pdf/status.html?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/pdf/status.html?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Palmdoc</td>
       <td width="50%" align="left" valign="top">Palm documents</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/palmdoc/status.html#import?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/palmdoc/status.html#import?content-type=text/html">*****</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/palmdoc/status.html#export?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/palmdoc/status.html#export?content-type=text/html">*****</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Plain text</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/ascii/status.html#import?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/ascii/status.html#import?content-type=text/html">*****</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/ascii/status.html#export?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/ascii/status.html#export?content-type=text/html">*****</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">RTF</td>
       <td width="50%" align="left" valign="top">Rich Text Format</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/rtf/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/rtf/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/rtf/status.html#export?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/rtf/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
@@ -183,30 +183,30 @@
             Contacts: <a href="mailto:ariya@kde.org">Ariya Hidayat</a>,
             <a href="mailto:info@marcozanon.com">Marco Zanon</a></td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/starwriter/status.html?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/starwriter/status.html?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/starwriter/status.html?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/starwriter/status.html?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">WML</td>
       <td width="50%" align="left" valign="top">Wireless markup language</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/wml/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/wml/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/wml/status.html#export?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/wml/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">WordPerfect</td>
       <td width="50%" align="left" valign="top">WP 5.x and WP 6/7/8 documents, text only</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/wordperfect/status.html?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/wordperfect/status.html?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kword/wordperfect/status.html?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/wordperfect/status.html?content-type=text/html">**</a>
       </td>
     </tr>
   </table>
@@ -222,60 +222,60 @@
       <td width="30%" align="left" valign="top">Applix Spreadsheet</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/applixspread/status.html#import?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/applixspread/status.html#import?content-type=text/html">**</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/applixspread/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/applixspread/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">CSV</td>
       <td width="50%" align="left" valign="top">Comma Separated Values</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/csv/status.html#import?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/csv/status.html#import?content-type=text/html">*****</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/csv/status.html#export?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/csv/status.html#export?content-type=text/html">*****</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Excel</td>
       <td width="50%" align="left" valign="top">Microsoft Excel 97/2000</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/excel97/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/excel97/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/excel97/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/excel97/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Gnumeric</td>
       <td width="50%" align="left" valign="top">Part of GNOME Office</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/gnumeric/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/gnumeric/status.html#import?content-type=text/html">***</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/gnumeric/status.html#export?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/gnumeric/status.html#export?content-type=text/html">**</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">HTML</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/html/status.html#import?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/html/status.html#import?content-type=text/html">-</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/html/status.html#export?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/html/status.html#export?content-type=text/html">**</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">LaTeX</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/latex/status.html#import?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/latex/status.html#import?content-type=text/html">-</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/latex/status.html#export?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/latex/status.html#export?content-type=text/html">*</a>
       </td>
     </tr>
     <tr>
@@ -283,30 +283,30 @@
       <td width="50%" align="left" valign="top">
             Contact: <a href="mailto:nandres@web.de">Norbert Andres</a></td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/opencalc/status.html#import?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/opencalc/status.html#import?content-type=text/html">**</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/opencalc/status.html#export?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/opencalc/status.html#export?content-type=text/html">*</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Quattro Pro</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/qpro/status.html#import?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/qpro/status.html#import?content-type=text/html">**</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/qpro/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/qpro/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">dBase</td>
       <td width="50%" align="left" valign="top">dBase 3 only</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/dbase/status.html#import?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/dbase/status.html#import?content-type=text/html">**</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kspread/dbase/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kspread/dbase/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
   </table>
@@ -322,10 +322,10 @@
       <td width="30%" align="left" valign="top">KWord</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/kword/status.html?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kpresenter/kword/status.html?content-type=text/html">-</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/kword/status.html#export?content-type=text/html">*****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kpresenter/kword/status.html#export?content-type=text/html">*****</a>
       </td>
     </tr>
     <tr>
@@ -339,20 +339,20 @@
       <td width="30%" align="left" valign="top">OpenOffice.org Impress</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/ooimpress/status.html#import?content-type=text/html">****</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kpresenter/ooimpress/status.html#import?content-type=text/html">****</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/kpresenter/ooimpress/status.html#export?content-type=text/html">**</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kpresenter/ooimpress/status.html#export?content-type=text/html">**</a>
       </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">PowerPoint 97</td>
       <td width="50%" align="left" valign="top">Microsoft PowerPoint 97</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/powerpoint97/status.html#import?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/powerpoint97/status.html#import?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/olefilters/powerpoint97/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/powerpoint97/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
   </table>
@@ -398,10 +398,10 @@
       <td width="30%" align="left" valign="top">MSOD</td>
       <td width="50%" align="left" valign="top">Microsoft Office Drawing</td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/karbon/msod/status.html#import?content-type=text/html">*</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/karbon/msod/status.html#import?content-type=text/html">*</a>
       </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/~checkout~/koffice/filters/karbon/msod/status.html#export?content-type=text/html">-</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/karbon/msod/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
@@ -436,8 +436,71 @@
     </tr>
   </table>
   <h3>Krita</h3>
-  <p>Krita uses ImageMagick for importing and exporting images. This means that Krita can work with all images that your installation of ImageMagick supports. This includes all common image file formats, including the native formats of Photoshop and the Gimp.</p>
-  <hr />
+  <p>Krita uses <a href="http://imagemagick.org/">ImageMagick</a> for importing and exporting images. This means that Krita can work with all images that your installation of ImageMagick supports. This includes all common image file formats, including the native formats of Photoshop and the Gimp. <br /> <a href="http://imagemagick.org/script/formats.php">More information on file formats supported by ImageMagick.</a></p>
+  <table border="5" cellspacing="0" cellpadding="5">
+    <tr bgcolor="#FFEEAA">
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">Gimp (XCF)</td>
+      <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/xcf/status.html#import?content-type=text/html">+</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/xcf/status.html#export?content-type=text/html">+</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">OpenEXR</td>
+      <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/openexr/status.html#import?content-type=text/html">****</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/openexr/status.html#export?content-type=text/html">****</a>
+      </td>
+    </tr>
+  </table>
+  <h3>KChart</h3>
+  <table border="5" cellspacing="0" cellpadding="5">
+    <tr bgcolor="#FFEEAA">
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">PNG</td>
+      <td width="50%" align="left" valign="top">Portable Network Graphics (most graphics programs)</td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kchart/png/status.html#import?content-type=text/html">-</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kchart/png/status.html#export?content-type=text/html">****</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">SVG</td>
+      <td width="50%" align="left" valign="top">Scalable Vector Graphics (W3C)</td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kchart/svg/status.html#import?content-type=text/html">-</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kchart/svg/status.html#export?content-type=text/html">****</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">Text</td>
+      <td width="50%" align="left" valign="top">Text file (e.g. CSV or tab-delimited)</td>
+      <td width="10%" align="center" valign="top">****</td>
+      <td width="10%" align="center" valign="top">-</td>
+    </tr>
+  </table>
+  <hr/>
   <h2>Key</h2>
   <table>
     <tr>

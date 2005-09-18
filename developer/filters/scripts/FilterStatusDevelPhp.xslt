@@ -1,7 +1,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output method="xml" indent="yes" media-type="application/xml" omit-xml-declaration="yes" encoding="UTF-8"/>
 <xsl:template match="/">
-<xsl:variable name="webcvspath" select="/filters/version/@webcvscheckout"/>
+<xsl:variable name="websvnpath" select="/filters/version/@websvncheckout"/>
 
 <xsl:processing-instruction name="php">
   $page_title="KOffice Filters Status (Development)";
@@ -22,14 +22,14 @@
  (e.g.: the parts are able to use filters for file conversion), the filters are not perfect
  and some not even done. The status of the current filters is listed here, sorted per
  application.</p>
- <p>Note: this document is about <strong>KOffice CVS</strong> (the developer version).</p>
+ <p>Note: this document is about <strong>KOffice SVN</strong> (the developer version).</p>
 
 <hr/>
 <xsl:for-each select="/filters/version/application">
 <h3><xsl:value-of select="title" /></h3>
 
 <xsl:if test="boolean(foreword)">
-    <p><xsl:value-of select="normalize-space(foreword)"/></p>
+    <p><xsl:value-of select="normalize-space(foreword)" disable-output-escaping="yes" /></p>
 </xsl:if>
 
 <xsl:if test="count(filter)">
@@ -65,8 +65,8 @@
  <xsl:variable name="import" select="stat/@import" /><xsl:variable name="export" select="stat/@export" />
  <td width="10%" align="center" valign="top">
     <xsl:choose>
-        <xsl:when test="boolean(webcvs/@path)">
-            <a href="{$webcvspath}/{webcvs/@path}/status.html{webcvs/@importsuffix}?content-type=text/html">
+        <xsl:when test="boolean(websvn/@path)">
+            <a href="{$websvnpath}/{websvn/@path}/status.html{websvn/@importsuffix}?content-type=text/html">
             <xsl:value-of select="/filters/status[@id=$import]/@symbol"/>
             </a>
         </xsl:when>
@@ -77,8 +77,8 @@
  </td>
  <td width="10%" align="center" valign="top">
     <xsl:choose>
-        <xsl:when test="boolean(webcvs/@path)">
-            <a href="{$webcvspath}/{webcvs/@path}/status.html{webcvs/@exportsuffix}?content-type=text/html">
+        <xsl:when test="boolean(websvn/@path)">
+            <a href="{$websvnpath}/{websvn/@path}/status.html{websvn/@exportsuffix}?content-type=text/html">
             <xsl:value-of select="/filters/status[@id=$export]/@symbol"/>
             </a>
         </xsl:when>

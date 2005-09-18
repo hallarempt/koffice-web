@@ -12,6 +12,8 @@
      <li><a href="generalinfo">General developer information</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
      <li><a href="tasks">Tasks</a> (Volunteers needed!)</li>
+     <li><a href="filters">Filters</a></li>
+     <li><a href="fileformat">OASIS OpenDocument file format</a></li>
      <li><a href="http://developer.kde.org/development-versions/koffice-features.html">KOffice Feature Plan</a></li>
      <li><a href="website">KOffice web site development</a></li>
    </ul>
