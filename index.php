@@ -95,7 +95,9 @@
 
     <tr>
     <td><a href="filters/"><img src="pics/cr32-mime-document.png" alt="Logo for KOffice filters" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="filters/">Filters</a></b> - Import and Export Filters for KOffice.</td>
+    <td><b><a href="filters/">Supported file formats</a></b> - Information
+            about compatibility with files created using other
+            programs and applications.</td>
     </tr>
 
     </table>
