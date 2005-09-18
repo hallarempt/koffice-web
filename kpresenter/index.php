@@ -28,6 +28,7 @@
     <p>KPresenter is a presentation application. Its features include:</p>
 
     <ul>
+    <li>support for the standard OASIS OpenDocument file format</li>
     <li>inserting and editing rich text (with bullet points, indentation, spacing, colors, fonts, etc.);</li>
     <li>embedding images and clip-art (.wmf files);</li>
     <li>inserting auto-forms; </li>
