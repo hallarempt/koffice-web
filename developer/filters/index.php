@@ -11,10 +11,10 @@
 <h2>Status</h2>
 <ul>
   <li><a href="status.php">Status matrix (development)</a> - status of filters in <code>trunk</code>.</li>
-  <li><a href="../filters">Users status information</a> - status of filters in recent releases.</li>
+  <li><a href="../../filters">Users status information</a> - status of filters in recent releases.</li>
 </ul>
 
-<h2>Information for Developers</h2>
+<h2>Filter Developers</h2>
 
 <p>For basic file format information (especially for XML-based file formats)
 see the <a href="/developer/fileformat/">file format section</a>.</p>

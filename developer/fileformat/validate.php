@@ -19,7 +19,8 @@
 
   <h2>Download jing</h2>
   <p>Jing is a java tool for checking XML files against a RelaxNG schema.
-  You can get it from <a href="http://www.thaiopensource.com/relaxng/jing.html">http://www.thaiopensource.com/relaxng/jing.html</a>.
+  You can get it from <a href="http://www.thaiopensource.com/relaxng/jing.html">http://www.thaiopensource.com/relaxng/jing.html</a> 
+  (follow the <em>download</em> link).
   For instance I got <a href="http://www.thaiopensource.com/download/jing-20030619.zip">jing-20030619.zip</a>
   </p>
 
@@ -34,30 +35,41 @@
     Create a script (e.g. I named it oasislint), which does something like
   </p>
     <pre><code>
-    #!/bin/sh
-    /usr/java/j2re1.4.2_04/bin/java -jar $HOME/src/jing/bin/jing.jar -i /k/oo/office-schema-1.0-cd-1.rng $*
+#!/bin/sh
+java -jar $HOME/src/jing/bin/jing.jar \
+     -i /k/oo/OpenDocument-schema-v1.0-os.rng $*
     </code></pre>
   <p>
-    You will need to adjust the paths of course.
-    Create a similar script named oasislint-strict which uses "office-strict-schema" instead.
-  </p>
-  <p>
-   Finally, it would be helpful to have a script that automatically checks the XML files
-   inside a ZIP package (since KOffice documents are ZIP packages), so that you don't have
-   to unzip it by hand.
-   Here is one, which I called oasisfilecheck:
-  </p>
+
+    You will need to adjust the paths to the <code>.jar</code> and
+    <code>.rng</code> files, of course.  If <code>java</code> isn't in
+    your path, you'll also need to change your <code>PATH</code> environment
+    variable, or use a fully-qualifed path to the <code>java</code> binary
+    in the script.</p>
+
+    <p>Create a similar script named <code>oasislint-strict</code> which uses
+       <code>OpenDocument-strict-schema-v1.0-os.rng</code> instead. </p>
+  <p>Finally, it would be helpful to have a script that automatically
+   checks the XML files inside a ZIP package (since KOffice documents
+   are ZIP packages), so that you don't have to unzip it by hand.
+   Here is one, which I called oasisfilecheck:</p>
+
    <pre><code>
-   #!/bin/sh
-   input="$1"
-   echo "$input" | grep -v '^/' &gt;/dev/null 2&gt;&amp;1 &amp;&amp; input="$PWD/$input"
-   tmpdir=/tmp/oasistmp
-   rm -rf $tmpdir ; mkdir $tmpdir &amp;&amp; cd $tmpdir || exit 1
-   unzip -o $input || exit 1
-   for f in content.xml styles.xml meta.xml settings.xml; do
-     echo "Checking $f..." ; oasislint $f &amp;&amp; echo "Checking $f strict..." &amp;&amp; oasislint-strict $f
-   done
+#!/bin/sh
+input="$1"
+echo "$input" | grep -v '^/' >/dev/null 2>&1 && input="$PWD/$input"
+tmpdir=/tmp/oasistmp
+rm -rf $tmpdir ; mkdir $tmpdir && cd $tmpdir || exit 1
+unzip -o $input || exit 1
+for f in content.xml styles.xml meta.xml settings.xml; do
+  echo "Checking $f..." ; oasislint $f
+  if test $? -eq 0 ; then
+    echo "Checking $f strict..." && oasislint-strict $f
+  fi
+done
    </code></pre>
+
+
 
 <?php
    include("footer.inc");

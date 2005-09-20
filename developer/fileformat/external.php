@@ -18,6 +18,7 @@
 
     <ul>
       <li><a href="http://www.zvon.org/xxl/DTDTutorial/General/book.html">DTD Tutorial</a></li>
+      <li><a href="http://books.evc-cit.info/">OASIS OpenDocument Essentials</a></li>
     </ul>
 
   <h2>Overviews</h2>
@@ -32,9 +33,16 @@
     <ul>
       <li><a href="http://www.alphaworks.ibm.com/tech/xmldiffmerge">XML diffmerge</a></li>
       <li><a href="http://www.alphaworks.ibm.com/tech/xmltreediff">XML treediff</a></li>
-      <li><a href="http://www.thaiopensource.com/relaxng/jing.html">Jing</a>(Java tool for validating files against a RelaxNG schema)</li>
+      <li><a href="http://www.thaiopensource.com/relaxng/jing.html">Jing</a> (Java tool for validating files against a RelaxNG schema)</li>
     </ul>
 
+
+   <h2>Other</h2>
+     <ul>
+       <li><a href="http://www.dwheeler.com/openformula/">OpenFormula</a> -
+           Early draft of a standard for representing formulas in spreadsheets
+           and word processors - might be interesting.</li>
+     </ul>
 
 <?php
    include("footer.inc");

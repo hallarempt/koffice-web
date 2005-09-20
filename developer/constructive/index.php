@@ -20,6 +20,13 @@
     <li><a href="http://lists.kde.org/?l=koffice-devel&amp;m=107835129123866&amp;w=2">KWord vs Framemaker review</a></li>
 </ul>
 
+
+<h2>OpenUsability</h2>
+<ul>
+  <li><a href="http://openusability.org/projects/kivio">Kivio</a></li>
+  <li><a href="http://openusability.org/projects/krita">Krita</a></li>
+</ul>
+
 <h2>WebSites</h2>
 
 <ul>
