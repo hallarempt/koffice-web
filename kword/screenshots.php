@@ -7,18 +7,27 @@
 
 <?php
 
-# Use height 144 pixels to have an uniform look
+# Use similar height/widths to ensure a uniform look
 
 $gallery = new ImageGallery("KWord Screenshots");
-$gallery->addImage("pics/kword_pt_cnc_sm.png", "pics/kword_pt_cnc.png", "189", "144", "[Screenshot KWord 1.3 Brazilian]", 0 , "KWord 1.3 in Brazilian Portuguese");
-$gallery->addImage("pics/kword_classic_picture_sm.png", "pics/kword_classic_picture.png", "204", "144", "[Screenshot KWord 1.3 Classic Look, with Picture]", 0 , "KWord 1.3 in classic look with picture");
+
+$gallery->addImage("pics/bidi_09_2005_sm.png", "pics/bidi_09_2005.png", "268", "200", 
+ "[Screenshot KWord 1.4 with bi-directional text]", 0 ,
+ "Seamless support for left-to-right and right-to-left text:<br>
+  Note the text selection starting in left-to-right<br>
+  text and finishing in right-to-left text here.");
+$gallery->addImage("pics/mars_09_2005_sm.png", "pics/mars_09_2005.png", "268", "200", 
+ "[Screenshot of KWord 1.4 document with images]", 0 ,
+ "KWord document with custom text frames and images.<br>
+  (Text from wikipedia.org article on Mars<br>
+  under GFDL license)");
+
 $gallery->startNewRow();
-$gallery->addImage("pics/kword_kde31_it_sm.png", "pics/kword_kde31_it.png", "204", "144", "[Screenshot KWord 1.3 Italian]", 0 , "KWord 1.3 in Italian");
-$gallery->addImage("pics/kword-arabic_sm.png", "pics/kword-arabic.png", "189", "144", "[Screenshot KWord 1.2 Arabic]", 0 , "KWord 1.2 can be used for bi-directional texts like Arabic (05/02)");
+
 $gallery->show();
 ?>
 
-<p>See also <a href="oldscreenshots.php">the old screenshots</a>.</p>
+<p>See also <a href="oldscreenshots.php">the older screenshots</a>.</p>
 
 <?php include("footer.inc"); ?>
 
