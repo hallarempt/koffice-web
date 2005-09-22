@@ -13,6 +13,7 @@
      <li><a href="wwwmodule.php">The WWW module</a></li>
      <li><a href="languages.php">Programming languages used</a></li>
      <li><a href="debug.php">KOffice website development HOW-TO</a></li>
+     <li><a href="screenshots.php">Updating screenshots</a></li>
      <li><a href="filters.php">Updating filters status</a></li>
      <li><a href="tasks.php">Tasks</a></li>
    </ul>
