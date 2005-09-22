@@ -10,7 +10,19 @@
   $appinfo->showIconAndCopyright();
 ?>
 
-    <p>KPresenter is a presentation application. Its features include:</p>
+    <p>KPresenter is a presentation application. With KPresenter, you can prepare a set of slides for use in an
+    on-screen slideshow or for printing. Your slides can include text and graphics in a variety of formats, and of course, you can embed all sorts of objects.</p>
+        
+    <center>
+    <?php
+    $gallery = new ImageGallery("KPresenter- Screenshot");
+    $gallery->addImage("pics/kpresenter_sm.png", "pics/kpresenter.png", 330, 223,  "[Screenshot]", "", "KPresenter");
+    $gallery->show();
+    ?>
+    </center>
+
+
+    <p>Its features include:</p>
 
     <ul>
     <li>support for the standard OASIS OpenDocument file format</li>
@@ -32,16 +44,13 @@
     <li>a Presentations Structure Viewer</li>
     </ul>
 
-        <center>
-        <?php
-        $gallery = new ImageGallery("KPresenter- Screenshot");
-        $gallery->addImage("pics/kpresenter_sm.png", "pics/kpresenter.png", 300, 203,  "[Screenshot]", "", "KPresenter");
-        $gallery->show();
-        ?>
-        </center>
-
     <p>You can find some of the presentations that KPresenter has been used for: <a href="http://www.kde.org/kdeslides/">http://www.kde.org/kdeslides/</a>.</p>
 
+ <br />
+ <hr width="30%" align="center" />
+ <p>
+ Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+ </p>
 <?php
   include("footer.inc");
 ?>
