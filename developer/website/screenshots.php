@@ -54,6 +54,27 @@ attractive screenshots at that resolution.</p>
   </tbody>
 </table>
 
+<h2>Filename conventions</h2>
+<p>Please name your screenshots as follows:</p>
+<p>High resolution (unscaled) screenshots should have a filename of the
+form:</p>
+<blockquote><i>feature</i>[<i>num</i>]<i>_year_month.png</i></blockquote>
+<p>where</p>
+<ul>
+<li><i>feature</i> is the name of (or an abbreviation for) the feature that the
+screenshot demonstrates (e.g. 'bidi' for bidirectional text)</li>
+<li><i>num</i> is optional.  Use it if you create more than one screenshot
+for a given feature within a given month</li>
+<li><i>year</i> is the current year</li>
+<li><i>month</i> is the current month</li>
+</ul>
+
+
+<p>Lower resolution (scaled down) screenshots should have a filename of the
+form:</p>
+<blockquote><i>feature</i>[<i>num</i>]<i>_year_month_width.png</i></blockquote>
+<p>where <i>width</i> is the width of the image, and the other fields are the
+same as listed above.</p>
 
 <?php
    include("footer.inc");
