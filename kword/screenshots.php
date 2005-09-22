@@ -11,12 +11,16 @@
 
 $gallery = new ImageGallery("KWord Screenshots");
 
-$gallery->addImage("pics/bidi_09_2005_sm.png", "pics/bidi_09_2005.png", "268", "200", 
+$gallery->addImage("pics/bidi_2005_09_270.png",
+ "pics/bidi_2005_09.png",
+ "270", "200",
  "[Screenshot KWord 1.4 with bi-directional text]", 0 ,
  "Seamless support for left-to-right and right-to-left text:<br>
   Note the text selection starting in left-to-right<br>
-  text and finishing in right-to-left text here.");
-$gallery->addImage("pics/mars_09_2005_sm.png", "pics/mars_09_2005.png", "268", "200", 
+  text and ending in right-to-left text here.");
+$gallery->addImage("pics/mars_2005_09_270.png",
+ "pics/mars_2005_09.png",
+ "270", "200",
  "[Screenshot of KWord 1.4 document with images]", 0 ,
  "KWord document with custom text frames and images.<br>
   (Text from wikipedia.org article on Mars<br>
