@@ -270,6 +270,12 @@
       
       <b><a href="m&#x61;&#105;&#x6c;t&#00111;:&#00116;&#x72;eat&#x40;k&#x64;e.&#x6f;r&#x67;">Adam Treat</a></b>
       (Kugar)<br />
+
+    <b><a href="m&#x61;il&#116;o:&#x74;.za&#99;&#x68;mann&#x40;za&#103;ge.&#x64;&#0101;">Thorsten Zachmann</a></b>
+    (KPresenter)<br />
+
+      <b><a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b>
+    (Krita)<br />
 </p>
 
 
