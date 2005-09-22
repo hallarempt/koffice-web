@@ -10,7 +10,7 @@
    $appinfo->showIconAndCopyright();
 ?>
 
-<p>KOffice Workspace is the Office suite shell. This workspace allows you to work on different KOffice documents at the same time, each one in a different tab.</p>
+<p>KOffice Workspace, also named KOShell, consists in a friendly workspace to allow you to work on several KOffice applications at the same time. KOShell main window consists of a side pane on the left showing the icons of the available KOffice components and of the main view on the right which contains the main window of the opened programs in tabs. Each KOffice application keeps the same functionalities than the stand-alone program and integrates easily in the workspace by embedding its menus and toolbars.</p>
 
 <!--<p>KOffice Worspace </p>
 
@@ -26,7 +26,7 @@
         <center>
         <?php
         $gallery = new ImageGallery("KOShell- Screenshot");
-        $gallery->addImage("pics/koshell_sm.png", "pics/koshell.png", 350, 247,  "[Screenshot]", "", "KOffice Workspace with KPresenter and KWord documents");
+        $gallery->addImage("pics/koshell_sm.png", "pics/koshell.png", 330, 274,  "[Screenshot]", "", "KOffice Workspace with KChart, KPresenter and KSpread documents");
         $gallery->show();
         ?>
         </center>
