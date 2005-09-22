@@ -12,13 +12,17 @@
 
 <p>Karbon14 is the scalable vector drawing application in KDE. </p>
 
-        <center>
-        <?php
-        $gallery = new ImageGallery("Karbon - Screenshot");
-        $gallery->addImage("pics/karbon1_sm.png", "pics/karbon1.png", 330, 232,  "[Screenshot]", "", "Karbon14 importing a svg file from Open Clip Art");
-        $gallery->show();
-        ?>
-        </center>
+<center>
+  <?php
+    $gallery = new ImageGallery("Karbon - Screenshot");
+    $gallery->addImage("pics/svg_2005_09_330.png",
+                       "pics/svg_2005_09.png",
+                       330, 232,
+                       "[Screenshot]", "",
+                       "Karbon14 importing an SVG file from www.openclipart.org");
+    $gallery->show();
+  ?>
+</center>
 
  <br />
  <hr width="30%" align="center" />

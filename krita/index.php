@@ -10,24 +10,23 @@
   $appinfo->showIconAndCopyright();
 ?>
 
-      <p>
-      <b>Krita</b> is a painting and image editing application for KOffice.
-	Krita is part of KOffice since 1.4. Krita contains both ease-of-use
-        and fun	features like guided painting (never before has it been so
-        easy to	airbrush a straight line!) and high-end features like support
-        for 16 bit images, CMYK and even
-        <a href="http://www.openexr.org">OpenEXR</a> HDR images.
-      </p>
+<p><b>Krita</b> is a painting and image editing application for KOffice. Krita
+is part of KOffice since 1.4. Krita contains both ease-of-use and fun features
+like guided painting (never before has it been so easy to airbrush a straight
+line!) and high-end features like support for 16 bit images, CMYK and even
+<a href="http://www.openexr.org">OpenEXR</a> HDR images.</p>
 
-      <center>
-      <?php
-        $gallery = new ImageGallery("Krita- Screenshot");
-        $gallery->addImage("pics/krita_09_2005_sm.png", 
-                           "pics/krita_09_2005.png", 
-                           330, 248,  "[Screenshot]", "", "Krita");
-        $gallery->show();
-        ?>
-        </center>
+<center>
+  <?php
+    $gallery = new ImageGallery("Krita- Screenshot");
+    $gallery->addImage("pics/stroman_2005_09_330.png",
+                       "pics/stroman_2005_09.png",
+                       330, 248,
+                       "[Screenshot]", "",
+                       "Krita");
+    $gallery->show();
+  ?>
+</center>
     <h3>Features</h3>
 
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
