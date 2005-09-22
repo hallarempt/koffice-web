@@ -15,7 +15,7 @@
         <center>
         <?php
         $gallery = new ImageGallery("Karbon - Screenshot");
-        $gallery->addImage("pics/karbon_sm.png", "pics/karbon.png", 330, 232,  "[Screenshot]", "", "Karbon14 importing a svg file");
+        $gallery->addImage("pics/karbon1_sm.png", "pics/karbon1.png", 330, 232,  "[Screenshot]", "", "Karbon14 importing a svg file from Open Clip Art");
         $gallery->show();
         ?>
         </center>
