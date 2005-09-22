@@ -10,16 +10,22 @@
   $appinfo->showIconAndCopyright();
 ?>
 
-    <p>KPresenter is a presentation application. With KPresenter, you can prepare a set of slides for use in an
-    on-screen slideshow or for printing. Your slides can include text and graphics in a variety of formats, and of course, you can embed all sorts of objects.</p>
-        
-    <center>
-    <?php
+<p>KPresenter is a presentation application. With KPresenter, you can prepare a
+set of slides for use in an on-screen slideshow or for printing. Your slides
+can include text and graphics in a variety of formats, and of course, you can
+embed all sorts of objects.</p>
+
+<center>
+  <?php
     $gallery = new ImageGallery("KPresenter- Screenshot");
-    $gallery->addImage("pics/kpresenter_sm.png", "pics/kpresenter.png", 330, 223,  "[Screenshot]", "", "KPresenter");
+    $gallery->addImage("pics/geeks_2005_09_330.png",
+                       "pics/geeks_2005_09.png",
+                       330, 223,
+                       "[Screenshot]", "",
+                       "KPresenter");
     $gallery->show();
-    ?>
-    </center>
+  ?>
+</center>
 
 
     <p>Its features include:</p>

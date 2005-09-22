@@ -10,16 +10,21 @@
    $appinfo->showIconAndCopyright();
 ?>
 
-     <p>KSpread is a scriptable spreadsheet program which provides both table-oriented sheets and support 
-     for complex mathematical formulas and statistics. KSpread's features include:</p>
+<p>KSpread is a scriptable spreadsheet program which provides both
+table-oriented sheets and support for complex mathematical formulas and
+statistics. KSpread's features include:</p>
 
-        <center>
-        <?php
-        $gallery = new ImageGallery("KSpread- Screenshot");
-        $gallery->addImage("pics/kspread1_sm.png", "pics/kspread1.png", 330, 288,  "[Screenshot]", "", "KSpread");
-        $gallery->show();
-        ?>
-        </center>
+<center>
+  <?php
+    $gallery = new ImageGallery("KSpread- Screenshot");
+    $gallery->addImage("pics/sheet_2005_09_330.png",
+                       "pics/sheet_2005_09.png",
+                       330, 288,
+                       "[Screenshot]", "",
+                       "KSpread");
+    $gallery->show();
+  ?>
+</center>
 
 <ul>
 <li>multiple tables/sheets per document;</li>
