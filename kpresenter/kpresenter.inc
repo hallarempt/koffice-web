@@ -13,5 +13,4 @@
   $appinfo->addContributor("Thorsten Zachmann", "t.zac&#104;m&#097;n&#110;&#x40;&#x7a;a&#103;&#x67;e.de");
   $appinfo->addContributor("Ariya Hidayat", "a&#114;iya&#64;kd&#101;.&#111;&#x72;&#x67;");
   $appinfo->addContributor("Percy Leonhardt", "p&#x65;r&#x63;&#121;&#64;er&#105;&#x73;23.de");
-  $appinfo->show();
 ?>
