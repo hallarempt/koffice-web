@@ -10,7 +10,7 @@
    $appinfo->showIconAndCopyright();
 ?>
 
-<p>Karbon14 is the scalable vector drawing application in KDE.</p>
+<p>Karbon14 is the scalable vector drawing application in KDE. </p>
 
         <center>
         <?php
