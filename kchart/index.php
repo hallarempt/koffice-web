@@ -10,7 +10,19 @@
    $appinfo->showIconAndCopyright();
 ?>
       KChart is the KOffice chart drawing application.  Use it to embed charts
-      into your KOffice documents, e.g. a report written with KWord.</p>
+      into your KOffice documents, e.g. a report written with KWord or a slideshow made with KPresenter.</p>
+
+        <center>
+        <?php
+            $gallery = new ImageGallery("KChart - Screenshot");
+            $gallery->addImage("pics/kchart_2005_09_330.png",
+                            "pics/kchart_2005_09.png",
+                            330, 257,
+                            "[Screenshot]", "",
+                            "KChart showing the bar char template");
+            $gallery->show();
+        ?>
+        </center>
 
       <p><b>Easy to Use:</b><br /></p>
       <ul>
