@@ -9,7 +9,7 @@
    include("kchart.inc");
    $appinfo->showIconAndCopyright();
 ?>
-      KChart is the KOffice chart drawing application.  Use it to embed charts
+      <p>KChart is the KOffice chart drawing application.  Use it to embed charts
       into your KOffice documents, e.g. a report written with KWord or a slideshow made with KPresenter.</p>
 
         <center>
@@ -89,4 +89,9 @@
         <li>Polar:  normal | stacked | percent</li>
       </ul>
 
+ <br />
+ <hr width="30%" align="center" />
+ <p>
+ Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+ </p>
 <?php include("footer.inc"); ?>
