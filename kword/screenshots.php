@@ -28,6 +28,13 @@ $gallery->addImage("pics/mars_2005_09_270.png",
 
 $gallery->startNewRow();
 
+$gallery->addImage("pics/preview_2005_09_270.png",
+ "pics/preview_2005_09.png",
+ "270", "200",
+ "[Screenshot of KWord 1.4 in 'preview' mode]", 0,
+ "KWord document in 'preview' mode");
+
+
 $gallery->show();
 ?>
 
