@@ -26,7 +26,7 @@
         <center>
         <?php
         $gallery = new ImageGallery("KOShell- Screenshot");
-        $gallery->addImage("pics/koshell_sm.png", "pics/koshell.png", 330, 274,  "[Screenshot]", "", "KOffice Workspace with KChart, KPresenter and KSpread documents");
+        $gallery->addImage("pics/working_2005_09_330.png", "pics/working_2005_09.png", 330, 274,  "[Screenshot]", "", "KOffice Workspace with KChart, KPresenter and KSpread documents");
         $gallery->show();
         ?>
         </center>
