@@ -8,8 +8,8 @@
 
 <?php
 $gallery = new ImageGallery("KOffice Workspace Screenshots");
-$gallery->addImage("pics/koshell1_sm.png", "pics/koshell1.png", "350", "325", "[Screenshot]", 0 , "KOffice Workspace at start");
-$gallery->addImage("pics/koshell2_sm.png", "pics/koshell2.png", "350", "253", "[Screenshot]", 0 , "Karbon14 in KOffice Workspace");
+$gallery->addImage("pics/start_2005_09_270.png", "pics/start_2005_09.png", "270", "250", "[Screenshot]", 0 , "KOffice Workspace at start");
+$gallery->addImage("pics/workspace_2005_09_270.png", "pics/workspace_2005_09.png", "270", "195", "[Screenshot]", 0 , "Karbon14 in KOffice Workspace");
 $gallery->show();
 ?>
 <p>Screenshots for next coming release 1.5
