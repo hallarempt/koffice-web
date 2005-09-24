@@ -23,7 +23,7 @@
 
     <p>The KOffice suite includes the following productivity applications:</p>
 
-    <table width="90%" table border="0" cellpadding="5" cellspacing="10">
+    <table width="90%" border="0" cellpadding="5" cellspacing="10">
     <tr>
     <th colspan="2" class="contentheader">Core Applications</th>
     </tr>

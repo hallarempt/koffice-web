@@ -65,7 +65,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 
       <ul>
         <li><a href="krita.pdf">Manual (in PDF format)</a> - a work in
-            progress, but the chapter on selections is fairly complete.
+            progress, but the chapter on selections is fairly complete.</li>
 	<li><a href="faq.php">FAQs</a></li>
 
       </ul>
