@@ -18,6 +18,10 @@
   $appinfo->addAuthor("Bart Coppens", "&#107;&#x64;&#101;&#64;b&#097;&#x72;&#116;co&#x70;&#x70;en&#115;.b&#x65;");
   $appinfo->addAuthor("Michael Thaler", "michael.thal&#x65;&#0114;&#x40;ph&#00121;&#00115;&#x69;k&#46;tu&#045;&#x6d;&#117;&#101;&#x6e;&#99;h&#0101;n&#46;&#00100;&#x65;");
   $appinfo->addAuthor("Casper Boemann", "");
+  $appinfo->addAuthor("Sander Koning", "sanderkoning@kde.nl");
+  $appinfo->addAuthor("Roger Larsson", "roger.larsson@norran.net");
+  $appinfo->addAuthor("Melchior Franz",  "mfranz@kde.org");
+  $appinfo->addAuthor("Laurent Montel", "lmontel@mandrakesoft.com");
   $appinfo->addContributor("Daniel Molkentin", "d&#x61;&#x6e;&#105;&#00109;&#00111;&#0064;kde.or&#x67;", "Bug fixing");
   $appinfo->addContributor("Dirk Sch&ouml;nberger", "", "Keyboard shortcuts, code cleanups");
   $appinfo->addContributor("Thomas Zander", "&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;", "Usability consulting, toolbox fixing");
