@@ -8,7 +8,9 @@
   $appinfo->addAuthor("Lenny Kudling", ""); // Email removed at developer's request
   $appinfo->addAuthor("Tomislav Lukman", "tomislav.lukman@ck.t-com.hr"); 
   $appinfo->addAuthor("Beno&icirc;t Vautrin", "benoit.vautrin@free.fr"); 
-  $appinfo->addContributor("Jan Hambrecht", "jaham@gmx.net", "Bug fixes and improvements");
+  $appinfo->addMaintainer("Rob Buis", "buis&#x40;&#x6b;&#100;e.or&#103;");
+  $appinfo->addContributor("Jan Hambrecht", "jaham@gmx.net", "Bug fixes and
+improvements");
   $appinfo->addContributor("Peter Simonsson", "psn@linux.se", "Bug fixes and improvements"); 
   $appinfo->addContributor("Tim Beaulen", "tbscope@gmail.com", "Bug fixes and improvements" );
   $appinfo->addContributor("Boudewijn Rempt", "boud@valdyas.org", "Bug fixes and improvements");
