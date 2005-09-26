@@ -46,7 +46,7 @@ drawings.</p>
 often needs to be resized to fit in a document or on a poster, whereas Krita is
 more suited to painting pictures, or photo manipulation.</p>
 
-<p>To get started with Krita quickly, you might want to try opening
+<p>To get started with Karbon quickly, you might want to try opening
 and modifying some of the images from the
 <a href="http://www.openclipart.org/">Open Clip Art Library</a>.</p>
 
