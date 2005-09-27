@@ -41,7 +41,7 @@
       <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.</p>
 
       <p><a href="http://www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
-      <p>PCLinuxOS users can get <a href="http://distro.ibiblio.org/pub/linux/distributions/texstar/pclinuxos/apt/pclinuxos/2004/RPMS.texstar/koffice-1.4.1-1tex.i586.rpm">koffice-1.4.1-1tex.i586.rpm</a></p>
+      <p>PCLinuxOS users can get <a href="http://distro.ibiblio.org/pub/linux/distributions/texstar/pclinuxos/apt/pclinuxos/2004/RPMS.texstar/koffice-1.4.1-2tex.i586.rpm">koffice-1.4.1-2tex.i586.rpm</a></p>
 
      <h2>Installing Binaries</h2>
       <br />
