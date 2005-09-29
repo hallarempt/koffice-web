@@ -11,7 +11,8 @@
 [
   <a href="#templates">KWord Templates</a> |
   <a href="#kde-files">kde-files.org templates</a> |
-  <a href="#thesauri">Thesauri</a>
+  <a href="#thesauri">Thesauri</a> |
+  <a href="#clipart">Clip Art</a>
 ]
 </div>
 
