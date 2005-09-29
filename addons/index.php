@@ -7,6 +7,14 @@
 
 <p>This sections currently contains various addons for KOffice which are not included in the main distribution.</p>
 
+<div id="quicklinks">
+[
+  <a href="#templates">KWord Templates</a> |
+  <a href="#kde-files">kde-files.org templates</a> |
+  <a href="#thesauri">Thesauri</a>
+]
+</div>
+
 <h2><a name="templates">KWord Templates</a></h2>
 
 <p>This package contains 7 KWord templates: InterofficeMemo.kwt, PayrollMasterRecordForm.kwt, Resume.kwt, SimpleLayout.kwt, Memo.kwt, Questionnaire.kwt and  ShortLetter.kwt.</p>
@@ -29,9 +37,9 @@ cp -a Additional `kde-config --localprefix`share/apps/kword/templates
 
 <p>In subsequent versions of KOffice we are going to provide more templates with the main program, and provide an easier method for installation of additional templates.</p>
 
-<h2>kde-files.org templates</h2>
+<h2><a name="kde-files">kde-files.org templates</a></h2>
 
-<p>You can find additional templates for KOffice applications at <a href="http://kde-files.org/index.php?xcontentmode=610x611x612x613x614x615">kde-files.org</a>. You download these templates and out them in your home directory for example.</p>
+<p>You can find additional templates for KOffice applications at <a href="http://kde-files.org/index.php?xcontentmode=610x611x612x613x614x615">kde-files.org</a>. You download these templates and put them in your home directory for example.</p>
 
 <p>You are encouraged to share your own templates and upload them on kde-files.org. Many thanks in advance!</p>
 
