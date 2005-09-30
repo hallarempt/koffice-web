@@ -27,7 +27,7 @@
       <p><b>Easy to Use:</b><br /></p>
       <ul>
         <li>default values for all parameters</li>
-        <li>automatic ordinate axis computation based on highest/lowest data value</li>
+        <!-- <li>automatic ordinate axis computation based on highest/lowest data value</li> -->
         <li>default sizes (fonts, line widths...) relative to the window size</li>
       </ul>
 
@@ -35,11 +35,11 @@
       <p><b>Highly Configurable:</b></p>
       <ul>
         <li>All of the parameters may be changed after configuring/drawing the chart.</li>
-        <li>Size values (axis/grid line width, font sizes, bar width, dataset gap,
+        <!-- <li>Size values (axis/grid line width, font sizes, bar width, dataset gap,
           pie chart radius ... ) may be specified in either absolute pixels or
           relative to the window size.  This makes your chart layout-independent
           since such values are being recalculated automatically when the window
-          dimensions have changed.</li>
+          dimensions have changed.</li> -->
       </ul>
       
       <p><b>Flexible Layout:</b></p>
@@ -52,20 +52,17 @@
 
       <p><b>Axes and Data:</b></p>
       <ul>
-        <li>Automatical ordinate axis computation based on highest/lowest data value
-          which can be easily replaced by programmer-defined start, end and delta
-          value settings.</li>
+        <li>Automatical ordinate axis computation based on highest/lowest data value</li>
         <li>Abscissa labels may be taken either from data cells containing the
-          respective strings or from programmer-defined QStringLists or calculated
-          automatically based on a format chosen by the user and values found
-          in the cells</li>
-        <li>Up to 8 axes: 2 left, 2 right, 2 top, 2 bottom</li>
-        <li>A chart may have 2 different ordinates: e.g. left axis for series 1,2,3
-          right axis for data series 4</li>
+          respective strings or from user-defined headings</li>
+        <!-- <li>Up to 8 axes: 2 left, 2 right, 2 top, 2 bottom</li> -->
+        <!-- <li>A chart may have 2 different ordinates: e.g. left axis for series 1,2,3
+          right axis for data series 4</li> -->
         <li>Each axis may draw (sub-)grid lines using their own color, line width,
           style</li>
       </ul>
 
+<!--
       <p><b>Chart Combinations:</b></p>
       <ul>
         <li>sharing the same abscissa axis or using different ones (e.g Top and
@@ -75,6 +72,7 @@
         <li>Axes may use the same line color / line width as the bars (or the lines,
           resp.) which they belong to.</li>
       </ul>
+-->
 
       <p><b>Chart Types:</b></p>
       <ul>
