@@ -77,13 +77,14 @@
       <p><b>Chart Types:</b></p>
       <ul>
         <li>Bar:    normal | stacked | percent, 2D | 3D-Look</li>
-        <li>Line:   normal | stacked | percent, 2D | 3D-Look,
-                  show marker: circle | square | diamond</li>
+        <li>Line:   normal | stacked | percent, line markers<!-- 2D | 3D-Look,
+                  show marker: circle | square | diamond --></li>
         <li>Area:   normal | stacked | percent</li>
         <li>HiLo:   normal | open-close</li>
-        <li>Pie:    normal | exploded | some exploded, 2D | 3D</li>
-        <li>Ring:   normal | exploded | some exploded,
-                  fixed thickness | relative thickness</li>
+        <li>Box &amp; Whiskers</li>
+        <li>Pie:    normal | exploded<!-- | some exploded -->, 2D | 3D</li>
+        <li>Ring<!-- :   normal | exploded | some exploded,
+                  fixed thickness | relative thickness --></li>
         <li>Polar:  normal | stacked | percent</li>
       </ul>
 
