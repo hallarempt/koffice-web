@@ -150,7 +150,7 @@ about that?</p>
 
     <td></td>
     <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#00FF00">Yes</td>
   </tr>
   <tr>
     <th>PNG export</th>
