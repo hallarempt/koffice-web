@@ -5,6 +5,9 @@
   include("header.inc");
 ?>
 
+     <p>We would like to thank Aaron Schradin from <a href="http://immersi.com">Immersi Solutions</a>
+     for hosting the koffice.org website.</p>
+
       <p>
       The following individuals and companies have supported KOffice with donations:
       </p>
@@ -22,7 +25,7 @@
 
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
       <tr><td valign="middle" align="left">
-            MandrivaSoft, the company behind
+            Mandriva, the company behind
             <a href="http://www.mandrivalinux.com/">Mandriva Linux</a>,
             supports KOffice in various ways, including financing KOffice developer Laurent Montel
 	    (formerly David Faure as well).</td>
@@ -62,7 +65,7 @@
 
       <p>
       <a href="mailto:jametrel<at>enoreo.on.ca">James Treleaven</a> sponsored
-      David Faure's application to the OASIS group for being part of the
+      the first year of David Faure's application to the OASIS group for being part of the
       Open Office Format discussion group, whose goal is to define a standard file format
       for office suites.
       </p>
