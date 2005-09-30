@@ -35,7 +35,7 @@ about that?</p>
   </tr>
   <tr>
     <th bgcolor="#FFFF00"></th>
-    <td>Feature is Partly Implemented</td>
+    <td>Feature is Partly Implemented (> 50%)</td>
   </tr>
   <tr>
     <th bgcolor="#FF0000">No</th>
@@ -89,13 +89,13 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
 
-    <td></td>
-
-    <td></td>
-
-    <td></td>
     <td bgcolor="#00FF00">Yes</td>
-    <td></td>
+
+    <td bgcolor="#00FF00">Yes</td>
+
+    <td bgcolor="#FF0000">No</td>
+    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#FF0000">No</td>
   </tr>
   <tr>
     <th>Embedding of other parts</th>
@@ -110,17 +110,17 @@ about that?</p>
 
     <td></td>
 
-    <td></td>
+    <td bgcolor="#808080">N/A</td>
 
     <td></td>
     <td bgcolor="#00FF00">Yes</td>
-    <td></td>
+    <td bgcolor="#808080">N/A</td>
   </tr>
   <tr>
     <th>Save / Load in OpenDoc format</th>
     <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#FFFF00"></td>
-    <td bgcolor="#FFFF00"></td>
+    <td bgcolor="#FF0000">No</td>
+    <td bgcolor="#FF0000">No</td>
 
     <td bgcolor="#FF0000">No</td>
     <td bgcolor="#FF0000">No</td>
@@ -132,7 +132,7 @@ about that?</p>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#FFFF00"></td>
-    <td></td>
+    <td bgcolor="#FF0000">No</td>
   </tr>
   <tr>
     <th>SVG export</th>
@@ -144,13 +144,13 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
     <td></td>
 
-    <td></td>
+    <td bgcolor="#808080">N/A</td>
 
-    <td></td>
+    <td bgcolor="#FF0000">No</td>
 
     <td></td>
     <td bgcolor="#00FF00">Yes</td>
-    <td></td>
+    <td bgcolor="#808080">N/A</td>
   </tr>
   <tr>
     <th>PNG export</th>
@@ -159,16 +159,16 @@ about that?</p>
     <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#00FF00">Yes</td>
-    <td></td>
+    <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
 
-    <td></td>
+    <td bgcolor="#808080">N/A</td>
 
-    <td></td>
+    <td bgcolor="#FF0000">No</td>
 
     <td></td>
     <td bgcolor="#00FF00">Yes</td>
-    <td></td>
+    <td bgcolor="#00FF00">Yes</td>
   </tr>
 </table>
 </p>
@@ -234,7 +234,7 @@ KOffice libraries.</p>
     <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#00FF00">Shared</td>
-    <th bgcolor="#FFFF00">To be shared</th>
+    <td bgcolor="#FFFF00">To be shared</td>
     <td bgcolor="#00FF00">Shared</td>
 
     <td bgcolor="#808080">N/A</td>
@@ -289,95 +289,97 @@ KOffice libraries.</p>
 
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#00FF00">Shared</td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#FF0000">Own</td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
   </tr>
 
   <tr>
     <th>Bird's eyeview panel</th>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FFFF00">To be shared</td>
     <td bgcolor="#FF0000">Own</td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
-    <td></td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
   </tr>
 
   <tr>
     <th>Toolbox</th>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FF0000">Own</td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
-    <td></td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
   </tr>
 
   <tr>
     <th>Rulers</th>
-    <td bgcolor="#00FF00">Yes</td>
-    <td></td>
-    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#00FF00">Shared</td>
 
-    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#FFFF00">To be shared</td>
     <td bgcolor="#FFFF00">To be shared</td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td></td>
-    <td></td>
-    <td></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#808080">N/A</td>
   </tr>
 
+<!--
   <tr>
     <th colspan="12"></th>
   </tr>
   <tr>
     <th>Template of a row in this table</th>
-    <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
 
-    <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FFFFFF"></td>
   </tr>
+-->
 </table>
 
 
