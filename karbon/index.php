@@ -47,8 +47,8 @@ drawings.</p>
 
 <p>For example: Karbon is useful for creating cartoons drawings or editing
 clip art which often needs to be resized to fit in a document or on a
-poster.  <a href="../krita">Krita</a> is more suited to painting pictures, or editing
-photographs</p>
+poster. <a href="../krita">Krita</a> is more suited to painting pictures or editing
+photographs.</p>
 
 <p>To get started with Karbon quickly, you might want to try opening
 and modifying some of the images from the
