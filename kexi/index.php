@@ -14,6 +14,18 @@
 Kexi is an integrated data management application. It can be used for creating database schemas, inserting data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share data and design.
 </p>
 
+<center>
+  <?php
+    $gallery = new ImageGallery("Karbon - Screenshot");
+    $gallery->addImage("pics/sampleDatabase_2005_09_330.png",
+                       "pics/sampleDatabase_2005_09.png",
+                       330, 237,
+                       "[Screenshot]", "",
+                       "Kexi with the example Database");
+    $gallery->show();
+  ?>
+</center>
+
 <p>
 As a real member of the KDE and KOffice projects, Kexi integrates fluently into both. It is designed to be fully usable also without KDE on Linux/Unix and MS Windows platforms (Mac OS X version planned).
 </p>
@@ -97,4 +109,9 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the a
 Kexi Project Home (mainly for power users and developers): <a href="http://www.kexi-project.org/">http://www.kexi-project.org/</a>
 </p>
 
+ <br />
+ <hr width="30%" align="center" />
+ <p>
+ Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+ </p>
 <?php include("footer.inc"); ?>
