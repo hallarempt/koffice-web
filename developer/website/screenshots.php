@@ -33,23 +33,24 @@ attractive screenshots at that resolution.</p>
   <tbody>
     <tr>
       <th>Location</th>
-      <th>Suggested Height</th>
       <th>Width</th>
+      <th>Suggested Height</th>
     </tr>
     <tr>
       <td>Application page</td>
-      <td>250</td>
       <td>330</td>
+      <td>250</td>
     </tr>
     <tr>
       <td>Gallery thumbnails</td>
-      <td>200</td>
       <td>270</td>
+      <td>200</td>
     </tr>
     <tr>
       <td>Gallery screenshots (suggested)</td>
-      <td>~640</td>
       <td>800-900</td>
+      <td>~640</td>
+
     </tr>
   </tbody>
 </table>
