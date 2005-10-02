@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-    <p>A list of TODO items we have decided will have to be present at least before an 1.0 release.</p>
+    <p>Here is a list of TODO items we have decided will have to be present at least before a 1.0 release (current version is 0.0.1).</p>
     <ul>
      <li> Requirements specification (DONE)</li>
      <li> Data structuring and class creation (DONE)</li>
@@ -24,7 +24,7 @@
     </ul>
 
     <p>
-    As we have chosen to use the KOffice framework there are a number of things that are amazingly easy to do;</p>
+    As we have chosen to use the KOffice framework there are a number of things that are amazingly easy to do:</p>
     <ul>
     <li>Printing is automatically done if zooming is allowed (we can do without zooming, but that makes the output look ugly)</li>
     <li>We can place any other KOffice document inside our view, and visa-versa. A Gantt in a KWord doc, a spreadsheet in a milestone...</li>
