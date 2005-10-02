@@ -12,7 +12,7 @@
 
 <p>KSpread is a scriptable spreadsheet program which provides both
 table-oriented sheets and support for complex mathematical formulas and
-statistics. KSpread's features include:</p>
+statistics.</p>
 
 <center>
   <?php
@@ -25,7 +25,7 @@ statistics. KSpread's features include:</p>
     $gallery->show();
   ?>
 </center>
-
+<p>KSpread's features include:
 <ul>
 <li>multiple tables/sheets per document;</li>
 <li>templates; </li>
@@ -44,6 +44,7 @@ statistics. KSpread's features include:</p>
 <li>cell customization (data/number format, precision, border, alignment, rotation, background color and pattern, 
 font type, style and size, etc.). </li>
 </ul>
+</p>
 
  <br />
  <hr width="30%" align="center" />
