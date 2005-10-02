@@ -5,8 +5,6 @@
   include("header.inc");
 ?>
 
-    <p>First a screenshot: <a href="basic-diag.png">Current</a></p>
-
     <p>A list of TODO items we have decided will have to be present at least before an 1.0 release.</p>
     <ul>
      <li> Requirements specification (DONE)</li>
