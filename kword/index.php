@@ -17,7 +17,7 @@
         $gallery = new ImageGallery("KWord - Screenshot");
         $gallery->addImage("pics/bidi_2005_09_270.png",
                            "pics/bidi_2005_09.png",
-                           268, 200,  "[Screenshot]", "", "KWord");
+                           270, 200,  "[Screenshot]", "", "KWord");
         $gallery->show();
         ?>
        </center>
