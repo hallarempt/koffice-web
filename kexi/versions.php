@@ -10,13 +10,6 @@ There are two kinds of Kexi release users can choose from: one bundled with KOff
 </p>
 
 <p>
-The most current Kexi released without KOffice is <b>0.9</b>
-See <a
-href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the announcement</a>.
-</p>
-
-
-<p>
 <b>Kexi Versions Released with KOffice</b><br/>
 Current Kexi version released together with KOffice 1.4 is <b>0.8</b>. See <a
 href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">the announcement</a>.
@@ -24,7 +17,12 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice
 
 <p>
 <b>Standalone Kexi Release</b><br/>
-Standalone Kexi releases usually provide more features than Kexi included in the newest KOffice release. This is possible because there are shoter release cycles within Kexi project comparing to release cycles of entire KOffice project.
+<p>
+The most current version Kexi released without KOffice is <b>0.9</b>. 
+See <a
+href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the announcement</a>.
+</p>
+Standalone Kexi releases usually provide more features than Kexi included in the newest KOffice release. This is possible because there are shoter release cycles within Kexi project comparing to release cycles of entire KOffice project. Standalone Kexi releases are designed to work well also when entire KOffice suite (with other Kexi version) is installed on the same computer.
 </p>
 
 <br />
