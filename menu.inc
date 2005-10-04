@@ -13,7 +13,6 @@ $section->appendDir("Add-ons for KOffice", "addons");
 $section->appendLink("People", "people.php");
 $section->appendDir("Mailing Lists", "contact");
 $section->appendDir("Support KOffice", "support");
-$section->appendDir("Get Involved", "getinvolved");
 
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
@@ -25,14 +24,14 @@ $section->appendDir("KOffice Workspace", "koshell");
 $section->appendDir("KWord", "kword");
 $section->appendDir("KSpread", "kspread");
 $section->appendDir("KPresenter", "kpresenter");
+$section->appendDir("Kexi", "kexi");
 $section->appendDir("Kivio", "kivio");
 $section->appendDir("Karbon14", "karbon");
 $section->appendDir("Krita", "krita");
-$section->appendDir("Kugar", "kugar");
 $section->appendDir("KPlato", "kplato");
-$section->appendDir("Kexi", "kexi");
 $section->appendDir("KChart", "kchart");
 $section->appendDir("KFormula", "kformula");
+$section->appendDir("Kugar", "kugar");
 $section->appendDir("Import/Export Filters", "filters");
 
 $section =& $this->appendSection("Download");
@@ -40,4 +39,5 @@ $section->appendDir("Download", "download");
 
 $section =& $this->appendSection("Development");
 $section->appendDir("Developer Resources", "developer");
+$section->appendDir("Get Involved", "getinvolved");
 ?>
