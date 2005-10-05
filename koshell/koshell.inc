@@ -4,7 +4,7 @@
   $appinfo->setVersion("1.4.88");
   $appinfo->setLicense("gpl");
   $appinfo->setCopyright("2001", "the KOffice Workspace Team");
-  $appinfo->addAuthor("Sven Lüppken", "sven@kde.org");
+  $appinfo->addMaintainer("Sven Lüppken", "sven@kde.org");
   $appinfo->addAuthor("Torben Weis",  "weis@kde.org");
   $appinfo->addAuthor("David Faure", "faure@kde.org");
 ?>
