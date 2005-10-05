@@ -10,7 +10,7 @@
   KOffice Suite since the release of KOffice 1.4.1.
 </p>
 
-<h3><a name="koffice_libs">KOffice Libraries</a></h3>
+<h3><a name="koffice_libs">All KOffice Applications (Libraries)</a></h3>
 
 <p>KOffice UI:</p>
 <ul>
@@ -18,6 +18,7 @@
   (<a href="http://bugs.kde.org/show_bug.cgi?id=109000">#109000</a>)</li>
   <li>"KoUnitDoubleSpinBox has a design flaw" 
   (<a href="http://bugs.kde.org/show_bug.cgi?id=106011">#106011</a>)</li>
+  <li>Open Document files can now embed documents that are not in Open Document format, e.g. Kivio.</li>
 </ul>
 
 <!--
@@ -29,19 +30,26 @@
 
 <h3><a name="kword">KWord</a></h3>
 <ul>
-  <li>KWord ignores lists indent after importing an Open Document file
-  (<a href="http://bugs.kde.org/show_bug.cgi?id=109223">#109223</a>)</li>
+  <li>Many fixes for Open Document file format</li>
+  <li>Fix: layout problem with large inline tables
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=112269">#112269</a>)</li>
+  <li>Fix: Variables lose their value when saved and reloaded.
+  (<a href="http://bugs.kde.org/show_bug.cgi?id=111478">#111478</a>)</li>
 </ul>
 
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
+  <li>Many fixes for Open Document file format</li>
   <li>Fix: "Scrolling left/right is very slow"
   (<a href="http://bugs.kde.org/show_bug.cgi?id=110551">#110551</a>)</li>
+  <li>Fix: Crash when we load file from gnumeric-1.5.90 (they changed file format again)</li>
 </ul>
+
 
 <h3><a name="kpresenter">KPresenter</a></h3>
 <ul>
+  <li>Many fixes for Open Document file format</li>
   <li>Fix: "Usability: Make use of "End"-key in a textframe"
   (<a href="http://bugs.kde.org/show_bug.cgi?id=112303">#112303</a>)</li>
 </ul>
