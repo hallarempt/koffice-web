@@ -18,7 +18,7 @@
       <p>You can download starting new projects on the <a href="http://kde-files.org/index.php?xcontentmode=612">kde-files.org KPresenter webpage</a>.<br />
       Click on each of these <tt>.kpr</tt> file to start KPresenter with it. </p>
 
-<p>Here is a <a href="../addons/templates_kpresenter.tar.gz">tarball of these 2 templates</a> that you can install and then they will be used in the Open New Document dialog in KPresenter.</p>
+<p>Here is a <a href="../addons/templates_kpresenter.tar.gz">tarball of these 2 Screen Presentations templates</a> that you can install and then they will be used in the Open New Document dialog in KPresenter.</p>
 
 <p><strong>Installation:</strong></p>
 
@@ -41,6 +41,8 @@ cp -a templates/* `kde-config --localprefix`share/apps/kpresenter/templates/
 <h2><a name="share">Share your own KPresenter templates</a></h2>
 <p>You are encouraged to share your own templates and upload them on <a href="http://kde-files.org/index.php?xcontentmode=612">kde-files.org, in the KPresenter section</a>. Many thanks in advance!</p>
 <p>Create your own templates in KPresenter using the <tt>File</tt> -&gt; <tt>Template manager</tt> menu. Read more information in the online handbook, in the <a href="http://docs.kde.org/development/en/koffice/kpresenter/creating-templates.html">Creating KPresenter Templates</a> section.</p>
+<p>Then tar and gzip the <tt>templates</tt> folder in your <tt>`kde-config --localprefix`share/apps/kpresenter/</tt> and upload them on the <a href="http://kde-files.org/index.php?xcontentmode=612">kde-files.org KPresenter webpage</a> and refer to this page on how to install them. <br />
+Many thanks in advance!</p>
 
 <br />
  <br />
