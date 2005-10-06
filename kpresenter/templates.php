@@ -15,21 +15,27 @@
       <p>
       KPresenter ships with some templates but you can get some more.
       </p>
-      <p>You can download templates on the <a href="http://kde-files.org/index.php?xcontentmode=612">kde-files.org KPresenter webpage</a>. </p>
+      <p>You can download starting new projects on the <a href="http://kde-files.org/index.php?xcontentmode=612">kde-files.org KPresenter webpage</a>.<br />
+      Click on each of these <tt>.kpr</tt> file to start KPresenter with it. </p>
 
+<p>Here is a <a href="../addons/templates_kpresenter.tar.gz">tarball of these 2 templates</a> that you can install and then they will be used in the Open New Document dialog in KPresenter.</p>
 
 <p><strong>Installation:</strong></p>
 
 <p>For a system wide installation (the templates will be available to all users on the system):</p>
 
 <pre>
-cp template_name $KDEDIR/share/apps/kpresenter/templates
+tar zxvf templates_kpresenter.tar.gz
+mkdir -p `kde-config --prefix`/share/apps/kpresenter/templates (might be as root)
+cp -a templates/* `kde-config --prefix`/share/apps/kpresenter/templates/ (might be as root)
 </pre>
 
 <p>For a single user installation:</p>
 
-<pre>mkdir -p `kde-config --localprefix`share/apps/kpresenter/templates
-cp template_name.kpr `kde-config --localprefix`share/apps/kpresenter/templates
+<pre>
+tar zxvf templates_kpresenter.tar.gz
+mkdir -p `kde-config --localprefix`share/apps/kpresenter/templates
+cp -a templates/* `kde-config --localprefix`share/apps/kpresenter/templates/
 </pre>
 
 <h2><a name="share">Share your own KPresenter templates</a></h2>
