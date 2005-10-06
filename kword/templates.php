@@ -4,8 +4,14 @@
   include("koffice.inc"); 
   include("header.inc");
 ?> 
-     
-<h2>Get more KWord templates</h2> 
+<div id="quicklinks">
+[
+  <a href="#get">Get new templates</a> |
+  <a href="#share">Share your templates</a>
+]
+</div>
+
+<h2><a name="get">Get more KWord templates</a></h2> 
       <p>
       KWord ships with some templates but you can get some more.
       </p>
@@ -27,7 +33,7 @@ cp -a Additional $KDEDIR/share/apps/kword/templates
 cp -a Additional `kde-config --localprefix`share/apps/kword/templates
 </pre>
 
-<h2>Share your own KWord templates</h2>
+<h2><a name="share">Share your own KWord templates</a></h2>
 <p>You are encouraged to share your own templates and upload them on <a href="http://kde-files.org/index.php?xcontentmode=610">kde-files.org, in the KWord section</a>. Many thanks in advance!</p>
 
  <br />
