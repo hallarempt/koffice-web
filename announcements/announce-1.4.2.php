@@ -36,11 +36,11 @@ like to highlight the following:
 <dl>
 <dt><strong>Improved OASIS OpenDocument Support</strong></dt>
 <dd>The support for the OpenDocument format has been greatly improved,
-especially in KWord, KSPread and KPresenter.</dd> 
+especially in KWord, KSpread and KPresenter.</dd> 
 
 <dt><strong>Major Improvement of Karbon, the vector application</strong></dt>
 <dd>Karbon is once again revitalized, and many fixes have gone into
-it.  See all the details below</dd>
+it.  See all the details in the list of changes linked below.</dd>
 </dl>
 
 <p>
