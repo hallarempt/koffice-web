@@ -6,13 +6,13 @@
 ?>
 
 <p align="justify">
-  DATELINE SEPTEMBER 29, 2005<br />
+  DATELINE OCTOBER 10, 2005<br />
 </p>
 <h2>
   The KDE Project Releases KOffice 1.4.2
 </h2>
 
-<p align="justify">September 29, 2005 (The INTERNET).
+<p align="justify">October 10, 2005 (The INTERNET).
 The <a href="http://www.kde.org/">KDE Project</a> today announced the
 release of KOffice 1.4.2 for Linux and Unix operating systems.
 KOffice is an integrated set of free office applications based on the
@@ -20,25 +20,28 @@ KOffice is an integrated set of free office applications based on the
 </p>
 
 <p align="justify">
-KOffice is the most comprehensive office suite in existence, yet
-light-weight and fast. It provides a variety of filters to
-interoperate with other popular office suites such as OpenOffice.org
-and Microsoft Office.   
+<a href="http://www.koffice.org/">KOffice</a> is the most
+comprehensive office suite in existence, yet light-weight and fast. It
+provides a variety of filters to interoperate with other popular
+office suites such as OpenOffice.org and Microsoft Office.
 </p>
 
 <h3>
-Major Improvement of Karbon, the vector application:
+Improvement
 </h3>
+This release is a bugfix release, which means that no new features
+have been added.  However, it contains many bugfixes, and we would
+like to highlight the following:
 
-<p>The major enhancements of this release are in the Karbon vector
-editing application.  Karbon is once again revitalized, and many fixes
-have gone into it.  Other improvements include:</p>
+<dl>
+<dt><strong>Improved OASIS OpenDocument Support</strong></dt>
+<dd>The support for the OpenDocument format has been greatly improved,
+especially in KWord, KSPread and KPresenter.</dd> 
 
-<ul>
-<li>Improved OASIS OpenDocument Support, especially in KWord and KPresenter</li>
-<li>Crash fix for Krita</li>
-<li>Various other bugfixes</li>
-</ul>
+<dt><strong>Major Improvement of Karbon, the vector application</strong></dt>
+<dd>Karbon is once again revitalized, and many fixes have gone into
+it.  See all the details below</dd>
+</dl>
 
 <p>
 Please take a look at the 
