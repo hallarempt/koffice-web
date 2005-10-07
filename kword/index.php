@@ -38,7 +38,7 @@
      <li>embedding of text frames, images and clip-art (.wmf and .svg files);</li>
      <li>chapter numbering;</li>
      <li>auto-generation of table of contents;</li>
-     <li>auto-correction and spell checking</li>
+     <li>auto-correction and spell checking;</li>
      <li>templates</li>
      </ul>
 
