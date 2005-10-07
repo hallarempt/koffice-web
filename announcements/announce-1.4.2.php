@@ -27,7 +27,7 @@ office suites such as OpenOffice.org and Microsoft Office.
 </p>
 
 <h3>
-Improvement
+Improvements
 </h3>
 This release is a bugfix release, which means that no new features
 have been added.  However, it contains many bugfixes, and we would
