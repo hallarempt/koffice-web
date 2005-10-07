@@ -36,7 +36,9 @@ like to highlight the following:
 <dl>
 <dt><strong>Improved OASIS OpenDocument Support</strong></dt>
 <dd>The support for the OpenDocument format has been greatly improved,
-especially in KWord, KSpread and KPresenter.</dd> 
+especially in KWord, KSpread and KPresenter. In particular, care has
+been taken to insure better interoperability with the new release
+candidate of Open Office 2.0.</dd> 
 
 <dt><strong>Major Improvement of Karbon, the vector application</strong></dt>
 <dd>Karbon is once again revitalized, and many fixes have gone into
