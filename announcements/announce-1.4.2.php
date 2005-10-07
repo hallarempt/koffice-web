@@ -41,8 +41,9 @@ been taken to insure better interoperability with the new release
 candidate of Open Office 2.0.</dd> 
 
 <dt><strong>Major Improvement of Karbon, the vector application</strong></dt>
-<dd>Karbon is once again revitalized, and many fixes have gone into
-it.  See all the details in the list of changes linked below.</dd>
+<dd>Karbon has seen a flurry of development lately, and many fixes
+have gone into it.  See all the details in the list of changes linked
+below.</dd> 
 </dl>
 
 <p>
