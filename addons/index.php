@@ -9,14 +9,15 @@
 
 <div id="quicklinks">
 [
-  <a href="#templates">KWord Templates</a> |
+  <a href="#kword">KWord Templates</a> |
+  <a href="#kpresenter">KPresenter Templates</a> |
   <a href="#kde-files">kde-files.org templates</a> |
   <a href="#thesauri">Thesauri</a> |
   <a href="#clipart">Clip Art</a>
 ]
 </div>
 
-<h2><a name="templates">KWord Templates</a></h2>
+<h2><a name="kword">KWord Templates</a></h2>
 
 <p>This package contains 7 KWord templates: InterofficeMemo.kwt, PayrollMasterRecordForm.kwt, Resume.kwt, SimpleLayout.kwt, Memo.kwt, Questionnaire.kwt and  ShortLetter.kwt.</p>
 
@@ -37,6 +38,10 @@ cp -a Additional `kde-config --localprefix`share/apps/kword/templates
 </pre>
 
 <p>In subsequent versions of KOffice we are going to provide more templates with the main program, and provide an easier method for installation of additional templates.</p>
+
+<h2><a name="kpresenter">KPresenter Templates</a></h2>
+<p>See <a href="../kpresenter/templates.php">here</a> on how to get 2 additional templates for KPresenter.
+</p>
 
 <h2><a name="kde-files">kde-files.org templates</a></h2>
 

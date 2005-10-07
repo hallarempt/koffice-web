@@ -1,7 +1,7 @@
 <?php
   $appinfo = new AppInfo("KPlato");
   $appinfo->setIcon( "pics/cr48-app-kplato.png", "48", "48");
-  $appinfo->setVersion("0.0.1");
+  $appinfo->setVersion($kplatoversion);
   $appinfo->setLicense("lgpl");
   $appinfo->setCopyright("2001", "the KPlato Team");
   $appinfo->addAuthor("Thomas Zander", "z&#x61;n&#x64;e&#00114;&#x40;&#107;&#x64;e&#x2e;&#x6f;&#0114;&#103;");

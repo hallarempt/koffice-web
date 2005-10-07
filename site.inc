@@ -23,5 +23,5 @@ $kugarversion='1.4.1';
 $kivioversion='1.4.1';
 $karbonversion='0.1';
 $kexiversion='0.9';
-
+$kplatoversion='0.0.1';
 ?>
