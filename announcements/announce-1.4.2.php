@@ -9,21 +9,30 @@
   DATELINE OCTOBER 10, 2005<br />
 </p>
 <h2>
-  The KDE Project Releases KOffice 1.4.2
+  KOffice 1.4.2 Released by the KDE Project 
 </h2>
 
 <p align="justify">October 10, 2005 (The INTERNET).
 The <a href="http://www.kde.org/">KDE Project</a> today announced the
-release of KOffice 1.4.2 for Linux and Unix operating systems.
-KOffice is an integrated set of free office applications based on the
-<a href="http://www.kde.org/awards/">award winning</a> KDE desktop.
+release of KOffice 1.4.2 for Linux and Unix operating systems. Support
+for the OPenDocument format, recently adopted by Massachusetts state
+in the USA, as been greatly improved, especially in KWord, KSpread and
+KPresenter.  Karbon, a vector-based drawing program, has also seen a
+lot of development lately, and many fixes have gone into it.
+</p>
+
+<p align="justify">
+David Faure, core developer, said "with good support for the
+OpenDocument format we can offer users a lightweight and integrated
+alternative to OpenOffice.
 </p>
 
 <p align="justify">
 <a href="http://www.koffice.org/">KOffice</a> is the most
-comprehensive office suite in existence, yet light-weight and fast. It
-provides a variety of filters to interoperate with other popular
-office suites such as OpenOffice.org and Microsoft Office.
+comprehensive office suite in existence, whilst also being
+light-weight and fast. It provides a variety of filters to
+interoperate with other popular office suites such as OpenOffice.org
+and Microsoft Office. It is developed as part of the KDE Project.
 </p>
 
 <h3>
