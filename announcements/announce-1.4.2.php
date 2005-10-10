@@ -24,7 +24,8 @@ lot of development lately, and many fixes have gone into it.
 <p align="justify">
 David Faure, core developer, said "with good support for the
 OpenDocument format we can offer users a lightweight and integrated
-alternative to OpenOffice.
+alternative to OpenOffice. KOffice also sports a number of unique
+features, such as being able to open and edit PDFs in KWord."
 </p>
 
 <p align="justify">
