@@ -49,8 +49,8 @@ In any case, you need the HEAD branch! (which is the default).</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
-<p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.3.x, arts, and kdelibs (kdebase recommended too).</p>
-<p>For the development version of KOffice you need Qt 3.3.x, arts, and kdelibs 3.3.</p>
+<p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.3.x, arts >= 1.3, and kdelibs >= 3.3.0 (kdebase >= 3.3.0 is recommended too).</p>
+<p>For the development version of KOffice you need Qt 3.3.x, arts >= 1.3, and kdelibs >= 3.3.0.</p>
 
 <p>Qt can be <a href="ftp://ftp.trolltech.com/qt/source/">download directly from Trolltech</a>
 and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/">can be downloaded from a KDE server</a>.</p>

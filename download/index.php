@@ -11,7 +11,7 @@
      <a href="source.php">compile from source</a>.</p>
 
      <h2>Download</h2>
-     <p>Qt 3.3.x, arts, and kdelibs packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
+     <p>Qt >= 3.3.x, arts >= 1.3, and kdelibs >= 3.3.0 packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
 
      <h3>Download sources: KOffice <?php echo $currentversion; ?></h3>
 
