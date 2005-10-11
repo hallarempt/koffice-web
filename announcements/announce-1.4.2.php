@@ -12,7 +12,7 @@
   KOffice 1.4.2 Released by the KDE Project 
 </h2>
 
-<p align="justify">October 10, 2005 (The INTERNET).
+<p align="justify">October 11, 2005 (The INTERNET).
 The <a href="http://www.kde.org/">KDE Project</a> today announced the
 release of KOffice 1.4.2 for Linux and Unix operating systems. Support
 for the OpenDocument format, recently adopted by Massachusetts state
