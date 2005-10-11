@@ -12,7 +12,7 @@
 
 <h3><a name="koffice_libs">All KOffice Applications (Libraries)</a></h3>
 
-<p>KOffice UI:</p>
+<em>KOffice UI:</em>
 <ul>
   <li>The new/open/recent documents dialog doesn't open non-local files if dimissed with the OK button
   (<a href="http://bugs.kde.org/show_bug.cgi?id=109000">#109000</a>)</li>

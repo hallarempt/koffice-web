@@ -15,8 +15,8 @@
 <p align="justify">October 10, 2005 (The INTERNET).
 The <a href="http://www.kde.org/">KDE Project</a> today announced the
 release of KOffice 1.4.2 for Linux and Unix operating systems. Support
-for the OPenDocument format, recently adopted by Massachusetts state
-in the USA, as been greatly improved, especially in KWord, KSpread and
+for the OpenDocument format, recently adopted by Massachusetts state
+in the USA, has been greatly improved, especially in KWord, KSpread and
 KPresenter.  Karbon, a vector-based drawing program, has also seen a
 lot of development lately, and many fixes have gone into it.
 </p>
@@ -60,7 +60,7 @@ below.</dd>
 Please take a look at the 
 <a href="http://www.koffice.org/announcements/changelog-1.4.2.php">list of
 changes</a> to see all the improvements made to KOffice since the
-<a href="http://www.koffice.org/announcements/announce-1.4.php">1.4.1 release</a>.
+<a href="http://www.koffice.org/announcements/announce-1.4.1.php">1.4.1 release</a>.
 </p>
 
 <h3>KOffice 1.4.2 consists of the following applications:</h3>
