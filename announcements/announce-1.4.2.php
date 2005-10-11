@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-  DATELINE OCTOBER 10, 2005<br />
+  DATELINE OCTOBER 11, 2005<br />
 </p>
 <h2>
   KOffice 1.4.2 Released by the KDE Project 
