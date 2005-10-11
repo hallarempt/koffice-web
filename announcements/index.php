@@ -10,6 +10,12 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>11 October 2005</strong>
+ - <a href="announce-1.4.2.php">KOffice 1.4.2 Announcement</a>
+<br />"<em>Improved Overall Stability, Better OASIS OpenDocument Support,
+Karbon sees much improvement.</em>"
+<p />
+
 <strong>25 July 2005</strong>
  - <a href="announce-1.4.1.php">KOffice 1.4.1 Announcement</a>
 <br />"<em>Improved Overall Stability, Better OASIS OpenDocument Support,
