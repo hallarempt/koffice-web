@@ -10,9 +10,25 @@
 <p>Note: beta versions of stable branch are <em>not</em> listed here, even if they
 might be concerned too.</p>
 
+<h2>KOffice 1.4.x</h2>
+
+<ul>
+  <li>
+    <a href="advisory-20051011-1.txt">
+      2005-10-11 KWord RTF importer buffer overflow (KOffice 1.2.0 to 1.4.1)
+    </a>
+  </li>
+</ul>
+
 <h2>KOffice 1.3.x</h2>
 
 <ul>
+  <li>
+    <a href="advisory-20051011-1.txt">
+      2005-10-11 KWord RTF importer buffer overflow (KOffice 1.2.0 to 1.4.1)
+    </a>
+  </li>
+
   <li>
     <a href="advisory-20050120-1.txt">
       2005-01-20 XPDF integer vulnerability, third problem (KOffice 1.3 to 1.3.5)
@@ -29,6 +45,18 @@ might be concerned too.</p>
     </a>
   </li>
 </ul>
+
+<h2>KOffice 1.2.x</h2>
+
+<ul>
+  <li>
+    <a href="advisory-20051011-1.txt">
+      2005-10-11 KWord RTF importer buffer overflow (KOffice 1.2.0 to 1.4.1)
+    </a>
+  </li>
+</ul>
+
+
 
 <?php
    ### TODO: news
