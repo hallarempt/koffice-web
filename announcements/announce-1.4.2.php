@@ -195,7 +195,7 @@ P.P.Box 30955<br />
 Windhoek<br />
 Namibia<br />
 Phone: +264 - 61 - 24 92 49<br />
-<a href="&#109;a&#105;l&#116;o:&#105;&#110;fo-&#0097;&#0102;r&#105;&#99;a&#x40;k&#100;e.&#111;&#x72;g">info-africa kde.org</a><br />
+<a href="&#109;a&#105;l&#116;o:&#105;&#110;fo-&#0097;&#0102;r&#105;&#99;a&#x40;k&#100;e.&#111;&#x72;g">info-africa<span>@</span>kde.org</a><br />
 </td>
 
 <td>
@@ -205,7 +205,7 @@ C-324 Defence Colony <br />
 New Delhi <br />
 India 110024 <br />
 Phone: +91-981807-8372 <br />
-<a href="ma&#0105;&#108;to&#00058;inf&#00111;-&#97;&#115;&#x69;a&#x40;kde.or&#x67;">info-asia kde.org</a>
+<a href="ma&#0105;&#108;to&#00058;inf&#00111;-&#97;&#115;&#x69;a&#x40;kde.or&#x67;">info-asia<span>@</span>kde.org</a>
 </td>
 
 </tr>
@@ -219,7 +219,7 @@ SE-590 71 Ljungsbro<br />
 Sweden<br />
 Phone: +46-13-290853<br />
 Fax: +46-13-214700<br />
-<a href="m&#x61;il&#0116;o&#x3a;i&#x6e;fo-&#00101;&#00117;rope&#64;k&#x64;&#x65;&#00046;o&#x72;&#00103;">info-europe kde.org</a>
+<a href="m&#x61;il&#0116;o&#x3a;i&#x6e;fo-&#00101;&#00117;rope&#64;k&#x64;&#x65;&#00046;o&#x72;&#00103;">info-europe<span>@</span>kde.org</a>
 </td>
 
 <td>
@@ -229,7 +229,7 @@ George Staikos <br />
 Toronto, ON, M5S 3K5 <br />
 Canada<br />
 Phone: (416)-925-4030 <br />
-<a href="&#109;ai&#x6c;&#x74;&#x6f;&#0058;i&#x6e;&#0102;o&#0045;no&#0114;t&#104;&#0097;m&#x65;&#x72;i&#x63;&#x61;&#x40;k&#x64;e&#46;&#0111;&#x72;&#x67;">info-northamerica kde.org</a><br />
+<a href="&#109;ai&#x6c;&#x74;&#x6f;&#0058;i&#x6e;&#0102;o&#0045;no&#0114;t&#104;&#0097;m&#x65;&#x72;i&#x63;&#x61;&#x40;k&#x64;e&#46;&#0111;&#x72;&#x67;">info-northamerica<span>@</span>kde.org</a><br />
 </td>
 
 </tr>
@@ -242,7 +242,7 @@ Hamish Rodda<br />
 Eltham VIC 3095<br />
 Australia<br />
 Phone: (+61)402 346684<br />
-<a href="&#109;&#x61;&#x69;&#x6c;&#x74;o:&#105;&#x6e;fo&#45;&#x6f;c&#101;&#x61;&#110;ia&#064;kde&#00046;org">info-oceania kde.org</a><br />
+<a href="&#109;&#x61;&#x69;&#x6c;&#x74;o:&#105;&#x6e;fo&#45;&#x6f;c&#101;&#x61;&#110;ia&#064;kde&#00046;org">info-oceania<span>@</span>kde.org</a><br />
 </td>
 
 <td>
@@ -252,7 +252,7 @@ R. Jos&eacute; de Alencar 120, apto 1906<br />
 Curitiba, PR 80050-240<br />
 Brazil<br />
 Phone: +55(41)262-0782 / +55(41)360-2670<br />
-<a href="ma&#105;&#x6c;&#116;&#x6f;&#x3a;&#0105;&#110;&#102;&#x6f;-&#00115;&#111;ut&#104;&#97;&#x6d;e&#0114;&#x69;ca&#0064;&#107;d&#x65;.&#111;r&#x67;">info-southamerica kde.org</a><br />
+<a href="ma&#105;&#x6c;&#116;&#x6f;&#x3a;&#0105;&#110;&#102;&#x6f;-&#00115;&#111;ut&#104;&#97;&#x6d;e&#0114;&#x69;ca&#0064;&#107;d&#x65;.&#111;r&#x67;">info-southamerica<span>@</span>kde.org</a><br />
 </td>
 
 </tr></table>
