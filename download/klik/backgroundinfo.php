@@ -1,6 +1,6 @@
 <?php
   $page_title="Background info to klik";
-  $site_root='../';
+  $site_root='../../';
   include("koffice.inc"); 
   include("header.inc");
 ?> 

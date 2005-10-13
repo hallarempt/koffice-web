@@ -1,6 +1,6 @@
 <?php
   $page_title="klik://koffice -- How to Test and How to Use it.";
-  $site_root='../';
+  $site_root='../../';
   include("koffice.inc"); 
   include("header.inc");
 ?> 
@@ -164,3 +164,4 @@ demo bundle), where <name-of-program> is one of the list below:</name-of-program
  Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
  </p>
 <?php include("footer.inc"); ?>
+

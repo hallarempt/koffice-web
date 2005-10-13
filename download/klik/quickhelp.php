@@ -1,6 +1,6 @@
 <?php
   $page_title="Quick Help";
-  $site_root='../';
+  $site_root='../../';
   include("koffice.inc"); 
   include("header.inc");
 ?> 

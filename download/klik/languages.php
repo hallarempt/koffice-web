@@ -1,6 +1,6 @@
 <?php
   $page_title="Switch Language for KOffice";
-  $site_root='../';
+  $site_root='../../';
   include("koffice.inc"); 
   include("header.inc");
 ?>

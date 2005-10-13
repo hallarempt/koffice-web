@@ -1,6 +1,6 @@
 <?php
   $page_title="klik Team is Looking For Maintainers";
-  $site_root='../';
+  $site_root='../../';
   include("koffice.inc"); 
   include("header.inc");
 ?> 
