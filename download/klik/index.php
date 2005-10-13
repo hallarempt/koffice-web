@@ -59,7 +59,7 @@ English (or whatever is used on your system). A list of current
 translations is documented in the file <i>"3.README.language-switch.odt"</i> (part of the klik bundle). How to do so is explained on the <a href="languages.php">Languages page</a>.</p>
 
 
-<h1>Bugs and Hints</h1>
+<h2>Bugs and Hints</h2>
 
 <p>This klik-ified KOffice bundle is still a highly experimental
 package. It is meant to be used for easy testing of KDE's latest and
@@ -94,7 +94,7 @@ future version -- we are not yet sure which alternative is more useful
 for testing).</p>
 
 
-<h1>Start Single Applications from Bundle</h1>
+<h2>Start Single Applications from Bundle</h2>
 By default, KOffice will start in "Workspace Mode". Workspace Mode
 gives you access to all components of this Office Suite at once.
 You can also start each individual application of this suite on its
