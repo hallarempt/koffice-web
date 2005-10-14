@@ -20,8 +20,8 @@
       See also the <a href="/developer/tasks">Task List</a>.</li>
       
       <li>write documentation. In this case, please
-      <a href="mailto:lauri@kde.org">contact Lauri Watts, the chief document writer of KDE</a>,
-      to discuss with her where to work.
+      <a href="mailto:raphael.langerhorst@kdemail.net">contact Raphael Langerhorst, the documentation coordinator for KOffice</a>,
+      to discuss with him where to work.
       (<a href="http://i18n.kde.org/doc/index-script.php">See also the documentation writing homepage</a>).
       </li>
 
