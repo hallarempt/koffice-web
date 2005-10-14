@@ -12,6 +12,12 @@ $gallery->addImage("pics/koffice-klik-koshell-kword_2005_10_270.png", "pics/koff
 $gallery->startNewRow();
 $gallery->addImage("pics/koffice-klik-koshell-karbon_2005_10_270.png", "pics/koffice-klik-koshell-karbon_2005_10.png", "270", "202", "[Screenshot]", 0 , "Karbon within the KOShell");
 $gallery->addImage("pics/koffice-klik-fileopen-preview-for-karbon_2005_10_270.png", "pics/koffice-klik-fileopen-preview-for-karbon_2005_10.png", "270", "202", "[Screenshot]", 0 , "Open a Karbon Document");
+$gallery->startNewRow();
+$gallery->addImage("pics/koffice-klik-requirements_2005_10_270.png", "pics/koffice-klik-requirements_2005_10.png", "270", "224", "[Screenshot]", 0 , "The klik://koffice requirements dialog");
+$gallery->addImage("pics/koffice-klik-kdialog-app-selection_2005_10_270.png", "pics/koffice-klik-kdialog-app-selection_2005_10.png", "270", "153", "[Screenshot]", 0 , "The available applications dialog");
+$gallery->startNewRow();
+$gallery->addImage("pics/koffice-klik-package-help_2005_10_270.png", "pics/koffice-klik-package-help_2005_10.png", "270", "340", "[Screenshot]", 0 , "The klik://koffice help dialog");
+$gallery->addImage("pics/koffice-klik-language-help_2005_10_270.png", "pics/koffice-klik-language-help_2005_10.png", "270", "294", "[Screenshot]", 0 , "The klik://koffice languages dialog");
 $gallery->show();
 ?>
 
