@@ -13,6 +13,7 @@
   <!--<a href="">klik development news</a> |-->
   <a href="quickhelp.php">Quick Help</a> |
   <a href="languages.php">Language Settings</a>
+  <a href="screenshots.php">Screenshots</a>
   <!--<a href="">klik+koffice tips and tricks</a> |-->
  <a href="maintainers.php">klik maintainership</a>
 ]
