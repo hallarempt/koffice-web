@@ -114,7 +114,7 @@ very well suited for the Linux and Unix desktop user.
 </p>
 
 <p>
-No separate Live CD will be generated for this release.
+Can't wait to see the new KOffice? Fetch the <a href="http://ktown.kde.org/~binner/klax/koffice.html">KOffice 1.4.2 Live-CD</a>.
 </p>
 
 <h3>Getting KOffice 1.4.2</h3>
