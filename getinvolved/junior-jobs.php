@@ -10,18 +10,16 @@
 <p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
-    <th></th>
     <th>Task Description</th>
     <th>Contact</th>
     <th>Date Target</th>
-    <th>Name of Applican</th>
+    <th>Name of Applicant</th>
   </tr>
   <tr>
-    <th></th>
-    <th>Kpresenter QWhatsThis help in Configure KPrsenter dialog</th>
-    <th>Anne-Marie Mahfouf</th>
-    <th>30th November 2005</th>
-    <th>-</th>
+    <td>Kpresenter QWhatsThis help in Configure KPresenter dialog</td>
+    <td>Anne-Marie Mahfouf</td>
+    <td>30th November 2005</td>
+    <td>-</td>
   </tr>
 </table>
 
