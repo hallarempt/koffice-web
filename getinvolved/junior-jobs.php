@@ -21,6 +21,12 @@
     <td>30th November 2005</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>http://bugs.kde.org/show_bug.cgi?id=112933</td>
+    <td>Thomas Zander</td>
+    <td>30th November 2005</td>
+    <td>-</td>
+  </tr>
 </table>
 
 <br />
