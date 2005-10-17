@@ -16,14 +16,14 @@
     <th>Name of Applicant</th>
   </tr>
   <tr>
-    <td>Kpresenter QWhatsThis help in Configure KPresenter dialog</td>
-    <td>Anne-Marie Mahfouf</td>
+    <td>Add Kpresenter QWhatsThis help in Configure KPresenter dialog</td>
+    <td><a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie Mahfouf</a></td>
     <td>30th November 2005</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>http://bugs.kde.org/show_bug.cgi?id=112933</td>
-    <td>Thomas Zander</td>
+    <td><a href="http://bugs.kde.org/show_bug.cgi?id=112933">http://bugs.kde.org/show_bug.cgi?id=112933</a></td>
+    <td><a href="mailto:zander@kde.org">Thomas Zander</a></td>
     <td>30th November 2005</td>
     <td>-</td>
   </tr>
