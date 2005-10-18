@@ -27,6 +27,19 @@
     <td>30th November 2005</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Add QWhatsThis help to the chart configuration dialog in KChart</td>
+    <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a> or
+	<a href="mailto:inge@lysator.liu.se">Inge Wallin</a></td>
+    <td>10th Dezember 2005</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Add QWhatsThis help to the cell format configuration dialog in KSpread</td>
+    <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
+    <td>10th Dezember 2005</td>
+    <td>-</td>
+  </tr>
 </table>
 
 <br />
