@@ -22,7 +22,7 @@ demo files. </p>
 
 <p>Here are the main <b>beneficial features</b> of klik-installed software:</p>
 
-<ul>
+<ul style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;"> 
  <li>klik software bundles do not interfere with your system base installation. </li>
  <li>klik software bundles follow the paradigm <i>"1 application = 1 file"</i>.</li>
  <li>klik software bundles are only a copy of one file with <i>.cmg</i> suffix in userspace.</li>
@@ -39,7 +39,7 @@ starter <i>".zAppRun"</i> (located in your home directory after a klik client in
 
 <p>Here are the main <b>limitations</b> of klik-installed software:</p>
 
-<ul>
+<ul style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;"> 
  <li>klik bundles are (for now) limited to a number of 7 which may be concurrently executed.</li>
  <li>klik bundles sometimes may not cleanly terminate and therefor block their mountpoints (see here for help).</li>
  <li>klik bundles may not run on *every single* system out there.</li>
@@ -77,7 +77,8 @@ future klik activities will then take place in user space.</p>
 
 <p>During the klik client installation you may have been asked: <i>"Please run $HOME/klik-cmg-install-root as root."</i> This is required once only (upon klik client installation), to create <i>7 additional mount points</i> in /etc/fstab:</p>
 
-<pre>  /tmp/app/1/image /tmp/app/1 cramfs,iso9660 user,noauto,ro,loop,exec 0 0
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;"> 
+  /tmp/app/1/image /tmp/app/1 cramfs,iso9660 user,noauto,ro,loop,exec 0 0
   [....]
   /tmp/app/7/image /tmp/app/7 cramfs,iso9660 user,noauto,ro,loop,exec 0 0
 </pre>

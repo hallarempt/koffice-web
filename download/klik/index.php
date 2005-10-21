@@ -14,6 +14,8 @@
   <a href="quickhelp.php">Quick Help</a> |
   <a href="languages.php">Language Settings</a> |
   <a href="screenshots.php">Screenshots</a> |
+  <a href="cheatcodes.php">Cheatcodes</a> |
+  <!--<a href="troubleshooting.php">Troubleshooting</a> |-->
   <!--<a href="">klik+koffice tips and tricks</a> |-->
  <a href="maintainers.php">klik maintainership</a>
 ]
@@ -83,9 +85,9 @@ will not be able to re-use settings which you had previously made.</p>
 
 <p>If you indeed <i>want</i> to use your standard KDE settings, delete or rename the directory <i>.kofficeklik</i> (underneath your <i>$HOME</i> directory) and create a symbolic link to your standard <i>$KDEHOME</i>:</p>
 
-<pre>           cd $HOME
-           rm -rf .kdeklik 
-           ln -s $(kde-config --localprefix) .kdeklik
+<pre style="border: 1pt dashed #999999; margin-left: 2em;  margin-right: 2em; padding: 2em; background: #ededed;"           cd $HOME
+           rm -rf .kofficeklik 
+           ln -s $(kde-config --localprefix) .kofficeklik
 </pre>
 
 <p>Last, this package will create additional K-Menu entries in addition
@@ -102,7 +104,7 @@ You can also start each individual application of this suite on its
 own, in "Single Application Mode". For the sake of this klik-able and
 self-contained demo file, at this time this is only possible with a
 commandline like this:
-<pre>	~/.zAppRun koffice.cmg <name-of-program>
+<pre style="border: 1pt dashed #999999; margin-left: 2em;  margin-right: 2em; padding: 2em; background: #ededed;"	~/.zAppRun koffice.cmg <name-of-program>
 	${HOME}/.zAppRun koffice.cmg karbon
 	/home/kurt/.zAppRun koffice.cmg kword
 </name-of-program></pre>
@@ -111,7 +113,7 @@ commandline like this:
 your home dir, .zAppRun is the wrapper script needed to run this klik
 demo bundle), where <name-of-program> is one of the list below:</name-of-program></p>
 
-<pre>	help-app       # displays this help
+<pre style="border: 1pt dashed #999999; margin-left: 2em;  margin-right: 2em; padding: 2em; background: #ededed;"	help-app       # displays this help
 	help-all       # displays all help screens
 
 	koshell        # Office Suite, Workspace Mode

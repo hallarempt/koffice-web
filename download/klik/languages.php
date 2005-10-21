@@ -10,20 +10,23 @@ localizations (other than English). To run the KOffice Workspace it
 suffices to just click on the file from Konqueror. To run on of the
 individual application contained in this suite via this klik demo
 bundle, you unfortunately need to type a command. Use it like this one:</p>
-<pre>	KDE_LANG=&lt;language-pre&gt; ~/.zAppRun koffice.cmg [application-name]
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;">
+	KDE_LANG=&lt;language-pre&gt; ~/.zAppRun koffice.cmg [application-name]
 </pre>
 
 <p>("~" is a shortcut for your home directory.)</p>
 
 <p><b>Example:</b> to run the KWord Word Processor in standalone mode in Spanish, use this command:</p>
 
-<pre>	KDE_LANG=es ~/.zAppRun koffice.cmg kword
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;">
+	KDE_LANG=es ~/.zAppRun koffice.cmg kword
 </pre>
 
 <p>Here is the list of currently available localisations:</p>
 
 
-<pre>     bg	   &lt;=&gt;  Bulgarian                         se    &lt;=&gt;  Swedish                  
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;">
+     bg	   &lt;=&gt;  Bulgarian                         se    &lt;=&gt;  Swedish                  
      eu	   &lt;=&gt;  Basque                            ds    &lt;=&gt;  German                   
      pt_BR &lt;=&gt;  Brazilian Portuguese              nb    &lt;=&gt;  Norwegian Bokmal         
      ca	   &lt;=&gt;  Catala                            ta    &lt;=&gt;  Tamil                    
@@ -43,17 +46,20 @@ bundle, you unfortunately need to type a command. Use it like this one:</p>
 language, prepend the startup commandline with the environment variable
 KDE_LANG. An example -- to run the KOffice Word Processor in Dutch:</p>
 
-<pre>	KDE_LANG=nl ~/.zAppRun koffice.cmg kword
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;">
+	KDE_LANG=nl ~/.zAppRun koffice.cmg kword
 </pre>
 
 <p>To see all 30 available languages, run this command:</p>
 
-<pre>	~/.zAppRun koffice.cmg show-languages
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;">
+	~/.zAppRun koffice.cmg show-languages
 </pre>
 
 <p>To display all help screens for this klik bundle, run this command:</p>
 
-<pre>	~/.zAppRun koffice.cmg show-allhelp 
+<pre style="border: 1pt dashed #bbbbbb; margin-left: 2em; margin-right: 2em; padding: 1em; background: #ededed;">
+	~/.zAppRun koffice.cmg show-allhelp 
 
 </pre>
 
