@@ -75,7 +75,7 @@ crashes. Some of these bugs may be our fault, the klik developers'.
 Some of them may be caused by incompatible libraries of this package
 with what it finds on your system (see the included document <em>"1.README.system-requirements.odt"</em> for the exact requirements to run this klik bundle).</p>
 
-<p>If you report bugs to us (<a href="mailto:klik-users@kde.org">klik-users@kde.org</a>), we can fix them in the future. If you report a bug, please be as specific as possible.</p>
+<p>If you report bugs to us (<a href="mailto:klik@kde.org">klik@kde.org</a>), we can fix them in the future. If you report a bug, please be as specific as possible.</p>
 
 <p>This package show-cases the klik technology as well as what new features KOffice-1.4.2 brings to its users.</p>
 
