@@ -18,26 +18,26 @@
   <tr>
     <td>Add Kpresenter QWhatsThis help in Configure KPresenter dialog</td>
     <td><a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie Mahfouf</a></td>
-    <td>30th November 2005</td>
+    <td>10th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td><a href="http://bugs.kde.org/show_bug.cgi?id=112933">http://bugs.kde.org/show_bug.cgi?id=112933</a></td>
     <td><a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a></td>
-    <td>30th November 2005</td>
+    <td>10th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td>Add QWhatsThis help to the chart configuration dialog in KChart</td>
     <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a> or
 	<a href="mailto:inge@lysator.liu.se">Inge Wallin</a></td>
-    <td>10th Dezember 2005</td>
+    <td>10th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td>Add QWhatsThis help to the cell format configuration dialog in KSpread</td>
     <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
-    <td>10th Dezember 2005</td>
+    <td>10th December 2005</td>
     <td>-</td>
   </tr>
 </table>
