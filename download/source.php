@@ -12,6 +12,7 @@
   <a href="stable">KOffice stable from tarballs</a> |
   <a href="unstable.php">KOffice unstable from svn</a> 
 ]
+</div>
 
 <h2>Links For Special Distributions</h2>
 <ul>
