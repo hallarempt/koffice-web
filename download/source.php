@@ -5,14 +5,22 @@
   include("header.inc");
 ?>
 
-      <h2>Links For Special Distributions</h2>
-      <ul>
-      <li><a href="http://ktown.kde.org/~binner/klax/koffice.html">
-        KOffice <?php echo $currentversion; ?> Live-CD</a></li>
-      </ul>
+<div id="quicklinks">
+[
+  <a href="requirements">Requirements</a> |
+  <!--<a href="">klik development news</a> |-->
+  <a href="stable">KOffice stable from tarballs</a> |
+  <a href="unstable.php">KOffice unstable from svn</a> 
+]
 
-      <h2>Requirements</h2>
-      <p>To compile KOffice you need:</p>
+<h2>Links For Special Distributions</h2>
+<ul>
+<li><a href="http://ktown.kde.org/~binner/klax/koffice.html">
+KOffice <?php echo $currentversion; ?> Live-CD</a></li>
+</ul>
+
+<h2><a name="requirements">Requirements</a></h2>
+<p>To compile KOffice you need:</p>
 <ul>
 <li>For KOffice <?php echo $currentversion; ?> or trunk versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
@@ -95,7 +103,7 @@ And then for each KDE package:<br />
       although it's a bit outdated.
       </p>
 
-      <h2>Download and Install KOffice</h2>
+      <h2><a name="stable">Install KOffice stable</h2>
 
       <p>
       <tt>bunzip2 koffice-XXXXXX.tar.bz2</tt><br />
@@ -140,4 +148,10 @@ And then for each KDE package:<br />
       <i>koshell</i> for easy access to all of the applications.
       </p>
 
+<br />
+ <br />
+ <hr width="30%" align="center" />
+ <p>
+ Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
+ </p>
 <?php include("footer.inc"); ?>
