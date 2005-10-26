@@ -70,7 +70,16 @@
     <td>10th December 2005</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td><b>Karbon</b>:  Usability: The tools should be grouped <a href="http://bugs.kde.org/show_bug.cgi?id=112691">http://bugs.kde.org/show_bug.cgi?id=112691</a></tt></td>
+    <td><a href="mailto:buis@kde.org">Rob Buis</a></td>
+    <td>10th December 2005</td>
+    <td>-</td>
+  </tr>
 </table>
+
+<p>If you want to take a JJ, please email your name to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be assigned to you.<br />
+When you complete the task, please either attach the patch to the bug report or send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
 
 <br />
  <br />
