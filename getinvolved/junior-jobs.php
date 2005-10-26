@@ -40,6 +40,13 @@
     <td>10th December 2005</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Kexi: Fix all "unused parameter" warnings, by commenting out parameter names in function definitions; for example, change void MyClass::method( int unusedArg ) {//...} to void MyClass::method( int unusedArg ) {
+        Q_UNUSED( unusedArg ); //...}</td>
+    <td><a href="mailto:js@iidea.pl">Jarosław Staniek</a></td>
+    <td>10th December 2005</td>
+    <td>-</td>
+  </tr>
 </table>
 
 <br />
