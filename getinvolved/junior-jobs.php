@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-    <p>Junior Jobs - October &amp; November targets</p>
+    <p>December 2005 targets</p>
 
 <p>
 <table cellspacing="0" cellpadding="3" border="1">
