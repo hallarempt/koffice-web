@@ -6,7 +6,7 @@
 ?>
 <h2>Junior Jobs - Become a new developer</h2>
 <p>An easy way to get involved and become familiar with KOffice applications is to start with <a href="junior-jobs.php">Junior Jobs</a>. These are easy tasks which are very much needed and by choosing one and doing it, you will get greatly help the KOffice Team for the next release.<br />
-Ask for more details to the contact if you are in doubt, we'll be very happy toguide your first steps!
+Ask for more details to the contact if you are in doubt, we'll be very happy to guide your first steps!
 </p>
 
 <h2>Other tasks<h2>
