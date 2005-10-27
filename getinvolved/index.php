@@ -4,7 +4,12 @@
   include("koffice.inc");
   include("header.inc");
 ?>
+<h2>Junior Jobs - Become a new developer</h2>
+<p>An easy way to get involved and become familiar with KOffice applications is to start with <a href="">Junior Jobs</a>. These are easy tasks which are very much needed and by choosing one and doing it, you will get greatly help the KOffice Team for the next release.<br />
+Ask for more details to the contact if you are in doubt, we'll be very happy toguide your first steps!
+</p>
 
+<h2>Other tasks<h2>
     <p>KOffice is a very large project. There are many fields where
     help is needed (all fields, in fact). If you want to contribute
     to KOffice you could:</p>

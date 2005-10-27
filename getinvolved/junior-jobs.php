@@ -82,12 +82,6 @@
     <td>10th December 2005</td>
     <td>-</td>
   </tr>
-  <tr>
-    <td><b>Karbon</b>:  Usability: The color picker is bad. If that one is solved, it'll solve the above one as well. <a href="http://bugs.kde.org/show_bug.cgi?id=114429">http://bugs.kde.org/show_bug.cgi?id=114429</a></tt></td>
-    <td><a href="mailto:tbscope@gmail.com">Tim Beaulen</a></td>
-    <td>10th December 2005</td>
-    <td>-</td>
-  </tr>
 </table>
 
 <p>If you want to take a JJ, please email your name to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be assigned to you.<br />
