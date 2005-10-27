@@ -59,12 +59,6 @@
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  add image export to Karbon SVG filter <a href="http://bugs.kde.org/show_bug.cgi?id=113014">http://bugs.kde.org/show_bug.cgi?id=113014</a></tt></td>
-    <td><a href="mailto:buis@kde.org">Rob Buis</a></td>
-    <td>10th December 2005</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td><b>Karbon</b>:  fix units <a href="http://bugs.kde.org/show_bug.cgi?id=115010">http://bugs.kde.org/show_bug.cgi?id=115010</a></tt></td>
     <td><a href="mailto:tbscope@gmail.com">Tim Beaulen</a></td>
     <td>10th December 2005</td>
