@@ -8,11 +8,14 @@
 </p>
 <p>You need qt >3.3.0 + headers (devel packages if from your distribution), kdelibs >= 3.4.0 + headers, arts >=1.4
 </p>
+<p><tt>svn</tt> is in the subversion package from your distribution.</p>
+<p>Type <tt>configure --help</tt> if you want to use configure options.</p>
+
 <pre>
     $ svn co svn://anonsvn.kde.org/home/kde/trunk/koffice
     $ cd koffice
     $ make -f Makefile.cvs
-    $ ./configure --prefix=$KDEDIR
+    $ ./configure 
     $ make
     $ su -c 'make install'
 </pre>
