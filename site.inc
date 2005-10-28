@@ -6,8 +6,6 @@ $site = "koffice";
 // promote title to use
 $site_title = i18n_var("The KOffice Project");
 
-$site_logo_right = siteLogo("/media/images/koffice.png", "64", "64");
-
 $name = "koffice.org Web Team";
 $mail = "webmaster@kde.org";
 $currentversion='1.4.2';
