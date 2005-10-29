@@ -10,6 +10,16 @@
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice development-in-progress overview</title>
+<date>29th October, 2005</date>
+<fullstory>
+The October issue of <a href="http://www.canllaith.org/svn-features/svn-koffice.html">&quot;This Month in SVN&quot;</a> reports on the progress the in-develpement version of KOffice 1.5 which will be released in a couple of months.
+Jessica Hall lists the biggest changes that already have been made since the last stable release. Topics covered include accessibility improvements, Krita one step closer to world domination and how you can help out.
+Thanks a lot to J.Hall for her praising words and endless patience on getting a development version to work for her!
+</fullstory>
+</item>
+
+<item>
 <title>Linux Magazine Review of KOffice</title>
 <date>14th October, 2005</date>
 <fullstory>
