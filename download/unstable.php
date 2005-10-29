@@ -21,7 +21,7 @@
     $ su -c 'make install'
 </pre>
 
-To maintain your copy up-to-date, you will do:
+<i>To maintain your copy up-to-date</i>, you will do:
 
 <pre>
     $ cd koffice
