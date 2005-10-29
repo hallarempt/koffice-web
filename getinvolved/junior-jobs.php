@@ -67,7 +67,7 @@
   <tr>
     <td><b>Kexi</b>: Fix all "unused parameter" warnings, by commenting out parameter names in function definitions; for example, change <tt>void MyClass::method( int unusedArg ) {//...}</tt><br /> to<br /> <tt>void MyClass::method( int unusedArg ) {Q_UNUSED( unusedArg ); //...}</tt></td>
     <td><a href="mailto:js@iidea.pl">Jarosław Staniek</a></td>
-    <td>10th December 2005</td>
+    <td><b>DONE</b></td>
     <td>Kouzinopoulos Haris</td>
   </tr>
   <tr>
