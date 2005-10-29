@@ -30,7 +30,7 @@ To maintain your copy up-to-date, you will do:
     $ su -c 'make install'
 </pre>
 
-After that, if you get some message in the make stage, rerun:
+After that, if you get some error message in the make stage, rerun:
 <pre>
     $ make -f Makefile.cvs
     $ ./configure 
