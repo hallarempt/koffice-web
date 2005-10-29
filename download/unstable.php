@@ -10,7 +10,7 @@
 </p>
 <p><tt>svn</tt> is in the subversion package from your distribution.</p>
 <p>Type <tt>configure --help</tt> if you want to use configure options.</p>
-<p>After you finish <tt>./configure</tt>, look at the output and install all missing packages (+ devel or dev)  mentioned and re-run  <tt>./configure</tt>.</p>
+<p><b>Note</b>: after you finish <tt>./configure</tt>, look at the output and install all missing packages (+ devel or dev)  mentioned and re-run  <tt>./configure</tt>.</p>
 
 <pre>
     $ svn co svn://anonsvn.kde.org/home/kde/trunk/koffice
@@ -20,6 +20,27 @@
     $ make
     $ su -c 'make install'
 </pre>
+
+To maintain your copy up-to-date, you will do:
+
+<pre>
+    $ cd koffice
+    $ svn up
+    $ make
+    $ su -c 'make install'
+</pre>
+
+After that, if you get some message in the make stage, rerun:
+<pre>
+    $ make -f Makefile.cvs
+    $ ./configure 
+    $ make
+    $ su -c 'make install'
+</pre>
+
+
+
+
 
 <br />
 <br />
