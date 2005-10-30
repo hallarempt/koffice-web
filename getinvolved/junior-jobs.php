@@ -74,7 +74,7 @@
     <td>Add <b>Kpresenter</b> QWhatsThis help in Configure KPresenter dialog</td>
     <td><a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie Mahfouf</a></td>
     <td>10th December 2005</td>
-    <td>-</td>
+    <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
     <td><b>KPresenter</b>:  Usability: Most basic resizing operation for pictures are not possible. <a href="http://bugs.kde.org/show_bug.cgi?id=112310">http://bugs.kde.org/show_bug.cgi?id=112310</a></tt></td>
