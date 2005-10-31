@@ -73,7 +73,7 @@
   <tr>
     <td>Add <b>Kpresenter</b> QWhatsThis help in Configure KPresenter dialog</td>
     <td><a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie Mahfouf</a></td>
-    <td>10th December 2005</td>
+    <td><b>DONE</b></td>
     <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
