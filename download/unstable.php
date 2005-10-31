@@ -11,6 +11,7 @@
 <p><tt>svn</tt> is in the subversion package from your distribution.</p>
 <p>Type <tt>configure --help</tt> if you want to use configure options.</p>
 <p><b>Note</b>: after you finish <tt>./configure</tt>, look at the output and install all missing packages (+ devel or dev)  mentioned and re-run  <tt>./configure</tt>.</p>
+<p>Please refer to <a href="http://mail.kde.org/pipermail/kexi/2005-October/000025.html">http://mail.kde.org/pipermail/kexi/2005-October/000025.html</a> to know more about setting some environment variable in order not to crush your existing KOffice installation and to <a href="http://developer.kde.org/documentation/other/developer-faq.html#q2.18.2">http://developer.kde.org/documentation/other/developer-faq.html#q2.18.2</a>.</p>
 
 <pre>
     $ svn co svn://anonsvn.kde.org/home/kde/trunk/koffice
