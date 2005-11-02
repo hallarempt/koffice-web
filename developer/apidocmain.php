@@ -39,7 +39,7 @@
     }
     else
     {
-        echo "<a href=\"http://developer.kde.org/documentation/library/cvs-api/koffice-apidocs/\">Index (from koffice.org)</a>";
+        echo "<a href=\"http://www.koffice.org/developer/apidocs\">Index (from koffice.org)</a>";
     }
 ?>
       </li>
