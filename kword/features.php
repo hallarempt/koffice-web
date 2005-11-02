@@ -20,8 +20,8 @@
       
       <p>
       <b>Frame Orientation:</b><br />
-      KWord is not, as most wordprocessors, page orientated - KWord is frame
-      orientated. This means there is at least one <i>frame sets</i> which
+      KWord is not, as most wordprocessors, page oriented - KWord is frame
+      oriented. This means there is at least one <i>frame sets</i> which
       consists of <i>frames</i> and <i>text</i> (paragraphs). 
       Your text is shown (or positioned) via frames, and these frames belong
       together via the text they contain.
