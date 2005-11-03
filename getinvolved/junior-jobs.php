@@ -92,7 +92,7 @@
     <td><b>KSpread</b>: Add QWhatsThis help to the cell format configuration dialog.</td>
     <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
     <td>10th December 2005</td>
-    <td>-</td>
+    <td>Anne-Marie Mahfouf</td>
   </tr>
 </table>
 
