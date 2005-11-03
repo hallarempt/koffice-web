@@ -20,14 +20,14 @@
       
       <p>
       <b>Frame Orientation:</b><br />
-      KWord is not, as most wordprocessors, page oriented - KWord is frame
-      oriented. This means there is at least one <i>frame sets</i> which
-      consists of <i>frames</i> and <i>text</i> (paragraphs). 
-      Your text is shown (or positioned) via frames, and these frames belong
-      together via the text they contain.
-      If you create a new
-      frame you can either connect (add) it to an already existing frame set or
-      you can create a new frame set with a new text.
+
+      KWord is not page oriented like most wordprocessors are - KWord uses
+      frames instead.  This means that any story is displayed in a set of
+      frames where the normal pages based setup is emulated by showing one
+      frame per page.  The user can create various stories and use the frames
+      to position and flow the text accross columns and pages.<br>
+      This system is easy, yet powerfull enough to range from simple letters to
+      layouts like you see in a newspaper.
       </p>
       
       <p>
