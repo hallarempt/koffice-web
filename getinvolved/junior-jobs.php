@@ -104,6 +104,7 @@
 
 <p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be assigned to you.<br />
 When you complete the task, please either attach the patch to the bug report or send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
+<p>It is prefered to use KOffice svn trunk code to work on JJ, which is the next coming 1.5 release.</p>
 
 <br />
  <br />
