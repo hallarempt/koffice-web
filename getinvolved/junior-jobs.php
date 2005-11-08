@@ -18,7 +18,7 @@
   <tr>
     <td><a href="http://bugs.kde.org/show_bug.cgi?id=112933">http://bugs.kde.org/show_bug.cgi?id=112933</a></td>
     <td><a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a></td>
-    <td>10th December 2005</td>
+    <td><b>DONE</b></td>
     <td><a href="mailto:maju7@o2.pl">maju</a></td>
   </tr>
   <tr>
