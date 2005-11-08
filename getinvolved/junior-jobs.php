@@ -77,13 +77,13 @@
     <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
-    <td><b>KPresenter</b>:  Usability: Most basic resizing operation for pictures are not possible. <a href="http://bugs.kde.org/show_bug.cgi?id=112310">http://bugs.kde.org/show_bug.cgi?id=112310</a></tt></td>
+    <td><b>KPresenter</b>:  Usability: Most basic resizing operation for pictures are not possible. <a href="http://bugs.kde.org/show_bug.cgi?id=112310">http://bugs.kde.org/show_bug.cgi?id=112310</a></td>
     <td><a href="mailto:montel@kde.org">Laurent Montel</a></td>
     <td>10th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>KPresenter</b>:  Usability: Make "Keep Ratio" for pictures easiert to reach. <a href="http://bugs.kde.org/show_bug.cgi?id=112306">http://bugs.kde.org/show_bug.cgi?id=112306</a></tt></td>
+    <td><b>KPresenter</b>:  Usability: Make "Keep Ratio" for pictures easiert to reach. <a href="http://bugs.kde.org/show_bug.cgi?id=112306">http://bugs.kde.org/show_bug.cgi?id=112306</a></td>
     <td><a href="mailto:montel@kde.org">Laurent Montel</a></td>
     <td>10th December 2005</td>
     <td>Giovanni Venturi</td>
@@ -93,6 +93,12 @@
     <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
     <td>10th December 2005</td>
     <td>Anne-Marie Mahfouf</td>
+  </tr>
+  <tr>
+    <td><b>KSpread</b>: Add QWhatsThis help to the Configure dialog and update doc section at the same time. <a href="http://bugs.kde.org/show_bug.cgi?id=115926">http://bugs.kde.org/show_bug.cgi?id=115926</a></td>
+    <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
+    <td>10th December 2005</td>
+    <td>-</td>
   </tr>
 </table>
 
