@@ -9,7 +9,7 @@
 Ask for more details to the contact if you are in doubt, we'll be very happy to guide your first steps!
 </p>
 
-<h2>Other tasks<h2>
+<h2>Other tasks</h2>
     <p>KOffice is a very large project. There are many fields where
     help is needed (all fields, in fact). If you want to contribute
     to KOffice you could:</p>
