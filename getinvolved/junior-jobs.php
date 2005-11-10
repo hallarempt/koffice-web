@@ -6,7 +6,7 @@
 ?>
 
     <p>December 2005 targets</p>
-
+<p>It is prefered to use KOffice svn trunk code to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
 <p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
@@ -104,7 +104,6 @@
 
 <p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be assigned to you.<br />
 When you complete the task, please either attach the patch to the bug report or send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
-<p>It is prefered to use KOffice svn trunk code to work on JJ, which is the next coming 1.5 release.</p>
 
 <br />
  <br />

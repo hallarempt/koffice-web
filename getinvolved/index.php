@@ -4,12 +4,16 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-<h2>Junior Jobs - Become a new developer</h2>
+<h2><a href="junior-jobs.php">Junior Jobs - Become a new developer</a></h2>
 <p>An easy way to get involved and become familiar with KOffice applications is to start with <a href="junior-jobs.php">Junior Jobs</a>. These are easy tasks which are very much needed and by choosing one and doing it, you will get great help the KOffice Team for the next release.<br />
 Ask for more details to the contact if you are in doubt, we'll be very happy to guide your first steps!
 </p>
 
-<h2>Other tasks</h2>
+<h2><a href="doc-writer.php">Junior Jobs - Become a new doc writer</a></h2>
+<p>You can find <a href="doc-writer.php">here some Junior Jobs tasks</a> related to writing or updating KOffice documentation.</p>
+<p>Please read the <a href="howto-write-doc.php">How to write documentation guide</a> in order to learn some very useful tips!</p>
+
+<h2>Other tasks<h2>
     <p>KOffice is a very large project. There are many fields where
     help is needed (all fields, in fact). If you want to contribute
     to KOffice you could:</p>
@@ -24,11 +28,11 @@ Ask for more details to the contact if you are in doubt, we'll be very happy to 
       <li>fix small bugs if you find them and send a patch.
       See also the <a href="/developer/tasks">Task List</a>.</li>
       
-      <li>write documentation. In this case, please
+      <!--<li>write documentation. In this case, please
       <a href="mailto:raphael.langerhorst@kdemail.net">contact Raphael Langerhorst, the documentation coordinator for KOffice</a>,
       to discuss with him where to work.
       (<a href="http://i18n.kde.org/doc/index-script.php">See also the documentation writing homepage</a>).
-      </li>
+      </li>-->
 
       <li><a href="http://i18n.kde.org">translate KOffice</a></li>
 
