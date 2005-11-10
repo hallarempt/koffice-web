@@ -6,7 +6,7 @@
 ?>
 
     <p>December 2005 targets</p>
-<p>It is prefered to use KOffice svn trunk code to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
+<p>It is prefered to use <b>KOffice svn trunk code</b> to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
 <p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
