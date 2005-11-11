@@ -5,8 +5,6 @@
   include("header.inc");
 ?>
 
-<h2>Here you find Information on how to write KOffice documentation</h2>
-
 <p><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a>
 coordinates KOffice documentation work, please contact him for any
 questions or feedback.</p>
@@ -15,7 +13,10 @@ questions or feedback.</p>
 
 <p>A cookbook for writing KOffice documentation including long term plans
 is currently being prepared and will be available here when it is ready,
-contact Raphael if you want a preliminary version.</p>
+contact Raphael if you want a preliminary version.
+<br />
+Note: you can also find the current draft version in the doc subdirectory
+of <a href="http://www.koffice.org/download/source.php">koffice svn</a>.</p>
 
 <h3>Tips and Tricks</h3>
 
