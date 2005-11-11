@@ -19,11 +19,11 @@
     <th>Name of Applicant</th>
   </tr>
   <tr>
-    <th>Update application startup instructions in all handbooks with
-        respect to the new KOffice startup dialog. Especially screenshots!</th>
-    <th><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></th>
-    <th>20th December 2005</th>
-    <th>-</th>
+    <td>Update application startup instructions in all handbooks with
+        respect to the new KOffice startup dialog. Especially screenshots!</td>
+    <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
+    <td>20th December 2005</td>
+    <td>-</td>
   </tr>
 </table>
 
