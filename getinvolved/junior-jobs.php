@@ -6,7 +6,7 @@
 ?>
 
 <div id="quicklinks">[
-	<a href="doc-writers.php">Doc JJ</a> |
+	<a href="doc-writers.php">Doc Junior Jobs</a> 
 	]
 </div>
 

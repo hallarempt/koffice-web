@@ -5,6 +5,11 @@
   include("header.inc");
 ?>
 
+<div id="quicklinks">[
+	<a href="junior-jobs.php">Development Junior Jobs</a> 
+	]
+</div>
+
     <p>January 2006 targets</p>
 <p>It is prefered to use KOffice svn trunk code to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
 <p><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a> is the documentation coordinator for KOffice documentation.</p>
