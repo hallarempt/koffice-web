@@ -19,16 +19,17 @@ contact Raphael if you want a preliminary version.</p>
 
 <h3>Tips and Tricks</h3>
 
-<p>Here are some tips about your editor:
+<p>Here are some tips about your <b>editor</b>:
 
 <ul>
     <li>set your editor to wrap lines at 80 characters</li>
     <li>open and save as utf8 in your editor</li>
     <li>choose the docbook syntax highlighting</li>
+</ul>
 </p>
 
-<p>Screenshots: theme, style and color can be set in KControl.
-Please use KDE defaults as much as possible for consistent screenshots.</p>
+<p><b>Screenshots</b>: theme, style and color can be set in KControl. Theme and style are <tt>Plastik</tt> and color is KDE default.<br />
+Please use those KDE defaults as much as possible for consistent screenshots along with standard fonts.</p>
 
 <h3>Information on KDE Documentation</h3>
 
