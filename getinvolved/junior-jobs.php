@@ -5,6 +5,11 @@
   include("header.inc");
 ?>
 
+<div id="quicklinks">[
+	<a href="doc-writers.php">Doc JJ</a> |
+	]
+</div>
+
     <p>December 2005 targets</p>
 <p>It is prefered to use <b>KOffice svn trunk code</b> to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
 <p>

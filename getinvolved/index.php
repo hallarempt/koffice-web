@@ -9,8 +9,8 @@
 Ask for more details to the contact if you are in doubt, we'll be very happy to guide your first steps!
 </p>
 
-<h2><a href="doc-writer.php">Junior Jobs - Become a new doc writer</a></h2>
-<p>You can find <a href="doc-writer.php">here some Junior Jobs tasks</a> related to writing or updating KOffice documentation.</p>
+<h2><a href="doc-writers.php">Junior Jobs - Become a new doc writer</a></h2>
+<p>You can find <a href="doc-writers.php">here some Junior Jobs tasks</a> related to writing or updating KOffice documentation.</p>
 <p>Please read the <a href="howto-write-doc.php">How to write documentation guide</a> in order to learn some very useful tips!</p>
 
 <h2>Other tasks<h2>
