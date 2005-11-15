@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td><b>KSpread</b>: change all "document" reference to "workbook" in GUI, tooltips, qwhatsthis and doc. <a href="http://bugs.kde.org/show_bug.cgi?id=116450">http://bugs.kde.org/show_bug.cgi?id=116450</a></td>
-    <td><a href="mailto:robertknight () gmail ! com>">Robert Knight</a></td>
+    <td><a href="mailto:robertknight () gmail ! com">Robert Knight</a></td>
     <td>10th December 2005</td>
     <td>-</td>
   </tr>
