@@ -109,7 +109,7 @@
     <td><b>KSpread</b>: Add QWhatsThis help to the Configure dialog and update doc section at the same time. <a href="http://bugs.kde.org/show_bug.cgi?id=115926">http://bugs.kde.org/show_bug.cgi?id=115926</a></td>
     <td><a href="mailto:raphael.langerhorst () kdemail ! net">Raphael Langerhorst</a></td>
     <td>10th December 2005</td>
-    <td>-</td>
+    <td>Anne-Marie Mahfouf</td>
   </tr>
 </table>
 
