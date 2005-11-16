@@ -66,8 +66,8 @@
   <tr>
     <td><b>KChart</b>: Usability: Chart creation wizard should allow you to switch from row-ordered data to column-ordered data. <a href="http://bugs.kde.org/show_bug.cgi?id=114995">http://bugs.kde.org/show_bug.cgi?id=114995</a></td>
     <td><a href="mailto:inge () lysator ! liu ! se">Inge Wallin</a></td>
-    <td>10th December 2005</td>
-    <td>-</td>
+    <td><b>DONE</b></td>
+    <td>Alexander Rieder</td>
   </tr>
   <tr>
     <td><b>Kexi</b>: Fix all "unused parameter" warnings, by commenting out parameter names in function definitions; for example, change <tt>void MyClass::method( int unusedArg ) {//...}</tt><br /> to<br /> <tt>void MyClass::method( int unusedArg ) {Q_UNUSED( unusedArg ); //...}</tt></td>
