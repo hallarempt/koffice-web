@@ -90,7 +90,7 @@
   <tr>
     <td><b>KPresenter</b>:  Usability: Make "Keep Ratio" for pictures easiert to reach. <a href="http://bugs.kde.org/show_bug.cgi?id=112306">http://bugs.kde.org/show_bug.cgi?id=112306</a></td>
     <td><a href="mailto:montel () kde ! org">Laurent Montel</a></td>
-    <td>10th December 2005</td>
+    <td><b>DONE</b></td>
     <td>Giovanni Venturi</td>
   </tr>
   <tr>
