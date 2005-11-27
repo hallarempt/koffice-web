@@ -10,6 +10,16 @@
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice gets major boost for the (near) blind</title>
+<date>27th November, 2005</date>
+<fullstory>
+KOffice is a part of KDE which means that assistive technologies already available in KDE will be available in KOffice.  This was not yet the case for so called Text-to-Speech (TTS) technologies. Until today!<br>
+The next KOffice release will allow near blind users to have the text spoken of widgets under the mouse pointer and/or widgets that have the focus. It also adds a "Speak Text" option in the context menu of the KWord Document Structure Area, which is useful for speaking a document.<br>
+The <a href="http://phantomsdad.blogspot.com/2005/11/koffice-gets-text-to-speech.html">developers blog</a> has more details.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice development-in-progress overview</title>
 <date>29th October, 2005</date>
 <fullstory>
