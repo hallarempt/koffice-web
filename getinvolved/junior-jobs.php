@@ -111,6 +111,12 @@
     <td><b>DONE</b></td>
     <td>Anne-Marie Mahfouf</td>
   </tr>
+  <tr>
+    <td><b>KWord</b>: Action for "double linespacing", to assign a shortcut to it. <a href="http://bugs.kde.org/show_bug.cgi?id=26451">http://bugs.kde.org/show_bug.cgi?id=26451</a></td>
+    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>10th December 2005</td>
+    <td>-</td>
+  </tr>
 </table>
 
 <p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf () free ! fr">Anne-Marie</a> so the task can be assigned to you.<br />
