@@ -114,8 +114,8 @@
   <tr>
     <td><b>KWord</b>: Action for "double linespacing", to assign a shortcut to it. <a href="http://bugs.kde.org/show_bug.cgi?id=26451">http://bugs.kde.org/show_bug.cgi?id=26451</a></td>
     <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
-    <td>10th December 2005</td>
-    <td>-</td>
+    <td><b>DONE</b></td>
+    <td>Matthias Granberry</td>
   </tr>
   <tr>
     <td><b>KWord</b>: Make zoom to page persistent. <a href="http://bugs.kde.org/show_bug.cgi?id=117271">http://bugs.kde.org/show_bug.cgi?id=117271</a></td>
