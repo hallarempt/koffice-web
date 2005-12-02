@@ -10,6 +10,7 @@
       
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
+     <li><a href="keyboardmodifiers.php">KOffice-wide Mouse Interaction behavior</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
      <li><a href="tasks">Tasks</a> (Volunteers needed!)</li>
      <li><a href="filters">Filters</a></li>
@@ -46,7 +47,7 @@
    <h2>External Sites And Pages About KOffice</h2>
    
    <ul>
-     <li><a href="http://www.rule-project.org/article.php3?id_article=59">The RULE Mini Kde page</a></li>
+     <li><a href="http://www.rule-project.org/article.php3?id_article=1">The RULE Mini Kde page</a></li>
    </ul>
 
    <hr />
