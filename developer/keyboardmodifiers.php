@@ -27,7 +27,8 @@
      <td>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
         guides</td></tr>
-     <tr><td valign="top">Alt</td><td>Scales keeps aspect ratio</td></tr>
+     <tr><td valign="top">Alt</td><td>Scales keep aspect ratio, pressing alt immidiately snaps
+        the scaled object to the aspect ratio the object had before scaling started</td></tr>
      <tr><td valign="top">Control</td><td>scales all objects from center of all selected
         objects</td></tr>
     </table>
