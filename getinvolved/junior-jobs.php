@@ -61,7 +61,7 @@
     <td><a href="mailto:raphael.langerhorst () kdemail.net">Raphael Langerhorst</a> or
 	<a href="mailto:inge () lysator ! liu ! se">Inge Wallin</a></td>
     <td>10th December 2005</td>
-    <td>-</td>
+    <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
     <td><b>KChart</b>: Usability: Chart creation wizard should allow you to switch from row-ordered data to column-ordered data. <a href="http://bugs.kde.org/show_bug.cgi?id=114995">http://bugs.kde.org/show_bug.cgi?id=114995</a></td>
