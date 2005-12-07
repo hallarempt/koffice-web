@@ -4,7 +4,7 @@
 
   include("header.inc");
 
-  kde_general_news("./news.rdf", 5, false);
+  kde_general_news("./news.rdf", 15, false);
 
   include("footer.inc");
 ?>
