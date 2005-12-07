@@ -11,8 +11,7 @@
 <h3>Prize</h3>
 <p><b>$1000</b> (USD) will go to the best entry.</p>
 <p>In case the judges cannot find an entry that is truly best the prize money may be split between at most 3 entries.</p>
-<p>An anonymous donor who cares a lot about KOffice has donated a sum of $1000 USD as a prize for this competition. </p>
-<p>In case the judges cannot find an entry that is truly best the prize money may be split between at most 3 entries.</p>
+<p>The prize donor wishes to remain anonymous. </p>
 <p>Please note that any taxes due will be paid by the winners.</p>
 
 <h3>Deadline</h3>
@@ -24,6 +23,8 @@
 
 <h3>Submitted material</h3>
 <p>All ideas, graphical elements, workflows, etc, should be free to be used in KOffice 2.0.</p>
+
+<h3>Example</h3>
 
  <br />
  <hr width="30%" align="center" />
