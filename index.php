@@ -26,6 +26,10 @@
     kde_general_news("./news.rdf", 5, true);
     ?>
 
+    <br />
+    <hr width="30%" align="center" />
+    <br />
+
     <p>The KOffice suite includes the following applications:</p>
 
     <table width="90%" border="0" cellpadding="5" cellspacing="10">
