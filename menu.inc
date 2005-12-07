@@ -34,6 +34,9 @@ $section->appendDir("KFormula", "kformula");
 $section->appendDir("Kugar", "kugar");
 $section->appendDir("Import/Export Filters", "filters");
 
+$section =& $this->appendSection("Competition");
+$section->appendDir("title", "competition");
+
 $section =& $this->appendSection("Download");
 $section->appendDir("Download", "download");
 
