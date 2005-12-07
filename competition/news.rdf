@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE rss SYSTEM "http://my.netscape.com/publish/formats/rss-0.91.dtd">
+<rss version="0.91">
+  <channel>
+      <title>KOffice News</title>
+      <link>http://www.koffice.org/</link>
+      <description>The news from KOffice, an office suite integrated with KDE</description>
+      <language>en-us</language>
+      <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
+    <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+
+<item>
+<title>GUI and Functionality Design Competition for KOffice 2</title>
+<date>8th December 2005</date>
+<fullstory>
+A competition awarded a prize of $1000 (US dollars) starts today to get new ideas for the User Interface Design of next coming KOffice 2 which will be shipped with KDE 4. Submissions to the competition should be GUI mockups accompanied with a written description of the intended workflow with ideas for the design of KOffice 2 and deadline is xxx 2006. <br />
+</fullstory>
+</item>
+
+</channel>
+</rss>

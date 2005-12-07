@@ -28,7 +28,6 @@
 
     <br />
     <hr width="30%" align="center" />
-    <br />
 
     <p>The KOffice suite includes the following applications:</p>
 
