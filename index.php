@@ -26,11 +26,11 @@
     kde_general_news("./news.rdf", 5, true);
     ?>
 
-    <p>The KOffice suite includes the following productivity applications:</p>
+    <p>The KOffice suite includes the following applications:</p>
 
     <table width="90%" border="0" cellpadding="5" cellspacing="10">
     <tr>
-    <th colspan="2" class="contentheader">Core Applications</th>
+    <th colspan="2" class="contentheader">Productivity Applications</th>
     </tr>
     <tr>
     <td><a href="kword/"><img src="pics/hi32-app-kword.png" alt="KWord logo" width="32" height="32" border="0" /></a></td>
@@ -51,7 +51,7 @@
     </tr>
 
     <tr>
-    <th colspan="2" class="contentheader">Graphical Applications</th>
+    <th colspan="2" class="contentheader">Creativity Applications</th>
     </tr>
     <tr>
     <td><a href="kivio/"><img src="pics/hi32-app-kivio.png" alt="Kivio logo" width="32" height="32" border="0" /></a></td>
@@ -76,7 +76,7 @@
     </tr>
 
     <tr>
-    <th colspan="2" class="contentheader">Other Applications</th>
+    <th colspan="2" class="contentheader">Supporting Applications</th>
     </tr>
 
     <tr>
