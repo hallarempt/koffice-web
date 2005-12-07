@@ -37,8 +37,9 @@
       <b>KPresenter: <a href="m&#x61;il&#116;o:&#x74;.za&#99;&#x68;mann&#x40;za&#103;ge.&#x64;&#0101;">Thorsten Zachmann</a>,&nbsp;
       <a href="&#x6d;&#x6f;n&#x74;&#101;&#x6c;&#64;kde&#x2e;&#x6f;&#x72;g">Laurent Montel</a></b><br /> 
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
-      <b>Karbon14: </b><br />
-      <b>Krita: <a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
+      <b>Karbon14: <a href="buis&#x40;&#x6b;&#100;e.or&#103;">Rob Buis</a></b><br />
+      <b>Krita: <a
+href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
       <b>Kugar: <a href="m&#x61;i&#00108;&#00116;&#x6f;&#058;t&#0114;e&#97;&#116;&#064;&#107;&#100;&#x65;.&#x6f;&#x72;&#0103;">Adam Treat</a></b><br />
       <b>Kexi: <a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b><br />
       <b>KPlato: <a href="mail&#116;o&#x3a;&#x64;&#x61;&#x6e;&#100;&#101;&#x72;&#x73;&#00064;&#x67;e&#00116;&#x32;&#00110;e&#116;&#x2e;&#100;k">Dag Andersen</a></b><br />
