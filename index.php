@@ -21,6 +21,11 @@
       KOffice Security Announcements</a>
     </p>
 
+
+    <?php
+    kde_general_news("./news.rdf", 5, true);
+    ?>
+
     <p>The KOffice suite includes the following productivity applications:</p>
 
     <table width="90%" border="0" cellpadding="5" cellspacing="10">
@@ -108,9 +113,6 @@
     <!--All info text has moved to the info section. We will need
     some short intro here... -->
 
-<?php
- kde_general_news("./news.rdf", 5, true);
-?>
 
  <br />
  <hr width="30%" align="center" />
