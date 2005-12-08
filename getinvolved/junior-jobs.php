@@ -29,38 +29,44 @@
   <tr>
     <td><b>Karbon</b>: <a href="http://bugs.kde.org/show_bug.cgi?id=109189">http://bugs.kde.org/show_bug.cgi?id=109189</a></tt></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td><b>Karbon</b>:  adding tootips <a href="http://bugs.kde.org/show_bug.cgi?id=112680">http://bugs.kde.org/show_bug.cgi?id=112680</a></tt></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td><b>Karbon</b>:  fix units <a href="http://bugs.kde.org/show_bug.cgi?id=115010">http://bugs.kde.org/show_bug.cgi?id=115010</a></tt></td>
     <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td><b>Karbon</b>:  Usability: The tools should be grouped <a href="http://bugs.kde.org/show_bug.cgi?id=112691">http://bugs.kde.org/show_bug.cgi?id=112691</a></tt></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td><b>Karbon</b>:  Usability: The color and opacity bars in the color chooser palette are backwards. <a href="http://bugs.kde.org/show_bug.cgi?id=115213">http://bugs.kde.org/show_bug.cgi?id=115213</a></tt></td>
     <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KChart</b>: Code structure: put the wizard and config dialog in a "dialogs" subdirectory. <a href="http://bugs.kde.org/show_bug.cgi?id=117960">http://bugs.kde.org/show_bug.cgi?id=117960</a></td>
+    <td><a href="mailto:inge () lysator ! liu ! se">Inge Wallin</a></td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
     <td><b>KChart</b>: Add QWhatsThis help to the chart configuration dialog.</td>
     <td><a href="mailto:raphael.langerhorst () kdemail.net">Raphael Langerhorst</a> or
 	<a href="mailto:inge () lysator ! liu ! se">Inge Wallin</a></td>
-    <td>10th December 2005</td>
+    <td><b>DONE</b></td>
     <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
@@ -84,7 +90,7 @@
   <tr>
     <td><b>KPresenter</b>:  Usability: Most basic resizing operation for pictures are not possible. <a href="http://bugs.kde.org/show_bug.cgi?id=112310">http://bugs.kde.org/show_bug.cgi?id=112310</a></td>
     <td><a href="mailto:montel () kde ! org">Laurent Montel</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
   <tr>
@@ -102,7 +108,7 @@
   <tr>
     <td><b>KSpread</b>: Add QWhatsThis help to the cell format configuration dialog.</td>
     <td><a href="mailto:raphael.langerhorst () kdemail ! net">Raphael Langerhorst</a></td>
-    <td>in good progress - 10th December 2005</td>
+    <td>in good progress - 30th December 2005</td>
     <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
@@ -120,7 +126,7 @@
   <tr>
     <td><b>KWord</b>: Make zoom to page persistent. <a href="http://bugs.kde.org/show_bug.cgi?id=117271">http://bugs.kde.org/show_bug.cgi?id=117271</a></td>
     <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
-    <td>10th December 2005</td>
+    <td>30th December 2005</td>
     <td>-</td>
   </tr>
 </table>
