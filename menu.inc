@@ -34,9 +34,9 @@ $section->appendDir("KFormula", "kformula");
 $section->appendDir("Kugar", "kugar");
 $section->appendDir("Import/Export Filters", "filters");
 
-$section =& $this->appendSection("Competition");
-$section->appendDir("Competitions", "");//LINK WHEN READY"competition");
-$section->appendLink("KOffice2 Design", "");//LINK WHEN READY"competition/guiKOffice2.php");
+#$section =& $this->appendSection("Competition");
+#$section->appendDir("Competitions", "");//LINK WHEN READY"competition");
+#$section->appendLink("KOffice2 Design", "");//LINK WHEN READY"competition/guiKOffice2.php");
 
 $section =& $this->appendSection("Download");
 $section->appendDir("Download", "download");
