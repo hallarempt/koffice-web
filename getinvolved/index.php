@@ -8,6 +8,7 @@
 <p>An easy way to get involved and become familiar with KOffice applications is to start with <a href="junior-jobs.php">Junior Jobs</a>. These are easy tasks which are very much needed and by choosing one and doing it, you will get great help the KOffice Team for the next release.<br />
 Ask for more details to the contact if you are in doubt, we'll be very happy to guide your first steps!
 </p>
+<p>You can check what has been done as JJ in 2005 on <a href="jj-solved.php">the Junior Jobs Done webpage</a>.</p>
 
 <h2><a href="doc-writers.php">Junior Jobs - Become a new doc writer</a></h2>
 <p>You can find <a href="doc-writers.php">here some Junior Jobs tasks</a> related to writing or updating KOffice documentation.</p>
