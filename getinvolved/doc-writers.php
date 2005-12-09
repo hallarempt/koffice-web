@@ -27,7 +27,7 @@
     <td>Update application startup instructions in all handbooks with
         respect to the new KOffice startup dialog. Especially screenshots!</td>
     <td><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a></td>
-    <td>20th December 2005</td>
+    <td>15th January 2006</td>
     <td>-</td>
   </tr>
 </table>
