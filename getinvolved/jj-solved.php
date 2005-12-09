@@ -11,8 +11,6 @@
 	]
 </div>
 
-    <p>December 2005 targets</p>
-<p>It is prefered to use <b>KOffice svn trunk code</b> to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
 <p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
@@ -32,7 +30,7 @@
     <td><b>KChart</b>: Add QWhatsThis help to the chart configuration dialog.</td>
     <td><a href="mailto:raphael.langerhorst () kdemail.net">Raphael Langerhorst</a> or
 	<a href="mailto:inge () lysator ! liu ! se">Inge Wallin</a></td>
-    <td><b>DONE</b></td>
+    <td>8 December 2005</td>
     <td>Anne-Marie Mahfouf</td>
   </tr>
   <tr>
@@ -56,7 +54,7 @@
   <tr>
     <td><b>KPresenter</b>:  Usability: Make "Keep Ratio" for pictures easiert to reach. <a href="http://bugs.kde.org/show_bug.cgi?id=112306">http://bugs.kde.org/show_bug.cgi?id=112306</a></td>
     <td><a href="mailto:montel () kde ! org">Laurent Montel</a></td>
-    <td><b>DONE</b></td>
+    <td>6 December 2005</td>
     <td>Thomas Zander</td>
   </tr>
   <tr>
@@ -72,9 +70,6 @@
     <td>Matthias Granberry</td>
   </tr>
 </table>
-
-<p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf () free ! fr">Anne-Marie</a> so the task can be assigned to you.<br />
-When you complete the task, please either attach the patch to the bug report or send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
 
 <br />
  <br />
