@@ -1,4 +1,4 @@
-<?php
+  <?php
   $page_title="KOffice Features and Tasks";
   $site_root='../../';
   include("koffice.inc");
@@ -56,11 +56,11 @@ about that?</p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th rowspan="2"></th>
-    <th colspan="3">Core applications</th>
-    <th colspan="3">Graphics applications</th>
+    <th colspan="3">Productivity Applications</th>
+    <th colspan="3">Creativity Applications</th>
     <th colspan="1">Database</th>
     <th colspan="1">Project Planning</th>
-    <th colspan="3">Helper applications</th>
+    <th colspan="3">Helper Applications</th>
   </tr>
   <tr>
     <th>KWord</th>
@@ -104,11 +104,11 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
 
     <td bgcolor="#FF0000">No</td>
-    <td></td>
+    <td bgcolor="#FF0000">No</td>
     <td bgcolor="#FFFF00">Yes</td>
     
 
-    <td></td>
+    <td bgcolor="#FF0000">No</td>
 
     <td bgcolor="#808080">N/A</td>
 
@@ -186,11 +186,11 @@ KOffice libraries.</p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th rowspan="2"></th>
-    <th colspan="3">Core applications</th>
-    <th colspan="3">Graphics applications</th>
+    <th colspan="3">Productivity Applications</th>
+    <th colspan="3">Creativity Applications</th>
     <th colspan="1">Database</th>
     <th colspan="1">Project Planning</th>
-    <th colspan="3">Helper applications</th>
+    <th colspan="3">Helper Applications</th>
   </tr>
   <tr>
     <th>KWord</th>
@@ -210,14 +210,14 @@ KOffice libraries.</p>
     <th>KFormula</th>
   </tr>
   <tr>
-    <th>Text formatting using KoText</th>
-    <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#FF0000">No</td>
-    <td bgcolor="#00FF00">Yes</td>
+    <th>Text Formatting Using KoText</th>
+    <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#00FF00">Shared</td>
 
-    <td bgcolor="#FF0000">No</td>
+    <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#FF0000">No</td>
+    <td bgcolor="#FF0000">Own</td>
 
     <td bgcolor="#808080">N/A</td>
 
@@ -327,7 +327,7 @@ KOffice libraries.</p>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#FF0000">Own</td>
-    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#00FF00">Shared</td>
 
     <td bgcolor="#FFFFFF"></td>
 
@@ -352,9 +352,47 @@ KOffice libraries.</p>
 
     <td bgcolor="#FFFFFF"></td>
 
+    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#808080">N/A</td>
+  </tr>
+
+  <tr>
+    <th>Guide Lines</th>
+    <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#00FF00">Shared</td>
+
+    <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#FFFF00">To be shared</td>
+
+    <td bgcolor="#FFFFFF"></td>
+
+    <td bgcolor="#FFFFFF"></td>
+
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#808080">N/A</td>
+  </tr>
+
+  <tr>
+    <th>Autoscroll</th>
+    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#00FF00">Shared</td>
+
+    <td bgcolor="#FF0000">NYI</td>
+    <td bgcolor="#FF0000">NYI</td>
+    <td bgcolor="#00FF00">Shared</td>
+
+    <td bgcolor="#808080">N/A</td>
+
+    <td bgcolor="#FF0000">NYI</td>
+
+    <td bgcolor="#FF0000">NYI</td>
+    <td bgcolor="#FF0000">NYI</td>
+    <td bgcolor="#FF0000">NYI</td>
   </tr>
 
 <!--
