@@ -83,6 +83,12 @@
     <td>30th December 2005</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td><b>KWord</b>: KWord should remember the dir location last used for image import.<a href="http://bugs.kde.org/show_bug.cgi?id=84914">http://bugs.kde.org/show_bug.cgi?id=84914</a></td>
+    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>30th December 2005</td>
+    <td>-</td>
+  </tr>
 </table>
 
 <p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf () free ! fr">Anne-Marie</a> so the task can be assigned to you.<br />
