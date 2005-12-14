@@ -15,16 +15,29 @@
 <p>Please note that any taxes due will be paid by the winners.</p>
 
 <h3>Deadline</h3>
-<p>All submissions should be sent by xx January 2006 11:59pm GMT to</p>
+<p>All submissions should be sent by 15th February 2006 11:59pm GMT to
+TO-BE-ADDED. Please note that only the judges will see those submissions.</p>
+
+<h3>Submission format</h3> 
+<p>The submissions should be in pdf or/and odt (Open Document text) format. See
+the examples below.<br />
+<p>Along with your mockup design you will add a description of your GUI and
+stress out the major points of your design by explaining their strengths.</p>
+
+<h3>Example</h3>
+Please see the example in each format:<br />
+PDF: <a href="examples1/KOffice UI and Functionality Example.pdf">KOffice UI and
+Functionality Example.pdf</a><br />
+ODT: <a href="examples1/KOffice UI and Functionality Example.odt">KOffice UI and
+Functionality Example.odt</a><br />
 
 <h3>Jury</h3>
 <p>The judges will be picked from the KOffice developers. Currently, Inge Wallin and Boudewijn Rempt are appointed.</p>
-<p>Date of announcement of the winner: </p>
+<p>Date of announcement of the winner: March 1st 2005</p>
 
 <h3>Submitted material</h3>
-<p>All ideas, graphical elements, workflows, etc, should be free to be used in KOffice 2.0.</p>
-
-<h3>Example</h3>
+<p>All ideas, graphical elements, workflows, etc, should be free to be used in
+KOffice 2.0.</p>
 
  <br />
  <hr width="30%" align="center" />
