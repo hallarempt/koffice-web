@@ -15,7 +15,7 @@
 <p>Please note that any taxes due will be paid by the winners.</p>
 
 <h3>Deadline</h3>
-<p>All submissions should be sent by 15th February 2006 11:59pm GMT to
+<p>All submissions should be sent by <b>15th February 2006</b> 11:59pm GMT to
 TO-BE-ADDED. Please note that only the judges will see those submissions.</p>
 
 <h3>Submission format</h3> 
@@ -30,14 +30,20 @@ PDF: <a href="examples1/KOffice UI and Functionality Example.pdf">KOffice UI and
 Functionality Example.pdf</a><br />
 ODT: <a href="examples1/KOffice UI and Functionality Example.odt">KOffice UI and
 Functionality Example.odt</a><br />
+Please note that this example was written quickly and the judges expect more
+details in your application!
 
 <h3>Jury</h3>
 <p>The judges will be picked from the KOffice developers. Currently, Inge Wallin and Boudewijn Rempt are appointed.</p>
-<p>Date of announcement of the winner: March 1st 2005</p>
+<p>Date of announcement of the winner: <b>March 1st 2005</b></p>
 
 <h3>Submitted material</h3>
 <p>All ideas, graphical elements, workflows, etc, should be free to be used in
 KOffice 2.0.</p>
+
+<p>You can use IRC on network irc.freenode.org port 6667, channel #koffice for
+all questions you might have.
+</p>
 
  <br />
  <hr width="30%" align="center" />
