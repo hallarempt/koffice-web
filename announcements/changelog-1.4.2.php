@@ -127,13 +127,14 @@
   <li>Cancel tool when pressing cancel button</li>
   <li>Improved selection tool which now has the following abilities:<br />
   <ul>
-  <li>left mouse click to select single object</li>
+    <li>left mouse click to select single object</li>
     <li>ctrl + left mouse click to add to current selection</li>
     <li>ctrl + right mouse click to remove from current selection</li>
     <li>ctrl + left mouse drag to add objects within selection rect to current selection</li>
     <li>ctrl + right mouse drag to remove objects within selection rect from current selection</li>
     <li>pressing shift while scaling makes scaling keeping the aspect ratio (adjusted to shape tool behaviour)</li>
   </ul>
+  </li>
   <li>Enabled multi-selection within the layer listview</li>
   <li>Object/layer listview items get automatically selected when selecting their corresponding object with the selection tool</li>
   <li>When embedded zoom the drawing so that it's completely visible</li>

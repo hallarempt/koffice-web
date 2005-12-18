@@ -7,6 +7,7 @@
 
 <p>
 <b>Standard Database Features</b><br/>
+</p>
 <ul>
  <li>Hiding of the database backend specifics from the user, but allowing advanced users full access at the same time</li>
  <li>Table structure altering (functional)</li>
@@ -14,10 +15,10 @@
  <li>Database query creation, without the need of knowing SQL (Structured Query Language)</li>
  <li>User-friendly data manipulation (even on complicated queries)</li>
 </ul>
-</p>
 
 <p>
 <b>Data Processing and Access</b><br/>
+</p>
 <ul>
  <li>User-defined forms for data input and presentation (functional)</li>
  <li>Data migration from MySQL, PostgreSQL. Migration from MS Access databases is available as an <a href="http://www.kexi-project.org/wiki/wikiview/index.php?MDBDriver#2._Download">additional plugin</a>. (functional)</li>
@@ -25,10 +26,10 @@
  <li>KWord mailmerge integration (planned)</li>
  <li>Easy data report generation (rewrite planned)</li>
 </ul>
-</p>
 
 <p>
-<b>Supported Database Backends</b><br/>
+<b>Supported Database Backends</b>
+</p>
 <p>
 At the moment this documentation is written, drivers for the following database engines are developed as integrated (single user) backends:</p>
 <ul>

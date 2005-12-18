@@ -16,7 +16,8 @@ href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice
 </p>
 
 <p>
-<b>Standalone Kexi Release</b><br/>
+<b>Standalone Kexi Release</b>
+</p>
 <p>
 The most current version Kexi released without KOffice is <b>0.9</b>. 
 See <a
