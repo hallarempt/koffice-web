@@ -6,14 +6,14 @@
 ?>
     <p>Normal mouse actions can change behavior if during the action a modifier key is
     pressed.  In order to make interaction behavior of all KOffice applications consistent
-    here is a table of what the modifier keys do.<br>
+    here is a table of what the modifier keys do.<br />
     There are 4 different actions you can do with the mouse that are important here.
     Dragging objects, scaling objects, inserting objects and simply clicking to interact
     with objects.  Note that 'objects' are layers or selections in krita, and frames in
-    kword and kpresenter.  Kivio and Karbon use object naturally.<br>
+    kword and kpresenter.  Kivio and Karbon use object naturally.<br />
     Note also that keys can be combined. Pressing alt+shift combines both options.</p>
 
-    <p><b>Dragging:</b><br>
+    <p><b>Dragging:</b><br />
     <table>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
         guides</td></tr>
@@ -22,7 +22,7 @@
         <a href="#note1">[1]</a></td></tr>
     </table>
 
-    <p><b>Scaling:</b><br>
+    <p><b>Scaling:</b><br />
     <table><tr>
      <td>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
@@ -33,7 +33,7 @@
         objects</td></tr>
     </table>
 
-    <p><b>Insert:</b><br>
+    <p><b>Insert:</b><br />
     <table>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
         guides</td></tr>
@@ -43,7 +43,7 @@
         the center of object instead of top-left</td></tr>
     </table>
 
-    <p><b>Click:</b><br>
+    <p><b>Click:</b><br />
     <table>
      <tr><td valign="top">Shift</td><td> selects 'underlying' object deselecting the
         previous selected objects and making sure only one is selected

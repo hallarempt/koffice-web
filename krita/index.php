@@ -85,7 +85,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
     <ul>
      <li><a href="./videos/krita_preview1.mpeg">First video for the first developer preview release</a></li>
      <li><a href="./videos/krita_preview2.mpeg">Second video for the first developer preview release</a></li>
-     <li><a href="./videos/krita_rc1.avi">Video for the first public release candidate</a></li>
+     <li><a href="./videos/krita-rc1.avi">Video for the first public release candidate</a></li>
     </ul>
      
 

@@ -32,7 +32,7 @@ quality illustrations with Karbon.</p>
 
 <p>What makes a <em>vector-based</em> drawing application like Karbon different
 from a <em>pixel-based</em> drawing application like
-<a href="../krita/">Krita</a>?
+<a href="../krita/">Krita</a>?</p>
 
 <p>In a vector drawing - such as the drawing shown above - your drawing is
 stored as geometric shapes such as lines and curves.  When the drawing is

@@ -49,6 +49,7 @@ you.</p>
 <br />
 <br />
 <hr width="30%" align="center" />
+<p>
 Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
 </p>
 <?php

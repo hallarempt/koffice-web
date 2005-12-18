@@ -25,7 +25,7 @@ statistics.</p>
     $gallery->show();
   ?>
 </center>
-<p>KSpread's features include:
+<p>KSpread's features include:</p>
 <ul>
 <li>multiple tables/sheets per document;</li>
 <li>templates; </li>
@@ -44,7 +44,6 @@ statistics.</p>
 <li>cell customization (data/number format, precision, border, alignment, rotation, background color and pattern, 
 font type, style and size, etc.). </li>
 </ul>
-</p>
 
  <br />
  <hr width="30%" align="center" />

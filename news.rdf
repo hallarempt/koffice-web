@@ -13,8 +13,8 @@
 <title>KOffice gets major boost for the (near) blind</title>
 <date>27th November, 2005</date>
 <fullstory>
-KOffice is a part of KDE which means that assistive technologies already available in KDE will be available in KOffice.  This was not yet the case for so called Text-to-Speech (TTS) technologies. Until today!<br>
-The next KOffice release will allow near blind users to have the text spoken of widgets under the mouse pointer and/or widgets that have the focus. It also adds a "Speak Text" option in the context menu of the KWord Document Structure Area, which is useful for speaking a document.<br>
+KOffice is a part of KDE which means that assistive technologies already available in KDE will be available in KOffice.  This was not yet the case for so called Text-to-Speech (TTS) technologies. Until today!<br />
+The next KOffice release will allow near blind users to have the text spoken of widgets under the mouse pointer and/or widgets that have the focus. It also adds a "Speak Text" option in the context menu of the KWord Document Structure Area, which is useful for speaking a document.<br />
 The <a href="http://phantomsdad.blogspot.com/2005/11/koffice-gets-text-to-speech.html">developers blog</a> has more details.
 </fullstory>
 </item>
@@ -24,9 +24,9 @@ The <a href="http://phantomsdad.blogspot.com/2005/11/koffice-gets-text-to-speech
 <date>29th October, 2005</date>
 <fullstory>
 The October issue of <a href="http://www.canllaith.org/svn-features/svn-koffice.html">&quot;This Month in SVN&quot;</a> reports on the progress the in-development version of KOffice 1.5 which will be released in a couple of months.
-Jessica Hall lists the biggest changes that already have been made since the last stable release.<br>
+Jessica Hall lists the biggest changes that already have been made since the last stable release.<br />
 Topics covered include accessibility improvements, Krita one step closer to world domination and how you can help out.
-<br>
+<br />
 Thanks a lot to J.Hall for her praising words and endless patience on getting a development version to work for her!
 </fullstory>
 </item>
@@ -64,10 +64,10 @@ and the complete <a href="http://www.koffice.org/announcements/changelog-1.4.2.p
 <title>Koffice, OpenDocument and Kexi in the news this past month</title>
 <date>30th September, 2005</date>
 <fullstory>
-    Following the <a href="http://www.groklaw.net/article.php?story=20050923142231938">announce by The Commonwealth of Massachusetts</a> to use only documents in <a href="http://en.wikipedia.org/wiki/OpenDocument">OpenDocument format</a>, Microsoft manager Alan Yates tried to <a href="http://www.mass.gov/Aitd/docs/policies_standards/etrm3dot5/responses/microsoft.pdf">dismiss the use of OpenDocument</a> as "illegal". KOffice new Marketing Coordinator Inge Wallin replied with an <a href="http://dot.kde.org/1127515635/">Open Letter to Alan Yates</a> and <a href="http://it.slashdot.org/article.pl?sid=05/09/25/1713249&tid=121&tid=218&tid=219">Slashdot</a> as well as <a href="http://www.groklaw.net/article.php?story=20050925165302314">Groklaw</a> promptly joined the debate by relaying the Dot article.<br />
+    Following the <a href="http://www.groklaw.net/article.php?story=20050923142231938">announce by The Commonwealth of Massachusetts</a> to use only documents in <a href="http://en.wikipedia.org/wiki/OpenDocument">OpenDocument format</a>, Microsoft manager Alan Yates tried to <a href="http://www.mass.gov/Aitd/docs/policies_standards/etrm3dot5/responses/microsoft.pdf">dismiss the use of OpenDocument</a> as "illegal". KOffice new Marketing Coordinator Inge Wallin replied with an <a href="http://dot.kde.org/1127515635/">Open Letter to Alan Yates</a> and <a href="http://it.slashdot.org/article.pl?sid=05/09/25/1713249&amp;tid=121&amp;tid=218&amp;tid=219">Slashdot</a> as well as <a href="http://www.groklaw.net/article.php?story=20050925165302314">Groklaw</a> promptly joined the debate by relaying the Dot article.<br />
     And yesterday, at the OpenOffice Conference, Tim Bray delivered a <a href="http://ooocon-ljudmila.kiberpipa.org/media/">keynote speech</a> about the  importance of open formats.<br />
     The key point is the strong OpenDocument support by KOffice products which makes KOffice one of the more powerful free office suites.<br /> <br />
-    <a href="http://www.koffice.org/kexi/">Kexi</a> wins some points against OpenOffice Base in the <a href="http://applications.linux.com/article.pl?sid=05/09/08/1411250&tid=73">Building databases with Kexi and OpenOffice.org 2 Base</a> article, especially regarding the speed. Find out more by reading the article and discover that Kexi indeed has the potential to be Microsoft Access rival!
+    <a href="http://www.koffice.org/kexi/">Kexi</a> wins some points against OpenOffice Base in the <a href="http://applications.linux.com/article.pl?sid=05/09/08/1411250&amp;tid=73">Building databases with Kexi and OpenOffice.org 2 Base</a> article, especially regarding the speed. Find out more by reading the article and discover that Kexi indeed has the potential to be Microsoft Access rival!
 </fullstory>
 </item>
 
@@ -122,7 +122,7 @@ The KOffice Developer News feed is now closed, mainly due to lack of content.
 <title>KOffice News as RSS 2 news feed</title>
 <date>14th May, 2005</date>
 <fullstory>
-The <a href="http://www.koffice.org/new.php">KOffice News</a>
+The <a href="http://www.koffice.org/news.php">KOffice News</a>
 also exists now as
 <a href="http://www.koffice.org/news_rss2.php" type="application/rss+xml">RSS Version 2.0 news feed</a>!
 Of course the news feed is still available in

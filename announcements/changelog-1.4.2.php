@@ -91,7 +91,7 @@
 
 <h3><a name="karbon">Karbon</a></h3>
 
-<em>Bugfixes</em
+<em>Bugfixes</em>
 <ul>
   <li>Fix for karbon crashing on clicking the pattern button in the toolbox</li>
   <li>Make sure, items representing an object without a proper parent are removed as well</li>
@@ -125,7 +125,7 @@
   <li>Made texttool selection changing (triggers views selection changed signal)</li>
   <li>Set all shadow options properly in tool dialog</li>
   <li>Cancel tool when pressing cancel button</li>
-  <li>Improved selection tool which now has the following abilities:<br>
+  <li>Improved selection tool which now has the following abilities:<br />
   <ul>
   <li>left mouse click to select single object</li>
     <li>ctrl + left mouse click to add to current selection</li>

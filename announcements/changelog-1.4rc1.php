@@ -173,7 +173,7 @@
   <li>setting duplicated or invalid widget name is now impossible</li>
   <li>row deleting and inserting implemented</li>
   <li>"+ button" code shared with table view</li>
-  <li>fixed problems with data in subforms: data provider only sets data</li>
+  <li>fixed problems with data in subforms: data provider only sets data
    for own items, not inside subforms (data-awarness is disabled in subforms for now)</li>
  </ul></li>
  <li>KexiDB:

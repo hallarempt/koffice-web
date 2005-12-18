@@ -104,7 +104,7 @@ And then for each KDE package:<br />
       although it's a bit outdated.
       </p>
 
-      <h2><a name="stable">Install KOffice stable</h2>
+      <h2 id="stable">Install KOffice stable</h2>
 
       <p>
       <tt>bunzip2 koffice-XXXXXX.tar.bz2</tt><br />

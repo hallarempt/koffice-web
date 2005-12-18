@@ -25,7 +25,7 @@
       frames instead.  This means that any story is displayed in a set of
       frames where the normal pages based setup is emulated by showing one
       frame per page.  The user can create various stories and use the frames
-      to position and flow the text accross columns and pages.<br>
+      to position and flow the text accross columns and pages.<br />
       This system is easy, yet powerfull enough to range from simple letters to
       layouts like you see in a newspaper.
       </p>

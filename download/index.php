@@ -72,7 +72,7 @@ tar xzvf package.bin.tar.gz
     <a href='http://davidpashley.com/debian-kde/faq.html'>here</a> for download and installation
 instructions.
 The download location for Debian-KOffice packages is
-    <code>http://people.debian.org/~bab/kde3 the koffice.deb</code><br>
+    <code>http://people.debian.org/~bab/kde3 the koffice.deb</code><br />
 Please follow the instructions mentioned on the FAQ for changing your <code>/etc/apt/sources.list</code>
 file after which you should just be able to use <code>apt-get install</code> to get KOffice.
 </p>-->
