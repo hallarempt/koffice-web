@@ -16,7 +16,7 @@
 
 <h3>Deadline</h3>
 <p>All submissions should be sent by <b>15th February 2006</b> 11:59pm GMT to
-TO-BE-ADDED. Please note that only the judges will see those submissions.</p>
+<a href="mailto:koffice-competition AT kde DOT org">koffice-competition@kde.org</a>. Please note that only the judges will see those submissions.</p>
 
 <h3>Submission format</h3> 
 <p>The submissions should be in pdf or/and odt (Open Document text) format. See
@@ -41,8 +41,8 @@ details in your application!
 <p>All ideas, graphical elements, workflows, etc, should be free to be used in
 KOffice 2.0.</p>
 
-<p>You can use IRC on network irc.freenode.org port 6667, channel #koffice for
-all questions you might have.
+<p>You can use IRC on network <tt>irc.freenode.org</tt> port 6667, channel
+<tt>#koffice</tt> for all questions you might have.
 </p>
 
  <br />
