@@ -69,6 +69,12 @@
     <td><b>DONE</b></td>
     <td>Matthias Granberry</td>
   </tr>
+  <tr>
+    <td><b>KWord</b>: KWord should remember the dir location last used for image import. <a href="http://bugs.kde.org/show_bug.cgi?id=84914">http://bugs.kde.org/show_bug.cgi?id=84914</a></td>
+    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>19th December 2005</td>
+    <td>David Faure </td>
+  </tr>
 </table>
 
 <br />
