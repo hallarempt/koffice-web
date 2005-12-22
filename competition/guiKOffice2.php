@@ -40,7 +40,7 @@ details in your application!
 
 <h3>Jury</h3>
 <p>The judges will be picked from the KOffice developers. Currently, Inge Wallin and Boudewijn Rempt are appointed.</p>
-<p>Date of announcement of the winner: <b>March 1st 2005</b></p>
+<p>Date of announcement of the winner: <b>March 1st 2006</b></p>
 
 <h3>Submitted Material</h3>
 <p>All ideas, graphical elements, workflows, etc, should be free to be used in
