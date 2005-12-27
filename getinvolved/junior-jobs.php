@@ -42,12 +42,6 @@
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  Usability: The tools should be grouped <a href="http://bugs.kde.org/show_bug.cgi?id=112691">http://bugs.kde.org/show_bug.cgi?id=112691</a></tt></td>
-    <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
-    <td>30th December 2005</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td><b>Karbon</b>:  Usability: The color and opacity bars in the color chooser palette are backwards. <a href="http://bugs.kde.org/show_bug.cgi?id=115213">http://bugs.kde.org/show_bug.cgi?id=115213</a></tt></td>
     <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
     <td>30th December 2005</td>
