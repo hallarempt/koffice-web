@@ -5,15 +5,15 @@
 
 test $# -gt 0 || { echo "Usage: $0 file"; exit 1; }
 
-f=$1
+f="$1"
 dir=`echo $1 | sed -e 's/\..*$//'`
 
-test -f $f || { echo "file $f not found"; exit 1; }
+test -f "$f" || { echo "file $f not found"; exit 1; }
 mkdir "$dir" || exit 1
 echo "$dir created"
 unset CDPATH
-cd $dir
-unzip ../$f
+cd "$dir"
+unzip "../$f"
 find . -type f -name '*.xml' | while read i; do
   xmllint --format "$i" -o xmllint.out && mv -f xmllint.out "$i"
 done
