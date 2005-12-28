@@ -24,6 +24,12 @@
     <th>Name of Applicant</th>
   </tr>
   <tr>
+    <td><b>KOffice lib/kopalette</b>: see last comment of the bug and implement it <a href="http://bugs.kde.org/show_bug.cgi?id=118346">http://bugs.kde.org/show_bug.cgi?id=118346</a></tt></td>
+    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>30th December 2005</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td><b>Karbon</b>: <a href="http://bugs.kde.org/show_bug.cgi?id=109189">http://bugs.kde.org/show_bug.cgi?id=109189</a></tt></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
     <td>30th December 2005</td>
