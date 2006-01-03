@@ -80,6 +80,12 @@
     <td>19th December 2005</td>
     <td>David Faure </td>
   </tr>
+  <tr>
+    <td><b>KWord</b>: Make zoom to page persistent. <a href="http://bugs.kde.org/show_bug.cgi?id=117271">http://bugs.kde.org/show_bug.cgi?id=117271</a></td>
+    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>16 December 2005</td>
+    <td><a href="mailto:litb_devel () web ! de">litb</a></td>
+  </tr>
 </table>
 
 <br />
