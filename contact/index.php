@@ -27,6 +27,9 @@
         <a href="http://www.kde.org/mailinglists/index.php#kde-i18n-doc">the kde-i18n-doc mailing list for the translators</a>.
     </p>
     <p>
+    For Kexi-specific topics, <a href="http://kexi-project.org/wiki/wikiview/index.php?Support#Mailing_Lists">two low traffic mailing lists</a> are provided.
+    </p>
+    <p>
         Please note that for historical reasons,
         <a href="http://www.kde.org/mailinglists/index.php#krita">Krita</a> and
         <a href="http://www.kde.org/mailinglists/index.php#kplato">KPlato</a>
