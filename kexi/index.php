@@ -31,7 +31,9 @@ As a real member of the KDE and KOffice projects, Kexi integrates fluently into 
 <p>
 Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many operating systems and hardware platforms. 
 </p>
-
+<p>
+For more information visit dedicated Kexi Project Home Page containing resources for users and developers: <a href="http://www.kexi-project.org/">www.kexi-project.org</a>.
+</p>
 
 <br />
 <hr width="30%" align="center" />
