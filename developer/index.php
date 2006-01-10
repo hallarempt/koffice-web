@@ -17,6 +17,7 @@
      <li><a href="fileformat">OASIS OpenDocument file format</a>
          (also useful for filters)</li>
      <li><a href="http://developer.kde.org/development-versions/koffice-features.html">KOffice Feature Plan</a></li>
+     <li><a href="http://developer.kde.org/development-versions/koffice-1.5-release-plan.html">KOffice Release Plan</a></li>
      <li><a href="website">KOffice web site development</a></li>
    </ul>
 
