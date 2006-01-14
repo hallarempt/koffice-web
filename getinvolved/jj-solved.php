@@ -26,6 +26,12 @@
     <td><a href="mailto:maju7 () o2 ! pl">maju</a></td>
   </tr>
   <tr>
+    <td><b>Karbon</b>:  adding tootips <a href="http://bugs.kde.org/show_bug.cgi?id=112680">http://bugs.kde.org/show_bug.cgi?id=112680</a></tt></td>
+    <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
+    <td>14th January 2006</td>
+    <td><a href="mailto:fyanardi () gmail ! com">Fredy Yanardi</td>
+  </tr>
+  <tr>
     <td><b>Karbon</b>:  Usability: The tools should be grouped <a href="http://bugs.kde.org/show_bug.cgi?id=112691">http://bugs.kde.org/show_bug.cgi?id=112691</a></tt></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
     <td>22 December 2005</td>

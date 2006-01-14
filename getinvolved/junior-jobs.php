@@ -36,12 +36,6 @@
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  adding tootips <a href="http://bugs.kde.org/show_bug.cgi?id=112680">http://bugs.kde.org/show_bug.cgi?id=112680</a></tt></td>
-    <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
-    <td>30th January 2006</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td><b>Karbon</b>:  fix units <a href="http://bugs.kde.org/show_bug.cgi?id=115010">http://bugs.kde.org/show_bug.cgi?id=115010</a></tt></td>
     <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
     <td>30th January 2006</td>
