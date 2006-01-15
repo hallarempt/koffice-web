@@ -436,7 +436,7 @@
     </tr>
   </table>
   <h3>Krita</h3>
-  <p>Krita uses <a href="http://imagemagick.org/">ImageMagick</a> for importing and exporting images. This means that Krita can work with all images that your installation of ImageMagick supports. This includes all common image file formats, including the native formats of Photoshop and the Gimp. <br /> <a href="http://imagemagick.org/script/formats.php">More information on file formats supported by ImageMagick.</a></p>
+  <p>Krita can use <a href="http://imagemagick.org/">ImageMagick</a> for importing and exporting images. This means that, in addition to the file formats listed below, Krita can work with all images that your installation of ImageMagick supports. This includes all common image file formats, including the native formats of Photoshop and the Gimp. <br /> <a href="http://imagemagick.org/script/formats.php">More information on file formats supported by ImageMagick.</a></p>
   <table border="5" cellspacing="0" cellpadding="5">
     <tr bgcolor="#FFEEAA">
       <th width="30%" align="left" valign="top">From/To</th>
@@ -446,7 +446,8 @@
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">Gimp (XCF)</td>
-      <td width="50%" align="left" valign="top"> </td>
+      <td width="50%" align="left" valign="top">Native file format of the 
+                    <a href="http://www.gimp.org/">Gimp</a></td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/xcf/status.html#import?content-type=text/html">+</a>
       </td>
@@ -455,13 +456,56 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">OpenEXR</td>
+      <td width="30%" align="left" valign="top">JPEG</td>
       <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/jpeg/status.html#import?content-type=text/html">****</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/jpeg/status.html#export?content-type=text/html">****</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">OpenEXR</td>
+      <td width="50%" align="left" valign="top">
+                <a href="http://www.openexr.com/">OpenEXR</a> is a high dynamic-range (HDR) format <br /> 
+                developed by <a href="http://www.ilm.com">Industrial Light & Magic</a>
+                </td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/openexr/status.html#import?content-type=text/html">****</a>
       </td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/openexr/status.html#export?content-type=text/html">****</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">PNG</td>
+      <td width="50%" align="left" valign="top">Portable Network Graphics</td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/png/status.html#import?content-type=text/html">****</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/png/status.html#export?content-type=text/html">****</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">RAW</td>
+      <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/raw/status.html#import?content-type=text/html">*</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/raw/status.html#export?content-type=text/html">-</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">TIFF</td>
+      <td width="50%" align="left" valign="top"> </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/tiff/status.html#import?content-type=text/html">***</a>
+      </td>
+      <td width="10%" align="center" valign="top">
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/tiff/status.html#export?content-type=text/html">***</a>
       </td>
     </tr>
   </table>

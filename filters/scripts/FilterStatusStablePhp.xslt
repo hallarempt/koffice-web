@@ -57,7 +57,7 @@
  </td>
  <td width="50%" align="left" valign="top">
     <xsl:if test="boolean(note)">
-        <xsl:value-of select="note"/>
+        <xsl:value-of select="note" disable-output-escaping="yes" />
     </xsl:if>
     <xsl:if test="boolean(contact)">
         <xsl:if test="boolean(note)"><br/></xsl:if><!-- We just have had a note, so we need a forced line break -->
