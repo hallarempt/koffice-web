@@ -10,6 +10,16 @@
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>PDF docs available online</title>
+<date>19th January 2006</date>
+<fullstory>
+Thanks to the KDE doc team, we now have nice PDF documents for KOffice docs. You can find them on <a href="http://docs.kde.org/stable/en/koffice/">http://docs.kde.org/stable/en/koffice/</a> for the 1.4 branch and on <a href="http://docs.kde.org/development/en/koffice/">http://docs.kde.org/development/en/koffice/</a>
+for the next coming 1.5 release (current trunk).<br />
+All you have to do is click on the PDF link as shown on <a href="pics/pdf.png">this picture</a>. Enjoy!<br />
+</fullstory>
+</item>
+
+<item>
 <title>Linux.com: Natural media graphics with Krita</title>
 <date>18th January, 2006</date>
 <fullstory>Nathan Willis has written
