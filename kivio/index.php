@@ -11,9 +11,8 @@
 ?>
 
 <p>
-Kivio is a flowcharting and diagramming application for the KOffice application
-suite, and has an userinterface that is similar to Visio&reg;.
-It is fully integrated into KOffice and can for example be embedded into KWord.
+<b>Kivio</b> is an easy to use diagramming and flowcharting application with tight integration to the other KOffice applications.
+It enables you to create network diagrams, organisation charts, flowcharts and more.
 </p>
 
 <p>
