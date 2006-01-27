@@ -20,7 +20,7 @@
     $gallery = new ImageGallery("Kivio-Screenshot");
     $gallery->addImage("pics/kivio_svn060127_330.png",
                        "pics/kivio_svn060127.png",
-                       330, 248,
+                       330, 232,
                        "[Screenshot]", "",
                        "Kivio");
     $gallery->show();
