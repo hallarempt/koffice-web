@@ -11,9 +11,21 @@
 ?>
 
 <p>
-<b>Kivio</b> is an easy to use diagramming and flowcharting application with tight integration to the other KOffice applications.
-It enables you to create network diagrams, organisation charts, flowcharts and more.
+  <b>Kivio</b> is an easy to use diagramming and flowcharting application with tight integration to the other KOffice applications.
+  It enables you to create network diagrams, organisation charts, flowcharts and more.
 </p>
+
+<p><center>
+  <?php
+    $gallery = new ImageGallery("Kivio-Screenshot");
+    $gallery->addImage("pics/kivio_svn0601027_330.png",
+                       "pics/kivio_svn0601027.png",
+                       330, 248,
+                       "[Screenshot]", "",
+                       "Kivio");
+    $gallery->show();
+  ?>
+</center></p>
 
 <p>
   <b>Features:</b></p>
