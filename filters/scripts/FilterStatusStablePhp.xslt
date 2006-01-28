@@ -50,6 +50,11 @@
      <xsl:value-of select="title"/>
      </a>
    </xsl:when>
+    <xsl:when test="$applicationname='kexi'">
+     <a href="{substring-before(@id,'_')}/{substring-after(@id,'_')}.php">
+     <xsl:value-of select="title"/>
+     </a>
+   </xsl:when>
    <xsl:otherwise>
     <xsl:value-of select="title"/>
    </xsl:otherwise>

@@ -30,15 +30,29 @@
    
     <h2>Current (stable) versions</h2>
     
+    <p>This information pertains to the currently released stable
+    version of KOffice.</p>
+
      <ul>
-      <li><a href="1.4">Filter status of KOffice 1.4</a></li>
+      <li><a href="1.4/">Filter status of KOffice 1.4</a></li>
+     </ul>
+
+    <h2>Forthcoming (beta) versions</h2>
+
+    <p>This information pertains to the beta version of KOffice, due
+    to be released as KOffice 1.5 in March 2006.  The information here
+    is for guidance only: it may be inaccurate and is subject to
+    change.</p>
+
+     <ul>
+      <li><a href="1.5/">Filter status of KOffice 1.5 (beta)</a></li>
      </ul>
     
     <h2>Old versions</h2>
     
      <ul>
-      <li><a href="1.2">Filter status of KOffice 1.3</a></li>
-      <li><a href="1_3_1">Filter status of KOffice 1.3.1</a></li>
+      <li><a href="1.2/">Filter status of KOffice 1.3</a></li>
+      <li><a href="1_3_1/">Filter status of KOffice 1.3.1</a></li>
      </ul>
     
     <h2>Developer Information</h2>

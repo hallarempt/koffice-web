@@ -92,16 +92,6 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">HancomWord</td>
-      <td width="50%" align="left" valign="top">for version 2.0, text only</td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/hancomword/status.html#import?content-type=text/html">**</a>
-      </td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/hancomword/status.html#export?content-type=text/html">-</a>
-      </td>
-    </tr>
-    <tr>
       <td width="30%" align="left" valign="top">LaTeX</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
@@ -109,16 +99,6 @@
       </td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kword/latex/status.html#export?content-type=text/html">**</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="left" valign="top">MS Word</td>
-      <td width="50%" align="left" valign="top">Microsoft Word 97/2000</td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/winword97/status.html#import?content-type=text/html">***</a>
-      </td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/winword97/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
     <tr>
@@ -239,16 +219,6 @@
       </td>
     </tr>
     <tr>
-      <td width="30%" align="left" valign="top">Excel</td>
-      <td width="50%" align="left" valign="top">Microsoft Excel 97/2000</td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/excel97/status.html#import?content-type=text/html">***</a>
-      </td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/excel97/status.html#export?content-type=text/html">-</a>
-      </td>
-    </tr>
-    <tr>
       <td width="30%" align="left" valign="top">Gnumeric</td>
       <td width="50%" align="left" valign="top">Part of GNOME Office</td>
       <td width="10%" align="center" valign="top">
@@ -343,16 +313,6 @@
       </td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/kpresenter/ooimpress/status.html#export?content-type=text/html">**</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" align="left" valign="top">PowerPoint 97</td>
-      <td width="50%" align="left" valign="top">Microsoft PowerPoint 97</td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/powerpoint97/status.html#import?content-type=text/html">*</a>
-      </td>
-      <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/olefilters/powerpoint97/status.html#export?content-type=text/html">-</a>
       </td>
     </tr>
   </table>
@@ -542,6 +502,31 @@
       <td width="50%" align="left" valign="top">Text file (e.g. CSV or tab-delimited)</td>
       <td width="10%" align="center" valign="top">****</td>
       <td width="10%" align="center" valign="top">-</td>
+    </tr>
+  </table>
+  <h3>Kexi</h3>
+  <table border="5" cellspacing="0" cellpadding="5">
+    <tr bgcolor="#FFEEAA">
+      <th width="30%" align="left" valign="top">From/To</th>
+      <th width="50%" align="left" valign="top">Notes</th>
+      <th width="10%" align="left" valign="top">Import</th>
+      <th width="10%" align="left" valign="top">Export</th>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">Microsoft Access (MDB)</td>
+      <td width="50%" align="left" valign="top">
+                  Available as a
+                  <a href="http://www.kexi-project.org/wiki/wikiview/?MDBDriver"
+                  >separate plugin</a>
+                </td>
+      <td width="10%" align="center" valign="top">***</td>
+      <td width="10%" align="center" valign="top">-</td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">Text</td>
+      <td width="50%" align="left" valign="top">Text file (e.g. CSV or tab-delimited)</td>
+      <td width="10%" align="center" valign="top">-</td>
+      <td width="10%" align="center" valign="top">****</td>
     </tr>
   </table>
   <hr/>
