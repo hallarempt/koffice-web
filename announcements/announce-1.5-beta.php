@@ -345,28 +345,28 @@ distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
 <h4>
-  Compiling KOffice 1.4beta1
+  Compiling KOffice 1.5-beta
 </h4>
 <p align="justify">
   <a name="source_code-library_requirements"></a><strong>Library
   Requirements</strong>:
-  KOffice 1.4beta1 requires the following libraries:
+  KOffice 1.5-beta requires the following libraries:
 </p>
 <ul>
   <li>
     <div align="justify">
-    kdelibs 3.3 or 3.4, which can be downloaded following the
-    <a href="http://www.kde.org/info/3.4.php">instructions</a>
+    kdelibs 3.3, 3.4 or 3.5, which can be downloaded following the
+    <a href="http://www.kde.org/info/3.5.php">instructions</a>
     at the KDE website (for more information on these kdelibs releases, please
-    see the <a href="http://www.kde.org/announcements/announce-3.4.php">KDE
-    3.4 press release</a>);
+    see the <a href="http://www.kde.org/announcements/announce-3.5.php">KDE
+    3.5 press release</a>);
     </div>
   </li>
   <li>
     <div align="justify">
     Qt-3.3, which is available in source code from Trolltech as
     <a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.0.tar.gz">qt-x11-free-3.3.0.tar.gz</a>
-    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.4.tar.gz">qt-x11-free-3.3.4.tar.gz</a>
+    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.5.tar.gz">qt-x11-free-3.3.5.tar.gz</a>
     is recommended);
     and
     </div>
@@ -381,13 +381,13 @@ coming days and weeks.
 </ul>
 <p align="justify">
   <strong>Compiler Requirements</strong>:
-  Please note that KOffice 1.4beta1 will not
+  Please note that KOffice 1.5-beta will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
   <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.4beta1 is available for free download
+  The complete source code for KOffice 1.5-beta is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.5-beta/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
@@ -458,8 +458,7 @@ coming days and weeks.
 <hr />
 <p align="justify">
   <font size="2">
-  <em>Press Release</em>:  Written by <a href="mailto:faure AT kde DOT org">David
-  Faure</a>.
+  <em>Press Release</em>:  Written by <a href="mailto:inge AT lysator DOT liu DOT se">Inge Wallin</a>.
 <!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
@@ -516,12 +515,12 @@ Phone: +91-981807-8372 <br />
 
 <td>
 <b>Europe</b><br />
-Matthias Kalle Dalheimer<br />
-Rysktorp<br />
-S-683 92 Hagfors<br />
+Inge Wallin<br />
+Adamstorpsvägen 3<br />
+SE-590 71 Ljungsbro<br />
 Sweden<br />
-Phone: +46-563-540023<br />
-Fax: +46-563-540028<br />
+Phone: +46-13-290853<br />
+Fax: +46-13-214700<br />
 <a href="m&#x61;il&#0116;o&#x3a;i&#x6e;fo-&#00101;&#00117;rope&#64;k&#x64;&#x65;&#00046;o&#x72;&#00103;">info-europe kde.org</a>
 </td>
 
