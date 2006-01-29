@@ -109,7 +109,7 @@
         <strong>OASIS OpenDocument as the Default File Format</strong>:
 
 <p>
-KOffice now uses OASIS OpenDocument as the default file format for the productivity applications KWord, KSpread, and KPresenter.  In the final 1.5 release, the charting application KChart will also use OpenDocument as the default format.</p>
+KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter.  In the final 1.5 release, the charting application KChart will also use OpenDocument as the default format.</p>
 <p>
 The spreading of the OpenDocument file format is widely regarded one of the most important developments in the whole computer industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
@@ -133,12 +133,23 @@ For a list of features supported by KPlato, see
 </p>
         </div>
       </li>
+    </ul>
+  <p />
+    <strong>Common (All Applications)</strong>:
+    <ul type="disc">
       <li>
         <div align="justify">
-        <strong>OASIS OpenDocument support</strong>:
-Most KOffice applications now support the <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office">OASIS OpenDocument</a> file format. KOffice developer David Faure is part of
-the OASIS technical committee and was able to participate in the discussions that
-led to the creation of this standard file format.
+         a new common startup dialog with better usability than the old one from KOffice 1.4 and before.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 a set of common modifiers (shift, meta, ctrl) for scaling, dragging and similar.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+         foo
         </div>
       </li>
     </ul>
@@ -147,38 +158,17 @@ led to the creation of this standard file format.
     <ul type="disc">
       <li>
         <div align="justify">
-         rewritten spell-checking support which is much faster and solves many problems
-         (e.g. KOffice-1.3's right-click-menu sometimes hanging); with aspell,
-         spell-checking is available in more than 70 languages.
+         OpenDocument is now the default file format.
         </div>
       </li>
       <li>
         <div align="justify">
-         word completion with tooltip;
+         new internals that will remove most of the problems with table handling from KOffice 1.4.
         </div>
       </li>
       <li>
         <div align="justify">
-         a new WordPerfect import filter, based on an external library, libwpd;
-        </div>
-      </li>
-    </ul>
-  <p />
-    <strong>KPresenter (Presentation Tool)</strong>:
-    <ul type="disc">
-      <li>
-        <div align="justify">
-        a master page concept;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        reworked dialogs (property editor, object and page effects); and
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        customizable slide order and selection for slide show.
+         more here.
         </div>
       </li>
     </ul>
@@ -187,27 +177,82 @@ led to the creation of this standard file format.
     <ul type="disc">
       <li>
         <div align="justify">
-         Support for right-to-left spreadsheets;
+         OpenDocument is now the default file format
         </div>
       </li>
       <li>
         <div align="justify">
-        much improved value parsing and formatting;
+        support for non-contiguous selections
         </div>
       </li>
       <li>
         <div align="justify">
-        a calendar plug-in;
+        a new faster and better formula engine
         </div>
       </li>
       <li>
         <div align="justify">
-        additional options for cell validity, 5 new functions, and
+        a much improved Microsoft Excel import filter.
         </div>
       </li>
       <li>
         <div align="justify">
-        a new Microsoft Excel import filter.
+        more here 
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>KPresenter (Presentation Tool)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+        OpenDocument is now the default file format
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        autoguides
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        more here
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Kivio (Flow-charting application)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         FIXME: more here
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Kexi (Database application)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         FIXME: more here
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Krita (Pixel based graphics editor)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         FIXME: more here
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Karbon (Vector based graphics editor)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         FIXME: more here
         </div>
       </li>
     </ul>
@@ -221,46 +266,22 @@ led to the creation of this standard file format.
       </li>
       <li>
         <div align="justify">
-        linear or logarithmic scale;
+        OpenDocument is now the default file format (not working in the beta)
         </div>
       </li>
       <li>
         <div align="justify">
-        printing support;
+        New chart type: combined bars and lines (not working in the beta)
         </div>
       </li>
       <li>
         <div align="justify">
-        support for data as rows or columns; and
+        support for first row or column as labels
         </div>
       </li>
       <li>
         <div align="justify">
-        export to PNG and SVG formats.
-        </div>
-      </li>
-    </ul>
-  <p />
-    <strong>Kivio (Flow-charting application)</strong>:
-    <ul type="disc">
-      <li>
-        <div align="justify">
-         New stencils: Nassi Schneiderman;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        a docker for adding stencils to the document;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        a tool for adding connector targets to stencils; and
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        a poly-line connector.
+        support for changing area when charting data from KSpread 
         </div>
       </li>
     </ul>
@@ -270,15 +291,15 @@ led to the creation of this standard file format.
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
 <h4>
-  Installing KOffice 1.4beta1 Binary Packages
+  Installing KOffice 1.5-beta Binary Packages
 </h4>
 <p align="justify">
   <strong>Binary Packages</strong>:
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.4 beta1 for some versions of their distribution, and in other cases
+  KOffice 1.5 beta for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.4-beta1/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
 </p>
