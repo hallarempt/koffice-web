@@ -14,22 +14,24 @@
 </h2>
 <p align="justify">
     <strong>OpenDocument as Default File Format, New Project Planning Tool, 
-    Professional Color Support in Krita Highlight KOffice Beta Release
-    for Linux and Other UNIXes 
+    Professional Color Support in Krita and New MS Access Import Tool Highlight
+    KOffice Beta Release for Linux and Other UNIXes 
     </strong></p> 
 
   <p align="justify">January 31, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
-  <a href="http://www.koffice.org/">KOffice</a> 1.4beta1, the first preview
-  release for KOffice 1.4,
-  <a href="http://developer.kde.org/development-versions/koffice-1.4-release-plan.html">scheduled</a>
-  for release this June.
+  <a href="http://www.koffice.org/">KOffice</a> 1.5beta, the first preview
+  release for KOffice 1.5,
+  <a href="http://developer.kde.org/development-versions/koffice-1.5-release-plan.html">scheduled</a>
+  for release this March.</p>
+
+  <p align="justify">
   KOffice is an integrated office suite for KDE which utilizes free and
   open standards for its document formats, component communication and
   component embedding.
   This release is principally a public testing and developer solicitation
-  release (more help is welcome!).
+  release. (more help is welcome!).
 </p>
 <p align="justify">
   This release<!--, which is available in
