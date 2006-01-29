@@ -34,33 +34,49 @@
   release. More help is welcome!
 </p>
 <p align="justify">
-    This release includes:<ul>
+    This release includes:
+</p>
+<ul>
   <li>a frame-based, full-featured word processor
     (<a href="http://www.koffice.org/kword/">KWord</a>);
+  </li>
   <li>a spreadsheet application
     (<a href="http://www.koffice.org/kspread/">KSpread</a>);
+  </li>
   <li>a presentation application
     (<a href="http://www.koffice.org/kpresenter/">KPresenter</a>);
+  </li>
   <li>a flowchart application
     (<a href="http://www.thekompany.com/projects/kivio/">Kivio</a>);
+  </li>
   <li>an integrated database application
     (<a href="http://www.koffice.org/kexi/">Kexi</a>);
+  </li>
   <li>a new project management application
     (<a href="http://www.koffice.org/kplato/">KPlato</a>).
+  </li>
   <li>a pixel based image editing and paint application
     (<a href="http://www.koffice.org/krita/">Krita</a>);
+  </li>
   <li>a vector-drawing application
     (<a href="http://www.koffice.org/karbon/">Karbon14</a>).
-  </ul>
+  </li>
+</ul>
+<p>
   Additionally, KOffice includes robust embeddable charts
-  <ul>
+</p>
+<ul>
   <li>business quality reporting software
     (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
+  </li>
   <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
+  </li>
   <li>mathematical formula handling
     (<a href="http://www.koffice.org/kformula/">KFormula</a>)
-  </ul>
+  </li>
+</ul>
+<p>
   as well as a built-in thesaurus (KThesaurus)
   and numerous import and export
     <a href="http://www.koffice.org/filters/">filters</a>.
