@@ -90,30 +90,31 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        <strong>OpenDocument as the Default File Format</strong>:
-Krita is an image editor and paint application with a wide range of
-applications, from photo editing to the creation of original artwork.
-Sporting a clear and uncluttered interface (for a paint app...) it makes the
-features it delivers accessible and intuitive to use.
+        <strong>OASIS OpenDocument as the Default File Format</strong>:
 
-This is the first public release of Krita and while it provides a coherent set
-of features, it is only the first stepping stone towards a flexible paint
-application for artists and image editors.
-
-For a list of features supported by Krita, see
- <a href="http://www.koffice.org/announcements/changelog-1.4beta1.php">the changelog</a>.
+<p>
+KOffice now uses OASIS OpenDocument as the default file format for the productivity applications KWord, KSpread, and KPresenter.  In the final 1.5 release, the charting application KChart will also use OpenDocument as the default format.</p>
+<p>
+The spreading of the OpenDocument file format is widely regarded one of the most important developments in the whole computer industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
+</p>
+<p>
+KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to insure interoperability with other office software that also uses OpenDocument.
+</p>
         </div>
       </li>
       <li>
         <div align="justify">
-        <strong>Kexi</strong>.
-KOffice 1.4 is the first official release to include Kexi.
-Kexi is an integrated environment for creating and managing databases. It can be used for creating database schemas; inserting data; performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects - tables, queries and forms - are stored in the database, making it easy to share databases.
-
-Kexi is considered as a long awaited Open Source competitor for MS Access, Filemaker and Oracle Forms. Its development is motivated by the lack of Rapid Application Development (RAD) tools for database systems that are sufficiently powerful, inexpensive, open standards driven and portable across many OSes and hardware platforms.
-
-For a list of features supported by Kexi, see
- <a href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4Beta1">the kexi website</a>.
+        <strong>Project Management Application KPlato</strong>:
+<p>
+KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use.
+</p>
+<p>
+FIXME: Write much more here
+</p>
+<p>
+For a list of features supported by KPlato, see
+ <a href="http://www.koffice.org/announcements/changelog-1.5-beta.php">the changelog</a>.
+</p>
         </div>
       </li>
       <li>
