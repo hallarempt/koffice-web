@@ -243,7 +243,57 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-         FIXME: more here
+	8 and 16 bit grayscale, CMYK and rgb colormodels, 16 and 32 bit float 
+	RGB colormodels, watercolor colormodel, 16 bit L*a*b colormodel, 
+	32 bit float LMS colormodel. Many colormodels fully support 
+	colormanagement using lcms.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Group, object and adjustment layers (adjustment layers are broken in 
+        beta 1) and a new layerbox with thumbnails and tooltips
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Scripting using kross
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Histograms
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Creating and saving of brushes and patterns
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Show image in center of window
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Show a grid
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	OpenGL mode that speeds up certain operations a lot.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	New filters, e.g. shadow, round corners, wavelet, nose reduction, 
+	bumpmap, tiles and sobel filter.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Color adjustment dialog works with most colormodels
         </div>
       </li>
     </ul>
