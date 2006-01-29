@@ -149,7 +149,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-    accessibility features for all applications let users with disabilities use KOffice. <br> Accessibility improvements include enhanced keyboard access (mouseless operation) and Text-to-Speech capabilities. See the handbooks for further details.
+	 accessibility improvements include enhanced keyboard access (mouseless operation) and Text-to-Speech capabilities. See the handbooks for further details.
         </div>
       </li>
     </ul>
