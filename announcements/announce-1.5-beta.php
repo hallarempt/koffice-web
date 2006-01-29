@@ -225,6 +225,15 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
+         FIXME: more here
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Kexi (Database application)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
          Scripting using kross
         </div>
       </li>
@@ -233,15 +242,6 @@ For a list of features supported by KPlato, see
 	Import MS Access projects (packaged separately)
         </div>
       </li>
-      <li>
-        <div align="justify">
-         FIXME: more here
-        </div>
-      </li>
-    </ul>
-  <p />
-    <strong>Kexi (Database application)</strong>:
-    <ul type="disc">
       <li>
         <div align="justify">
          FIXME: more here
