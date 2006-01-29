@@ -21,7 +21,7 @@
   <p align="justify">January 31, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
-  <a href="http://www.koffice.org/">KOffice</a> 1.5beta, the first preview
+  <a href="http://www.koffice.org/">KOffice</a> 1.5-beta, the first preview
   release for KOffice 1.5,
   <a href="http://developer.kde.org/development-versions/koffice-1.5-release-plan.html">scheduled</a>
   for release this March.</p>
@@ -82,7 +82,7 @@
     <a href="http://www.koffice.org/filters/">filters</a>.
 </p>
 <p align="justify">
-  KOffice 1.5beta complements the release of
+  KOffice 1.5-beta complements the release of
   <a href="http://www.kde.org/announcements/announce-3.5.php">KDE 3.5</a>
   last year.  KDE is a powerful and easy-to-use Internet-enabled
   desktop for Linux and other UNIXes, and together with KOffice constitutes the
