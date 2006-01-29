@@ -31,7 +31,7 @@
   open standards for its document formats, component communication and
   component embedding.
   This release is principally a public testing and developer solicitation
-  release. More help is welcome!
+  release. Help is welcome!
 </p>
 <p align="justify">
     This release includes:
@@ -149,7 +149,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-    accessibility features for all applications let users with disabilities use KOffice.  Accessibility improvements nclude enhanced keyboard access (mouseless operation) and Text-to-Speech capabilities.
+    accessibility features for all applications let users with disabilities use KOffice. <br> Accessibility improvements include enhanced keyboard access (mouseless operation) and Text-to-Speech capabilities. See the handbooks for further details.
         </div>
       </li>
     </ul>
@@ -163,7 +163,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-         new internals that will remove most of the problems with table handling from KOffice 1.4.
+         new internals that will remove most of the problems with tables from KOffice 1.4.
         </div>
       </li>
       <li>
