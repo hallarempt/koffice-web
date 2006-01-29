@@ -119,8 +119,8 @@ about that?</p>
   <tr>
     <th>Save / Load in OpenDoc format</th>
     <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#FF0000">No</td>
-    <td bgcolor="#FF0000">No</td>
+    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#00FF00">Yes</td>
 
     <td bgcolor="#FF0000">No</td>
     <td bgcolor="#FF0000">No</td>
