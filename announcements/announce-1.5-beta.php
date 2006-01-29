@@ -225,6 +225,16 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
+         Scripting using kross
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	Import MS Access projects (packaged separately)
+        </div>
+      </li>
+      <li>
+        <div align="justify">
          FIXME: more here
         </div>
       </li>
@@ -287,7 +297,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-	New filters, e.g. shadow, round corners, wavelet, nose reduction, 
+	New filters, e.g. shadow, round corners, wavelet noise reduction, 
 	bumpmap, tiles and sobel filter.
         </div>
       </li>
