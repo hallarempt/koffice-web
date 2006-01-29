@@ -31,40 +31,44 @@
   open standards for its document formats, component communication and
   component embedding.
   This release is principally a public testing and developer solicitation
-  release. (more help is welcome!).
+  release. More help is welcome!
 </p>
 <p align="justify">
-  This release<!--, which is available in
-  <a href="http://i18n.kde.org/teams/index.php?action=distributed"><strong>46</strong></a>
-  languages, --> includes
-  a frame-based, full-featured word processor
+    This release includes:<ul>
+  <li>a frame-based, full-featured word processor
     (<a href="http://www.koffice.org/kword/">KWord</a>);
-  a presentation application
-    (<a href="http://www.koffice.org/kpresenter/">KPresenter</a>);
-  a spreadsheet application
+  <li>a spreadsheet application
     (<a href="http://www.koffice.org/kspread/">KSpread</a>);
-  a flowchart application
+  <li>a presentation application
+    (<a href="http://www.koffice.org/kpresenter/">KPresenter</a>);
+  <li>a flowchart application
     (<a href="http://www.thekompany.com/projects/kivio/">Kivio</a>);
-  business quality reporting software
-    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>);
-  a new integrated database client
+  <li>an integrated database application
     (<a href="http://www.koffice.org/kexi/">Kexi</a>);
-  a new image editing application
+  <li>a new project management application
+    (<a href="http://www.koffice.org/kplato/">KPlato</a>).
+  <li>a pixel based image editing and paint application
     (<a href="http://www.koffice.org/krita/">Krita</a>);
-  and a vector-drawing application
+  <li>a vector-drawing application
     (<a href="http://www.koffice.org/karbon/">Karbon14</a>).
+  </ul>
   Additionally, KOffice includes robust embeddable charts
+  <ul>
+  <li>business quality reporting software
+    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
+  <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
-  and formulas
+  <li>mathematical formula handling
     (<a href="http://www.koffice.org/kformula/">KFormula</a>)
+  </ul>
   as well as a built-in thesaurus (KThesaurus)
   and numerous import and export
     <a href="http://www.koffice.org/filters/">filters</a>.
 </p>
 <p align="justify">
-  KOffice 1.4beta1 complements the release of
-  <a href="http://www.kde.org/announcements/announce-3.4.php">KDE 3.4</a>
-  last month.  KDE is a powerful and easy-to-use Internet-enabled
+  KOffice 1.5beta complements the release of
+  <a href="http://www.kde.org/announcements/announce-3.5.php">KDE 3.5</a>
+  last year.  KDE is a powerful and easy-to-use Internet-enabled
   desktop for Linux and other UNIXes, and together with KOffice constitutes the
   only Free Software project to provide a complete desktop and productivity
   environment for Linux/UNIX.
@@ -80,13 +84,13 @@
   Principal Improvements
 </h4>
 <p align="justify">
-  The principal improvements over KOffice 1.3 are:
+  The principal improvements over KOffice 1.4 are:
 </p>
     <strong>General</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
-        <strong>Krita</strong>:
+        <strong>OpenDocument as the Default File Format</strong>:
 Krita is an image editor and paint application with a wide range of
 applications, from photo editing to the creation of original artwork.
 Sporting a clear and uncluttered interface (for a paint app...) it makes the
