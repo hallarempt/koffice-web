@@ -63,7 +63,7 @@
   </li>
 </ul>
 <p>
-  Additionally, KOffice includes robust embeddable charts
+  Additionally, KOffice includes robust embeddable objects
 </p>
 <ul>
   <li>business quality reporting software
@@ -111,10 +111,10 @@
 <p>
 KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter.  In the final 1.5 release, the charting application KChart will also use OpenDocument as the default format.</p>
 <p>
-The spreading of the OpenDocument file format is widely regarded one of the most important developments in the whole computer industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
+The spreading of the OpenDocument file format is widely regarded one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
 <p>
-KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to insure interoperability with other office software that also uses OpenDocument.
+KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to ensure interoperability with other office software that also uses OpenDocument.
 </p>
         </div>
       </li>
@@ -261,17 +261,12 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-        New, much improved, data editor;
-        </div>
-      </li>
-      <li>
-        <div align="justify">
         OpenDocument is now the default file format (not working in the beta)
         </div>
       </li>
       <li>
         <div align="justify">
-        New chart type: combined bars and lines (not working in the beta)
+        new chart type: combined bars and lines (not working in the beta)
         </div>
       </li>
       <li>
