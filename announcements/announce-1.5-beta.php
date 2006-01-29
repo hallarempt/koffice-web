@@ -78,8 +78,8 @@
 </ul>
 <p>
   as well as a built-in thesaurus (KThesaurus)
-  and numerous import and export
-    <a href="http://www.koffice.org/filters/">filters</a>.
+  and support for many different 
+    <a href="http://www.koffice.org/filters/">file formats</a>.
 </p>
 <p align="justify">
   KOffice 1.5-beta complements the release of
@@ -442,7 +442,7 @@ coming days and weeks.
 <p align="justify">
   Please visit the KDE family of web sites for the
   <a href="http://www.kde.org/info/faq.php">KDE FAQ</a>,
-  <a href="http://www.kde.org/screenshots/kde330shots.php">screenshots</a>,
+  <a href="http://www.kde.org/announcements/visualguide-3.5.php">screenshots</a>,
   <a href="http://www.koffice.org/">KOffice information</a> and
   <a href="http://developer.kde.org/documentation/">developer
   information</a>.
