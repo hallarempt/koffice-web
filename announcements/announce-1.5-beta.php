@@ -332,10 +332,11 @@ For a list of features supported by KPlato, see
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-beta1/Mandriva/">Mandriva Linux 10.2</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-beta1/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-beta1/kubuntu/">Kubuntu</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.4-beta1/contrib/Slackware/">Slackware Linux 10.1</a></li>
+  <li>FIXME: Check this list</li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/Mandriva/">Mandriva Linux 10.2</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/kubuntu/">Kubuntu</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/contrib/Slackware/">Slackware Linux 10.1</a></li>
 </ul>
 
 <p align="justify">
@@ -388,7 +389,7 @@ coming days and weeks.
   <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.4beta1 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http</a>
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
