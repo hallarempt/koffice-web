@@ -251,7 +251,9 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-        Import data from MS Access projects (packaged separately)
+        Import data from MS Access projects
+        (<a href="http://www.koffice.org/filters/1.5/kexi/mdb.php">packaged
+        separately</a>)
         </div>
       </li>
       <li>

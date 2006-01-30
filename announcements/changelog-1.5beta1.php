@@ -22,12 +22,12 @@
 
 <em>New features:</em>
 <ul>
- <li>The statusbar now shows the page number, overwrite mode, zoom, unit etc.</li>
+ <li>The status bar now shows the page number, overwrite mode, zoom, unit etc.</li>
  <li>Ability to show the object grid and to switch the grid on/off</li>
  <li>Make it possible to stop moving and resizing frames with the Escape key.</li>
  <li><em>Accessibility improvements</em>
   <ul>
-   <li>"Menu" key shows RMB popup in document structure</li>
+   <li>"Menu" key shows RMB pop-up in document structure</li>
    <li>Ctrl+Menu activates frame/border menu.</li>
    <li>Go to Document Structure (Alt+1) and Go to Document (Alt+2) shortcuts.</li>
    <li>Inserting frames can now also be done by pressing Return</li>
@@ -43,7 +43,7 @@
 <em>Changes:</em>
 <ul>
  <li>Much improved documentation</li>
- <li>Many improvements of the document structure area, including popup menus, better refreshing...</li>
+ <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
  <li>Resizing table rows and columns with the mouse is disabled for this release, for the benefit of easier cell selection</li>
 </ul>
 
@@ -99,13 +99,13 @@
  <li>print multiple pages per page (in printing dialog options)</li>
  <li>objects of master slide are now behind the objects of the slide</li>
  <li>reworked property editor</li>
- <li>improved guilde lines</li>
- <li>added auto guilde lines</li>
+ <li>improved guide lines</li>
+ <li>added auto guide lines</li>
  <li>snapping to grid/guides during insert, improved snapping code</li>
  <li>improved many dialogs</li>
  <li>use default key modifier</li>
  <li>added autoscroll</li>
- <li>added object popup to outline</li>
+ <li>added object pop-up to outline</li>
 </ul>
 
 <em>Bugfixes:</em>
@@ -170,7 +170,7 @@
  <li>dedicated png, tiff and jpeg filters that load much more files correctly</li>
  <li>load LAB photoshop images</li>
  <li>filters gallery</li>
- <li>nice curve widget for chaning brightness/contrast</li>
+ <li>nice curve widget for changing brightness/contrast</li>
  <li>plugin architecture that enables colorspaces, tools, paint operations,
    filters and much else to be implemented as plugins</li>
  <li><em>New filters:</em>
@@ -187,7 +187,7 @@
  <li>OpenGL mode for speedups</li>
  <li>load and save palettes, patterns and brushes.</li>
  <li>Krita now compiles on NetBSD</li>
- <li>When "Select Similar Colors" a transparant area, add only transparant areas instead of the entire image to the selection.</li>
+ <li>When "Select Similar Colors" a transparent area, add only transparent areas instead of the entire image to the selection.</li>
  <li>Fix loading and saving of grayscale images</li>
  <li>Fix ImageMagick 16/8 bit image confusion when loading and saving.</li>
  <li>Warn when applying a filter that will convert the layer data</li>
@@ -240,12 +240,12 @@
  <li>111484   Krita : silent crash</li>
  <li>111629   Crash when Edit->Clear selected</li>
  <li>112029   Krita crashes when dragging selection tool beyond canvas</li>
- <li>112723   jpeg meta info comment lost on editing in krita</li>
- <li>112727   If present, change the 'Orientation' meta data on rotatio...</li>
+ <li>112723   JPEG meta info comment lost on editing in krita</li>
+ <li>112727   If present, change the 'Orientation' meta data on rotation</li>
  <li>112776   program crash on click at filter name "Mean Removal"</li>
  <li>112787   Add a Fill action</li>
  <li>112855   krita crashes when moving a selection</li>
- <li>113335   bug: when i use krita as an ambeded bitmap editor more th...</li>
+ <li>113335   bug: when i use krita as an embedded bitmap editor more ...</li>
  <li>113521   Rotate image skews layers that have an offset</li>
  <li>113680   Closing one Krita-instance closes all of them</li>
  <li>114233   I can no way get an empty Krita workshop</li>
