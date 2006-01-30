@@ -77,7 +77,12 @@
 </ul>
 
 <h3><a name="kspread">KSpread</a></h3>
+<em>New features:</em>
 <ul>
+ <li>OpenDocument is now the default file format</li>
+ <li>support for non-contiguous selections</li>
+ <li>a new faster and better formula engine</li>
+ <li>a much improved Microsoft Excel import filter.</li>
 </ul>
 
 <em>New features:</em>
@@ -315,6 +320,7 @@
 
 <em>KSpread:</em>
 <ul>
+ <li>a much improved Microsoft Excel import filter.</li>
 </ul>
 
 
