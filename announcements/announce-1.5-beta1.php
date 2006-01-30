@@ -92,7 +92,7 @@
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.4-beta1/src/">http and ftp</a> mirrors
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http and ftp</a> mirrors
   and can also be obtained as a
   <a href="http://ktown.kde.org/~binner/klax/koffice.html">x86 Live CD</a>.
 </p>
@@ -126,7 +126,7 @@ KOffice 1.5 is the first official release to include KPlato. KPlato is a project
 </p>
 <p>
 For a list of features supported by KPlato, see
- <a href="http://www.koffice.org/announcements/changelog-1.5-beta.php">the changelog</a>.
+ <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">the changelog</a>.
 </p>
         </div>
       </li>
@@ -369,7 +369,7 @@ For a list of features supported by KPlato, see
     </ul>
 <p align="justify">
   A more complete
-  <a href="http://www.koffice.org/announcements/changelog-1.4beta1.php">list
+  <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
 <h4>
