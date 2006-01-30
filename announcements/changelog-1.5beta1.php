@@ -79,23 +79,22 @@
 <h3><a name="krita">Krita</a></h3>
 <em>Features:</em>
 <ul>
- <li><em>Support for a number of colorspaces, of which many are color-managed.:</em>
+ <li>Support for a number of colorspaces (of which many are color-managed):
   <ul>
    <li>cmyk8
    <li>cmyk16
-   <li> rgb16
-   <li> gray16
-   <li> rgb-half
-   <li> rgb-float16
-   <li> rgb-floag32
-   <li> lab16
-   <li> lms15
+   <li>rgb16
+   <li>gray16
+   <li>rgb-half
+   <li>rgb-float16
+   <li>rgb-float32
+   <li>lab16
+   <li>lms16
   </ul>
  </li>
  <li>use KOffice documents as layers</li>
  <li>adjustment layers</li>
  <li>fix drag & drop of images into Krita</li>
- <li>reviewed colormanagement</li>
  <li>histogram docker</li>
  <li>group layers in folders</li>
  <li>much, much nicer layerbox with previews and tooltips</li>
