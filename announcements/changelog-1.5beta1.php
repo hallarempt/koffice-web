@@ -19,27 +19,68 @@
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
-<em>Features:</em>
+
+<em>New features:</em>
 <ul>
+ <li>The statusbar now shows the page number, overwrite mode, zoom, unit etc.</li>
+ <li>Ability to show the object grid and to switch the grid on/off</li>
+ <li>Make it possible to stop moving and resizing frames with the Escape key.</li>
+ <li><em>Accessibility improvements</em>
+  <ul>
+   <li>"Menu" key shows RMB popup in document structure</li>
+   <li>Ctrl+Menu activates frame/border menu.</li>
+   <li>Go to Document Structure (Alt+1) and Go to Document (Alt+2) shortcuts.</li>
+   <li>Inserting frames can now also be done by pressing Return</li>
+   <li>A "Select Frame" shortcut can now be configured</li>
+   <li>Single, 1.5, and double line spacing shortcuts can now be configured</li>
+   <li>Text-to-speech integration
+  </ul>
+ </li>
+ <li>Overwrite mode (activated with the "Insert" key)</li>
+ <li>Center page in window</li>
 </ul>
 
 <em>Changes:</em>
 <ul>
+ <li>Much improved documentation</li>
+ <li>Many improvements of the document structure area, including popup menus, better refreshing...</li>
+ <li>Resizing table rows and columns with the mouse is disabled for this release, for the benefit of easier cell selection</li>
 </ul>
 
 <em>Bugfixes:</em>
 <ul>
+ <li><em>OASIS OpenDocument support</em>
+  <ul>
+   <li>Fixed loading of headers and footers (#107424)
+   <li>Implemented saving of headers and footers
+   <li>Fix for text:h without outline-level
+   <li>Simplified the XML by removing spurious <span> tags due to misspelled words
+   <li>Save office:font-face-decls tag so that OOo loads the fonts
+   <li>Fixed loading of font sizes specified as a percentage
+   <li>Implemented loading of list indentation (space-before) (#109223)
+   <li>Improved OOo compatibility when saving page breaks
+   <li>Save first page number the right way so that OOo can load it
+   <li>Save bookmarks
+   <li>Load and save frame styles, and table styles.
+  </ul>
+ </li>
+ <li>Many fixes to the text view mode</li>
+ <li>Fixed updating of "statistics" variable (e.g. word count) when loading/saving.</li>
+ <li>The Zoom levels "Fit to Width" and "Fit To Page" now keep up when resizing the window</li>
+ <li>Fixed background spell-checking issues</li>
+ <li>Text layouting: fix for formatting of multi-frame paragraphs (#65059)</li>
 </ul>
 
-<em>Crashes:</em>
+<em>Caveats:</em>
 <ul>
+ <li>Some table bugs still remain. </li>
 </ul>
 
 <h3><a name="kspread">KSpread</a></h3>
 <ul>
 </ul>
 
-<em>Features:</em>
+<em>New features:</em>
 <ul>
 </ul>
 
@@ -47,8 +88,24 @@
 
 
 <h3><a name="kpresenter">KPresenter</a></h3>
-<em>Features:</em>
+<em>New features:</em>
 <ul>
+ <li>very much improved OpenDocument support</li>
+ <li>print multiple pages per page (in printing dialog options)</li>
+ <li>objects of master slide are now behind the objects of the slide</li>
+ <li>reworked property editor</li>
+ <li>improved guilde lines</li>
+ <li>added auto guilde lines</li>
+ <li>snapping to grid/guides during insert, improved snapping code</li>
+ <li>improved many dialogs</li>
+ <li>use default key modifier</li>
+ <li>added autoscroll</li>
+ <li>added object popup to outline</li>
+</ul>
+
+<em>Bugfixes:</em>
+<ul>
+ <li>too many bug fixes to list</li>
 </ul>
 
 <em>Changes:</em>
@@ -57,7 +114,12 @@
 
 
 <h3><a name="kivio">Kivio</a></h3>
+<em>New features:</em>
 <ul>
+ <li>Automatic guidelines)</li>
+ <li>New dockers, shared with Krita and Karbon (now called palettes)</li>
+ <li>New object list that can be used to mark objects on the page</li>
+ <li>New stencils for ER diagrams</li>
 </ul>
 
 
@@ -77,7 +139,7 @@
 
 
 <h3><a name="krita">Krita</a></h3>
-<em>Features:</em>
+<em>New features:</em>
 <ul>
  <li>Support for a number of colorspaces (of which many are color-managed):
   <ul>
@@ -202,7 +264,7 @@
 <h3><a name="karbon">Karbon</a></h3>
 
 <h3><a name="kplato">KPlato</a></h3>
-<em>Features:</em>
+<em>New features:</em>
 <ul>
  <li>Resource management</li>
  <li>Hierarchical calendars</li>
