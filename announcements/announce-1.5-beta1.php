@@ -122,10 +122,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
         <div align="justify">
         <strong>Project Management Application KPlato</strong>:
 <p>
-KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use.
-</p>
-<p>
-FIXME: Write much more here
+KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
 </p>
 <p>
 For a list of features supported by KPlato, see
@@ -168,7 +165,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-         more here.
+         FIXME: more here.
         </div>
       </li>
     </ul>
@@ -197,7 +194,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-        more here 
+        FIXME: more here 
         </div>
       </li>
     </ul>
