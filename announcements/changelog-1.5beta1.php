@@ -54,6 +54,10 @@
 
 <h3><a name="kchart">KChart</a></h3>
 <ul>
+ <li>OpenDocument is now the default file format (not working in the beta)</li>
+ <li>new chart type: combined bars and lines (not working in the beta)</li>
+ <li>support for first row or column as labels</li>
+ <li>support for changing area when charting data from KSpread</li>
 </ul>
 
 <h3><a name="kivio">Kivio</a></h3>
