@@ -283,7 +283,7 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-	8 and 16 bit grayscale, CMYK and rgb colormodels, 16 and 32 bit float 
+	8 and 16 bit grayscale, CMYK and RGB colormodels, 16 and 32 bit float 
 	RGB colormodels, watercolor colormodel, 16 bit L*a*b colormodel, 
 	32 bit float LMS colormodel. Many colormodels fully support 
 	colormanagement using lcms.
@@ -291,13 +291,13 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-	Group, object and adjustment layers (adjustment layers are broken in 
+	Group, object and adjustment layers (saving adjustment layers is broken in 
         beta 1) and a new layerbox with thumbnails and tooltips
         </div>
       </li>
       <li>
         <div align="justify">
-	Scripting using KROSS
+	Scripting using KROSS in Python and Ruby
         </div>
       </li>
       <li>
