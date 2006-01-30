@@ -211,6 +211,16 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
+        New PowerPoint import filter
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        Export slides as images
+        </div>
+      </li>
+      <li>
+        <div align="justify">
         automatic guide lines
         </div>
       </li>
