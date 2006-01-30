@@ -234,17 +234,32 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-         Scripting using kross
+        Data-aware forms, more widget types and embedded images
         </div>
       </li>
       <li>
         <div align="justify">
-	Import MS Access projects (packaged separately)
+        Import data from MS Access projects (packaged separately)
         </div>
       </li>
       <li>
         <div align="justify">
-         FIXME: more here
+        Much improved GUI for database connectivity (MySQL)
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        Much improved Project Import Wizard
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+         Python scripting using KROSS (beta)
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+         Simple printouts
         </div>
       </li>
     </ul>
@@ -267,7 +282,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-	Scripting using kross
+	Scripting using KROSS
         </div>
       </li>
       <li>
