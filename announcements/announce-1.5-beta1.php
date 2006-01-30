@@ -14,7 +14,7 @@
 </h2>
 <p align="justify">
     <strong>OpenDocument as Default File Format, Accessibility, New Project 
-    Planning Tool and Professional Color Support in Krita  Highlight KOffice 
+    Planning Tool, Professional Color Support in Krita and Final Kexi 1.0 Version Highlight KOffice 
     Beta Release for Linux and Other UNIXes 
     </strong></p> 
 
@@ -413,6 +413,10 @@ For a list of features supported by KPlato, see
   <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/kubuntu/">Kubuntu</a></li>
   <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/contrib/Slackware/">Slackware Linux 10.1</a></li>
 </ul>
+
+<p align="justify">
+  <a name="windows_version"><strong>MS Windows Version</strong></a>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
+</p>
 
 <p align="justify">
 Please check the servers periodically for pre-compiled packages for other
