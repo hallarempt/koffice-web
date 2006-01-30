@@ -211,12 +211,17 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-        autoguides
+        automatic guide lines
         </div>
       </li>
       <li>
         <div align="justify">
-        more here
+        autoscroll
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        many, many bugfixes.
         </div>
       </li>
     </ul>
