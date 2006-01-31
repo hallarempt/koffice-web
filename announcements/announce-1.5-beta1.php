@@ -114,7 +114,7 @@ KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenD
 The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
 <p>
-KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to ensure interoperability with other office software that also uses OpenDocument.
+KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to ensure interoperability with other office software that also use OpenDocument.
 </p>
         </div>
       </li>
@@ -123,6 +123,9 @@ KOffice was the first office suite that announced support for OpenDocument and n
         <strong>Project Management Application KPlato</strong>:
 <p>
 KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
+</p>
+<p>
+With this release, KPlato already offers various charts (gantt, pert), scheduling capabilities, calendars, resources, tasks and subtasks, detecting critical paths and resources as well as generating a work breakdown structure. KPlato can also be embedded into other KOffice applications.
 </p>
 <p>
 For a list of features supported by KPlato, see
