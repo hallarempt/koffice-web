@@ -237,6 +237,8 @@ For a list of features supported by KPlato, see
       </li>
     </ul>
   <p />
+    <i><b>NOTE:</b>KSpread received many last minute changes, so please be aware that the 1.5beta 1 version may be unstable. </i>
+  <p />
     <strong>KPresenter (Presentation Tool)</strong>:
     <ul type="disc">
       <li>
