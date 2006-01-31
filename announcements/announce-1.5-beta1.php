@@ -134,7 +134,8 @@ It is therefore our hope that KOffice will be possible to use even for users wit
         <div align="justify">
         <strong>Start of a Unified Scripting Approach</strong>:
 <p>
-This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports Python and Ruby.
+This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports <a href"http://www.python.org/">Python</a> and
+<a href="http://www.ruby-lang.org/">Ruby</a>.
 </p>
 <p>
 Kross is easy to include into programs previously lacking scripting abilities, and is included in this version as a technology preview. So far, only Krita and Kexi are enhanced with the Kross engine. We would also like to point out that the API might change in the future and expect Kross to be fully integrated for KOffice version 2.0.
@@ -150,7 +151,7 @@ management application that is the KOffice counterpart to MS Access or
 FileMaker. It is designed from the ground up as a standard KDE database 
 application.
 </p>
-<p>. 
+<p>
 Using Kexi, a new database project can be set up in less than one minute as a 
 single efficient file, without a need for administering servers. When needed, 
 MySQL server can be used for storage or existing project can be imported from 
