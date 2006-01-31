@@ -133,7 +133,7 @@
 <h3><a name="kivio">Kivio</a></h3>
 <em>New features:</em>
 <ul>
- <li>Automatic guidelines)</li>
+ <li>Automatic guidelines</li>
  <li>New dockers, shared with Krita and Karbon (now called palettes)</li>
  <li>New object list that can be used to mark objects on the page</li>
  <li>New stencils for ER diagrams</li>
@@ -142,8 +142,24 @@
 
 <h3><a name="kexi">Kexi</a></h3>
 
-<em>Overview</em>
+<em>New features:</em>
 <ul>
+ <li>Data-aware forms</li>
+ <li>Form Designer's Data Source Pane for assigning data source to forms and widgets. Object tree view for easier navigating within widgets hierarchy</li>
+ <li>Import from CSV files and pasting tabular data from clipboard. Export data to CSV files and copying tabular data to clipboard. Automatic detection of delimiters and column types</li>
+ <li>Improved server connection dialog. Stored connection data</li>
+ <li>Support for images in forms (stored as BLOBs)</li>
+ <li>New widgets: multiline editor</li>
+ <li>Improved MS Access (MDB) file import (optional plugin)</li>
+ <li>Improved import of server databases to a file-based projects. Entire Kexi projects (not only tables) can be imported too</li>
+ <li>Scripting plugin (Python) to extend functionality (including example script for HTML export)</li>
+ <li>Simple printouts, print settings and print preview for table and query data</li>
+</ul>
+
+<em>See Also</em>
+<ul>
+ <li><a href="http://kexi-project.org/wiki/wikiview/index.php?DetailedChanges1.0">Detailed Changes in Kexi</a></li>
+ <li><a href="http://kexi-project.org/wiki/wikiview/index.php?UnsupportedFeatures1.0">Known Problems &amp; Unsupported Features in Kexi</a></li>
 </ul>
 
 <em>Data Processing and Access</em>
