@@ -133,6 +133,31 @@ For a list of features supported by KPlato, see
 </p>
         </div>
       </li>
+      <li>
+        <div align="justify">
+        <strong>Enhanced Accessibility for Users with Disabilities</strong>:
+<p>
+The decision of the Commonwealth of Massachussetts to base its future document format on open standards started a great debate with many different people and organization taking part.  The start of it was Microsofts assertion that programs using the OpenDocument file format could not be used by people with disabilities.
+</p>
+<p>
+The direct outcome of this debate was that OpenOffice.org, KOffice and vendors of other office software started to work hard on rectifying this problem.  This version of KOffice has support for enhanced accessibility through the means of mouseless operation and text-to-speech functionality.
+</p>
+<p>
+It is therefore our hope that KOffice will be possible to use even for users with disabilities, and we are very interested in feedback for this.
+</p>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        <strong>Start of a Unified Scripting Approach.</strong>:
+<p>
+This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports Python and Ruby.
+</p>
+<p>
+Kross is easy to include into programs previously lacking scripting abilities, and is included in this version as a technology preview. So far, only Krita and Kexi are enhanced with the Kross engine. We would also like to point out that the API might change in the future and expect Kross to be fully integrated for KOffice version 2.0.
+</p>
+        </div>
+      </li>
     </ul>
   <p />
     <strong>Common (All Applications)</strong>:
