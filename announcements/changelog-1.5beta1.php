@@ -42,7 +42,7 @@
   <li>Let everything, interpreters and wrappers, be a plugin; load plugins only on demand.</li>
   <li>Added bindings for GUI-toolkits like TKinter or PyQt.</li>
   <li>Integrated Zope RestrictedPython to provide a restricted python environment to execute Python scripting code in a secure sandbox.</li>
-  <li>Added Python bindings.</li>
+  <li>Added bindings for Python and Ruby programming languages.</li>
   </ul>
 </ul>
 
@@ -184,7 +184,7 @@
  <li>New widgets: multiline editor</li>
  <li>Improved MS Access (MDB) file import (optional plugin)</li>
  <li>Improved import of server databases to a file-based projects. Entire Kexi projects (not only tables) can be imported too</li>
- <li>Scripting plugin (Python) to extend functionality (including example script for HTML export)</li>
+ <li>Scripting plugins (Python and Ruby) to extend functionality (including example script for HTML export)</li>
  <li>Simple printouts, print settings and print preview for table and query data</li>
  <li>Handbook added (incomplete).</li>
  <li>More than two hundreds of overall improvements and bug fixes.</li>
