@@ -92,10 +92,6 @@
  <li>Range-setting by dragging</li>
 </ul>
 
-<em>New features:</em>
-<ul>
-</ul>
-
 <em>New functions:</em><br />
 
 
