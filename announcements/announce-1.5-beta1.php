@@ -211,11 +211,6 @@ For a list of features supported by KPlato, see
          new internals that will remove most of the problems with tables from KOffice 1.4.
         </div>
       </li>
-      <li>
-        <div align="justify">
-         FIXME: more here.
-        </div>
-      </li>
     </ul>
   <p />
     <strong>KSpread (Spreadsheet)</strong>:
@@ -238,11 +233,6 @@ For a list of features supported by KPlato, see
       <li>
         <div align="justify">
         a much improved Microsoft Excel import filter.
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        FIXME: more here 
         </div>
       </li>
     </ul>
