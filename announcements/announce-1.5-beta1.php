@@ -456,7 +456,7 @@ For a list of features supported by KPlato, see
   <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
-<h4>
+<a name="binary_packages"></a><h4>
   Installing KOffice 1.5-beta Binary Packages
 </h4>
 <p align="justify">
@@ -535,7 +535,7 @@ Please check the servers periodically for pre-compiled packages for other
 distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
-<h4>
+<a name="compiling"></a><h4>
   Compiling KOffice 1.5-beta
 </h4>
 <p align="justify">
