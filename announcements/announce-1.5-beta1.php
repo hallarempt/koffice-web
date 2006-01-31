@@ -486,12 +486,14 @@ Kross is easy to include into programs previously lacking scripting abilities, a
 </p>
 
 <ul>
-  <li>FIXME: Check this list</li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/Mandriva/">Mandriva Linux 10.2</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/kubuntu/">Kubuntu</a></li>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta/contrib/Slackware/">Slackware Linux 10.1</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta1/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta1/kubuntu/">Kubuntu</a></li>
+  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge (these are
+packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
 </ul>
+
+<p>There will be up-to-date klik packages for all of KOffice during the beta period at
+<a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_Testing">http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_Testing</a>.</p>
 
 <p align="justify">
   <a name="windows_version"><strong>MS Windows Version</strong></a>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
