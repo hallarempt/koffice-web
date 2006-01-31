@@ -10,13 +10,17 @@
   release of KOffice 1.4.2 (latest stable version).
 </p>
 
+<!--
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <ul>
 </ul>
+-->
 
+<!--
 <h3><a name="koshell">KOffice Workspace (koshell)</a></h3>
 <ul>
 </ul>
+-->
 
 <h3><a name="kword">KWord</a></h3>
 
@@ -92,7 +96,9 @@
  <li>Range-setting by dragging</li>
 </ul>
 
+<!-- 
 <em>New functions:</em><br />
+-->
 
 
 <h3><a name="kpresenter">KPresenter</a></h3>
@@ -116,10 +122,11 @@
  <li>too many bug fixes to list</li>
 </ul>
 
+<!--
 <em>Changes:</em>
 <ul>
 </ul>
-
+-->
 
 <h3><a name="kivio">Kivio</a></h3>
 <em>New features:</em>
@@ -324,9 +331,11 @@
 
 
 <h3><a name="filters">Filters</a></h3>
+<!--
 <em>KWord:</em>
 <ul>
 </ul>
+-->
 
 <em>KPresenter:</em>
 <ul>
