@@ -10,11 +10,11 @@
   release of KOffice 1.4.2 (latest stable version).
 </p>
 
-<!--
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
+<em>Changes:</em>
 <ul>
+ <li>Sheet/Page tab bar in KSpread/Kivio can now be controlled via mouse wheel.</li>
 </ul>
--->
 
 <!--
 <h3><a name="koshell">KOffice Workspace (koshell)</a></h3>
@@ -29,6 +29,8 @@
  <li>The status bar now shows the page number, overwrite mode, zoom, unit etc.</li>
  <li>Ability to show the object grid and to switch the grid on/off</li>
  <li>Make it possible to stop moving and resizing frames with the Escape key.</li>
+ <li>Paragraphs may have a background color (configurable via <em>Format->Paragraph</em> 
+     or style manager).</li>
  <li><em>Accessibility improvements</em>
   <ul>
    <li>"Menu" key shows RMB pop-up in document structure</li>
