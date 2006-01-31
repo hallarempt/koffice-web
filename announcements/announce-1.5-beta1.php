@@ -162,12 +162,15 @@ exchangeability and server support.
       </li>
       <li>
         <div align="justify">
-        <strong>New Project Management Application KPlato</strong>:
+        <strong>New Project Management and Planning Application: KPlato</strong>:
 <p>
 KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
 </p>
 <p>
 With this release, KPlato already offers various charts (gantt, pert), scheduling capabilities, calendars, resources, tasks and subtasks, detecting critical paths and resources as well as generating a work breakdown structure. KPlato can also be embedded into other KOffice applications.
+</p>
+<p>
+The KPlato team is also involved in the <a href="http://www.opmef.org">OPMEF project</a> (Open Project Management Exchange Format) which aims at creating a standard file format for project management applications. People from other projects such as <a href="http://www.taskjuggler.org">TaskJuggler</a> and various individuals are also involved. You're welcome to <a href="http://www.opmef.org/contribute/">join</a>, too.
 </p>
 <p>
 For a list of features supported by KPlato, see
