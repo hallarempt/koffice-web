@@ -134,7 +134,7 @@ It is therefore our hope that KOffice will be possible to use even for users wit
         <div align="justify">
         <strong>Start of a Unified Scripting Approach</strong>:
 <p>
-This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports <a href"http://www.python.org/">Python</a> and
+This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports <a href="http://www.python.org/">Python</a> and
 <a href="http://www.ruby-lang.org/">Ruby</a>.
 </p>
 <p>
