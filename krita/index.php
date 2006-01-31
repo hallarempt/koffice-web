@@ -64,8 +64,8 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 	<h3>Documentation</h3>
 
       <ul>
-        <li><a href="krita.pdf">Manual (in PDF format)</a> - a work in
-            progress, but the chapter on selections is fairly complete.</li>
+        <li><a href="http://docs.kde.org/development/en/koffice/krita/">Manual</a> - a work in
+            progress, but rapid progress. By Sander Koning, Boudewijn Rempt, Casper Boemann and Cyrille Berger.
 	<li><a href="faq.php">FAQs</a></li>
 
       </ul>
