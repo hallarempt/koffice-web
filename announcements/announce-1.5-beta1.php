@@ -485,6 +485,26 @@ For a list of features supported by KPlato, see
   the <a href="http://www.kde.org/download/packagepolicy.php">KDE Binary Package
   Policy</a> and/or contact your OS vendor.
 </p>
+
+<p align="justify">
+  <strong>Innovative Testing Facilities with klik</strong>:
+  KOffice developers want to make testing as easy as possible for our users 
+  throughout the beta period. Therefore, we offer to you an additional
+  method to testdrive KOffice 1.5.0 beta which doesn't require the replacement
+  of the last stable release on your system by current beta packages.</p> 
+<p align="justify">
+  We teamed up 
+  with the <a href="http://klik.atekon.de/">klik</a> 
+  developer team, who will provide up to date klik packages for all of KOffice. 
+  klik packages may be used without
+  installation (they run, similar to Mac OS X "AppDir" bundles, from a self-contained
+  directory tree -- but klik compresses the tree into one single file for easier
+  handling). klik-bundles work on multiple Linux platforms without disturbing the system's
+  native package manager (see also <a href="http://klik.atekon.de/wiki/index.php/User's_FAQ">klik User's FAQ</a>).
+  A Wiki holds details about <a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_DistroTable">KOffice
+  klik bundles and supported distros</a>.
+</p>
+
 <p align="justify">
   <strong>Library Requirements / Options</strong>:
   The library requirements for a particular binary package vary with the
@@ -509,18 +529,6 @@ packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid (these are
 packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
 </ul>
-
-<p align="justify">
-  <strong>Innovative Testing Facilities with klik</strong>:
-<p>Throughout the beta period, to make testing easier, the <a href="http://klik.atekon.de/">klik</a> 
-developer team will provide up to date klik packages for all of KOffice. klik packages may be used without
-installation (they run, similar to Mac OS X "AppDir" bundles from a selfcontained
-directory tree -- but klik compresses the tree into a one single file for easier
-handling), and they run on multiple Linux platforms without disturbing the system's
-native package manager (see also <a href="http://klik.atekon.de/wiki/index.php/User's_FAQ">klik User's FAQ</a>).
-A Wiki holds details about <a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_DistroTable">KOffice
-klik bundles and supported distros</a>.
-</p>
 
 <p align="justify">
   <a name="windows_version"><strong>MS Windows Version</strong></a>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
