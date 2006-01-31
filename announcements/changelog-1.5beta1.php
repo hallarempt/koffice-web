@@ -324,6 +324,7 @@
 
 <em>KPresenter:</em>
 <ul>
+ <li>New PowerPoint import filter</li>
 </ul>
 
 <em>KSpread:</em>
