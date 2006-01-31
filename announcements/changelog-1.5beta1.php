@@ -296,6 +296,8 @@
 </ul>
 
 <h3><a name="karbon">Karbon</a></h3>
+
+<em>New features:</em>
 <ul>
  <li>improved OASIS file format support</li>
  <li>new color selectors</li>
@@ -303,6 +305,43 @@
  <li>improved stability and rendering</li>
  <li>improved SVG compatibility</li>
  <li>better toolbox</li>
+ <li>Duplicate object</li>
+ <li>Load SVG and Gimp gradients</li>
+ <li>Support for changing gradient or pattern fills on the canvas</li>
+</ul>
+
+<em>Bugfixes:</em>
+<ul>
+ <li>114421 Transform palette has a strange layout when it is tall</li>
+ <li>114424 Stroke properties palette has a strange layout when it is...</li>
+ <li>114425 Color palette has title "Fill color" even when it shows s...</li>
+ <li>114428 The last created object should stay selected</li>
+ <li>114577 The Document/Layers/History palette is not shown on start</li>
+ <li>114579 Deleting polyline segment moves the mouse pointer to (0, 0)</li>
+ <li>114580 JJ: The line thickness SpinBox has no tooltip</li>
+ <li>112765 Selecting a polyline and running the "round corners" plug...</li>
+ <li>60438 undo confusion between point and shape action</li>
+ <li>92974 svg export creates useless svg file (from text tool)</li>
+ <li>115752 Make paste operation undo:able</li>
+ <li>116612 svg import/rendering bugs</li>
+ <li>111372 karbon: KLibrary: Undefined symbol "init_libkarbonpart"</li>
+ <li>114578 A polyline spline has a too big surrounding box</li>
+ <li>89596 Switching between Karbon14 and KSVGPlugin view in Konquer...</li>
+ <li>38555 segv when opening a file svg or kontour native</li>
+ <li>116422 un-usable selecting behaviour multple moving</li>
+ <li>116972 Transform palette is not updated when moving or scaling an object</li>
+ <li>115213 The color and opacity bars in the color chooser palette are backwards.
+        (thanks Marijn Kruisselbrink for the initial patch)</li>
+ <li>96944 Wanted: good right-click actions for polyline tool, zoom ...</li>
+ <li>111619 Page layout: size alias and margins doesn't get saved</li>
+ <li>111717 How to bring back the overview window if you close it?</li>
+ <li>111618 Rename plugins menu to "Effects"</li>
+ <li>109520 Change Align Center (Vertical) to Align Middle and add some extra separators</li>
+ <li>108789 Keybindings like krita, and other tweaks</li>
+ <li>108755 Always use this document at startup, Karbon has no way to stop doing this. Add a basic karbon template.</li>
+ <li>91376, 111207, 60844 Dockers now use the KoPalette library. This means a huge improvement when it comes to docker management</li>
+ <li>112691 Usability: The tools should be grouped</li>
+ <li>114429 The color picker is bad: Karbon now uses the Krita color choosers.</li>
 </ul>
 
 <h3><a name="kplato">KPlato</a></h3>
