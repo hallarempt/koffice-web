@@ -118,21 +118,6 @@ KOffice was the first office suite that announced support for OpenDocument and n
       </li>
       <li>
         <div align="justify">
-        <strong>Project Management Application KPlato</strong>:
-<p>
-KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
-</p>
-<p>
-With this release, KPlato already offers various charts (gantt, pert), scheduling capabilities, calendars, resources, tasks and subtasks, detecting critical paths and resources as well as generating a work breakdown structure. KPlato can also be embedded into other KOffice applications.
-</p>
-<p>
-For a list of features supported by KPlato, see
- <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">the changelog</a>.
-</p>
-        </div>
-      </li>
-      <li>
-        <div align="justify">
         <strong>Enhanced Accessibility for Users with Disabilities</strong>:
 <p>
 The decision of the Commonwealth of Massachussetts to base its future document format on open standards started a great debate with many different people and organization taking part.  The start of it was Microsofts assertion that programs using the OpenDocument file format could not be used by people with disabilities.
@@ -147,7 +132,7 @@ It is therefore our hope that KOffice will be possible to use even for users wit
       </li>
       <li>
         <div align="justify">
-        <strong>Start of a Unified Scripting Approach.</strong>:
+        <strong>Start of a Unified Scripting Approach</strong>:
 <p>
 This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports Python and Ruby.
 </p>
@@ -158,7 +143,7 @@ Kross is easy to include into programs previously lacking scripting abilities, a
       </li>
       <li>
         <div align="justify">
-        <strong>First Official Release of Kexi (1.0).</strong>:
+        <strong>First Official Release of Kexi (1.0)</strong>:
 <p>
 KOffice 1.5 contains the much expected final 1.0 version of Kexi - data 
 management application that is the KOffice counterpart to MS Access or 
@@ -171,6 +156,21 @@ single efficient file, without a need for administering servers. When needed,
 MySQL server can be used for storage or existing project can be imported from 
 MySQL server of MS Access file. The final version focuses on the data 
 exchangeability and server support.
+</p>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        <strong>New Project Management Application KPlato</strong>:
+<p>
+KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
+</p>
+<p>
+With this release, KPlato already offers various charts (gantt, pert), scheduling capabilities, calendars, resources, tasks and subtasks, detecting critical paths and resources as well as generating a work breakdown structure. KPlato can also be embedded into other KOffice applications.
+</p>
+<p>
+For a list of features supported by KPlato, see
+ <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">the changelog</a>.
 </p>
         </div>
       </li>
@@ -508,8 +508,17 @@ exchangeability and server support.
 packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
 </ul>
 
-<p>There will be up-to-date klik packages for all of KOffice during the beta period at
-<a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_Testing">http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_Testing</a>.</p>
+<p align="justify">
+  <strong>Innovative Testing Facilities with klik</strong>:
+<p>Throughout the beta period, to make testing easier, the <a href="http://klik.atekon.de/">klik</a> 
+developer team will provide up to date klik packages for all of KOffice. klik packages may be used without
+installation (they run, similar to Mac OS X "AppDir" bundles from a selfcontained
+directory tree -- but klik compresses the tree into a one single file for easier
+handling), and they run on multiple Linux platforms without disturbing the system's
+native package manager (see also <a href="http://klik.atekon.de/wiki/index.php/User's_FAQ">klik User's FAQ</a>).
+A Wiki holds details about <a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_DistroTable">KOffice
+klik bundles and supported distros</a>.
+</p>
 
 <p align="justify">
   <a name="windows_version"><strong>MS Windows Version</strong></a>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
