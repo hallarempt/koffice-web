@@ -83,8 +83,8 @@
 </p>
 <p align="justify">
   KOffice 1.5-beta complements the release of
-  <a href="http://www.kde.org/announcements/announce-3.5.php">KDE 3.5</a>
-  last year.  KDE is a powerful and easy-to-use Internet-enabled
+  <a href="http://www.kde.org/announcements/announce-3.5.1.php">KDE 3.5.1</a>
+  today.  KDE is a powerful and easy-to-use Internet-enabled
   desktop for Linux and other UNIXes, and together with KOffice constitutes the
   only Free Software project to provide a complete desktop and productivity
   environment for Linux/UNIX.
@@ -144,7 +144,7 @@ Kross is easy to include into programs previously lacking scripting abilities, a
       </li>
       <li>
         <div align="justify">
-        <strong>First Official Release of Kexi (1.0)</strong>:
+        <strong>Final Release of Kexi (1.0)</strong>:
 <p>
 KOffice 1.5 contains the much expected final 1.0 version of Kexi - data 
 management application that is the KOffice counterpart to MS Access or 
