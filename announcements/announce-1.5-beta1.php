@@ -473,7 +473,7 @@ For a list of features supported by KPlato, see
   KOffice 1.5 beta for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.5-beta/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
 </p>
@@ -588,7 +588,7 @@ coming days and weeks.
   <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.5-beta is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5-beta/src/">http</a>
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
