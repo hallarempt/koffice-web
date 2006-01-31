@@ -502,9 +502,11 @@ For a list of features supported by KPlato, see
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta1/SuSE/">SuSE Linux 9.2 and 9.3</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta1/SuSE/">SuSE Linux 9.3 and 10.0</a></li>
   <li><a href="http://download.kde.org/unstable/koffice-1.5-beta1/kubuntu/">Kubuntu</a></li>
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge (these are
+packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
+  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid (these are
 packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
 </ul>
 
