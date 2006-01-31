@@ -165,7 +165,7 @@ Kross is easy to include into programs previously lacking scripting abilities, a
 KOffice 1.5 contains the much expected final 1.0 version of Kexi - data 
 management application that is the KOffice counterpart to MS Access or 
 FileMaker. It is designed from the ground up as a standard KDE database 
-application
+application.
 </p>
 <p>. 
 Using Kexi, a new database project can be set up in less than one minute as a 
@@ -329,7 +329,7 @@ exchangeability and server support.
       </li>
       <li>
         <div align="justify">
-    	Scripting using KROSS in Python and Ruby. (beta). KROSS is a cross-language
+    	Scripting using Kross in Python and Ruby. (beta). Kross is a cross-language
         component that makes it easy to add extensive scripting capabilities to KDE
         applications.
         </div>
@@ -359,7 +359,7 @@ exchangeability and server support.
       </li>
       <li>
         <div align="justify">
-    	Scripting using KROSS in Python and Ruby.
+    	Scripting using Kross in Python and Ruby.
         </div>
       </li>
       <li>
