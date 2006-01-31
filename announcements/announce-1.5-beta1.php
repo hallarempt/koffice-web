@@ -144,7 +144,7 @@ Kross is easy to include into programs previously lacking scripting abilities, a
       </li>
       <li>
         <div align="justify">
-        <strong>Final Release of Kexi (1.0)</strong>:
+        <strong>First Major Release of Kexi (1.0)</strong>:
 <p>
 KOffice 1.5 contains the much expected final 1.0 version of Kexi - data 
 management application that is the KOffice counterpart to MS Access or 
