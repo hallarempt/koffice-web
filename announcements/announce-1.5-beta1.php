@@ -286,7 +286,9 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-         Python scripting using KROSS (beta)
+    	Scripting using KROSS in Python and Ruby. (beta). KROSS is a cross-language
+        component that makes it easy to iadd extensive scripting capabilities to KDE
+        applications.
         </div>
       </li>
       <li>
@@ -314,7 +316,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-	Scripting using KROSS in Python and Ruby
+    	Scripting using KROSS in Python and Ruby.
         </div>
       </li>
       <li>
