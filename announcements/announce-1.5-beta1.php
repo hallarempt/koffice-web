@@ -240,32 +240,22 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
- 	 Non blocking stencilset loading
+         Automatic guidelines
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Added Nassi Schneiderman stencils
+         New dockers, shared with Krita and Karbon (now called palettes)
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Moving selected stencils with the keyboard
+         New object list that can be used to mark objects on the page
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Added a docker for adding stencils to the document
-        </div>
-      </li>
-      <li>
-        <div align="justify">
- 	 Added a tool for adding connector targets to stencils
-        </div>
-      </li>
-      <li>
-        <div align="justify">
- 	 Added a polyline connector
+         New stencils for ER diagrams
         </div>
       </li>
     </ul>
