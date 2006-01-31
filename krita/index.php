@@ -60,7 +60,6 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 		<li>And much more...</li>
         </ul>
 
-
 	<h3>Documentation</h3>
 
       <ul>
@@ -69,8 +68,6 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 	<li><a href="faq.php">FAQs</a></li>
 
       </ul>
-
-
 
     <h3>aKademy 2005 presentation</h3>
 
@@ -88,6 +85,12 @@ line!) and high-end features like support for 16 bit images, CMYK and even
      <li><a href="./videos/krita-rc1.avi">Video for the first public release candidate</a></li>
     </ul>
      
+<h3>Blogs</h3>
+
+<ul>
+<li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a>
+<li><a href="http://cyrilleberger.blogspot.com">One Day One Feature: A Guided Tour of Krita Features in Daily Installments, by Cyrille Berger</a>
+</ul>
 
 <h3>Development</h3>
 	<p>Who's working on what, and what's planned to be done can be found on the <a href="http://wiki.kde.org/krita+todo">
