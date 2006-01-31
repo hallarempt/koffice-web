@@ -240,32 +240,32 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
- 	 Non blocking stencilset loading</li>
+ 	 Non blocking stencilset loading
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Added Nassi Schneiderman stencils</li>
+ 	 Added Nassi Schneiderman stencils
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Moving selected stencils with the keyboard</li>
+ 	 Moving selected stencils with the keyboard
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Added a docker for adding stencils to the document</li>
+ 	 Added a docker for adding stencils to the document
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Added a tool for adding connector targets to stencils</li>
+ 	 Added a tool for adding connector targets to stencils
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Added a polyline connector</li>
+ 	 Added a polyline connector
         </div>
       </li>
     </ul>
@@ -369,7 +369,22 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-         FIXME: more here
+ 	 OASIS file format support (incomplete)
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 New color dialog
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Small preview widget
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 ZoomIn/ZoomOut actions
         </div>
       </li>
     </ul>
