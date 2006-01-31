@@ -240,7 +240,32 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-         FIXME: more here
+ 	 Non blocking stencilset loading</li>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Added Nassi Schneiderman stencils</li>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Moving selected stencils with the keyboard</li>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Added a docker for adding stencils to the document</li>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Added a tool for adding connector targets to stencils</li>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Added a polyline connector</li>
         </div>
       </li>
     </ul>
