@@ -162,6 +162,7 @@
  <li><a href="http://kexi-project.org/wiki/wikiview/index.php?UnsupportedFeatures1.0">Known Problems &amp; Unsupported Features in Kexi</a></li>
 </ul>
 
+<!--
 <em>Data Processing and Access</em>
 <ul>
 </ul>
@@ -169,7 +170,7 @@
 <em>Database Storage</em>
 <ul>
 </ul>
-
+-->
 
 <h3><a name="krita">Krita</a></h3>
 <em>New features:</em>
