@@ -312,7 +312,7 @@ Kross is easy to include into programs previously lacking scripting abilities, a
       <li>
         <div align="justify">
     	Scripting using KROSS in Python and Ruby. (beta). KROSS is a cross-language
-        component that makes it easy to iadd extensive scripting capabilities to KDE
+        component that makes it easy to add extensive scripting capabilities to KDE
         applications.
         </div>
       </li>
