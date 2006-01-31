@@ -4,11 +4,25 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-
 <p>
   The following summarizes the major changes to the KOffice Suite since the
   release of KOffice 1.4.2 (latest stable version).
 </p>
+<ul>
+<li><a href="#koffice_libs">KOffice Libraries</a></li>
+<li><a href="#kword">KWord</a></li>
+<li><a href="#kspread">KSpread</a></li>
+<li><a href="#kpresenter">KPresenter</a></li>
+<li><a href="#kivio">Kivio</a></li>
+<li><a href="#kexi">Kexi</a></li>
+<li><a href="#krita">Krita</a></li>
+<li><a href="#karbon">Karbon</a></li>
+<li><a href="#kplato">KPlato</a></li>
+<li><a href="#kchart">KChart</a></li>
+<li><a href="#kformula">KFormula</a></li>
+<li><a href="#filters">Filters</a></li>
+</ul>
+
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <em>Changes:</em>
@@ -157,6 +171,8 @@
 
 
 <h3><a name="kexi">Kexi</a></h3>
+
+<p>Changes since the release of <a href="http://kexi-project.org/wiki/wikiview/index.php?0.9Announcement">Kexi 0.9</a>.</p>
 
 <em>Main new features:</em>
 <ul>
@@ -555,6 +571,12 @@
 <em>KSpread:</em>
 <ul>
  <li>a much improved Microsoft Excel import filter.</li>
+</ul>
+
+<em>Kexi:</em>
+<ul>
+ <li>much improved <a href="http://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> files support.</li>
+ <li>improved Microsoft Access files support.</li>
 </ul>
 
 
