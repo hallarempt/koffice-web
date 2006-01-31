@@ -158,6 +158,24 @@ Kross is easy to include into programs previously lacking scripting abilities, a
 </p>
         </div>
       </li>
+      <li>
+        <div align="justify">
+        <strong>First Official Release of Kexi (1.0).</strong>:
+<p>
+KOffice 1.5 contains the much expected final 1.0 version of Kexi - data 
+management application that is the KOffice counterpart to MS Access or 
+FileMaker. It is designed from the ground up as a standard KDE database 
+application
+</p>
+<p>. 
+Using Kexi, a new database project can be set up in less than one minute as a 
+single efficient file, without a need for administering servers. When needed, 
+MySQL server can be used for storage or existing project can be imported from 
+MySQL server of MS Access file. The final version focuses on the data 
+exchangeability and server support.
+</p>
+        </div>
+      </li>
     </ul>
   <p />
     <strong>Common (All Applications)</strong>:
