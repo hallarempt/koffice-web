@@ -364,17 +364,27 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
- 	 New color dialog
+ 	 new color selectors
         </div>
       </li>
       <li>
         <div align="justify">
- 	 Small preview widget
+ 	 improved selection handling
         </div>
       </li>
       <li>
         <div align="justify">
- 	 ZoomIn/ZoomOut actions
+ 	 improved stability and rendering
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 improved SVG compatibility
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+ 	 Better toolbox
         </div>
       </li>
     </ul>

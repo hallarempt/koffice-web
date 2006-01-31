@@ -267,6 +267,14 @@
 </ul>
 
 <h3><a name="karbon">Karbon</a></h3>
+<ul>
+ <li>improved OASIS file format support</li>
+ <li>new color selectors</li>
+ <li>improved selection handling</li>
+ <li>improved stability and rendering</li>
+ <li>improved SVG compatibility</li>
+ <li>better toolbox</li>
+</ul>
 
 <h3><a name="kplato">KPlato</a></h3>
 <em>New features:</em>
