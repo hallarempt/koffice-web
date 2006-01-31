@@ -8,6 +8,21 @@
     <language>en-us</language>
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+<item>
+
+<title>KOffice 1.5 beta released</title>
+<date>31st January 2006</date>
+<fullstory>
+Today the KOffice team has released the first (and hopefully only) beta for KOffice 1.5.
+Highlights in this release are native support for OpenDocument, the new KPlato project
+management application, enhanced accessibility, the Kross scripting framework, the first
+official (1.0) release of Kexi and many, many new features and improvements to all
+applications.
+See the <a href="http://www.koffice.org/announcements/announce-1.5-beta1.php">announcement</a>
+and the complete <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">list of changes</a>.
+
+</fullstory>
+</item>
 
 <item>
 <title>PDF docs available online</title>
