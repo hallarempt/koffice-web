@@ -92,9 +92,7 @@
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http and ftp</a> mirrors
-  and can also be obtained as a
-  <a href="http://ktown.kde.org/~binner/klax/koffice.html">x86 Live CD</a>.
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http and ftp</a> mirrors.
 </p>
 <h4>
   Principal Improvements
