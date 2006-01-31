@@ -83,6 +83,13 @@
  <li>support for non-contiguous selections</li>
  <li>a new faster and better formula engine</li>
  <li>a much improved Microsoft Excel import filter.</li>
+ <li>Formula highlighting</li>
+ <li>First steps towards <a href="http://www.dwheeler.com/openformula/">OpenFormula</a> compliance</li>
+ <li>Much polishing of dialog windows</li>
+ <li>Tooltips when writing formula's by hand</li>
+ <li>Support for percent operator</li>
+ <li>Function autocomplete</li>
+ <li>Range-setting by dragging</li>
 </ul>
 
 <em>New features:</em>
@@ -315,6 +322,9 @@
 </ul>
 
 <h3><a name="kformula">KFormula</a></h3>
+<ul>
+<li>Fix embedding
+</ul>
 
 
 <h3><a name="filters">Filters</a></h3>
