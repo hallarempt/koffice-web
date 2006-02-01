@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.5 Beta Announcement';
+  $page_title ='KOffice 1.5 Beta1 Announcement';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -21,7 +21,7 @@
   <p align="justify">January 31, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
-  <a href="http://www.koffice.org/">KOffice</a> 1.5-beta, the first preview
+  <a href="http://www.koffice.org/">KOffice</a> 1.5-beta1, the first preview
   release for KOffice 1.5,
   <a href="http://developer.kde.org/development-versions/koffice-1.5-release-plan.html">scheduled</a>
   for release this March.</p>
@@ -82,7 +82,7 @@
     <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
 </p>
 <p align="justify">
-  KOffice 1.5-beta complements the release of
+  KOffice 1.5-beta1 complements the release of
   <a href="http://www.kde.org/announcements/announce-3.5.1.php">KDE 3.5.1</a>
   today.  KDE is a powerful and easy-to-use Internet-enabled
   desktop for Linux and other UNIXes, and together with KOffice constitutes the
@@ -237,7 +237,7 @@ For a list of features supported by KPlato, see
       </li>
     </ul>
   <p />
-    <i><b>NOTE:</b>KSpread received many last minute changes, so please be aware that the 1.5beta 1 version may be unstable. </i>
+    <i><b>NOTE:</b> KSpread received many last minute changes, so please be aware that the 1.5beta 1 version may be unstable. </i>
   <p />
     <strong>KPresenter (Presentation Tool)</strong>:
     <ul type="disc">
@@ -462,7 +462,7 @@ For a list of features supported by KPlato, see
 <p align="justify">
   <strong>Binary Packages</strong>:
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.5 beta for some versions of their distribution, and in other cases
+  KOffice 1.5 beta1 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
   <a href="http://download.kde.org/unstable/koffice-1.5-beta1/">http and ftp</a> mirrors.
@@ -536,12 +536,12 @@ distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
 <a name="compiling"></a><h4>
-  Compiling KOffice 1.5-beta
+  Compiling KOffice 1.5-beta1
 </h4>
 <p align="justify">
   <a name="source_code-library_requirements"></a><strong>Library
   Requirements</strong>:
-  KOffice 1.5-beta requires the following libraries:
+  KOffice 1.5-beta1 requires the following libraries:
 </p>
 <ul>
   <li>
@@ -572,13 +572,13 @@ coming days and weeks.
 </ul>
 <p align="justify">
   <strong>Compiler Requirements</strong>:
-  Please note that KOffice 1.5-beta will not
+  Please note that KOffice 1.5-beta1 will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
   <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.5-beta is available for free download
+  The complete source code for KOffice 1.5-beta1 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
