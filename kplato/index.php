@@ -29,7 +29,8 @@
     <ul>
         <li>Gantt chart with task list and resource allocations per task.</li>
         <li>Resource view with task allocations per resource.</li>
-        <li>Accouts view showing planned cost with configurable cut-off date and periodicity.
+        <li>Accounts view showing planned cost with configurable cut-off date
+and periodicity.
         <li>Tasks are organized in a work breakdown structure (WBS).</li>
         <li>Resources are organized in a resource breakdown structure (RBS).</li>
         <li>Accounts are organized in a cost breakdown structure (CBS).</li>
