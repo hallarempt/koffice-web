@@ -73,7 +73,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 
     <p><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></p>
 
-    <h3>Video's</h3>
+    <h3>Videos</h3>
 
     <p>Bart Coppens has made several instructional videos showing how to do things with Krita at
      important milestones like the developer preview release or the first public release candidate.
@@ -82,7 +82,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
     <ul>
      <li><a href="./videos/krita_preview1.mpeg">First video for the first developer preview release</a></li>
      <li><a href="./videos/krita_preview2.mpeg">Second video for the first developer preview release</a></li>
-     <li><a href="./videos/krita-rc1.avi">Video for the first public release candidate</a></li>
+     <li><a href="./videos/krita_rc1.avi">Video for the first public release candidate</a></li>
     </ul>
      
 <h3>Blogs</h3>
