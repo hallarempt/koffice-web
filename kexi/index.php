@@ -19,7 +19,7 @@ Kexi is an integrated data management application. It can be used for creating d
         $gallery = new ImageGallery("Kexi - Screenshot");
         $gallery->addImage("pics/t_image_box2.png",
                            "pics/image_box2.png",
-                           268, 200,  "[Screenshot]", "", "Kexi form");
+                           250, 152,  "[Screenshot]", "", "Kexi form");
         $gallery->show();
         ?>
        </center>
