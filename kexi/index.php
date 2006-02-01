@@ -17,9 +17,9 @@ Kexi is an integrated data management application. It can be used for creating d
       <center>
       <?php
         $gallery = new ImageGallery("Kexi - Screenshot");
-        $gallery->addImage("pics/t_relations2.png",
-                           "pics/relations2.png",
-                           268, 200,  "[Screenshot]", "", "Kexi with database query view");
+        $gallery->addImage("pics/t_image_box2.png",
+                           "pics/image_box2.png",
+                           268, 200,  "[Screenshot]", "", "Kexi form");
         $gallery->show();
         ?>
        </center>
