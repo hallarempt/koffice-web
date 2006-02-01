@@ -56,7 +56,7 @@
             <li>Start not earlier than target time.
             <li>Finish not later than target time.
             <li>Fixed interval. (Target start time and target finish time.)
-        <ul>
+        </ul>
     <ul>
     <p><b>Important features not included:</b></p>
     <ul>
@@ -66,7 +66,7 @@
             links or constraints to avoid parallell scheduling of the tasks.</li>
         <li>Network view.</li>
         <li>In general: Project execution and follow up.</li>
-    <ul>
+    </ul>
 
       <p><b>Mailing List:</b><br />
          The KPlato mailing list is at <a href="&#109;&#97;i&#108;&#x74;o&#x3a;&#0107;p&#0108;ato () kd&#x65; ! &#x6f;r&#0103;">&#x6b;&#x70;l&#x61;t&#111;&#64;k&#00100;e&#x2e;&#0111;rg</a><br />
