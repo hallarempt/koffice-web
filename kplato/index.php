@@ -57,7 +57,7 @@
             <li>Finish not later than target time.
             <li>Fixed interval. (Target start time and target finish time.)
         </ul>
-    <ul>
+    </ul>
     <p><b>Important features not included:</b></p>
     <ul>
         <li>Resource leveling. Resources are just allocated to 
