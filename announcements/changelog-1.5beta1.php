@@ -80,7 +80,7 @@
 <ul>
  <li>Much improved documentation</li>
  <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
- <li>Resizing table rows and columns with the mouse is disabled for this release, for the benefit of easier cell selection</li>
+ <li>Resizing table rows with the mouse is disabled for this release, for the benefit of easier cell selection. Resizing columns works as before</li>
 </ul>
 
 <em>Bugfixes:</em>
