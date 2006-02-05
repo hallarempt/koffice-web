@@ -17,11 +17,11 @@
 <center>
   <?php
     $gallery = new ImageGallery("KPlato- Screenshot");
-    $gallery->addImage("pics/plain_2005_09_330.png",
-                       "pics/plain_2005_09.png",
+    $gallery->addImage("pics/gantt_small_2006_01_330.png",
+                       "pics/gantt_small_2006_01.png",
                        330, 247,
                        "[Screenshot]", "",
-                       "KPlato with the plain template");
+                       "KPlato Gantt view");
     $gallery->show();
   ?>
 </center>
