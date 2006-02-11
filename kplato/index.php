@@ -10,7 +10,7 @@
 ?>
 
       <p>
-         KPlato is a project management application 
+         KPlato is a project management application.
          In this first public release we focus on planning and scheduling of projects.
       </p>
 
