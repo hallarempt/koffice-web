@@ -44,20 +44,21 @@ and periodicity.
             <li>Critical tasks.</li>
             <li>Progress (% completion).</li>
         </ul>
-        <li>Summarytasks, Tasks, and milestones are supported.
+        <li>Summarytasks, Tasks, and milestones are supported.</li>
         <li>Dialogs to create and edit the project, the different types of tasks,
-            calendars, resources, accounts and progress.
-        <li>Task links can be of types: Finish to Start, Finish toFinish or Start to Start. All types can have a time lag defined.
+            calendars, resources, accounts and progress.</li>
+        <li>Task links can be of types: Finish to Start, Finish toFinish or
+Start to Start. All types can have a time lag defined.</li>
         <li>Different scheduling constraints are supported:
         <ul>
-            <li>As soon as possible (early start).
-            <li>As late as possible (late start).
-            <li>Must start on target time.
-            <li>Must finish on target time.
-            <li>Start not earlier than target time.
-            <li>Finish not later than target time.
-            <li>Fixed interval. (Target start time and target finish time.)
-        </ul>
+            <li>As soon as possible (early start).</li>
+            <li>As late as possible (late start).</li>
+            <li>Must start on target time.</li>
+            <li>Must finish on target time.</li>
+            <li>Start not earlier than target time.</li>
+            <li>Finish not later than target time.</li>
+            <li>Fixed interval. (Target start time and target finish time.)</li>
+        </ul></li>
     </ul>
     <p><b>Important features not included:</b></p>
     <ul>
