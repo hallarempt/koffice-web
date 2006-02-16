@@ -465,15 +465,15 @@
      <tr><td><img src="cr48-app-kplato.png"></td><td>cr48-app-kplato.png</td><td>kplato/pics</td><td></td></tr>
      <tr><td><img src="cr64-app-kplato.png"></td><td>cr64-app-kplato.png</td><td>kplato/pics</td><td></td></tr>
      <tr><td><img src="cr48-action-template_timechart.png"></td><td>cr48-action-template_timechart.png</td><td>kplato/templates/Simple</td><td></td></tr>
-     <tr><td><img src="cr22-action-add_milestone.png"></td><td>cr22-action-add_milestone.png</td><td>kplato/toolbar</td><td></td></tr>
-     <tr><td><img src="cr22-action-add_sub_task.png"></td><td>cr22-action-add_sub_task.png</td><td>kplato/toolbar</td><td></td></tr>
-     <tr><td><img src="cr22-action-add_task.png"></td><td>cr22-action-add_task.png</td><td>kplato/toolbar</td><td></td></tr>
-     <tr><td><img src="cr22-action-gantt_chart.png"></td><td>cr22-action-gantt_chart.png</td><td>kplato/toolbar</td><td></td></tr>
+     <tr><td><img src="cr22-action-gantt_chart.png"></td><td>cr22-action-gantt_chart.png</td><td>kplato/toolbar</td><td>Selects  Gantt chart view</td></tr>
+     <tr><td><img src="cr22-action-resources.png"></td><td>cr22-action-resources.png</td><td>kplato/toolbar</td><td>Selects resources view</td></tr>
+     <tr><td><img src="cr22-action-pert_chart.png"></td><td>cr22-action-pert_chart.png</td><td>kplato/toolbar</td><td>Selects nettwork view (Not used in this release!)</td></tr>
+     <tr><td><img src="cr22-action-add_milestone.png"></td><td>cr22-action-add_milestone.png</td><td>kplato/toolbar</td><td>Creates a new milestone.</td></tr>
+     <tr><td><img src="cr22-action-add_sub_task.png"></td><td>cr22-action-add_sub_task.png</td><td>kplato/toolbar</td><td>Creates a new task with selected task as parent.</td></tr>
+     <tr><td><img src="cr22-action-add_task.png"></td><td>cr22-action-add_task.png</td><td>kplato/toolbar</td><td>Creates a new task as sibling to selected task.</td></tr>
      <tr><td><img src="cr22-action-indent_task.png"></td><td>cr22-action-indent_task.png</td><td>kplato/toolbar</td><td></td></tr>
      <tr><td><img src="cr22-action-move_task_down.png"></td><td>cr22-action-move_task_down.png</td><td>kplato/toolbar</td><td></td></tr>
      <tr><td><img src="cr22-action-move_task_up.png"></td><td>cr22-action-move_task_up.png</td><td>kplato/toolbar</td><td></td></tr>
-     <tr><td><img src="cr22-action-pert_chart.png"></td><td>cr22-action-pert_chart.png</td><td>kplato/toolbar</td><td></td></tr>
-     <tr><td><img src="cr22-action-resources.png"></td><td>cr22-action-resources.png</td><td>kplato/toolbar</td><td></td></tr>
      <tr><td><img src="cr22-action-unindent_task.png"></td><td>cr22-action-unindent_task.png</td><td>kplato/toolbar</td><td></td></tr>
      <tr><td><img src="hi16-app-kpresenter.png"></td><td>hi16-app-kpresenter.png</td><td>kpresenter/pics</td><td></td></tr>
      <tr><td><img src="hi22-app-kpresenter.png"></td><td>hi22-app-kpresenter.png</td><td>kpresenter/pics</td><td></td></tr>
@@ -1046,6 +1046,16 @@
        evenly</li>
        <li>distribute bottom borders = distribute space between bottom borders of
        objects evenly</li>
+     </ul></li>
+     <li>KChart:<ul>
+       <li>New icon for a combined bar/line chart (combination icon of current
+       bar and line chart icons will do)</li>
+     </ul></li>
+     <li>KPlato:<ul>
+       <li>New icon for selecting Accounts view. (Shows the list of accounts
+       with planned cost)</li>
+       <li>New icon for calculating the project. (Schedules the tasks dependent
+       on resources, constraints and task dependencies)</li>
      </ul></li>
      <li>Krita:<ul>
        <li><b>Tools: monochrome with perhaps a touch of colour</b></li>
