@@ -117,7 +117,7 @@ ftp://ftp.trolltech.com/qt/source/</ulink>) and the latest <ulink url="http://ww
 
 $faq->addQuestion("Which license applies to KOffice?",
 "KOffice is an open-source project and completely free. All licences are GPL-compatible, mostly
-GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are mostly GPL."
+GPL or LGPL version 2. Apart exceptions, libraries and filters are mostly LGPL, while applications are LGPL or GPL."
 );
 
 ### And Mac?
