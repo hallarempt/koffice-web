@@ -7,6 +7,11 @@
 
 <?php
 $faq = new FAQ();
+$faq->addQuestion("I want pure red -- 255,0,0 but Krita's color selector keeps giving me
+something else", "Krita's color selectors will not give you colours outside the gamut that's
+allowed by the icc profile associated with your image and your screen. If you want the widest
+possible gamut, use sRGB (lcms internal) both for your image and your display. That is the
+Krita equivalent of 'do not use color correction'.");
 $faq->addQuestion("I've got an image with an embedded profile, but Krita says it's plain sRGB?", "Krita has converted your image from the the embedded profile to sRGB because the embedded profile does not provide two-way transformation. That means that it can be used to convert from the profile to the display profile, but not from the display profile to the embedded profile. Since Krita needs to go both ways -- when you paint, the colors you paint with are converted to the image profile, Krita needed to convert your image.");
 $faq->addQuestion("What an ugly name! It doesn't mean anything either, does it?",
 "Krita is Swedish for chalk or pencil. That 'rita' is also Swedish for to draw and that 
