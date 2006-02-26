@@ -73,6 +73,11 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 
     <p><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></p>
 
+    <h3>FosDem 2006 presentation</h3>
+
+    <p><a href="./fosdem2006.pdf">The slides for Bart Coppen's Krita presentation at aKademy
+2006.</a></p>
+
     <h3>Videos</h3>
 
     <p>Bart Coppens has made several instructional videos showing how to do things with Krita at
