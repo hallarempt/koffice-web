@@ -75,7 +75,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 
     <h3>FosDem 2006 presentation</h3>
 
-    <p><a href="./fosdem2006.pdf">The slides for Bart Coppen's Krita presentation at aKademy
+    <p><a href="./krita-fosdem2006.pdf">The slides for Bart Coppen's Krita presentation at aKademy
 2006.</a></p>
 
     <h3>Videos</h3>
