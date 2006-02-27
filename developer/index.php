@@ -33,6 +33,7 @@
    <ul>
      <li><a href="dcop">Scripting with DCOP</a></li>
      <li><a href="constructive">Constructive Critics</a></li>
+     <li><a href="icons">Icon list</a> and the related <a href="icons/koffice_interface.odp">FOSDEM 2006 talk</a></li>
    </ul>
    
    
