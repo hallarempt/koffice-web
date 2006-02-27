@@ -8,8 +8,8 @@
     <language>en-us</language>
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+    
 <item>
-
 <title>KOffice at FOSDEM</title>
 <date>27th February 2006</date>
 <fullstory>
@@ -17,6 +17,7 @@
 </fullstory>
 </item>
 
+<item>
 <title>KOffice 1.5 beta released</title>
 <date>31st January 2006</date>
 <fullstory>
