@@ -462,7 +462,7 @@
       <td width="30%" align="left" valign="top">TIFF</td>
       <td width="50%" align="left" valign="top"> </td>
       <td width="10%" align="center" valign="top">
-        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/tiff/status.html#import?content-type=text/html">***</a>
+        <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/tiff/status.html#import?content-type=text/html">****</a>
       </td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/tiff/status.html#export?content-type=text/html">***</a>
