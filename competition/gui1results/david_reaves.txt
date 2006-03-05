@@ -1,0 +1,21 @@
+I had an idea which I never had time to iron out and put formally into a
+pdf. Simply It would be to have a button near the top left of the screen
+which you could click. Then (the button would remain depressed) you could
+use the scroll wheel on your mouse to transition through different toolbars.
+It is obvious that not everyone has a mouse with a scroll wheel but this
+button would not be required and there should be other ways to add and
+remove toolbars from view. I just thought it was an interesting and
+innovative way of providing some pizzaz. 
+
+ 
+
+Also you should consider the approach adobe uses in its products. Tabbed
+toolbars.
+
+ 
+
+Be careful about putting too much on either the left or the right side of
+the screen because users simply aren't accustomed to it.
+
+ 
+Thanks for your time,
