@@ -11,6 +11,7 @@ KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">m
 </p>
 
 <ul>
+  <li><a href="1.5.0-beta1-release.php">KOffice 1.5.0 beta 1 Release</a></li>
   <li><a href="1.4.2-release.php">KOffice 1.4.2 Release</a></li>
   <li><a href="1.4.1-release.php">KOffice 1.4.1 Release</a></li>
   <li><a href="1.4-release.php">KOffice 1.4 Release</a></li>
