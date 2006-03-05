@@ -95,7 +95,7 @@ implementable. There's a shade of Corel Painter palettes here -- his startup
 widget is very well thought-out, as are his ideas on adding notes to documents.
 </p>
 
-<h5><a href="./gui1results/luc_marschall.pdf"></a>Luc Marschall</h5>
+<h5><a href="./gui1results/luc_marschall.pdf">Luc Marschall</a></h5>
 
 <p>Luc went back to the absolute basics: the handling of windows
 and tools. Much fundamental thought went into his entry and Luc carefully examined
