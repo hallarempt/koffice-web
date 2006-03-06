@@ -157,7 +157,7 @@ further demands integration with kde-pim.</p>
 <h5><a href="./gui1results/tom_chance.pdf">Tom Chance</a></h5>
 
 <p>Tom Chance concentrates on the creation of documents. His interface reminded us
-on the one of hand of latex, and on the other hand of a content management system
+on the one of hand of LaTeX, and on the other hand of a content management system
 like Infrae's Silva. Style and content are to be separated completely in his
 proposal.</p>
 
