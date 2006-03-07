@@ -13,7 +13,7 @@
     kword and kpresenter.  Kivio and Karbon use object naturally.<br />
     Note also that keys can be combined. Pressing alt+shift combines both options.</p>
 
-    <p><b>Dragging:</b><br />
+    <p><b>Dragging:</b></p>
     <table>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
         guides</td></tr>
@@ -22,7 +22,7 @@
         <a href="#note1">[1]</a></td></tr>
     </table>
 
-    <p><b>Scaling:</b><br />
+    <p><b>Scaling:</b></p>
     <table><tr>
      <td>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
@@ -33,7 +33,7 @@
         objects</td></tr>
     </table>
 
-    <p><b>Insert:</b><br />
+    <p><b>Insert:</b></p>
     <table>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
         guides</td></tr>
@@ -43,7 +43,7 @@
         the center of object instead of top-left</td></tr>
     </table>
 
-    <p><b>Click:</b><br />
+    <p><b>Click:</b></p>
     <table>
      <tr><td valign="top">Shift</td><td> selects 'underlying' object deselecting the
         previous selected objects and making sure only one is selected
@@ -64,7 +64,7 @@
     <p><a name="note3">3</a>) This feature is needed for allowing selecting of stacked
         objects.  Further research is pending for a solution that may be more elegant</p>
 
-    <p><a href="http://lists.kde.org/?t=113335187100002&r=1&w=2">Discussion</a> archive</p>
+    <p><a href="http://lists.kde.org/?t=113335187100002&amp;r=1&amp;w=2">Discussion</a> archive</p>
 
 <?php
    include("footer.inc");

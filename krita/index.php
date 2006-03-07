@@ -64,7 +64,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 
       <ul>
         <li><a href="http://docs.kde.org/development/en/koffice/krita/"  target="_blank">Manual</a> - a work in
-            progress, but rapid progress. By Sander Koning, Boudewijn Rempt, Casper Boemann and Cyrille Berger.
+            progress, but rapid progress. By Sander Koning, Boudewijn Rempt, Casper Boemann and Cyrille Berger.</li>
 	<li><a href="faq.php">FAQs</a></li>
 
       </ul>

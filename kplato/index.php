@@ -30,7 +30,7 @@
         <li>Gantt chart with task list and resource allocations per task.</li>
         <li>Resource view with task allocations per resource.</li>
         <li>Accounts view showing planned cost with configurable cut-off date
-and periodicity.
+and periodicity.</li>
         <li>Tasks are organized in a work breakdown structure (WBS).</li>
         <li>Resources are organized in a resource breakdown structure (RBS).</li>
         <li>Accounts are organized in a cost breakdown structure (CBS).</li>
@@ -44,6 +44,7 @@ and periodicity.
             <li>Critical tasks.</li>
             <li>Progress (% completion).</li>
         </ul>
+        </li>
         <li>Summarytasks, Tasks, and milestones are supported.</li>
         <li>Dialogs to create and edit the project, the different types of tasks,
             calendars, resources, accounts and progress.</li>

@@ -23,6 +23,7 @@ The most current version Kexi released without KOffice is <b>0.9</b>.
 See <a
 href="http://www.kexi-project.org/wiki/wikiview/index.php?0.9Announcement">the announcement</a>.
 </p>
+<p>
 Standalone Kexi releases usually provide more features than Kexi included in the newest KOffice release. This is possible because there are shoter release cycles within Kexi project comparing to release cycles of entire KOffice project. Standalone Kexi releases are designed to work well also when entire KOffice suite (with other Kexi version) is installed on the same computer.
 </p>
 

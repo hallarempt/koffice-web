@@ -34,14 +34,14 @@
   <p>The filter has successfully been used to import the famous
   'Northwind' database, which can be downloaded (as an executable
   'exe' installer) from the Microsoft web-site <a
-  href="http://www.microsoft.com/downloads/details.aspx?FamilyID=C6661372-8DBE-422B-8676-C632D66C529C&displaylang=EN"
+  href="http://www.microsoft.com/downloads/details.aspx?FamilyID=C6661372-8DBE-422B-8676-C632D66C529C&amp;displaylang=EN"
   >here</a> (please check the license before installing).  Other
   Access template databases are available from the Microsoft Office
   Online <a
   href="http://office.microsoft.com/en-us/templates/CT011359381033.aspx">Access
   Templates</a> pages.</p>
 
-  <a href="../../images/kexi/northwind.png"><img src="../../images/kexi/northwind_sm.png"></a>
+  <a href="../../images/kexi/northwind.png"><img src="../../images/kexi/northwind_sm.png" alt="" /></a>
 
   <h3>Supported features</h3>
   <p>Importing the following field types has been tested, and generally works well:</p>

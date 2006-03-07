@@ -34,7 +34,7 @@ innovative and fun proposal to use Krita and KPresenter together to
 podcast comics -- which was only one of his many really innovative
 ideas.</p>
 
-<a href="./gui1results/koffice_nodoc.png"><img src="./gui1results/koffice_nodoc_sm.png"></a>
+<a href="./gui1results/koffice_nodoc.png"><img src="./gui1results/koffice_nodoc_sm.png" alt="" /></a>
 
 <p>All submitters have reason to be proud of their work and the jury is very
 grateful for their submissions. We especially wish to commend those
@@ -129,7 +129,7 @@ dock.</p>
 
 <p>Николай's main goal has been to reduce the amount of pixels occupied by user 
 interface control elements and to maximize the amount of space available for the
-user's document.
+user's document.</p>
 
 <h5><a href="./gui1results/sandis_neilands.pdf">Sandis Neilands</a></h5>
 

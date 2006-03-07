@@ -24,7 +24,7 @@ see those submissions.</p>
 
 <h3>Submission Format</h3> 
 <p>The submissions should be in PDF or/and ODT (Open Document Text) format. See
-the examples below.<br />
+the examples below.</p>
 <p>Along with your mockup design you will add a description of your GUI and
 stress out the major points of your design by explaining their strengths.</p>
 <p>Please note that the current svn version of KWord can handle ODT!</p>
