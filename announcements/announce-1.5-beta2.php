@@ -27,7 +27,7 @@
   <p align="justify">
   KOffice is an integrated office suite for KDE which utilizes free and
   open standards for its document formats, component communication and
-  component embedding. This is the last beta release before the release candidate,
+  component embedding. This is the last beta release before the release candidate.
   </p>
 
 <p align="justify">
@@ -63,6 +63,9 @@
   Additionally, KOffice includes robust embeddable objects:
 </p>
 <ul>
+  <li>a business quality reporting software
+    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
+  </li>
   <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
   </li>
@@ -262,6 +265,15 @@ KOffice was the first office suite that announced support for OpenDocument and n
       <li>
         <div align="justify">
 	Exif support (although saving tiff is currently broken.)
+        </div>
+      </li>
+    </ul>
+  <p />
+    <strong>Kugar (Business Report Generator)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+        Disabled from the koshell since it is not an interactive program.
         </div>
       </li>
     </ul>
