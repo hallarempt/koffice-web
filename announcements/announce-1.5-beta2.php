@@ -96,7 +96,7 @@
 
 <p>With beta2, KChart not only got a new charting engine donated by Klarälvdalens Datakonsult AB,
 but also start of support for loading and saving charts in the OASIS OpenDocument file standard. KPresenter,
-KSpread, KWord and Karbon15 all have received improvements and fixes to their OpenDocument code.</p>
+KSpread, KWord and Karbon14 all have received improvements and fixes to their OpenDocument code.</p>
 
 <p>The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
@@ -354,8 +354,8 @@ KOffice was the first office suite that announced support for OpenDocument and n
 
 <ul>
   <li><a href="http://download.kde.org/unstable/koffice-1.5-beta2/SuSE/">SuSE Linux 9.3 and 10.0</a></li>
-  <li><a href="http://kubuntu.org/announcements/koffice-15beta2.php">Kubuntu</a></li>
-  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li>
+<!--  <li><a href="http://kubuntu.org/announcements/koffice-15beta2.php">Kubuntu</a></li> -->
+<!--  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li> -->
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid</a></li>
 </ul>
 
