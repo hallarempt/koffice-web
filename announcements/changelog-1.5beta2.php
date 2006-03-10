@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 <p>
-  The following summarizes the major changes to the KOffice Suite since the
+  The following summarizes the major changes to the KOffice suite since the
   release of KOffice 1.5 beta1.
 </p>
 <ul>
@@ -26,14 +26,14 @@
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
- <li><em>KOText:</em>
+ <li><em>KoText</em>
  <ul>
   <li>Fix problem with right-aligned tabs</li>
   <li>Fix footnote numbering</li>
   <li>Fix strange red and blue lines appearing for people who use --enable-debug</li>
  </ul></li>
 
- <li><em>KRoss</em>
+ <li><em>Kross</em>
  <ul>
   <li>Fix deleting of ruby wrapped objects</li>
   <li>Handle Python unicode strings</li>
