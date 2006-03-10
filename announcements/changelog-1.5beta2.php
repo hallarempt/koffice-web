@@ -6,7 +6,7 @@
 ?>
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 1.5 beta1
+  release of KOffice 1.5 beta1.
 </p>
 <ul>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
@@ -124,7 +124,7 @@
  <ul>
  <li>Fixed support for -print-preview option. </li>
  </ul>
-<ul>
+</ul>
 
 
 <h3><a name="krita">Krita</a></h3>
