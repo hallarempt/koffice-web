@@ -24,7 +24,7 @@
 </ul>
 
 
-<h3><a name="koffice_libs">KOffice Libraries</a></h3>
+<h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
  <li><em>KOText:</em>
  <ul>
@@ -35,12 +35,12 @@
 
  <li><em>KRoss</em>
  <ul>
-  <li>Fix deleting of ruby wrapped objects
-  <li>Handle Python unicode strings
+  <li>Fix deleting of ruby wrapped objects</li>
+  <li>Handle Python unicode strings</li>
  </ul></li>
 </ul>
 
-<h3><a name="kword">KWord</a></h3>
+<h3 id="kword">KWord</h3>
 
 <ul>
  <li><em>OASIS OpenDocument</em>
@@ -57,11 +57,11 @@
  <li>Fixes for pasting</li>
  <li>Autoscrolling when resizing the insertion rectangle</li>
  <li>Fixes for selecting text with mouse in textmode</li>
- <li>Fix copy & pasting of embedded documents</li>
+ <li>Fix copy &amp; pasting of embedded documents</li>
  <li>Many crash fixes</li>
 </ul>
 
-<h3><a name="kspread">KSpread</a></h3>
+<h3 id="kspread">KSpread</h3>
 
 <ul>
  <li>Prevent crash when problems with temp files arise</li>
@@ -85,7 +85,7 @@
  <li>BUG:109797: Protect quote characters in cells by replacing each quote character by two consecutive quote characters.  Produce CSV files with the same number of columns in every row.</li>
 </ul>
 
-<h3><a name="kpresenter">KPresenter</a></h3>
+<h3 id="kpresenter">KPresenter</h3>
 <ul>
  <li>Updated icons</li>
  <li>Fix bug 122623: Vertically aligned texts in presentation are displaced first</li>
@@ -97,13 +97,13 @@
  <li>Save/load animations on the master slide in OASIS format</li>
 </ul>
 
-<h3><a name="kivio">Kivio</a></h3>
+<h3 id="kivio">Kivio</h3>
 <ul>
  <li>Fix CellPhone stencil</li>
  <li>Improvements in connector handling</li>
 </ul>
 
-<h3><a name="kexi">Kexi</a></h3>
+<h3 id="kexi">Kexi</h3>
 
 <ul>
  <li><em>Forms:</em>
@@ -127,7 +127,7 @@
 </ul>
 
 
-<h3><a name="krita">Krita</a></h3>
+<h3 id="krita">Krita</h3>
 <ul>
  <li>Improved transform tool (the results still aren't good quality, but crashes and funny leaps have been removed)</li>
  <li>Fix crash after executing a script</li>
@@ -165,7 +165,7 @@
  <li>Add CREATE resource compliance</li>
  <li>Sppedup loading of images greatly</li>
  <li>Speedup gradient rendering a lot</li>
- <li>Implement mixcolors for cmyk (fill & select contiguous should work now)</li>
+ <li>Implement mixcolors for cmyk (fill &amp; select contiguous should work now)</li>
  <li>Fix flatten image</li>
  <li>Improved speed of filters gallery dialog</li>
  <li>Add REPEAD option to convolution painter</li>
@@ -203,21 +203,21 @@
  <li>Optimize rendering for images with only one layer</li>
  <li>Allow moving a layer outside its group by pressing up</li>
  <li>Fix separations plugin</li>
- <li>Fix colorchoosers flicker & background color bug</li>
+ <li>Fix colorchoosers flicker &amp; background color bug</li>
 </ul>
 
-<h3><a name="karbon">Karbon</a></h3>
+<h3 id="karbon">Karbon</h3>
 <ul>
- <li>Fixes to gradient widget
- <li>Improved OASIS support
- <li>Fix for printing (bugs 119452, 99927)
- <li>Fix crash with gradients
- <li>Fix bug crash when Karbon is embedded in koshell
- <li>properly update the objects bounding box when moving bezier points
- <li>Fix Bug 120374 -- crash in AI export
+ <li>Fixes to gradient widget</li>
+ <li>Improved OASIS support</li>
+ <li>Fix for printing (bugs 119452, 99927)</li>
+ <li>Fix crash with gradients</li>
+ <li>Fix bug crash when Karbon is embedded in koshell</li>
+ <li>properly update the objects bounding box when moving bezier points</li>
+ <li>Fix Bug 120374 -- crash in AI export</li>
 </ul>
 
-<h3><a name="kplato">KPlato</a></h3>
+<h3 id="kplato">KPlato</h3>
 <ul>
  <li>Put back project name in printout</li>
  <li>Clip printout of gantt chart</li>
@@ -227,7 +227,7 @@
  <li>Zoom for gantt charts</li>
 </ul>
 
-<h3><a name="kchart">KChart</a></h3>
+<h3 id="kchart">KChart</h3>
 <ul>
  <li>Add start of OASIS OpenDocument support</li>
  <li>Replace charting engine with new version from KDab</li>
@@ -235,17 +235,17 @@
  <li>Fix bug 41612</li>
 </ul>
 
-<h3><a name="kugar">Kugar</a></h3>
+<h3 id="kugar">Kugar</h3>
 <ul>
- <li>Kugar is no longer accessible from koshell
- <li>Fix crash when changing pages on reloaded report
+ <li>Kugar is no longer accessible from koshell</li>
+ <li>Fix crash when changing pages on reloaded report</li>
 </ul>
 
-<h3><a name="filters">Filters</a></h3>
+<h3 id="filters">Filters</h3>
 
 <em>KWord:</em>
 <ul>
- <li>Many fixes and improvements in the html import filter
+ <li>Many fixes and improvements in the html import filter</li>
 </ul>
 
 <?php
