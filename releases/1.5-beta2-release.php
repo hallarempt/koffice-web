@@ -30,7 +30,7 @@ align="left">MD5&nbsp;Sum</th></tr>
 href="http://download.kde.org/unstable/koffice-1.5-beta2/src/koffice-1.4.95.tar.
 bz2">
 koffice-1.4.95.tar.bz2</a></td>
-<td><tt>insert-the-md5-sum-here</tt></td></tr>
+<td><tt>ddeca5c989e892baf4871a443fd2daea</tt></td></tr>
 </table></li>
       <li><a href="/download/">Binary packages</a></li>
       </ul>
