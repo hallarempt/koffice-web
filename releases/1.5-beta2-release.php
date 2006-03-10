@@ -27,10 +27,10 @@ cellpadding="4" cellspacing="0">
 align="left">MD5&nbsp;Sum</th></tr>
 <tr><td>General</td>
 <td><a
-href="http://download.kde.org/unstable/koffice-1.5-beta2/src/koffice-1.4.90.tar.
+href="http://download.kde.org/unstable/koffice-1.5-beta2/src/koffice-1.4.95.tar.
 bz2">
-koffice-1.4.90.tar.bz2</a></td>
-<td><tt>99a8de4e93b00e1c3148a5f96b67d966</tt></td></tr>
+koffice-1.4.95.tar.bz2</a></td>
+<td><tt>insert-the-md5-sum-here</tt></td></tr>
 </table></li>
       <li><a href="/download/">Binary packages</a></li>
       </ul>
