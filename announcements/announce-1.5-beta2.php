@@ -96,7 +96,7 @@
 
 <p>With beta2, KChart not only got a new charting engine donated by Klarälvdalens Datakonsult AB,
 but also start of support for loading and saving charts in the OASIS OpenDocument file standard. KPresenter,
-KSpread, KWord and Karbon15 all have received improvements and fixes to their OpenDocument code.<p>
+KSpread, KWord and Karbon15 all have received improvements and fixes to their OpenDocument code.</p>
 
 <p>The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
