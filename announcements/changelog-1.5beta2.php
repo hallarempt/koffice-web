@@ -75,14 +75,16 @@
  <li>OASIS OpenDocument improvements</li>
  <li>Multi-select for objects, object handling is now conform to the KOffice standards</li>
  <li>Fix link to local file</li>
- <li>Fixed bug 122237, empty cells get displayed correctly.</li>
+ <li>Bug 122237: empty cells get displayed correctly.</li>
  <li>Brace highlighting in the formula editor</li>
  <li>Several crash fixes</li>
  <li>Selection optimization speed</li>
  <li>Painting improvements</li>
  <li>Many performance fixes</li>
- <li>Fix BUG:121104 - Automatic Recalculation sheeting in Sheet Properties dialog is now respected.</li>
- <li>BUG:109797: Protect quote characters in cells by replacing each quote character by two consecutive quote characters.  Produce CSV files with the same number of columns in every row.</li>
+ <li>Bug 121104: Automatic Recalculation sheeting in Sheet Properties dialog is now respected.</li>
+ <li>Bug 109797: Protect quote characters in cells by replacing each quote character by two consecutive quote characters.  Produce CSV files with the same number of columns in every row.</li>
+ <li>Bug 118112: Numbers are correctly copy and pasted</li>
+ <li>Bug 121771: COUNTIF(range, "0") function doesn't count blank cells anymore</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
