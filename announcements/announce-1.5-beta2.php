@@ -79,7 +79,7 @@
 <p align="justify">
   Developed by a team of volunteers, KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta2/src/">http and ftp</a> mirrors.
 </p>
 <h4>
   Principal Improvements
@@ -95,8 +95,8 @@
         </strong>:
 
 <p>With beta2, KChart not only got a new charting engine donated by Klarälvdalens Datakonsult AB,
-but also support for loading and saving charts in the OASIS OpenDocument file standard. KPresenter,
-KSpread, KWord and Karbon15 all have received improvement and fixes to their OpenDocument code.<p>
+but also start of support for loading and saving charts in the OASIS OpenDocument file standard. KPresenter,
+KSpread, KWord and Karbon15 all have received improvements and fixes to their OpenDocument code.<p>
 
 <p>The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
@@ -270,9 +270,16 @@ KOffice was the first office suite that announced support for OpenDocument and n
     <ul type="disc">
       <li>
         <div align="justify">
+        Start of OpenDocument implementation
+        </div>
+      </li>
+<!--
+      <li>
+        <div align="justify">
         OpenDocument is now the default file format
         </div>
       </li>
+-->
       <li>
         <div align="justify">
         new chart engine
@@ -281,7 +288,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
     </ul>
 <p align="justify">
   A more complete
-  <a href="http://www.koffice.org/announcements/changelog-1.5beta1.php">list
+  <a href="http://www.koffice.org/announcements/changelog-1.5beta2.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
 <a name="binary_packages"></a><h4>
@@ -290,10 +297,10 @@ KOffice was the first office suite that announced support for OpenDocument and n
 <p align="justify">
   <strong>Binary Packages</strong>:
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.5 beta1 for some versions of their distribution, and in other cases
+  KOffice 1.5 beta2 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta2/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
 </p>
@@ -346,12 +353,10 @@ KOffice was the first office suite that announced support for OpenDocument and n
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta1/SuSE/">SuSE Linux 9.3 and 10.0</a></li>
-  <li><a href="http://kubuntu.org/announcements/koffice-15beta1.php">Kubuntu</a></li>
-  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge (these are
-packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
-  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid (these are
-packages updated to Jan. 31st, and include fixes not in beta1)</a></li>
+  <li><a href="http://download.kde.org/unstable/koffice-1.5-beta2/SuSE/">SuSE Linux 9.3 and 10.0</a></li>
+  <li><a href="http://kubuntu.org/announcements/koffice-15beta2.php">Kubuntu</a></li>
+  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li>
+  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid</a></li>
 </ul>
 
 <p align="justify">
@@ -364,12 +369,12 @@ distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
 <a name="compiling"></a><h4>
-  Compiling KOffice 1.5-beta1
+  Compiling KOffice 1.5-beta2
 </h4>
 <p align="justify">
   <a name="source_code-library_requirements"></a><strong>Library
   Requirements</strong>:
-  KOffice 1.5-beta1 requires the following libraries:
+  KOffice 1.5-beta2 requires the following libraries:
 </p>
 <ul>
   <li>
@@ -400,15 +405,15 @@ coming days and weeks.
 </ul>
 <p align="justify">
   <strong>Compiler Requirements</strong>:
-  Please note that KOffice 1.5-beta1 will not
+  Please note that KOffice 1.5-beta2 will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
   <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.5-beta1 is available for free download
+  The complete source code for KOffice 1.5-beta2 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5-beta1/src/">http</a>
+  <a href="http://download.kde.org/unstable/koffice-1.5-beta2/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
