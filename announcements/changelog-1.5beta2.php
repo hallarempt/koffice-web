@@ -43,12 +43,12 @@
 <h3><a name="kword">KWord</a></h3>
 
 <ul>
- <li><em>OASIS OpenDocument</em></li>
+ <li><em>OASIS OpenDocument</em>
  <ul>
   <li>Reworked loading of master page layout for the case where a non standard master page is used.</li>
   <li>Saving bookmarks</li>
   <li>In general OASIS support improvements.</li>
- </ul>
+ </ul></li>
  <li>Don't change textframes to be the minimum size when user set it to protect size.</li>
  <li>Improve mouse handling</li>
  <li>Fix crash due to missing table cell (122807)</li>
@@ -106,24 +106,24 @@
 <h3><a name="kexi">Kexi</a></h3>
 
 <ul>
- <li><em>Forms:</em></li>
+ <li><em>Forms:</em>
  <ul>
   <li> Fixed saving images within forms for MySQL and PostgreSQL databases. </li>
- </ul>
- <li><em>Database Drivers</em></li>
+ </ul></li>
+ <li><em>Database Drivers</em>
  <ul>
   <li>MySQL: non-latin1 text data (UTF8 encoded) was not properly retrieved.</li>
   <li>MySQL, PostgreSQL: entering special characters like ', \, ", \n did not work.</li>
- </ul>
- <li><em>CSV Import Dialog </em></li>
+ </ul></li>
+ <li><em>CSV Import Dialog </em>
  <ul>
   <li>Fixed crash when importing CSV files smaller than 200 bytes. </li>
   <li>Fixed CSV importing for MySQL and PostgreSQL databases. </li>
- </ul>
- <li><em>Command-line Options</em></li>
+ </ul></li>
+ <li><em>Command-line Options</em>
  <ul>
  <li>Fixed support for -print-preview option. </li>
- </ul>
+ </ul></li>
 </ul>
 
 
