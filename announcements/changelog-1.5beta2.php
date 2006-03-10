@@ -26,18 +26,18 @@
 
 <h3><a name="koffice_libs">KOffice Libraries</a></h3>
 <ul>
-<li><em>KOText:</em></li>
+ <li><em>KOText:</em>
  <ul>
   <li>Fix problem with right-aligned tabs</li>
   <li>Fix footnote numbering</li>
   <li>Fix strange red and blue lines appearing for people who use --enable-debug</li>
- </ul>
+ </ul></li>
 
- <li><em>KRoss</em></li>
+ <li><em>KRoss</em>
  <ul>
   <li>Fix deleting of ruby wrapped objects
   <li>Handle Python unicode strings
- </ul>
+ </ul></li>
 </ul>
 
 <h3><a name="kword">KWord</a></h3>
