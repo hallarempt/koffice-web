@@ -329,7 +329,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   Policy</a> and/or contact your OS vendor.
 </p>
 
-<p align="justify">
+<!--p align="justify">
   <strong>Innovative Testing Facilities with klik</strong>:
   KOffice developers want to make testing as easy as possible for our users 
   throughout the beta period. Therefore, we offer to you an additional
@@ -346,7 +346,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   native package manager (see also <a href="http://klik.atekon.de/wiki/index.php/User's_FAQ">klik User's FAQ</a>).
   A Wiki holds details about <a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_DistroTable">KOffice
   klik bundles and supported distros</a>.
-</p>
+</p-->
 
 <p align="justify">
   <strong>Library Requirements / Options</strong>:
@@ -368,7 +368,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   <li><a href="http://download.kde.org/unstable/koffice-1.5-beta2/SuSE/">SuSE Linux 9.3 and 10.0</a></li>
 <!--  <li><a href="http://kubuntu.org/announcements/koffice-15beta2.php">Kubuntu</a></li> -->
 <!--  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li> -->
-  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid</a></li>
+  <li><a href="http://people.debian.org/~isaac/koffice/">Debian Sid</a></li>
 </ul>
 
 <p align="justify">

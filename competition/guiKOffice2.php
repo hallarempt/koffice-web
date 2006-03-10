@@ -4,6 +4,12 @@
   include("koffice.inc");
   include("header.inc");
 ?>
+
+<h3>The results</h3>
+
+<p>The results are now in! Martin Pfeiffer has won. See <a href="./gui1results.php">all 
+results</a> for yourself.</p>
+
 <h3>Objectives</h3>
 <p>The purpose of the competition is to generate new ideas for the user interface of the next generation of KOffice, KOffice 2, which is expected to be released around the same time as KDE 4.0.</p>
 <p>Submissions to the competition should be GUI mockups accompanied with a written description of the intended workflow with ideas for the design of KOffice 2. The new GUI proposals should be for <a href="../kword">KWord</a>, <a href="../kspread">KSpread</a> and <a href="../kpresenter">KPresenter</a>.</p>

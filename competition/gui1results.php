@@ -168,6 +168,15 @@ and content editing are separate phases. There are several quite good ideas
 in his submission, one of which is the paragraph property cut-out that "travels"
 with the current paragraph. His interface is also a model of clarity and simplicity.</p>
 
+<h5><a href="./gui1results/preston_brown.pdf">Preston Brown</a></h5>
+
+<p>Unfortunately, email problems (I suspect spamassassin, but cannot prove it)
+prevented Preston Brown's submission from entry into the competition. However,
+he graciously allowed us to add his proposal to the results page after all. Preston
+rearranges the KOffice workspace into a well-organized sidebar alongside the 
+traditional document area, giving an improved user experience while at the same
+time not obsoleting all the current user skills. The difference between writing
+and reviewing documents is well noted.</p>
 
  <br />
  <hr width="30%" align="center" />
