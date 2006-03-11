@@ -212,14 +212,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
     <ul type="disc">
       <li>
         <div align="justify">
-        Fix escaping binary data in PostgreSQL driver
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        Import data from MS Access projects
-        (<a href="http://www.koffice.org/filters/1.5/kexi/mdb.php">packaged
-        separately</a>)
+        Fixes for data handling in MySQL, PostgreSQL and SQLite database drivers, and for data import/export
         </div>
       </li>
       <li>
@@ -230,6 +223,11 @@ KOffice was the first office suite that announced support for OpenDocument and n
       <li>
         <div align="justify">
         Usability polish all over the place
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+         Stability fixes
         </div>
       </li>
     </ul>
@@ -294,7 +292,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
 -->
       <li>
         <div align="justify">
-        new chart engine
+        New chart engine
         </div>
       </li>
     </ul>

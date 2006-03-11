@@ -38,6 +38,14 @@
   <li>Fix deleting of ruby wrapped objects</li>
   <li>Handle Python unicode strings</li>
  </ul></li>
+
+ <li><em>KoProperty</em>
+ <ul>
+  <li>Fix editor refreshing after contents loading</li>
+  <li>Fix for read-only mode: support it also globally at property set level</li>
+  <li>Disable editing for read-only widgets</li>
+  <li>Fix for displaying double (floating-point) values for the current locale</li>
+ </ul></li>
 </ul>
 
 <h3 id="kword">KWord</h3>
@@ -108,19 +116,76 @@
 <h3 id="kexi">Kexi</h3>
 
 <ul>
- <li><em>Forms:</em>
- <ul>
-  <li> Fixed saving images within forms for MySQL and PostgreSQL databases. </li>
- </ul></li>
  <li><em>Database Drivers</em>
  <ul>
   <li>MySQL: non-latin1 text data (UTF8 encoded) was not properly retrieved.</li>
   <li>MySQL, PostgreSQL: entering special characters like ', \, ", \n did not work.</li>
+  <li>PostgreSQL: fix for displaying unicode error messages</li>
  </ul></li>
- <li><em>CSV Import Dialog </em>
+ <li><em>Main Window</em>
+ <ul>
+  <li>Disable actions that require write access to the db if it's opened as readonly</li>
+  <li>Closing dialog is now marked as 'pending job', the same as for opening</li>
+  <li>When there are pending jobs, 'quit' and 'close project' actions are
+  delayed and executed after last pending job finishes. This removed possible 
+  crashes when user closed application's main window (or closed project) 
+  when there are pending jobs.</li>
+  <li>When query design has been changed and saved, subsequent openings of a form using 
+  it will reload its definition. The same for 'page setup' dialogs.</li>
+  <li>Disabled complex and redundant action 'View -> Tool Docks' menu</li>
+ </ul> 
+ <li><em>Table View</em>
+ <ul>
+  <li>Fixed acceping am/pm for entering time values</li>
+  <li>Various fixes for entering date, time and date/time values</li>
+  <li>Time can be entered without seconds</li>
+  <li>Small passive warning box is displayed when entered value is invalid
+      (currently for date, time and date/time types)</li>
+  <li>'Inserting enabled' flag is always false for read-only objects</li>
+  <li>Disable combobox editor's dropdown button for read-only database connections</li>
+  <li>Row highlighting fixed for combo box popup, now it's used for any table view</li>
+ </ul></li>
+ <li><em>Table Designer</em>
+ <ul>
+ <li>Set property editor to read-only mode for read-only database connections</li>
+ </ul></li>
+ <li><em>Query Designer</em>
+ <ul>
+ <li>Row editing within the &quot;Columns&quot; area is accepted before saving.
+  If the editing cannot be accepted, saving is aborted. </li>
+ </ul></li>
+ <li><em>Forms</em>
+ <ul>
+  <li>Fixed saving images within forms for MySQL, SQLite and PostgreSQL databases. </li>
+  <li>Fixed painting &quot;geometry&quot; rectangle when inserting new widget</li>
+  <li>Update tab stops information before displaying "Tab Stops" dialog</li>
+  <li>Fixed invalid resizing for widget's inline editor</li>
+  <li>'Edit->Tab Order' action is available also when form design is not focused</li>
+  <li>Text label widgets: &quot;word wrap&quot; property is turned on by default</li>
+  <li>Fixed updating &quot;word wrap&quot; property value for label widgets</li>
+  <li>Fixed random cursor setting for the form surface</li>
+  <li>Fixed problems with inserting widgets in a random position 
+   and random rectangles painting problems</li>
+ </ul></li>
+ <li><em>Project Import Wizard</em>
+ <ul>
+  <li>Do not ask about overwriting file if server-based destination has been selected</li>
+ </ul></li>
+ <li><em>CSV Import Dialog</em>
  <ul>
   <li>Fixed crash when importing CSV files smaller than 200 bytes. </li>
   <li>Fixed CSV importing for MySQL and PostgreSQL databases. </li>
+ </ul></li>
+ <li><em>CSV Export Wizard</em>
+ <ul>
+ <li>When data is copied to clipboard, default delimiter is tabulator
+  and options are hidden</li>
+ </ul></li>
+ <li><em>Simple Printing</em>
+ <ul>
+  <li>Enlarge default zoom</li>
+  <li>Fixed crash when 'page setup' dialog is opened, closed, and opened again for 
+  the same data object</li>
  </ul></li>
  <li><em>Command-line Options</em>
  <ul>
