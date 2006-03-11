@@ -143,7 +143,7 @@
  <li>Enable scrollwheel and pan in preview widget</li>
  <li>Fix saving bmp -- use .bmp3 extension to save in the most widely compatible bmp format.</li>
  <li>Fix undo of layer colorspace schange</li>
- <li>Improve rendering performance if zoom < 1.0</li>
+ <li>Improve rendering performance if zoom &lt; 1.0</li>
  <li>Fix layer name counter staying incremented after cancelling a new layer</li>
  <li>Disable apply filter again menu entry initially</li>
  <li>Reorganize filter menu to not include empty items</li>

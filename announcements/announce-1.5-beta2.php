@@ -341,7 +341,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   developer team, who will provide up to date klik packages for all of KOffice. 
   klik packages may be used without
   installation (they run, similar to Mac OS X "AppDir" bundles, from a self-contained
-  directory tree -- but klik compresses the tree into one single file for easier
+  directory tree - but klik compresses the tree into one single file for easier
   handling). klik-bundles work on multiple Linux platforms without disturbing the system's
   native package manager (see also <a href="http://klik.atekon.de/wiki/index.php/User's_FAQ">klik User's FAQ</a>).
   A Wiki holds details about <a href="http://klik.atekon.de/wiki/index.php/KOffice-1.5.0_DistroTable">KOffice
