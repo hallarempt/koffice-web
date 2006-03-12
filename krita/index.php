@@ -93,8 +93,8 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 <h3>Blogs</h3>
 
 <ul>
-<li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a>
-<li><a href="http://cyrilleberger.blogspot.com">One Day One Feature: A Guided Tour of Krita Features in Daily Installments, by Cyrille Berger</a>
+<li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a></li>
+<li><a href="http://cyrilleberger.blogspot.com">One Day One Feature: A Guided Tour of Krita Features in Daily Installments, by Cyrille Berger</a></li>
 </ul>
 
 <h3>Development</h3>
