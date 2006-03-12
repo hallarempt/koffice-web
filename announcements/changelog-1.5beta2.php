@@ -133,7 +133,7 @@
   <li>When query design has been changed and saved, subsequent openings of a form using 
   it will reload its definition. The same for 'page setup' dialogs.</li>
   <li>Disabled complex and redundant action 'View -> Tool Docks' menu</li>
- </ul> 
+ </ul></li>
  <li><em>Table View</em>
  <ul>
   <li>Fixed acceping am/pm for entering time values</li>
