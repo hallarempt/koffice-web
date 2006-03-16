@@ -15,7 +15,6 @@
   It enables you to create network diagrams, organisation charts, flowcharts and more.
 </p>
 
-<p style="text-align:center">
   <?php
     $gallery = new ImageGallery("Kivio-Screenshot");
     $gallery->addImage("pics/kivio_svn060127_330.png",
@@ -25,7 +24,6 @@
                        "Kivio");
     $gallery->show();
   ?>
-</p>
 
 <p>
   <b>Features:</b></p>

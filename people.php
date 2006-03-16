@@ -35,7 +35,7 @@
       <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
       <b>KSpread: <a href="&#109;ail&#0116;&#x6f;&#x3a;&#109;&#111;n&#116;&#101;&#x6c;&#64;kde.org">Laurent Montel</a></b><br />
       <b>KPresenter: <a href="m&#x61;il&#116;o:&#x74;.za&#99;&#x68;mann&#x40;za&#103;ge.&#x64;&#0101;">Thorsten Zachmann</a>,&nbsp;
-      <a href="&#x6d;&#x6f;n&#x74;&#101;&#x6c;&#64;kde&#x2e;&#x6f;&#x72;g">Laurent Montel</a></b><br /> 
+      <a href="&#109;&#x61;i&#x6c;t&#x6f;:&#x6d;&#x6f;n&#x74;&#101;&#x6c;&#64;kde&#x2e;&#x6f;&#x72;g">Laurent Montel</a></b><br /> 
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
       <b>Karbon14: <a href="m&#x61;il&#116;o:buis&#x40;&#x6b;&#100;e.or&#103;">Rob Buis</a></b><br />
       <b>Krita: <a
@@ -173,7 +173,7 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
       <b><a href="&#x6d;&#x61;il&#116;&#x6f;&#x3a;lu&#107;&#097;&#x73;&#x40;k&#x64;&#x65;&#x2e;&#00111;&#114;g">Luk&aacute;&scaron; Tinkl</a></b>
       (KPresenter, KSpread, filters)<br />
 
-      <b><a href="l&#117;ci&#106;&#x61;n&#64;kd&#101;&#00046;&#0111;&#x72;g">Lucijan Busch</a></b>
+      <b><a href="&#109;&#x61;i&#x6c;t&#x6f;:l&#117;ci&#106;&#x61;n&#64;kd&#101;&#00046;&#0111;&#x72;g">Lucijan Busch</a></b>
       (Kexi)<br />
 
       <b><a href="ma&#0105;lt&#x6f;:p&#115;&#110;&#064;li&#x6e;u&#120;&#x2e;&#x73;e">Peter Simonsson</a></b>

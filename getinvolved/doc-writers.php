@@ -15,7 +15,6 @@
 <p><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a> is the documentation coordinator for KOffice documentation.</p>
 <p>Information on how to write KOffice documentation can be found <a href="howto-write-doc.php">here</a>.</p>
 
-<p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th>Task Description</th>

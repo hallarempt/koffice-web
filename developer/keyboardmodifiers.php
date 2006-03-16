@@ -23,8 +23,7 @@
     </table>
 
     <p><b>Scaling:</b></p>
-    <table><tr>
-     <td>
+    <table>
      <tr><td valign="top">Shift</td><td>disabled snap to grid and disables snap to
         guides</td></tr>
      <tr><td valign="top">Alt</td><td>Scales keep aspect ratio, pressing alt immediately snaps

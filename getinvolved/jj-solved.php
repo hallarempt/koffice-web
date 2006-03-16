@@ -11,7 +11,6 @@
 	]
 </div>
 
-<p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th>Task Description</th>
@@ -94,8 +93,6 @@
   </tr>
 </table>
 
-<br />
- <br />
  <hr width="30%" align="center" />
  <p>
  Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>

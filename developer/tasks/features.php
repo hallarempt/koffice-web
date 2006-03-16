@@ -24,7 +24,6 @@ tasks to do.  Especially look out for red and yellow squares, which
 indicate that something is missing.  Maybe <b>you</b> could do something
 about that?</p>
 
-<p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th colspan="2">Legend</th>
@@ -50,9 +49,7 @@ about that?</p>
     <td>Incomplete data - Find out if applicable or not</td>
   </tr>
 </table>
-</p>
 
-<p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th rowspan="2"></th>
@@ -171,7 +168,6 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
   </tr>
 </table>
-</p>
 
 <p>
 </p>
