@@ -26,7 +26,7 @@
 
   <p>The source code for the beta version of the MDB filter is
   available from <a
-  href="http://www.ntpb.co.uk/koffice/keximdb/keximdb-1.0-beta1.tar.gz"
+  href="http://martin.ellis.name/koffice/keximdb-1.0-rc1.tar.gz"
   >here</a>.</p>
 
   <h2>Status</h2>
