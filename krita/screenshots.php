@@ -13,6 +13,7 @@ $gallery->addImage("pics/hackathon_2005_08_262.png",
   "262", "200",
   "[Screenshot]", 0 ,
   "After the hackathon (August 2005)");
+$gallery->addImage("pics/krita1.5rc1_sm.png", "pics/krita1.5rc1.png", "303", "200", "[Screenshot]", 0 , "Release candidate (March 2006)");
 $gallery->startNewRow(); 
 $gallery->addImage("pics/rc_sm.png", "pics/rc.png", "264", "200", "[Screenshot]", 0 , "Release candidate (April 2005)");
 $gallery->addImage("pics/toolbox_sm.jpg", "pics/toolbox.jpg", "269", "200", "[Screenshot]", 0 , "Toolbox (March 2005)");
