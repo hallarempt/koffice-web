@@ -253,7 +253,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   <a href="http://www.koffice.org/announcements/changelog-1.5rc1.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
-<a name="binary_packages"></a><h4>
+<h4 id="binary_packages">
   Installing KOffice 1.5-beta Binary Packages
 </h4>
 <p align="justify">
@@ -310,7 +310,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   Requirements</a> below.
 </p>
 <p align="justify">
-  <a name="package_locations"><strong>Package Locations</strong></a>:
+  <strong id="package_locations">Package Locations</strong>:
   At the time of this release, pre-compiled packages are available for:
 </p>
 
@@ -322,7 +322,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
 </ul>
 
 <p align="justify">
-  <a name="windows_version"><strong>MS Windows Version</strong></a>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
+  <strong id="windows_version">MS Windows Version</strong>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
 </p>
 
 <p align="justify">
@@ -330,11 +330,11 @@ Please check the servers periodically for pre-compiled packages for other
 distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
-<a name="compiling"></a><h4>
+<h4 id="compiling">
   Compiling KOffice 1.5-rc1
 </h4>
 <p align="justify">
-  <a name="source_code-library_requirements"></a><strong>Library
+  <strong id="source_code-library_requirements">Library
   Requirements</strong>:
   KOffice 1.5-rc1 requires the following libraries:
 </p>
@@ -372,7 +372,7 @@ coming days and weeks.
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
-  <a name="source_code"></a><strong>Source Code</strong>:
+  <strong id="source_code">Source Code</strong>:
   The complete source code for KOffice 1.5-rc1 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.5-rc1/src/">http</a>
