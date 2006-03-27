@@ -16,7 +16,7 @@
 <li><a href="#karbon">Karbon</a></li>
 <li><a href="#kplato">KPlato</a></li>
 <li><a href="#kchart">KChart</a></li>
-<li><a href="#kugar">Kugar</a></li>
+<!--<li><a href="#kugar">Kugar</a></li>-->
 <li><a href="#kformula">KFormula</a></li>
 </ul>
 
@@ -44,7 +44,7 @@
 <li>Scrolling in choose mode works again.</li>
 <li>Dependency recalculation speedup.</li>
 <li>Set cell text correctly when auto-filling times and dates.</li>
-<li>Application loading speedup: Delay creation of KSpell config</li>
+<li>Application loading speedup: Delay creation of KSpell config
                                 until spellchecking facilities are actually used.</li>
 <li>Make the autofill behavior more consistent with Gnumeric /
                                 OpenOffice / Excel when a single cell is selected.  If the cell contains a
@@ -78,7 +78,7 @@
   koffice:additional-transition-style
   for saving them. In transition-style we use something similar so that
   OO can open it.</li>
-  
+
 <li>Fix a bug when there was an object on the masterpage at the position
   of the header or footer and the footer was not shown.</li>
 
