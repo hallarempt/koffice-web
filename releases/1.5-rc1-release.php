@@ -29,7 +29,7 @@ align="left">MD5&nbsp;Sum</th></tr>
 <td><a
 href="http://download.kde.org/unstable/koffice-1.5-rc1/src/koffice-1.5.0-rc1.tar.bz2">
 koffice-1.5.0-rc1.tar.bz2</a></td>
-<td><tt>deadbeefdeadbeefdeadbeefdeadbeef</tt></td></tr>
+<td><tt>e9346977d18c67185d5b50f49ee8225b</tt></td></tr>
 </table></li>
       <li><a href="http://download.kde.org/unstable/koffice-1.5-rc1/">Binary packages</a></li>
       </ul>
