@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-  DATELINE March 27, 2006<br />
+  DATELINE March 29, 2006<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
@@ -17,7 +17,7 @@
 The KOffice developers are proud to announce the release candidate of
 KOffice 1.5.</strong></p>
 
-  <p align="justify">March 10, 2006 (The INTERNET).
+  <p align="justify">March 29, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
   <a href="http://www.koffice.org/">KOffice</a> 1.5-rc1, the release candidate for KOffice 1.5,
