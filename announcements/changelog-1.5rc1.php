@@ -44,10 +44,12 @@
 <li>Dependency recalculation speedup.</li>
 <li>Set cell text correctly when auto-filling times and dates.</li>
 <li>Application loading speedup: Delay creation of KSpell config until spellchecking facilities are actually used.</li>
-<li>Make the autofill behavior more consistent with Gnumeric / OpenOffice / Excel when a single cell is selected.
-If the cell contains a number, the number is just duplicated to fill the selection.
-If the cell contains a date it produces a series of 1-day increments.
-If the cellcontains a time it produces a series of 1-hour increments.</li>
+<li>Make the autofill behavior more consistent with Gnumeric / OpenOffice / Excel when a single cell is selected.</li>
+<ul>
+    <li>If the cell contains a number, the number is just duplicated to fill the selection.</li>
+    <li>If the cell contains a date it produces a series of 1-day increments.</li>
+    <li>If the cellcontains a time it produces a series of 1-hour increments.</li>
+</ul>
 <li>Fix Insert Series dialog not updating the display text in the affected cells.</li>
 <li>Fix preferences dialog so that current date/time are used to demonstrate locale after clicking on 'Update To Locale' button.</li>
 </ul>
@@ -65,14 +67,9 @@ If the cellcontains a time it produces a series of 1-hour increments.</li>
 
 <li>Fix problems with embedding</li>
 
-<li>Fix saving of stripe slide transition when saving to oasis. As they
-are not supported in OpenDocument I use
-koffice:additional-transition-style
-for saving them. In transition-style we use something similar so that
-OO can open it.</li>
+<li>Fix saving of stripe slide transition when saving to oasis. As they are not supported in OpenDocument I use koffice:additional-transition-style for saving them. In transition-style we use something similar so that OO can open it.</li> 
 
-<li>Fix a bug when there was an object on the masterpage at the position
-of the header or footer and the footer was not shown.</li>
+<li>Fix a bug when there was an object on the masterpage at the position of the header or footer and the footer was not shown.</li>
 
 <li>Fix saving of styles for text objects on the master page</li>
 
