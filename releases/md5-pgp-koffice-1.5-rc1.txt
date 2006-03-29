@@ -1,0 +1,62 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+e9346977d18c67185d5b50f49ee8225b  koffice-1.5.0-rc1.tar.bz2
+750fb30aee3591fd1112ba5956a5af77  koffice-l10n-af-1.5-rc1.tar.bz2
+86286f6a4ed00c1ddd96c91a9de72502  koffice-l10n-ar-1.5-rc1.tar.bz2
+1788e6b2e4b99532aaabdb998058829b  koffice-l10n-bg-1.5-rc1.tar.bz2
+5db749a0c1f9299f2ddb9bce6ec03ceb  koffice-l10n-bn-1.5-rc1.tar.bz2
+e56ef4fbdef1ffec0dbdb38607d10f6c  koffice-l10n-br-1.5-rc1.tar.bz2
+4163e34a011e87b385946d112340f658  koffice-l10n-bs-1.5-rc1.tar.bz2
+0b3d5a08585c2e88b3cc2dac1a64bd18  koffice-l10n-ca-1.5-rc1.tar.bz2
+e6987c3647956caa4e4842edb7bdc864  koffice-l10n-cs-1.5-rc1.tar.bz2
+b34b49e0836143caaac7620f84c615fc  koffice-l10n-cy-1.5-rc1.tar.bz2
+9883ab8e7195846b7e00212a669033d8  koffice-l10n-da-1.5-rc1.tar.bz2
+d4224fadd0f86f566ffa88f6ede5137a  koffice-l10n-de-1.5-rc1.tar.bz2
+757277cbcd8fe5f7d03713bea5c7ca9e  koffice-l10n-el-1.5-rc1.tar.bz2
+4c465f228b21be8075e964ed8bfc2f55  koffice-l10n-en_GB-1.5-rc1.tar.bz2
+98a5a394f76ad2b1324fbbfc9191aecf  koffice-l10n-eo-1.5-rc1.tar.bz2
+6bfa4ee3ff6418c5441478a7b4a77659  koffice-l10n-es-1.5-rc1.tar.bz2
+fa1c263396f497b25a0e337b61d33bf8  koffice-l10n-et-1.5-rc1.tar.bz2
+288c822579edf6d574e2eb8372076351  koffice-l10n-eu-1.5-rc1.tar.bz2
+15d128b804acaf2ad73113c20b539b10  koffice-l10n-fi-1.5-rc1.tar.bz2
+35bdbcb648bf58fc28fce5333c090ada  koffice-l10n-fr-1.5-rc1.tar.bz2
+dccd154c21e8cd7d95373a7580d42483  koffice-l10n-fy-1.5-rc1.tar.bz2
+28a1fc149a31a1550358f233eeab23a9  koffice-l10n-ga-1.5-rc1.tar.bz2
+6bd95311ecd6f0dc5a76dc9a1caa5a0b  koffice-l10n-he-1.5-rc1.tar.bz2
+a74fd45a7696e51a03558dcd2b4f9670  koffice-l10n-hi-1.5-rc1.tar.bz2
+3d2da5fcf09f95f77f3087162e94770f  koffice-l10n-hsb-1.5-rc1.tar.bz2
+28ec8a5d4c2542ff96acb7d40305762a  koffice-l10n-hu-1.5-rc1.tar.bz2
+8c3f11afa1922e6d7fd6dab0f8d24ace  koffice-l10n-is-1.5-rc1.tar.bz2
+04b3c0b9e8f16218968264685407e6ab  koffice-l10n-it-1.5-rc1.tar.bz2
+1f810920ec2aec85ea0856b37ebe6f33  koffice-l10n-ja-1.5-rc1.tar.bz2
+34cce34e772fa87bdfd698a7195c5634  koffice-l10n-lt-1.5-rc1.tar.bz2
+9f79f0f14d5539c9c0facbe7df5248b2  koffice-l10n-mk-1.5-rc1.tar.bz2
+547697a869c1973f68d53d6ebc7bcba1  koffice-l10n-nb-1.5-rc1.tar.bz2
+215860f25b37a5cabe43e4f7eebbbf13  koffice-l10n-nds-1.5-rc1.tar.bz2
+2ed016b0e6fa4f47d4755c4dd160816d  koffice-l10n-nl-1.5-rc1.tar.bz2
+fc3b88a9d8912fd1d84c6486ede5ccc8  koffice-l10n-nn-1.5-rc1.tar.bz2
+115bb8c75ca36c5b174a81493d8b6718  koffice-l10n-pa-1.5-rc1.tar.bz2
+859790e80df1d88dba631d33b15dc375  koffice-l10n-pl-1.5-rc1.tar.bz2
+07e612c2180d157b68356d7fcb025297  koffice-l10n-pt-1.5-rc1.tar.bz2
+78d6ae1c9e8ffc3017fa3b2ccc98c02c  koffice-l10n-pt_BR-1.5-rc1.tar.bz2
+2eca9c2b4a7b1ab12f998a6588cafc19  koffice-l10n-ro-1.5-rc1.tar.bz2
+7afe8824a2f1d85141cd06e578fd479d  koffice-l10n-ru-1.5-rc1.tar.bz2
+85dfa5c2d18a0e3005690f1763c73bfa  koffice-l10n-se-1.5-rc1.tar.bz2
+5e7c2d53f04ffde0bc0484d1611b7939  koffice-l10n-sk-1.5-rc1.tar.bz2
+9371fbdaa1dd2c6ec6a0b6f66a49d402  koffice-l10n-sl-1.5-rc1.tar.bz2
+e55eb189e89ac0b0d7a6fd4ad66019e9  koffice-l10n-sr-1.5-rc1.tar.bz2
+4a73f740ce5e54643328659fe08face9  koffice-l10n-sr@Latn-1.5-rc1.tar.bz2
+915a9b84d8530c9ef910c650ffc8e142  koffice-l10n-sv-1.5-rc1.tar.bz2
+605133320da5bd9c6317427f895a36e2  koffice-l10n-ta-1.5-rc1.tar.bz2
+27e30323712effc88b4c448c041dc821  koffice-l10n-tg-1.5-rc1.tar.bz2
+be9ea57c487a91f358e06befd6d32dc7  koffice-l10n-tr-1.5-rc1.tar.bz2
+50d3fb8e74698196d847ce2773ca51e0  koffice-l10n-uk-1.5-rc1.tar.bz2
+c88d026faf7486841e3fd98eef829865  koffice-l10n-zh_CN-1.5-rc1.tar.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+
+iD8DBQFEI6c5daCcgCmN5d8RAkGsAKCjxRMG6adSAsBv3+qR35vfGLtf0ACeNVj8
+zyypqZnRB8TgHnwVKb/7Jxw=
+=1d1Q
+-----END PGP SIGNATURE-----
