@@ -122,7 +122,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
         <strong>KFormula has a new maintainer and includes mathematical fonts
         </strong>:
 
-<p>KFormula has a new maintainer: Alfredo Beaumont.  Thanks to this, KFormula as gotten some much needed love during the beta 2 period and will now work right out of the box even on systems that don't include the BaKoMa mathematical fonts.</p>
+<p>KFormula has a new maintainer: Alfredo Beaumont.  Thanks to this, KFormula has gotten some much needed love during the beta 2 period and will now work right out of the box even on systems that don't include the BaKoMa mathematical fonts.</p>
         </div>
       </li>
 
