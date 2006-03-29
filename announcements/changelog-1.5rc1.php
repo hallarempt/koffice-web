@@ -27,10 +27,8 @@
 
 <ul>
 <li>KSpread can't input content in another sheet with keyboard</li>
-<li>Paste global mouse selection on middle mouse click instead of
-                                global clipboard content.</li>
-<li>Use nicer f(x) icon for the function button supplied by Aurelien
-                                Gateau.</li>
+<li>Paste global mouse selection on middle mouse click instead of global clipboard content.</li>
+<li>Use nicer f(x) icon for the function button supplied by Aurelien Gateau.</li>
 <li>Fix CSV export of times and dates.</li>
 <li>Don't localize the name of the default cell style.</li>
 <li>Localize the decimal separator in formulas on loading OpenDocument files</li>
@@ -45,43 +43,36 @@
 <li>Scrolling in choose mode works again.</li>
 <li>Dependency recalculation speedup.</li>
 <li>Set cell text correctly when auto-filling times and dates.</li>
-<li>Application loading speedup: Delay creation of KSpell config
-                                until spellchecking facilities are actually used.</li>
-<li>Make the autofill behavior more consistent with Gnumeric /
-                                OpenOffice / Excel when a single cell is selected.  If the cell contains a
-                                number, the number is just duplicated to fill the selection.  If the cell
-                                contains a date it produces a series of 1-day increments.  If the cell
-                                contains a time it produces a series of 1-hour increments.</li>
-<li>Fix Insert Series dialog not updating the display text in the
-                                affected cells.</li>
-<li>Fix preferences dialog so that current date/time are used to
-                                demonstrate locale after clicking on 'Update To Locale' button.</li>
+<li>Application loading speedup: Delay creation of KSpell config until spellchecking facilities are actually used.</li>
+<li>Make the autofill behavior more consistent with Gnumeric / OpenOffice / Excel when a single cell is selected.
+If the cell contains a number, the number is just duplicated to fill the selection.
+If the cell contains a date it produces a series of 1-day increments.
+If the cellcontains a time it produces a series of 1-hour increments.</li>
+<li>Fix Insert Series dialog not updating the display text in the affected cells.</li>
+<li>Fix preferences dialog so that current date/time are used to demonstrate locale after clicking on 'Update To Locale' button.</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
 <ul>
 
-<li>Fix: Bug 122623: Vertically aligned texts in presentation are displaced
-  first.</li>
+<li>Fix: Bug 122623: Vertically aligned texts in presentation are displaced first.</li>
 
 <li>updated the icons so that they look more like crystal</li>
 
-<li>Fix loading when the view is shown before the doc is fully loaded
-  BUG:122641</li>
+<li>Fix loading when the view is shown before the doc is fully loaded BUG:122641</li>
 
-<li>Fix: Make it possible to resize objects around the center.
-  BUG: 112310</li>
+<li>Fix: Make it possible to resize objects around the center. BUG: 112310</li>
 
 <li>Fix problems with embedding</li>
 
 <li>Fix saving of stripe slide transition when saving to oasis. As they
-  are not supported in OpenDocument I use
-  koffice:additional-transition-style
-  for saving them. In transition-style we use something similar so that
-  OO can open it.</li>
+are not supported in OpenDocument I use
+koffice:additional-transition-style
+for saving them. In transition-style we use something similar so that
+OO can open it.</li>
 
 <li>Fix a bug when there was an object on the masterpage at the position
-  of the header or footer and the footer was not shown.</li>
+of the header or footer and the footer was not shown.</li>
 
 <li>Fix saving of styles for text objects on the master page</li>
 
@@ -98,7 +89,7 @@
 <li>added simple encryption for stored passwords</li>
 <li>allow to save empty password in .kexis and .kexic files</li>
 <li>ask for password (without storing it) for connection data without stored
-   password</li>
+password</li>
 </ul>
 
 
@@ -126,7 +117,7 @@ all layers</li>
 <li> Don't show exposure slider if the image is not HDR</li>
 <li> Enable the screenshot plugin again</li>
 <li> Fix separate image</li>
-<li> Many fixes to tiff filter: add support for YCbCr  colorspaces in tiff</li>
+<li> Many fixes to tiff filter: add support for YCbCr colorspaces in tiff</li>
 <li> Fix loading of images with utf8 characters in the name (BUG:123495)</li>
 <li> Fix crash when creating very small images</li>
 <li> Fix memory leaks in painting with filters.</li>
