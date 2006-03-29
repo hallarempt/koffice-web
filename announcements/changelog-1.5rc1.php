@@ -18,6 +18,7 @@
 <li><a href="#kchart">KChart</a></li>
 <!--<li><a href="#kugar">Kugar</a></li>-->
 <li><a href="#kformula">KFormula</a></li>
+<li><a href="#kross">Kross</a></li>
 </ul>
 
 
@@ -168,6 +169,15 @@ formula. This improves accessibility.</li>
 </ul>
 
 
+<h3 id="kross">Kross</h3>
+
+<ul>
+<li>Fix crash cause of unhandled exception</li>
+<li>Fix untranslatable error messages</li>
+<li>Fix layout when using ugly style</li>
+<li>Ruby: fix c++ shouldn't propagate inside c</li>
+<li>Python: fix wrong error-message</li>
+</ul>
 <?php
   include("footer.inc");
 ?>
