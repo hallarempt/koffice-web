@@ -319,7 +319,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   <li><a href="http://kubuntu.org/announcements/koffice-rc1.php">Kubuntu</a> (or if that link doesn't work: <a href="http://kubuntu.org/packages/koffice-15rc1/">try this one</a>)
 </li>
 <!--  <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li> -->
-  <li><a href="http://people.debian.org/~isaac/koffice/">Debian Sid</a></li>
+<!--  <li><a href="http://people.debian.org/~isaac/koffice/">Debian Sid</a></li> -->
 </ul>
 
 <p align="justify">
