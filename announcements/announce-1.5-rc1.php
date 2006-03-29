@@ -27,7 +27,7 @@ KOffice 1.5.</strong></p>
   <p align="justify">
   KOffice is an integrated office suite for KDE which utilizes free and
   open standards for its document formats, component communication and
-  component embedding. This is the last beta release before the release candidate.
+  component embedding. This is the release candidate that will soon lead to the real release.
   </p>
 
 <p align="justify">
@@ -254,7 +254,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
 <h4 id="binary_packages">
-  Installing KOffice 1.5-beta Binary Packages
+  Installing KOffice 1.5-rc1 Binary Packages
 </h4>
 <p align="justify">
   <strong>Binary Packages</strong>:
@@ -282,9 +282,9 @@ KOffice was the first office suite that announced support for OpenDocument and n
 <!--p align="justify">
   <strong>Innovative Testing Facilities with klik</strong>:
   KOffice developers want to make testing as easy as possible for our users 
-  throughout the beta period. Therefore, we offer to you an additional
-  method to testdrive KOffice 1.5.0 beta which doesn't require the replacement
-  of the last stable release on your system by current beta packages.</p> 
+  throughout the release candidate period. Therefore, we offer to you an additional
+  method to testdrive KOffice 1.5.0 RC1 which doesn't require the replacement
+  of the last stable release on your system by current packages.</p> 
 <p align="justify">
   We teamed up 
   with the <a href="http://klik.atekon.de/">klik</a> 

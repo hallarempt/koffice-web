@@ -6,7 +6,7 @@
 ?>
 <p>
   The following summarizes the major changes to the KOffice suite since the
-  release of KOffice 1.5 beta2.
+  release Of KOffice 1.5 beta2.
 </p>
 <ul>
 <li><a href="#kspread">KSpread</a></li>
