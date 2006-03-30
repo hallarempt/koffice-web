@@ -4,7 +4,10 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-<p>KOffice unstable is the next coming KOffice 1.5 version. You might want to get it in order to test it or to develop on it or to write docs. This is for advanced users.
+
+<p><b>Note</b>: <i>trunk</i> is now for the <i>Qt4/KDE4</i> port and does not compile right now. If you want to work on that, please send a mail to the koffice-devel mailing list.</p>
+
+<p>KOffice unstable is the next coming KOffice 1.6 version (for getting the 1.5 code, just change 1.6 to 1.5). You might want to get it in order to test it or to develop on it or to write docs. This is for advanced users.
 </p>
 <p>You need qt >3.3.0 + headers (devel or dev packages if you use qt from your distribution), kdelibs >= 3.4.0 + headers (devel or dev packages if you use kdelibs from your distribution), arts >=1.4
 </p>
@@ -14,7 +17,7 @@
 <p>Please refer to <a href="http://mail.kde.org/pipermail/kexi/2005-October/000025.html">http://mail.kde.org/pipermail/kexi/2005-October/000025.html</a> to know more about setting some environment variable in order not to crush your existing KOffice installation and to <a href="http://developer.kde.org/documentation/other/developer-faq.html#q2.18.2">http://developer.kde.org/documentation/other/developer-faq.html#q2.18.2</a>.</p>
 
 <pre>
-    $ svn co svn://anonsvn.kde.org/home/kde/trunk/koffice
+    $ svn co svn://anonsvn.kde.org/home/kde/branches/koffice/1.6/koffice/
     $ cd koffice
     $ make -f Makefile.cvs
     $ ./configure 
