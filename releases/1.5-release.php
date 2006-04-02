@@ -15,14 +15,14 @@
 
  <h2>Native Support for the OpenDocument File Format</h2>
 <p>
- The spread of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument File format (ODF)</a> is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control the future of their own documents and also ensure that all documents will always be possible to read at any time in the future.
+ The spread of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument File format (ODF)</a> is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the opportunity to control the future of their own documents and also ensure that all documents can always be read at any time in the future.
 </p>
 <p>
  KOffice was the first to support, and now with 1.5 is the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base, thus making ODF into a true standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
 <p>
- KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also supports ODF, although not fully yet.</p>
+ KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also support ODF, although not yet fully.</p>
 <p>
- Great care has been taken to ensure interoperability with other office software that supports OpenDocument, most notably OpenOffice.org.  We acknowledge, however, that the support and interoperability is not perfect yet. We hope to be able to quickly recognize and fix the incompatibilities that do exist in the upcoming 1.5.1 and 1.5.2 bugfix releases.
+ Great care has been taken to ensure interoperability with other office software that supports OpenDocument, most notably OpenOffice.org.  We acknowledge, however, that its support and interoperability are not perfect yet. We hope to be able to quickly recognize and fix the incompatibilities that do exist in the upcoming 1.5.1 and 1.5.2 bugfix releases.
 </p>
 
  <h2>Killer Applications</h2>
@@ -48,7 +48,7 @@
   <p>
   Using Kexi, a new database project can be set up in less than one minute 
   as a single efficient file, without a need for administering servers. 
-  When needed, MySQL server can be used for storage or existing project 
+  When needed, MySQL server can be used for storage or existing projects 
   can be imported from MySQL server of MS Access file. The final version 
   focuses on the data exchangeability and server support.
  </p>
