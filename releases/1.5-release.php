@@ -32,7 +32,7 @@
 
  <h2>Killer Applications</h2>
  <p>
- KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="">Krita</a>, a paint application with lots of image manipulation features, <a href="">Karbon</a>, a vector graphics application and <a href="">Kivio</a>, a Visio&reg; style flowcharting application. It also includes <a href="">Kexi</a>, an integrated environment for creating database applications and <a href="">KPlato</a> a program for project management.</p>
+ KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. It also includes <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications and <a href="http://www.koffice.org/kplato/">KPlato</a> a program for project management.</p>
 
  <p> 
  Even as part of a suite, some of these applications are outstanding in their field:
@@ -41,9 +41,9 @@
  <ul>
  <li>
   <p>
-  <b>Krita</b> is posed to become the leading pixel based application in the
+  <b>Krita</b> is poised to become the leading pixel based application in the
   open source world. It already has the best foundation of all free paint 
-  programs and pixel editors with full color model indepency and its 
+  programs and pixel editors with its full color model indepency and its 
   plug-in based architecture. It does not yet have the largest number of
   features, filters and plug-ins but is acquiring them at a trememdous
   speed.
@@ -83,12 +83,14 @@
 
  <h3>Announcement</h3>
  <ul>
-  <li><a href="/announcements/announce-1.5.php">Announcement</a></li>
+  <li>The full <a href="/announcements/announce-1.5.php">Announcement</a>
+      contains much more detailed information about news in KOffice 1.5.</li>
  </ul>
  
  <h3>Changelog</h3>
  <ul>
-  <li><a href="/announcements/changelog-1.5.php">Changelog</a></li>
+  <li>The <a href="/announcements/changelog-1.5.php">Changelog</a>
+      contains <b>all</b> the gory details that anybody would ever want.</li>
  </ul>
 
  <h3>Download</h3>
