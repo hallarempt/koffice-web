@@ -73,7 +73,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 
     <p><a href="./talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
 Info Tag in Augsburg. (German)</a></p>
-    <p><a href="./krita-fosdem2006.pdf">The slides for Bart Coppen's Krita presentation at Fosdem
+    <p><a href="./krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
 2006.</a></p>
     <p><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></p>
 
