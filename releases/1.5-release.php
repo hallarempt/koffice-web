@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
- <h1>The KOffice Announces KOffice version 1.5.</h1>
+ <h1>The KOffice Announces KOffice version 1.5 Code Name Evening Star.</h1>
 
  <p>
  The KOffice team is proud to announce what might be the most important 
@@ -15,10 +15,10 @@
 
  <h2>Native Support for the OpenDocument File Format</h2>
 <p>
- The spreading of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument file format (ODF)</a> is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control the future of their own documents and also ensure that all documents will always be possible to read at any time in the future.
+ The spread of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument File format (ODF)</a> is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control the future of their own documents and also ensure that all documents will always be possible to read at any time in the future.
 </p>
 <p>
- KOffice 1.5 is the second office suite to announce support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base, thus making ODF into a true standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
+ KOffice was the first to support, and now with 1.5 is the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base, thus making ODF into a true standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
 <p>
  KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also supports ODF, although not fully yet.</p>
 <p>
