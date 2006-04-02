@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
- <h1>The KOffice Announces KOffice version 1.5 Code Name Evening Star.</h1>
+ <h1>The KOffice Project Announces version 1.5 Code Name Evening Star.</h1>
 
  <p>
  The KOffice team is proud to announce what might be the most important 
@@ -15,7 +15,12 @@
 
  <h2>Native Support for the OpenDocument File Format</h2>
 <p>
- The spread of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument File format (ODF)</a> is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the opportunity to control the future of their own documents and also ensure that all documents can always be read at any time in the future.
+ The spread of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS
+ OpenDocument File format (ODF)</a> is widely regarded as one of the most
+ important developments in the whole IT industry right now. It will give 
+ users world-wide the opportunity to control the future of their own
+ documents and also ensure that all documents can always be read at any
+ time in the future.
 </p>
 <p>
  KOffice was the first to support, and now with 1.5 is the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base, thus making ODF into a true standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
@@ -36,7 +41,16 @@
  <ul>
  <li>
   <p>
-  <b>Krita</b> is ...
+  <b>Krita</b> is posed to become the leading pixel based application in the
+  open source world. It already has the best foundation of all free paint 
+  programs and pixel editors with full color model indepency and its 
+  plug-in based architecture. It does not yet have the largest number of
+  features, filters and plug-ins but is acquiring them at a trememdous
+  speed.
+  </p>
+  <p>
+  With Krita 1.5, the gauntlet has been thrown. Let the battle of the 
+  graphics scene begin.
   </p>
  </li>
  <li>
