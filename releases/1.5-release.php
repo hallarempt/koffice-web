@@ -39,16 +39,12 @@
  <ul>
  <li>
   <p>
-  <b>Krita</b> is poised to become the leading pixel based application in the
-  open source world. It already has the best foundation of all free paint 
-  programs and pixel editors with its full color model indepency and its 
-  plug-in based architecture. It does not yet have the largest number of
-  features, filters and plug-ins but is acquiring them at a trememdous
-  speed.
-  </p>
-  <p>
-  With Krita 1.5, the gauntlet has been thrown. Let the battle of the 
-  graphics scene begin.
+  <b>Krita</b> is a pixel-based image application with layers and  
+  full colorspace indepency and a versatile 
+  plug-in based architecture. Krita has advanced tremendously since
+  the first released version and now sports: L*a*b and CMYK colorspaces, scripting
+  adjustment layers, layer groups and a first preview release of a natural
+  media simulation colorspace for watercolours. 
   </p>
  </li>
  <li>
