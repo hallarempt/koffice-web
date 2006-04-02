@@ -1,16 +1,14 @@
 <?php
-  $page_title='KOffice 1.5 Release Notes';
+  $page_title='The KOffice Project Announces version 1.5, "Evening Star".';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
 ?>
 
- <h1>The KOffice Project Announces version 1.5 Code Name Evening Star.</h1>
-
  <p>
  The KOffice team is proud to announce what might be the most important 
- Open Source Software release for a long time: KOffice 1.5.  You might ask 
- yourself why this is so.  Read on...
+ Open Source Software release for a long time: KOffice 1.5.  If you think
+ that is taking things too far, then read on...
  </p>
 
  <h2>Native Support for the OpenDocument File Format</h2>
