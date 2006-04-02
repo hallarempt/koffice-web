@@ -22,12 +22,38 @@
 <p>
  KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also supports ODF, although not fully yet.</p>
 <p>
- Great care has been taken to ensure interoperability with other office software that also use OpenDocument, most notably OpenOffice.org.  We acknowledge, however, that the support and interoperability is not perfect yet. We hope to be able to quickly recognize and fix the incompatibilities that do exist in the upcoming 1.5.1 and 1.5.2 bugfix releases.
+ Great care has been taken to ensure interoperability with other office software that supports OpenDocument, most notably OpenOffice.org.  We acknowledge, however, that the support and interoperability is not perfect yet. We hope to be able to quickly recognize and fix the incompatibilities that do exist in the upcoming 1.5.1 and 1.5.2 bugfix releases.
 </p>
 
  <h2>Killer Applications</h2>
+ <p>
+ KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="">Krita</a>, a paint application with lots of image manipulation features, <a href="">Karbon</a>, a vector graphics application and <a href="">Kivio</a>, a Visio&reg; style flowcharting application. It also includes <a href="">Kexi</a>, an integrated environment for creating database applications and <a href="">KPlato</a> a program for project management.</p>
+
  <p> 
+ Even as part of a suite, some of these applications are outstanding in their field:
+ </p> 
+
+ <ul>
+ <li>
+  <p>
+  <b>Krita</b> is ...
+  </p>
+ </li>
+ <li>
+  <p>
+  KOffice 1.5 contains the much expected final 1.0 version of Kexi - the data 
+  management application that is the KOffice counterpart to MS Access or 
+  FileMaker. 
+  </p>
+  <p>
+  Using Kexi, a new database project can be set up in less than one minute 
+  as a single efficient file, without a need for administering servers. 
+  When needed, MySQL server can be used for storage or existing project 
+  can be imported from MySQL server of MS Access file. The final version 
+  focuses on the data exchangeability and server support.
  </p>
+ </li>
+ </ul>
 
  <h2>The Fastest Development Team in the West</h2>
  <p> 
@@ -38,6 +64,8 @@
  <p> 
  </p>
 
+
+ <h2>Additional and More Detailed Information</h2>
 
  <h3>Announcement</h3>
  <ul>
