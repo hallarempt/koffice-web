@@ -53,7 +53,7 @@
  </li>
  <li>
   <p>
-  KOffice 1.5 contains the much expected final 1.0 version of Kexi - the data 
+  <b>Kexi</b> 1.0 is the much expected final version of the data 
   management application that is the KOffice counterpart to MS Access or 
   FileMaker. 
   </p>
