@@ -104,7 +104,7 @@
 <p>
 KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter.  <i>In the final 1.5 release, the charting application KChart will also use OpenDocument as the default format.</i></p>
 <p>
-The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents will always be possible to read at any time in the future.
+The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents can be read at any time in the future.
 </p>
 <p>
 KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to ensure interoperability with other office software that also use OpenDocument.
@@ -115,13 +115,13 @@ KOffice was the first office suite that announced support for OpenDocument and n
         <div align="justify">
         <strong>Enhanced Accessibility for Users with Disabilities</strong>:
 <p>
-The decision of the Commonwealth of Massachussetts to base its future document format on open standards started a great debate with many different people and organization taking part.  The start of it was Microsofts assertion that programs using the OpenDocument file format could not be used by people with disabilities.
+The decision of the Commonwealth of Massachussetts to base its future document format on open standards started a great debate with many different people and organization taking part.  The start of it was Microsoft's assertion that programs using the OpenDocument file format could not be used by handicapped people.
 </p>
 <p>
-The direct outcome of this debate was that OpenOffice.org, KOffice and vendors of other office software started to work hard on rectifying this problem.  This version of KOffice has support for enhanced accessibility through the means of mouseless operation and text-to-speech functionality.
+The direct outcome of this debate was that OpenOffice.org, KOffice and vendors of other office software started to work hard on rectifying this situation.  This version of KOffice has support for enhanced accessibility through the means of mouseless operation and text-to-speech functionality.
 </p>
 <p>
-It is therefore our hope that KOffice will be possible to use even for users with disabilities, and we are very interested in feedback for this.
+It is therefore our hope that KOffice can in future be used even by handicapped users, and we are very interested in feedback on this.
 </p>
         </div>
       </li>
@@ -133,7 +133,9 @@ This version of KOffice features a start of a unified scripting solution called 
 <a href="http://www.ruby-lang.org/">Ruby</a>.
 </p>
 <p>
-Kross is easy to include into programs previously lacking scripting abilities, and is included in this version as a technology preview. <i>So far, only Krita and Kexi are enhanced with the Kross engine.</i> We would also like to point out that the API might change in the future and expect Kross to be fully integrated for KOffice version 2.0.
+Kross is easy to include into programs previously lacking scripting abilities, and is included in this version as a technology preview.
+<i>So far, only Krita and Kexi are improved by means of the Kross engine.</i>
+We would also like to point out that the API might change in the future and expect Kross to be fully integrated into KOffice version 2.0.
 </p>
         </div>
       </li>
@@ -159,7 +161,7 @@ exchangeability and server support.
         <div align="justify">
         <strong>Technology Preview of a New Project Management and Planning Application: KPlato</strong>:
 <p>
-KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that lets the user control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
+KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that allows users to control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
 </p>
 <p>
 With this release, KPlato already offers various charts (gantt, pert), scheduling capabilities, calendars, resources, tasks and subtasks, detecting critical paths and resources as well as generating a work breakdown structure. KPlato can also be embedded into other KOffice applications.
