@@ -21,7 +21,7 @@
  time in the future.
 </p>
 <p>
- KOffice was the first to support, and now with 1.5 the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base. This makes ODF into a true industry standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
+ KOffice was the first to support, and now with 1.5 the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base. This makes ODF a true industry standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
 <p>
  KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also support ODF, although not yet fully.</p>
 <p>
@@ -39,12 +39,12 @@
  <ul>
  <li>
   <p>
-  <b>Krita</b> is a full-featured pixel-based image application with layers and  
-  full colorspace indepency and a versatile 
+  <b>Krita</b> is a full-featured pixel-based image application with layer support,
+  full colorspace independence and a versatile 
   plug-in based architecture. Krita has advanced tremendously since
   the first released version and now sports: L*a*b and CMYK colorspaces, scripting,
   adjustment layers, layer groups and a first preview release of a natural
-  media simulation colorspace for watercolours. 
+  media simulation colorspace for watercolors. 
   </p>
  </li>
  <li>
@@ -55,10 +55,10 @@
   </p>
   <p>
   Using Kexi, a new database project can be set up in less than one minute 
-  as a single efficient file, without a need for administering servers. 
-  When needed, a MySQL or PostgreSQL server can be used for storage or 
-  existing projects can be imported from a MySQL or PostgreSQL server or 
-  MS Access file. The final version 
+  as a single efficient file, without the need for administering servers. 
+  When needed, MySQL or PostgreSQL servers can be used for storage, or 
+  existing projects can be imported from MySQL or PostgreSQL servers or 
+  MS Access files. The final version 
   focuses on the data exchangeability and server support.
  </p>
  </li>
