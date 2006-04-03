@@ -30,7 +30,7 @@
 
  <h2>Killer Applications</h2>
  <p>
- KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. It also includes <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications and <a href="http://www.koffice.org/kplato/">KPlato</a> a program for project management.</p>
+ KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application, and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. It also includes <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications, and <a href="http://www.koffice.org/kplato/">KPlato</a>, a program for project management.</p>
 
  <p> 
  Even as parts of a suite, some of these applications are outstanding in their field:
