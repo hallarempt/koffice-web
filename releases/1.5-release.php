@@ -1,5 +1,5 @@
 <?php
-  $page_title='The KOffice Project Announces version 1.5, "Evening Star".';
+  $page_title='The KOffice Project Announces version 1.5, "Evening Star"';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -21,7 +21,7 @@
  time in the future.
 </p>
 <p>
- KOffice was the first to support, and now with 1.5 is the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base, thus making ODF into a true standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
+ KOffice was the first to support, and now with 1.5 the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base. This makes ODF into a true industry standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
 <p>
  KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also support ODF, although not yet fully.</p>
 <p>
@@ -33,7 +33,7 @@
  KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. It also includes <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications and <a href="http://www.koffice.org/kplato/">KPlato</a> a program for project management.</p>
 
  <p> 
- Even as part of a suite, some of these applications are outstanding in their field:
+ Even as parts of a suite, some of these applications are outstanding in their field:
  </p> 
 
  <ul>
@@ -56,12 +56,18 @@
   <p>
   Using Kexi, a new database project can be set up in less than one minute 
   as a single efficient file, without a need for administering servers. 
-  When needed, MySQL server can be used for storage or existing projects 
-  can be imported from MySQL server of MS Access file. The final version 
+  When needed, a MySQL or PostgreSQL server can be used for storage or 
+  existing projects can be imported from a MySQL or PostgreSQL server or 
+  MS Access file. The final version 
   focuses on the data exchangeability and server support.
  </p>
  </li>
  </ul>
+
+ <p>
+  We expect the other components to reach similar status in the world of 
+  Open Source office programs as well.
+ </p>
 
  <h2>The Fastest Development Team in the West</h2>
  <p> 
