@@ -69,7 +69,7 @@
   focuses on the data exchangeability and server support.
   </p>
   <p>
-  Kexi is the first KOffice component to be <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">ported to Windows</a> and is also commercially supported by <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a>.
+  Kexi is the first KOffice component to be <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">ported to Windows</a> and is also commercially supported by <a href="http://www.openoffice.com.pl/en/kexi">OpenOffice Polska</a>.
   </p>
  </li>
  </ul>
