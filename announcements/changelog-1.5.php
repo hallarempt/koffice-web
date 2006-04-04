@@ -24,7 +24,7 @@
 </ul>
 
 
-<h3><a name="koffice_libs">KOffice Libraries</a></h3>
+<h3 id="koffice_libs">KOffice Libraries</h3>
 <em>Changes:</em>
 <ul>
  <li>Sheet/Page tab bar in KSpread/Kivio can now be controlled via mouse wheel.</li>
@@ -47,12 +47,12 @@
 </ul>
 
 <!--
-<h3><a name="koshell">KOffice Workspace (koshell)</a></h3>
+<h3 id="koshell">KOffice Workspace (koshell)</h3>
 <ul>
 </ul>
 -->
 
-<h3><a name="kword">KWord</a></h3>
+<h3 id="kword">KWord</h3>
 
 <em>New features:</em>
 <ul>
@@ -112,7 +112,7 @@
  <li>Some table bugs still remain. </li>
 </ul>
 
-<h3><a name="kspread">KSpread</a></h3>
+<h3 id="kspread">KSpread</h3>
 <em>New features:</em>
 <ul>
  <li>OpenDocument is now the default file format</li>
@@ -133,7 +133,7 @@
 -->
 
 
-<h3><a name="kpresenter">KPresenter</a></h3>
+<h3 id="kpresenter">KPresenter</h3>
 <em>New features:</em>
 <ul>
  <li>very much improved OpenDocument support</li>
@@ -160,7 +160,7 @@
 </ul>
 -->
 
-<h3><a name="kivio">Kivio</a></h3>
+<h3 id="kivio">Kivio</h3>
 <em>New features:</em>
 <ul>
  <li>Automatic guidelines</li>
@@ -170,7 +170,7 @@
 </ul>
 
 
-<h3><a name="kexi">Kexi</a></h3>
+<h3 id="kexi">Kexi</h3>
 
 <p>Changes since the release of <a href="http://kexi-project.org/wiki/wikiview/index.php?0.9Announcement">Kexi 0.9</a>.</p>
 
@@ -340,7 +340,7 @@
 </ul>
 -->
 
-<h3><a name="krita">Krita</a></h3>
+<h3 id="krita">Krita</h3>
 <em>New features:</em>
 <ul>
  <li>Support for a number of colorspaces (of which many are color-managed):
@@ -457,7 +457,7 @@
 </ul>
 
 
-<h3><a name="karbon">Karbon</a></h3>
+<h3 id="karbon">Karbon</h3>
 
 <em>New features:</em>
 <ul>
@@ -506,7 +506,7 @@
  <li>114429 The color picker is bad: Karbon now uses the Krita color choosers.</li>
 </ul>
 
-<h3><a name="kplato">KPlato</a></h3>
+<h3 id="kplato">KPlato</h3>
 <em>New features:</em>
 <ul>
  <li>Resource management</li>
@@ -531,7 +531,7 @@
 </ul>
 
 
-<h3><a name="kchart">KChart</a></h3>
+<h3 id="kchart">KChart</h3>
 <em>Features:</em>
 <ul>
  <li>OpenDocument is now the default file format (not working in the beta)</li>
@@ -544,13 +544,13 @@
  <li>All the graphics related bugs in bugs.kde.org have been fixed</li>
 </ul>
 
-<h3><a name="kformula">KFormula</a></h3>
+<h3 id="kformula">KFormula</h3>
 <ul>
 <li>Fix embedding
 </ul>
 
 
-<h3><a name="filters">Filters</a></h3>
+<h3 id="filters">Filters</h3>
 <!--
 <em>KWord:</em>
 <ul>
