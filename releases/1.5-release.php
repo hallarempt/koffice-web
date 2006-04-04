@@ -7,7 +7,8 @@
 
 <p align="justify">
   DATELINE APRIL 11, 2006<br />
-  FOR IMMEDIATE RELEASE
+  <!-- FOR IMMEDIATE RELEASE -->
+  EMBARGO - DO NOT PUBLISH
 </p>
 
  <p>
@@ -35,7 +36,7 @@
 
  <h2>Killer Applications</h2>
  <p>
-  KOffice is the most comprehensive office suite in existence. In addition to the basic productivity applications, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application, and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. Other components are <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications, and <a href="http://www.koffice.org/kplato/">KPlato</a>, a program for project management.</p>
+  KOffice is the most comprehensive office suite in existence. In addition to the aforementioned basic productivity applications, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application, and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. Other components are <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications, and <a href="http://www.koffice.org/kplato/">KPlato</a>, a program for project management.</p>
 
  <p> 
  Even as parts of a suite, some of these applications are outstanding in their field:
@@ -78,10 +79,10 @@
   The KOffice team has been able to keep development speed very high. The reason for this is a very sound and easy to work with code base. It also builds on a solid foundation made up of the Qt library and the KDE base libraries.
  </p>
  <p>
-  Despite having more components than any other office suite, things are improving very quickly.  Version 1.5 features OpenDocument as the default file format, introduction of a unified scripting framework, enhanced accessibility for users with disabilities, the first major release of Kexi and a technology preview of KPlato, a new project managment application.  You can read more about it in the <a href="/announcements/announce-1.5.php">full announcement</a>.
+  Despite having more components than any other office suite, things are improving very quickly.  Version 1.5 features OpenDocument as the default file format, introduction of a unified scripting framework, enhanced accessibility for users with disabilities, the first major release of Kexi and a technology preview of KPlato, a new project management application.  You can read more about it in the <a href="/announcements/announce-1.5.php">full announcement</a>.
  </p>
  <p>
-  KOffice has increased its developer base 100% from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We continue to see a healthy growth in our developer community, which bodes well for the future. If you want to make a difference, then consider joining the fun and excitement that is the KOffice development team.  This offer does not only apply for coders; we also need a healthy mix of documentors, graphics artists, usability and accessibility experts and web designers.
+  KOffice has doubled the size of its developer base from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We continue to see a healthy growth in our developer community, which bodes well for the future. If you want to make a difference, then consider joining the fun and excitement that is the KOffice development team.  This offer does not only apply for coders; we also need a healthy mix of documentors, graphics artists, usability and accessibility experts and web designers.
  </p>
  <p> 
   If we allow ourselves a look into the future, KOffice 2.0 will be released around the new year 2006/2007. It will build on the same platform as KDE 4.0, which means immediate portability to Windows and MacOS X. KOffice 2.0 will also include improved font handling, change management as well as improved integration.
