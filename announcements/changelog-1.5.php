@@ -37,6 +37,7 @@
   <li>Fixed entering text. Repaint and focusing fixed.</li>
   <li>Better support for multiline property captions.</li>
   </ul>
+ </li>
  <li><em>Scripting library</em> (Kross, in beta stage) moved to from Kexi to KOffice libraries for reuse in other KOffice applications.
   <ul>
   <li>Let everything, interpreters and wrappers, be a plugin; load plugins only on demand.</li>
@@ -44,6 +45,7 @@
   <li>Integrated Zope RestrictedPython to provide a restricted python environment to execute Python scripting code in a secure sandbox.</li>
   <li>Added bindings for Python and Ruby programming languages.</li>
   </ul>
+ </li>
 </ul>
 
 <!--
@@ -69,7 +71,7 @@
    <li>Inserting frames can now also be done by pressing Return</li>
    <li>A "Select Frame" shortcut can now be configured</li>
    <li>Single, 1.5, and double line spacing shortcuts can now be configured</li>
-   <li>Text-to-speech integration
+   <li>Text-to-speech integration</li>
   </ul>
  </li>
  <li>Overwrite mode (activated with the "Insert" key)</li>
@@ -87,17 +89,17 @@
 <ul>
  <li><em>OASIS OpenDocument support</em>
   <ul>
-   <li>Fixed loading of headers and footers (#107424)
-   <li>Implemented saving of headers and footers
-   <li>Fix for text:h without outline-level
-   <li>Simplified the XML by removing spurious <span> tags due to misspelled words
-   <li>Save office:font-face-decls tag so that OOo loads the fonts
-   <li>Fixed loading of font sizes specified as a percentage
-   <li>Implemented loading of list indentation (space-before) (#109223)
-   <li>Improved OOo compatibility when saving page breaks
-   <li>Save first page number the right way so that OOo can load it
-   <li>Save bookmarks
-   <li>Load and save frame styles, and table styles.
+   <li>Fixed loading of headers and footers (#107424)</li>
+   <li>Implemented saving of headers and footers</li>
+   <li>Fix for text:h without outline-level</li>
+   <li>Simplified the XML by removing spurious <span> tags due to misspelled words</li>
+   <li>Save office:font-face-decls tag so that OOo loads the fonts</li>
+   <li>Fixed loading of font sizes specified as a percentage</li>
+   <li>Implemented loading of list indentation (space-before) (#109223)</li>
+   <li>Improved OOo compatibility when saving page breaks</li>
+   <li>Save first page number the right way so that OOo can load it</li>
+   <li>Save bookmarks</li>
+   <li>Load and save frame styles, and table styles.</li>
   </ul>
  </li>
  <li>Many fixes to the text view mode</li>
@@ -255,33 +257,33 @@
 
 <em>CSV Data Import and Export</em>
 <ul>
-  <li>Added support for setting primary key (including autodetection).
-  <li>Added support for 'first row contains column names' flag (including autodetection).
-  <li>Column types and delimiting character are autodetected. Empty cells are supported.
-  <li>Different encoding can be selected.
-  <li>Added clipboard as target for data exporting.
-  <li>Added "Always use this encoding when importing CSV data files" option to "CSV Import Options" dialog.
-  <li>CSV Export dialog added (also for copying to clipboard) with storable export options.
-  <li>Optimization for large data: only about 100 rows are loaded for preview. Progress dialog added on dialog creation (opening can be cancelled). Importing can be cancelled as well.
+  <li>Added support for setting primary key (including autodetection).</li>
+  <li>Added support for 'first row contains column names' flag (including autodetection).</li>
+  <li>Column types and delimiting character are autodetected. Empty cells are supported.</li>
+  <li>Different encoding can be selected.</li>
+  <li>Added clipboard as target for data exporting.</li>
+  <li>Added "Always use this encoding when importing CSV data files" option to "CSV Import Options" dialog.</li>
+  <li>CSV Export dialog added (also for copying to clipboard) with storable export options.</li>
+  <li>Optimization for large data: only about 100 rows are loaded for preview. Progress dialog added on dialog creation (opening can be cancelled). Importing can be cancelled as well.</li>
 </ul>
 
 <em>MS Access Database Import</em>
 <ul>
-  <li>Text data is properly decoded (object names and data).
-  <li>Fixed  handling for non-latin1 filenames.
-  <li>Fixed date, date/time types handling (including Y2k problem for years &gt;=1930) and currency type.
+  <li>Text data is properly decoded (object names and data).</li>
+  <li>Fixed  handling for non-latin1 filenames.</li>
+  <li>Fixed date, date/time types handling (including Y2k problem for years &gt;=1930) and currency type.</li>
 </ul>
 
 <em>Data Table Widget</em>
 <ul>
-  <li>Fixes for data updating and redrawing.
-  <li>Combo box popup behaves more like a normal combo box (highlighting, selecting).
-  <li>Fixed possible crashes, invalid repainting, added more keyboard shortcuts.
-  <li>Fixed switching sort order.
-  <li>Fixed entering row number in the row navigator (the same within forms).
-  <li>Usability: Date, Date/Time and Time cell editors completely reimplemented.
-  <li>Data for large table view is destroyed without blocking GUI (the same within forms).
-  <li>Date, time and date/time values are displayed using KDE settings.
+  <li>Fixes for data updating and redrawing.</li>
+  <li>Combo box popup behaves more like a normal combo box (highlighting, selecting).</li>
+  <li>Fixed possible crashes, invalid repainting, added more keyboard shortcuts.</li>
+  <li>Fixed switching sort order.</li>
+  <li>Fixed entering row number in the row navigator (the same within forms).</li>
+  <li>Usability: Date, Date/Time and Time cell editors completely reimplemented.</li>
+  <li>Data for large table view is destroyed without blocking GUI (the same within forms).</li>
+  <li>Date, time and date/time values are displayed using KDE settings.</li>
 </ul>
 
 <em>Main Window</em>
@@ -345,15 +347,15 @@
 <ul>
  <li>Support for a number of colorspaces (of which many are color-managed):
   <ul>
-   <li>cmyk8
-   <li>cmyk16
-   <li>rgb16
-   <li>gray16
-   <li>rgb-half
-   <li>rgb-float16
-   <li>rgb-float32
-   <li>lab16
-   <li>lms16
+   <li>cmyk8</li>
+   <li>cmyk16</li>
+   <li>rgb16</li>
+   <li>gray16</li>
+   <li>rgb-half</li>
+   <li>rgb-float16</li>
+   <li>rgb-float32</li>
+   <li>lab16</li>
+   <li>lms16</li>
   </ul>
  </li>
  <li>use KOffice documents as layers</li>
@@ -546,7 +548,7 @@
 
 <h3 id="kformula">KFormula</h3>
 <ul>
-<li>Fix embedding
+<li>Fix embedding</li>
 </ul>
 
 
