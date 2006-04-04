@@ -70,7 +70,10 @@
   The KOffice team has been able to keep development speed very high. The reason for this is a very sound and easy to work with code base. It also builds on a solid foundation made up of the Qt library and the KDE base libraries.
  </p>
  <p>
-  Despite having more components than any other office suite, things are improving very quickly.  KOffice has increased its developer base 100% from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We continue to see a healthy growth in our developer community, which bodes well for the future. If you want to make a difference, then consider joining the fun and excitement that is the KOffice development team.  This offer does not only apply for coders; we also need a healthy mix of documentors, graphics artists, usability and accessibility experts and web designers.
+  Despite having more components than any other office suite, things are improving very quickly.  Version 1.5 features OpenDocument as the default file format, introduction of a unified scripting framework, enhanced accessibility for users with disabilities, the first major release of Kexi and a technology preview of KPlato, a new project managment application.  You can read more about it in the <a href="/announcements/announce-1.5.php">full announcement</a>.
+ </p>
+ <p>
+  KOffice has increased its developer base 100% from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We continue to see a healthy growth in our developer community, which bodes well for the future. If you want to make a difference, then consider joining the fun and excitement that is the KOffice development team.  This offer does not only apply for coders; we also need a healthy mix of documentors, graphics artists, usability and accessibility experts and web designers.
  </p>
  <p> 
   If we allow ourselves a look into the future, KOffice 2.0 will be released around the new year 2006/2007. It will build on the same platform as KDE 4.0, which means immediate portability to Windows and MacOS X. KOffice 2.0 will also include improved font handling, change management as well as improved integration.
