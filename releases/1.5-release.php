@@ -25,7 +25,7 @@
 <p>
  KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also support ODF, although not yet fully.</p>
 <p>
- Great care has been taken to ensure interoperability with other office software that supports OpenDocument, most notably OpenOffice.org.  We acknowledge, however, that its support and interoperability are not perfect yet. We hope to be able to quickly recognize and fix the incompatibilities that do exist in the upcoming 1.5.1 and 1.5.2 bugfix releases.
+ Great care has been taken to ensure interoperability with other office software that supports OpenDocument, most notably OpenOffice.org.  We acknowledge, however, that the ODF support and interoperability is not perfect yet. We hope to be able to quickly identify and fix the incompatibilities that do exist in the upcoming 1.5.1 and 1.5.2 bugfix releases.
 </p>
 
  <h2>Killer Applications</h2>
