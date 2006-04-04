@@ -6,8 +6,9 @@
 ?>
 
 <p align="justify">
-  DATELINE MARCH 13, 2006<br />
-  FOR IMMEDIATE RELEASE
+   DATELINE APRIL 11, 2006<br />
+<!-- FOR IMMEDIATE RELEASE -->
+   EMBARGO - DO NOT PUBLISH
 </p>
 <h2>
   KDE Ships New Release of Major Enhancements to Free Integrated Office Suite
@@ -18,7 +19,7 @@
     Release for Linux and Other UNIXes 
     </strong></p> 
 
-  <p align="justify">March 13, 2006 (The INTERNET).
+  <p align="justify">April 11, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   final release of
   <a href="http://www.koffice.org/">KOffice</a> 1.5.</p>
@@ -27,8 +28,6 @@
   KOffice is an integrated office suite for KDE which utilizes free and
   open standards for its document formats, component communication and
   component embedding.
-  This release is principally a public testing and developer solicitation
-  release. Help is welcome!
 </p>
 <p align="justify">
     This release includes:
