@@ -1,5 +1,5 @@
 <?php
-  $page_title='The KOffice Project Announces version 1.5, "Evening Star"';
+  $page_title='The KOffice Project Announces version 1.5"';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -17,11 +17,11 @@
  OpenDocument File format (ODF)</a> is widely regarded as one of the most
  important developments in the whole IT industry right now. It will give 
  users world-wide the opportunity to control the future of their own
- documents and also ensure that all documents can always be read at any
+ data and also ensure that all documents can always be read at any
  time in the future.
 </p>
 <p>
- KOffice was the first to support, and now with 1.5 the second office suite to announce full support for OpenDocument as the default file format, and the first one not based on the OpenOffice.org code base. This makes ODF a true industry standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
+ KOffice was the first to support, and now with 1.5 the second office suite to announce full support for OpenDocument as the default file format. It is also the first one not based on the OpenOffice.org code base, which makes ODF into a true industry standard. KOffice 1.5 is therefore the version that lets enterprises and organizations all over the world choose the office suite that fits their needs best.</p>
 <p>
  KOffice 1.5 offers native ODF support for the important productivity applications KWord (odt), KSpread (ods), and KPresenter (odp).  In addition to that, the supporting applications KChart (.odc) and KFormula (.odf) also support ODF, although not yet fully.</p>
 <p>
@@ -49,9 +49,10 @@
  </li>
  <li>
   <p>
-  <b>Kexi</b> 1.0 is the much expected final version of the data 
-  management application that is the KOffice counterpart to MS Access or 
-  FileMaker. 
+  <b>Kexi</b> 1.0 is the much awaited data management application
+  that is the KOffice counterpart to MS Access or FileMaker. Kexi integrates
+  the data and GUI into one file that can be easily sent over the internet
+  as an email attachment.
   </p>
   <p>
   Using Kexi, a new database project can be set up in less than one minute 
@@ -64,19 +65,20 @@
  </li>
  </ul>
 
+ <h2>Extremely Fast Paced Development</h2>
+ <p> 
+  The KOffice team has been able to keep development speed very high. The reason for this is a very sound and easy to work with code base. It also builds on a solid foundation made up of the Qt library and the KDE base libraries.
+ </p>
  <p>
-  We expect the other components to reach similar status in the world of 
-  Open Source office programs as well.
+  Despite having more components than any other office suite, things are improving very quickly.  KOffice has increased its developer base 100% from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We continue to see a healthy growth in our developer community, which bodes well for the future. If you want to make a difference, then consider joining the fun and excitement that is the KOffice development team.  This offer does not only apply for coders; we also need a healthy mix of documentors, graphics artists, usability and accessibility experts and web designers.
+ </p>
+ <p> 
+  If we allow ourselves a look into the future, KOffice 2.0 will be released around the new year 2006/2007. It will build on the same platform as KDE 4.0, which means immediate portability to Windows and MacOS X. KOffice 2.0 will also include improved font handling, change management as well as improved integration.
+ </p>
+ <p>
+  Given the development speed of KOffice, we expect most of the components to reach a best-of-breed status in the world of Open Source office programs in 1 to 2 years.
  </p>
 
- <h2>The Fastest Development Team in the West</h2>
- <p> 
- </p>
-
- <p> 
- </p>
- <p> 
- </p>
 
 
  <h2>Additional and More Detailed Information</h2>
