@@ -1,13 +1,18 @@
 <?php
-  $page_title='Press Release: KOffice Version 1.5"';
+  $page_title='Press Release: KOffice Version 1.5';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
 ?>
 
+<p align="justify">
+  DATELINE APRIL 11, 2006<br />
+  FOR IMMEDIATE RELEASE
+</p>
+
  <p>
  The KOffice team is proud to announce KOffice version 1.5. With this release,
- KOffice starts its ascend into the office suite hall of fame in the company
+ KOffice starts its ascent into the office suite hall of fame in the company
  of OpenOffice.org and MS Office.  Read on for our reason to say so...
  </p>
 
@@ -61,7 +66,10 @@
   existing projects can be imported from MySQL or PostgreSQL servers or 
   MS Access files. The final version 
   focuses on the data exchangeability and server support.
- </p>
+  </p>
+  <p>
+  Kexi is the first KOffice component to be <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">ported to Windows</a> and is also commercially supported by <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a>.
+  </p>
  </li>
  </ul>
 
@@ -81,8 +89,6 @@
  <p>
   Given the development speed of KOffice, we expect most of the components to reach a best-of-breed status in the world of Open Source office programs in 1 to 2 years.
  </p>
-
-
 
  <h2>Additional and More Detailed Information</h2>
 
