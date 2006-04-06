@@ -64,7 +64,7 @@
     </tr>
     <tr>
     <td><a href="krita/"><img src="pics/hi32-app-krita.png" alt="Krita logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="krita/">Krita</a></b> - A pixel-based image manipulation program like <i>Adobe&copy; Photoshop&reg;</i> or <i>Corel&reg; Painter&trade;.</i></td>
+    <td><b><a href="krita/">Krita</a></b> - A layered pixel image manipulation application</td>
     </tr>
 
     <tr>
