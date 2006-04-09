@@ -15,7 +15,7 @@
 </h2>
 <p align="justify">
     <strong>OpenDocument as Default File Format, Accessibility, New Project 
-    Planning Tool, Professional Color Support in Krita and Final Kexi 1.0 Version Highlight KOffice 
+    Planning Tool, Professional Color Support and Adjustment Layers in Krita and Final Kexi 1.0 Version Highlight KOffice 
     Release for Linux and Other UNIXes 
     </strong></p> 
 
@@ -78,8 +78,9 @@
     <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
 </p>
 <p align="justify">
-  KOffice 1.5 is a subproject within KDE, a powerful and easy-to-use Internet-enabled
-    desktop for Linux and other UNIXes.  Together, KDE and KOffice constitute the
+  KOffice 1.5 is a subproject within KDE, a powerful and easy-to-use 
+  Internet-enabled desktop for Linux and other UNIXes.  Together, KDE 
+  and KOffice constitute the
   only Free Software project to provide a complete desktop and productivity
   environment for Linux/UNIX.
 </p>
@@ -101,9 +102,9 @@
         <strong>OASIS OpenDocument as the Default File Format</strong>:
 
 <p>
-KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter.  <i>In the final 1.5 release, the charting application KChart will also use OpenDocument as the default format.</i></p>
+KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter. The supporting applications KChart and KFormula also support OpenDocument, although not yet fully. </p>
 <p>
-The spreading of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents can be read at any time in the future.
+The spread of the OpenDocument file format is widely regarded as one of the most important developments in the whole IT industry right now. It will give users world-wide the possibility to control their own documents and also ensure that all documents can be read at any time in the future.
 </p>
 <p>
 KOffice was the first office suite that announced support for OpenDocument and now the second to announce it as the default file format after OpenOffice.org.  This makes KOffice a member of a very select group and will lead to new deployment opportunities.  Great care has been taken to ensure interoperability with other office software that also use OpenDocument.
@@ -425,12 +426,12 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-        OpenDocument is now the default file format <i>(not working in the beta)</i>
+        OpenDocument is now the default file format (incomplete)</i>
         </div>
       </li>
       <li>
         <div align="justify">
-        new chart type: combined bars and lines <i>(not working in the beta)</i>
+        new chart type: combined bars and lines 
         </div>
       </li>
       <li>
@@ -438,11 +439,12 @@ For a list of features supported by KPlato, see
         support for first row or column as labels
         </div>
       </li>
-      <li>
+<!--      <li>
         <div align="justify">
         support for changing area when charting data from KSpread 
         </div>
       </li>
+-->
     </ul>
 <p align="justify">
   A more complete
@@ -640,7 +642,7 @@ coming days and weeks.
 <hr />
 <p align="justify">
   <font size="2">
-  <em>Press Release</em>:  Written by <a href="mailto:inge AT lysator DOT liu DOT se">Inge Wallin</a>.
+  <em>Announcement</em>:  Written by <a href="mailto:inge AT lysator DOT liu DOT se">Inge Wallin</a>.
 <!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
