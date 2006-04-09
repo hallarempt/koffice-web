@@ -62,9 +62,11 @@
   Additionally, KOffice includes robust embeddable objects:
 </p>
 <ul>
-  <li>business quality reporting software
+  <li>report generator
     (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
+  <i>Note: Kugar is deprecated in this release will be replaced with another solution.  It's only included since there are users that are already using it.</i>
   </li>
+
   <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
   </li>
