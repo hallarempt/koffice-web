@@ -113,7 +113,7 @@
   </li>
  </ul>
 
-<h2>About KOffice and KDE</2>
+<h2>About KOffice and KDE</h2>
   <p align="justify">
   KOffice is an integrated office suite for KDE which utilizes free and
   open standards for its document formats, component communication and
