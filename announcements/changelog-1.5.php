@@ -92,7 +92,7 @@
    <li>Fixed loading of headers and footers (#107424)</li>
    <li>Implemented saving of headers and footers</li>
    <li>Fix for text:h without outline-level</li>
-   <li>Simplified the XML by removing spurious <span> tags due to misspelled words</li>
+   <li>Simplified the XML by removing spurious &lt;span&gt; tags due to misspelled words</li>
    <li>Save office:font-face-decls tag so that OOo loads the fonts</li>
    <li>Fixed loading of font sizes specified as a percentage</li>
    <li>Implemented loading of list indentation (space-before) (#109223)</li>
