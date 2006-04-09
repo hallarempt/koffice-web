@@ -63,7 +63,7 @@
 </p>
 <ul>
   <li>report generator
-    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
+    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)<br>
   <i>Note: Kugar is deprecated in this release will be replaced with another solution.  It's only included since there are users that are already using it.</i>
   </li>
 
