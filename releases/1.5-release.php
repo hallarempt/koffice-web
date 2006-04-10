@@ -14,7 +14,7 @@
  <p>
  The KOffice team is proud to announce KOffice version 1.5. With this release,
  KOffice starts its ascent into the office suite hall of fame in the company
- of OpenOffice.org and MS Office.  
+ of OpenOffice.org and MS Office.
  </p>
 
  <h2>Native Support for the OpenDocument File Format</h2>
@@ -23,7 +23,7 @@
 <p>
  The spread of the <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS
  OpenDocument File format (ODF)</a> is widely regarded as one of the most
- important developments in the whole IT industry right now. It will give 
+ important developments in the whole IT industry right now. It will give
  users world-wide the opportunity to control the future of their own
  data and also ensure that all documents can always be read at any
  time in the future.
@@ -38,19 +38,19 @@
  <p>
   KOffice is already the most comprehensive office suite in existence. In addition to the basic productivity applications mentioned above, it also includes a creativity application suite featuring <a href="http://www.koffice.org/krita/">Krita</a>, a paint application with lots of image manipulation features, <a href="http://www.koffice.org/karbon/">Karbon</a>, a vector graphics application, and <a href="http://www.koffice.org/kivio/">Kivio</a>, a Visio&reg; style flowcharting application. Other components are <a href="http://www.koffice.org/kexi/">Kexi</a>, an integrated environment for creating database applications, and <a href="http://www.koffice.org/kplato/">KPlato</a>, a program for project management.</p>
 
- <p> 
+ <p>
  Even as parts of a suite, some of these applications are outstanding in their field:
- </p> 
+ </p>
 
  <ul>
  <li>
   <p>
   <b>Krita</b> is a full-featured pixel-based image application with layer support,
-  full colorspace independence and a versatile 
+  full colorspace independence and a versatile
   plug-in based architecture. Krita has advanced tremendously since
   the first released version and now sports: L*a*b and CMYK colorspaces, scripting,
   adjustment layers, layer groups and a first preview release of a natural
-  media simulation colorspace for watercolors. 
+  media simulation colorspace for watercolors.
   </p>
  </li>
  <li>
@@ -61,11 +61,11 @@
   as an email attachment.
   </p>
   <p>
-  Using Kexi, a new database project can be set up in less than one minute 
-  as a single efficient file, without the need for administering servers. 
-  When needed, MySQL or PostgreSQL servers can be used for storage, or 
-  existing projects can be imported from MySQL or PostgreSQL servers or 
-  MS Access files. The final version 
+  Using Kexi, a new database project can be set up in less than one minute
+  as a single efficient file, without the need for administering servers.
+  When needed, MySQL or PostgreSQL servers can be used for storage, or
+  existing projects can be imported from MySQL or PostgreSQL servers or
+  MS Access files. The final version
   focuses on data exchangeability and server support.
   </p>
   <p>
@@ -75,16 +75,16 @@
  </ul>
 
  <h2>Fast Paced Development</h2>
- <p> 
+ <p>
   The KOffice team has been able to keep development speed very high. The reason for this is the code base which is very sound and easy to work with. It also builds on a solid foundation made up of the Qt library and the KDE base libraries.
  </p>
  <p>
   Despite its having more components than any other office suite, things are improving very quickly.  Version 1.5 features OpenDocument as the default file format, introduction of a unified scripting framework, improved accessibility for handicapped users, the first major release of Kexi and a technology preview of KPlato, a new project management application.  You can read more about it in the <a href="/announcements/announce-1.5.php">full announcement</a>.
  </p>
  <p>
-  KOffice has doubled the size of its developer base from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We are at present experiencing a healthy growth in our developer community, which bodes well for the future. 
+  KOffice has doubled the size of its developer base from around 15 at the time of KOffice 1.4 to around 30 at the time of KOffice 1.5. We are at present experiencing a healthy growth in our developer community, which bodes well for the future.
  </p>
- <p> 
+ <p>
   Regarding future development, KOffice 2.0 will be released around the turn of the year 2006/2007. It will build on the same platform as KDE 4.0, which means immediate portability to Windows and MacOS X. KOffice 2.0 will also include improved font handling, change management and improved integration.
  </p>
  <p>
@@ -98,7 +98,7 @@
   <li>The full <a href="/announcements/announce-1.5.php">Announcement</a>
       contains much more detailed information about news in KOffice 1.5.</li>
  </ul>
- 
+
  <h3>Changelog</h3>
  <ul>
   <li>The <a href="/announcements/changelog-1.5.php">Changelog</a>
@@ -164,7 +164,7 @@
 </ul>
 <p>
   as well as a built-in thesaurus (KThesaurus)
-  and support for many different 
+  and support for many different
     <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
 </p>
 <p align="justify">
@@ -176,7 +176,7 @@
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http and ftp</a> mirrors.
 </p>
 
 <?php include("footer.inc"); ?>
