@@ -101,7 +101,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        <a name="fileformat"><strong>OASIS OpenDocument as the Default File Format</strong><a/>
+        <strong id="fileformat">OASIS OpenDocument as the Default File Format</strong>
 
 <p>
 KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter. The supporting applications KChart and KFormula also support OpenDocument, although not yet fully. </p>
@@ -115,7 +115,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
       </li>
       <li>
         <div align="justify">
-        <a name="accessibility"><strong>Enhanced Accessibility for Users with Disabilities</strong></a>
+        <strong id="accessibility">Enhanced Accessibility for Users with Disabilities</strong>
 <p>
 The decision of the Commonwealth of Massachussetts to base its future document format on open standards started a great debate with many different people and organization taking part.  The start of it was Microsoft's assertion that programs using the OpenDocument file format could not be used by handicapped people.
 </p>
@@ -129,7 +129,7 @@ It is therefore our hope that KOffice can in future be used even by handicapped 
       </li>
       <li>
         <div align="justify">
-        <a name="scripting"><strong>Start of a Unified Scripting Approach</strong></a>
+        <strong id="scripting">Start of a Unified Scripting Approach</strong>
 <p>
 This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports <a href="http://www.python.org/">Python</a> and
 <a href="http://www.ruby-lang.org/">Ruby</a>.
@@ -143,7 +143,7 @@ We would also like to point out that the API might change in the future and expe
       </li>
       <li>
         <div align="justify">
-        <a name="kexi"><strong>First Major Release of Kexi (1.0)</strong></a>
+        <strong id="kexi">First Major Release of Kexi (1.0)</strong>
 <p>
 KOffice 1.5 contains the much expected final 1.0 version of Kexi - data
 management application that is the KOffice counterpart to MS Access or
@@ -161,7 +161,7 @@ exchangeability and server support.
       </li>
       <li>
         <div align="justify">
-        <a name="kplato"><strong>Technology Preview of a New Project Management and Planning Application: KPlato</strong></a>
+        <strong id="kplato">Technology Preview of a New Project Management and Planning Application: KPlato</strong>
 <p>
 KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that allows users to control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
 </p>
@@ -453,7 +453,7 @@ For a list of features supported by KPlato, see
   <a href="http://www.koffice.org/announcements/changelog-1.5.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
-<a name="binary_packages"></a><h4>
+<h4 id="binary_packages">
   Installing KOffice 1.5 Binary Packages
 </h4>
 <p align="justify">
@@ -510,7 +510,7 @@ For a list of features supported by KPlato, see
   Requirements</a> below.
 </p>
 <p align="justify">
-  <a name="package_locations"><strong>Package Locations</strong></a>:
+  <strong id="package_locations">Package Locations</strong>:
   At the time of this release, pre-compiled packages are available for:
 </p>
 
@@ -522,7 +522,7 @@ For a list of features supported by KPlato, see
 </ul>
 
 <p align="justify">
-  <a name="windows_version"><strong>MS Windows Version</strong></a>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
+  <strong id="windows_version">MS Windows Version</strong>: Kexi installation package from OpenOffice Polska is available for <a href="http://www.kexi.pl/wiki/index.php/Kexi_for_MS_Windows">MS Windows</a>.
 </p>
 
 <p align="justify">
@@ -530,11 +530,11 @@ Please check the servers periodically for pre-compiled packages for other
 distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
-<a name="compiling"></a><h4>
+<h4 id="compiling">
   Compiling KOffice 1.5
 </h4>
 <p align="justify">
-  <a name="source_code-library_requirements"></a><strong>Library
+  <strong id="source_code-library_requirements">Library
   Requirements</strong>:
   KOffice 1.5 requires the following libraries:
 </p>
@@ -572,7 +572,7 @@ coming days and weeks.
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
-  <a name="source_code"></a><strong>Source Code</strong>:
+  <strong id="source_code">Source Code</strong>:
   The complete source code for KOffice 1.5 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http</a>
