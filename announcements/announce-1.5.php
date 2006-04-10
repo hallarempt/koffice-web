@@ -101,7 +101,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        <strong>OASIS OpenDocument as the Default File Format</strong>
+        <a name="fileformat"><strong>OASIS OpenDocument as the Default File Format</strong><a/>
 
 <p>
 KOffice now uses <a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS OpenDocument</a> as the default file format for the productivity applications KWord, KSpread, and KPresenter. The supporting applications KChart and KFormula also support OpenDocument, although not yet fully. </p>
@@ -115,7 +115,7 @@ KOffice was the first office suite that announced support for OpenDocument and n
       </li>
       <li>
         <div align="justify">
-        <strong>Enhanced Accessibility for Users with Disabilities</strong>
+        <a name="accessibility"><strong>Enhanced Accessibility for Users with Disabilities</strong></a>
 <p>
 The decision of the Commonwealth of Massachussetts to base its future document format on open standards started a great debate with many different people and organization taking part.  The start of it was Microsoft's assertion that programs using the OpenDocument file format could not be used by handicapped people.
 </p>
@@ -129,7 +129,7 @@ It is therefore our hope that KOffice can in future be used even by handicapped 
       </li>
       <li>
         <div align="justify">
-        <strong>Start of a Unified Scripting Approach</strong>
+        <a name="scripting"><strong>Start of a Unified Scripting Approach</strong></a>
 <p>
 This version of KOffice features a start of a unified scripting solution called Kross. Kross provides cross-language support for scripting (thus its name) and at present supports <a href="http://www.python.org/">Python</a> and
 <a href="http://www.ruby-lang.org/">Ruby</a>.
@@ -143,7 +143,7 @@ We would also like to point out that the API might change in the future and expe
       </li>
       <li>
         <div align="justify">
-        <strong>First Major Release of Kexi (1.0)</strong>
+        <a name="kexi"><strong>First Major Release of Kexi (1.0)</strong></a>
 <p>
 KOffice 1.5 contains the much expected final 1.0 version of Kexi - data
 management application that is the KOffice counterpart to MS Access or
@@ -161,7 +161,7 @@ exchangeability and server support.
       </li>
       <li>
         <div align="justify">
-        <strong>Technology Preview of a New Project Management and Planning Application: KPlato</strong>
+        <a name="kplato"><strong>Technology Preview of a New Project Management and Planning Application: KPlato</strong></a>
 <p>
 KOffice 1.5 is the first official release to include KPlato. KPlato is a project management application that allows users to control project schedules and resource use. It is included in KOffice 1.5 as a technology preview and full functionality is expected for version 2.0.
 </p>
