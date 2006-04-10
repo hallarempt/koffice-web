@@ -107,7 +107,7 @@
 
  <h3>Download</h3>
  <ul>
-  <li>The <a href="/announcements/1.5-download.php">Download</a>
+  <li>The <a href="1.5-download.php">Download</a>
       page contains information about downloading KOffice 1.5 in source
       and binary formats.
   </li>
