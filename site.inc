@@ -20,6 +20,6 @@ $kformulaversion='1.4.2';
 $kugarversion='1.4.2';
 $kivioversion='1.4.2';
 $karbonversion='0.2';
-$kexiversion='0.9';
+$kexiversion='1.0';
 $kplatoversion='0.5.0';
 ?>
