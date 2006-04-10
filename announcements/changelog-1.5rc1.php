@@ -44,12 +44,12 @@
 <li>Dependency recalculation speedup.</li>
 <li>Set cell text correctly when auto-filling times and dates.</li>
 <li>Application loading speedup: Delay creation of KSpell config until spellchecking facilities are actually used.</li>
-<li>Make the autofill behavior more consistent with Gnumeric / OpenOffice / Excel when a single cell is selected.</li>
+<li>Make the autofill behavior more consistent with Gnumeric / OpenOffice / Excel when a single cell is selected.
 <ul>
     <li>If the cell contains a number, the number is just duplicated to fill the selection.</li>
     <li>If the cell contains a date it produces a series of 1-day increments.</li>
     <li>If the cellcontains a time it produces a series of 1-hour increments.</li>
-</ul>
+</ul></li>
 <li>Fix Insert Series dialog not updating the display text in the affected cells.</li>
 <li>Fix preferences dialog so that current date/time are used to demonstrate locale after clicking on 'Update To Locale' button.</li>
 </ul>
@@ -142,7 +142,7 @@ all layers</li>
 
 <h3 id="kformula">KFormula</h3>
 
-<p>Excellent news: KFormula got a new maintainer: Alfredo Beaumont.
+<p>Excellent news: KFormula got a new maintainer: Alfredo Beaumont.</p>
 
 <ul>
  <li>Fix a rendering rect check that caused special symbols not to be shown

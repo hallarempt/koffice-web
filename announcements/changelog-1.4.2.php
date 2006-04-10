@@ -173,13 +173,13 @@
   (<a href="http://bugs.kde.org/show_bug.cgi?id=111203">#111203</a>)</li>
   <li>Current layer looses selection 
   (<a href="http://bugs.kde.org/show_bug.cgi?id=111201">#111201</a>)</li>
-  <li>Layer handling</li>
+  <li>Layer handling
   <ul>
     <li>always select layer list item corresponding to active layer</li>
     <li>delete layer list items when undoing VLayerCommand</li>
     <li>do not allow to delete last layer
     (see also <a href="http://bugs.kde.org/show_bug.cgi?id=111210">#111210</a>)</li>
-  </ul>
+  </ul></li>
 <li>When dragging a path to place text along, pressing shift makes the path "jump" in 45 degree steps</li>
 </ul>
 

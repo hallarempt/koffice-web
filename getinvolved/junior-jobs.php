@@ -23,25 +23,25 @@
     <th>Name of Applicant</th>
   </tr>
   <tr>
-    <td><b>KOffice lib/kopalette</b>: see last comment of the bug and implement it <a href="http://bugs.kde.org/show_bug.cgi?id=118346">http://bugs.kde.org/show_bug.cgi?id=118346</a></tt></td>
+    <td><b>KOffice lib/kopalette</b>: see last comment of the bug and implement it <a href="http://bugs.kde.org/show_bug.cgi?id=118346">http://bugs.kde.org/show_bug.cgi?id=118346</a></td>
     <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
     <td>30th January 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>: <a href="http://bugs.kde.org/show_bug.cgi?id=109189">http://bugs.kde.org/show_bug.cgi?id=109189</a></tt></td>
+    <td><b>Karbon</b>: <a href="http://bugs.kde.org/show_bug.cgi?id=109189">http://bugs.kde.org/show_bug.cgi?id=109189</a></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
     <td>30th January 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  fix units <a href="http://bugs.kde.org/show_bug.cgi?id=115010">http://bugs.kde.org/show_bug.cgi?id=115010</a></tt></td>
+    <td><b>Karbon</b>:  fix units <a href="http://bugs.kde.org/show_bug.cgi?id=115010">http://bugs.kde.org/show_bug.cgi?id=115010</a></td>
     <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
     <td>30th January 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  Usability: The color and opacity bars in the color chooser palette are backwards. <a href="http://bugs.kde.org/show_bug.cgi?id=115213">http://bugs.kde.org/show_bug.cgi?id=115213</a></tt></td>
+    <td><b>Karbon</b>:  Usability: The color and opacity bars in the color chooser palette are backwards. <a href="http://bugs.kde.org/show_bug.cgi?id=115213">http://bugs.kde.org/show_bug.cgi?id=115213</a></td>
     <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
     <td>30th January 2006</td>
     <td>-</td>
