@@ -14,10 +14,10 @@
   KDE Ships New Release of Major Enhancements to Free Integrated Office Suite
 </h2>
 <p align="justify">
-    <strong>OpenDocument as Default File Format, Accessibility, New Project 
-    Planning Tool, Professional Color Support and Adjustment Layers in Krita and Final Kexi 1.0 Version Highlight KOffice 
-    Release for Linux and Other UNIXes 
-    </strong></p> 
+    <strong>OpenDocument as Default File Format, Accessibility, New Project
+    Planning Tool, Professional Color Support and Adjustment Layers in Krita and Final Kexi 1.0 Version Highlight KOffice
+    Release for Linux and Other UNIXes
+    </strong></p>
 
   <p align="justify">April 11, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
@@ -76,12 +76,12 @@
 </ul>
 <p>
   as well as a built-in thesaurus (KThesaurus)
-  and support for many different 
+  and support for many different
     <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
 </p>
 <p align="justify">
-  KOffice 1.5 is a subproject within KDE, a powerful and easy-to-use 
-  Internet-enabled desktop for Linux and other UNIXes.  Together, KDE 
+  KOffice 1.5 is a subproject within KDE, a powerful and easy-to-use
+  Internet-enabled desktop for Linux and other UNIXes.  Together, KDE
   and KOffice constitute the
   only Free Software project to provide a complete desktop and productivity
   environment for Linux/UNIX.
@@ -89,7 +89,7 @@
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http and ftp</a> mirrors.
 </p>
 <h4>
   Principal Improvements
@@ -145,16 +145,16 @@ We would also like to point out that the API might change in the future and expe
         <div align="justify">
         <strong>First Major Release of Kexi (1.0)</strong>
 <p>
-KOffice 1.5 contains the much expected final 1.0 version of Kexi - data 
-management application that is the KOffice counterpart to MS Access or 
-FileMaker. It is designed from the ground up as a standard KDE database 
+KOffice 1.5 contains the much expected final 1.0 version of Kexi - data
+management application that is the KOffice counterpart to MS Access or
+FileMaker. It is designed from the ground up as a standard KDE database
 application.
 </p>
 <p>
-Using Kexi, a new database project can be set up in less than one minute as a 
-single efficient file, without a need for administering servers. When needed, 
-MySQL server can be used for storage or existing project can be imported from 
-MySQL server of MS Access file. The final version focuses on the data 
+Using Kexi, a new database project can be set up in less than one minute as a
+single efficient file, without a need for administering servers. When needed,
+MySQL server can be used for storage or existing project can be imported from
+MySQL server of MS Access file. The final version focuses on the data
 exchangeability and server support.
 </p>
         </div>
@@ -336,9 +336,9 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-	8 and 16 bit grayscale, CMYK and RGB colormodels, 16 and 32 bit float 
-	RGB colormodels, watercolor colormodel, 16 bit L*a*b colormodel, 
-	32 bit float LMS colormodel. Many colormodels fully support 
+	8 and 16 bit grayscale, CMYK and RGB colormodels, 16 and 32 bit float
+	RGB colormodels, watercolor colormodel, 16 bit L*a*b colormodel,
+	32 bit float LMS colormodel. Many colormodels fully support
 	colormanagement using lcms.
         </div>
       </li>
@@ -379,7 +379,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-	New filters, e.g. shadow, round corners, wavelet noise reduction, 
+	New filters, e.g. shadow, round corners, wavelet noise reduction,
 	bumpmap, tiles and sobel filter.
         </div>
       </li>
@@ -433,7 +433,7 @@ For a list of features supported by KPlato, see
       </li>
       <li>
         <div align="justify">
-        new chart type: combined bars and lines 
+        new chart type: combined bars and lines
         </div>
       </li>
       <li>
@@ -443,7 +443,7 @@ For a list of features supported by KPlato, see
       </li>
 <!--      <li>
         <div align="justify">
-        support for changing area when charting data from KSpread 
+        support for changing area when charting data from KSpread
         </div>
       </li>
 -->
@@ -462,7 +462,7 @@ For a list of features supported by KPlato, see
   KOffice 1.5 for some versions of their distribution, and in other cases
   community volunteers have done so.
   Some of these binary packages are available for free download from KDE's
-  <a href="http://download.kde.org/unstable/koffice-1.5/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.5.0/">http and ftp</a> mirrors.
   Additional binary packages, as well as updates to the packages now
   available, may become available over the coming weeks.
 </p>
@@ -484,11 +484,11 @@ For a list of features supported by KPlato, see
   KOffice developers want to make testing as easy as possible for our users.
   Therefore, we offer to you an additional
   method to testdrive KOffice 1.5.0 which doesn't require the replacement
-  of the last stable release on your system by current beta packages.</p> 
+  of the last stable release on your system by current beta packages.</p>
 <p align="justify">
-  We teamed up 
-  with the <a href="http://klik.atekon.de/">klik</a> 
-  developer team, who will provide up to date klik packages for all of KOffice. 
+  We teamed up
+  with the <a href="http://klik.atekon.de/">klik</a>
+  developer team, who will provide up to date klik packages for all of KOffice.
   klik packages may be used without
   installation (they run, similar to Mac OS X "AppDir" bundles, from a self-contained
   directory tree -- but klik compresses the tree into one single file for easier
@@ -515,7 +515,7 @@ For a list of features supported by KPlato, see
 </p>
 
 <ul>
-  <li><a href="http://download.kde.org/unstable/koffice-1.5/SuSE/">SuSE Linux 9.3 and 10.0</a></li>
+  <li><a href="http://download.kde.org/stable/koffice-1.5.0/SuSE/">SuSE Linux 9.2, 9.3, 10.0 and 10.1</a></li>
   <li><a href="http://kubuntu.org/announcements/koffice-1.5.php">Kubuntu</a></li>
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li>
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid </a></li>
@@ -575,7 +575,7 @@ coming days and weeks.
   <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.5 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.5/src/">http</a>
+  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
