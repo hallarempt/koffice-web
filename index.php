@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-    <center><a href="/announcements/announce-1.5.php"><img src="/pics/koffice1.5_v4-500.jpg" border="0" alt="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" title="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" width="500" height="336"></a></center>
+    <center><a href="/announcements/announce-1.5.php"><img src="/pics/koffice1.5_v4-500.jpg" border="0" alt="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" title="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" width="500" height="336" /></a></center>
 <!--
     <br/>
 
