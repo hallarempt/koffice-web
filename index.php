@@ -1,10 +1,15 @@
 <?php
-  $page_title = "KOffice - Integrated Office Suite";
+<!--  removed in order to get the koffice1.5-640.png image on top -->
+<!--  $page_title = "KOffice - Integrated Office Suite"; -->
   $site_root = "./";
   $site_menus = 2;
   include("koffice.inc");
   include("header.inc");
 ?>
+
+    <img src="/media/images/hotspots/koffice1.5-640.png">
+
+    <h1>KOffice - Integrated Office Suite</h1> <!-- see above, remove when page_title is used again -->
 
     <p><b>KOffice</b> is a free, integrated office suite for <a href="http://www.kde.org">KDE</a>, the K Desktop Environment.</p>
 
