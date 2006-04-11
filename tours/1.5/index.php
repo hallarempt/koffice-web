@@ -150,6 +150,34 @@ will mean that the zoom is automatically changed now.
 
  <h2>KPresenter</h2>
 
+    <ul>
+      <li>
+        <div align="justify">
+	 Snapping guide lines (if you move an object to the guide line, the objects 
+will snap to the guide line).
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Auto guide lines (automatically have guides to snap an object during moving 
+to other objects boarders).<br/>
+         <img src="guide.png">
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 As KWord also make selecting/moving/resizing objects easier by implementing 
+most features from <a href="http://www.koffice.org/developer/keyboardmodifiers.php">http://www.koffice.org/developer/keyboardmodifiers.php</a>.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 
+        </div>
+      </li>
+    </ul>
+
+
  <h2>Kexi</h2>
 
  <h2>Kivio</h2>
