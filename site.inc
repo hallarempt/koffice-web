@@ -8,7 +8,7 @@ $site_title = i18n_var("The KOffice Project");
 
 $name = "koffice.org Web Team";
 $mail = "webmaster@kde.org";
-$currentversion='1.5.0';
+$currentversion='1.5';
 // $develversion='1.5-rc1';
 // $oldversion='1.3.5';
 $kwordversion='1.5.0';
