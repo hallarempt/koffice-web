@@ -13,24 +13,45 @@
 
  <p>
  This tour accompanies the KOffice 1.5 release and shows its most important highlights
- and gorgeous features. It is a comprehensive tour through the major changes since
- the release of KOffice 1.4.
+ and gorgeous features. It is a comprehensive and easy to read tour through the major
+ changes since the release of KOffice 1.4.
  </p>
  <p>
  You can find the <a href="/announcements/announce-1.5.php">full announcement of KOffice 1.5 here</a>.
+ </p>
+
+ <h2>Diving into KOffice</h2>
+
+ <p>
+ With recent releases KOffice has established its status as the most comprehensive office suite in existence.
+ No other office suite provides as many integrated and diverse components as KOffice. At the same time, KOffice
+ requires only little memory and provides good performance, making it suitable even for old hardware and avoiding
+ the need for expensive upgrades.
+ </p>
+ <p>
+ The list of stunning improvements for the 1.5 release is simply huge, and all of them were implemented
+ just within a couple of months. KOffice is picking up momentum, quite a lot as well. This tour gives a
+ comprehensive overview of recent highlights. Make yourself comfortable, and enjoy the KOffice Tour.
  </p>
 
  <!-- the following is by no means complete, just a skeleton, will be improved later -->
 
  <h2>Core Technology Highlights</h2>
 
+ <h3>Starting up - It's all new</h3>
+
+ <p>Usability experts worked together on a complete new design of the KOffice startup dialog. It is now
+ easier to use, more powerful and flexible. And above all, it's nice as well:</p>
+
+ <img src="startup.png">
+
  <h3>Native OASIS OpenDocument Format support</h3>
 
- <p>OASIS OpenDocument is now the default format for all major KOffice applications.</p>
-
- <h3>New Startup Dialog</h3>
-
- <p>Usability Experts worked together to completely redesign the KOffice startup dialog.</p>
+ <p>Finally, OASIS OpenDocument is the default native format for all major KOffice applications.
+ This is a major step towards interoperability of major office suites on the basis of an industry
+ standard. OpenOffice.org also uses OpenDocument as native file format, other office suites support
+ it as well. Supporting the OASIS OpenDocument thus contributes to the global industry standard
+ for office standards.</p>
 
  <h3>Enhanced Accessibility</h3>
 
@@ -57,9 +78,18 @@
 
  <h2>KPlato</h2>
 
-<!--
-
  <h2>KChart</h2>
+
+ <p>
+ KChart is the charting component of KOffice. It can be embedded into almost 
+ any other KOffice application, such as KWord or KSpread. It supports 8 
+ different types of charts, among them bar, line, area, pie, ring and polar 
+ charts.  Almost every aspect of the chart can be customized after the chart 
+ is created, such as colors, fonts and placement of different entities like 
+ the legend.
+ </p>
+
+<!--
 
  <h2>KFormula</h2>
 
