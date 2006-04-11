@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.5 Changelog';
+  $page_title ='KOffice 1.5.0 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -28,6 +28,13 @@
 <em>Changes:</em>
 <ul>
  <li>Sheet/Page tab bar in KSpread/Kivio can now be controlled via mouse wheel.</li>
+
+ <li>KoText 
+ <ul>
+   <li>Fix problem with right-aligned tabs</li>
+   <li>Fix footnote numbering</li>
+   <li>Fix strange red and blue lines appearing for people who use --enable-debug</li>
+  </ul></li>
  <li>KexiProperty library moved to KOffice libraries as more generic <em>KoProperty library</em>.
   <ul>
   <li>Properties are now better sorted in editor.</li>
@@ -36,6 +43,11 @@
   <li>Possible crashes fixed.</li>
   <li>Fixed entering text. Repaint and focusing fixed.</li>
   <li>Better support for multiline property captions.</li>
+  <li>Fix editor refreshing after contents loading</li>
+  <li>Fix for read-only mode: support it also globally at property set level</li>
+  <li>Disable editing for read-only widgets</li>
+  <li>Fix for displaying double (floating-point) values for the current locale</li>
+ 
   </ul>
  </li>
  <li><em>Scripting library</em> (Kross, in beta stage) moved to from Kexi to KOffice libraries for reuse in other KOffice applications.
@@ -44,15 +56,27 @@
   <li>Added bindings for GUI-toolkits like TKinter or PyQt.</li>
   <li>Integrated Zope RestrictedPython to provide a restricted python environment to execute Python scripting code in a secure sandbox.</li>
   <li>Added bindings for Python and Ruby programming languages.</li>
+  <li>Fix deleting of ruby wrapped objects</li>
+  <li>Handle Python unicode strings</li>
+  <li>Fix crash cause of unhandled exception</li> 
+  <li>Fix untranslatable error messages</li>
+  <li>Fix layout when using ugly style</li>
+  <li>Ruby: fix c++ shouldn't propagate inside c</li>
+  <li>Python: fix wrong error-message</li>
   </ul>
  </li>
+ 
 </ul>
 
-<!--
+</ul>
+
+
 <h3 id="koshell">KOffice Workspace (koshell)</h3>
 <ul>
+    <li>Add tabs for documents</li>
+    <li>Remove Kudesigner from koshell (kugar is deprecated in this release and
+      will be replaced for 2.0</li>
 </ul>
--->
 
 <h3 id="kword">KWord</h3>
 
@@ -63,6 +87,11 @@
  <li>Make it possible to stop moving and resizing frames with the Escape key.</li>
  <li>Paragraphs may have a background color (configurable via <em>Format->Paragraph</em> 
      or style manager).</li>
+ <li>Don't change textframes to be the minimum size when user set it to protect size.</li>
+ <li>Autoscrolling when resizing the insertion rectangle</li>
+ <li>Fixes for selecting text with mouse in textmode</li>
+ <li>Fix copy &amp; pasting of embedded documents</li>
+
  <li><em>Accessibility improvements</em>
   <ul>
    <li>"Menu" key shows RMB pop-up in document structure</li>
@@ -76,13 +105,7 @@
  </li>
  <li>Overwrite mode (activated with the "Insert" key)</li>
  <li>Center page in window</li>
-</ul>
-
-<em>Changes:</em>
-<ul>
- <li>Much improved documentation</li>
- <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
- <li>Resizing table rows with the mouse is disabled for this release, for the benefit of easier cell selection. Resizing columns works as before</li>
+ </ul>
 </ul>
 
 <em>Bugfixes:</em>
@@ -107,9 +130,18 @@
  <li>The Zoom levels "Fit to Width" and "Fit To Page" now keep up when resizing the window</li>
  <li>Fixed background spell-checking issues</li>
  <li>Text layouting: fix for formatting of multi-frame paragraphs (#65059)</li>
+ <li>Many crash fixes</li>
+ <li>Much improved documentation</li>
+ <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
+ <li>Resizing table rows with the mouse is disabled for this release, for the benefit of easier cell selection. Resizing columns works as before</li>
+ <li>Improve mouse handling</li>
+ <li>Fix crash due to missing table cell (122807)</li>
+ <li>Enable pasting objects from KSpread</li>
+ <li>Saner margins</li>
+ <li>Fixes for pasting</li>
 </ul>
 
-<em>Caveats:</em>
+<em>Known problems:</em>
 <ul>
  <li>Some table bugs still remain. </li>
 </ul>
@@ -128,6 +160,63 @@
  <li>Support for percent operator</li>
  <li>Function autocomplete</li>
  <li>Range-setting by dragging</li>
+ <li>Prevent crash when problems with temp files arise</li>
+ <li>Don't save background of cell if not set. Huge improvement in speed</li>
+ <li>Prevent the embedded object from being scrolled out of view after double-clicking on it</li>
+</ul>
+
+<em>Fixes</em>
+<ul>
+
+ <li>Fix creation of emtpy charts</li>
+ <li>Fixes for printing</li>
+ <li>Fix crash bug 122239</li>
+ <li>Cells can have longer text than 5000 character</li>
+ <li>Fix problem with recalculation not working in saved .ksp files</li>
+ <li>Multi-select for objects, object handling is now conform to the KOffice standards</li>
+ <li>Fix link to local file</li>
+ <li>Bug 122237: empty cells get displayed correctly.</li>
+ <li>Brace highlighting in the formula editor</li>
+ <li>Several crash fixes</li>
+ <li>Selection optimization speed</li>
+ <li>Painting improvements</li>
+ <li>Many performance fixes</li>
+ <li>Bug 121104: Automatic Recalculation sheeting in Sheet Properties dialog is now respected.</li>
+ <li>Bug 109797: Protect quote characters in cells by replacing each quote character by two consecutive quote characters.  Produce CSV files with the same number of columns in every row.</li>
+ <li>Bug 118112: Numbers are correctly copy and pasted</li>
+ <li>Bug 121771: COUNTIF(range, "0") function doesn't count blank cells anymore</li>
+<li>KSpread can't input content in another sheet with keyboard</li>
+<li>Paste global mouse selection on middle mouse click instead of global clipboard content.</li>
+<li>Use nicer f(x) icon for the function button supplied by Aurelien Gateau.</li>
+<li>Fix CSV export of times and dates.</li>
+<li>Don't localize the name of the default cell style.</li>
+<li>Localize the decimal separator in formulas on loading OpenDocument files</li>
+<li>Fix value calculation in some functions, like PRODUCT or GCD.</li>
+<li>OpenDocument Loading speedup and reduction of memory usage.</li>
+<li>Fix loading of merged cells in OpenDocument files.</li>
+<li>Reduce memory consumption of the style engine.</li>
+<li>Try parsing values as numbers first, rather than as boolean.</li>
+<li>Speedup in the painting engine.</li>
+<li>Protected objects can't be resized anymore.</li>
+<li>Start the choice using the arrow keys at the selection marker.</li>
+<li>Scrolling in choose mode works again.</li>
+<li>Dependency recalculation speedup.</li>
+<li>Set cell text correctly when auto-filling times and dates.</li>
+<li>Application loading speedup: Delay creation of KSpell config until spellchecking facilities are actually used.</li>
+<li>Make the autofill behavior more consistent with Gnumeric / OpenOffice / Excel when a single cell is selected.
+<ul>
+    <li>If the cell contains a number, the number is just duplicated to fill the selection.</li>
+    <li>If the cell contains a date it produces a series of 1-day increments.</li>
+    <li>If the cellcontains a time it produces a series of 1-hour increments.</li>
+</ul></li>
+<li>Fix Insert Series dialog not updating the display text in the affected cells.</li>
+<li>Fix preferences dialog so that current date/time are used to demonstrate locale after clicking on 'Update To Locale' button.</li>
+</ul>
+
+<em>Known issues</em>
+<ul>
+    <li>Insertion of columns and rows is slow; undo and redo of these operations is broken.
+     This will be fixed in 1.5.1</li>
 </ul>
 
 <!-- 
@@ -149,18 +238,28 @@
  <li>use default key modifier</li>
  <li>added autoscroll</li>
  <li>added object pop-up to outline</li>
+ <li>Updated icons</li>
 </ul>
 
-<em>Bugfixes:</em>
+<em>Fixes</em>
 <ul>
- <li>too many bug fixes to list</li>
+ <li>updated the icons so that they look more like crystal</li>
+ <li>Fix loading when the view is shown before the doc is fully loaded BUG:122641</li> 
+ <li>Fix: Make it possible to resize objects around the center. BUG: 112310</li>
+ <li>Fix problems with embedding</li>
+ <li>Fix saving of stripe slide transition when saving to oasis. As they are not supported in OpenDocument I use koffice:additional-transition-style for saving them. In transition-style we use something similar so that OO can open it.</li>
+ <li>Fix a bug when there was an object on the masterpage at the position of the header or footer and the footer was not shown.</li>
+ <li>Fix saving of styles for text objects on the master page</li>
+ <li>Fix loading of draw:frame when there where additional images</li>
+ <li>Fix bug 122623: Vertically aligned texts in presentation are displaced first</li>
+ <li>Fix for Bug 121414: KPresenter Krashed when I attempted to open a .ppt file from with the program.</li>
+ <li>Optimize insertion of many objects</li>
+ <li>Fix custom slideshow</li>
+ <li>Fix Bug 120702 crash when opening odp-file created in OOImpress2.</li>
+ <li>Fix Bug 120893: Crash when quitting an text box in edit mode.</li>
+ <li>Save/load animations on the master slide in OASIS format</li>
 </ul>
 
-<!--
-<em>Changes:</em>
-<ul>
-</ul>
--->
 
 <h3 id="kivio">Kivio</h3>
 <em>New features:</em>
@@ -171,10 +270,15 @@
  <li>New stencils for ER diagrams</li>
 </ul>
 
+<em>Fixes</em>
+<ul>
+ <li>Fix CellPhone stencil</li>
+ <li>Improvements in connector handling</li>
+</ul>
+
+
 
 <h3 id="kexi">Kexi</h3>
-
-<p>Changes since the release of <a href="http://kexi-project.org/wiki/wikiview/index.php?0.9Announcement">Kexi 0.9</a>.</p>
 
 <em>Main new features:</em>
 <ul>
@@ -197,6 +301,10 @@
   <li>Fixed possible crash when an object has beed saved with a different name than proposed.</li>
   <li>Improved reaction on object creation/deletion/renaming.</li>
   <li>Fixed autogenerating object names (e.g. tables, queries) based on caption.</li>
+  <li>use local sockets by default for local server connections, if possible</li>
+  <li>added simple encryption for stored passwords</li>
+  <li>allow to save empty password in .kexis and .kexic files</li>
+  <li>ask for password (without storing it) for connection data without stored password</li>
 </ul>
 
 <em>Table Designer</em>
@@ -298,6 +406,15 @@
   <li>Usability: for IDEAl mode tabs are also visible when one window is opened; added "close" button to the tab widget for IDEAl mode.</li>
   <li>'hover close button' is now turned off by default for IDEAl mode (added appriopriate setting to kexirc for changing this).</li>
   <li>Do not allow to open the same dialog twice - it was possible for slowly loading dialogs with large data.</li>
+  <li>Disable actions that require write access to the db if it's opened as readonly</li>
+  <li>Closing dialog is now marked as 'pending job', the same as for opening</li>
+  <li>When there are pending jobs, 'quit' and 'close project' actions are
+  delayed and executed after last pending job finishes. This removed possible
+  crashes when user closed application's main window (or closed project)
+  when there are pending jobs.</li>
+  <li>When query design has been changed and saved, subsequent openings of a form using
+  it will reload its definition. The same for 'page setup' dialogs.</li>
+  <li>Disabled complex and redundant action 'View -> Tool Docks' menu</li>
 </ul>
 
 <em>Simple Printouts</em>
@@ -326,6 +443,13 @@
   <li>"--connection &lt;shortcut_filename&gt;" command line option added. Specifies a database connection shortcut .kexic file containing connection data. Can be used with --createdb or --create-opendb for convenience instead of using options like --user, --host or --port. Note: Options like --user, --host have precedence over settings defined in the shortcut file.</li>
 </ul>
 
+ <em>Database Drivers</em>
+ <ul>
+  <li>MySQL: non-latin1 text data (UTF8 encoded) was not properly retrieved.</li>
+  <li>MySQL, PostgreSQL: entering special characters like ', \, ", \n did not work.</li>
+  <li>PostgreSQL: fix for displaying unicode error messages</li>
+ </ul>
+
 <em>See also:</em>
 <ul>
  <li><a href="http://kexi-project.org/wiki/wikiview/index.php?DetailedChanges1.0">Detailed Changes in Kexi</a></li>
@@ -345,7 +469,7 @@
 <h3 id="krita">Krita</h3>
 <em>New features:</em>
 <ul>
- <li>Support for a number of colorspaces (of which many are color-managed):
+ <li>Support for a number of colorspaces (of which many are under color management using lcms):
   <ul>
    <li>cmyk8</li>
    <li>cmyk16</li>
@@ -367,7 +491,6 @@
  <li>complete tablet configuration page in settings</li>
  <li>scripting using Kross with Python and Ruby</li>
  <li>dedicated png, tiff and jpeg filters that load much more files correctly</li>
- <li>load LAB photoshop images</li>
  <li>filters gallery</li>
  <li>nice curve widget for changing brightness/contrast</li>
  <li>plugin architecture that enables colorspaces, tools, paint operations,
@@ -394,70 +517,119 @@
  <li>show image in center of window</li>
 </ul>
 
-<em>Bugfixes:</em>
+<em>Fixes</em>
 <ul>
- <li>117570   Allow image positioning anywhere on the working area</li>
- <li>108205   Implement paste as new</li>
- <li>108399   Allow Esc button to cancel a running operation</li>
- <li>108428   Usability: no brush preview at the pointer</li>
- <li>103603   Starting Krita with templates is broken.</li>
- <li>104192   Converting images or layers to another color model is broken</li>
- <li>105073   wish: colour panel should not always pick black, if user ...</li>
- <li>105274   wish: change behaviour of crop tool, to crop selection</li>
- <li>105276   wish: put Tools toolbar to the side and activate descript...</li>
- <li>105921   Toolbars cannot be redocked properly at top after being d...</li>
- <li>106284   crash upon loading any image file</li>
- <li>106731   Gimp pipe brushes randomness is not properly supported by...</li>
- <li>106891   Compile error in kis_painter.cc on Solaris 9/SPARC</li>
- <li>106919   Colour Manager sets colours wrong</li>
- <li>107066   Pen has soft edges</li>
- <li>107122   Layers box behaves strangely</li>
- <li>107127   Property boxes disappear on image load</li>
- <li>107128   Krita asks to save even if image is unchanged</li>
- <li>107131   Make the zoom tool a drop-down widget</li>
- <li>107132   Drop "tool" from the tooltips</li>
- <li>107348   Layerbox behaves badly when there are many layers</li>
- <li>107938   Select all and cut/copy makes Krita hang</li>
- <li>107939   Krita crashes on opening attached image</li>
- <li>107994   Moving a detached docker resizes it to a minimum</li>
- <li>108081   Kivio style dockers don't work</li>
- <li>108397   crashing on (external) clipboard change</li>
- <li>108398   rulers don't get repainted on creation.</li>
- <li>108704   Krita crashed by copying a part of an image via the short...</li>
- <li>109611   Krita now requires lcms 1.13</li>
- <li>109913   Crashes after drawing box, making selection then filling ...</li>
- <li>109968   dcop rotate should provide image rotate</li>
- <li>109969   mousewheel speed to slow</li>
- <li>109971   Crash trying to DND while krita is working</li>
- <li>110187   cancel in 'new image' dialog should quit krita</li>
- <li>110293   side panel "spinbox" focus prevents keyboard shortcuts fr...</li>
- <li>110296   Cancelling a transform destroys image</li>
- <li>110303   Toolbox does not work with 2 instances of krita</li>
- <li>110311   crash after selecting different templates</li>
- <li>110906   select similar colors tool does not work on transparent c...</li>
- <li>110907   Fill when there is a selection ignores underlying image</li>
- <li>111484   Krita : silent crash</li>
- <li>111629   Crash when Edit->Clear selected</li>
- <li>112029   Krita crashes when dragging selection tool beyond canvas</li>
- <li>112723   JPEG meta info comment lost on editing in krita</li>
- <li>112727   If present, change the 'Orientation' meta data on rotation</li>
- <li>112776   program crash on click at filter name "Mean Removal"</li>
- <li>112787   Add a Fill action</li>
- <li>112855   krita crashes when moving a selection</li>
- <li>113335   bug: when i use krita as an embedded bitmap editor more ...</li>
- <li>113521   Rotate image skews layers that have an offset</li>
- <li>113680   Closing one Krita-instance closes all of them</li>
- <li>114233   I can no way get an empty Krita workshop</li>
- <li>114981   missing shortcut for Change Image Size</li>
- <li>115437   crash at undo afer color-adjustment and save</li>
- <li>115840   krita crashes while doing copy/paste</li>
- <li>115873   color picker probs with selecting in a specific layer</li>
- <li>115876   Crashes when double clicking in crop selection</li>
- <li>118902   krita needs a right click menu</li>
- <li>119610   Crash when substract selection</li>
- <li>119930   Statusbar pops up for View > Show Rulers</li>
+ <li>Improved transform tool (the results still aren't good quality, but crashes and funny leaps have been removed)</li>
+ <li>Fix crash after executing a script</li>
+ <li>Improve rendering of adjustment layers</li>
+ <li>Initial image size is set to size of clipboard image if present (bug 122815)</li>
+ <li>Fix crash in computing adjustment layers</li>
+ <li>Load scripts if Krita is loaded from KOShell</li>
+ <li>Fix layout of tool option widgets</li>
+ <li>Fix ui problem with opacity slider</li>
+ <li>Save images with .rgb extension as SGI</li>
+ <li>Enable scrollwheel and pan in preview widget</li>
+ <li>Fix saving bmp -- use .bmp3 extension to save in the most widely compatible bmp format.</li>
+ <li>Fix undo of layer colorspace schange</li>
+ <li>Improve rendering performance if zoom &lt; 1.0</li>
+ <li>Fix layer name counter staying incremented after cancelling a new layer</li>
+ <li>Disable apply filter again menu entry initially</li>
+ <li>Reorganize filter menu to not include empty items</li>
+ <li>Add support of YCbCr tiff images</li>
+ <li>Load deflated tiff images</li>
+ <li>Fix birdeye panel</li>
+ <li>Fix implementation and improve speed of resize, scale, rotate, shear, mirror </li>
+ <li>Fix crash with big images and minimum swappiness</li>
+ <li>Fix loading and saving of adjustment layers (please test!)</li>
+ <li>Add progress dialog for raw import</li>
+ <li>Speedup rendering of lab histograms for histogram docker. Also speeds up conversion to lab colorspace</li>
+ <li>Many fixes in embedded part creation, handling, rendering, loading and saving</li>
+ <li>Improve performance of histogram docker</li>
+ <li>Make wetness, size and hardness when painting wet dependent on pressure</li>
+ <li>Add preview for part layers to layerbox</li>
+ <li>Fix pressure adjustment checkboxes for opacity, darken and size</li>
+ <li>Created pipe brushes should work now</li>
+ <li>Fix edges of adjustment layers</li>
+ <li>Make moving a group layer move all containing layers</li>
+ <li>Fix opening of jpegs and tiffs with unidirectional profiles</li>
+ <li>Add CREATE resource compliance</li>
+ <li>Sppedup loading of images greatly</li>
+ <li>Speedup gradient rendering a lot</li>
+ <li>Implement mixcolors for cmyk (fill &amp; select contiguous should work now)</li>
+ <li>Fix flatten image</li>
+ <li>Improved speed of filters gallery dialog</li>
+ <li>Add REPEAD option to convolution painter</li>
+ <li>Fix bugs 120988, 121341, 108919,</li>
+ <li>Improve convolution painter with 25%</li>
+ <li>Fix tablet and popup menu interaction bug</li>
+ <li>Fix bumpmap filter</li>
+ <li>Fix poly tools: double-click or shift-click to end the poly</li>
+ <li>Fix autobrush for circle</li>
+ <li>Better tool cursors</li>
+ <li>Add palettes and brushes submitted by Natalie.</li>
+ <li>Implement grow/shrink/smooth/erode/dilate/border  selection function</li>
+ <li>Fix rendering on ppc</li>
+ <li>Fix RAW import filter</li>
+ <li>Fix simple noise reducer for cmyk</li>
+ <li>Fix for colorspaces where the default pixel color isn't all 0</li>
+ <li>When resizing an image to the size of a layer, move the layer to 0,0</li>
+ <li>Enable loading remote images from recent files widget</li>
+ <li>Don't crash when out of memory for a wavelet transform</li>
+ <li>Add show selection toggle shortcut</li>
+ <li>Filters config widgets with sliders should now be much more responsive</li>
+ <li>Improved speed of filter preview widget lots</li>
+ <li>Fix loading images with different profiles for layers</li>
+ <li>UI fixes for layerbox</li>
+ <li>Fix merge with layer below</li>
+ <li>Display grid in opengl mode</li>
+ <li>Don't crash when per-channel adjusting cmyk</li>
+ <li>Better colors for cmyk in histogram</li>
+ <li>Make it possible to change the current profile without converitng pixel values</li>
+ <li>Fix feather selection (crash fix)</li>
+ <li>Fix loading profiles fomr color/icc, .color/icc</li>
+ <li>Add support for exif in jpeg</li>
+ <li>Speedup on creating a selection</li>
+ <li>Don't set the image dirty when clicking on the gray borders</li>
+ <li>Optimize rendering for images with only one layer</li>
+ <li>Allow moving a layer outside its group by pressing up</li>
+ <li>Fix separations plugin</li>
+ <li>Fix colorchoosers flicker &amp; background color bug</li>
+<li> Fix update problems associated with adjustment layers</li>
+<li> Faster selection rendering</li>
+<li> Fix selection/invert</li>
+<li> Use squeezed combobox/label for profiles</li>
+<li> Fix Text tool</li>
+<li> Fix saving of per-channel and brightness/contrast adjustment layers</li>
+<li> Improve performance of filling rectangles</li>
+<li> Improve scaling and rotation quality (BUG: 123160)</li>
+<li> Fix radius-based colorpicking</li>
+<li> Embedding KWord now works</li>
+<li> Make convolve, darken, intensity8 and invert colorspace-independent and
+optimized</li>
+<li> Show filter name in reapply last filter</li>
+<li> Fix composition with 8 it cmyk</li>
+<li> Make it possible to change the colorspace of an image without converting
+all layers</li>
+<li> Many crash fixes and stability improvements</li>
+<li> Fix polyline tools not getting reset between invocations</li>
+<li> Make the rulers use sane step sizes for the number shown</li>
+<li> Don't show exposure slider if the image is not HDR</li>
+<li> Enable the screenshot plugin again</li>
+<li> Fix separate image</li>
+<li> Many fixes to tiff filter: add support for YCbCr colorspaces in tiff</li>
+<li> Fix loading of images with utf8 characters in the name (BUG:123495)</li>
+<li> Fix crash when creating very small images</li>
+<li> Fix memory leaks in painting with filters.</li>
+<li> Disable the Cubism filter</li>
+<li> Fix painting in Lab mode</li>
 </ul>
 
+<em>Known Issues</em>
+
+<ul>
+    <li>Paint with the sharpen filter is broken</li>
+    <li>Rotating large images is broken</li>
+</ul>
 
 <h3 id="karbon">Karbon</h3>
 
@@ -473,39 +645,17 @@
  <li>Load SVG and Gimp gradients</li>
  <li>Support for changing gradient or pattern fills on the canvas</li>
 </ul>
-
-<em>Bugfixes:</em>
+<em>Fixes</em>
 <ul>
- <li>114421 Transform palette has a strange layout when it is tall</li>
- <li>114424 Stroke properties palette has a strange layout when it is...</li>
- <li>114425 Color palette has title "Fill color" even when it shows s...</li>
- <li>114428 The last created object should stay selected</li>
- <li>114577 The Document/Layers/History palette is not shown on start</li>
- <li>114579 Deleting polyline segment moves the mouse pointer to (0, 0)</li>
- <li>114580 JJ: The line thickness SpinBox has no tooltip</li>
- <li>112765 Selecting a polyline and running the "round corners" plug...</li>
- <li>60438 undo confusion between point and shape action</li>
- <li>92974 svg export creates useless svg file (from text tool)</li>
- <li>115752 Make paste operation undo:able</li>
- <li>116612 svg import/rendering bugs</li>
- <li>111372 karbon: KLibrary: Undefined symbol "init_libkarbonpart"</li>
- <li>114578 A polyline spline has a too big surrounding box</li>
- <li>89596 Switching between Karbon14 and KSVGPlugin view in Konquer...</li>
- <li>38555 segv when opening a file svg or kontour native</li>
- <li>116422 un-usable selecting behaviour multple moving</li>
- <li>116972 Transform palette is not updated when moving or scaling an object</li>
- <li>115213 The color and opacity bars in the color chooser palette are backwards.
-        (thanks Marijn Kruisselbrink for the initial patch)</li>
- <li>96944 Wanted: good right-click actions for polyline tool, zoom ...</li>
- <li>111619 Page layout: size alias and margins doesn't get saved</li>
- <li>111717 How to bring back the overview window if you close it?</li>
- <li>111618 Rename plugins menu to "Effects"</li>
- <li>109520 Change Align Center (Vertical) to Align Middle and add some extra separators</li>
- <li>108789 Keybindings like krita, and other tweaks</li>
- <li>108755 Always use this document at startup, Karbon has no way to stop doing this. Add a basic karbon template.</li>
- <li>91376, 111207, 60844 Dockers now use the KoPalette library. This means a huge improvement when it comes to docker management</li>
- <li>112691 Usability: The tools should be grouped</li>
- <li>114429 The color picker is bad: Karbon now uses the Krita color choosers.</li>
+ <li>Fix sorting of layer list view</li>
+ <li>Fix drawing and orientation of vertical ruler</li>
+ <li>Fixes to gradient widget</li>
+ <li>Improved OASIS support</li>
+ <li>Fix for printing (bugs 119452, 99927)</li>
+ <li>Fix crash with gradients</li>
+ <li>Fix bug crash when Karbon is embedded in koshell</li>
+ <li>properly update the objects bounding box when moving bezier points</li>
+ <li>Fix Bug 120374 -- crash in AI export</li>
 </ul>
 
 <h3 id="kplato">KPlato</h3>
@@ -530,34 +680,70 @@
  </li>
  <li>Work breakdown structure (WBS).</li>
  <li>Critical path and resources.</li>
+ <li>Put back project name in printout</li>
+ <li>Clip printout of gantt chart</li>
+ <li>Nicer icons</li>
+ <li>Much improved calculations</li>
+ <li>Fix status representation</li>
+ <li>Zoom for gantt charts</li>
 </ul>
 
+<em>Fixes</em>
+<ul>
+ <li>Add menu option to show/hide task-/resource allocation views.</li>
+ <li>Bug 121828: Save/load resource cost and units.</li>
+</ul>
 
 <h3 id="kchart">KChart</h3>
 <em>Features:</em>
 <ul>
- <li>OpenDocument is now the default file format (not working in the beta)</li>
- <li>new chart type: combined bars and lines (not working in the beta)</li>
+ <li>OpenDocument is now the default file format</li>
+ <li>new chart type: combined bars and lines</li>
  <li>support for first row or column as labels</li>
  <li>support for changing area when charting data from KSpread</li>
+ <li>Add start of OASIS OpenDocument support</li>
+ <li>Replace charting engine with new version from KDab</li>
+ <li>Fix for display flicker</li>
+ <li>Fix bug 41612</li>
 </ul>
-<em>Bugfixes:</em>
+
+<em>Fixes:</em>
 <ul>
  <li>All the graphics related bugs in bugs.kde.org have been fixed</li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>
+
+<p>Excellent news: KFormula got a new maintainer: Alfredo Beaumont.</p>
+
+<em>Fixes</em>
+
 <ul>
-<li>Fix embedding</li>
+ <li>Fix a rendering rect check that caused special symbols not to be shown
+properly when kformula was embedded inside another app. Bugs: 47660, 70773.</li>
+
+ <li>BaKoMa TeX fonts are packaged and installed with KFormula. This should resolve
+the formula font rendering problems if users select TeX fonts. (this was probably
+the most important problem in kformula) Bugs 50939, 106909, 112994.</li>
+
+<li>Cursor changes: make it more thick, blinking and only shown when focus is in
+formula. This improves accessibility.</li>
 </ul>
 
+
+
+<h3 id="kugar">Kugar</h3>
+<ul>
+ <li>Kugar is no longer accessible from koshell</li>
+ <li>Fix crash when changing pages on reloaded report</li>
+</ul>
 
 <h3 id="filters">Filters</h3>
-<!--
+
 <em>KWord:</em>
 <ul>
+ <li>Many fixes and improvements in the html import filter</li>
 </ul>
--->
 
 <em>KPresenter:</em>
 <ul>
@@ -575,7 +761,14 @@
  <li>improved Microsoft Access files support.</li>
 </ul>
 
-
+<em>Krita:</em>
+<ul>
+    <li>New tiff import/export filter with support for many colorspaces</li>
+    <li>New jpeg import/export filter wit support for cmyk and rgb</li>
+    <li>New png import/export filter with support for many colorspaces</li>
+    <li>Improved magic import filter with support for layers and lab colorspace</li>
+    <li>load LAB photoshop images</li>
+    <li>New RAW import filter (needs dcraw installed)</li>
 <?php
   include("footer.inc");
 ?>
