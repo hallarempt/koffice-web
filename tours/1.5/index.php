@@ -207,7 +207,7 @@ showing the result!
 -->
 
 <p>
-The feature takse advantage of KDE printing system, what means export to PDF 
+The feature takes advantage of KDE printing system, what means export to PDF 
 is available as well.
 </p>
 
@@ -240,7 +240,7 @@ clipboard and then saved within the single database losslessly.
 -->
 
 <p>
-As Kexi Team listens what are users' needs, MS Access (MDB, MDE) files 
+As the Kexi Team listens to its users, MS Access (MDB, MDE) files 
 support has been greatly improved. Files can be just clicked and then Kexi 
 will propose importing using special Database Importing Wizard. MS Access 
 database tables can be now imported with more accurately converted data types.
@@ -258,8 +258,8 @@ database tables can be now imported with more accurately converted data types.
 <p>
 In addition to the new features, Kexi contains hundreds of small 
 improvements and fixes making everyday use easier. Table, Query and Form 
-designer are now smoother in usage. Numerous features do not prevent the app 
-from starting fast, as only needed functionality is loaded.
+designer are now smoother in usage. Despite so many features, Kexi still
+starts fast, because only needed functionality is loaded.
 </p>
 
 <p>
@@ -282,7 +282,7 @@ scripting Kexi here: <a href="http://kross.dipe.org/kexiscriptingoverview/">http
     <ul>
       <li>
         <div align="justify">
-	 New improved dockers which is shared with Krita and Karbon14.
+	 New improved dockers which are shared with Krita and Karbon14.
         </div>
       </li>
       <li>
