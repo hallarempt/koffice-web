@@ -62,8 +62,8 @@
 </p>
 <ul>
   <li>report generator
-    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)<br>
-  <i>Note: Kugar is deprecated in this release will be replaced with another solution.  It's only included since there are users that are already using it.</i>
+    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)<br />
+  <em>Note: Kugar is deprecated in this release will be replaced with another solution.  It's only included since there are users that are already using it.</em>
   </li>
 
   <li>full-featured charting engine
@@ -135,7 +135,7 @@ This version of KOffice features a start of a unified scripting solution called 
 </p>
 <p>
 Kross is easy to include into programs previously lacking scripting abilities, and is included in this version as a technology preview.
-<i>So far, only Krita and Kexi are improved by means of the Kross engine.</i>
+<em>So far, only Krita and Kexi are improved by means of the Kross engine.</em>
 We would also like to point out that the API might change in the future and expect Kross to be fully integrated into KOffice version 2.0.
 </p>
         </div>
@@ -427,7 +427,7 @@ For a list of features supported by KPlato, see
     <ul type="disc">
       <li>
         <div align="justify">
-        OpenDocument is now the default file format (incomplete)</i>
+        OpenDocument is now the default file format (incomplete)
         </div>
       </li>
       <li>

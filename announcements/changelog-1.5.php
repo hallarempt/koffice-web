@@ -68,8 +68,6 @@
  
 </ul>
 
-</ul>
-
 
 <h3 id="koshell">KOffice Workspace (koshell)</h3>
 <ul>
@@ -105,7 +103,6 @@
  </li>
  <li>Overwrite mode (activated with the "Insert" key)</li>
  <li>Center page in window</li>
- </ul>
 </ul>
 
 <em>Bugfixes:</em>
@@ -769,6 +766,8 @@ formula. This improves accessibility.</li>
     <li>Improved magic import filter with support for layers and lab colorspace</li>
     <li>load LAB photoshop images</li>
     <li>New RAW import filter (needs dcraw installed)</li>
+</ul>
+
 <?php
   include("footer.inc");
 ?>
