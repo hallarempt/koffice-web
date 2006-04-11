@@ -248,7 +248,7 @@ database tables can be now imported with more accurately converted data types.
 <p>
 <b>Importing Northwind sample Microsoft Access (.mdb) database using Kexi on Linux:</b>
 </p>
-<img src="http://kexi-project.org/pics/1.0/northwind_mdb_import/northwind_mdb_import_sm.png">
+<img src="northwind_mdb_import_sm.png">
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/northwind_mdb_import/northwind_mdb_import.png">
