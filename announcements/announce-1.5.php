@@ -7,8 +7,7 @@
 
 <p align="justify">
    DATELINE APRIL 11, 2006<br />
-<!-- FOR IMMEDIATE RELEASE -->
-   EMBARGO - DO NOT PUBLISH
+   FOR IMMEDIATE RELEASE
 </p>
 <h2>
   KDE Ships New Release of Major Enhancements to Free Integrated Office Suite
