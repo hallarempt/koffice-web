@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 
-    <img src="/media/images/hotspots/koffice1.5-640.png">
+<!--    <img src="/media/images/hotspots/koffice1.5-640.png">  -->
 
     <h1>KOffice - Integrated Office Suite</h1> <!-- see above, remove when page_title is used again -->
 
