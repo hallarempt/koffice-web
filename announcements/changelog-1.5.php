@@ -109,13 +109,13 @@
 <ul>
  <li><em>OASIS OpenDocument support</em>
   <ul>
-   <li>Fixed loading of headers and footers (<a href="bugs.kde.org/107424">bug #107424</a>)</li>
+   <li>Fixed loading of headers and footers (<a href="http://bugs.kde.org/107424">bug #107424</a>)</li>
    <li>Implemented saving of headers and footers</li>
    <li>Fix for text:h without outline-level</li>
    <li>Simplified the XML by removing spurious &lt;span&gt; tags due to misspelled words</li>
    <li>Save office:font-face-decls tag so that OOo loads the fonts</li>
    <li>Fixed loading of font sizes specified as a percentage</li>
-   <li>Implemented loading of list indentation (space-before) (<a href="bugs.kde.org/109223">bug #109223</a>)</li>
+   <li>Implemented loading of list indentation (space-before) (<a href="http://bugs.kde.org/109223">bug #109223</a>)</li>
    <li>Improved OOo compatibility when saving page breaks</li>
    <li>Save first page number the right way so that OOo can load it</li>
    <li>Save bookmarks</li>
@@ -126,13 +126,13 @@
  <li>Fixed updating of "statistics" variable (e.g. word count) when loading/saving.</li>
  <li>The Zoom levels "Fit to Width" and "Fit To Page" now keep up when resizing the window</li>
  <li>Fixed background spell-checking issues</li>
- <li>Text layouting: fix for formatting of multi-frame paragraphs <a href="bugs.kde.org/65059">(bug #65059)</a></li>
+ <li>Text layouting: fix for formatting of multi-frame paragraphs <a href="http://bugs.kde.org/65059">(bug #65059)</a></li>
  <li>Many crash fixes</li>
  <li>Much improved documentation</li>
  <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
  <li>Resizing table rows with the mouse is disabled for this release, for the benefit of easier cell selection. Resizing columns works as before</li>
  <li>Improve mouse handling</li>
- <li>Fix crash due to missing table cell (<a href="bugs.kde.org/122807">#122807</a>)</li>
+ <li>Fix crash due to missing table cell (<a href="http://bugs.kde.org/122807">#122807</a>)</li>
  <li>Enable pasting objects from KSpread</li>
  <li>Saner margins</li>
  <li>Fixes for pasting</li>
@@ -167,12 +167,12 @@
 
  <li>Fix creation of emtpy charts</li>
  <li>Fixes for printing</li>
- <li>Fix crash bug <a href="bugs.kde.org/122239">#122239</a></li>
+ <li>Fix crash bug <a href="http://bugs.kde.org/122239">#122239</a></li>
  <li>Cells can have longer text than 5000 character</li>
  <li>Fix problem with recalculation not working in saved .ksp files</li>
  <li>Multi-select for objects, object handling is now conform to the KOffice standards</li>
  <li>Fix link to local file</li>
- <li>Bug <a href="bugs.kde.org/122237">#122237</a>: empty cells get displayed correctly.</li>
+ <li>Bug <a href="http://bugs.kde.org/122237">#122237</a>: empty cells get displayed correctly.</li>
  <li>Brace highlighting in the formula editor</li>
  <li>Several crash fixes</li>
  <li>Selection optimization speed</li>
@@ -701,7 +701,7 @@ all layers</li>
  <li>Add start of OASIS OpenDocument support</li>
  <li>Replace charting engine with new version from KDab</li>
  <li>Fix for display flicker</li>
- <li>Fix <a href="bugs.kde.org/41612">bug #41612</a></li>
+ <li>Fix <a href="http://bugs.kde.org/41612">bug #41612</a></li>
 </ul>
 
 <em>Fixes:</em>
