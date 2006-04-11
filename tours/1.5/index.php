@@ -7,8 +7,8 @@
 
 <p align="justify">
   DATELINE APRIL 11, 2006<br />
-  <!-- FOR IMMEDIATE RELEASE -->
-  EMBARGO - DO NOT PUBLISH
+  FOR IMMEDIATE RELEASE
+  <!-- EMBARGO - DO NOT PUBLISH -->
 </p>
 
  <p>
@@ -414,6 +414,13 @@ and many other file formats.
 </p>
 
  <h2>KPlato</h2>
+
+<img src="/kplato/pics/gantt_small_2006_01.png">
+
+<p>
+KOffice 1.5 is the first version to include KPlato, the KOffice Planning Tool.
+Please look at <a href="/kplato/">http://www.koffice.org/kplato/</a> for some details.
+</p>
 
  <h2>KChart</h2>
 
