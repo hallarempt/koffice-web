@@ -1,7 +1,7 @@
 <?php
   $appinfo = new AppInfo("Karbon14");
   $appinfo->setIcon( "pics/hi48-app-karbon.png", "48", "48");
-  $appinfo->setVersion("0.2");
+  $appinfo->setVersion("1.5.0");
   $appinfo->setLicense("gpl");
   $appinfo->setCopyright("1998", "the Karbon Team");
   $appinfo->addAuthor("Rob Buis", "buis&#x40;&#x6b;&#100;e.or&#103;");
