@@ -6,17 +6,17 @@
 ?>
 
     <center><a href="/announcements/announce-1.5.php"><img src="/pics/koffice1.5_v4-500.jpg" border="0" alt="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" title="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" width="500" height="336" /></a></center>
-<!--
-    <br/>
 
-    <img src="/tours/pics/takethetour.png">
--->
     <h1>KOffice - Integrated Office Suite</h1> <!-- see above, remove when page_title is used again -->
 
     <p><b>KOffice</b> is a free, integrated office suite for <a href="http://www.kde.org">KDE</a>, the K Desktop Environment.</p>
 
     <p><b>KOffice <?php echo $currentversion ?></b> is the current official KOffice release. Please see the 
     <a class="sidebar" href="/releases/1.5-release.php">release notes</a> for further details.</p>
+
+    <p><b>This release also features a tour that gives a nice overview of all the new Highlights:</b></p>
+
+    <center><a href="/tours/1.5/"><img src="/tours/pics/takethetour.png" alt="KOffice 1.5 Tour"/></a></center>
     
     <!--p>There is also an unstable, testing version <?php echo $develversion ?> which you may try out. See the
     <a class="sidebar" href="/releases/<?php echo $develversion ?>-release.php">notes</a> for this release.</p-->

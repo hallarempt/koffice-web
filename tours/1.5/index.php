@@ -5,11 +5,12 @@
   include("header.inc");
 ?>
 
+<!--
 <p align="justify">
   DATELINE APRIL 11, 2006<br />
   FOR IMMEDIATE RELEASE
-  <!-- EMBARGO - DO NOT PUBLISH -->
 </p>
+-->
 
  <p>
  This tour accompanies the KOffice 1.5 release and shows its most important highlights
@@ -440,74 +441,5 @@ Please look at <a href="/kplato/">http://www.koffice.org/kplato/</a> for some de
  <h2>Kugar</h2>
 
 -->
-
-<!-- UP TO HERE -->
-
-
-<h2>About KOffice and KDE</h2>
-  <p align="justify">
-  KOffice is an integrated office suite for KDE which utilizes free and
-  open standards for its document formats, component communication and
-  component embedding.
-</p>
-<p align="justify">
-    This release includes:
-</p>
-<ul>
-  <li>a frame-based, full-featured word processor
-    (<a href="http://www.koffice.org/kword/">KWord</a>);
-  </li>
-  <li>a spreadsheet application
-    (<a href="http://www.koffice.org/kspread/">KSpread</a>);
-  </li>
-  <li>a presentation application
-    (<a href="http://www.koffice.org/kpresenter/">KPresenter</a>);
-  </li>
-  <li>a flowchart application
-    (<a href="http://www.thekompany.com/projects/kivio/">Kivio</a>);
-  </li>
-  <li>an integrated database application
-    (<a href="http://www.koffice.org/kexi/">Kexi</a>);
-  </li>
-  <li>a pixel based image editing and painting application
-    (<a href="http://www.koffice.org/krita/">Krita</a>);
-  </li>
-  <li>a vector-drawing application
-    (<a href="http://www.koffice.org/karbon/">Karbon14</a>).
-  </li>
-  <li>a technology preview of a new project management application
-    (<a href="http://www.koffice.org/kplato/">KPlato</a>).
-  </li>
-</ul>
-<p>
-  Additionally, KOffice includes robust embeddable objects:
-</p>
-<ul>
-  <li>business quality reporting software
-    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
-  </li>
-  <li>full-featured charting engine
-    (<a href="http://www.koffice.org/kchart/">KChart</a>)
-  </li>
-  <li>mathematical formula handling
-    (<a href="http://www.koffice.org/kformula/">KFormula</a>)
-  </li>
-</ul>
-<p>
-  as well as a built-in thesaurus (KThesaurus)
-  and support for many different
-    <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
-</p>
-<p align="justify">
-  KOffice 1.5 is a subproject within KDE, a powerful and easy-to-use Internet-enabled
-    desktop for Linux and other UNIXes.  Together, KDE and KOffice constitute the
-  only Free Software project to provide a complete desktop and productivity
-  environment for Linux/UNIX.
-</p>
-<p align="justify">
-  KOffice and all its components (including KDE) are available
-  <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http and ftp</a> mirrors.
-</p>
 
 <?php include("footer.inc"); ?>
