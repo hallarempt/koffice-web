@@ -1,5 +1,5 @@
 <?php
-  $page_title='Downloading KOffice Version 1.5"';
+  $page_title='Downloading KOffice Version 1.5';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
