@@ -177,9 +177,140 @@ most features from <a href="http://www.koffice.org/developer/keyboardmodifiers.p
 
  <h2>Kivio</h2>
 
+    <ul>
+      <li>
+        <div align="justify">
+	 New improved dockers which is shared with Krita and Karbon14.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 A more powerful text edit dialog.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 New docker that shows all objects on the page.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Automatic guide lines which is shared with KPresenter.
+        </div>
+      </li>
+    </ul>
+
  <h2>Karbon14</h2>
 
+    <ul>
+      <li>
+        <div align="justify">
+	 Tight selection of objects.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Gradient and pattern fill can be edited directly on the canvas.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Much improved dockers by using the KoPalette library.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Major svg improvements and basic odf support.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 User interface polishing all around.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Printing fixes.
+        </div>
+      </li>
+    </ul>
+
  <h2>Krita</h2>
+
+<p>
+Krita 1.5.0 has a host of features unique in the free software graphical
+application arena. Let's begin with the beginning:
+</p>
+
+<img src="colorspaces.png">
+
+<p>
+As you can see, Krita offers you a choice of colorspaces: 8 and 16 bit cmyk,
+8 and 16 bit integer RGB, 16 and 32 bit floating point RGB, 8 and 16 bit grayscale,
+16 bit L*a*b -- and even some more exotic colorspaces like LMS cone space or
+a watercolor simulation (the latter is still experimental). In future versions
+of Krita we will ad YCbCr (already used in the tiff file format filter)
+and more artistic colorspaces. All colorspaces (except watercolor and LMS)
+are color corrected using [http://www.littlecms.com|lcms]. All tools, from painting
+to gradients and almost all filters are usable in all colorspaces. Read about
+your colorspace choices in the Krita manual, completely new in Krita 1.5.
+</p>
+
+<img src="histogram_layertooltips.png">
+
+<p>
+As you can see, Krita's palettes have been expanded and now include an Overview
+palette with zoom and panning control, a permanently updated Histogram palette
+and the brand new layers palette. Here, you can see a thumbnail of each layer,
+and if you let your mouse hover over the layer, you get an informative tooltip
+with a larger icon.
+</p>
+
+<img src="adjustment_layers.png">
+
+<p>
+Non destructive effects have finally arrived: Krita makes it easy for you by
+allowing you to use nearly all filters in the new adjustment layer feature.
+From artistic to color correction -- and note the new curve widget.
+</p>
+
+<img src="layergroups.png">
+
+<p>
+Organize your complex layered images using layer groups for performance and
+easy handling. This image has a basic layer, and artistic oilpaint filter
+adjustment layer grouped together, with two more layers on top. We offer a grid
+in several sizes for easy placement of layers.
+</p>
+
+<p>
+Krita is fully integrated with KOffice, and that means that you can create object
+layers that embed documents you can create in any KOffice application. Here we
+add a small text to our Krita image:
+</p>
+
+<img src="embedding.png">
+
+<p>
+And here is how it looks when the embedded KWord is no longer active. You can
+even apply adjustment layers over embedded layers!
+</p>
+
+<img src="embedding1.png">
+
+<p>
+Using the innovative and flexible KROSS scripting technology, first featured in Kexi,
+Krita is fully scriptable in Python and Ruby. A number of example scripts are provided:
+</p>
+
+<img src="scripting.png">
+
+<p>
+And when all is said and done, you can save your image using the new png, tiff and jpeg
+export filters. Krita now can load raw, png, tiff, jpeg, photoshop (limited to version
+6), gimp (limited) and many other file types. Krita can save in png, tiff, jpeg, bmp, gif
+and many other file formats.
+</p>
 
  <h2>KPlato</h2>
 
