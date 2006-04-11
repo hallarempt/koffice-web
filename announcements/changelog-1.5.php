@@ -112,13 +112,13 @@
 <ul>
  <li><em>OASIS OpenDocument support</em>
   <ul>
-   <li>Fixed loading of headers and footers (#107424)</li>
+   <li>Fixed loading of headers and footers (<a href="bugs.kde.org/107424">(bug #107424)</a>)</li>
    <li>Implemented saving of headers and footers</li>
    <li>Fix for text:h without outline-level</li>
    <li>Simplified the XML by removing spurious &lt;span&gt; tags due to misspelled words</li>
    <li>Save office:font-face-decls tag so that OOo loads the fonts</li>
    <li>Fixed loading of font sizes specified as a percentage</li>
-   <li>Implemented loading of list indentation (space-before) (#109223)</li>
+   <li>Implemented loading of list indentation (space-before) (<a href="bugs.kde.org/109223">(bug #109223)</a>)</li>
    <li>Improved OOo compatibility when saving page breaks</li>
    <li>Save first page number the right way so that OOo can load it</li>
    <li>Save bookmarks</li>
@@ -129,7 +129,7 @@
  <li>Fixed updating of "statistics" variable (e.g. word count) when loading/saving.</li>
  <li>The Zoom levels "Fit to Width" and "Fit To Page" now keep up when resizing the window</li>
  <li>Fixed background spell-checking issues</li>
- <li>Text layouting: fix for formatting of multi-frame paragraphs (#65059)</li>
+ <li>Text layouting: fix for formatting of multi-frame paragraphs (<a href="bugs.kde.org/65059">(bug #65059)</a></li>
  <li>Many crash fixes</li>
  <li>Much improved documentation</li>
  <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
@@ -691,7 +691,7 @@ all layers</li>
 <em>Fixes</em>
 <ul>
  <li>Add menu option to show/hide task-/resource allocation views.</li>
- <li>Bug 121828: Save/load resource cost and units.</li>
+ <li><a href="http://bugs.kde.org/121828">Bug 121828</a>: Save/load resource cost and units.</li>
 </ul>
 
 <h3 id="kchart">KChart</h3>
@@ -704,12 +704,12 @@ all layers</li>
  <li>Add start of OASIS OpenDocument support</li>
  <li>Replace charting engine with new version from KDab</li>
  <li>Fix for display flicker</li>
- <li>Fix bug 41612</li>
+ <li>Fix <a href="bugs.kde.org/41612">bug #41612</a></li>
 </ul>
 
 <em>Fixes:</em>
 <ul>
- <li>All the graphics related bugs in bugs.kde.org have been fixed</li>
+<li>All the graphics related bugs in <a href="http://bugs.kde.org">bugs.kde.org</a> have been fixed</li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>
