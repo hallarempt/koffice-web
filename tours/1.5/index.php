@@ -81,7 +81,7 @@ handbooks for additional information.
 
  <h3>Unified Scripting Support</h3>
 
- <p>KOffice finally provides an unified scripting approach called KROSS. With KROSS you can write
+ <p>KOffice finally provides an unified scripting approach called Kross. With Kross you can write
  Python and Ruby scripts for your KOffice documents.</p>
 
 
@@ -400,7 +400,7 @@ even apply adjustment layers over embedded layers!
 <img src="embedding1.png">
 
 <p>
-Using the innovative and flexible KROSS scripting technology, first featured in Kexi,
+Using the innovative and flexible Kross scripting technology, first featured in Kexi,
 Krita is fully scriptable in Python and Ruby. A number of example scripts are provided:
 </p>
 
