@@ -55,7 +55,28 @@
 
  <h3>Enhanced Accessibility</h3>
 
- <p>All major KOffice applications have improved accessibility features, including text to speech.</p>
+<p>
+KWord, KSpread, and KPresenter include some enhancements for near blind users 
+to have the text spoken of widgets under the mouse pointer and/or widgets 
+that have the focus. It also adds a <b>Speak Text</b> option in the context menu 
+of the KWord Document Structure Area, which is useful for speaking a 
+document.
+</p>
+
+<img src="tts.png">
+
+<p>
+In addition, all KOffice programs were enhanced for mouseless operation with 
+additional shortcuts and keyboard extensions.  For instance, you can press 
+Alt+F8 (customizable) and up pops a dialog which you can use to place focus 
+on any widget that can receive focus.
+</p>
+
+<img src="kbd-focus-ext.png">
+
+See <b>For Users with Disabilities</b> in the KWord, KSpread, or KPresenter 
+handbooks for additional information.
+</p>
 
  <h3>Unified Scripting Support</h3>
 
