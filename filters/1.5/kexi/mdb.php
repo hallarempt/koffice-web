@@ -13,7 +13,7 @@
   <p>It is distributed as <em>separate plugin</em> for Kexi.  For more
   information, see the Download section below</p>
 
-  <p>The filter can be used to import Access databases into a Kexi
+  <p>The plugin can be used to import Access databases into a Kexi
   database only: it cannot be used to edit the database, nor to export
   to an Access database.  However, it should also be able to import
   databases created by other applications that use the JET database
@@ -21,13 +21,14 @@
 
   <h2>Download</h2>
 
-  <p>The MDB filter is currently distributed as separate
+  <p>The MDB plugin is currently distributed as separate
   plugin for Kexi, but may be packaged for your distribution.</p>
 
-  <p>The source code for the beta version of the MDB filter is
-  available from <a
+  <p>The source code for the MDB plugin for KOffice&nbsp;1.5 (and
+  Kexi&nbsp;1.0) is available from <a
   href="ftp://ftp.kde.org/pub/kde/stable/apps/KDE3.x/database/keximdb-1.0.tar.gz"
-  >here</a>.</p>
+  >the KDE ftp server</a>.  You may also be able to find it packaged
+  for your distribution.</p>
 
   <h2>Status</h2>
 
