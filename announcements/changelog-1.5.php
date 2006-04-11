@@ -55,7 +55,7 @@
   <li>Let everything, interpreters and wrappers, be a plugin; load plugins only on demand.</li>
   <li>Added bindings for GUI-toolkits like TKinter or PyQt.</li>
   <li>Integrated Zope RestrictedPython to provide a restricted python environment to execute Python scripting code in a secure sandbox.</li>
-  <li>Added bindings for Python and Ruby programming languages.</li>
+  <li>Added bindings for Python and <a href="http://www.ruby-lang.org">Ruby</a> programming languages.</li>
   <li>Fix deleting of ruby wrapped objects</li>
   <li>Handle Python unicode strings</li>
   <li>Fix crash cause of unhandled exception</li> 
@@ -135,7 +135,7 @@
  <li>Many improvements of the document structure area, including pop-up menus, better refreshing...</li>
  <li>Resizing table rows with the mouse is disabled for this release, for the benefit of easier cell selection. Resizing columns works as before</li>
  <li>Improve mouse handling</li>
- <li>Fix crash due to missing table cell (122807)</li>
+ <li>Fix crash due to missing table cell (<a href="bugs.kde.org/122807">#122807</a>)</li>
  <li>Enable pasting objects from KSpread</li>
  <li>Saner margins</li>
  <li>Fixes for pasting</li>
@@ -170,12 +170,12 @@
 
  <li>Fix creation of emtpy charts</li>
  <li>Fixes for printing</li>
- <li>Fix crash bug 122239</li>
+ <li>Fix crash bug <a href="bugs.kde.org/122239">#122239</a></li>
  <li>Cells can have longer text than 5000 character</li>
  <li>Fix problem with recalculation not working in saved .ksp files</li>
  <li>Multi-select for objects, object handling is now conform to the KOffice standards</li>
  <li>Fix link to local file</li>
- <li>Bug 122237: empty cells get displayed correctly.</li>
+ <li>Bug <a href="bugs.kde.org/122237">#122237</a>: empty cells get displayed correctly.</li>
  <li>Brace highlighting in the formula editor</li>
  <li>Several crash fixes</li>
  <li>Selection optimization speed</li>
