@@ -48,10 +48,10 @@
  <h3>Native OASIS OpenDocument Format support</h3>
 
  <p>Finally, OASIS OpenDocument is the default native format for all major KOffice applications.
- This is a major step towards interoperability of major office suites on the basis of an industry
- standard. OpenOffice.org also uses OpenDocument as native file format, other office suites support
- it as well. Supporting the OASIS OpenDocument thus contributes to the global industry standard
- for office standards.</p>
+ This is a major step towards interoperability of major office suites on the basis of an open
+ industry standard. OpenOffice.org also uses OpenDocument as native file format, other office suites
+ support it as well. Supporting the OASIS OpenDocument thus contributes to the open and free global standard
+ for office files.</p>
 
  <h3>Enhanced Accessibility</h3>
 
@@ -59,10 +59,41 @@
 
  <h3>Unified Scripting Support</h3>
 
- <p>KROSS now allows scripting of some KOffice applications using Python and Ruby.</p>
+ <p>KOffice finally provides an unified scripting approach called KROSS. With KROSS you can write
+ Python and Ruby scripts for your KOffice documents.</p>
 
 
  <h2>KWord</h2>
+    <ul type="disc">
+      <li>
+        <div align="justify">
+         Text selecting greatly optimized.
+<!--
+- we made the textview indented and you can now select left of the text 
+to select the left most char
+  - we made the frames easier to click on (larger hit-area)
+  - we made the frame-borders clickable which will move the caret if the 
+caret was inside the frame already.
+-->
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        Fit to width zoom mode is saved between sessions and resizing the window 
+will mean that the zoom is automatically changed now.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 KWord makes selecting/moving/resizing frames easier.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Center page on screen.
+        </div>
+      </li>
+    </ul>
 
  <h2>KSpread</h2>
 
