@@ -183,8 +183,9 @@ application.
 Kexi can store it's data and design in a single database on a database server 
 of file. This version focuses on the data exchangeability and server support.
 </p>
-<!--
+
 <img src="http://kexi-project.org/pics/1.0/simple_printouts_m.png">
+<!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/simple_printouts.png">
 -->
@@ -197,9 +198,9 @@ print preview in KDE, does not require to preprocess all the data before
 showing the result!
 </p>
 
-<!--
 <p><b>Example printout:</b></p>
 <img src="http://kexi-project.org/pics/1.0/example_printout_m.png">
+<!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/example_printout.png">
 -->
@@ -216,8 +217,9 @@ format autodetection, Kexi automatically recognizes delimiters, text quote
 characters and even data types including date or time. All the options can be 
 changed by user before data importing or exporting.
 </p>
-<!--
+
 <img src="http://kexi-project.org/pics/1.0/csv_import_m.png">
+<!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/csv_import.png">
 -->
@@ -229,8 +231,9 @@ Source Pane has been added to ease assigning data source to inserted text
 boxes. Images can be now inserted from file onto the form or pasted from 
 clipboard and then saved within the single database losslessly.
 </p>
-<!--
+
 <img src="http://kexi-project.org/pics/1.0/image_box_m.png">
+<!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/image_box.png">
 -->
@@ -241,11 +244,12 @@ support has been greatly improved. Files can be just clicked and then Kexi
 will propose importing using special Database Importing Wizard. MS Access 
 database tables can be now imported with more accurately converted data types.
 </p>
-<!--
+
 <p>
 <b>Importing Northwind sample Microsoft Access (.mdb) database using Kexi on Linux:</b>
 </p>
 <img src="http://kexi-project.org/pics/1.0/northwind_mdb_import/northwind_mdb_import_sm.png">
+<!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/northwind_mdb_import/northwind_mdb_import.png">
 -->
