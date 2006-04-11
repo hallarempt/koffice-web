@@ -74,6 +74,7 @@ on any widget that can receive focus.
 
 <img src="kbd-focus-ext.png">
 
+<p>
 See <b>For Users with Disabilities</b> in the KWord, KSpread, or KPresenter 
 handbooks for additional information.
 </p>
@@ -117,6 +118,35 @@ will mean that the zoom is automatically changed now.
     </ul>
 
  <h2>KSpread</h2>
+
+    <ul>
+      <li>
+        <div align="justify">
+	 <a href="http://ariya.blogspot.com/2006/01/percent-featurelet.html">Percent in the formula.</a>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 <a href="http://ariya.blogspot.com/2006/01/last-minute-function-tip.html">Function tip when editing formula.</a>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 <a href="http://ariya.blogspot.com/2005/10/function-autocomplete.html">Autocomplete for function name.</a>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 <a href="http://ariya.blogspot.com/2005/10/highlight-is-cool-dragging-is-sweet.html">Range highlighting.</a>
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+	 Directly convert Excel files to OpenDocument Spreadsheets on the command line without even starting KSpread:
+         <b>koconverter report.xls report.ods</b>
+        </div>
+      </li>
+    </ul>
 
  <h2>KPresenter</h2>
 
