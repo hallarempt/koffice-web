@@ -35,7 +35,6 @@ $section->appendDir("Import/Export Filters", "filters");
 
 $section =& $this->appendSection("Documentation");
 $section->appendLink("KOffice $currentversion", "http://docs.kde.org/stable/en/koffice/", false);
-$section->appendLink("KOffice $develversion", "http://docs.kde.org/development/en/koffice/", false);
 
 $section =& $this->appendSection("Competition");
 $section->appendDir("Competitions", "competition");
