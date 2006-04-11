@@ -170,11 +170,6 @@ to other objects boarders).<br/>
 most features from <a href="http://www.koffice.org/developer/keyboardmodifiers.php">http://www.koffice.org/developer/keyboardmodifiers.php</a>.
         </div>
       </li>
-      <li>
-        <div align="justify">
-	 
-        </div>
-      </li>
     </ul>
 
 
