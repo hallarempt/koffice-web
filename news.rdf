@@ -8,6 +8,27 @@
     <language>en-us</language>
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+
+<item>
+<title>KOffice 1.5.0 released</title>
+<date>April 11, 2006</date>
+<fullstory>
+After a year of strenuous development, during which the KOffice team grew to
+thirty developers and created hundreds of improvements and thousands of fixes 
+to KOffice, KOffice 1.5.0 is released. KOffice 1.5.0 offers OASIS OpenDocument
+as the native file format for KWord, KSpread, KPresenter, Karbon and KChart,
+improved accessibility, a scripting component, the first full release of Kexi,
+CMYK and L*a*b colorspace support for Krita (and adjustment layers) and a completely
+new project management application, KPlato.
+For more
+information, See the <a
+href="http://www.koffice.org/announcements/announce-1.5.php">announcement</a>
+and the complete <a
+href="http://www.koffice.org/announcements/changelog-1.5.php">list
+of changes</a>.
+</fullstory>
+</item>
+
     
 <item>
 <title>Release Candidate 1 for KOffice 1.5 announced</title>
