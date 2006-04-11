@@ -1,6 +1,4 @@
 <?php
-<!--  removed in order to get the koffice1.5-640.png image on top -->
-<!--  $page_title = "KOffice - Integrated Office Suite"; -->
   $site_root = "./";
   $site_menus = 2;
   include("koffice.inc");
