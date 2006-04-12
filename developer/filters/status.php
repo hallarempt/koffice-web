@@ -429,7 +429,7 @@
       <td width="30%" align="left" valign="top">OpenEXR</td>
       <td width="50%" align="left" valign="top">
                 <a href="http://www.openexr.com/">OpenEXR</a> is a high dynamic-range (HDR) format <br /> 
-                developed by <a href="http://www.ilm.com">Industrial Light & Magic</a>
+                developed by <a href="http://www.ilm.com">Industrial Light &amp; Magic</a>
                 </td>
       <td width="10%" align="center" valign="top">
         <a href="http://websvn.kde.org/*checkout*/trunk/koffice/filters/krita/openexr/status.html#import?content-type=text/html">****</a>

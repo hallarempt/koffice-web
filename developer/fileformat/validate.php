@@ -57,14 +57,14 @@ java -jar $HOME/src/jing/bin/jing.jar \
    <pre><code>
 #!/bin/sh
 input="$1"
-echo "$input" | grep -v '^/' >/dev/null 2>&1 && input="$PWD/$input"
+echo "$input" | grep -v '^/' >/dev/null 2>&amp;1 &amp;&amp; input="$PWD/$input"
 tmpdir=/tmp/oasistmp
-rm -rf $tmpdir ; mkdir $tmpdir && cd $tmpdir || exit 1
+rm -rf $tmpdir ; mkdir $tmpdir &amp;&amp; cd $tmpdir || exit 1
 unzip -o $input || exit 1
 for f in content.xml styles.xml meta.xml settings.xml; do
   echo "Checking $f..." ; oasislint $f
   if test $? -eq 0 ; then
-    echo "Checking $f strict..." && oasislint-strict $f
+    echo "Checking $f strict..." &amp;&amp; oasislint-strict $f
   fi
 done
    </code></pre>

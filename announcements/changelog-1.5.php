@@ -481,7 +481,7 @@
  </li>
  <li>use KOffice documents as layers</li>
  <li>adjustment layers</li>
- <li>fix drag & drop of images into Krita</li>
+ <li>fix drag &amp; drop of images into Krita</li>
  <li>histogram docker</li>
  <li>group layers in folders</li>
  <li>much, much nicer layerbox with previews and tooltips</li>

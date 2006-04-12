@@ -80,7 +80,7 @@ $faq->addQuestion("What Does it Do?",
 Other planned features:
 </p>
 <ul>
-<li>HSV, Wet & Sticky and Wet Canvas color models</li>
+<li>HSV, Wet &amp; Sticky and Wet Canvas color models</li>
 <li>image manipulation filters for advanced import/export</li>
 <li>wide range of region selection methods, including fuzzy selection and boundary detection</li>
 <li>scripting with the Python language</li>

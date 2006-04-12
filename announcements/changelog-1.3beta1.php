@@ -200,7 +200,7 @@
   DPRODUCT, DSTDEV, DSTDEVP, DSUM, DVAR, DVARP
 </p>
 
-<p><em>Reference & Lookup (8):</em>
+<p><em>Reference &amp; Lookup (8):</em>
   ADDRESS, AREAS, CHOOSE, COLUMN, COLUMNS, 
   INDIRECT, ROW, ROWS
 </p>
