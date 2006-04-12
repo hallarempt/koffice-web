@@ -18,7 +18,7 @@ KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a
 <a name="source_code"></a><strong>Source Code</strong>:
 
 The complete source code for KOffice <?php echo $currentversion ?> is available for free download
-via one of the KDE <a href="http://download.kde.org/stable/koffice-<?php echo $currentversion ?>/src/">http</a>
+via one of the KDE <a href="http://download.kde.org/stable/koffice-1.5.0<?php // FIXME add back when site.inc uses suitable version number agian // echo $currentversion ?>/src/">http</a>
 or <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
 
 <h3>Download Binaries: KOffice <?php echo $currentversion; ?></h3>
