@@ -353,7 +353,7 @@ As you can see, Krita offers you a choice of colorspaces: 8 and 16 bit cmyk,
 a watercolor simulation (the latter is still experimental). In future versions
 of Krita we will ad YCbCr (already used in the tiff file format filter)
 and more artistic colorspaces. All colorspaces (except watercolor and LMS)
-are color corrected using [http://www.littlecms.com|lcms]. All tools, from painting
+are color corrected using <a href="http://www.littlecms.com">lcms</a>. All tools, from painting
 to gradients and almost all filters are usable in all colorspaces. Read about
 your colorspace choices in the Krita manual, completely new in Krita 1.5.
 </p>

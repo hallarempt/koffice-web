@@ -153,7 +153,7 @@ application.
 Using Kexi, a new database project can be set up in less than one minute as a
 single efficient file, without a need for administering servers. When needed,
 MySQL server can be used for storage or existing project can be imported from
-MySQL server of MS Access file. The final version focuses on the data
+MySQL server or MS Access file. The final version focuses on the data
 exchangeability and server support.
 </p>
         </div>
