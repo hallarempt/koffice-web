@@ -58,8 +58,8 @@ have their own mailing lists.</p>
 );
 
 // CHECK: Kexi, Kugar, KPlato
-$faq->addQuestion("Which KOffice application do exist?",
-"Following applications exist and are part of KOffice 1.4:</p>
+$faq->addQuestion("What applications are part of KOffice?",
+"Following applications exist and are part of KOffice 1.5:</p>
 <ul>
 <li>KWord - a word processor</li>
 <li>KSpread - a spread sheet</li>
@@ -71,9 +71,6 @@ $faq->addQuestion("Which KOffice application do exist?",
 <li>Kugar - a database report creator</li>
 <li>Krita - an image manipulation program</li>
 <li>Kexi - a database management tool</li>
-</ul>
-<p>Following applications are planned for future versions:</p>
-<ul>
 <li>KPlato - a project management program</li>
 </ul>
 <p>&nbsp;" # dummy paragraph
@@ -89,8 +86,10 @@ applications are only planned for future KOffice releases."
 
 // CHECK: "sync" is an abbreviation
 $faq->addQuestion("What is the current state of KOffice?",
-"At the time of this writing, KOffice 1.4.0 has been released. KOffice is released separately
-from the rest of KDE, so KOffice releases are not in sync with those of KDE."
+"At the time of this writing, KOffice 1.5.0 has been released. KOffice
+is released separately from the rest of KDE, so KOffice releases are
+not in sync with those of KDE."
+
 );
 
 $faq->addQuestion("Are you going to implement feature XYZ?",
@@ -265,8 +264,11 @@ $faq->addQuestion("Does KOffice support scripting?",
  Java. Furthermore, using the <code>dcop</code> command line utility from kdelibs, you can
  control applications from your shell, so you can basically even script KOffice using
  bash or whatever shell you prefer. Of course you can also access these interfaces
- using a C++ library or its C wrapper."
-);
+ using a C++ library or its C wrapper.
+ <p>Support for scripting within applications was introduced in Kexi
+ and Krita in KOffice 1.5.0.  Script developers should note that this
+ support is new, and subject to change.  As such, large scripting
+ projects are not recommended at this stage.</p>" );
 
 $faq->addQuestion("Does KOffice support macros?",
 "No, we do not support macros in documents to avoid Trojan horses done with such macros.
@@ -281,13 +283,13 @@ can unfortunately lead to limitations (like for printing EPS files.)"
 );
 
 $faq->addQuestion("What data format does KOffice read and write natively?",
-"KOffice documents are zipped files. Inside these files KOffice's data is
-stored in XML files. Pictures however are directly stored as binary.</p>
-<p>Up to KOffice 1.3, the XML tags used by KOffice's applications are private to
-KOffice. From KOffice 1.4.1, you can use the OASIS OpenDocument support in most
-applications, to e.g. exchange documents with OpenOffice.org.
-In the future we plan to switch to that format by default."
-);
+"As of KOffice 1.5.0, the
+<a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS
+OpenDocument file format</a> is the native format.  This allows documents to
+used in other applications that support the OpenDocument format, including
+those in the OpenOffice.org suite.
+<p>Up to KOffice 1.3, KOffice applications used their own file formats.
+OpenDocument support was introduced for most applications in KOffice 1.4.1, but only became the default format in KOffice 1.5");
 
 /*
 </answer></qandaentry><qandaentry><question><para> What data format does &KOffice; read and write natively?</para></question><answer>
@@ -347,8 +349,8 @@ $faq->addQuestion("Does KOffice support languages that write top to bottom?",
 );
 
 $faq->addQuestion("Does KOffice support Indic scripts?",
-"Partially. KOffice 1.4 has support for some Indic scripts (depending on your Qt version, too)."
-);
+"Partially. Support for some Indic scripts (depending on your Qt
+version, too) was introduced in KOffice 1.4."  );
 
 
 $faq->addSection("Problems common to all KOffice applications");
@@ -429,7 +431,7 @@ $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter,
 "Yes, there are filters for KWord. <a href=\"/filters\">See this page for documentation.</a></p>
 <p>Some filters are not always working well, as implementing a filter depends on the available documentation
 of the file format.</p>
-<p>Please note that in KOffice 1.4, it is recommended to save as RTF (Rich Text Format) to exchange with MS-Word.
+<p>Please note that in current versions of KOffice, it is recommended to save as RTF (Rich Text Format) to exchange with MS-Word.
 (PDF can be a good file format too for importing into KWord.)"
 );
 
