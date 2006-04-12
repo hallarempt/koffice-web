@@ -103,9 +103,9 @@
       <td width="30%" align="left" valign="top">
         <a href="kword/pdf.php">PDF</a>
       </td>
-      <td width="50%" align="left" valign="top">Portable Document Format</td>
+      <td width="50%" align="left" valign="top">Portable Document Format: All KOffice applications can export to PDF: use File/Print</td></td>
       <td width="10%" align="center" valign="top">***</td>
-      <td width="10%" align="center" valign="top">-</td>
+      <td width="10%" align="center" valign="top">***<b></td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">
