@@ -284,7 +284,7 @@ can unfortunately lead to limitations (like for printing EPS files.)"
 
 $faq->addQuestion("What data format does KOffice read and write natively?",
 "As of KOffice 1.5.0, the
-<a href="http://en.wikipedia.org/wiki/OpenDocument">OASIS
+<a href=\"http://en.wikipedia.org/wiki/OpenDocument\">OASIS
 OpenDocument file format</a> is the native format.  This allows documents to
 used in other applications that support the OpenDocument format, including
 those in the OpenOffice.org suite.
