@@ -264,11 +264,11 @@ $faq->addQuestion("Does KOffice support scripting?",
  Java. Furthermore, using the <code>dcop</code> command line utility from kdelibs, you can
  control applications from your shell, so you can basically even script KOffice using
  bash or whatever shell you prefer. Of course you can also access these interfaces
- using a C++ library or its C wrapper.
+ using a C++ library or its C wrapper.</p>
  <p>Support for scripting within applications was introduced in Kexi
  and Krita in KOffice 1.5.0.  Script developers should note that this
  support is new, and subject to change.  As such, large scripting
- projects are not recommended at this stage.</p>" );
+ projects are not recommended at this stage." );
 
 $faq->addQuestion("Does KOffice support macros?",
 "No, we do not support macros in documents to avoid Trojan horses done with such macros.

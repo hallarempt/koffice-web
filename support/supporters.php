@@ -48,23 +48,23 @@
       </table>
 
       <p>
-      <a href="mailto:l.widdershoven<at>fz-juelich.de">Leon Widdershoven</a>
+      <a href="mailto:l.widdershoven&lt;at&gt;fz-juelich.de">Leon Widdershoven</a>
       donated the money for a 100 MBit network card for the KOffice server
       and a fast processor for a KOffice developer, David Faure.
       </p>
 
       <p>
-      <a href="mailto:thomas.huld<at>jrc.it">Thomas Huld</a> donated the money for
+      <a href="mailto:thomas.huld&lt;at&gt;jrc.it">Thomas Huld</a> donated the money for
       additional RAM for the KOffice server.
       </p>
 
       <p>
-      <a href="mailto:fkarsten<at>domein1.com">Frank Karsten</a> donated money for
+      <a href="mailto:fkarsten&lt;at&gt;domein1.com">Frank Karsten</a> donated money for
       the KOffice server.
       </p>
 
       <p>
-      <a href="mailto:jametrel<at>enoreo.on.ca">James Treleaven</a> sponsored
+      <a href="mailto:jametrel&lt;at&gt;enoreo.on.ca">James Treleaven</a> sponsored
       the first year of David Faure's application to the OASIS group for being part of the
       Open Office Format discussion group, whose goal is to define a standard file format
       for office suites.
