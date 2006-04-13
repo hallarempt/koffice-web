@@ -287,7 +287,7 @@ $faq->addQuestion("What data format does KOffice read and write natively?",
 <a href=\"http://en.wikipedia.org/wiki/OpenDocument\">OASIS
 OpenDocument file format</a> is the native format.  This allows documents to
 used in other applications that support the OpenDocument format, including
-those in the OpenOffice.org suite.
+those in the OpenOffice.org suite.</p>
 <p>Up to KOffice 1.3, KOffice applications used their own file formats.
 OpenDocument support was introduced for most applications in KOffice 1.4.1, but only became the default format in KOffice 1.5");
 
