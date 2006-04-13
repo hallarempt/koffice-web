@@ -23,12 +23,6 @@
     <th>Name of Applicant</th>
   </tr>
   <tr>
-    <td><b>KOffice lib/kopalette</b>: see last comment of the bug and implement it <a href="http://bugs.kde.org/show_bug.cgi?id=118346">http://bugs.kde.org/show_bug.cgi?id=118346</a></td>
-    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
-    <td>30th January 2006</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td><b>Karbon</b>: <a href="http://bugs.kde.org/show_bug.cgi?id=109189">http://bugs.kde.org/show_bug.cgi?id=109189</a></td>
     <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
     <td>30th January 2006</td>
@@ -73,7 +67,37 @@
   <tr>
     <td><b>KWord</b>: Configurable default text color. <a href="http://bugs.kde.org/show_bug.cgi?id=44080">http://bugs.kde.org/show_bug.cgi?id=44080</a></td>
     <td><a href="mailto:faure () kde ! org">David Faure</a></td>
-    <td>30th January 2006</td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: Need a way to align various frames <a href="http://bugs.kde.org/show_bug.cgi?id=27891">http://bugs.kde.org/show_bug.cgi?id=27891</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: new view of embedded part <a href="http://bugs.kde.org/show_bug.cgi?id=29211">http://bugs.kde.org/show_bug.cgi?id=29211</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: When inserting link selected text should be prefilled as comment<a href="http://bugs.kde.org/show_bug.cgi?id=63189">http://bugs.kde.org/show_bug.cgi?id=63189</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: Change style dialog for "restart numbering"<a href="http://bugs.kde.org/show_bug.cgi?id=68926">http://bugs.kde.org/show_bug.cgi?id=68926</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: simple option to repeat a certain frame on every page<a href="http://bugs.kde.org/show_bug.cgi?id=73636">http://bugs.kde.org/show_bug.cgi?id=73636</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
     <td>-</td>
   </tr>
 </table>
