@@ -1,5 +1,5 @@
 <?php
-  $page_title="Download KOffice Binaries";
+  $page_title="Download KOffice";
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -15,12 +15,12 @@ KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a
 
 <h3>Download sources: KOffice <?php echo $currentversion; ?></h3>
 
-<a name="source_code"></a><strong>Source Code</strong>:
+<a name="source_code"></a>
+<h3>Download KOffice Source Code</h3>:
 
-The complete source code for KOffice <?php echo $currentversion ?> is available for free download
-via one of the KDE <a href="http://download.kde.org/stable/koffice-1.5.0<?php // FIXME add back when site.inc uses suitable version number agian // echo $currentversion ?>/src/">http</a>
-or <a href="http://www.kde.org/mirrors/ftp.php">ftp</a> mirrors.
+<p>For more information read the <a href="source.php">Download KOffice Source Code</a> page.</p>
 
+<a name="binaries"></a>
 <h3>Download Binaries: KOffice <?php echo $currentversion; ?></h3>
 
 <p align="justify">
@@ -38,10 +38,12 @@ and/or contact your OS vendor.
 
 <p>Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
 <a href="http://download.kde.org/stable/koffice-1.4/">here (koffice-1.4)</a> and
-<a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/">here (koffice-<?php echo $currentversion; ?>)</a>.</p>
+<a href="http://download.kde.org/stable/koffice-1.5.0/">here (koffice-1.5.0)</a>.</p>
 
-<p><a href="http://www.archlinux.org">archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
+<p><a href="http://www.archlinux.org">Archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
 <p>PCLinuxOS users can get <a href="http://distro.ibiblio.org/pub/linux/distributions/texstar/pclinuxos/apt/pclinuxos/2004/RPMS.texstar/koffice-1.4.1-2tex.i586.rpm">koffice-1.4.1-2tex.i586.rpm</a></p>
+
+<p>KOffice is also available on dedicated <a href="http://ktown.kde.org/~binner/klax/koffice.html">Klax KOffice Live-CD</a>.</p>
 
 <h2>Installing Binaries</h2>
 <br />

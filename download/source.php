@@ -14,12 +14,6 @@
 ]
 </div>
 
-<h2>Links For Special Distributions</h2>
-<ul>
-<li><a href="http://ktown.kde.org/~binner/klax/koffice.html">
-KOffice <?php echo $currentversion; ?> Live-CD</a></li>
-</ul>
-
 <h2><a name="requirements">Requirements</a></h2>
 <p>To compile KOffice you need:</p>
 <ul>
@@ -40,11 +34,8 @@ If you want the development version (where you need at least KDE 3.3) you can ch
 regularly via SVN.</p>
 
 <h2>Download</h2>
-<p><b>KOffice <?php echo $currentversion; ?> stable</b> is available
-<a href="http://download.kde.org/stable/koffice-<?php echo $currentversion; ?>/src/">here</a></p>
-
-<!-- <p><b>The latest development release is KOffice <?php echo $develversion; ?></b>. Get it from
-<a href="http://download.kde.org/unstable/koffice-<?php echo $develversion; ?>/src/">here</a>.</p> -->
+<p>The complete source code for KOffice <?php echo $currentversion ?> is available for free download
+via one of the <a href="http://download.kde.org/stable/koffice-1.5.0/src/">KDE HTTP or FTP mirrors</a>.</p>
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
 <p>The development version via <b>anonymous SVN</b> (recommended) needs extra instructions, check the
