@@ -13,10 +13,8 @@ KDE, so KOffice releases are not in sync with those of KDE. If you wish to use a
 <h2>Download</h2>
 <p>Qt >= 3.3.x, arts >= 1.3, and kdelibs >= 3.3.0 packages are all pre-requisites of KOffice. kdebase is strongly recommended too.</p>
 
-<h3>Download sources: KOffice <?php echo $currentversion; ?></h3>
-
 <a name="source_code"></a>
-<h3>Download KOffice Source Code</h3>:
+<h3>Download Source Code: KOffice <?php echo $currentversion; ?></h3>
 
 <p>For more information read the <a href="source.php">Download KOffice Source Code</a> page.</p>
 
