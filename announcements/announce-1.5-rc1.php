@@ -395,7 +395,7 @@ coming days and weeks.
   Besides the valuable and excellent efforts by the
   <a href="http://www.koffice.org/people.php">KOffice developers</a>
   themselves, significant support for KOffice development has been provided by
-  <a href="http://www.mandrakesoft.com/">MandrakeSoft</a> (which sponsors
+  <a href="http://www.mandriva.com/">Mandriva</a> (which sponsors
   KOffice developer Laurent Montel),
   <a href="http://www.trolltech.com/">Trolltech</a> (which sponsors
   KOffice developer David Faure),
