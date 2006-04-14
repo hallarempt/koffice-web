@@ -30,9 +30,8 @@
             supports KOffice in various ways, including financing KOffice developer Laurent Montel
 	    (formerly David Faure as well).</td>
           <td valign="middle" align="left">
-            <a href="http://www.mandrivalinux.com/"><img
-            src="../pics/mandrake.jpg" border="0"
-            alt="[Mandriva Logo]" align="right" width="200" height="85" /></a></td>
+            <a href="http://www.mandrivalinux.com/">
+			<img src="../pics/mandriva.png" border="0" align="right" alt="Mandriva Linux" height="57" width="230" /></a></td>
       </tr>
       </table>
 
