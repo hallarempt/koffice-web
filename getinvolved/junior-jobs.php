@@ -100,6 +100,18 @@
     <td>31th December 2006</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td><b>KWord</b>: wrong direction typographical quotes<a href="http://bugs.kde.org/show_bug.cgi?id=84562">http://bugs.kde.org/show_bug.cgi?id=84562</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: Replace dialog searches aren't remembered<a href="http://bugs.kde.org/show_bug.cgi?id=125444">http://bugs.kde.org/show_bug.cgi?id=125444</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>-</td>
+  </tr>
 </table>
 
 <p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf () free ! fr">Anne-Marie</a> so the task can be assigned to you.<br />
