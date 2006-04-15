@@ -83,31 +83,36 @@
     <td>-</td>
   </tr>
   <tr>
-    <td><b>KWord</b>: When inserting link selected text should be prefilled as comment<a href="http://bugs.kde.org/show_bug.cgi?id=63189">http://bugs.kde.org/show_bug.cgi?id=63189</a></td>
+    <td><b>KWord</b>: When inserting link selected text should be prefilled as comment
+        <a href="http://bugs.kde.org/show_bug.cgi?id=63189">http://bugs.kde.org/show_bug.cgi?id=63189</a></td>
     <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
     <td>31th December 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>KWord</b>: Change style dialog for "restart numbering"<a href="http://bugs.kde.org/show_bug.cgi?id=68926">http://bugs.kde.org/show_bug.cgi?id=68926</a></td>
+    <td><b>KWord</b>: Change style dialog for "restart numbering"
+        <a href="http://bugs.kde.org/show_bug.cgi?id=68926">http://bugs.kde.org/show_bug.cgi?id=68926</a></td>
     <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
     <td>31th December 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>KWord</b>: simple option to repeat a certain frame on every page<a href="http://bugs.kde.org/show_bug.cgi?id=73636">http://bugs.kde.org/show_bug.cgi?id=73636</a></td>
+    <td><b>KWord</b>: simple option to repeat a certain frame on every page
+        <a href="http://bugs.kde.org/show_bug.cgi?id=73636">http://bugs.kde.org/show_bug.cgi?id=73636</a></td>
     <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
     <td>31th December 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>KWord</b>: wrong direction typographical quotes<a href="http://bugs.kde.org/show_bug.cgi?id=84562">http://bugs.kde.org/show_bug.cgi?id=84562</a></td>
+    <td><b>KWord</b>: wrong direction typographical quotes
+        <a href="http://bugs.kde.org/show_bug.cgi?id=84562">http://bugs.kde.org/show_bug.cgi?id=84562</a></td>
     <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
     <td>31th December 2006</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>KWord</b>: Replace dialog searches aren't remembered<a href="http://bugs.kde.org/show_bug.cgi?id=125444">http://bugs.kde.org/show_bug.cgi?id=125444</a></td>
+    <td><b>KWord</b>: Replace dialog searches aren't remembered
+        <a href="http://bugs.kde.org/show_bug.cgi?id=125444">http://bugs.kde.org/show_bug.cgi?id=125444</a></td>
     <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
     <td>31th December 2006</td>
     <td>-</td>
