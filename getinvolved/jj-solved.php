@@ -75,21 +75,28 @@
   </tr>
   <tr>
     <td><b>KWord</b>: Action for "double linespacing", to assign a shortcut to it. <a href="http://bugs.kde.org/show_bug.cgi?id=26451">http://bugs.kde.org/show_bug.cgi?id=26451</a></td>
-    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>Thomas Zander</td>
     <td><b>DONE</b></td>
     <td>Matthias Granberry</td>
   </tr>
   <tr>
     <td><b>KWord</b>: KWord should remember the dir location last used for image import. <a href="http://bugs.kde.org/show_bug.cgi?id=84914">http://bugs.kde.org/show_bug.cgi?id=84914</a></td>
-    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>Thomas Zander</td>
     <td>19th December 2005</td>
     <td>David Faure </td>
   </tr>
   <tr>
     <td><b>KWord</b>: Make zoom to page persistent. <a href="http://bugs.kde.org/show_bug.cgi?id=117271">http://bugs.kde.org/show_bug.cgi?id=117271</a></td>
-    <td><a href="mailto:zander () kde ! org">Thomas Zander</a></td>
+    <td>Thomas Zander</td>
     <td>16 December 2005</td>
     <td><a href="mailto:litb_devel () web ! de">litb</a></td>
+  </tr>
+  <tr>
+    <td><b>KWord</b>: wrong direction typographical quotes
+        <a href="http://bugs.kde.org/show_bug.cgi?id=84562">http://bugs.kde.org/show_bug.cgi?id=84562</a></td>
+    <td>Thomas Zander</td>
+    <td>31th December 2006</td>
+    <td>Benjamin K.Stuhl &lt;benjamin.stuhl  colorado.edu&gt;</td>
   </tr>
 </table>
 
