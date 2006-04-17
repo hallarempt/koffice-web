@@ -6,9 +6,8 @@
 ?>
 
 <h3>Current competition</h3>
-<p>The current competition <a href="guiKOffice2.php">GUI and Functionality
-Design Competition for KOffice 2</a> started on December 15 2005 and will last
-until January 2006. Prize is $1000 (US dollars).</p>
+<p>The last competition, <a href="guiKOffice2.php">GUI and Functionality
+    Design Competition for KOffice 2</a>, started on December 15 2005 and ended on March 5th.  It was won by Martin Pfeiffer.</p>
 
 <a name="news" />
 <?php
