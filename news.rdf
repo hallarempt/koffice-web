@@ -10,6 +10,17 @@
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice fileformat ODF is now ISO/IEC 26300</title>
+<date>May 09, 2006</date>
+<fullstory>
+KOffice uses the Open Document file Format as the standard fileformat since the 1.5.0 release,
+allowing high quality integration with other office suites that use it.  And using ODF just got
+much more attractive since its the only officially open and recognized office-file format in
+existance.  <a href="http://www.consortiuminfo.org/standardsblog/article.php?story=20060503080915835">more</a>
+</fullstory>
+</item>
+
+<item>
 <title>KOffice 1.5.0 released</title>
 <date>April 11, 2006</date>
 <fullstory>
