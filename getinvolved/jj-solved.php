@@ -98,6 +98,13 @@
     <td>31th December 2006</td>
     <td>Benjamin K.Stuhl &lt;benjamin.stuhl  colorado.edu&gt;</td>
   </tr>
+  <tr>
+    <td><b>KWord</b>: Replace dialog searches aren't remembered
+        <a href="http://bugs.kde.org/show_bug.cgi?id=125444">http://bugs.kde.org/show_bug.cgi?id=125444</a></td>
+    <td><a href="mailto:&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;">Thomas Zander</a></td>
+    <td>31th December 2006</td>
+    <td>Benjamin K.Stuhl &lt;benjamin.stuhl  colorado.edu&gt;</td>
+  </tr>
 </table>
 
  <hr width="30%" align="center" />
