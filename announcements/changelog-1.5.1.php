@@ -32,7 +32,7 @@
         the margins of the paragraph, rather than spanning
         the entire frame.</li>
     <li>Fix by Benjamin K.Stuhl for "replace dialog searches are not remembered". Thanks!
-BUG: 125444</li>
+(<a href="http://bugs.kde.org/125444">bug #125444</a>)</li>
     <li>Fix behavior of tabs in center-aligned or right-aligned paragraphs, as noticed by Thorsten.</li> 
     <li>Copy and use the unit the user chose</li>
     <li>Many fixes for coding errors spotted by Christoph Bartoschek. Thanks!</li>
@@ -42,12 +42,12 @@ BUG: 125444</li>
 <h3 id="kword">KWord</h3>
 <ul>
     <li>Fix layouting of documents with footnotes</li>
-    <li>Fix bug 126635</li>
+    <li>Fix <a href="http://bugs.kde.org/126635">bug #126635</a></li>
     <li>Fix wrong page breaks being inserted during copy/paste</li>
     <li>Load default settings for DTP style documents too, preventing a crash</li>
-    <li>Fix bug 126235: use unit from config, not the hardcoded one</li>
+    <li>Fix <a href="http://bugs.kde.org/126235">bug #126235</a>: use unit from config, not the hardcoded one</li>
     <li>Apply patch by Benjamin K.Stuhl to fix
-[Bug 84562] JJ: wrong direction typographical quotes. Thanks!</li>
+<a href="http://bugs.kde.org/84562">bug #84562</a> JJ: wrong direction typographical quotes. Thanks!</li>
     <li>Fix input of Japanese text with skim</li>
 </ul>
 
@@ -57,7 +57,7 @@ BUG: 125444</li>
 
 <h3 id="kspread">KSpread</h3>
 <ul>
-    <li>Fix bug 126350 -- date loss when saving OpenDocument</li>
+    <li>Fix <a href="http://bugs.kde.org/126350">bug #126350</a> -- date loss when saving OpenDocument</li>
     <li>Speed up loading documents when debug is compiled in</li>
     <li>Initilize the scrollbars on sheet changes correctly</li>
     <li>Fix loading/saving of cursor positions</li>
@@ -71,15 +71,15 @@ BUG: 125444</li>
                 dirty. For cells not at the sheet border we take always the
                 pen which is more 'worth'. This avoids a linear search in the
                 paint dirty list. And speeds up the painting.</li>
-    <li>Fix 'Bug 125828: Integer-valued cells unaffected by "Increase/decrease the 
+    <li>Fix '<a href="http://bugs.kde.org/125828">bug #125828</a>: Integer-valued cells unaffected by "Increase/decrease the 
         decimal precision shown onscreen"'</li>
     <li>Fix strange selection behaviour while using the autosum function</li>
-    <li>Fix mutli sheel selections for formulas. Bug: 125941</li>
+    <li>Fix mutli sheel selections for formulas. (<a href="http://bugs.kde.org/125941">bug #125941</a>)</li>
     <li>Fix OpenDocument loading/saving of number formattings, precisions, large numbers</li>
     <li>Fix loading of header row</li>
     <li>Fix some problems with importing Excel files</li>
     <li> Fix the default width/height in the 'Resize Column/Row' dialogs.
-Bug: 125751</li>
+<a href="http://bugs.kde.org/125751">bug #125751</a>)</li>
 
 
 </ul>
@@ -87,9 +87,9 @@ Bug: 125751</li>
 <h3 id="kpresenter">KPresenter</h3>
 
 <ul>
-    <li> Fix Bug 125424: When setting slide background to "Use slide master
+    <li> Fix <a href="http://bugs.kde.org/125424">bug #125424</a>: When setting slide background to "Use slide master
   background", preview is not shown correctly.</li>
-  <li>Fix Bug 125418: Resizing textarea resizes wrong textarea.</li>
+  <li>Fix <a href="http://bugs.kde.org/125418">bug #125418</a>: Resizing textarea resizes wrong textarea.</li>
 </ul>
 
 <h3 id="kivio">Kivio</h3>
@@ -141,7 +141,7 @@ and just show empty editor when opening a design in text view and there
 <h3 id="kformula">KFormula</h3>
 <ul>
     <li>Added 16bit support for keys of symbol characters.</li>
-    <li>Added not equal (neq) symbol.  (BUG: 123962)</li>
+    <li>Added not equal (neq) symbol.  (<a href="http://bugs.kde.org/123962">bug #123962</a>)</li>
 
 </ul>
 
