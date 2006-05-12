@@ -7,7 +7,8 @@
 
 <p align="justify">
    DATELINE MAY 11, 2006<br />
-   FOR IMMEDIATE RELEASE
+<!--   FOR IMMEDIATE RELEASE -->
+<div style="font-weight:bold;color:red;border:2px solid red;padding:0.2em;">EMBARGO: Do not publish!</div>
 </p>
 <h2>
   KDE Ships New Release Free Integrated Office Suite
