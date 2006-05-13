@@ -79,7 +79,7 @@ decimal precision shown onscreen"'</li>
     <li>Fix loading of header row</li>
     <li>Fix some problems with importing Excel files</li>
     <li> Fix the default width/height in the 'Resize Column/Row' dialogs.
-<a href="http://bugs.kde.org/125751">bug #125751</a>)</li>
+(<a href="http://bugs.kde.org/125751">bug #125751</a>)</li>
 
 
 </ul>
