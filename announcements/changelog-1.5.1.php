@@ -29,8 +29,8 @@
     <li>Fix for "points are saved with comma instead of dot in e.g. french locale".
     <li>Fix handling of guides</li>
     <li>Render paragraph borders so that they span between
-        the margins of the paragraph, rather than spanning
-        the entire frame.</li>
+the margins of the paragraph, rather than spanning
+the entire frame.</li>
     <li>Fix by Benjamin K.Stuhl for "replace dialog searches are not remembered". Thanks!
 (<a href="http://bugs.kde.org/125444">bug #125444</a>)</li>
     <li>Fix behavior of tabs in center-aligned or right-aligned paragraphs, as noticed by Thorsten.</li> 
@@ -62,17 +62,17 @@
     <li>Initilize the scrollbars on sheet changes correctly</li>
     <li>Fix loading/saving of cursor positions</li>
     <li>Painting engine Fix painting of cell grid.
-                On scrolling the grid was sometimes not painted for one row.
-                It is necessary to dilate all (!) regions by one column/row -
-                particularly the rect of visible cells, which is used on
-                scrolling.</li>
+On scrolling the grid was sometimes not painted for one row.
+It is necessary to dilate all (!) regions by one column/row -
+particularly the rect of visible cells, which is used on
+scrolling.</li>
     <li>painting engine Border painting
-                No need to check wether the adjacent cell is also marked
-                dirty. For cells not at the sheet border we take always the
-                pen which is more 'worth'. This avoids a linear search in the
-                paint dirty list. And speeds up the painting.</li>
+No need to check wether the adjacent cell is also marked
+dirty. For cells not at the sheet border we take always the
+pen which is more 'worth'. This avoids a linear search in the
+paint dirty list. And speeds up the painting.</li>
     <li>Fix '<a href="http://bugs.kde.org/125828">bug #125828</a>: Integer-valued cells unaffected by "Increase/decrease the 
-        decimal precision shown onscreen"'</li>
+decimal precision shown onscreen"'</li>
     <li>Fix strange selection behaviour while using the autosum function</li>
     <li>Fix mutli sheel selections for formulas. (<a href="http://bugs.kde.org/125941">bug #125941</a>)</li>
     <li>Fix OpenDocument loading/saving of number formattings, precisions, large numbers</li>
@@ -96,15 +96,15 @@
 
 <h3 id="kexi">Kexi</h3>
     <li>fixed entering floating-point values for locales where ',',
-  not '.' is the fractional point</li>
+not '.' is the fractional point</li>
     <li>fixed converting floating-point values to SQL-compatible strings when
-  the number was provided as string QVariant</li>
+the number was provided as string QVariant</li>
     <li>In the query designer show error message when switching to other view failed (i18n-safe)
 and just show empty editor when opening a design in text view and there
-  is no sql statement found in the backend</li>
+is no sql statement found in the backend</li>
     <li>Fix saving design changes while in data view</li>
     <li>fixed crash when double (or single, depending on the settings) clicking 
-  on the empty area of the Project Browser</li>
+on the empty area of the Project Browser</li>
 <ul>
     <li>Fix building SQL INSERT statements for "prepared statement"
     <li>Report error when closing SQLite3 database</li> 
@@ -116,12 +116,12 @@ and just show empty editor when opening a design in text view and there
 <ul>
     <li>Preserve transparency when scaling</li>
     <li>Fix transforming (rotating, scaling, shearing) of images beyon 2700 pixels. Note:
-        images with dimensions larger than 8 million pixels still get distorted</li>
+images with dimensions larger than 8 million pixels still get distorted</li>
     <li>Fix duplicate tool</li>
     <li>Fix compilation on Solaris</li>
     <li>Fix crash when resizing an empty layer</li>
     <li>Disable bmp export filter: ImageMagick can only save bmp's with transparency,
-        which only ImageMagick can read</li>
+which only ImageMagick can read</li>
     <li>Make MirrorX, MirrorY, scale layer and rotate layer undoable</li>
     <li>Fix crash when painting on a group or object layer</li>
 </ul>
