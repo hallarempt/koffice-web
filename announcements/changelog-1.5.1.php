@@ -95,20 +95,33 @@ decimal precision shown onscreen"'</li>
 <h3 id="kivio">Kivio</h3>
 
 <h3 id="kexi">Kexi</h3>
-    <li>fixed entering floating-point values for locales where ',',
-not '.' is the fractional point</li>
-    <li>fixed converting floating-point values to SQL-compatible strings when
+<ul>
+    <li>SQL support: Fixed entering floating-point values for locales where ',', not '.' is the fractional point</li>
+    <li>SQL support: Fixed converting floating-point values to SQL-compatible strings when
 the number was provided as string QVariant</li>
-    <li>In the query designer show error message when switching to other view failed (i18n-safe)
+    <li>In the Query Designer show error message when switching to other view failed (i18n-safe)
 and just show empty editor when opening a design in text view and there
 is no sql statement found in the backend</li>
-    <li>Fix saving design changes while in data view</li>
-    <li>fixed crash when double (or single, depending on the settings) clicking 
-on the empty area of the Project Browser</li>
-<ul>
-    <li>Fix building SQL INSERT statements for "prepared statement"
+    <li>Query Designer: Fix saving design changes while in Data View</li>
+    <li>Fixed crash when double (or single, depending on the settings) clicking on the empty area of the Project Browser</li>
+    <li>Fix building SQL INSERT statements for "prepared statement"</li>
+    <li>Fixed <a href="http://bugs.kde.org/125220">bug #125220</a>: (PostgreSQL) crash when a new field has been added to existing table outside of Kexi</li>
+    <li>PostgreSQL driver: use SQL-compliant TRUE and FALSE constants</li>
+    <li>Fixed loading length of text fields within table schema</li>
+    <li>Fixed importing decimal (numeric) values from MS Access files</li>
+    <li>CSV Import Dialog: fixed importing floating-point values where there are integer 
+  and floating-point values mixed; fixed problem with importing data with more than 100 columns (for default settings); only the first 10KiB of data is loaded for the preview by default
+  </li>
+    <li>CSV Import Dialog: simplify whitespace of text in cells (for preview only);
+        fixed delimiter detecting; priority in delimiter detection changed: now ";" has priority over ","</li>
+    <li>CSV Import Dialog: fixed possible crash after switching character encoding</li>
     <li>Report error when closing SQLite3 database</li> 
-    <li>Work around crash bug</li>
+    <li>Fixed possible crash on closing form</li>
+    <li>Form Designer: hide unused minimumSize and maximumSize widget properties</li>
+    <li>Form Designer: fixed problem when sometimes form was not filled with data after change of the design</li>
+    <li>Property Pane: fixed possible crash when bool editor's state is quickly switched</li>
+    <li>Data Table View: only accept clicking on the [x] rect of the boolean editor</li>
+    <li>Fixed <a href="http://bugs.kde.org/125216">bug #125216</a>: More intrusive warning dialog when altering table design</li>
 </ul>
 
 <h3 id="krita">Krita</h3>
