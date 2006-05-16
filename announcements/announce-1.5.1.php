@@ -6,12 +6,12 @@
 ?>
 
 <p align="justify">
-   DATELINE MAY 11, 2006<br />
+DATELINE MAY 11, 2006<br />
 <!--   FOR IMMEDIATE RELEASE -->
 <div style="font-weight:bold;color:red;border:2px solid red;padding:0.2em;">EMBARGO: Do not publish!</div>
 </p>
 <h2>
-  KDE Ships New Release Free Integrated Office Suite
+  KDE Ships New Release of Free Integrated Office Suite
 </h2>
 <p align="justify">
     <strong>Improved import/export filters, important fixes for KSpread OpenDocument
@@ -93,7 +93,7 @@
   <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http and ftp</a> mirrors.
 </p>
 
-Major Improvements in the KOffice 1.4.1 release are:
+Major Improvements in this release are:
 </h3>
 <ul>
 <li>Improved OASIS OpenDocument Support, especially in KSpread</li>
