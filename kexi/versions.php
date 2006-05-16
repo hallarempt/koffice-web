@@ -11,8 +11,8 @@ There are two kinds of Kexi release users can choose from: one bundled with KOff
 
 <p>
 <b>Kexi Versions Released with KOffice</b><br/>
-Current Kexi version released together with KOffice 1.4 is <b>0.8</b>. See <a
-href="http://www.kexi-project.org/wiki/wikiview/index.php?AnnouncementForKOffice1.4">the announcement</a>.
+Current Kexi version released together with KOffice 1.5 is <b>1.0</b>. See <a
+href="http://koffice.org/releases/1.5-release.php">the announcement</a>.
 </p>
 
 <p>
