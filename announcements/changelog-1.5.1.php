@@ -52,8 +52,7 @@ the entire frame.</li>
 </ul>
 
 <h3 id="koshell">KOffice Workspace (koshell)</h3>
-<ul>
-</ul>
+<p>No changes in KOShell</p>
 
 <h3 id="kspread">KSpread</h3>
 <ul>
@@ -80,8 +79,6 @@ decimal precision shown onscreen"'</li>
     <li>Fix some problems with importing Excel files</li>
     <li> Fix the default width/height in the 'Resize Column/Row' dialogs.
 (<a href="http://bugs.kde.org/125751">bug #125751</a>)</li>
-
-
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
@@ -93,6 +90,8 @@ decimal precision shown onscreen"'</li>
 </ul>
 
 <h3 id="kivio">Kivio</h3>
+
+<p>No changes in Kivio</p>
 
 <h3 id="kexi">Kexi</h3>
 <ul>
@@ -148,8 +147,15 @@ which only ImageMagick can read</li>
 </ul>
 
 <h3 id="kplato">KPlato</h3>
+<ul>
+    <li> Fix potential crash in calendar xml load.
+    <li> Indicate "Not scheduled" in the status bar when there is
+no valid schedule to display.
+</ul>
 
 <h3 id="kchart">KChart</h3>
+
+<p>No changes in KChart</p>
 
 <h3 id="kformula">KFormula</h3>
 <ul>
@@ -159,6 +165,8 @@ which only ImageMagick can read</li>
 </ul>
 
 <h3 id="kugar">Kugar</h3>
+
+<p>No changes in Kugar</p>
 
 <h3 id="filters">Filters</h3>
 
