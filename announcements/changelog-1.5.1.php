@@ -6,7 +6,7 @@
 ?>
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 1.5.1 (latest stable version).
+  release of KOffice 1.5 (latest stable version).
 </p>
 <ul>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
@@ -26,7 +26,7 @@
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
-    <li>Fix for "points are saved with comma instead of dot in e.g. french locale".
+    <li>Fix for "points are saved with comma instead of dot in e.g. french locale".</li>
     <li>Fix handling of guides</li>
     <li>Render paragraph borders so that they span between
 the margins of the paragraph, rather than spanning
@@ -60,12 +60,12 @@ the entire frame.</li>
     <li>Speed up loading documents when debug is compiled in</li>
     <li>Initilize the scrollbars on sheet changes correctly</li>
     <li>Fix loading/saving of cursor positions</li>
-    <li>Painting engine Fix painting of cell grid.
+    <li>Painting engine: Fix painting of cell grid.
 On scrolling the grid was sometimes not painted for one row.
 It is necessary to dilate all (!) regions by one column/row -
 particularly the rect of visible cells, which is used on
 scrolling.</li>
-    <li>painting engine Border painting
+    <li>painting engine: Border painting
 No need to check wether the adjacent cell is also marked
 dirty. For cells not at the sheet border we take always the
 pen which is more 'worth'. This avoids a linear search in the
@@ -85,8 +85,8 @@ decimal precision shown onscreen"'</li>
 
 <ul>
     <li> Fix <a href="http://bugs.kde.org/125424">bug #125424</a>: When setting slide background to "Use slide master
-  background", preview is not shown correctly.</li>
-  <li>Fix <a href="http://bugs.kde.org/125418">bug #125418</a>: Resizing textarea resizes wrong textarea.</li>
+  background", preview is not shown correctly.</li>
+ <li>Fix <a href="http://bugs.kde.org/125418">bug #125418</a>: Resizing textarea resizes wrong textarea.</li>
 </ul>
 
 <h3 id="kivio">Kivio</h3>
@@ -95,7 +95,7 @@ decimal precision shown onscreen"'</li>
 
 <h3 id="kexi">Kexi</h3>
 <ul>
-    <li>SQL support: Fixed entering floating-point values for locales where ',', not '.' is the fractional point</li>
+    <li>SQL support: Fixed entering floating-point values for locales where the comma (",") and not "." is the fractional point</li>
     <li>SQL support: Fixed converting floating-point values to SQL-compatible strings when
 the number was provided as string QVariant</li>
     <li>In the Query Designer show error message when switching to other view failed (i18n-safe)
@@ -174,6 +174,7 @@ no valid schedule to display.
 <ul>
  <li>Improved WordPerfect import filter, thanks to Fridrich Strba</li>
  <li>Fix OpenOffice import filter to parse the line-height correctly</li>
+ <li>Fix RTF output to correctly save footnotes</li>
 </ul>
 
 <em>KSpread:</em>
