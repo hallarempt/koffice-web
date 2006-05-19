@@ -21,7 +21,7 @@ received criticul bug fixes.
  <h3>Announcement</h3>
  <ul>
   <li>The full <a href="/announcements/announce-1.5.1.php">Announcement</a>
-      contains much more detailed information about news in KOffice 1.5.</li>
+      contains much more detailed information about news in KOffice 1.5.1</li>
  </ul>
 
  <h3>Changelog</h3>
@@ -101,7 +101,7 @@ received criticul bug fixes.
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.5.1/src/">http and ftp</a> mirrors.
 </p>
 
 <?php include("footer.inc"); ?>
