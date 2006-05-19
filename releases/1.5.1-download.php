@@ -16,7 +16,7 @@
           <th align="left">Location</th>
           <th align="left">MD5&nbsp;Sum</th></tr>
       <tr><td>General</td>
-          <td><a href="http://download.kde.org/stable/koffice-1.5.1/src/koffice-1.5.1.tar.bz2">koffice-1.5.0.tar.bz2</a></td>
+          <td><a href="http://download.kde.org/stable/koffice-1.5.1/src/koffice-1.5.1.tar.bz2">koffice-1.5.1.tar.bz2</a></td>
           <td><tt>eb5020ef5e53ae2beb73239e056353ee</tt></td></tr>
      </table>
   </li>
