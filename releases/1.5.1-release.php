@@ -33,7 +33,7 @@ received criticul bug fixes.
  <h3>Download</h3>
  <ul>
   <li>The <a href="1.5.1-download.php">Download</a>
-      page contains information about downloading KOffice 1.5 in source
+      page contains information about downloading KOffice 1.5.1 in source
       and binary formats.
   </li>
  </ul>
