@@ -98,8 +98,15 @@ Major Improvements in this release are:
 <ul>
 <li>Improved OASIS OpenDocument Support, especially in KSpread</li>
 <li>Rotating large images and scaling of images now works correctly in Krita</li>
-XXXX
 <li>Various other bugfixes</li>
+</ul>
+
+<p>Known issues:</p>
+
+<ul>
+<li>Forms are broken in Kexi. If you depend on Kexi, please wait for 1.5.2 which
+will be released in a month.</li>
+<li>Krita crashes when saving an image containing exif information to .kra twice</li>
 </ul>
 
 <p align="justify">
@@ -107,6 +114,9 @@ XXXX
   <a href="http://www.koffice.org/announcements/changelog-1.5.1.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
+
+
+
 <h4 id="binary_packages">
   Installing KOffice 1.5.1 Binary Packages
 </h4>

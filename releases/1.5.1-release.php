@@ -6,14 +6,15 @@
 ?>
 
 <p align="justify">
-  DATELINE MAY 16, 2006<br />
+  DATELINE MAY 22, 2006<br />
   FOR IMMEDIATE RELEASE
 </p>
 
  <p>
- The KOffice team is proud to announce KOffice version 1.5.1. This is mainly a bugfix release
+ The KOffice team is pleased to announce KOffice version 1.5.1. This is mainly a bugfix release
 but also contains numerous translation updates. Especially Krita, KSpread and KWord have
-received criticul bug fixes.
+received criticul bug fixes. There are known issues with Kexi which make an upgrade
+inadvisable at the moment if you depend on Kexi: we will release 1.5.2 with a fix next month.
  </p>
 
  <h2>Additional and More Detailed Information</h2>

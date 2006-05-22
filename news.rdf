@@ -9,12 +9,14 @@
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
-<!-- item>
+<item>
 <title>KOffice 1.5.1 released</title>
-<date>May 16, 2006</date>
+<date>May 22, 2006</date>
 <fullstory>
 One month after the release of KOffice 1.5.0, the KOffice team presents 1.5.1. This is mainly
 a bugfix release (with critical fixes in KWord, KSpread and Krita) and translations update.
+Note that users of Kexi are discouraged from installing 1.5.1. A critical bug discovered too late in the release process makes forms in Kexi unusable. We plan to release 1.5.2 with a fix within a 
+month.
 For more
 information, See the <a href="http://www.koffice.org/releases/1.5.1-release.php">press release</a>, the <a
 href="http://www.koffice.org/announcements/announce-1.5.1.php">announcement</a>
@@ -22,7 +24,7 @@ and the complete <a
 href="http://www.koffice.org/announcements/changelog-1.5.1.php">list
 of changes</a>.
 </fullstory>
-</item -->
+</item>
 
 
 <item>
