@@ -13,7 +13,7 @@
  <p>
  The KOffice team is pleased to announce KOffice version 1.5.1. This is mainly a bugfix release
 but also contains numerous translation updates. Especially Krita, KSpread and KWord have
-received criticul bug fixes. There are known issues with Kexi which make an upgrade
+received critical bug fixes. There are known issues with Kexi which make an upgrade
 inadvisable at the moment if you depend on Kexi: we will release 1.5.2 with a fix next month.
  </p>
 
