@@ -12,14 +12,11 @@
     <p><b>KOffice</b> is a free, integrated office suite for <a href="http://www.kde.org">KDE</a>, the K Desktop Environment.</p>
 
     <p><b>KOffice <?php echo $currentversion ?></b> is the current official KOffice release. Please see the 
-    <a class="sidebar" href="/releases/1.5-release.php">release notes</a> for further details.</p>
+    <a class="sidebar" href="/releases/1.5.1-release.php">release notes</a> for further details.</p>
 
     <p><b>This release also features a tour that gives a nice overview of all the new Highlights:</b></p>
 
     <center><a href="/tours/1.5/"><img src="/tours/pics/takethetour.png" border="0" width="200" height="168" alt="KOffice 1.5 Tour"/></a></center>
-    
-    <!--p>There is also an unstable, testing version <?php echo $develversion ?> which you may try out. See the
-    <a class="sidebar" href="/releases/<?php echo $develversion ?>-release.php">notes</a> for this release.</p-->
     <p>
       <a href="security">
       <img src="pics/cr32-filesys-folder_red.png" alt="KOffice Security logo" height="32" border="0" />
