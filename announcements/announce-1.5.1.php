@@ -105,7 +105,7 @@ Major Improvements in this release are:
 <ul>
 <li>Two issues with Kexi forms. 
 Forms may not appear in Kexi (1.0.0 version was affected as well). 
-No existing data or design can be lost, though. SUSE packages are not affected.
+No existing data or design can be lost, though. SUSE and Debian packages are not affected.
 Please read the <a href="http://kexi-project.org/wiki/wikiview/index.php?PatchesForKexi1.0.1">details</a>. 
 If your binary package does not contain the fixes, 
 and forms do not appear (it may be false alarm on some platforms), 
