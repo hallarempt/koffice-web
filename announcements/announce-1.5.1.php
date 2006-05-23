@@ -19,7 +19,7 @@ DATELINE MAY 22, 2006<br />
         functionality in the free software world.
     </strong></p>
 
-  <p align="justify">April 11, 2006 (The INTERNET).
+  <p align="justify">May 22, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> 1.5.1.</p>
@@ -64,7 +64,7 @@ DATELINE MAY 22, 2006<br />
 <ul>
   <li>report generator
     (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)<br />
-  <em>Note: Kugar is deprecated in this release will be replaced with another solution.  It's only included since there are users that are already using it.</em>
+  <em>Note: Kugar is deprecated in this release and will be replaced with another solution.  It's only included since there are users that are already using it.</em>
   </li>
 
   <li>full-featured charting engine
@@ -89,7 +89,7 @@ DATELINE MAY 22, 2006<br />
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.5.1/src/">http and ftp</a> mirrors.
 </p>
 
 Major Improvements in this release are:
@@ -104,7 +104,7 @@ Major Improvements in this release are:
 
 <ul>
 <li>Forms are broken in Kexi. If you depend on Kexi, please wait for 1.5.2 which
-will be released in a month.</li>
+will be released in about a month.</li>
 <li>Krita crashes when saving an image containing exif information to .kra twice</li>
 </ul>
 
@@ -175,12 +175,12 @@ distributions. More binary packages might become available over the
 coming days and weeks.
 </p>
 <h4 id="compiling">
-  Compiling KOffice 1.5
+  Compiling KOffice 1.5.1
 </h4>
 <p align="justify">
   <strong id="source_code-library_requirements">Library
   Requirements</strong>:
-  KOffice 1.5 requires the following libraries:
+  KOffice 1.5.1 requires the following libraries:
 </p>
 <ul>
   <li>
@@ -211,15 +211,15 @@ coming days and weeks.
 </ul>
 <p align="justify">
   <strong>Compiler Requirements</strong>:
-  Please note that KOffice 1.5 will not
+  Please note that KOffice 1.5.1 will not
   compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
   such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
 </p>
 <p align="justify">
   <strong id="source_code">Source Code</strong>:
-  The complete source code for KOffice 1.5 is available for free download
+  The complete source code for KOffice 1.5.1 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/stable/koffice-1.5.0/src/">http</a>
+  <a href="http://download.kde.org/stable/koffice-1.5.1/src/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
