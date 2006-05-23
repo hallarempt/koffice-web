@@ -103,8 +103,15 @@ Major Improvements in this release are:
 <p>Known issues:</p>
 
 <ul>
-<li>Forms are broken in Kexi. If you depend on Kexi, please wait for 1.5.2 which
-will be released in about a month.</li>
+<li>Two issues with Kexi forms. 
+Forms may not appear in Kexi (1.0.0 version was affected as well). 
+No existing data or design can be lost, though. SUSE packages are not affected.
+Please read the <a href="http://kexi-project.org/wiki/wikiview/index.php?PatchesForKexi1.0.1">details</a>. 
+If your binary package does not contain the fixes, 
+and forms do not appear (it may be false alarm on some platforms), 
+you may want to wait with Kexi upgrade to KOffie 1.5.2 release 
+(Kexi 1.0.2). It which will be released in about a month.
+</li>
 <li>Krita crashes when saving an image containing exif information to .kra twice</li>
 </ul>
 
