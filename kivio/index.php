@@ -15,6 +15,7 @@
   It enables you to create network diagrams, organisation charts, flowcharts and more.
 </p>
 
+  <center>
   <?php
     $gallery = new ImageGallery("Kivio-Screenshot");
     $gallery->addImage("pics/kivio_svn060127_330.png",
@@ -24,9 +25,10 @@
                        "Kivio");
     $gallery->show();
   ?>
+  </center>
 
 <p>
-  <b>Features:</b></p>
+  Features:</p>
   <ul>
     <li>Scriptable stencils using Python.</li>
     <li>Support for Dia stencils.</li>
