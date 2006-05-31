@@ -94,8 +94,11 @@ Info Tag in Augsburg. (German)</a></p>
 
 <ul>
 <li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a></li>
-<li><a href="http://cyrilleberger.blogspot.com">One Day One Feature: A Guided Tour of Krita Features in Daily Installments, by Cyrille Berger</a></li>
+<li><a href="http://cyrilleberger.blogspot.com">News from development on Krita, by Cyrille Berger</a></li>
 </ul>
+
+<h3>Plugins</h3>
+    <p>Some plugins are made available outside of the main distribution, you can find some plugins that would be included in the next release of Krita on <a href="http://download.kde.org/download.php?url=stable/apps/KDE3.x/graphics/krita-plugins-1.5-1.tar.bz2">the KDE ftp server</a>.
 
 <h3>Development</h3>
 	<p>Who's working on what, and what's planned to be done can be found on the <a href="http://wiki.kde.org/krita+todo">
