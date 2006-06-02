@@ -50,12 +50,13 @@ about that?</p>
   </tr>
 </table>
 
+<br/>
+
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th rowspan="2"></th>
-    <th colspan="3">Productivity Applications</th>
+    <th colspan="4">Productivity Applications</th>
     <th colspan="3">Creativity Applications</th>
-    <th colspan="1">Database</th>
     <th colspan="1">Project Planning</th>
     <th colspan="3">Helper Applications</th>
   </tr>
@@ -63,12 +64,11 @@ about that?</p>
     <th>KWord</th>
     <th>KSpread</th>
     <th>KPresenter</th>
+    <th>Kexi</th>
 
     <th>Kivio</th>
     <th>Karbon</th>
     <th>Krita</th>
-
-    <th>Kexi</th>
 
     <th>KPlato</th>
 
@@ -81,11 +81,10 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
-
-    <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
 
+    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
 
     <td bgcolor="#00FF00">Yes</td>
@@ -99,14 +98,12 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#FF0000">No</td>
 
     <td bgcolor="#FF0000">No</td>
     <td bgcolor="#FF0000">No</td>
     <td bgcolor="#FFFF00">Yes</td>
     
-
-    <td bgcolor="#FF0000">No</td>
-
     <td bgcolor="#808080">N/A</td>
 
     <td></td>
@@ -118,11 +115,10 @@ about that?</p>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
     <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#FFFF00"></td>
 
     <td bgcolor="#FF0000">No</td>
     <td bgcolor="#FF0000">No</td>
-    <td bgcolor="#808080">N/A</td>
-
     <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#808080">N/A</td>
@@ -136,12 +132,11 @@ about that?</p>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#FF0000">No</td>
     <td bgcolor="#00FF00">Yes</td>
     <td></td>
-
-    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#FF0000">No</td>
 
@@ -154,12 +149,11 @@ about that?</p>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
-
-    <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#00FF00">Yes</td>
-    <td bgcolor="#00FF00">Yes</td>
-
     <td bgcolor="#808080">N/A</td>
+
+    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#00FF00">Yes</td>
+    <td bgcolor="#00FF00">Yes</td>
 
     <td bgcolor="#FF0000">No</td>
 
@@ -182,9 +176,8 @@ KOffice libraries.</p>
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th rowspan="2"></th>
-    <th colspan="3">Productivity Applications</th>
+    <th colspan="4">Productivity Applications</th>
     <th colspan="3">Creativity Applications</th>
-    <th colspan="1">Database</th>
     <th colspan="1">Project Planning</th>
     <th colspan="3">Helper Applications</th>
   </tr>
@@ -192,12 +185,11 @@ KOffice libraries.</p>
     <th>KWord</th>
     <th>KSpread</th>
     <th>KPresenter</th>
+    <th>Kexi</th>
 
     <th>Kivio</th>
     <th>Karbon</th>
     <th>Krita</th>
-
-    <th>Kexi</th>
 
     <th>KPlato</th>
 
@@ -210,12 +202,11 @@ KOffice libraries.</p>
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#FF0000">To be shared</td>
 
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#FF0000">Own</td>
-
-    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#808080">N/A</td>
 
@@ -228,12 +219,11 @@ KOffice libraries.</p>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#00FF00">Own</td>
 
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#FFFF00">To be shared</td>
     <td bgcolor="#00FF00">Shared</td>
-
-    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#808080">N/A</td>
 
@@ -246,12 +236,11 @@ KOffice libraries.</p>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#FF0000">To be shared</td>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#00FF00">Shared</td>
-
-    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#808080">N/A</td>
 
@@ -264,12 +253,11 @@ KOffice libraries.</p>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#808080">N/A</td>
+    <td bgcolor="#00FF00">To be shared</td>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
-
-    <td bgcolor="#FF0000">Own</td>
 
     <td bgcolor="#808080">N/A</td>
 
@@ -282,11 +270,10 @@ KOffice libraries.</p>
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#00FF00">Shared</td>
 
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#00FF00">Shared</td>
-    <td bgcolor="#FFFFFF"></td>
-
     <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#FFFFFF"></td>
@@ -301,12 +288,11 @@ KOffice libraries.</p>
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#00FF00">Own</td>
 
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FFFF00">To be shared</td>
     <td bgcolor="#FF0000">Own</td>
-
-    <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#FFFFFF"></td>
 
@@ -320,12 +306,11 @@ KOffice libraries.</p>
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#FFFFFF"></td>
+    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#00FF00">Shared</td>
-
-    <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#FFFFFF"></td>
 
@@ -339,12 +324,11 @@ KOffice libraries.</p>
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#FF0000">To be shared</td>
 
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#FFFF00">To be shared</td>
     <td bgcolor="#FFFF00">To be shared</td>
-
-    <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#FFFFFF"></td>
 
@@ -358,12 +342,11 @@ KOffice libraries.</p>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#FF0000">To be shared</td>
 
     <td bgcolor="#FFFFFF"></td>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FFFF00">To be shared</td>
-
-    <td bgcolor="#FFFFFF"></td>
 
     <td bgcolor="#FFFFFF"></td>
 
@@ -377,12 +360,11 @@ KOffice libraries.</p>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#FF0000">Own</td>
     <td bgcolor="#00FF00">Shared</td>
+    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#FF0000">NYI</td>
     <td bgcolor="#FF0000">NYI</td>
     <td bgcolor="#00FF00">Shared</td>
-
-    <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#FF0000">NYI</td>
 
