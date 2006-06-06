@@ -17,11 +17,15 @@
     <p><b>This release also features a tour that gives a nice overview of all the new Highlights:</b></p>
 
     <center><a href="/tours/1.5/"><img src="/tours/pics/takethetour.png" border="0" width="200" height="168" alt="KOffice 1.5 Tour"/></a></center>
-    <p>
-      <a href="security">
-      <img src="pics/cr32-filesys-folder_red.png" alt="KOffice Security logo" height="32" border="0" />
-      KOffice Security Announcements</a>
-    </p>
+<?php
+# don't enable this until we have a security advisory that actually is relevant for, say, the last
+# 2 releases.
+# <p>
+#      <a href="security">
+#      <img src="pics/cr32-filesys-folder_red.png" alt="KOffice Security logo" height="32" border="0" />
+#      KOffice Security Announcements</a>
+#    </p>
+?>
 
 
     <?php
