@@ -17,7 +17,7 @@
 <h2><a name="requirements">Requirements</a></h2>
 <p>To compile KOffice you need:</p>
 <ul>
-<li>For KOffice <?php echo $currentversion; ?> or trunk versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
+<li>For KOffice <?php echo $currentversion; ?> or 1.6-branch versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
     <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
 <li>a C++ compiler which supports exceptions (preferably
 <a href="http://gcc.gnu.org">a recent version of GCC</a>).
@@ -32,10 +32,11 @@ You must choose now to run the stable KOffice <?php echo $currentversion; ?> or 
 development version this can mean that it is not usable for end use.
 If you want the development version (where you need at least KDE 3.3) you can choose between a daily snapshot, or obtain source
 regularly via SVN.</p>
+<p>Note that we have  3th version, thats the really unstable one for the upcoming 2.0, but that one is most likely not one you want.</p>
 
 <h2>Download</h2>
 <p>The complete source code for KOffice <?php echo $currentversion ?> is available for free download
-via one of the <a href="http://download.kde.org/stable/koffice-1.5.0/src/">KDE HTTP or FTP mirrors</a>.</p>
+via one of the <a href="http://download.kde.org/stable/koffice-1.5.1/src/">KDE HTTP or FTP mirrors</a>.</p>
 
 <p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
 <p>The development version via <b>anonymous SVN</b> (recommended) needs extra instructions, check the
@@ -45,7 +46,7 @@ via one of the <a href="http://download.kde.org/stable/koffice-1.5.0/src/">KDE H
 of time. If you use anonsvn, you need to run <tt>make -f Makefile.cvs</tt> before
 running <tt>./configure</tt> in the instructions below, or follow the instructions on the
 anonsvn page.<br />
-In any case, you need the HEAD branch! (which is the default).</p>
+In any case, you need the branhes/koffice/1.6 dir! Make sure you choose that one.</p>
 
 <h2>Instructions</h2>
 <p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
