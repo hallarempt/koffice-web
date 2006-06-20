@@ -13,7 +13,7 @@
 <p><b>Krita</b> is a painting and image editing application for KOffice. Krita
 is part of KOffice since version 1.4. Krita contains both ease-of-use and fun features
 like guided painting (never before has it been so easy to airbrush a straight
-line!) and high-end features like support for 16 bit images, CMYK and even
+line!) and high-end features like support for 16 bit images, CMYK, L*a*b and even
 <a href="http://www.openexr.org">OpenEXR</a> HDR images.</p>
 
 <center>
@@ -30,7 +30,7 @@ line!) and high-end features like support for 16 bit images, CMYK and even
     <h3>Features</h3>
 
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
-         pauses between bursts of development wasn't ready for use until 2005. Now Krita is a capable 
+         pauses between bursts of development wasn't ready for use until 2005. Now Krita is a reasonably capable 
 	 image editor and a great platform for future development. The current release of Krita (version 1.5.0) has
          too many features to list them all:</p>
 
@@ -63,6 +63,8 @@ line!) and high-end features like support for 16 bit images, CMYK and even
 	<h3>Documentation</h3>
 
       <ul>
+        <li><a href="./Developing Krita Plugins.html">Developing Krita Plugins</a> - also a work in progress.
+           A manual on writing C++ plugins for Krita.</li>
         <li><a href="http://docs.kde.org/development/en/koffice/krita/"  target="_blank">Manual</a> - a work in
             progress, but rapid progress. By Sander Koning, Boudewijn Rempt, Casper Boemann and Cyrille Berger.</li>
 	<li><a href="faq.php">FAQs</a></li>
