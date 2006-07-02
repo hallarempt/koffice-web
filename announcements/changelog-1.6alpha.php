@@ -24,8 +24,9 @@
   <li>Possible fix for crash, maybe a definitive fix for <a href="http://bugs.kde.org/124917">bug #124917</a></li>
   <li>Group items now have rather pretty appearance styled with KDE style; fixed groups order, API changed: now it's possible to get order of groups; sorting disabled when groups are present; icons can be defined and displayed within the group items</li>
   <li>Added a container widget that can be used to split information into hideable sections</li>
-  <li>Clear all properties and group names when using operator =; delayed deleting of editors on setting a new property </li>
- </li>
+  <li>Clear all properties and group names when using operator =; delayed deleting of editors on setting a new property</li>
+  </ul>
+  </li>
 </ul>
 
 <h3 id="kexi">Kexi</h3>
