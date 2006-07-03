@@ -5,6 +5,8 @@
   include("header.inc");
 ?>
 
+<h1>THIS PAGE IS UNDER EMBARGO ! PLEASE DO NOT PUBLISH IT !</h1>
+
 <p align="justify">
   DATELINE JULY 7, 2006<br />
   FOR IMMEDIATE RELEASE
@@ -131,7 +133,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        Krita is noz able to open huge PNG files (with a size of 30000 by 30000).
+        Krita is now able to open huge PNG files (with a size of at least 30000 by 30000, note it only works yet on 64bits architecture, on 32bits the maximum size of a file is smaller).
         </div>
       </li>
       <li>
