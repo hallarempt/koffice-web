@@ -32,6 +32,9 @@
 
 <h3 id="kword">KWord</h3>
 <ul>
+<li>127554 Fix crash when pasting an image-link from a website and choosing to insert it as text.</li>
+<li>127084 Make it possible to change the style of a footnote paragraph - preserving the footnote number.</li>
+<li>121529 Fix crash when deleting (or joining) paragraphs</li>
 <li>Fix crash that occurred sometimes when search/replacing text</li>
 <li>128126 Fix "Insert Page Break" not breaking the paragraph correctly (it was inserting a newline instead)</li>
 <li>Fix regression where hyphenation sometimes did not pick the right language.</li>
@@ -54,6 +57,9 @@ Fix the parameter count. The second parameter is optional.</li>
 <li>126492 Fix crash on closing KSpread('s views).</li>
 <li>127670 Fix lost precision when importing numbers</li>
 <li>improved speed on heavily formatted worksheets</li>
+<li>127457 Fix crash on trying to deselect rows/columns.</li>
+<li>Fix regression: Entering named areas in the location combobox works again.</li>
+<li>Paint the selection border around all ranges (again).  Otherwise, one can't see which ranges are selected, if the selection color is too light/the same as the background.</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
@@ -121,6 +127,7 @@ Fix the parameter count. The second parameter is optional.</li>
 
 <h3 id="karbon">Karbon</h3>
 <ul>
+<li>made whirl/pinch command undoable</li>
 <li>125508 fix selection of nodes and fix bezier point editing</li>
 <li>fix loading rounded rectangle from svg files</li>
 <li>improve raising/lowering layers and objects</li>
@@ -146,8 +153,11 @@ Fix the parameter count. The second parameter is optional.</li>
 
 <h3 id="kformula">KFormula</h3>
 <ul>
-Don't show the "I just installed some fonts please restart" on some installation on every startup
-Fix mi (math italic) element's style handling
+<li>Don't show the "I just installed some fonts please restart" on some installation on every startup</li>
+<li>Fix saving to OpenDocument format when embedded in another koffice application.</li>
+<li>OpenDocument support: section 9.3.3, allow to save formulae contained in &lt;draw:object&gt;.<br>
+This fixes formulae data loss when saving text documents with formulae inserted from Insert-&gr;Formula.</li>
+<li>Fix mi (math italic) element's style handling</li>
 </ul>
 
 <h3 id="kugar">Kugar</h3>
