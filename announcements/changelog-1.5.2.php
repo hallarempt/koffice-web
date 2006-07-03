@@ -52,6 +52,8 @@
 Fix the parameter count. The second parameter is optional.</li>
 <li>125535 Fix crash occuring on the frequently used 'content replacement' of line beginnings with nothing.</li>
 <li>126492 Fix crash on closing KSpread('s views).</li>
+<li>127670 Fix lost precision when importing numbers</li>
+<li>improved speed on heavily formatted worksheets</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
