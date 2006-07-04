@@ -8,6 +8,14 @@
 <?php
 $gallery = new ImageGallery("Krita Screenshots");
 // $gallery->startNewRow(); should not be used before first image as it prevents validation
+$gallery->addImage("pics/july06_sm.png", "pics/july06.png","300", "211",
+                   "[Screenshot]", 0 , "First alpha of 1.6 (July 2006)");
+$gallery->addImage("pics/stroman_2005_09_330.png",
+                       "pics/stroman_2005_09.png",
+                       "330", "248",
+                       "[Screenshot]", "",
+                       "Krita (September 2005)");
+$gallery->startNewRow();
 $gallery->addImage("pics/hackathon_2005_08_262.png",
   "pics/hackathon_2005_08.png",
   "262", "200",

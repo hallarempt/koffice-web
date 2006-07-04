@@ -19,9 +19,9 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 <center>
   <?php
     $gallery = new ImageGallery("Krita- Screenshot");
-    $gallery->addImage("pics/stroman_2005_09_330.png",
-                       "pics/stroman_2005_09.png",
-                       330, 248,
+    $gallery->addImage("pics/july06_sm.png",
+                       "pics/july06.png",
+                       "300", "211",
                        "[Screenshot]", "",
                        "Krita");
     $gallery->show();
@@ -31,7 +31,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
          pauses between bursts of development wasn't ready for use until 2005. Now Krita is a reasonably capable 
-	 image editor and a great platform for future development. The current release of Krita (version 1.5.0) has
+	 image editor and a great platform for future development. The current release of Krita (version 1.5.1) has
          too many features to list them all:</p>
 
         <ul>
