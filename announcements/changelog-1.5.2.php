@@ -55,8 +55,8 @@
 Fix the parameter count. The second parameter is optional.</li>
 <li>125535 Fix crash occuring on the frequently used 'content replacement' of line beginnings with nothing.</li>
 <li>126492 Fix crash on closing KSpread('s views).</li>
-<li>127670 Fix lost precision when importing numbers</li>
-<li>improved speed on heavily formatted worksheets</li>
+<li>127670 Fix in Excel import for lost precision when importing numbers</li>
+<li>Excel import speed improved on heavily formatted worksheets</li>
 <li>127457 Fix crash on trying to deselect rows/columns.</li>
 <li>Fix regression: Entering named areas in the location combobox works again.</li>
 <li>Paint the selection border around all ranges (again).  Otherwise, one can't see which ranges are selected, if the selection color is too light/the same as the background.</li>
@@ -154,9 +154,9 @@ Fix the parameter count. The second parameter is optional.</li>
 <h3 id="kformula">KFormula</h3>
 <ul>
 <li>Don't show the "I just installed some fonts please restart" on some installation on every startup</li>
-<li>Fix saving to OpenDocument format when embedded in another koffice application.</li>
-<li>OpenDocument support: section 9.3.3, allow to save formulae contained in &lt;draw:object&gt;.<br>
-This fixes formulae data loss when saving text documents with formulae inserted from Insert-&gr;Formula.</li>
+<li>127960 Fix saving to OpenDocument format on some installations.</li>
+<li>115304 OpenDocument support: section 9.3.3, allow to save formulae contained in &lt;draw:object&gt;.<br>
+This fixes formulae data loss when saving text documents with formulae inserted from Insert-&gt;Formula.</li>
 <li>Fix mi (math italic) element's style handling</li>
 </ul>
 
