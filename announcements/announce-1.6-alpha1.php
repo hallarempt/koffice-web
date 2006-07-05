@@ -189,8 +189,11 @@
         </div>
       </li>
     </ul>
-    KForumal 1.6-alpha1 has know problems with operators, scripts, tables and content notation, and it has visual glitches with styled elements. And it has problems when saving (if you load a file, and save with another name, files 
-won't match).
+    KFormula 1.6-alpha1 is an ongoing effort for a full
+    native ODF / MathML support and thus, it yet has some known issues
+    including operators, scripts, tables and content notation
+    management, some visual glitches with new style support and saving
+    problems (loaded and saved files won't match).
   <p />
 <p align="justify">
   A more complete
