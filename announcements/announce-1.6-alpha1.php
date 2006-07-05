@@ -326,13 +326,6 @@
   KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
   Incorporated.
 
-  Adobe Illustrator and PostScript are registered trademarks of Adobe Systems
-
-  dBASE is a registered trademark of dBASE Inc.
-
-  Corel, Quattro Pro and WordPerfect are registered trademarks of Corel
-  Corporation or Corel Corporation Limited.
-
   Linux is a registered trademark of Linus Torvalds.
 
   Trolltech and Qt are trademarks of Trolltech AS.
