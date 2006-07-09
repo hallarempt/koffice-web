@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-DATELINE JULI 10, 2006<br />
+DATELINE JULY 10, 2006<br />
 <?php # FOR IMMEDIATE RELEASE  ?>
 <font color="red">DRAFT, NOT FOR PUBLICATION</font>
 
@@ -16,7 +16,7 @@ DATELINE JULI 10, 2006<br />
 </h2>
 <p align="justify"><strong>Improved stability of all applications</strong></p>
 
-  <p align="justify">Juli 10, 2006 (The INTERNET).
+  <p align="justify">July 10, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> 1.5.2.</p>
