@@ -10,6 +10,14 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>Sebastian Sauer talks about scripting with Kross - KOffice scripting technology</title>
+<date>Jul 09, 2006</date>
+<fullstory>
+KOffice 1.5 saw the addition of <a href="http://kross.dipe.org/readme.html">Kross</a>, a framework to allow for scripting plugins in a number of languages.  <a href="http://www.koffice.org/krita/">Krita</a> and <a href="http://www.koffice.org/kexi/">Kexi</a> come with a number of plugins with more available for download at <a href="http://www.kde-files.org/index.php?xcontentmode=617">KDE-Files.org</a>.  To find out more about this intriguing technology and how it came about KDE Dot News interviewed the author Sebastian Sauer.  Read on to discover <a href="http://dot.kde.org/1152490640/">how you can use Kross</a>.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice releases a "Vision statement for KOffice 2.0"</title>
 <date>Jun 05, 2006</date>
 <fullstory>
