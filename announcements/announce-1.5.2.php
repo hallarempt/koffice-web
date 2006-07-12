@@ -12,7 +12,7 @@ FOR IMMEDIATE RELEASE
 
 </p>
 <h2>
-  New Maintainance release of Free Integrated Office Suite
+  New Maintenance release of Free Integrated Office Suite
 </h2>
 <p align="justify"><strong>Improved stability of all applications</strong></p>
 
@@ -22,9 +22,10 @@ FOR IMMEDIATE RELEASE
   <a href="http://www.koffice.org/">KOffice</a> 1.5.2.</p>
 
   <p align="justify">
-  KOffice is an integrated office suite for KDE which utilizes ISO certified, free and
-  open standards for its document formats, component communication and
-  component embedding.
+  KOffice is an integrated office suite for KDE which utilizes open document formats,
+  component communication and component embedding.<br />
+  KOffice uses the ISO certified, Open Document Format extensively allowing better
+  interoperability and guaranteed access to your documents for decennia to come.
 </p>
 <p align="justify">
     This release includes:
@@ -313,7 +314,6 @@ Phone: +264 - 61 - 24 92 49<br />
 
 <td>
 
-<td>
 <b>Asia and India</b><br />
      Pradeepto Bhattacharya<br/>
      A-4 Sonal Coop. Hsg. Society<br/>
