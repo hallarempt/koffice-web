@@ -28,12 +28,6 @@
 <ul>
 <li>Alter behavior of revision number to not increase on every save but only increase one time for a start of the app and when it is saved.</li>
 <li>Fix bug where half the templates were not shown in 'Emperial' measurement based countries (with Letter instead of A4 sized pages)</li>
-  <li><em>KoProperty Library</em>
-   <ul>
-   <li>Clear all properties and group names when using operator =</li>
-   <li>Delayed deleting of editors on setting a new property set</li>
-   </ul>
-  </li>
 </ul>
 
 <h3 id="kword">KWord</h3>
@@ -89,6 +83,12 @@ Fix the parameter count. The second parameter is optional.</li>
  inside is assumed to be in this format.</li>
   </ul>
  </li>
+ <li><em>KoProperty Library</em>
+   <ul>
+   <li>Clear all properties and group names when using operator =</li>
+   <li>Delayed deleting of editors on setting a new property set</li>
+   </ul>
+  </li>
 
  <li><em>Table View</em>
   <ul>
