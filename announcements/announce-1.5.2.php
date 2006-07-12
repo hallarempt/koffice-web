@@ -6,9 +6,9 @@
 ?>
 
 <p align="justify">
-DATELINE JULY 10, 2006<br />
-<?php # FOR IMMEDIATE RELEASE  ?>
-<font color="red">DRAFT, NOT FOR PUBLICATION</font>
+DATELINE JULY 14, 2006<br />
+FOR IMMEDIATE RELEASE
+<br/><font color="red">DRAFT, NOT FOR PUBLICATION</font>
 
 </p>
 <h2>
@@ -16,7 +16,7 @@ DATELINE JULY 10, 2006<br />
 </h2>
 <p align="justify"><strong>Improved stability of all applications</strong></p>
 
-  <p align="justify">July 10, 2006 (The INTERNET).
+  <p align="justify">July 14, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> 1.5.2.</p>
@@ -154,8 +154,8 @@ Major Improvements in this release are:
 </p>
 
 <ul>
-  <!--li><a href="http://download.kde.org/stable/koffice-1.5.2/SuSE/">SuSE Linux 10.0 and 10.1</a></li -->
-  <!--li><a href="http://kubuntu.org/announcements/koffice-152.php">Kubuntu</a></li -->
+  <li><a href="http://download.kde.org/stable/koffice-1.5.2/SuSE/">SuSE Linux 9.3, 10.0 and 10.1</a></li>
+  <!-- li><a href="http://kubuntu.org/announcements/koffice-152.php">Kubuntu</a></li -->
   <!--li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li>
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid </a></li-->
 </ul>
@@ -218,7 +218,6 @@ coming days and weeks.
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
-<!-- INCLUDE PHP FILE HERE -->
 <p align="justify">
   <strong>Further Information</strong>:
   For further instructions on compiling and installing KOffice, please consult
