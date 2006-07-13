@@ -156,7 +156,7 @@ Major Improvements in this release are:
 
 <ul>
   <li><a href="http://download.kde.org/stable/koffice-1.5.2/SuSE/">SuSE Linux 9.3, 10.0 and 10.1</a></li>
-  <!-- li><a href="http://kubuntu.org/announcements/koffice-152.php">Kubuntu</a></li -->
+  <li><a href="http://kubuntu.org/announcements/koffice-152.php">Kubuntu</a></li>
   <!--li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5-sarge/">Debian Sarge </a></li>
   <li><a href="http://pkg-kde.alioth.debian.org/koffice-1.5/">Debian Sid </a></li-->
 </ul>
