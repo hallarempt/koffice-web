@@ -5,14 +5,14 @@
   include("header.inc");
 ?>
 
-    <center><a href="/announcements/announce-1.5.1.php"><img src="/pics/koffice1.5_v4-500.jpg" border="0" alt="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" title="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" width="500" height="336" /></a></center>
+    <center><a href="/announcements/announce-1.5.2.php"><img src="/pics/koffice1.5_v4-500.jpg" border="0" alt="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" title="KOffice 1.5 - The Most Comprehensive Office Suite In Existence" width="500" height="336" /></a></center>
 
     <h1>KOffice - Integrated Office Suite</h1> <!-- see above, remove when page_title is used again -->
 
     <p><b>KOffice</b> is a free, integrated office suite for <a href="http://www.kde.org">KDE</a>, the K Desktop Environment.</p>
 
     <p><b>KOffice <?php echo $currentversion ?></b> is the current official KOffice release. Please see the 
-    <a class="sidebar" href="/releases/1.5.1-release.php">release notes</a> for further details.</p>
+    <a class="sidebar" href="/releases/1.5.2-release.php">release notes</a> for further details.</p>
 
     <p><b>This release also features a tour that gives a nice overview of all the new Highlights:</b></p>
 

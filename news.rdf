@@ -10,6 +10,23 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice releases bugfix version 1.5.2 of its office suite</title>
+<date>Jul 14, 2006</date>
+<fullstory>
+Almost 2 months after the last stable release, the KOffice team is proud to
+present the latest release in the 1.5 series with fixes in all applications.
+Various critical bugs were fixed in KWord, KSpread, Kexi and Krita.  Karbon,
+the vector drawing application has closed quite a lot of bugs in its user
+interface part.<br>
+For more information, See the
+<a href="http://www.koffice.org/releases/1.5.2-release.php">press release</a>,
+the <a href="http://www.koffice.org/announcements/announce-1.5.2.php">announcement</a>
+and the complete <a
+href="http://www.koffice.org/announcements/changelog-1.5.2.php">list of changes</a>.
+</fullstory>
+</item>
+
+<item>
 <title>Sebastian Sauer talks about scripting with Kross - KOffice scripting technology</title>
 <date>Jul 09, 2006</date>
 <fullstory>

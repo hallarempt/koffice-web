@@ -8,8 +8,6 @@
 <p align="justify">
 DATELINE JULY 14, 2006<br />
 FOR IMMEDIATE RELEASE
-<br/><font color="red">DRAFT, NOT FOR PUBLICATION</font>
-
 </p>
 <h2>
   New Maintenance release of Free Integrated Office Suite
