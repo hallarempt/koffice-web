@@ -18,9 +18,7 @@
 <li><a href="#krita">Krita</a></li>
 <li><a href="#karbon">Karbon</a></li>
 <li><a href="#kplato">KPlato</a></li>
-<li><a href="#kchart">KChart</a></li>
 <li><a href="#kformula">KFormula</a></li>
-<li><a href="#filters">Filters</a></li>
 </ul>
 
 
@@ -148,9 +146,6 @@ Fix the parameter count. The second parameter is optional.</li>
 <li>Fix various crashes in undo/redo commands</li>
 </ul>
 
-<h3 id="kchart">KChart</h3>
-<p>No changes in KChart</p>
-
 <h3 id="kformula">KFormula</h3>
 <ul>
 <li>Don't show the "I just installed some fonts please restart" on some installation on every startup</li>
@@ -159,12 +154,6 @@ Fix the parameter count. The second parameter is optional.</li>
 This fixes formulae data loss when saving text documents with formulae inserted from Insert-&gt;Formula.</li>
 <li>Fix mi (math italic) element's style handling</li>
 </ul>
-
-<h3 id="kugar">Kugar</h3>
-<p>No changes in Kugar</p>
-
-<h3 id="filters">Filters</h3>
-
 
 <?php
   include("footer.inc");
