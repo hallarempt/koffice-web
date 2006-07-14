@@ -1,18 +1,6 @@
 <table border="0" cellpadding="4" cellspacing="0">
 <tr><th align="left">Description</th><th align="left">Location</th><th align="left">MD5&nbsp;Sum</th></tr>
 <tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
 <td><a href="http://download.kde.org/stable/koffice-1.5.2/src/koffice-1.5.2.tar.bz2">
 koffice-1.5.2.tar.bz2</a></td>
 <td><tt>cbe9deeb7c811a6bb5a954989b25c1f2</tt></td></tr>
@@ -220,29 +208,5 @@ koffice-l10n/koffice-l10n-zh_TW-1.5.2.tar.bz2</a></td>
 <td><a href="http://download.kde.org/stable/koffice-1.5.2/src/koffice-l10n/koffice-l10n-zh_TW-1.5.2.tar.bz2">
 koffice-l10n/koffice-l10n-zh_TW-1.5.2.tar.bz2</a></td>
 <td><tt>a39dcaf36d9361d2915399ee0dce0cc0</tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
-<tr><td>General</td>
-<td><a href="http://download.kde.org/stable/koffice-1.5.2/src/">
-</a></td>
-<td><tt></tt></td></tr>
 </table>
 <p>*: XDelta patches</p>
