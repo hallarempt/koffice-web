@@ -151,7 +151,7 @@ Fix the parameter count. The second parameter is optional.</li>
 <li>Don't show the "I just installed some fonts please restart" on some installation on every startup</li>
 <li>127960 Fix saving to OpenDocument format on some installations.</li>
 <li>115304 OpenDocument support: section 9.3.3, allow to save formulae contained in &lt;draw:object&gt;.<br>
-This fixes formulae data loss when saving text documents with formulae inserted from Insert-&gt;Formula.</li>
+This fixes formulae data loss on saving when its embedded inside a KWord document.</li>
 <li>Fix mi (math italic) element's style handling</li>
 </ul>
 
