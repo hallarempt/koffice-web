@@ -251,9 +251,9 @@ KOffice libraries.</p>
   <tr>
     <th>CSV Import Dialog</th>
     <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#00FF00">To be shared</td>
+    <td bgcolor="#FF0000">To be shared</td>
 
     <td bgcolor="#808080">N/A</td>
     <td bgcolor="#808080">N/A</td>
@@ -262,7 +262,7 @@ KOffice libraries.</p>
     <td bgcolor="#808080">N/A</td>
 
     <td bgcolor="#808080">N/A</td>
-    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#808080">N/A</td>
   </tr>
   <tr>
@@ -358,7 +358,7 @@ KOffice libraries.</p>
   <tr>
     <th>Autoscroll</th>
     <td bgcolor="#FF0000">Own</td>
-    <td bgcolor="#FF0000">Own</td>
+    <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#00FF00">Shared</td>
     <td bgcolor="#808080">N/A</td>
 
