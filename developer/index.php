@@ -11,6 +11,7 @@
    <ul>
      <li><a href="generalinfo">General developer information</a></li>
      <li><a href="keyboardmodifiers.php">KOffice-wide Mouse Interaction behavior</a></li>
+     <li><a href="releasegoals2.0.php">KOffice 2.0 release goals</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
      <li><a href="tasks">Tasks</a> (Volunteers needed!)</li>
      <li><a href="filters">Filters</a></li>
