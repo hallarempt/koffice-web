@@ -26,8 +26,8 @@ and fullfilling a goal then the feature does not belong in Krita.</p>
 Amateur photographer</p>
 <p>Arthur is a young man from England who has invested in a good
 digital camera which he uses to take good scenic photos which he takes
-home looks through and maybe only saves 2 out of 10, because the rest
-is not good enough. Arthur feels he has a creative senese for taking good
+home, looks through and maybe only saves 2 out of 10, because the rest
+is not good enough. Arthur feels he has a creative sense for taking good
 photos and uses Krita to do some filtering and general touchup.</p>
 
 <p>Arthur could just as well have used digikam or other similar
@@ -38,7 +38,12 @@ he rarely sells more than a dozen a year. Arthur does know that
 colormanagement is important for making good prints, and is able to
 see when the colors look like he want it.</p>
 
-<p>Arthur owns a normal LCD monitor and hasn't done any profiling of it
+<p>He also uses Krita to create various graphics, apart from the
+thumbnails, for his webpage. It has actually become a quite
+goodlooking webpage.</p>
+
+<p>He owns a normal LCD monitor and hasn't done any profiling of it,
+and he doesn't own a tablet.</p>
 
 <p><b>Ben</b> 35, New York.<br>
 Professional photo retoucher</p>
@@ -51,11 +56,11 @@ changes their body contour or otherwise alter the image, to get just
 the image that will sell the product.</p>
 
 <p>WYSIWYG is very important for him so he has a very expensive
-monitor that he gets profiled every month. Ben also owns a tablet which
+monitor that he gets profiled every month. He also owns a tablet which
 he uses because using a mouse for those fine details is just not good
-enoug for him. The office he is working in has been specialy designed
-with respect to lightning to produce the most realistic viewing
-experience as possible.</p>
+enough for him. The office he is working in has been specially
+designed with respect to lightning to produce the most realistic
+viewing experience as possible.</p>
 
 <p>Ben has taken a 4 year education in graphical design and worked
 with graphics for almost 12 years, mostly with Photoshop, but was
@@ -71,11 +76,11 @@ and almost everything in between. Claire has been very skilled at
 painting/drawing since as long as she can remember, but have not had
 any formal graphical education</p>
 
-<p>The movie studio uses Linux for most of it's 3d rendring as has
+<p>The movie studio uses Linux for most of it's 3d rendering and has
 chosen to also use Linux and KDE for the rest of their production
 line. Claire doesn't mind much as she hadn't really used a computer
-before taking this job 5 years ago. Claire does like using computers now
-though.</p>
+before taking this job 5 years ago. Claire does like using computers
+now though.</p>
 
 <p>Claire has a big widescreen monitor and a tablet to draw with. The
 company require all drawings to be in very high definition and that
