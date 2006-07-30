@@ -124,7 +124,7 @@
       </li>
       <li>
         <div align="justify">
-        Kexi supports now macros
+        Support for macros
         </div>
       </li>
     </ul>

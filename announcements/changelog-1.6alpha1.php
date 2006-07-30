@@ -31,11 +31,12 @@
 
 <h3 id="kexi">Kexi</h3>
 
-<em>Main new features:</em>
+<em>Main new features</em>
 <ul>
  <li>Object data type and data-aware image form widget</li>
  <li>Improvements in Auto Field form widget</li>
  <li>Table design altering without removing the existing data</li>
+ <li>Support for Data-aware combo boxes in the Table View</li>
 </ul>
 
 <em>Table Designer</em>
@@ -51,11 +52,6 @@
   <li>Renaming table fields works, table schema is recreated when needed,
   and just altered in-place when it's enough to do so</li>
 </ul>
-
-<!-- em>Query Designer</em>
-<ul>
-  <li></li>
-</ul -->
 
 <!-- em>Query Designer</em>
 <ul>
