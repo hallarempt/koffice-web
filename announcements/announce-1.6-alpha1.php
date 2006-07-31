@@ -28,11 +28,11 @@
   open standards for its document formats, component communication and
   component embedding.
   This release is principally a public testing and developer solicitation
-  release, and his definitively not intented for anything but testing.
+  release, and is definitively not intented for anything but testing.
   Help is welcome!
 </p>
   <p align="justify">
-  The goal of this release is to get feedback for the feature allready available,
+  The goal of this release is to get feedback for the feature already available,
   wether it is bug, enhencement or new idea, we will need that to make sure the 1.6
   release reach a high quality level and matches the need of our users.
   </p>
@@ -144,6 +144,11 @@
       <li>
         <div align="justify">
         Krita can open PDF files and transform them into a bitmap
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        add a tool to draw bezier curves
         </div>
       </li>
     </ul>
@@ -277,7 +282,7 @@
     developer Jaros&#322;aw Staniek and sponsored
     <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
     project which enabled porting KOffice applications to MS Windows,
-  <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for kformula.
+  <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
   In addition, <a href="http://www.kde.org/donations.html">individual
   sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
   provide significant support for KDE and KOffice. Thanks!
