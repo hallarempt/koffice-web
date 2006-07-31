@@ -8,14 +8,14 @@
 <h1>THIS PAGE IS UNDER EMBARGO ! PLEASE DO NOT PUBLISH IT !</h1>
 
 <p align="justify">
-  DATELINE JULY 1, 2006<br />
+  DATELINE AUGUST 1, 2006<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
   KDE Ships Alpha Release of Major Enhancements to Free Integrated Office Suite
 </h2>
 <p align="justify">
-  <p align="justify">July 7, 2006 (The INTERNET).
+  <p align="justify">August 1, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
   <a href="http://www.koffice.org/">KOffice</a> 1.6-alpha1, the first preview
@@ -103,7 +103,7 @@
 <h3>Lots of new features in Krita and Kexi</h3>
 <p align="justify">
       For more details look in the Principal Improvements below, or
-  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a>.
+  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a><.
 </p>
 
 <h3>OpenDocument support in KFormula</h3>

@@ -1,4 +1,4 @@
-mm<?php
+<?php
   $page_title ='KOffice 1.6-alpha Changelog';
   $site_root = '../';
   include("koffice.inc");
