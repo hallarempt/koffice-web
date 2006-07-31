@@ -8,7 +8,7 @@
 <h1>THIS PAGE IS UNDER EMBARGO ! PLEASE DO NOT PUBLISH IT !</h1>
 
 <p align="justify">
-  DATELINE JULY 7, 2006<br />
+  DATELINE JULY 1, 2006<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
@@ -89,6 +89,35 @@
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
   <a href="http://download.kde.org/unstable/koffice-1.6-alpha1/src/">http and ftp</a> mirrors.
 </p>
+<h2>Highlights</h2>
+<p align="justify">
+
+  The main energy of the KOffice developement team is currently focused
+  on the revolutionary 2.0 version that will be based on KDE 4 and Qt 4.
+  The 1.6 release is intended mainly as a feature release for the two
+  fastest developed components: Krita and Kexi.  However, other 
+  components are being developed too.  Here are the highligts of this
+      preview of KOffice 1.6:
+</p>
+
+<h3>Lots of new features in Krita and Kexi</h3>
+<p align="justify">
+      For more details look in the Principal Improvements below, or
+  the complete changelog.
+</p>
+
+<h3>OpenDocument support in KFormula</h3>
+<p align="justify">
+  The formula editor of KOffice now supports OpenDocument and uses it
+  as its default file format.
+</p>
+
+<h3>Scripting support in KSpread</h3>
+<p align="justify">
+      KSpread, the spreadsheet program, now supports scripting in python
+      and Ruby just like KWord, Krita and Kexi.
+</p>
+
 <h4>
   Principal Improvements
 </h4>
@@ -133,7 +162,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        Krita is now able to open huge PNG files (with a size of at least 30000 by 30000, note it only works yet on 64bits architecture, on 32bits the maximum size of a file is smaller).
+      Krita is now able to open huge PNG files with a size of at least 30000 by 30000. Please note that this only works yet on 64bits architecture; on 32bits the maximum size of a file is smaller).
         </div>
       </li>
       <li>
@@ -176,7 +205,7 @@
       </li>
     </ul>
   <p />
-    <strong>KFormula (Mathematical formula editor)</strong>'s new features:
+    <strong>KFormula (Mathematical formula editor)</strong>
     <ul type="disc">
       <li>
         <div align="justify">
