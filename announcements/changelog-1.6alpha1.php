@@ -171,10 +171,10 @@
 
 <h3 id="kformula">KFormula</h3>
 
-<em>General</em>
 <ul>
+  <li>Greatly enhanced support for OpenDocument</li>
   <li>Ship Arev fonts instead of TeX fonts.</li>
-  <li></li>
+  <li>Lots of new supported elements</li>
 </ul>
 
 <?php
