@@ -150,17 +150,18 @@ mm<?php
 </ul>
 <em>Effects/filters plugins</em>
 <ul>
- <li>adjustable blur: a blur effet with control over the height, width and orientation of the effect</li>
+ <li>adjustable blur: a blur effect with control over the height, width and orientation of the effect</li>
  <li>colors filters: some simple transformations on the colors channels (minimum, maximum, transformation to alpha)</li>
  <li>fast color transfer: this effect allow you to give to your image the same tones and colors as the reference image</li>
  <li>lens correction: this filter correct the distortion of the lens of a camera, this filter will also adjust the brightness on the corner of the image</li>
  <li>noise filter: add noise to your image</li>
- <li>random pick filter: this filter will randomly changes the value of a pixel by taking the pixel value in the neighbourghood</li>
- <li>unsharp mask: this filter is a digital adaptation of an old silver film technique to enhence the quality of a picture</li>
+ <li>random pick filter: this filter will randomly changes the value of a pixel by taking the pixel value in the neighborhood</li>
+ <li>unsharp mask: this filter is a digital adaptation of an old silver film technique to enhance the quality of a picture</li>
 </ul>
 <em>Tools</em>
-<ul>a bezier curve : you can create and edit a curve, and affect it a brush and a paint operation</ul>
-<ul>a tool to manipulate the perspecitve grid</ul>
+<ul>
+ <li>a bezier curve: you can create and edit a curve, and affect it a brush and a paint operation</li>
+<li>a tool to manipulate the perspective grid</li>
 </ul>
 
 <h3 id="kchart">KChart</h3>
