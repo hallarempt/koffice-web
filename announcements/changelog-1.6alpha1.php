@@ -121,7 +121,6 @@
 
 <em>Database Support Library (KexiDB)</em>
 <ul>
-  <li></li>
   <li>Improved operations related to <i>table design altering</i></li> 
   <li>Fixed setting database filename when relative path has been provided</li>
   <li>Optimization: "rename table" action now uses "ALTER TABLE RENAME TO" 
@@ -140,7 +139,19 @@
 
 <h3 id="kchart">KChart</h3>
 
+<em>General</em>
+<ul>
+  <li>Improve data editor. <a href="http://bugs.kde.org/129553">bug #129553</a>.</li>
+  <li></li>
+</ul>
+
 <h3 id="kformula">KFormula</h3>
+
+<em>General</em>
+<ul>
+  <li>Ship Arev fonts instead of TeX fonts.</li>
+  <li></li>
+</ul>
 
 <?php
   include("footer.inc");
