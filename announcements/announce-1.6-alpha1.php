@@ -103,7 +103,7 @@
 <h3>Lots of new features in Krita and Kexi</h3>
 <p align="justify">
       For more details look in the Principal Improvements below, or
-  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a><.
+  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a>.
 </p>
 
 <h3>OpenDocument support in KFormula</h3>
