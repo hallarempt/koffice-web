@@ -103,7 +103,7 @@
 <h3>Lots of new features in Krita and Kexi</h3>
 <p align="justify">
       For more details look in the Principal Improvements below, or
-  the complete changelog.
+  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a>.
 </p>
 
 <h3>OpenDocument support in KFormula</h3>
@@ -115,12 +115,12 @@
 <h3>Scripting support in KSpread</h3>
 <p align="justify">
       KSpread, the spreadsheet program, now supports scripting in python
-      and Ruby just like KWord, Krita and Kexi.
+      and Ruby just like Krita and Kexi.
 </p>
 
-<h4>
+<h2>
   Principal Improvements
-</h4>
+</h2>
 <p align="justify">
   The principal improvements over KOffice 1.5 are:
 </p>
