@@ -188,7 +188,6 @@
 </ul>
 
 <h3 id="kchart">KChart</h3>
-<em>General</em>
 <ul>
   <li>Improve data editor. <a href="http://bugs.kde.org/129553">bug #129553</a>.</li>
 </ul>
