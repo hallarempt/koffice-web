@@ -14,6 +14,8 @@ mm<?php
 <li><a href="#krita">Krita</a></li>
 <li><a href="#kchart">KChart</a></li>
 <li><a href="#kformula">KFormula</a></li>
+<li><a href="#kspread">KSpread</a></li>
+<li><a href="#kplato">KPlato</a></li>
 <li><a href="#kpresenter">KPresenter</a></li>
 </ul>
 
@@ -29,6 +31,7 @@ mm<?php
   </ul>
   </li>
   <li>speed improvements in kross</li>
+  <li>various fixed to the handling of opendocument files in KoText</li>
 </ul>
 
 <h3 id="kexi">Kexi</h3>
@@ -165,20 +168,31 @@ mm<?php
 </ul>
 
 <h3 id="kchart">KChart</h3>
-
 <em>General</em>
 <ul>
   <li>Improve data editor. <a href="http://bugs.kde.org/129553">bug #129553</a>.</li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>
-
 <ul>
   <li>Greatly enhanced support for OpenDocument</li>
   <li>OpenDocument Format is now the default.</li>
   <li>Ship Arev fonts instead of TeX fonts.</li>
   <li>Lots of new supported elements</li>
   <li>Several new supported styles</li>
+</ul>
+
+<h3 id="kspread">KSpread</h3>
+<ul>
+    <li>support for scripting (with ruby and python) using kross</li>
+    <li>speed improvement in loading and saving files</li>
+    <li>improvements in styles saving/loading in opendocument</li>
+</ul>
+
+<h3 id="kplato">KPlato</h3>
+<ul>
+    <li>Added PERT calculation for estimated value based on optimistic, expected and pessimistic value.</li>
+    <li>The distribution used is dependent on the setting of Risk.</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
