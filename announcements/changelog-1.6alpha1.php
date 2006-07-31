@@ -1,4 +1,4 @@
-<?php
+mm<?php
   $page_title ='KOffice 1.6-alpha Changelog';
   $site_root = '../';
   include("koffice.inc");
@@ -14,6 +14,7 @@
 <li><a href="#krita">Krita</a></li>
 <li><a href="#kchart">KChart</a></li>
 <li><a href="#kformula">KFormula</a></li>
+<li><a href="#kpresenter">KPresenter</a></li>
 </ul>
 
 
@@ -27,6 +28,7 @@
   <li>Clear all properties and group names when using operator =; delayed deleting of editors on setting a new property</li>
   </ul>
   </li>
+  <li>speed improvements in kross</li>
 </ul>
 
 <h3 id="kexi">Kexi</h3>
@@ -176,6 +178,13 @@
   <li>Ship Arev fonts instead of TeX fonts.</li>
   <li>Lots of new supported elements</li>
 </ul>
+
+<h3 id="kpresenter">KPresenter</h3>
+<ul>
+    <li>kpresenter can be build stand-alone</li>
+    <li>add a dcop call to end a presentation</li>
+</ul>
+
 
 <?php
   include("footer.inc");
