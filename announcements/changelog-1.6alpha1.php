@@ -169,15 +169,16 @@ mm<?php
 <em>General</em>
 <ul>
   <li>Improve data editor. <a href="http://bugs.kde.org/129553">bug #129553</a>.</li>
-  <li></li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>
 
 <ul>
   <li>Greatly enhanced support for OpenDocument</li>
+  <li>OpenDocument Format is now the default.</li>
   <li>Ship Arev fonts instead of TeX fonts.</li>
   <li>Lots of new supported elements</li>
+  <li>Several new supported styles</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
