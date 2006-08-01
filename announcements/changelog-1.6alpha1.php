@@ -44,7 +44,7 @@
 
 <h3 id="kpresenter">KPresenter</h3>
 <ul>
-    <li>kpresenter can be build stand-alone</li>
+    <li>kpresenter can be built stand-alone</li>
     <li>add a dcop call to end a presentation</li>
 </ul>
 
@@ -158,7 +158,7 @@
 <em>Core libray</em>
 <ul>
 <li>perspective grid: this is a grid that is defined by two vanishing points</li>
-<li>improvements of the memory management, krita can handle more than 4Go of cache on hard drive on 32bits system and doesn't crash anymore if the system run out of memory before krita reach it's maximum amount of allowed memory</li>
+<li>improvements of the memory management, krita can handle more than 4Gb of cache on hard drive on 32bits system and doesn't crash anymore if the system run out of memory before krita reach it's maximum amount of allowed memory</li>
 </ul>
 <em>File filters</em>
 <ul>
@@ -169,10 +169,10 @@
 <ul>
  <li>adjustable blur: a blur effect with control over the height, width and orientation of the effect</li>
  <li>colors filters: some simple transformations on the colors channels (minimum, maximum, transformation to alpha)</li>
- <li>fast color transfer: this effect allow you to give to your image the same tones and colors as the reference image</li>
+ <li>fast color transfer: this effect allows you to give to your image the same tones and colors as the reference image</li>
  <li>lens correction: this filter correct the distortion of the lens of a camera, this filter will also adjust the brightness on the corner of the image</li>
  <li>noise filter: add noise to your image</li>
- <li>random pick filter: this filter will randomly changes the value of a pixel by taking the pixel value in the neighborhood</li>
+ <li>random pick filter: this filter will randomly change the value of a pixel by taking the pixel value in the neighborhood</li>
  <li>unsharp mask: this filter is a digital adaptation of an old silver film technique to enhance the quality of a picture</li>
 </ul>
 <em>Tools</em>
