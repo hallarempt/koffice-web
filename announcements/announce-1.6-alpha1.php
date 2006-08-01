@@ -175,7 +175,7 @@
       </li>
       <li>
         <div align="justify">
-        add a tool to draw bezier curves
+        New tool for drawing bezier curves has been added
         </div>
       </li>
     </ul>
