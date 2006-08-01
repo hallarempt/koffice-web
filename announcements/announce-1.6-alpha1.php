@@ -139,20 +139,20 @@
         Data aware combo boxes (drop down lists)
         </div>
       </li>
-      <li>
+      <!-- li>
         <div align="justify">
         Further improvements in Query Designer
         </div>
-      </li>
+      </li -->
       <li>
         <div align="justify">
-        Make "Image Box" widget Data-aware in Kexi Forms
+        Data-aware &quot;Image Box&quot; widget in Forms and Table View
         </div>
       </li>
-      <li>
+      <!-- li>
         <div align="justify">
         Support for macros
-        </div>
+        </div -->
       </li>
     </ul>
   <p />
