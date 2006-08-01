@@ -5,8 +5,6 @@
   include("header.inc");
 ?>
 
-<h1>THIS PAGE IS UNDER EMBARGO ! PLEASE DO NOT PUBLISH IT !</h1>
-
 <p align="justify">
   DATELINE AUGUST 1, 2006<br />
   FOR IMMEDIATE RELEASE

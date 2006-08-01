@@ -1,0 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+f203cd1abd5e5fe403ba506e9faa0c5e  koffice-1.5.90.tar.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.3 (GNU/Linux)
+
+iD8DBQFEzGrqSsbPQ6vX79cRAkhGAJ4vc0VisWCOB/6EzxquRmtbZ7kgAwCgjYzv
+IEvPfyE5UrcoxUN0upaSSTw=
+=PYJM
+-----END PGP SIGNATURE-----
