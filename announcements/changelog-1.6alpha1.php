@@ -52,10 +52,10 @@
 
 <em>Main new features</em>
 <ul>
- <li>Object data type and data-aware image form widget</li>
+ <li>Object data type and data-aware image form widget (<a href="http://www.kdedevelopers.org/node/2163" target="_blank">details</a>)</li>
  <li>Improvements in Auto Field form widget</li>
- <li>Table design altering without removing the existing data</li>
- <li>Support for Data-aware combo boxes in the Table View</li>
+ <li>Table design altering without removing the existing data (<a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a></li>
+ <li>Support for Data-aware combo boxes in the Table View <a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a></li>
 </ul>
 
 <em>Table Designer</em>
@@ -67,7 +67,7 @@
   <li>Changing field's description is supported by undo/redo commands 
   and by alter table actions.</li>
   <li>Internal Debugger added with "Real alter table" button, 
-  for convenience, "save" action now uses the old alter table code (<a href="">details</a>)</li>
+  for convenience, "save" action now uses the old alter table code (<a href="http://kexi-project.org/pics/1.1/internal_debugger.png" target="_blank">screenshot</a>)</li>
   <li>Renaming table fields works, table schema is recreated when needed,
   and just altered in-place when it's enough to do so</li>
 </ul>
