@@ -85,7 +85,7 @@
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.6-alpha1/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.6-alpha1/">http and ftp</a> mirrors.
 </p>
 <h2>Highlights</h2>
 <p align="justify">
@@ -277,7 +277,7 @@
   <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.6-alpha1 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.6-alpha1/src/">http</a>
+  <a href="http://download.kde.org/unstable/koffice-1.6-alpha1/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
