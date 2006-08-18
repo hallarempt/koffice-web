@@ -281,6 +281,8 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
     (Krita)<br />
       <b><a href="">Tobias Hintze</a></b>
     (KChart)<br />
+      <b><a href="">Emanuele Tamponi</a></b>
+    (Krita)<br />
 </p>
 
  <br />
