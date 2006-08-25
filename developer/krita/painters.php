@@ -10,7 +10,7 @@
 <p><i>Boudewijn Rempt</i></p>
 
 <p>This is a write-up of my (Boudewijn's) understanding at this
-moment -- February 17, 2004.</p>
+moment -- February 17, 2004 (brought up to date a bit to August 25, 2006).</p>
 
 
 <p>Krita's core consists of paint devices and painters:</p>
@@ -24,16 +24,16 @@ moment -- February 17, 2004.</p>
 QPainter. KisPaintDevice also takes up some of the roles of QImage,
 but isn't all that efficient at it.</p>
 
-<p>Examples of <tt>KisPaintDevice</tt>s are: <tt>KisLayer</tt>,
-<tt>KisSelection</tt> and <tt>KisBackground</tt>.</p>
+<p>Examples of <tt>KisPaintDevice</tt>s are: <tt>KisSelection</tt> and <tt>KisBackground</tt>.</p>
 
 <h3>Getting pixel data in and out of a KisPaintDevice.</h3>
 
 <p>Krita stores all image data in tiles; the tiles are managed by the
-aptly named KisTileMgr. Inside the tiles, we have a KisPixelData
-structure, which is basically a wrapper that packs together a pointer
-to a memory area that contains the pixel data (QUANTUM's) and some
-more information.</p>
+aptly named KisTiledDataManager (which is a subclass of KisDataManager,
+so that it is possible to exchange the tilemanager somewhat easier at compile
+time). Inside the tiles, we just have raw Q_UINT8s (these are regular,
+8 bit unsigned chars), that can be interpreted only with the appropriate
+colorspace.</p>
 
 <p>Ordinarily, you will change the data inside a KisPaintDevice through
 the KisPainter. Using KisPainter has the advantage that your changes
@@ -42,9 +42,14 @@ especially nice, since you generally don't want to work directly with
 tiles, not before having bought shares in an aspirin producer.</p>
 
 <p>The other way of messing with the pixels inside a KisPaintDevice is
-through the pixel() and and setPixel() methods in KisPaintDevice.
+through the colorAt(), pixel() and and setPixel() methods in KisPaintDevice.
 These methods retrieve and set the specified pixel data using the
 tiles, but are not undoable. They are also rather ineffcient and slow.</p>
+
+<p>These methods return and get their data in the format of a KisColor. This
+is a wrapper around a single pixel worth of uninterpreted data, and contains
+a pointer to the KisColorSpace that needs to be used to interpret the raw data.
+</p>
 
 <p>KisPainter and KisPaintDevice do the job of hiding the actual image
 data from the krita hacker, but sometimes it's not enough, sometimes
@@ -52,12 +57,47 @@ you need to loop over all the pixels in an image, do
 something, and write the pixels back to this or another image (or
 sections of images).</p>
 
-<p>In the near future, we will offer an iterator over the pixels, for now
-you will have to ask the tile manager to copy all the bytes of the
-image data in a buffer for you to read. Likewise, in the future we
-will hopefully have something clever to feed pixel data to the tile
-manager. For now, you will have to fill a memory buffer with the
-desired data and feed that to the tile manager.</p>
+<h3>Getting easy access to the image data with KisPaintDevice</h3>
+
+<p>The best way to get access to individual pixels, is using one of the iterators
+the KisPaintDevice has to offer. The easiest way is to iterate over the lines with
+an iterator.</p>
+<pre>
+    // For each line y:
+    KisHLineIteratorPixel it = paintdev->createHLineIterator(x, y, width, writable);
+    while (!it.isDone()) {
+        Q_UINT8* data = it.rawData();
+        // you can use the KisColorSpace of the paint device here to change the data
+        ++it;
+    }
+</pre>
+
+<p>The writable property is important for speed: if you the subsequent accessing of the pixel
+data will purely be read-only, writable should be set to false. That way, if the iterators
+passes over a tile that has no data yet, it will not create a new tile, but return a pointer
+to a default tile. If you do plan to change the pixel data, it is important to set writable
+to true, since the new tiles should be created.
+</p>
+
+<p>
+Each iterator also has an oldRawData() function. This function returns a const Q_UINT8 pointer
+to the state the pixel was before the last KisMemento was taken. Basically, this is a 'snapshot'
+of the pixel taken at the moment the most recent undo operation on this pixel was started.
+It can be important that you can get access to the state a pixel was <i>before</i> it was
+changed by a function.
+</p>
+
+<p>
+Other iterators are KisVLineIteratorPixel and KisRectIteratorPixel.
+The Vertical iterator is completely analogous to the HLine iterator. The KisRectIteratorPixel
+iterates over a whole area at one, <i>in the way that is most efficient</i>. This means that
+the iteration will not go one complete line at a time, but will stay in the same tile as long
+as possible. This allows for faster iteration, but might be problematic if you rely on the
+pixels being visited in a deterministic way.
+<!-- Also talk about the Random iterator thingie? -->
+</p>
+
+<!--
 
 <h3>Getting pixel data into your buffer</h3>
 
@@ -127,6 +167,7 @@ sizeof(QUANTUM)</tt></p>
 pixels in a paint device (i.e., in the tiles),
 and even provide random access in a smart way; and we are working on a smart way
 of getting pixels into a paint device, but those aren't done yet.</p>
+-->
 
 <?php
    include("footer.inc");
