@@ -50,24 +50,22 @@
         and compositing. This part of Krita could potentially be decoupled from the application
         and form the basis of a 2d graphics library like <a href="http://www.imagemagick.org/">ImageMagick</a>
         or <a href="http://www.artofcode.com/libart.html">LibArt</a>. Potentially, because the API
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_painter.h">KisPainter</a> and
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_paint_device.h">KisPaintDevice</a>
+        <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_painter.h">KisPainter</a> and
+        <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_paint_device.h">KisPaintDevice</a>
         provide is used throughout the application.</p>
 
     <p>Paint actions are generally implemented in KisPainter, but as soon as color compositing
-       is necessary, the action is deferred to the correct color strategy, for instance
-       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_strategy_colorspace_rgb.h">KisStrategyColorSpaceRGB</a>.
+       is necessary, the action is deferred to the correct color strategy (which have <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/kritacolor/kis_colorspace.h">KisColorSpace</a> as a base), for instance
+       <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/colorspaces/rgb_u8/kis_rgb_colorspace.h">KisRgbColorSpace</a>.
        In a sense, KisPainter is a facade for the color strategies.</p>
 
-    <p>Image data is stored in layers: <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_layer.h">KisLayer</a>,
-       a subclass of KisPaintDevice. In order to show the image on screen, all layers are composited using the
-       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/visitors/kis_merge.h">KisMerge</a> visitor onto
-       one KisPaintDevice, which is then rendered to a <a href="http://doc.trolltech.com/3.2/qimage.html">QImage</a>
-       in the <tt>render</tt> method of the relevant color strategy.</p>
+    <p>Image data is stored in paint devices:
+    <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_paint_device.h">KisPaintDevice</a>. To display this image data, a KisPaintDevice can be used to create a <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_paint_layer.h">KisPaintLayer</a>, a subclass of <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_layer.h">KisLayer</a>.
+    In order to show the image on screen, all layers are composited using the <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_merge_visitor.h">KisMergeVisitor</a>, which visits the different kinds of KisLayer (which are grouped in a tree-like structure with the <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_group_layer.h">KisGroupLayer</a> class). The composited result is put in a KisPaintDevice, which is then rendered to a <a href="http://doc.trolltech.com/3.2/qimage.html">QImage</a>
+       in the <tt>convertToQImage</tt> method of the relevant color strategy.</p>
 
-    <p>Krita's core is <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/tiles">tile</a>-based,
-      as with all good paint applications. Tiles contain the actual
-       <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/tiles/kispixeldata.h">pixel data</a>, that
+    <p>Krita's core is <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/core/tiles/">tile</a>-based,
+      as with all good paint applications. Tiles contain the actual pixel data, that
        is the chunk of memory where three, four of five bytes in a row represent the red, green, blue, alpha or cyan, magenta,
        yellow, black and alpha components that form one pixel. Whenever a pixel in a 64x64 pixel tile changes, the
        tile is saved to make it possible to undo the change. This is encapsulated in the <tt>beginTransaction</tt>
@@ -79,7 +77,7 @@
     <h3>Images and documents</h3>
 
     <p>The document model of Krita is contained in
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_doc.h">KisDoc</a>.
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/ui/kis_doc.h">KisDoc</a>.
       A document contains one or more images and each image can contain one or more layers.</p>
 
 
@@ -88,11 +86,11 @@
     <p>Krita is a KOffice application and therefore uses the standard KOffice GUI wrapper that
       creates a multiple document/view shell with toolbars, menubars and all that sort of thing.
       The basis is in
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_view.h">KisView</a>;
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/ui/kis_view.h">KisView</a>;
       this class constructs all the user interface features like the brush selector or the color
       selectors. Code for dialogs and widgets is kept in the
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/ui">ui directory</a>. However, it
-      must be admitted that Krita's UI is mess currently; most of the dialogs don't work, and what there
+      <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/ui">ui directory</a>. However, it
+      must be admitted that Krita's UI is mess currently; some of the dialogs don't work, and what there
       is looks not too polished. This is a prime area for an ambitious hacker to put in some good
       work...</p>
 
@@ -101,10 +99,10 @@
 
     <p>This is a severely underdesigned part of Krita. A tool, like a brush, a lasso, a convolver or
       an painter's knife, is based on
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/tools/kis_tool_paint.h">KisToolPaint</a> or
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/tools/kis_tool_non_paint.h">KisToolNonPaint</a>,
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/ui/kis_tool_paint.h">KisToolPaint</a> or
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/ui/kis_tool_non_paint.h">KisToolNonPaint</a>,
       both ultimately based on
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_tool.h">KisToolInterface</a>,
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/ui/kis_tool.h">KisTool</a>,
       and should provide:</p>
 
       <ul>
@@ -116,34 +114,26 @@
           rectangle for a rectangular select.</li>
       </ul>
 
-    <p>Tool code is in <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/tools">tools</a>.
-        Ideally, tools would be parts or some description, enabling run-time loading and adding,
-        instead of compile time adding, which is what happens in
-        <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core.kis_tool_factory.h">KisToolFactory</a>.
+    <p>Tool code is in <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/plugins/tools">tools</a>.
+        Tools, like lot of other parts of Krita, are actually loaded as plugins. This makes it easy to develop new tools outside of the Krita tree.
     </p>
 
-    <p>Tools can make use of <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_resource.h">KisResource</a>s.
+    <p>Tools can make use of <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_resource.h">KisResource</a>s.
       Resources are, for instance,
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_pattern.h">patterns</a>,
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_brush.h">brushes</a> (based on Gimp's brushes) or
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/core/kis_gradient.h">gradients</a>. Note that this
-      is an architectural change that wasn't completed at the time of writing: only brushes and patterns have been ported
-      to the KisResource. Gradients should still be done. Krita can now also use Gimp's pipe brushes.
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_pattern.h">patterns</a>,
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_brush.h">brushes</a> (based on Gimp's brushes) or
+      <a href="http://websvn.kde.org/*checkout*/branches/koffice/1.6/koffice/krita/core/kis_gradient.h">gradients</a>. Krita can also use Gimp's pipe brushes.
       </p>
 
     <p>There is no support for fancy procedural brushes yet. (But look at the KisImagePipeBrush class for an
 	example of how it could be done.)</p>
 
-    <p>There is nothing close to filters or plugins: don't be fooled by the
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/plugins">plugins</a> modules; it's dead,
-      and has been dead for a long time. One day plugins will be resurrected, possibly on the same
-      day that kde-wide scripting for applications is implemented. (Internal to applications, not
-      dcop-calls from the shell.)</p>
+    <p>Krita is has a very modular approach, using the <tt>Plugin</tt> concept of <tt>KParts</tt>. Most tools, paint operations, filters, colorspaces</a>, and parts of the UI are implemented as plugins. Most of them can be found in the <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/plugins/">plugins directory</a> (the colorspaces are in <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/colorspaces/">colorspaces</a>) </p>
 
     <h3>Design documents</h3>
 
-    <p>The most relevant design document can be found in Krita's CVS, and is called
-      <a href="http://webcvs.kde.org/cgi-bin/cvsweb.cgi/koffice/krita/DESIGN">DESIGN</a>. Earlier design
+    <p>The most relevant design documents can be found in Krita's SVN, and is in
+      <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/doc/">doc</a> (although some documents are very specific or outdated). Earlier design
       documents, with a mostly historical interest are <a href="./overall_design.txt">Overall Design</a>
       and <a href="gui_design.txt">Gui Design</a>.</p>
 
