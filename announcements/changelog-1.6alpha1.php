@@ -54,7 +54,7 @@
 <ul>
  <li>Object data type and data-aware image form widget (<a href="http://www.kdedevelopers.org/node/2163" target="_blank">details</a>)</li>
  <li>Improvements in Auto Field form widget</li>
- <li>Table design altering without removing the existing data (<a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a></li>
+ <li>Table design altering without removing the existing data (<a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>)</li>
  <li>Support for Data-aware combo boxes in the Table View <a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a></li>
 </ul>
 
