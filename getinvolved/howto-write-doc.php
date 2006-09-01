@@ -34,7 +34,7 @@ Please use those KDE defaults as much as possible for consistent screenshots alo
 <h3>Information on KDE Documentation</h3>
 
 <p>You can find a lot of information on how to write KDE documentation at
-<a href="http://i18n.kde.org/sitedoc.html">http://i18n.kde.org/sitedoc.html</a>
+<a href="http://i18n.kde.org/docs/">http://i18n.kde.org/docs/</a>
 <br />All KDE documentation guidelines found there also apply for
 KOffice documentation unless stated otherwise here or in the KOffice
 Documentation Cookbook (soon to be available).</p>
