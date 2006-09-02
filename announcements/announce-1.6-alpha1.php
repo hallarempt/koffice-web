@@ -31,7 +31,7 @@
 </p>
   <p align="justify">
   The goal of this release is to get feedback for the feature already available,
-  wether it is bug, enhencement or new idea, we will need that to make sure the 1.6
+  whether it is bug, enhencement or new idea, we will need that to make sure the 1.6
   release reach a high quality level and matches the need of our users.
   </p>
 <p align="justify">
