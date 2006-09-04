@@ -18,12 +18,12 @@ $gallery->addImage("videos/krita_rc1_sm.png",
                    "[Screenshot]", 0 , "General Preview (Pre-1.5, June 2005)");
 $gallery->addImage("videos/krita_preview2_sm.png",
                    "videos/krita_preview2.mpeg","271", "215",
-                   "[Screenshot]", 0 , "General Preview (Pre-1.4, September 2006)");
+                   "[Screenshot]", 0 , "General Preview (Pre-1.4, September 2004)");
 $gallery->startNewRow();
 
 $gallery->addImage("videos/krita_preview1_sm.png",
                    "videos/krita_preview1.mpeg","272", "233",
-                   "[Screenshot]", 0 , "General Preview (Pre-1.4, August 2006)");
+                   "[Screenshot]", 0 , "General Preview (Pre-1.4, August 2004)");
 
 $gallery->show();
 ?>
