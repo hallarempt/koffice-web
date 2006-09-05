@@ -12,6 +12,10 @@ $gallery->addImage("videos/krita_perspectivecloning_sm.png",
                    "videos/krita_perspectivecloning.mpeg","272", "205",
                    "[Screenshot]", 0 , "Perspective Cloning (1.6 Beta, September 2006)");
 
+$gallery->addImage("videos/krita_perspectivetransformtool_sm.png",
+                   "videos/krita_perspectivetransformtool.mpeg.mpeg","272", "204",
+                   "[Screenshot]", 0 , "Perspective Transform tool (1.6 Beta, September 2006)");
+
 $gallery->startNewRow();
 $gallery->addImage("videos/krita_rc1_sm.png",
                    "videos/krita_rc1.avi","273", "183",
