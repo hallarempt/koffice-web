@@ -44,7 +44,7 @@
  <p>Usability experts worked together on a complete new design of the KOffice startup dialog. It is now
  easier to use, more powerful and flexible. And above all, it's nice as well:</p>
 
- <img src="startup.png" alt="" />
+ <img src="startup.png" alt="" width="519" height="416" />
 
  <h3>Native OASIS OpenDocument Format support</h3>
 
@@ -64,7 +64,7 @@ of the KWord Document Structure Area, which is useful for speaking a
 document.
 </p>
 
-<img src="tts.png" alt="" />
+<img src="tts.png" alt="" width="545" height="408" />
 
 <p>
 In addition, all KOffice programs were enhanced for mouseless operation with 
@@ -73,7 +73,7 @@ Alt+F8 (customizable) and up pops a dialog which you can use to place focus
 on any widget that can receive focus.
 </p>
 
-<img src="kbd-focus-ext.png" alt="" />
+<img src="kbd-focus-ext.png" alt="" width="435" height="301" />
 
 <p>
 See <strong>For Users with Disabilities</strong> in the KWord, KSpread, or KPresenter 
@@ -162,7 +162,7 @@ will snap to the guide line).
         <div align="justify">
 	 Auto guide lines (automatically have guides to snap an object during moving 
 to other objects boarders).<br/>
-         <img src="guide.png" alt="" />
+         <img src="guide.png" alt="" width="626" height="482" />
         </div>
       </li>
       <li>
@@ -185,7 +185,7 @@ Kexi can store it's data and design in a single database on a database server
 of file. This version focuses on the data exchangeability and server support.
 </p>
 
-<img src="http://kexi-project.org/pics/1.0/simple_printouts_m.png" alt="" />
+<img src="http://kexi-project.org/pics/1.0/simple_printouts_m.png" alt="" width="250" height="181" />
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/simple_printouts.png">
@@ -200,7 +200,7 @@ showing the result!
 </p>
 
 <p><strong>Example printout:</strong></p>
-<img src="http://kexi-project.org/pics/1.0/example_printout_m.png" alt="" />
+<img src="http://kexi-project.org/pics/1.0/example_printout_m.png" alt="" width="250" height="181" />
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/example_printout.png">
@@ -219,7 +219,7 @@ characters and even data types including date or time. All the options can be
 changed by user before data importing or exporting.
 </p>
 
-<img src="http://kexi-project.org/pics/1.0/csv_import_m.png" alt="" />
+<img src="http://kexi-project.org/pics/1.0/csv_import_m.png" alt="" width="250" height="181" />
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/csv_import.png">
@@ -233,7 +233,7 @@ boxes. Images can be now inserted from file onto the form or pasted from
 clipboard and then saved within the single database losslessly.
 </p>
 
-<img src="http://kexi-project.org/pics/1.0/image_box_m.png" alt="" />
+<img src="http://kexi-project.org/pics/1.0/image_box_m.png" alt="" width="250" height="181" />
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/image_box.png">
@@ -249,7 +249,7 @@ database tables can be now imported with more accurately converted data types.
 <p>
 <strong>Importing Northwind sample Microsoft Access (.mdb) database using Kexi on Linux:</strong>
 </p>
-<img src="northwind_mdb_import_sm.png" alt="" />
+<img src="northwind_mdb_import_sm.png" alt="" width="878" height="363" />
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/northwind_mdb_import/northwind_mdb_import.png">
@@ -344,7 +344,7 @@ Krita 1.5.0 has a host of features unique in the free software graphical
 application arena. Let's begin with the beginning:
 </p>
 
-<img src="colorspaces.png" alt="" />
+<img src="colorspaces.png" alt="" width="878" height="568" />
 
 <p>
 As you can see, Krita offers you a choice of colorspaces: 8 and 16 bit cmyk,
@@ -358,7 +358,7 @@ to gradients and almost all filters are usable in all colorspaces. Read about
 your colorspace choices in the Krita manual, completely new in Krita 1.5.
 </p>
 
-<img src="histogram_layertooltips.png" alt="" />
+<img src="histogram_layertooltips.png" alt="" width="878" height="568" />
 
 <p>
 As you can see, Krita's palettes have been expanded and now include an Overview
@@ -368,7 +368,7 @@ and if you let your mouse hover over the layer, you get an informative tooltip
 with a larger icon.
 </p>
 
-<img src="adjustment_layers.png" alt="" />
+<img src="adjustment_layers.png" alt="" width="525" height="538" />
 
 <p>
 Non destructive effects have finally arrived: Krita makes it easy for you by
@@ -376,7 +376,7 @@ allowing you to use nearly all filters in the new adjustment layer feature.
 From artistic to color correction -- and note the new curve widget.
 </p>
 
-<img src="layergroups.png" alt="" />
+<img src="layergroups.png" alt="" width="705" height="456" />
 
 <p>
 Organize your complex layered images using layer groups for performance and
@@ -391,21 +391,21 @@ layers that embed documents you can create in any KOffice application. Here we
 add a small text to our Krita image:
 </p>
 
-<img src="embedding.png" alt="" />
+<img src="embedding.png" alt="" width="878" height="568" />
 
 <p>
 And here is how it looks when the embedded KWord is no longer active. You can
 even apply adjustment layers over embedded layers!
 </p>
 
-<img src="embedding1.png" alt="" />
+<img src="embedding1.png" alt="" width="636" height="476" />
 
 <p>
 Using the innovative and flexible Kross scripting technology, first featured in Kexi,
 Krita is fully scriptable in Python and Ruby. A number of example scripts are provided:
 </p>
 
-<img src="scripting.png" alt="" />
+<img src="scripting.png" alt="" width="510" height="377" />
 
 <p>
 And when all is said and done, you can save your image using the new png, tiff and jpeg
@@ -416,7 +416,7 @@ and many other file formats.
 
  <h2>KPlato</h2>
 
-<img src="/kplato/pics/gantt_small_2006_01.png" alt="" />
+<img src="/kplato/pics/gantt_small_2006_01.png" alt="" width="881" height="513" />
 
 <p>
 KOffice 1.5 is the first version to include KPlato, the KOffice Planning Tool.
