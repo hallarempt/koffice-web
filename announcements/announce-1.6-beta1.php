@@ -26,14 +26,9 @@
   open standards for its document formats, component communication and
   component embedding.
   This release is principally a public testing and developer solicitation
-  release, and is definitively not intented for anything but testing.
+  release, and is definitely not intented for anything but testing.
   Help is welcome!
 </p>
-  <p align="justify">
-  The goal of this release is to get feedback for the feature already available,
-  whether it is bug, enhencement or new idea, we will need that to make sure the 1.6
-  release reach a high quality level and matches the need of our users.
-  </p>
 <p align="justify">
     This release includes:
 </p>
