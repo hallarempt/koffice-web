@@ -51,15 +51,15 @@
 </ul>
 
 <h3 id="kspread">KSpread</h3>
-<em>Features:</em>
+<em>Features</em>
 <ul>
   <li> KSpread supports scripting with python and ruby now.
   <li> Make the default column width and row height configurable via Style Manager -> "Default" -> Position. (WISH 125749)
   <li> Allow whitespaces in named areas.
-  <li> kspread can import kexi databases
+  <li> KSpread can import databases created in Kexi 
 </ul>
 
-<em>Bugfixes:</em>
+<em>Bugfixes</em>
 <ul>
   <li> Formula engine / functions:
     <ul>
@@ -108,23 +108,32 @@
 <em>Main new features</em>
 <ul>
  <li>Object data type and data-aware image form widget (<a href="http://www.kdedevelopers.org/node/2163" target="_blank">details</a>)</li>
+ <li>New: Support for macros (this is technology preview only, read <a href="http://kexi-project.org/wiki/wikiview/index.php?Macros">details</a>)</li>
+ <li>Table design altering without removing the existing data (this is technology preview only, read <a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>)</li>
+ <li>Support for Data-aware combo boxes in the Table View, i.e. lookup columns (<a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a>, <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction">details</a>). Note that there is no user interface for designing the lookup columns. You can try the feature by downloading a <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Current_State">specially prepared database</a>.</li>
  <li>Improvements in Auto Field form widget</li>
- <li>Table design altering without removing the existing data (<a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>)</li>
- <li>Support for Data-aware combo boxes in the Table View (<a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a>)</li>
+ <li>Improvements in Table View, including support for default values and tooltips for content that is too large for its cell size</li>
 </ul>
 
 <em>Table Designer</em>
 <ul>
+  <li><em>Alpha 1:</em></li>
   <li>Undo/redo actions introduced; deleting and redoing actions improved
   in the table-altering machinery of KexiDB</li>
   <li>Clear primary key when selecting non-integer type</li>
   <li>Added title to the context menu</li>
   <li>Changing field's description is supported by undo/redo commands 
-  and by alter table actions.</li>
+  and by alter table actions</li>
   <li>Internal Debugger added with "Real alter table" button, 
   for convenience, "save" action now uses the old alter table code (<a href="http://kexi-project.org/pics/1.1/internal_debugger.png" target="_blank">screenshot</a>)</li>
   <li>Renaming table fields works, table schema is recreated when needed,
   and just altered in-place when it's enough to do so</li>
+  <li><em>Beta 1:</em></li>
+  <li>Fixed setting types and subtypes</li>
+  <li>Fixed a crash when there are more than 50 actions perfomred in the Table Designer's undo/redo stack</li>
+  <li>Fixed saving "indexed" and "type" field properties of a table design</li>
+  <li>Support for default values</li>
+  <li>Fields of type yes/no have default value set to false (by default)</li>
 </ul>
 
 <!-- em>Query Designer</em>
@@ -134,6 +143,7 @@
 
 <em>Forms</em>
 <ul>
+  <li><em>Alpha 1:</em></li>
   <li>Fixed saving data changes for db-aware checkboxes
   (by setting StrongFocus policy as default)</li>
   <li>Set the data source readonly if it comes from query</li>
@@ -158,6 +168,14 @@
   fixed updating position of image when the frame changes</li>
   <li>Removed flickering of the Property Pane after dropping a new field 
   onto the form</li>
+  <li><em>Beta 1:</em></li>
+  <li>Display default values in the new row; 
+  default text is displayed with a special style (italic blue) as in table view;
+  cancelling changes in a widget reverts its contents to default value 
+  (if available); the special style is removed as soon as the editing starts</li>
+  <li>"redo" action removed from the data-aware widgets' context menu 
+  (to avoid problems with data handling)</li>
+
 </ul>
 
 <!-- em>Scripting (Kross)</em>
@@ -165,20 +183,34 @@
   <li></li>
 </ul -->
 
+<em>Startup</em>
+<ul>
+  <li><em>Beta 1:</em></li>
+  <li>--skip-startup-dialog startup option added: skips displaying Kexi startup dialog window</li>
+</ul>
+
 <em>Data and Project Migration Wizard</em>
 <ul>
+  <li><em>Alpha 1:</em></li>
   <li>Improved usability for selecting type of destination database
   (no mention of SQLite for now)</li>
 </ul>
 
 <em>CSV Data Import and Export</em>
 <ul>
+  <li><em>Alpha 1:</em></li>
   <li>Fixed recursion when importing clipboard data </li>
   <li>Allow to change the delimiter when importing clipboard data </li>
   <li>Parsing data improved: values without leading zeros, like 1/2/2006 work;
  Since apps like MS Access in the USA creates csv files with date 
  format month/day/year, (and without leading zeros), text with "/" 
  inside is assumed to be in this format.</li>
+  <li><em>Beta 1:</em></li>
+  <li>Time and Object values: fixed exporting to file or copying to clipboard</li>
+  <li>Fixed crash on exporting to clipboard</li>
+  <li>Delimiter detection is now even more clever, allowing to import more complex data: 
+  characters outside quotes have higher priority; number of candidates for delimiters 
+  is counted too.</li>
 </ul>
 
 <!-- em>MS Access Database Import</em>
@@ -188,25 +220,37 @@
 
 <em>Data Table View</em>
 <ul>
+  <li><em>Alpha 1:</em></li>
   <li>Spreadsheet mode: fixed inserting empty rows and deleting rows</li>
   <li>Cell editor: the contents are marked as changed only when the original 
   value differs from the current</li>
+  <li><em>Beta 1:</em></li>
+  <li>Current row and column are marked as selection on the vertical 
+   and horizontal header sections</li>
+  <li>Display tooltip with row number when the vertical scrollbar is dragged</li>
 </ul>
 
 <em>Database Support Library (KexiDB)</em>
 <ul>
+  <li><em>Alpha 1:</em></li>
   <li>Improved operations related to <i>table design altering</i></li> 
   <li>Fixed setting database filename when relative path has been provided</li>
   <li>Optimization: "rename table" action now uses "ALTER TABLE RENAME TO" 
   SQL statement, O(1).</li>
   <li>X-Kexi-DoNotAllowProjectImportingTo KexiDB driver property added, false by defaut</li>
+  <li><em>Beta 1:</em></li>
+  <li>Server version information is retrieved (usable for future extensions)</li>
+  <li>Added unicode->latin1 mappings for Czech characters</li>
 </ul>
 
  <em>Database Drivers</em>
  <ul>
+  <li><em>Alpha 1:</em></li>
   <li>SQLite library upgraded from 3.0.7 to 3.2.8 (backward compatible),
   to get "table renaming" function.</li>
   <li>Table altering improved for SQLite: changing data types will be possible soon</li>
+  <li><em>Beta 1:</em></li>
+  <lI>PostgreSQL: use TIMESTAMP, not DATETIME for date/time data type</li>
  </ul>
 
 <h3 id="krita">Krita</h3>
@@ -256,7 +300,7 @@
 </ul>
 
 <h3 id="kformula">KFormula</h3>
-<em>New Features:</em>
+<em>New Features</em>
 <ul>
   <li>OpenDocument and MathML supported natively.</li>
   <li>OpenDocument as default file format.</li>
@@ -264,7 +308,7 @@
   <li>Arev Sans font included.</li>
   <li>Improved UI for better OpenDocument capabilities support.</li>
 </ul>
-<em>OpenDocument / MathML:</em>
+<em>OpenDocument / MathML</em>
 <ul>
   <li>Supported elements:</li>
     <ul>
