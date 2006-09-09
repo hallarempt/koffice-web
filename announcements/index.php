@@ -9,8 +9,49 @@
 To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
-<strong>31 January 2006</strong>
 
+<!--<strong>9 September 2006</strong>
+ - <a href="announce-1.6-beta1.php">KOffice 1.6-beta 1 Announcement</a>
+<br />"<em>New features in Krita and KFormula, bugfixes.</em>"
+<p />-->
+
+<strong>1 August 2006</strong>
+ - <a href="announce-1.6-alpha1.php">KOffice 1.6-alpha 1 Announcement</a>
+<br />"<em>New features in Kexi and Krita, scripting support in KSpread and
+OpenDocument support in KFormula.</em>"
+<p />
+
+<strong>14 July 2006</strong>
+ - <a href="announce-1.5.2.php">KOffice 1.5.2 Announcement</a>
+<br />"<em>Improved Overal Stability, lots of critocal bugfixes.</em>"
+<p />
+
+<strong>22 May 2006</strong>
+ - <a href="announce-1.5.1.php">KOffice 1.5.1 Announcement</a>
+<br />"<em>Improved Overal Stability, bugfixes.</em>"
+<p />
+
+<strong>11 April 2006</strong>
+ - <a href="announce-1.5.php">KOffice 1.5.0 Announcement</a>
+<br />"<em>OASIS OpenDocument as the native file format for KWord, KSpread,
+KPresenter, Karbon and KChart,improved accessibility, a scripting component, the
+first full release of Kexi,CMYK and L*a*b colorspace support for Krita (and
+adjustment layers) and a completely new project management application,
+KPlato.</em>"
+<p />
+
+<strong>29 March 2006</strong>
+ - <a href="announce-1.5-rc1.php">KOffice 1.5.0-rc1 Announcement</a>
+<br />"<em>Improved Overal Stability, bugfixes. KFormula gets a new
+maintainer, Alfredo Beaumont.</em>"
+<p />
+
+<strong>11 March 2006</strong>
+ - <a href="announce-1.5-beta2.php">KOffice 1.5.0-beta 2 Announcement</a>
+<br />"<em>Improved Overal Stability, bugfixes.</em>"
+<p />
+
+<strong>31 January 2006</strong>
  - <a href="announce-1.5-beta1.php">KOffice 1.5.0-beta 1 Announcement</a>
 <br />"<em>New application, KPlato, first full release of Kexi, much improved
 Krita and many improvements all-round.</em>"
