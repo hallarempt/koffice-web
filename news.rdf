@@ -9,12 +9,12 @@
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
-<!--<item>
+<item>
 <title>Testers needed! KOffice release beta for 1.6 Version</Title>
-<Date>Sept 09, 2006</Date>
+<Date>Sept 10, 2006</Date>
 <Fullstory>
 Today the KOffice team releases the first beta of the next coming 1.6
-version. Among other new features, it includes the <a
+version. Among other new features, it includes some of the <a
 href="http://dot.kde.org/1157452184/">Soc works</a> in Krita and KFormula. You
 are invited to test it in depth and to report any bugs via <a
 href="http://bugs.kde.org/">KDE bug website</a>. <br/>
@@ -26,7 +26,7 @@ href="http://www.koffice.org/announcements/announce-1.6-beta1.php">announcement
 href="http://www.koffice.org/announcements/changelog-1.6beta1.php">list of
 changes</a>.
 </fullstory>
-</item>-->
+</item>
 
 <item>
 <title>KOffice release first technical preview of its upcoming 1.6 version</title>
