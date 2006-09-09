@@ -55,6 +55,11 @@ attractive screenshots at that resolution.</p>
   </tbody>
 </table>
 
+<p>Please add the width and height as a property in your html code, like
+that:
+<tt>&lt;img src="startup.png" alt="" width="519" height="416" /&gt;</tt>
+</p>
+
 <h2>Filename conventions</h2>
 <p>Please name your screenshots as follows:</p>
 <p>High resolution (unscaled) screenshots should have a filename of the
