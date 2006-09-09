@@ -136,10 +136,11 @@
   <li>Fields of type yes/no have default value set to false (by default)</li>
 </ul>
 
-<!-- em>Query Designer</em>
+<em>Query Designer</em>
 <ul>
-  <li></li>
-</ul -->
+  <li><em>Alpha 1:</em></li>
+  <li>Possible crash fixed when new design is saved in the data view: rebuild schema only when needed</li>
+</ul>
 
 <em>Forms</em>
 <ul>
@@ -175,13 +176,14 @@
   (if available); the special style is removed as soon as the editing starts</li>
   <li>"redo" action removed from the data-aware widgets' context menu 
   (to avoid problems with data handling)</li>
-
 </ul>
 
-<!-- em>Scripting (Kross)</em>
+<em>Scripting (Kross)</em>
 <ul>
-  <li></li>
-</ul -->
+  <li><em>Alpha 1:</em></li>
+  <li>Improvements in performance</li>
+  <li>Possible crash fixed</li>
+</ul>
 
 <em>Startup</em>
 <ul>
