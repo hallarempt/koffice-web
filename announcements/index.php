@@ -14,6 +14,7 @@ KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">m
  - <a href="announce-1.5-beta1.php">KOffice 1.5.0-beta 1 Announcement</a>
 <br />"<em>New application, KPlato, first full release of Kexi, much improved
 Krita and many improvements all-round.</em>"
+<p />
 
 <strong>11 October 2005</strong>
  - <a href="announce-1.4.2.php">KOffice 1.4.2 Announcement</a>
