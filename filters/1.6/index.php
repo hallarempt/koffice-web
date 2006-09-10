@@ -358,10 +358,18 @@
       <td width="30%" align="left" valign="top">OpenEXR</td>
       <td width="50%" align="left" valign="top">
                 <a href="http://www.openexr.com/">OpenEXR</a> is a high dynamic-range (HDR) format <br /> 
-                developed by <a href="http://www.ilm.com">Industrial Light &amp; Magic</a>
+                developed by <a href="http://www.ilm.com">Industrial Light & Magic</a>
                 </td>
       <td width="10%" align="center" valign="top">****</td>
       <td width="10%" align="center" valign="top">****</td>
+    </tr>
+    <tr>
+      <td width="30%" align="left" valign="top">PDF</td>
+      <td width="50%" align="left" valign="top">Portable Document Format</td>
+      <td width="10%" align="center" valign="top">***</td>
+      <td width="10%" align="center" valign="top">
+        Yes&nbsp;<a href="#pdfexport">(see&nbsp;below)</a>
+      </td>
     </tr>
     <tr>
       <td width="30%" align="left" valign="top">PNG</td>
@@ -378,8 +386,8 @@
     <tr>
       <td width="30%" align="left" valign="top">TIFF</td>
       <td width="50%" align="left" valign="top"> </td>
-      <td width="10%" align="center" valign="top">***</td>
-      <td width="10%" align="center" valign="top">***</td>
+      <td width="10%" align="center" valign="top">*****</td>
+      <td width="10%" align="center" valign="top"></td>
     </tr>
   </table>
   <h3>KChart</h3>

@@ -1,4 +1,4 @@
 <?php
-$this->appendLink("Filter 1.5 Status", "1.5");
-$this->appendLink("Filter 1.4 Status", "1.4");
+$this->appendLink("KOffice 1.5", "1.5");
+$this->appendLink("KOffice 1.6 (beta)", "1.6");
 ?>

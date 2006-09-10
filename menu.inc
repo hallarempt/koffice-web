@@ -32,7 +32,7 @@ $section->appendDir("KPlato", "kplato");
 $section->appendDir("KChart", "kchart");
 $section->appendDir("KFormula", "kformula");
 $section->appendDir("Kugar", "kugar");
-$section->appendDir("Import/Export Filters", "filters");
+$section->appendDir("Supported File Formats", "filters");
 
 $section =& $this->appendSection("Documentation");
 $section->appendLink("KOffice $currentversion", "http://docs.kde.org/stable/en/koffice/", false);

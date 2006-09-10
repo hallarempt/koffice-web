@@ -1,11 +1,15 @@
 <?php
-    $page_title="KOffice Export/Import Filters";
+    $page_title="Supported File Formats";
     $site_root = '../';
     include("koffice.inc");
     include("header.inc");
 ?>
 
-    <p>Welcome to the KOffice Filter Information Page.</p>
+    <p>These pages provide information about which file formats are
+    supported by KOffice.  They also provide an indication of the
+    extent to which each format is supported.</p>
+
+    <p>Support for file formats is provided by <em>filters</em>.</p>
 
     <h2>About Filters</h2>
     
@@ -28,13 +32,25 @@
        For more information on which file formats KOffice supports, see the 
        filter status for recent versions of KOffice below.</p>
    
-    <h2>Current (stable) versions</h2>
+    <h2>Current release: KOffice 1.5</h2>
     
     <p>This information pertains to the currently released stable
     version of KOffice.</p>
 
      <ul>
       <li><a href="1.5/">Filter status of KOffice 1.5</a></li>
+     </ul>
+
+    <h2>Forthcoming release: KOffice 1.6</h2>
+
+    <p>This information pertains to
+    the <a href="../announcements/announce-1.6-beta1.php">beta
+    version</a> of KOffice, due to be released as KOffice 1.6 in
+    October 2006.  The information here is for guidance only: it may
+    be inaccurate and is subject to change.</p>
+
+     <ul>
+      <li><a href="1.6/">Filter status of KOffice 1.6 (beta)</a></li>
      </ul>
 
     <h2>Old versions</h2>
