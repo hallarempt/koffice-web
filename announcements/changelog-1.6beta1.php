@@ -116,7 +116,8 @@
 <ul>
  <li>Object data type and data-aware image form widget (<a href="http://www.kdedevelopers.org/node/2163" target="_blank">details</a>)</li>
  <li>New: Support for macros (this is technology preview only, read <a href="http://kexi-project.org/wiki/wikiview/index.php?Macros">details</a>)</li>
- <li>Table design altering without removing the existing data (this is technology preview only, read <a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>)</li>
+ <li>Table design altering without removing the existing data (this is technology preview only, read <a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>); 
+  Undo and Redo commands are available.</li>
  <li>Support for Data-aware combo boxes in the Table View, i.e. lookup columns (<a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a>, <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction">details</a>). Note that there is no user interface for designing the lookup columns. You can try the feature by downloading a <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Current_State">specially prepared database</a>.</li>
  <li>Improvements in Auto Field form widget</li>
  <li>Improvements in Table View, including support for default values and tooltips for content that is too large for its cell size</li>
