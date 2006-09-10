@@ -111,20 +111,9 @@
 </xsl:for-each>
 </table>
 
- <h2><a name="pdfexport">PDF Export</a></h2>
- <p>All KOffice applications can export (create) PDF files.  The
- process for exporting to PDF is the same as in most other KDE
- applications:</p>
- <ul>
-   <li>Select <em>File->Print</em> from the menu;</li>
-   <li>In the <em>Printer Name</em> box, choose the <em>Print to File
-   (PDF)</em> option (illustrated below);
-     <img src="../images/pdf.png" /></li>
-   <li>Enter a file name in the <em>Location</em> box (or use the
-     button next to the <em>Location</em> field for a standard file
-     window;</li>
-   <li>Click <em>Print.</em></li>
- </ul>
+<xsl:processing-instruction name="php">
+  include("../pdf.inc");
+</xsl:processing-instruction>
 
 <h2>Joining the developers</h2>
 <p>There are many filters that we would like and many filters that need improvement, although sadly we do not have enough developers working on KOffice.</p>

@@ -32,7 +32,12 @@
   <li>Clear all properties and group names when using operator =; delayed deleting of editors on setting a new property</li>
   </ul>
   </li>
-  <li>speed improvements in kross</li>
+  <li><em>Kross Scripting Library</em>
+  <ul>
+  <li>Improvements in performance</li>
+  <li>Possible crash fixed</li>
+  </ul>
+  </li>
   <li>various fixed to the handling of opendocument files in KoText</li>
 </ul>
 
@@ -57,6 +62,8 @@
   <li> Make the default column width and row height configurable via Style Manager -> "Default" -> Position. (WISH 125749)
   <li> Allow whitespaces in named areas.
   <li> KSpread can import databases created in Kexi 
+  <li> Speed improvement in loading and saving files
+  <li> Improvements in styles saving/loading in opendocument
 </ul>
 
 <em>Bugfixes</em>
@@ -176,13 +183,6 @@
   (if available); the special style is removed as soon as the editing starts</li>
   <li>"redo" action removed from the data-aware widgets' context menu 
   (to avoid problems with data handling)</li>
-</ul>
-
-<em>Scripting (Kross)</em>
-<ul>
-  <li><em>Alpha 1:</em></li>
-  <li>Improvements in performance</li>
-  <li>Possible crash fixed</li>
 </ul>
 
 <em>Startup</em>
