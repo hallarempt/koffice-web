@@ -75,12 +75,12 @@
 <p>
   as well as a built-in thesaurus (KThesaurus)
   and support for many different 
-    <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
+    <a href="http://www.koffice.org/filters/1.6/">file formats</a>.
 </p>
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.6-alpha1/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.6-beta1/">http and ftp</a> mirrors.
 </p>
 <h2>Highlights</h2>
 <p align="justify">
@@ -96,7 +96,7 @@
 <h3>Lots of new features in Krita and Kexi</h3>
 <p align="justify">
       For more details look in the Principal Improvements below, or
-  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a>.
+  <a href="http://www.koffice.org/announcements/changelog-1.6beta1.php">the complete changelog</a>.
 </p>
 
 <h3>OpenDocument support in KFormula</h3>

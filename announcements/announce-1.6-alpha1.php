@@ -80,7 +80,7 @@
 <p>
   as well as a built-in thesaurus (KThesaurus)
   and support for many different 
-    <a href="http://www.koffice.org/filters/1.5/">file formats</a>.
+    <a href="http://www.koffice.org/filters/1.6/">file formats</a>.
 </p>
 <p align="justify">
   KOffice and all its components (including KDE) are available
