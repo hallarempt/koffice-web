@@ -22,7 +22,6 @@
       </ul>
 
       <h2>Download</h2>
-      <p>Only source code is available.</p>
       <ul>
       <li>Source code of KOffice 1.6 beta 1:
 	<table border="0" cellpadding="4" cellspacing="0">
