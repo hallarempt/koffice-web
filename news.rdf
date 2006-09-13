@@ -47,7 +47,7 @@ Almost 2 months after the last stable release, the KOffice team is proud to
 present the latest release in the 1.5 series with fixes in all applications.
 Various critical bugs were fixed in KWord, KSpread, Kexi and Krita.  Karbon,
 the vector drawing application has closed quite a lot of bugs in its user
-interface part.<br>
+interface part.<br />
 For more information, See the
 <a href="http://www.koffice.org/releases/1.5.2-release.php">press release</a>,
 the <a href="http://www.koffice.org/announcements/announce-1.5.2.php">announcement</a>
@@ -77,7 +77,7 @@ Read the vision on <a href="http://dot.kde.org/1149518002/">dot.kde.org</a>
 <title>3rd party releases Krita-plugins</title>
 <date>May 31, 2006</date>
 <fullstory>
-Showing the enormous growth of Krita we are proud to report on the first 3rd party release of plugins.  The plugins are meant to enhance your experience with useful high-quality filters and tools, all free of charge.<br>From the release notes: The first release of Krita-plugins is available for downloading on <a href="http://download.kde.org/download.php?url=stable/apps/KDE3.x/graphics/krita-plugins-1.5-1.tar.bz2">KDE's ftp server</a>. It is a set of plugins extending your experience with Krita with the inclusion of some colors filters (like color transfer), image enhancement filters (like adjustable blur and unsharp mask) and a red-eye removal tool.
+Showing the enormous growth of Krita we are proud to report on the first 3rd party release of plugins.  The plugins are meant to enhance your experience with useful high-quality filters and tools, all free of charge.<br />From the release notes: The first release of Krita-plugins is available for downloading on <a href="http://download.kde.org/download.php?url=stable/apps/KDE3.x/graphics/krita-plugins-1.5-1.tar.bz2">KDE's ftp server</a>. It is a set of plugins extending your experience with Krita with the inclusion of some colors filters (like color transfer), image enhancement filters (like adjustable blur and unsharp mask) and a red-eye removal tool.
 </fullstory>
 </item>
 

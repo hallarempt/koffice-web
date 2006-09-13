@@ -92,6 +92,7 @@ DATELINE MAY 22, 2006<br />
   <a href="http://download.kde.org/stable/koffice-1.5.1/src/">http and ftp</a> mirrors.
 </p>
 
+<h3>
 Major Improvements in this release are:
 </h3>
 <ul>
