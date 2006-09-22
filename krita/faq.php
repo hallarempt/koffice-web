@@ -57,7 +57,8 @@ $faq->addQuestion("What Does it Do?",
 <ul>
 <li>brushes, drawing and layer editing tools (not complete)</li>
 <li>Color management using Little CMS</li>
-<li>RGB, RGBA and Grayscale color modes with adjustable color selectors. CMYK is implemented but buggy at the moment.</li>
+<li>RGB, RGBA and Grayscale color modes with adjustable color selectors. CMYK, Lab and
+more are also implemented in 8 and 16 bit color and work just fine.</li>
 <li>Import/Export of png, jpg, xpm, tiff and bmp images, including color-indexed images. Import of gif images. (complete)</li>
 <li>an XML file format which saves and loads layer and channel information and full 32 bit image data (complete)</li>
 <li>color editing and selection tools (partly complete)</li>
