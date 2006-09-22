@@ -30,35 +30,41 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
     <h3>Features</h3>
 
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
-         pauses between bursts of development wasn't ready for use until 2005. Now Krita is a reasonably capable 
-	 image editor and a great platform for future development. The current release of Krita (version 1.5.1) has
-         too many features to list them all:</p>
+         pauses between bursts of development wasn't ready for use until 2005.
+         Now Krita is a reasonably capable image editor and a great platform for
+         future development.
 
-        <ul>
-            <li>Painting with brushes and colors</li>
-            <li>Creating brushes from circles and squares</li>
-            <li>Filling with colour, patterns and gradients</li>
-            <li>Erasing</li>
-            <li>Airbrush</li>
-            <li>Simple geometric forms, optionally filled with colours, patterns or gradient.</li>
-            <li>Many filters</li>
-            <li>undo and redo</li>
-            <li>Loading and saving of images in its native file format.</li>
-            <li>Importing and exporting of images in all file formats supported by your installation of ImageMagick.</li>
-            <li>Adding, removing, reordering and merging of layers.</li>
-            <li>Layer transparency.</li>
-            <li>Loading Gimp brushes, pipe brushes, gradients and patterns.</li>
-            <li>Zoom.</li>
-            <li>Color selection.</li>
-            <li>Gray(A), RGB(A) color models.</li>
-            <li>Support for Wacom tablets.</li>
-            <li>High-quality scaling, rotating and shearing.</li>
-	    <li>Selections, with a full set of selection tools.</li>
-    	    <li>A complete color management system based on lcms</li>
-    	    <li>A cimg-based image restoration tool</li>
-    	    <li>Histograms</li>
-		<li>And much more...</li>
-        </ul>
+      <p>Krita supports many managed colorspaces, like rgb, grayscale, cmyk, lab, ycbcr and lms, in 8 and
+      16 bits per channel. Some colorspaces even support 32 bits per channel! With the development
+      of KOffice 2.0, all these colorspaces will be available to all KOffice applications that
+      need color management. An experimental watercolor colorspace that tries to follows the physics
+      of paint is included in 1.5.</p>
+
+      <p>Krita can import RAW images in 8 and 16 bits per channel and load and save the usual image
+      formats: tiff, png, jpeg. Other image formats, like xcf, can imported and sometimes exported
+      through the GraphicsMagick import/export plugin, but are not fully supported.</p>
+
+      <p>Krita has a large array of tools. The 1.6 release contains freehand, line, rectangle, ellipse,
+      polygon, polyline, star, bezier curve, duplicate, paint-with-filters, crop, move, transform,
+      perspective transform, contiguous fill, gradient, text, color picker, pan, zoom, perspective grid,
+      selection paint, selection erase, rectangular select, elliptical select, polygonal select, contiguous
+      area (magic wand), outline, magnetic selection, bezier curve select and select by similar colors.
+      All paint tools can be used in soft brushes, hard pencil, airbrush or eraser mode. SIOX-like foreground
+      extraction is in the works.</p>
+
+      <p>Krita has image layers, group layers, adjustment layers and the innovative part layers: any
+      KOffice document can be embedded as a layer in Krita.</p>
+
+      <p>Krita is scriptable in Python and Ruby and offers a small, but useful DCOP interface. Krita 2.0
+      will also be dbus-enabled.
+
+      <p>There is a rich set of filters for image enhancement, color enhancement and artistic reinterpretation
+      of your image.</p>
+
+      <p>Krita is a very modular application and if you want, you can easily extend Krita by creating
+      new tools, paint modes, filters, dialogs, colorspaces and import and export filters. Most
+      of these plugins are described in the "Developing Krita Plugins" document. Krita also has an extensive
+      user manual.</p>
 
 	<h3>Documentation</h3>
 
@@ -72,35 +78,35 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
       </ul>
 
     <h3>Presentations</h3>
-
-    <p><a href="./talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
-Info Tag in Augsburg. (German)</a></p>
-    <p><a href="./krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
-2006.</a></p>
-    <p><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></p>
-
+        
+        <ul>
+            <li><a href="./talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
+        Info Tag in Augsburg. (German)</a></li>
+            <li><a href="./krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
+        2006.</a></li>
+            <li><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></li>
+        </ul>
 
     <h3>Videos</h3>
+    
+        <p>Bart Coppens has made several instructional videos showing how to do things with Krita at
+        important milestones like the developer preview release or the first public release candidate.
+        While cool, these videos do not necessarily show the current, latest and greatest state of Krita.</p>
+    
+        <ul>
+        <li><a href="./videos/krita_preview1.mpeg">First video for the first developer preview release</a></li>
+        <li><a href="./videos/krita_preview2.mpeg">Second video for the first developer preview release</a></li>
+        <li><a href="./videos/krita_rc1.avi">Video for the first public release candidate</a></li>
+        </ul>
 
-    <p>Bart Coppens has made several instructional videos showing how to do things with Krita at
-     important milestones like the developer preview release or the first public release candidate.
-     While cool, these videos do not necessarily show the current, latest and greatest state of Krita.</p>
-
-    <ul>
-     <li><a href="./videos/krita_preview1.mpeg">First video for the first developer preview release</a></li>
-     <li><a href="./videos/krita_preview2.mpeg">Second video for the first developer preview release</a></li>
-     <li><a href="./videos/krita_rc1.avi">Video for the first public release candidate</a></li>
-    </ul>
-     
-<h3>Blogs</h3>
-
-<ul>
-<li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a></li>
-<li><a href="http://cyrilleberger.blogspot.com">News from development on Krita, by Cyrille Berger</a></li>
-</ul>
-
-<h3>Plugins</h3>
-    <p>Some plugins are made available outside of the main distribution, you can find some plugins that would be included in the next release of Krita on <a href="http://download.kde.org/download.php?url=stable/apps/KDE3.x/graphics/krita-plugins-1.5-1.tar.bz2">the KDE ftp server</a>.
+    <h3>Blogs</h3>
+        
+        <ul>
+        <li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a></li>
+        <li><a href="http://cyrilleberger.blogspot.com">News from development on Krita, by Cyrille Berger</a></li>
+        <li><a href="http://www.kdedevelopers.org/blog/1471">Bart Coppens' Blog</a></li>
+        <li><a href="http://boemann.blogspot.com/">Boemann's Blog</a></li>
+        </ul>
 
 <h3>Development</h3>
 	<p>Who's working on what, and what's planned to be done can be found on the <a href="http://wiki.kde.org/krita+todo">
@@ -121,12 +127,6 @@ Info Tag in Augsburg. (German)</a></p>
       for a high-level overview of the architecture of Krita, and <a href="../developer/krita/painters.php">Painters
       and Paint Devices</a> for information on the 2D canvas library that is at the heart of
       Krita.</p>
-
-      <p>Krita also needs a dedicated artist who wants to work with us on creating
-	a coherent, consistent and satisfying visual appearance for Krita. This includes
-	tool icons, dialog box design and the implementation of visual cues for painterly
-	features like a mixing palette or a set of images for artist's tools like brushes,
-	erasers and pencils.</p>
 
       <h3>Libraries Krita currently uses</h3>
 
