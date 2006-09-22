@@ -24,6 +24,7 @@
   $appinfo->addAuthor("Melchior Franz",  "mfranz@kde.org");
   $appinfo->addAuthor("Laurent Montel", "lmontel@mandrakesoft.com");
   $appinfo->addAuthor("Emanuele Tamponi", "emanuele@valinor.it");
+  $appinfo->addAuthor("Ronan Zeegers", "");
   $appinfo->addContributor("Daniel Molkentin", "d&#x61;&#x6e;&#105;&#00109;&#00111;&#0064;kde.or&#x67;", "Bug fixing");
   $appinfo->addContributor("Dirk Sch&ouml;nberger", "", "Keyboard shortcuts, code cleanups");
   $appinfo->addContributor("Thomas Zander", "&#x7a;&#x61;n&#x64;&#101;r&#00064;&#107;&#x64;&#101;&#46;or&#00103;", "Usability consulting, toolbox fixing");

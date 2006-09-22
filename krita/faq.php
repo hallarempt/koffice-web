@@ -1,4 +1,4 @@
-<?php
+Rem<?php
   $page_title="Krita FAQ";
   $site_root='../';
   include("koffice.inc");
@@ -7,6 +7,11 @@
 
 <?php
 $faq = new FAQ();
+$faq->addQuestion("Why does Krita tell me my image has the sRGB (LCMS internal) profile? I
+didn't know it had a profile!", "Krita cannot work without color profiles, so on loading
+an RGB image without a profile, Krita assign it a default profile. sRGB is what most
+monitors and printers assume when confronted with an image without a profile. This internal
+profile will not be saved together with the image.");
 $faq->addQuestion("I want pure red -- 255,0,0 but Krita's color selector keeps giving me
 something else", "Krita's color selectors will not give you colours outside the gamut that's
 allowed by the icc profile associated with your image and your screen. If you want the widest
@@ -52,51 +57,6 @@ Almost all functionality, from color models to tools, from filters to file forma
 is implemented as plugins on a small core. You could start you very own first Krita plugin today by simply following the 
 lead of the example plugin");
 
-$faq->addQuestion("What Does it Do?",
- "Or rather, what <i>should</i> it do, and what does it do already:</p>
-<ul>
-<li>brushes, drawing and layer editing tools (not complete)</li>
-<li>Color management using Little CMS</li>
-<li>RGB, RGBA and Grayscale color modes with adjustable color selectors. CMYK, Lab and
-more are also implemented in 8 and 16 bit color and work just fine.</li>
-<li>Import/Export of png, jpg, xpm, tiff and bmp images, including color-indexed images. Import of gif images. (complete)</li>
-<li>an XML file format which saves and loads layer and channel information and full 32 bit image data (complete)</li>
-<li>color editing and selection tools (partly complete)</li>
-<li>dithering, transparency, blending and color reductions (partly complete)</li>
-<li>multiple views of the same image (complete)</li>
-<li>multiple images in the same view (complete)</li>
-<li>gradients and patterns (under development)</li>
-<li>cut,copy and paste between images and layers using rectangular area and other basic selection methods (incomplete)</li>
-<li>masking of selected regions during painting operations (under development)</li>
-<li>user-definable brushes (under development)</li>
-<li>adjustable zoom levels (mostly complete)</li>
-<li>scaling of images, selections and layers (incomplete)</li>
-<li>graphical access to layer and channel information (partly complete)</li>
-<li>import/export of xcf (Gimp) image files (complete, in as far as ImageMagick supports this)</li>
-<li>embedding in other KOffice apps (needs testing)</li>
-<li>user-oriented documentation of all the above basic functionality (incomplete)</li>
-<li>Scripting using kjsembed</li>
-</ul>
-<p>
-Other planned features:
-</p>
-<ul>
-<li>HSV, Wet &amp; Sticky and Wet Canvas color models</li>
-<li>image manipulation filters for advanced import/export</li>
-<li>wide range of region selection methods, including fuzzy selection and boundary detection</li>
-<li>scripting with the Python language</li>
-</ul>
-<p>
-KParts architecture and plugins allow:
-</p>
-<ul>
-<li>plugins for effects and operation on images and selections</li>
-<li>additional tools</li>
-<li>additional filters</li>
-<li>components loaded as needed</li>
-</ul>
-<p>&nbsp;");
-
 $faq->addQuestion("This is the Kimp, right?",
 "If I had a penny for every time the Kimp was mentioned, I'd be able to do full-time development
 on Krita. No, this is not the Kimp. The Kimp was a hack, a clever hack, a KDE developer created
@@ -117,7 +77,6 @@ and if there's an image that breaks Krita for you, try to attach the image to th
 too big, mail <a href=\"mailto:boud@valdyas.org\">me</a>, and we'll find a formula. About wishlist items:
 it may be a good idea to read our <a href=\"http://websvn.kde.org/trunk/koffice/krita/TODO\">TODO</a>, which
 is already quite extensive and probably contains your wish already.");
-
 
 $faq->addQuestion("Can I get in on this thing?",
 "Indubitably. The best thing you can do is use and enjoy Krita!  Learn to use Krita and
