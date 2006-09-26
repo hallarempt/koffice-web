@@ -10,6 +10,8 @@
   $appinfo->showIconAndCopyright();
 ?>
 
+<p><b><i>Winner of the <a href="http://dot.kde.org/1159194107/">2006 Akademy Award for Best Application</a></i></b></p>
+
 <p><b>Krita</b> is a painting and image editing application for KOffice. Krita
 is part of KOffice since version 1.4. Krita contains both ease-of-use and fun features
 like guided painting (never before has it been so easy to airbrush a straight
