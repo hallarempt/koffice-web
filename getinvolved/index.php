@@ -10,8 +10,8 @@ Ask for more details to the contact if you are in doubt, we'll be very happy to 
 </p>
 <p>You can check what has been done as JJ in 2005 on <a href="jj-solved.php">the Junior Jobs Done webpage</a>.</p>
 
-<h2><a href="doc-writers.php">Junior Jobs - Become a new doc writer</a></h2>
-<p>You can find <a href="doc-writers.php">here some Junior Jobs tasks</a> related to writing or updating KOffice documentation.</p>
+<h2><a href="doc-writers.php">Become a documentation writer</a></h2>
+<p><a href="doc-writers.php">Here</a> you can find information related to writing or updating KOffice documentation.</p>
 <p>Please read the <a href="howto-write-doc.php">How to write documentation guide</a> in order to learn some very useful tips!</p>
 
 <h2>Other tasks</h2>

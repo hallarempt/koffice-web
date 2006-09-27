@@ -1,5 +1,5 @@
 <?php
-  $page_title="Docs Junior Jobs 2005";
+  $page_title="KOffice Documentation jobs";
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -10,10 +10,96 @@
 	]
 </div>
 
-    <p>January 2006 targets</p>
-<p>It is prefered to use KOffice svn trunk code to work on JJ, which is the next coming 1.5 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
-<p><a href="mailto:raphael.langerhorst@kdemail.net">Raphael Langerhorst</a> is the documentation coordinator for KOffice documentation.</p>
-<p>Information on how to write KOffice documentation can be found <a href="howto-write-doc.php">here</a>.</p>
+<p><b>Current state of the KOffice documentation</b></p>
+
+<p>The table below shows the status of the KOffice documentation as of September
+2006. Some applications have had updates for KOffice 1.6, but most applications
+have remained at version 1.5 and will have to be updated for KOffice 2.0 from
+there.</p>
+<p>There are a number of open tasks, if you want to help us creating the user
+manuals for our next major release, please contact the KOffice documentation
+coordinator, <a href="mailto:sanderkoning@kde.nl">Sander Koning</a>, or the
+handbook maintainer - see the table below.</p>
+<p>You can find some information on how to write KOffice documentation <a
+href="howto-write-doc.php">here</a>, do not hesitate to contact us if you have
+any questions.</p>
+
+<table cellspacing="0" cellpadding="3" border="1">
+  <tr>
+    <th>Application</th>
+    <th>Handbook maintainer</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>KOffice (general)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KOffice Workspace</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KWord</td>
+    <td><i>open</i></td>
+    <td>Complete for 1.4/1.5<i>open</i></td>
+  </tr>
+  <tr>
+    <td>KSpread</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KPresenter</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kexi</td>
+    <td>Jaroslaw Staniek (js AT iidea pl)/td>
+    <td>Feature-complete for 1.6, screenshots missing because of UI redesign in
+	2.0.</td>
+  </tr>
+  <tr>
+    <td>Kivio</td>
+    <td>Ben Lamb (ben AT zurgy org)</td>
+    <td>Complete for 1.5</td>
+  </tr>
+  <tr>
+    <td>Karbon14</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Krita</td>
+    <td>Sander Koning (sanderkoning AT kde nl)</td>
+    <td>Complete for 1.6.
+	More how-to chapters and tutorials should be added.</td>
+  </tr>
+  <tr>
+    <td>KPlato</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KChart</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KFormula</td>
+    <td>Alfredo Beaumont Sainz (alfredo beaumont AT gmail com)</td>
+    <td>Complete for 1.6</td>
+  </tr>
+  <tr>
+    <td>Kugar</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p>Some (older) Junior Jobs are listed in the table below.</p>
 
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
