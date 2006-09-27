@@ -6,7 +6,7 @@
 ?>
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 1.6.0 Beta 1 (latest unstable version).
+  release of KOffice 1.6.0 RC 1 (latest unstable version).
 </p>
 <ul>
 <li><a href="#kspread">KSpread</a></li>

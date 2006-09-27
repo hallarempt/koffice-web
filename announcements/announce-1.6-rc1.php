@@ -10,14 +10,13 @@
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
-  KDE Ships Release Candidat of Major Enhancements to Free Integrated Office Suite
+  KDE Ships Release Candidate of Major Enhancements to Free Integrated Office Suite
 </h2>
 <p align="justify">
   <p align="justify">September 27, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   immediate release of
-  <a href="http://www.koffice.org/">KOffice</a> 1.6-RC1, the first candidat
-  release for KOffice 1.6,
+  <a href="http://www.koffice.org/">KOffice</a> 1.6-RC1, the first release candidate for KOffice 1.6,
   <a href="http://developer.kde.org/development-versions/koffice-1.6-release-plan.html">scheduled</a>
   for release this October.</p>
 
@@ -215,7 +214,7 @@
     <div align="justify">
     Qt-3.3, which is available in source code from Trolltech as
     <a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.0.tar.gz">qt-x11-free-3.3.0.tar.gz</a>
-    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.5.tar.gz">qt-x11-free-3.3.5.tar.gz</a>
+    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.5.tar.gz">qt-x11-free-3.3.6.tar.gz</a>
     is recommended);
     and
     </div>
