@@ -57,7 +57,7 @@ any questions.</p>
   </tr>
   <tr>
     <td>Kexi</td>
-    <td>Jaroslaw Staniek (js AT iidea pl)/td>
+    <td>Jaroslaw Staniek (js AT iidea pl)</td>
     <td>Feature-complete for 1.6, screenshots missing because of UI redesign in
 	2.0.</td>
   </tr>
