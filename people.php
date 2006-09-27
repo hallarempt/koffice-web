@@ -47,7 +47,7 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
       <b>KChart: <a href="mailto: inge@lysator.liu.se">Inge Wallin</a></b><br />
       <b>KFormula: <a href="mailto:alfredo.beaumont@gmail.com">Alfredo Beaumont</a></b><br />
 <!--      <b>Documentation: <a href="&#109;&#x61;&#00105;lto:&#114;a&#112;hae&#x6c;.&#00108;a&#x6e;g&#101;&#x72;&#104;o&#114;&#115;&#00116;&#x40;k&#100;&#00101;m&#x61;il&#46;&#110;&#0101;&#0116;">Raphael Langerhorst</a></b><br /> -->
-      <b>Documentation: <a href="">Sander Koning</a></b><br />
+      <b>Documentation: <a href="mailto:sanderkoning@kde.nl">Sander Koning</a></b><br />
       <b>SVN Repository, Configure-Scripts and Makefiles: <a href="&#0109;&#x61;ilt&#111;:c&#111;&#111;&#108;&#111;&#64;k&#x64;e.o&#00114;&#103;">Stephan Kulow</a></b><br />
       </p>
       

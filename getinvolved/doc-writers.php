@@ -43,7 +43,7 @@ any questions.</p>
   <tr>
     <td>KWord</td>
     <td><i>open</i></td>
-    <td>Complete for 1.4/1.5<i>open</i></td>
+    <td>Complete for 1.4/1.5</td>
   </tr>
   <tr>
     <td>KSpread</td>
