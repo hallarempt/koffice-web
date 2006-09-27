@@ -18,7 +18,7 @@ koffice-l10n-cy-1.5.92.tar.bz2</a></td>
 <td><tt>35a6ab2616a730e8986bb296d935b663</tt></td></tr>
 <tr><td>Translation</td>
 <td><a href="http://download.kde.org/unstable/koffice-1.6-rc1/src/koffice-l10n/koffice-l10n-da-1.5.92.tar.bz2">
-koffice</a></td>
+koffice-l10n-da-1.5.92.tar.bz2</a></td>
 <td><tt>5829cfc7b004ec62be70734ba3414db0</tt></td></tr>
 <tr><td>Translation</td>
 <td><a href="http://download.kde.org/unstable/koffice-1.6-rc1/src/koffice-l10n/koffice-l10n-de-1.5.92.tar.bz2">
