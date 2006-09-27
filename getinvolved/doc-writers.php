@@ -32,8 +32,8 @@ any questions.</p>
   </tr>
   <tr>
     <td>KOffice (general)</td>
-    <td></td>
-    <td></td>
+    <td><em>open</em></td>
+    <td>Up-to-date for 1.5, but can use extension</td>
   </tr>
   <tr>
     <td>KOffice Workspace</td>
