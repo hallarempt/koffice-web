@@ -59,7 +59,7 @@ any questions.</p>
     <td>Kexi</td>
     <td>Jaroslaw Staniek (js AT iidea pl)</td>
     <td>Feature-complete for 1.6, screenshots missing because of UI redesign in
-	2.0.</td>
+        2.0.</td>
   </tr>
   <tr>
     <td>Kivio</td>
@@ -68,14 +68,14 @@ any questions.</p>
   </tr>
   <tr>
     <td>Karbon14</td>
-    <td></td>
-    <td></td>
+    <td><em>open</em></td>
+    <td><em>No documentation yet.</em></td>
   </tr>
   <tr>
     <td>Krita</td>
     <td>Sander Koning (sanderkoning AT kde nl)</td>
     <td>Complete for 1.6.
-	More how-to chapters and tutorials should be added.</td>
+        More how-to chapters and tutorials should be added.</td>
   </tr>
   <tr>
     <td>KPlato</td>
@@ -99,8 +99,11 @@ any questions.</p>
   </tr>
 </table>
 
-<p>Some (older) Junior Jobs are listed in the table below.</p>
+<p>Some small jobs are hilighted in the table below. Usually, these do not
+require deep knowledge of the application(s) involved, so they are an excellent
+way to start!</p>
 
+<!-- 
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th>Task Description</th>
@@ -117,8 +120,45 @@ any questions.</p>
   </tr>
 </table>
 
-<p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be assigned to you.<br />
-When you complete the task, please either attach the patch to the bug report or send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
+<p>If you want to take a JJ, please email your name to the contact and CC
+to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be
+assigned to you.<br />
+When you complete the task, please either attach the patch to the bug report or
+send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
+-->
+
+<table cellspacing="0" cellpadding="3" border="1">
+  <tr>
+    <th>Task Description</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Update application startup instructions in all handbooks with
+        respect to the new KOffice startup dialog, especially screenshots</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Update KOffice general handbook so that it includes less technical text
+        and more information that directly applies to users</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p>If you want to pick up one of these tasks, send an email to the documentation
+coordinator so that the task can be assigned to you. Do not hesitate to send an
+email as well if you have questions of any sort.</p>
 
 <br />
  <br />
