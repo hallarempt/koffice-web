@@ -119,7 +119,6 @@ way to start!</p>
     <td>-</td>
   </tr>
 </table>
-
 <p>If you want to take a JJ, please email your name to the contact and CC
 to <a href="mailto:annemarie.mahfouf@free.fr">Anne-Marie</a> so the task can be
 assigned to you.<br />
@@ -143,17 +142,20 @@ send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Proofread (spell- and grammar-check) the various handbooks and make
+        sure they comply with our style rules</td>
     <td></td>
   </tr>
+  <tr>
+    <td>Write sections on general painting for the Krita handbook</td>
+    <td></td>
+  </tr>
+<!--
   <tr>
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
+-->
 </table>
 
 <p>If you want to pick up one of these tasks, send an email to the documentation
