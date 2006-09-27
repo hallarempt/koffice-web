@@ -42,7 +42,7 @@ any questions.</p>
   </tr>
   <tr>
     <td>KWord</td>
-    <td><i>open</i></td>
+    <td><em>open</em></td>
     <td>Complete for 1.4/1.5</td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ any questions.</p>
   <tr>
     <td>KChart</td>
     <td></td>
-    <td></td>
+    <td>Complete for 1.5</td>
   </tr>
   <tr>
     <td>KFormula</td>
