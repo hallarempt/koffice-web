@@ -4,6 +4,10 @@
 <td><a href="http://download.kde.org/unstable/koffice-1.6-rc1/src/koffice-1.5.92.tar.bz2">
 koffice-1.5.92.tar.bz2</a></td>
 <td><tt>2134a0d09a3f98b91a062c7bafb57622</tt></td></tr>
+<tr><td>MS Access import plugin</td>
+<td><a href="http://download.kde.org/unstable/koffice-1.6-rc1/src/keximdb-1.1.0.tar.gz">
+keximdb-1.1.0.tar.gz</a></td>
+<td><tt>0e960fe9344d5be1232c12fb984e60a9</tt></td></tr>
 <tr><td>Translation</td>
 <td><a href="http://download.kde.org/unstable/koffice-1.6-rc1/src/koffice-l10n/koffice-l10n-ca-1.5.92.tar.bz2">
 koffice-l10n-ca-1.5.92.tar.bz2</a></td>
