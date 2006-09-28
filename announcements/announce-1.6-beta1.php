@@ -236,7 +236,7 @@
 </p>
 <p align="justify">
   <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.6-alpha1 is available for free download
+  The complete source code for KOffice 1.6-beta1 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.6-beta1/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.

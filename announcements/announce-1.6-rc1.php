@@ -95,7 +95,7 @@
 <h3>Lots of new features in Krita and Kexi</h3>
 <p align="justify">
       For more details look in the Principal Improvements below, or
-  <a href="http://www.koffice.org/announcements/changelog-1.6alpha1.php">the complete changelog</a>.
+  <a href="http://www.koffice.org/announcements/changelog-1.6rc1.php">the complete changelog</a>.
 </p>
 
 <h3>OpenDocument support in KFormula</h3>
@@ -235,7 +235,7 @@
 </p>
 <p align="justify">
   <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.6-alpha1 is available for free download
+  The complete source code for KOffice 1.6-rc1 is available for free download
   via one of the KDE
   <a href="http://download.kde.org/unstable/koffice-1.6-rc1/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
