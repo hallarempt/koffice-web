@@ -15,7 +15,8 @@
 <p>The table below shows the status of the KOffice documentation as of September
 2006. Some applications have had updates for KOffice 1.6, but most applications
 have remained at version 1.5 and will have to be updated for KOffice 2.0 from
-there.</p>
+there. Besides, due to the high speed of KOffice development, most manuals can
+use an update anyway.</p>
 <p>There are a number of open tasks, if you want to help us creating the user
 manuals for our next major release, please contact the KOffice documentation
 coordinator, <a href="mailto:sanderkoning@kde.nl">Sander Koning</a>, or the
