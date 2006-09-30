@@ -21,4 +21,6 @@ $kivioversion='1.5.2';
 $karbonversion='1.5.2';
 $kexiversion='1.0.2';
 $kplatoversion='0.5.2';
+
+$templatepath = "newlayout/";
 ?>
