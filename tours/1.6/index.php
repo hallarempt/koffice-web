@@ -37,7 +37,7 @@ highlights and gorgeous features. It also shows the strengths and main capabilit
 startup dialog. It is easy to use, powerful and flexible. And above all,
 it's nice as well:</p>
 
- <img src="startup.png" alt="" width="519" height="416" />
+ <img src="../1.5/startup.png" alt="" width="519" height="416" />
 
  <h3>Native OASIS OpenDocument Format support</h3>
 
@@ -57,7 +57,7 @@ of the KWord Document Structure Area, which is useful for speaking a
 document.
 </p>
 
-<img src="tts.png" alt="" width="545" height="408" />
+<img src="../1.5/tts.png" alt="" width="545" height="408" />
 
 <p>
 In addition, all KOffice programs are enhanced for mouseless operation with 
@@ -66,7 +66,7 @@ Alt+F8 (customizable) and up pops a dialog which you can use to place focus
 on any widget that can receive focus.
 </p>
 
-<img src="kbd-focus-ext.png" alt="" width="435" height="301" />
+<img src="../1.5/kbd-focus-ext.png" alt="" width="435" height="301" />
 
 <p>
 See <strong>For Users with Disabilities</strong> in the KWord, KSpread, or KPresenter 
@@ -155,7 +155,7 @@ will snap to the guide line).
         <div align="justify">
 	 Auto guide lines (automatically have guides to snap an object during moving 
 to other objects boarders).<br/>
-         <img src="guide.png" alt="" width="626" height="482" />
+         <img src="../1.5/guide.png" alt="" width="626" height="482" />
         </div>
       </li>
       <li>
@@ -242,7 +242,7 @@ database tables can be now imported with more accurately converted data types.
 <p>
 <strong>Importing Northwind sample Microsoft Access (.mdb) database using Kexi on Linux:</strong>
 </p>
-<img src="northwind_mdb_import_sm.png" alt="" width="878" height="363" />
+<img src="../1.5/northwind_mdb_import_sm.png" alt="" width="878" height="363" />
 <!--
 <br/>
 <img src="http://kexi-project.org/pics/1.0/northwind_mdb_import/northwind_mdb_import.png">
@@ -337,7 +337,7 @@ Krita 1.6.0 has a host of features unique in the free software graphical
 application arena. Let's begin with the beginning:
 </p>
 
-<img src="colorspaces.png" alt="" width="878" height="568" />
+<img src="../1.5/colorspaces.png" alt="" width="878" height="568" />
 
 <p>
 As you can see, Krita offers you a choice of colorspaces: 8 and 16 bit cmyk,
@@ -351,7 +351,7 @@ to gradients and almost all filters are usable in all colorspaces. Read about
 your colorspace choices in the Krita manual, completely new in Krita 1.6.
 </p>
 
-<img src="histogram_layertooltips.png" alt="" width="878" height="568" />
+<img src="../1.5/histogram_layertooltips.png" alt="" width="878" height="568" />
 
 <p>
 As you can see, Krita's palettes have been expanded and now include an Overview
@@ -361,7 +361,7 @@ and if you let your mouse hover over the layer, you get an informative tooltip
 with a larger icon.
 </p>
 
-<img src="adjustment_layers.png" alt="" width="525" height="538" />
+<img src="../1.5/adjustment_layers.png" alt="" width="525" height="538" />
 
 <p>
 Non destructive effects have finally arrived: Krita makes it easy for you by
@@ -369,7 +369,7 @@ allowing you to use nearly all filters in the new adjustment layer feature.
 From artistic to color correction -- and note the new curve widget.
 </p>
 
-<img src="layergroups.png" alt="" width="705" height="456" />
+<img src="../1.5/layergroups.png" alt="" width="705" height="456" />
 
 <p>
 Organize your complex layered images using layer groups for performance and
@@ -384,21 +384,21 @@ layers that embed documents you can create in any KOffice application. Here we
 add a small text to our Krita image:
 </p>
 
-<img src="embedding.png" alt="" width="878" height="568" />
+<img src="../1.5/embedding.png" alt="" width="878" height="568" />
 
 <p>
 And here is how it looks when the embedded KWord is no longer active. You can
 even apply adjustment layers over embedded layers!
 </p>
 
-<img src="embedding1.png" alt="" width="636" height="476" />
+<img src="../1.5/embedding1.png" alt="" width="636" height="476" />
 
 <p>
 Using the innovative and flexible Kross scripting technology, first featured in Kexi,
 Krita is fully scriptable in Python and Ruby. A number of example scripts are provided:
 </p>
 
-<img src="scripting.png" alt="" width="510" height="377" />
+<img src="../1.5/scripting.png" alt="" width="510" height="377" />
 
 <p>
 And when all is said and done, you can save your image using the new png, tiff and jpeg
