@@ -149,6 +149,7 @@
 
  <em>Database Drivers</em>
  <ul>
+  <li>Database files can be now compacted (defragmented).</li>
   <li>SQLite library upgraded from 3.0.7 to 3.2.8 (backward compatible),
   to get "table renaming" function.</li>
   <li>Table altering improved for SQLite: changing data types will be possible soon</li>
