@@ -50,9 +50,9 @@
     the database and provide full scripting, 
 </p>
 
-<h3>KFormula goes to MathML / OpenDocument</h3>
+<h3>KFormula Goes to OpenDocument and MathML</h3>
 <p align="justify">
-  The formula editor of KOffice now supports MathML and OpenDocument and uses it
+  The formula editor of KOffice now supports OpenDocument and MathML and uses it
   as its default file format.  It also surpasses the equivalent component in
   OpenOffice.org when it scores ca 70% on the
   <a href="http://www.w3.org/Math/testsuite">W3C MathML test suite</a> while 
@@ -79,6 +79,7 @@
 <p align="justify">
   The principal improvements in KOffice 1.6 over KOffice 1.5 are:
 </p>
+<b>NOTE: THIS SECTION IS NOT YET FINISHED</b><br />
     <strong>Kexi (Database application)</strong>:
     <ul type="disc">
       <li>
@@ -117,7 +118,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-      Krita is now able to open huge PNG files with a size of at least 30000 by 30000. Please note that this only works yet on 64bits architecture; on 32bits the maximum size of a file is smaller).
+      Krita is now able to open huge PNG files with a size of at least 30000 by 30000. 
         </div>
       </li>
       <li>
@@ -164,7 +165,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        OpenDocument and MathML are now native format. And OpenDocument is now the default file format
+        OpenDocument and MathML are now native format with OpenDocument as the default
         </div>
       </li>
       <li>
@@ -308,7 +309,6 @@
   <em>Trademarks Notices.</em>
 
   KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
-  Incorporated.
 
   Linux is a registered trademark of Linus Torvalds.
 
