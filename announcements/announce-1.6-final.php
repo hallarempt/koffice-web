@@ -44,8 +44,9 @@
 </p>
 <h3>Kexi Adds Many New Features</h3>
 <p align="justify">
-    Kexi, the desktop database application, is the other application in 
-    KOffice that is best of its kind.  It received over 270 improvements since 
+    Kexi, the desktop database application competing with MS Access,
+    is the other application in KOffice that already is best of its kind.
+    Kexi has received over 270 improvements since 
     version 1.0 (KOffice 1.5). With this release, Kexi gains such features as
     the ability to <a href="http://www.kdedevelopers.org/node/2163">handle images</a>, 
     <a href="http://www.kexi.pl/media/en/compact_db/">compact the database</a>, automatic datatype recognition
@@ -259,86 +260,8 @@
   problems with SRPMs, please contact the person listed in the applicable
   .spec file.
 </p>
-<h4>
-  Corporate KOffice Sponsors
-</h4>
-<p align="justify">
-  Besides the valuable and excellent efforts by the
-  <a href="http://www.koffice.org/people.php">KOffice developers</a>
-  themselves, significant support for KOffice development has been provided by
-  <a href="http://www.mandriva.com/">Mandriva</a> (which sponsors
-  KOffice developer Laurent Montel),
-  <a href="http://www.trolltech.com/">Trolltech</a> (which sponsors
-  KOffice developer David Faure),
-  <a href="http://www.thekompany.com/">theKompany.com</a> (which has
-  contributed Kivio and Kugar to KOffice),
-  <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
-  Datakonsult AB</a> (which has contributed KChart to KOffice),
-  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which 
-    employs Kexi developer Jaros&#322;aw Staniek and sponsored the
-    <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
-    project which enabled the porting of KOffice applications to MS Windows,
-  <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
-  In addition, <a href="http://www.kde.org/donations.html">individual
-  sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
-  provide significant support for KDE and KOffice. Thanks!
-</p>
-<h4>
-  About KOffice/KDE
-</h4>
-<p align="justify">
-  KOffice is part of the KDE Project.
-  KDE is an independent project of hundreds of developers, translators,
-  artists and professionals worldwide collaborating over the Internet
-  to create and freely distribute a sophisticated, customizable and stable
-  desktop and office environment employing a flexible, component-based,
-  network-transparent architecture and offering an outstanding development
-  platform.  KDE provides a stable, mature desktop, a full, component-based
-  office suite (<a href="http://www.koffice.org/">KOffice</a>), a large
-  set of networking and administration tools and utilities, and an
-  efficient, intuitive development environment featuring the excellent IDE
-  <a href="http://www.kdevelop.org/">KDevelop</a>.  KDE is working proof
-  that the Open Source "Bazaar-style" software development model can yield
-  first-rate technologies on par with and superior to even the most complex
-  commercial software.
-</p>
-<p align="justify">
-  Please visit the KDE family of web sites for the
-  <a href="http://www.kde.org/info/faq.php">KDE FAQ</a>,
-  <a href="http://www.kde.org/announcements/visualguide-3.5.php">screenshots</a>,
-  <a href="http://www.koffice.org/">KOffice information</a> and
-  <a href="http://developer.kde.org/documentation/">developer
-  information</a>.
-  Much more <a href="http://www.kde.org/whatiskde/">information</a>
-  about KDE is available from KDE's
-  <a href="http://www.kde.org/family/">family of web sites</a>.
-</p>
-<hr />
-<p align="justify">
-  <font size="2">
-  <em>Press Release</em>:  Written by <a href="mailto:cyb AT lepi DOT org">Cyrille Berger</a>.
-<!--  [Translated into _____________ by ______________ .] -->
-  </font>
-</p>
-<p align="justify">
-  <font size="2">
-  <em>Trademarks Notices.</em>
 
-  KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
-
-  Linux is a registered trademark of Linus Torvalds.
-
-  Trolltech and Qt are trademarks of Trolltech AS.
-
-  UNIX is a registered trademark of The Open Group.
-
-  All other trademarks and copyrights referred to in this announcement are
-  the property of their respective owners.
-  </font>
-</p>
-<hr />
-
-  <h2>What is KOffice</h2>
+<h2>About KOffice</h2>
   <p align="justify">
     KOffice is an integrated office suite, today mostly for KDE, which utilizes
     free and open standards for its document formats, component communication and
@@ -398,6 +321,57 @@
   <a href="http://download.kde.org/unstable/koffice-1.6/">http and ftp</a> mirrors.
 </p>
 <hr />
+
+<h3>
+  Corporate KOffice Sponsors
+</h3>
+<p align="justify">
+  Besides the valuable and excellent efforts by the
+  <a href="http://www.koffice.org/people.php">KOffice developers</a>
+  themselves, significant support for KOffice development has been provided by
+  <a href="http://www.mandriva.com/">Mandriva</a> (which sponsors
+  KOffice developer Laurent Montel),
+  <a href="http://www.trolltech.com/">Trolltech</a> (which sponsors
+  KOffice developer David Faure),
+  <a href="http://www.thekompany.com/">theKompany.com</a> (which has
+  contributed Kivio and Kugar to KOffice),
+  <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
+  Datakonsult AB</a> (which has contributed KChart to KOffice),
+  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which 
+    employs Kexi developer Jaros&#322;aw Staniek and sponsored the
+    <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
+    project which enabled the porting of KOffice applications to MS Windows,
+  <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
+  In addition, <a href="http://www.kde.org/donations.html">individual
+  sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
+  provide significant support for KDE and KOffice. Thanks!
+</p>
+
+<p align="justify">
+  <font size="2">
+  <em>Press Release</em>:  Written by Inge Wallin
+<!--  [Translated into _____________ by ______________ .] -->
+  </font>
+</p>
+<p align="justify">
+  <font size="2">
+  <em>Trademarks Notices.</em>
+
+  KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
+
+  Linux is a registered trademark of Linus Torvalds.
+
+  Trolltech and Qt are trademarks of Trolltech AS.
+
+  UNIX is a registered trademark of The Open Group.
+
+  All other trademarks and copyrights referred to in this announcement are
+  the property of their respective owners.
+  </font>
+</p>
+<hr />
+
+
 <h2>Press Contacts</h2>
 <table cellpadding="10"><tr valign="top">
 <td>
