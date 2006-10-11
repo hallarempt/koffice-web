@@ -1,4 +1,4 @@
-Rem<?php
+<?php
   $page_title="Krita FAQ";
   $site_root='../';
   include("koffice.inc");
