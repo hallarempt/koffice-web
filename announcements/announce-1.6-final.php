@@ -129,7 +129,12 @@
     <ul type="disc">
       <li>
         <div align="justify">
-      Krita is now able to open huge PNG files with a size of at least 30000 by 30000. 
+	Krita support layer mask
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        Krita includes a perspective framework, including perspective transformation, perspective grid and perspective clone
         </div>
       </li>
       <li>
@@ -232,8 +237,7 @@
   </li>
   <li>
     <div align="justify">
-    <a href="http:///">lcms</a> 1.13 or &gt;= 1.15 for handling color
-    spaces.  1.14 should not be used due to severe bugs.
+    <a href="http:///">lcms</a> 1.15 for handling color spaces.
     </div>
   </li>
 </ul>
