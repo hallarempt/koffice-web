@@ -45,9 +45,10 @@
 <h3>Kexi Adds Many New Features</h3>
 <p align="justify">
     Kexi, the desktop database application, is the other application in KOffice that
-    is best of its kind.  With this release, Kexi gains such features as the ability
-    to <a href="http://www.kdedevelopers.org/node/2163">handle images</a>, compact
-    the database and provide full scripting.  Other components have also been
+    is best of its kind.  With this release, Kexi gains such features as
+    the ability to <a href="http://www.kdedevelopers.org/node/2163">handle images</a>, 
+    compact the database, automatic datatype recognition
+    and Kross scripting tools.  Other parts have also been
     much developed with both new features and ease of use in mind.
 </p>
 
@@ -57,7 +58,7 @@
   as its default file format.  It also surpasses the equivalent component in
   OpenOffice.org when it scores ca 70% on the
       <a href="http://www.w3.org/Math/testsuite">W3C MathML test suite</a>, 
-  compared to 22% for OpenOffice.org formula.
+  compared to 22% for OpenOffice.org Formula.
   The KOffice team sees this as the first example where the
   work to provide a very well-structured code base of KOffice pays off to create
   a superior support for the existing standard.
@@ -66,7 +67,8 @@
 <h3>Scripting Support in KSpread, Krita and Kexi</h3>
 <p align="justify">
     KOffice 1.6 brings scripting to a new level with scripting implemented in KSpread, 
-    Krita and Kexi.  Scripting is provided through the cross-language bridge Kross,
+    Krita and Kexi.  Scripting is provided through the cross-language script
+    bridge Kross,
     which enables KOffice to be scripted in Python, Ruby with possible future
     extensions of Javascript and Java.  With this release, KOffice also introduces
     GUI-less scripting where e.g. spreadsheet documents can be automatically 
@@ -265,10 +267,11 @@
   contributed Kivio and Kugar to KOffice),
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
   Datakonsult AB</a> (which has contributed KChart to KOffice),
-  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which employs Kexi
+  <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which 
+    employs the Kexi
     developer Jaros&#322;aw Staniek and sponsored
     <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
-    project which enabled porting KOffice applications to MS Windows,
+    project which enabled the porting of KOffice applications to MS Windows,
   <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
   In addition, <a href="http://www.kde.org/donations.html">individual
   sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
