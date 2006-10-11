@@ -22,7 +22,7 @@
 
 <h2>Highlights</h2>
 <p align="justify">
-  The main energy of the KOffice developement team is currently focused
+  The main energy of the KOffice team is currently focused
   on the revolutionary 2.0 version that will be based on KDE 4 and Qt 4.
   The 1.6 release is intended mainly as a feature release for the two
   fastest developed components: Krita and Kexi.  However, other 
@@ -33,7 +33,7 @@
 <h3>Krita Steps Up Into the Realms of Professional Image Editing</h3>
 <p align="justify">
   With this release <a href="http://www.koffice.org/krita/">Krita</a> steps up and becomes usable for professional image editing.
-  Krita and its maintainer was the winner of the prize for "Best Application" in 
+  Krita and its maintainer won the prize for "Best Application" in 
   this years KDE conference in Dublin.  With features such as magnetic selection, 
   effect layers, color model independency, and full scriptability it has risen to
   become what is probably the best free image editing program today.
@@ -47,7 +47,8 @@
     Kexi, the desktop database application, is the other application in KOffice that
     is best of its kind.  With this release, Kexi gains such features as the ability
     to <a href="http://www.kdedevelopers.org/node/2163">handle images</a>, compact
-    the database and provide full scripting, 
+    the database and provide full scripting.  Other components have also been
+    much developed with both new features and ease of use in mind.
 </p>
 
 <h3>KFormula Goes to OpenDocument and MathML</h3>
@@ -55,8 +56,8 @@
   The formula editor of KOffice now supports OpenDocument and MathML and uses it
   as its default file format.  It also surpasses the equivalent component in
   OpenOffice.org when it scores ca 70% on the
-  <a href="http://www.w3.org/Math/testsuite">W3C MathML test suite</a> while 
-  OpenOffice.org formula only scores 22%.  
+      <a href="http://www.w3.org/Math/testsuite">W3C MathML test suite</a>, 
+  compared to 22% for OpenOffice.org formula.
   The KOffice team sees this as the first example where the
   work to provide a very well-structured code base of KOffice pays off to create
   a superior support for the existing standard.
@@ -217,6 +218,12 @@
     for reading help pages and other KOffice documentation,
     <a href="http://xmlsoft.org/">libxml2</a> &gt;= 2.4.9 and
     <a href="http://xmlsoft.org/XSLT/">libxslt</a> &gt;= 1.0.7.
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    for handling color spaces,
+    <a href="http:///">lcms</a>  &gt;= 
     </div>
   </li>
 </ul>
