@@ -143,7 +143,7 @@
       </li>
       <li>
         <div align="justify">
-        New support for layer masks and effect layers.
+        Added support for layer masks
         </div>
       </li>
       <li>
