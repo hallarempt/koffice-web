@@ -85,6 +85,15 @@
   The principal improvements in KOffice 1.6 over KOffice 1.5 are:
 </p>
 <b>NOTE: THIS SECTION IS NOT YET FINISHED</b><br />
+    <strong>KSpread</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+        Added scripting with Kross.
+        </div>
+      </li>
+    </ul>
+  <p />
     <strong>Kexi (Desktop Database application)</strong>:
     <ul type="disc">
       <li>
@@ -129,17 +138,30 @@
     <ul type="disc">
       <li>
         <div align="justify">
-	Krita support layer mask
-        </div>
-      </li>
-      <li>
-        <div align="justify">
         Krita includes a perspective framework, including perspective transformation, perspective grid and perspective clone
         </div>
       </li>
       <li>
         <div align="justify">
-        New filters has been added (random noise, random pick, lens correction, filters from krita-plugins...)
+        New support for layer masks and effect layers.
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        New filters has been added:
+        random noise, random pick, lens correction, filters from krita-plugins...
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        A new magnetic selection tool has been created.
+        </div>
+      </li>
+
+      <li>
+        <div align="justify">
+        Many new filters have been added: 
+        random noise, random pick, lens correction, filters from krita-plugins
         </div>
       </li>
       <li>
@@ -150,15 +172,6 @@
       <li>
         <div align="justify">
         New tool for drawing bezier curves has been added
-        </div>
-      </li>
-    </ul>
-  <p />
-    <strong>Kugar (Reporting tool)</strong>:
-    <ul type="disc">
-      <li>
-        <div align="justify">
-        Kugar's templates are now visible in the startup dialog.
         </div>
       </li>
     </ul>
@@ -196,9 +209,18 @@
       </li>
     </ul>
   <p />
+    <strong>Kugar (Reporting tool)</strong>:
+    <ul type="disc">
+      <li>
+        <div align="justify">
+        Kugar's templates are now visible in the startup dialog.
+        </div>
+      </li>
+    </ul>
+  <p />
 <p align="justify">
   A more complete
-  <a href="http://www.koffice.org/announcements/changelog-1.6-final.php">list
+  <a href="http://www.koffice.org/announcements/changelog-1.6.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
 </p>
 <a name="compiling"></a><h4>
@@ -237,7 +259,8 @@
   </li>
   <li>
     <div align="justify">
-    <a href="http:///">lcms</a> 1.15 for handling color spaces.
+    <a href="http:///">lcms</a> &gt;= 1.15 for handling color
+    spaces.  1.14 should not be used due to severe bugs.
     </div>
   </li>
 </ul>
