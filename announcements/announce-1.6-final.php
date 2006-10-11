@@ -225,15 +225,15 @@
   </li>
   <li>
     <div align="justify">
-    for reading help pages and other KOffice documentation,
     <a href="http://xmlsoft.org/">libxml2</a> &gt;= 2.4.9 and
     <a href="http://xmlsoft.org/XSLT/">libxslt</a> &gt;= 1.0.7.
+    for reading help pages and other KOffice documentation,
     </div>
   </li>
   <li>
     <div align="justify">
-    for handling color spaces,
-    <a href="http:///">lcms</a>  &gt;= 
+    <a href="http:///">lcms</a> 1.13 or &gt;= 1.15 for handling color
+    spaces.  1.14 should not be used due to severe bugs.
     </div>
   </li>
 </ul>
