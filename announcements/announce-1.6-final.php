@@ -44,10 +44,11 @@
 </p>
 <h3>Kexi Adds Many New Features</h3>
 <p align="justify">
-    Kexi, the desktop database application, is the other application in KOffice that
-    is best of its kind.  With this release, Kexi gains such features as
+    Kexi, the desktop database application, is the other application in 
+    KOffice that is best of its kind.  It received over 270 improvements since 
+    version 1.0 (KOffice 1.5). With this release, Kexi gains such features as
     the ability to <a href="http://www.kdedevelopers.org/node/2163">handle images</a>, 
-    compact the database, automatic datatype recognition
+    <a href="http://www.kexi.pl/media/en/compact_db/">compact the database</a>, automatic datatype recognition
     and Kross scripting tools.  Other parts have also been
     much developed with both new features and ease of use in mind.
 </p>
@@ -66,9 +67,9 @@
 
 <h3>Scripting Support in KSpread, Krita and Kexi</h3>
 <p align="justify">
-    KOffice 1.6 brings scripting to a new level with scripting implemented in KSpread, 
-    Krita and Kexi.  Scripting is provided through the cross-language script
-    bridge Kross,
+    KOffice 1.6 brings scripting to a new level with scripting implemented in 
+    KSpread, Krita and Kexi.  Scripting is provided through the cross-language
+    script bridge Kross,
     which enables KOffice to be scripted in Python, Ruby with possible future
     extensions of Javascript and Java.  With this release, KOffice also introduces
     GUI-less scripting where e.g. spreadsheet documents can be automatically 
@@ -83,31 +84,37 @@
   The principal improvements in KOffice 1.6 over KOffice 1.5 are:
 </p>
 <b>NOTE: THIS SECTION IS NOT YET FINISHED</b><br />
-    <strong>Kexi (Database application)</strong>:
+    <strong>Kexi (Desktop Database application)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
-        Further enhancements in the database connectivity library.
+        Further enhancements and optimizations in the database connectivity library.
         </div>
       </li>
       <li>
         <div align="justify">
-        Further improvements in Table Designer (schema altering without removing table contents, "Image" data type)
-        </div>
-      </li>
-      <li>
-        <div align="justify">
-        Data aware combo boxes (drop down lists)
+      Further improvements in Table Designer: "Image" data type,
+      undo and redo commands,
+      support for default values,
+      and tooltips.
         </div>
       </li>
       <!-- li>
         <div align="justify">
-        Further improvements in Query Designer
+        Data aware combo boxes (drop down lists)
         </div>
       </li -->
       <li>
         <div align="justify">
-        Data-aware &quot;Image Box&quot; widget in Forms and Table View
+       Improvements in Query Designer: 
+       defining sort order for column in both visual and SQL view
+        </div>
+      </li>
+      <li>
+        <div align="justify">
+        Data-aware &quot;Image Box&quot; widget in Forms and Table View,
+        major improvements in the Auto Field form widget
+         </div>
         </div>
       </li>
       <!-- li>
@@ -117,7 +124,7 @@
       </li>
     </ul>
   <p />
-    <strong>Krita (Pixel based graphics editor)</strong>:
+    <strong>Krita (Pixel based image editor)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
@@ -154,7 +161,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        Added PERT calculation for estimated value based on optimistic, expected and pessimistic value.
+        Added PERT calculation for estimated value based on optimistic, expected and pessimistic value
         </div>
       </li>
       <li>
@@ -268,8 +275,7 @@
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
   Datakonsult AB</a> (which has contributed KChart to KOffice),
   <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which 
-    employs the Kexi
-    developer Jaros&#322;aw Staniek and sponsored
+    employs Kexi developer Jaros&#322;aw Staniek and sponsored the
     <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
     project which enabled the porting of KOffice applications to MS Windows,
   <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
