@@ -70,7 +70,7 @@
 <p align="justify">
     KOffice 1.6 brings scripting to a new level with scripting implemented in 
     KSpread, Krita and Kexi.  Scripting is provided through the cross-language
-    script bridge Kross,
+    script bridge <a href="http://dot.kde.org/1152490640/">Kross</a>,
     which enables KOffice to be scripted in Python, Ruby with possible future
     extensions of Javascript and Java.  With this release, KOffice also introduces
     GUI-less scripting where e.g. spreadsheet documents can be automatically 
