@@ -58,7 +58,7 @@
 <p align="justify">
   The formula editor of KOffice now supports OpenDocument and MathML and uses it
   as its default file format.  It also surpasses the equivalent component in
-  OpenOffice.org when it scores ca 70% on the
+  OpenOffice.org scoring 70% on the
       <a href="http://www.w3.org/Math/testsuite">W3C MathML test suite</a>, 
   compared to 22% for OpenOffice.org Formula.
   The KOffice team sees this as the first example where the
@@ -222,70 +222,6 @@
   A more complete
   <a href="http://www.koffice.org/announcements/changelog-1.6.php">list
   of changes</a> is available at the KOffice <a href="http://www.koffice.org/">web site</a>.
-</p>
-<a name="compiling"></a><h4>
-  Compiling KOffice 1.6
-</h4>
-<p align="justify">
-  <a name="source_code-library_requirements"></a><strong>Library
-  Requirements</strong>:
-  KOffice 1.6 requires the following libraries:
-</p>
-<ul>
-  <li>
-    <div align="justify">
-    kdelibs 3.3, 3.4 or 3.5, which can be downloaded following the
-    <a href="http://www.kde.org/info/3.5.php">instructions</a>
-    at the KDE website (for more information on these kdelibs releases, please
-    see the <a href="http://www.kde.org/announcements/announce-3.5.php">KDE
-    3.5 press release</a>);
-    </div>
-  </li>
-  <li>
-    <div align="justify">
-    Qt-3.3, which is available in source code from Trolltech as
-    <a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.0.tar.gz">qt-x11-free-3.3.0.tar.gz</a>
-    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.5.tar.gz">qt-x11-free-3.3.5.tar.gz</a>
-    is recommended);
-    and
-    </div>
-  </li>
-  <li>
-    <div align="justify">
-    <a href="http://xmlsoft.org/">libxml2</a> &gt;= 2.4.9 and
-    <a href="http://xmlsoft.org/XSLT/">libxslt</a> &gt;= 1.0.7.
-    for reading help pages and other KOffice documentation,
-    </div>
-  </li>
-  <li>
-    <div align="justify">
-    <a href="http:///">lcms</a> &gt;= 1.15 for handling color
-    spaces.  1.14 should not be used due to severe bugs.
-    </div>
-  </li>
-</ul>
-<p align="justify">
-  <strong>Compiler Requirements</strong>:
-  Please note that KOffice 1.6 will not
-  compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
-  such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
-</p>
-<p align="justify">
-  <a name="source_code"></a><strong>Source Code</strong>:
-  The complete source code for KOffice 1.6 is available for free download
-  via one of the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.6/">http</a>
-  or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
-  <!--Additionally, source rpms are available for the following distributions:-->
-</p>
-<!-- INCLUDE PHP FILE HERE -->
-<p align="justify">
-  <strong>Further Information</strong>:
-  For further instructions on compiling and installing KOffice, please consult
-  the KOffice <a href="http://www.koffice.org/download/source.php">installation
-  instructions</a>.  For
-  problems with SRPMs, please contact the person listed in the applicable
-  .spec file.
 </p>
 
 <h2>About KOffice</h2>
