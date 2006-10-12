@@ -84,7 +84,6 @@
 <p align="justify">
   The principal improvements in KOffice 1.6 over KOffice 1.5 are:
 </p>
-<b>NOTE: THIS SECTION IS NOT YET FINISHED</b><br />
     <strong>KSpread</strong>:
     <ul type="disc">
       <li>
