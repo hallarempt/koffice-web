@@ -14,7 +14,7 @@
     <table border="0">
       <tr>
         <td>
-          <a href="announce-1.6-de.php"><img src="flag_german.png"></img></a>
+          <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
         </td>
       </tr>
       <tr>
