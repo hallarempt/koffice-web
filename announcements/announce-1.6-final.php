@@ -7,7 +7,7 @@
 
 <p align="justify">
   DATELINE October 16, 2006<br />
-  EMBARGO - DO NOT RELEASE
+  EMBARGO - DO NOT RELEASE OR PUBLISH
 </p>
 <h2>
   KDE Ships New Release of Free Integrated Office Suite
@@ -129,8 +129,8 @@
       <!-- li>
         <div align="justify">
         Support for macros
-        </div -->
-      </li>
+        </div>
+      </li-->
     </ul>
   <p />
     <strong>Krita (Pixel based image editor)</strong>:
@@ -150,7 +150,7 @@
         A new magnetic selection tool has been created.
         </div>
       </li>
-
+	
       <li>
         <div align="justify">
         Many new filters have been added: 
