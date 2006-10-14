@@ -12,13 +12,13 @@
 <h2>
   KDE Ships New Release of Free Integrated Office Suite
 </h2>
-<p align="justify">
-  <p align="justify">October 16, 2006 (The INTERNET).
+<p align="justify">October 16, 2006 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> version 1.6, the 
   <a href="http://developer.kde.org/development-versions/koffice-1.6-release-plan.html">long awaited</a>
-  version with major improvements in a number of areas.</p>
+  version with major improvements in a number of areas.
+</p>
 
 <h2>Highlights</h2>
 <p align="justify">
@@ -123,7 +123,6 @@
         <div align="justify">
         Data-aware &quot;Image Box&quot; widget in Forms and Table View,
         major improvements in the Auto Field form widget
-         </div>
         </div>
       </li>
       <!-- li>
