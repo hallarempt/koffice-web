@@ -11,7 +11,18 @@
 </p>
 <p align="justify">
     Also available in:
-<a href="announce-1.6-de">German</a>
+    <table border="0">
+      <tr>
+        <td>
+          <a href="announce-1.6-de.php"><img src="flag_german.png"></img></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="announce-1.6-de.php">German</a>
+        </td>
+      </tr>
+    </table>
 </p>
 <h2>
   KDE Ships New Release of Free Integrated Office Suite
