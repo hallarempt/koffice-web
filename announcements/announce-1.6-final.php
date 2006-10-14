@@ -147,12 +147,6 @@
       </li>
       <li>
         <div align="justify">
-        New filters has been added:
-        random noise, random pick, lens correction, filters from krita-plugins...
-        </div>
-      </li>
-      <li>
-        <div align="justify">
         A new magnetic selection tool has been created.
         </div>
       </li>
