@@ -20,7 +20,7 @@
           <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
         </td>
       </tr>
-      <tr>p
+      <tr>
         <td>
           <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6">Catalan</a>
         </td>
