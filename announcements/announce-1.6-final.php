@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.6 Announcement';
+  $page_title ='KOffice 1.6 Release Announcement';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -8,6 +8,10 @@
 <p align="justify">
   DATELINE October 16, 2006<br />
   EMBARGO - DO NOT RELEASE OR PUBLISH
+</p>
+<p align="justify">
+    Also available in:
+<a href="announce-1.6-de">German</a>
 </p>
 <h2>
   KDE Ships New Release of Free Integrated Office Suite
