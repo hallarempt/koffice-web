@@ -14,10 +14,16 @@
     <table border="0">
       <tr>
         <td>
+          <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6"><img src="flag_spain_catalunya.png"></img></a>
+        </td>
+        <td>
           <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
         </td>
       </tr>
-      <tr>
+      <tr>p
+        <td>
+          <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6">Catalan</a>
+        </td>
         <td>
           <a href="announce-1.6-de.php">German</a>
         </td>
