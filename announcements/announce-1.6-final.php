@@ -108,11 +108,6 @@
       and tooltips.
         </div>
       </li>
-      <!-- li>
-        <div align="justify">
-        Data aware combo boxes (drop down lists)
-        </div>
-      </li -->
       <li>
         <div align="justify">
        Improvements in Query Designer: 
@@ -125,11 +120,11 @@
         major improvements in the Auto Field form widget
         </div>
       </li>
-      <!-- li>
+      <li>
         <div align="justify">
         Support for macros
         </div>
-      </li-->
+      </li>
     </ul>
   <p />
     <strong>Krita (Pixel based image editor)</strong>:
