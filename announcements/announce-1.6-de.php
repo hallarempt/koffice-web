@@ -17,31 +17,31 @@
   Das KDE Projekt veröffentlicht neue Version des freien, integrierten Pakets von Büroanwendungen
 </h2>
 <p align="justify">
-  <p align="justify">Das Internet, 16. Oktober 2006
+  <p align="justify">Das Internet, 16. Oktober 2006.
   Das <a href="http://www.kde.org/">KDE Projekt</a> gab heute die sofortige Verfügbarkeit von <a href="http://www.koffice.org/">KOffice</a> Version 1.6, der <a href="http://developer.kde.org/development-versions/koffice-1.6-release-plan.html">lange erwarteten</a> Version mit zahlreichen und grundlegenden Neuerungen, bekannt.</p>
 
 <h2>Bemerkenswerte Neuerungen und Änderungen</h2>
 <p align="justify">
-  Ein Großteil der Anstrengungen des KOffice-Entwicklerteams konzentriert sich derzeit auf die zukünftige Version 2.0 welche auf KDE 4 und Qt 4 basieren wird. Diese Version bringt hauptsächlich Änderungen und Neuerungen bei den sich am schnellsten entwickelnden Komponenten - Krita und Kexi - mit sich. Natürlich werden aber auch die anderen Komponenten des Programmpakets weiterentwickelt, in einigen Fällen mit erstaunlichen Ergebnissen. Nachfolgend finden sich die Höhepunkte dieser Version:
+  Ein Großteil der Anstrengungen des KOffice-Entwicklerteams konzentriert sich derzeit auf die zukünftige Version 2.0, welche auf KDE 4 und Qt 4 basieren wird. Diese Version bringt hauptsächlich Änderungen und Neuerungen bei den sich am schnellsten entwickelnden Komponenten - Krita und Kexi - mit sich. Natürlich werden aber auch die anderen Komponenten des Programmpakets weiterentwickelt, in einigen Fällen mit erstaunlichen Ergebnissen. Nachfolgend finden sich die Höhepunkte dieser Version:
 </p>
 
 <h3>Krita wird für Bildbearbeitung auf professioneller Ebene benutzbar</h3>
 <p align="justify">
-  Mit dieser Version wird <a href="http://www.koffice.org/krita/">Krita</a> für Bildbearbeitung auf professioneller Ebene benutzbar. Das Programm und dessen Entwicklerteam gewannen den "Preis für das beste Programm" auf der diesjährigen KDE-Konferenz in Dublin. Mit Funktionen wie "magnetischer Auswahl", "Effekt-Ebenen", "unabhängigen Farbmodell" und vollständiger Steuerbarkeit durch Skripte hat sich Krita zu einem der Besten, freien Bildbearbeitungsprogramme, die derzeit erhältich sind, entwickelt. Für nähere Informationen werfen Sie bitte einen Blick auf die Liste der nennenswerten Neuerungen unten, oder die vollständige <a href="http://www.koffice.org/announcements/changelog-1.6-final.php">Liste der Änderungen</a>
+  Mit dieser Version wird <a href="http://www.koffice.org/krita/">Krita</a> für Bildbearbeitung auf professioneller Ebene benutzbar. Das Programm und dessen Entwicklerteam gewannen den "Preis für das beste Programm" auf der diesjährigen KDE-Konferenz in Dublin. Mit Funktionen wie magnetischer Auswahl, Effekt-Ebenen, Unabhängigkeit von Farbmodellen und vollständiger Steuerbarkeit durch Skripte hat sich Krita zu einem der besten freien Bildbearbeitungsprogramme, die derzeit erhältlich sind, entwickelt. Für nähere Informationen werfen Sie bitte einen Blick auf die Liste der nennenswerten Neuerungen unten, oder die vollständige <a href="http://www.koffice.org/announcements/changelog-1.6-final.php">Liste der Änderungen</a>.
 </p>
 <h3>Kexi mit zahlreichen, neuen Funktionen</h3>
 <p align="justify">
-    Kexi, die "Datenbankanwendung für Jedermann", direkter Kontrahent von MS Access ist das zweite Programm aus dem KOffice-Paket von dem gesagt wird es sei das Beste seiner Art. Seit Version 1.0 (KOffice 1.5) hat Kexi über 270 Neuerungen erfahren. Mit dieser Version bekommt Kexi Funktionen wie die Fähigkeit <a href="http://www.kdedevelopers.org/node/2163">Bilder zu verarbeiten</a>, <a href="http://www.kexi.pl/media/en/compact_db/">"kompakte Datenbanken"</a> zu erstellen, automatische Dateityp-Erkennung und vollständige Steuerbarkeit durch Skripte, mittels Kross. Innerhalb des Programms finden sich noch zahlreiche, weitere Änderungen und Neuerungen, die einerseits neue Funktionen bieten, andererseits das Programm benutzerfreundlicher machen.
+    Kexi, die "Datenbankanwendung für Jedermann", direkter Kontrahent von MS Access, ist das zweite Programm aus dem KOffice-Paket, von dem gesagt wird, es sei das Beste seiner Art. Seit Version 1.0 (KOffice 1.5) hat Kexi über 270 Neuerungen erfahren. Mit dieser Version bekommt Kexi Funktionen wie die Fähigkeit <a href="http://www.kdedevelopers.org/node/2163">Bilder zu verarbeiten</a>, <a href="http://www.kexi.pl/media/en/compact_db/">Datenbanken zu komprimieren</a>, automatische Dateityp-Erkennung und vollständige Steuerbarkeit durch Skripte mittels Kross. Innerhalb des Programms finden sich noch zahlreiche weitere Änderungen und Neuerungen, die einerseits neue Funktionen bieten, andererseits das Programm benutzerfreundlicher machen.
 </p>
 
 <h3>KFormula unterstützt OpenDocument und MathML</h3>
 <p align="justify">
-  Der Formeleditor von KOffice unterstützt jetzt OpenDocument und MathML und verwendet diese als Standard-Dateiformat. Mit einer Punktzahl von 70 % im <a href="http://www.w3.org/Math/testsuite">W3C MathML Test</a> überholt KFormula damit OpenOffice.org Formula (das entsprechende Programm des OpenOffice.org-Büropakets), welches nur 22 % erreichte. Das KOffice-Team sieht in dieser Tatsache ein gutes Beispiel dafür, wie sich die gut strukturierte Code-Basis von Koffice bezahlt macht um Unterstützung für existierende Standards bieten zu können.
+  Der Formeleditor von KOffice unterstützt jetzt OpenDocument und MathML und verwendet diese als Standard-Dateiformat. Mit einer Punktzahl von 70 % im <a href="http://www.w3.org/Math/testsuite">W3C MathML Test</a> überholt KFormula damit OpenOffice.org Formula (das entsprechende Programm des OpenOffice.org-Büropakets), welches nur 22 % erreichte. Das KOffice-Team sieht in dieser Tatsache ein gutes Beispiel dafür, wie sich die gut strukturierte Code-Basis von Koffice bezahlt macht, um Unterstützung für existierende Standards bieten zu können.
 </p>
 
 <h3>Steuerbarkeit durch Skripte für KSpread, Krita and Kexi</h3>
 <p align="justify">
-    KOffice 1.6 hebt die Steuerbarkeit von Programmen durch Skripte auf eine neue Ebene. Die Steuerbarkeit der Programme durch Skripte wird durch die sogenannte "Skript-Brücke" <a href="http://dot.kde.org/1152490640/">Kross</a> implementiert, welche es möglich macht Skripte für KOffice in Python und Ruby zu schreiben. Unterstützung für Skripte in Javascript und Java ist geplant. Mit dieser Version macht KOffice es möglich Skripte unabhängig von der Benutzeroberfläche zu machen, um zum Beispiel Datenblätter in einer Tabellenkalkulation automatisch zu verändern, was eine Vielzahl von <a href="http://www.robweir.com/blog/2006/09/odf-twenty-patterns-of-use.html">neuen Anwendungsmöglichkeiten</a> eröffnet.
+    KOffice 1.6 hebt die Steuerbarkeit von Programmen durch Skripte auf eine neue Ebene. Die Steuerbarkeit der Programme durch Skripte wird durch die sogenannte "Skript-Brücke" <a href="http://dot.kde.org/1152490640/">Kross</a> implementiert, welche es möglich macht, Skripte für KOffice in Python und Ruby zu schreiben. Unterstützung für Skripte in Javascript und Java ist geplant. Mit dieser Version macht KOffice es möglich, Skripte unabhängig von der Benutzeroberfläche zu machen, um zum Beispiel Datenblätter in einer Tabellenkalkulation automatisch zu verändern, was eine Vielzahl von <a href="http://www.robweir.com/blog/2006/09/odf-twenty-patterns-of-use.html">neuen Anwendungsmöglichkeiten</a> eröffnet.
 </p>
 
 <h2>
