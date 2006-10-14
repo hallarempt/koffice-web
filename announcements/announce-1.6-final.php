@@ -131,7 +131,7 @@
     <ul type="disc">
       <li>
         <div align="justify">
-        Krita includes a perspective framework, including perspective transformation, perspective grid and perspective clone
+        Support for handling perspective in drawings, including perspective transformation, perspective grid and perspective clone
         </div>
       </li>
       <li>
