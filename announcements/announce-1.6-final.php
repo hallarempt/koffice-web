@@ -19,6 +19,9 @@
         <td>
           <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
         </td>
+        <td>
+          <a href="announce-1.6-pt.php"><img src="flag_portugal.png"></img></a>
+        </td>
       </tr>
       <tr>
         <td>
@@ -26,6 +29,9 @@
         </td>
         <td>
           <a href="announce-1.6-de.php">German</a>
+        </td>
+        <td>
+          <a href="announce-1.6-pt.php">Portuguese</a>
         </td>
       </tr>
     </table>
