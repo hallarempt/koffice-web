@@ -1,5 +1,5 @@
 <?php
-  $page_title='KOffice 1.6 RC1 Release Notes';
+  $page_title='KOffice 1.6 Release Notes';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -39,7 +39,10 @@
 	</table>
       </li>
       <li>
-	<a href="http://download.kde.org/stable/koffice-1.6/">Binary packages</a></li>
+	<a href="http://download.kde.org/stable/koffice-1.6/">Binary packages</a>
+      </li>
+      <li>
+        <a href="http://www.koffice.org/download/kofficelivecd.php">Live CD</a>
       </li>
       </ul>
 
