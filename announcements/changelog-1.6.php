@@ -66,7 +66,7 @@
 <em>Features</em>
 <ul>
   <li> KSpread supports scripting with python and ruby now.
-  <li> Make the default column width and row height configurable via Style Manager -> "Default" -> Position. (WISH 125749)
+  <li> Make the default column width and row height configurable via Style Manager -> "Default" -> Position. (<a href="http://bugs.kde.org/125749">wish #125749</a>)
   <li> Allow whitespaces in named areas.
   <li> KSpread can import databases created in Kexi 
   <li> Speed improvement in loading and saving files
@@ -97,8 +97,8 @@
       <li> Fix loading of column and row formats.
       <li> Saving speedup
       <li> Fix the loading after first save of text properties (bold, ...)
-      <li> Fix "Zeros all over after opening an OpenDocument file" (BUG 131508)
-      <li> Fix loading of system date formatting. (BUG 118331)
+      <li> Fix "Zeros all over after opening an OpenDocument file" (<a href="http://bugs.kde.org/131508">bug #131508</a>)
+      <li> Fix loading of system date formatting. (<a href="http://bugs.kde.org/118331">bug #118331</a>)
       <li> Fix saving of prefix/suffix (not for dates, times and strings). (<a href="http://bugs.kde.org/131052">bug #131052</a>)
       <li> Removed invalid attributes/elements to produce fully valid documents.
       <li> Fix loading of named ranges.
@@ -310,7 +310,7 @@
   <li>Custom widget factories can be now loaded properly</li>
   <li>Yes/No field default value does not work properly
   (for required field: if you add a checkbox that points to a Yes/No 
-  field that has a default value the default value is not accepted) (Bug:134976 )
+  field that has a default value the default value is not accepted) (<a href="http://bugs.kde.org/134976">bug #134976</a> )
   <li>fixed updating property values of enum type
   <li>hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)
   <li>The first widget of a given kind should be named "widget" by default, the second - "widget2" and so on.</li>
@@ -402,11 +402,11 @@
     <li> Fix changing the adjustment of brightness-contrast adjustment layers
     <li> Fix resizing images
     <li> Fix undo of rotate 180 (<a href="http://bugs.kde.org/135165">bug #135165</a>)
-    <li> autoclose/add the screenshot after taking it, remove the print and save buttons (BUG:134527)
+    <li> autoclose/add the screenshot after taking it, remove the print and save buttons (<a href="http://bugs.kde.org/134527">bug #134527</a>)
     <li>UI:
     <ul>
-        <li>Simplify acquiring screen shots (Bug:134527)
-        <li>Remember opacity setting in Drop Shadow (Bug:134563)
+        <li>Simplify acquiring screen shots (<a href="http://bugs.kde.org/134527">bug #134527</a>)
+        <li>Remember opacity setting in Drop Shadow (<a href="http://bugs.kde.org/134563">bug #134563</a>)
         <li>Fix so that the rightly marked filters got displayed in the filters gallery dialog
         <li>New icons set for the too
         <li>Fix display of masks (<a href="http://bugs.kde.org/134770">bug #134770</a>)
@@ -416,7 +416,7 @@
     <li>Selections:
     <ul>
         <li> Fix problems with selection extent with some selection tools
-        <li> Krita crashes in select contiguous area (Bug:134497)
+        <li> Krita crashes in select contiguous area (<a href="http://bugs.kde.org/134497">bug #134497</a>)
         <li> Remove the configwidget for selection brush and selection eraser tools
         <li> Display the mask layer's selection when the mask has one
     </ul>
@@ -439,7 +439,7 @@
     <li>Tools:
     <ul>
         <li>Better interraction with the perspective transform tool
-        <li>Bezier tools don't work in openGL mode (Bug: 134477)
+        <li>Bezier tools don't work in openGL mode (<a href="http://bugs.kde.org/134477">bug #134477</a>)
         <li>Optimization of the duplicate tool, and fix healing and perspective
         <li>Fix the tool crop behaviour
         <li>fix perspective transformation and non square selection
@@ -452,7 +452,7 @@
     <li>Added PERT calculation for estimated value based on optimistic, expected and pessimistic value.</li>
     <li>The distribution used is dependent on the setting of Risk.</li>
     <li>List overbooked resources in the task tooltip.</li>
-    <li>Fix the calendar table dialog when the first day of the week is not Monday. (BUG:129889)</li>
+    <li>Fix the calendar table dialog when the first day of the week is not Monday. (<a href="http://bugs.kde.org/129889">bug #129889</a>)</li>
 </ul>
 
 <h3 id="kchart">KChart</h3>
@@ -550,7 +550,7 @@
         </ul>
     <li>MathML / OpenDocument:
         <ul>
-            <li>Insert &lt;mrow&gt; element after &lt;semantics&gt; element, since it does not infer mrows. Fixes bug 134044</li>
+            <li>Insert &lt;mrow&gt; element after &lt;semantics&gt; element, since it does not infer mrows. Fixes <a href="http://bugs.kde.org/134044">bug #134044</a></li>
             <li>Fix loading, messed up mn and mtext elements</li>
             <li>Fix saving of upper index that caused invalid output</li>
             <li>Support for token splitting added to identifier, operator and insertion elements</li>
