@@ -39,7 +39,7 @@
 	</table>
       </li>
       <li>
-	<a href="http://download.kde.org/stable/koffice-1.6/">Binary packages</a>
+	<a href="http://download.kde.org/stable/koffice-1.6.0/">Binary packages</a>
       </li>
       <li>
         <a href="http://www.koffice.org/download/kofficelivecd.php">Live CD</a>
@@ -108,7 +108,7 @@ include "md5-koffice-1.6.inc"
   <a name="source_code"></a><strong>Source Code</strong>:
   The complete source code for KOffice 1.6 is available for free download
   via one of the KDE
-  <a href="http://download.kde.org/stable/koffice-1.6/">http</a>
+  <a href="http://download.kde.org/stable/koffice-1.6.0/">http</a>
   or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
   <!--Additionally, source rpms are available for the following distributions:-->
 </p>
