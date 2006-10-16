@@ -10,6 +10,27 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 1.6.0 Released</title>
+<date>Oct 16, 2006</date>
+<fullstory>
+The KOffice team is proud to announce the 1.6.0 release of its office
+suite.  This release is mostly a feature release of Krita and Kexi,
+but does also contain major enhancements to the OpenDocument and
+MathML support of KFormula and new scripting functionality.  This
+version also contains a much better version of KPlato, the K Planning
+Tool, our project planning appliction.
+<p>
+For more information, see the <a
+href="http://www.koffice.org/announcements/announce-1.6.php">announcement
+</a>, the <a
+href="http://www.koffice.org/releases/1.6-release.php">technical
+release notes</a>,  and the complete <a
+href="http://www.koffice.org/announcements/changelog-1.6.php">list
+of changes</a>.  
+</fullstory>
+</item>
+
+<item>
 <title>Release Candidate of KOffice 1.6</title>
 <date>Sept 27, 2006</date>
 <fullstory>
