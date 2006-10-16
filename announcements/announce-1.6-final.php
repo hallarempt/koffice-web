@@ -20,6 +20,9 @@
           <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
         </td>
         <td>
+          <a href="http://www.kde-it.org/index.php?option=com_content&task=view&id=51&Itemid=5"><img src="flag_italy.png"></img></a>
+        </td>
+        <td>
           <a href="announce-1.6-pt.php"><img src="flag_portugal.png"></img></a>
         </td>
       </tr>
@@ -29,6 +32,9 @@
         </td>
         <td>
           <a href="announce-1.6-de.php">German</a>
+        </td>
+        <td>
+          <a href="http://www.kde-it.org/index.php?option=com_content&task=view&id=51&Itemid=5">Italian</a>
         </td>
         <td>
           <a href="announce-1.6-pt.php">Portuguese</a>
