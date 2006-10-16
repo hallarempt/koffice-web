@@ -49,17 +49,17 @@
 
 <h3 id="kword">KWord</h3>
 <ul>
-    <li>crash in style manager (bug:127555)
-    <li>KWord can still crash on loading MS Word documents (bug:67216)
-    <li>MS Word document crashs kword (bug:84547)
-    <li>kword crashes while updating th e table of contents (bug:131122)
-    <li>merging 2 cells already merged with others 2 cells already merged crashes kword (bug:132642)
-    <li>Kword crashes when I use "save as open office document" or "select all" and "copy" (bug:126007)
-    <li>crash deleting second empty page (bug:125998)
-    <li>crash after editing/selecting table rows (bug:129315)
-    <li>deleting page from rmb menu deletes wrong page (parts of bug:132338)
-    <li>Lookup function only returns last value (parts of bug:127411)
-    <li>Update zoom when doc struct size changes and fit width is used (bug:134311)
+    <li>crash in style manager (<a href="http://bugs.kde.org/127555">bug #127555</a>)
+    <li>KWord can still crash on loading MS Word documents (<a href="http://bugs.kde.org/67216">bug #67216</a>)
+    <li>MS Word document crashs kword (<a href="http://bugs.kde.org/84547">bug #84547</a>)
+    <li>kword crashes while updating th e table of contents (<a href="http://bugs.kde.org/131122">bug #131122</a>)
+    <li>merging 2 cells already merged with others 2 cells already merged crashes kword (<a href="http://bugs.kde.org/132642">bug #132642</a>)
+    <li>Kword crashes when I use "save as open office document" or "select all" and "copy" (<a href="http://bugs.kde.org/126007">bug #126007</a>)
+    <li>crash deleting second empty page (<a href="http://bugs.kde.org/125998">bug #125998</a>)
+    <li>crash after editing/selecting table rows (<a href="http://bugs.kde.org/129315">bug #129315</a>)
+    <li>deleting page from rmb menu deletes wrong page (parts of <a href="http://bugs.kde.org/132338">bug #132338</a>)
+    <li>Lookup function only returns last value (parts of <a href="http://bugs.kde.org/127411">bug #127411</a>)
+    <li>Update zoom when doc struct size changes and fit width is used (<a href="http://bugs.kde.org/134311">bug #134311</a>)
 </ul>
 
 <h3 id="kspread">KSpread</h3>
@@ -77,19 +77,19 @@
 <ul>
   <li> Formula engine / functions:
     <ul>
-      <li> Two-array functions now correctly use both arrays, instead of only one.  (bug:130681)
+      <li> Two-array functions now correctly use both arrays, instead of only one.  (<a href="http://bugs.kde.org/130681">bug #130681</a>)
       <li> Function EVEN rounds up to the next nearest even integer.
       <li> Funciton ODD rounds up to the next nearest odd integer.
       <li> Fix the formula tokenizer. LOG2 and LOG10 are cell references and  function identifiers. We have to interpret it depending on the context.
-      <li> Fix references to sheets with names beginning with a number (bug:124549)
+      <li> Fix references to sheets with names beginning with a number (<a href="http://bugs.kde.org/124549">bug #124549</a>)
       <li> Fixes for various database functions
-      <li>Fix "LOOKUP function only returns last value". (bug: 127411)
+      <li>Fix "LOOKUP function only returns last value". (<a href="http://bugs.kde.org/127411">bug #127411</a>)
 
     </ul>
 
   <li> OpenDocument
     <ul>
-      <li> Fix "Table borders are gone after saving a document as ods file" (bug:128123)
+      <li> Fix "Table borders are gone after saving a document as ods file" (<a href="http://bugs.kde.org/128123">bug #128123</a>)
       <li> Fix error in saving of custom cell styles.
       <li> Fix loading of column width.
       <li> Load/save the default column/row style.
@@ -99,7 +99,7 @@
       <li> Fix the loading after first save of text properties (bold, ...)
       <li> Fix "Zeros all over after opening an OpenDocument file" (BUG 131508)
       <li> Fix loading of system date formatting. (BUG 118331)
-      <li> Fix saving of prefix/suffix (not for dates, times and strings). (bug:131052)
+      <li> Fix saving of prefix/suffix (not for dates, times and strings). (<a href="http://bugs.kde.org/131052">bug #131052</a>)
       <li> Removed invalid attributes/elements to produce fully valid documents.
       <li> Fix loading of named ranges.
       <li> Fix loading of cell values. Don't overwrite loaded formulas!
@@ -107,16 +107,16 @@
     </ul>
 <li> UI:
     <ul>
-        <li> Don't jump to chosen cell (range) on entering the formula (bug:134276)
+        <li> Don't jump to chosen cell (range) on entering the formula (<a href="http://bugs.kde.org/134276">bug #134276</a>)
     </ul>
 </ul>
 
   <li>Other
     <ul>
-      <li> Fix "Border is not drawn properly" (bug:128477)
+      <li> Fix "Border is not drawn properly" (<a href="http://bugs.kde.org/128477">bug #128477</a>)
       <li> Fix crash in the series operation.
-      <li> Fix "some operations ignore arbitrary cells of a selection" (bug:130559)
-      <li> Fix crash on copying embedded documents. (bug:120395)
+      <li> Fix "some operations ignore arbitrary cells of a selection" (<a href="http://bugs.kde.org/130559">bug #130559</a>)
+      <li> Fix crash on copying embedded documents. (<a href="http://bugs.kde.org/120395">bug #120395</a>)
     </ul>
   </ul>
 
@@ -125,7 +125,7 @@
     <li>kpresenter can be built stand-alone</li>
     <li>add a dcop call to end a presentation</li>
     <li>Disable DPMS during presentations. Not via dcop to kdesktop, since kdesktop might not be running.</li>
-    <li>Links are not saved in OpenDocument (bug:134481)</li>
+    <li>Links are not saved in OpenDocument (<a href="http://bugs.kde.org/134481">bug #134481</a>)</li>
 </ul>
 
 <h3 id="kexi">Kexi</h3>
@@ -279,7 +279,7 @@
  <ul>
  <li><em>Core</em>
  <ul>
- <li>enabling/disabling of actions in query editor (bug:134977)
+ <li>enabling/disabling of actions in query editor (<a href="http://bugs.kde.org/134977">bug #134977</a>)
  </ul>
  <li><em>Table Designer</em>
     <ul>
@@ -312,7 +312,7 @@
   (for required field: if you add a checkbox that points to a Yes/No 
   field that has a default value the default value is not accepted) (Bug:134976 )
   <li>fixed updating property values of enum type
-  <li>hide "Editor type" property for auto fields (bug:134773)
+  <li>hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)
   <li>The first widget of a given kind should be named "widget" by default, the second - "widget2" and so on.</li>
   </ul>
 
@@ -353,7 +353,7 @@
 
 <li><em>Main window</em>
 <ul>
-<li> "Data actions do not appear on first open" workaround used before Kexi 2.0: the Data toolbar is always visible (bug:134975)
+<li> "Data actions do not appear on first open" workaround used before Kexi 2.0: the Data toolbar is always visible (<a href="http://bugs.kde.org/134975">bug #134975</a>)
 </ul>
 
 <li><em>Documentation</em>
@@ -401,7 +401,7 @@
     <li> Fix some non-artefact rendering errors
     <li> Fix changing the adjustment of brightness-contrast adjustment layers
     <li> Fix resizing images
-    <li> Fix undo of rotate 180 (bug:135165)
+    <li> Fix undo of rotate 180 (<a href="http://bugs.kde.org/135165">bug #135165</a>)
     <li> autoclose/add the screenshot after taking it, remove the print and save buttons (BUG:134527)
     <li>UI:
     <ul>
@@ -409,8 +409,8 @@
         <li>Remember opacity setting in Drop Shadow (Bug:134563)
         <li>Fix so that the rightly marked filters got displayed in the filters gallery dialog
         <li>New icons set for the too
-        <li>Fix display of masks (bug:134770)
-        <li>remember configuration of drop shadow (bug:134563)
+        <li>Fix display of masks (<a href="http://bugs.kde.org/134770">bug #134770</a>)
+        <li>remember configuration of drop shadow (<a href="http://bugs.kde.org/134563">bug #134563</a>)
         <li>Fix a crash where the histogram docker would try to fetch selectedness outside of the consecutive area of the selection
     </ul>
     <li>Selections:
@@ -443,7 +443,7 @@
         <li>Optimization of the duplicate tool, and fix healing and perspective
         <li>Fix the tool crop behaviour
         <li>fix perspective transformation and non square selection
-        <li>Bezier curves tool works in OpenGL mode (bug:134477)
+        <li>Bezier curves tool works in OpenGL mode (<a href="http://bugs.kde.org/134477">bug #134477</a>)
     </ul>
 </ul>
 
@@ -459,7 +459,7 @@
 <ul>
   <li>Improve data editor. <a href="http://bugs.kde.org/129553">bug #129553</a>.</li>
   <li>Fix: Pie charts use only the Y axis, not only the X axis.</li>
-  <li>ODF: Create support for data in rows or columns (bug:134195)</li>
+  <li>ODF: Create support for data in rows or columns (<a href="http://bugs.kde.org/134195">bug #134195</a>)</li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>
