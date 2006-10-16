@@ -85,7 +85,7 @@
 
   For more details look in the Principal Improvements below, or
 
-  <a href="http://www.koffice.org/announcements/changelog-1.6-final.php">the complete changelog</a>.
+  <a href="http://www.koffice.org/announcements/changelog-1.6.php">the complete changelog</a>.
 </p>
 <h3>Kexi Adds Many New Features</h3>
 <p align="justify">
