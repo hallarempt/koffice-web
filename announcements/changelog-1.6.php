@@ -51,10 +51,10 @@
 <ul>
     <li>crash in style manager (<a href="http://bugs.kde.org/127555">bug #127555</a>)
     <li>KWord can still crash on loading MS Word documents (<a href="http://bugs.kde.org/67216">bug #67216</a>)
-    <li>MS Word document crashs kword (<a href="http://bugs.kde.org/84547">bug #84547</a>)
-    <li>kword crashes while updating th e table of contents (<a href="http://bugs.kde.org/131122">bug #131122</a>)
+    <li>MS Word document crashes kword (<a href="http://bugs.kde.org/84547">bug #84547</a>)
+    <li>KWord crashes while updating the table of contents (<a href="http://bugs.kde.org/131122">bug #131122</a>)
     <li>merging 2 cells already merged with others 2 cells already merged crashes kword (<a href="http://bugs.kde.org/132642">bug #132642</a>)
-    <li>Kword crashes when I use "save as open office document" or "select all" and "copy" (<a href="http://bugs.kde.org/126007">bug #126007</a>)
+    <li>KWord crashes when I use "save as open office document" or "select all" and "copy" (<a href="http://bugs.kde.org/126007">bug #126007</a>)
     <li>crash deleting second empty page (<a href="http://bugs.kde.org/125998">bug #125998</a>)
     <li>crash after editing/selecting table rows (<a href="http://bugs.kde.org/129315">bug #129315</a>)
     <li>deleting page from rmb menu deletes wrong page (parts of <a href="http://bugs.kde.org/132338">bug #132338</a>)
@@ -79,7 +79,7 @@
     <ul>
       <li> Two-array functions now correctly use both arrays, instead of only one.  (<a href="http://bugs.kde.org/130681">bug #130681</a>)
       <li> Function EVEN rounds up to the next nearest even integer.
-      <li> Funciton ODD rounds up to the next nearest odd integer.
+      <li> Function ODD rounds up to the next nearest odd integer.
       <li> Fix the formula tokenizer. LOG2 and LOG10 are cell references and  function identifiers. We have to interpret it depending on the context.
       <li> Fix references to sheets with names beginning with a number (<a href="http://bugs.kde.org/124549">bug #124549</a>)
       <li> Fixes for various database functions
@@ -138,7 +138,7 @@
   Undo and Redo commands are available.</li>
  <li>Support for Data-aware combo boxes in the Table View, i.e. lookup columns (<a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a>, <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction">details</a>). Note that there is no user interface for designing the lookup columns. You can try the feature by downloading a <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Current_State">specially prepared database</a>.</li>
  <li>Improvements in Auto Field form widget</li>
- <li>Improvements in Table View, including support for default values and tooltips for content that is too large for its cell size</li>
+ <li>Improvements in Table View, including support for default values and tool-tips for content that is too large for its cell size</li>
 </ul>
 
 <em>Table Designer</em>
@@ -156,7 +156,7 @@
   and just altered in-place when it's enough to do so</li>
   <li><em>Beta 1:</em></li>
   <li>Fixed setting types and subtypes</li>
-  <li>Fixed a crash when there are more than 50 actions perfomred in the Table Designer's undo/redo stack</li>
+  <li>Fixed a crash when there are more than 50 actions performed in the Table Designer's undo/redo stack</li>
   <li>Fixed saving "indexed" and "type" field properties of a table design</li>
   <li>Support for default values</li>
   <li>Fields of type yes/no have default value set to false (by default)</li>
@@ -171,7 +171,7 @@
 <em>Forms</em>
 <ul>
   <li><em>Alpha 1:</em></li>
-  <li>Fixed saving data changes for db-aware checkboxes
+  <li>Fixed saving data changes for db-aware check-boxes
   (by setting StrongFocus policy as default)</li>
   <li>Set the data source readonly if it comes from query</li>
   <li>"Read only" property is now supported by all data-aware widgets, 
@@ -180,17 +180,17 @@
   to get lighter gray</li>
   <li>Accessibility+usability: read only line edit widget now shows the caret</li>
   <li>Display field caption as title for editor's context menu</li>
-  <li>Data source pane splitted vertically into two sections for clarity</li>
+  <li>Data source pane split vertically into two sections for clarity</li>
   <li>AutoField widget: added support for Image (Object) type,
   fixed handling color properties, internal editor's properties are 
-  automatically inherited by the AutoField widget as so-called subproperties. 
+  automatically inherited by the AutoField widget as so-called sub-properties.
   Changing value of "Widget Type" property reloads the entire 
   property set, so new properties can appear and unused properties can be hidden 
   in the Property Editor.</li>
   <li>Image Box widget: now supports saving data in the database. 
   Fixed filling duplicated data widgets; fixed editing;
   "Drop-Down Button Visible" property added. Drop-down button moved to bottom-right, 
-  usability improved (e.g. keyboard handling for popup), db-awareness added, 
+  usability improved (e.g. keyboard handling for pop-up), db-awareness added, 
   frame-related properties added, tab/backtab handling fixed,
   fixed updating position of image when the frame changes</li>
   <li>Removed flickering of the Property Pane after dropping a new field 
@@ -248,7 +248,7 @@
   <li><em>Beta 1:</em></li>
   <li>Current row and column are marked as selection on the vertical 
    and horizontal header sections</li>
-  <li>Display tooltip with row number when the vertical scrollbar is dragged</li>
+  <li>Display tooltip with row number when the vertical scroll-bar is dragged</li>
 </ul>
 
 <em>Database Support Library (KexiDB)</em>
@@ -301,7 +301,7 @@
   <li>Fixed tab/backtab key handling</li>
   <li>Fixed displaying custom label text when "Auto Label" property is off</li>
   <li>Handling of global shortcuts like CTRL+PgDown is now shared with 
-   Table View (accesibility: it is now possible to move to next/previous 
+   Table View (accessibility: it is now possible to move to next/previous 
    record using keyboard)</li>
   <li>Moving to new row sets the focus in the first data-aware widget 
    (in tab order)</li>
@@ -309,7 +309,7 @@
    to other record</li>
   <li>Custom widget factories can be now loaded properly</li>
   <li>Yes/No field default value does not work properly
-  (for required field: if you add a checkbox that points to a Yes/No 
+  (for required field: if you add a check-box that points to a Yes/No 
   field that has a default value the default value is not accepted) (<a href="http://bugs.kde.org/134976">bug #134976</a> )
   <li>fixed updating property values of enum type
   <li>hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)
@@ -318,7 +318,7 @@
 
 <li><em>Data Table View</em>
 <ul>
- <li>More shortcuts added, shortcuts are now usable and a bit MSAcces-like</li>
+ <li>More shortcuts added, shortcuts are now usable and a bit like MS Access</li>
    <ul>
    <li>CTRL+End now moves to the last field in the last record 
     (previously: the last record)</li>
@@ -340,10 +340,11 @@
  <li>Do not try to insert default values into a column with unique 
   flag declared (or even primary key)</li>
  <li>fixed constructing ORDER BY part of SQL statements (ambiguous fields)</li>
- <li>when creating "columns by name" cache, also remeber "table.alias" 
+ <li>when creating "columns by name" cache, also remember "table.alias" 
    identifiers</li>
- <li>QuerySchema: retrieving infromation about columns much improved
-  (needed by the parser and designer) and fixes for handling ordering information in design mode when there're asterisks in the query</li>
+ <li>QuerySchema: retrieving information about columns much improved
+  (needed by the parser and designer) and fixes for handling ordering information in design mode when
+   there are asterisks in the query</li>
   <li>fixed just introduced possible crash for expression columns</li>
   <li>fixed handling information about columns ordering</li>
   <li>support for ORDER BY while generating SQL statements</li>
@@ -363,17 +364,17 @@
 </ul>
 
 <h3 id="krita">Krita</h3>
-<em>Core libray</em>
+<em>Core library</em>
 <ul>
   <li> perspective grid: this is a grid that is defined by two vanishing points</li>
   <li> improvements of the memory management, krita can handle more than 4Gb of cache on hard drive on 32bits system and doesn't crash anymore if the system run out of memory before krita reach it's maximum amount of allowed memory</li>
-  <li> a lot of fixes in the adjustement layers</li>
+  <li> a lot of fixes in the adjustment layers</li>
   <li> support for layer mask</li>
   <li> improved indirect painting</li>
 </ul>
 <em>File filters</em>
 <ul>
-  <li> you can import and convert to bitmap pdf files</li>
+  <li> you can import and convert to bitmap PDF files</li>
   <li> improvement in the png filter to allow the opening of big files</li>
 </ul>
 <em>Effects/filters plugins</em>
@@ -397,8 +398,7 @@
 
 <em>Bugfixes</em>
 <ul>
-    <li> Fix some specific rendering artefacts
-    <li> Fix some non-artefact rendering errors
+    <li> Fix some specific rendering artifacts    <li> Fix some non-artifact rendering errors
     <li> Fix changing the adjustment of brightness-contrast adjustment layers
     <li> Fix resizing images
     <li> Fix undo of rotate 180 (<a href="http://bugs.kde.org/135165">bug #135165</a>)
@@ -422,13 +422,13 @@
     </ul>
     <li>Drawing:
     <ul>
-        <li> Grey8 colorspace also works antialiased when opacity<100% on adjustment 
+        <li> Grey8 color-space also works anti-aliased when opacity<100% on adjustment 
     layers
-        <li> Add alpha darken to all colorspaces that still didn't have it (fixes 
+        <li> Add alpha darken to all color-spaces that still didn't have it (fixes 
     painting indirectly on them)
         <li> Honor the selection with paint indirectly
     </ul>
-    <li>Adjustement layers:
+    <li>Adjustment layers:
     <ul>
         <li> Fix crash on loading adjustment layers
         <li> Some changes in selection actions concerning adjustment layers
@@ -438,8 +438,8 @@
     </ul>
     <li>Tools:
     <ul>
-        <li>Better interraction with the perspective transform tool
-        <li>Bezier tools don't work in openGL mode (<a href="http://bugs.kde.org/134477">bug #134477</a>)
+        <li>Better interaction with the perspective transform tool
+        <li>Bezier tools don't work in OpenGL mode (<a href="http://bugs.kde.org/134477">bug #134477</a>)
         <li>Optimization of the duplicate tool, and fix healing and perspective
         <li>Fix the tool crop behaviour
         <li>fix perspective transformation and non square selection
@@ -539,13 +539,14 @@
     <li>UI:
         <ul>
             <li>Fix character insertion that requires new token elements</li>
-            <li>Reenable cut, copy and paste</li>
+            <li>Re-enable cut, copy and paste</li>
             <li>Fix a crash when moving to left in selection mode.</li>
             <li>Fix a crash when changing token element in selection mode</li>
             <li>Fix KFCRemoveEnclosing undo code, check that there's really an element to reinsert.</li>
             <li>Fix unexecution of KFCSplitCommand so that it really does what is supposed to do</li>
             <li>Remove autodeleting that caused a crash when destructor was called.</li>
-            <li>Fix undo in AddToken commmand. Now token element itself is also removed and cursor positioned in last position of previous elemenet, as it should be.</li>
+            <li>Fix undo in AddToken commmand. Now token element itself is also removed and cursor
+	     positioned in last position of previous element, as it should be.</li>
             <li>Add only one token for all the text elements, instead of just one token for each.</li>
         </ul>
     <li>MathML / OpenDocument:
