@@ -50,4 +50,68 @@ include "md5-koffice-1.6.inc"
        Also provided: <a href="md5-pgp-koffice-1.6.txt">a PGP-signed version of the MD5 sums</a>.
       </p>
 
+<a name="compiling"></a><h2>
+  Compiling KOffice 1.6
+</h2>
+<p align="justify">
+  <a name="source_code-library_requirements"></a><strong>Library
+  Requirements</strong>:
+  KOffice 1.6 requires the following libraries:
+</p>
+<ul>
+  <li>
+    <div align="justify">
+    kdelibs 3.3, 3.4 or 3.5, which can be downloaded following the
+    <a href="http://www.kde.org/info/3.5.php">instructions</a>
+    at the KDE website (for more information on these kdelibs releases, please
+    see the <a href="http://www.kde.org/announcements/announce-3.5.php">KDE
+    3.5 press release</a>);
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    Qt-3.3, which is available in source code from Trolltech as
+    <a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.0.tar.gz">qt-x11-free-3.3.0.tar.gz</a>
+    (<a href="ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.5.tar.gz">qt-x11-free-3.3.5.tar.gz</a>
+    is recommended);
+    and
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    <a href="http://xmlsoft.org/">libxml2</a> &gt;= 2.4.9 and
+    <a href="http://xmlsoft.org/XSLT/">libxslt</a> &gt;= 1.0.7.
+    for reading help pages and other KOffice documentation,
+    </div>
+  </li>
+  <li>
+    <div align="justify">
+    <a href="http:///">lcms</a> &gt;= 1.15 for handling color
+    spaces.  1.14 should not be used due to severe bugs.
+    </div>
+  </li>
+</ul>
+<p align="justify">
+  <strong>Compiler Requirements</strong>:
+  Please note that KOffice 1.6 will not
+  compile with older versions of <a href="http://gcc.gnu.org/">gcc/egcs</a>,
+  such as egcs-1.1.2 or gcc-2.7.2.  At a minimum gcc-2.95-* is required.
+</p>
+<p align="justify">
+  <a name="source_code"></a><strong>Source Code</strong>:
+  The complete source code for KOffice 1.6 is available for free download
+  via one of the KDE
+  <a href="http://download.kde.org/unstable/koffice-1.6/">http</a>
+  or <a href="http://www.kde.org/ftpmirrors.html">ftp</a> mirrors.
+  <!--Additionally, source rpms are available for the following distributions:-->
+</p>
+<!-- INCLUDE PHP FILE HERE -->
+<p align="justify">
+  <strong>Further Information</strong>:
+  For further instructions on compiling and installing KOffice, please consult
+  the KOffice <a href="http://www.koffice.org/download/source.php">installation
+  instructions</a>.  For
+  problems with SRPMs, please contact the person listed in the applicable
+  .spec file.
+</p>
 <?php include("footer.inc"); ?>
