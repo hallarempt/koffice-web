@@ -1,0 +1,28 @@
+#!/usr/bin/vmware
+config.version = "8"
+virtualHW.version = "4"
+scsi0.present = "TRUE"
+memsize = "256"
+ide1:0.present = "TRUE"
+ide1:0.fileName = "koffice16live.iso"
+ide1:0.deviceType = "cdrom-image"
+floppy0.present = "FALSE"
+ethernet0.present = "TRUE"
+usb.present = "TRUE"
+sound.present = "TRUE"
+sound.virtualDev = "es1371"
+displayName = "KOffice 1.6 LiveCD"
+guestOS = "otherlinux"
+nvram = "otherlinux.nvram"
+
+workingDir = "."
+
+ethernet0.addressType = "generated"
+uuid.location = "56 4d 52 ed aa 81 cf 56-f8 c8 67 78 4f b3 61 db"
+uuid.bios = "56 4d 52 ed aa 81 cf 56-f8 c8 67 78 4f b3 61 db"
+ethernet0.generatedAddress = "00:0c:29:b3:61:db"
+ethernet0.generatedAddressOffset = "0"
+
+checkpoint.vmState = "livecd.vmss"
+
+tools.remindInstall = "TRUE"
