@@ -35,21 +35,32 @@ regularly via SVN.</p>
 <p>Note that we have  3th version, thats the really unstable one for the upcoming 2.0, but that one is most likely not one you want.</p>
 
 <h2>Download</h2>
-<p>The complete source code for KOffice <?php echo $currentversion ?> is available for free download
-via one of the <a href="http://download.kde.org/stable/koffice-1.5.1/src/">KDE HTTP or FTP mirrors</a>.</p>
 
-<p>The <b>daily snapshots</b> are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.</p>
-<p>The development version via <b>anonymous SVN</b> (recommended) needs extra instructions, check the
+<p>The complete source code for KOffice <?php echo $currentversion ?>
+is available for free download via one of
+the <a href="http://download.kde.org/stable/koffice-1.6.0/src/">KDE
+HTTP or FTP mirrors</a>.  It's recommended that you download from
+a <a href="http://www.kde.org/mirrors.html">mirror</a> located in
+your country.</p>
+
+
+<p>The <b>daily snapshots</b>
+are <a href="ftp://ftp.kde.org/pub/kde/snapshots/">here</a>.  These
+can be updated using the anonymous Subversion mirror.</p>
+
+<p>The development version via <b>anonymous Subversion</b>
+(recommended) needs extra instructions, check the
 <a href="http://developer.kde.org/source/anonsvn.html">anonsvn instructions</a>.</p>
 
-<p>Use anonsvn if you plan to update often, since you will save a significant amount
-of time. If you use anonsvn, you need to run <tt>make -f Makefile.cvs</tt> before
-running <tt>./configure</tt> in the instructions below, or follow the instructions on the
-anonsvn page.<br />
-In any case, you need the branhes/koffice/1.6 dir! Make sure you choose that one.</p>
+<p>Use anonsvn if you plan to update often, since you will save a
+significant amount of time. If you use anonsvn, you need to
+run <tt>make -f Makefile.cvs</tt> before running <tt>./configure</tt>
+in the instructions below, or follow the instructions on the anonsvn
+page.<br />  In any case, you need the branches/koffice/1.6 dir! Make
+sure you choose that one.</p>
 
 <h2>Instructions</h2>
-<p>It's recommended that you download from a <a href="http://www.kde.org/mirrors.html">FTP mirror</a> located in your country.</p>
+
 <p>For the stable KOffice <?php echo $currentversion; ?> you need Qt 3.3.x, arts >= 1.3, and kdelibs >= 3.3.0 (kdebase >= 3.3.0 is recommended too).</p>
 <p>For the development version of KOffice you need Qt 3.3.x, arts >= 1.3, and kdelibs >= 3.3.0.</p>
 

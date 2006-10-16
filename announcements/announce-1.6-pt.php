@@ -5,31 +5,7 @@
   include("header.inc");
 ?>
 
-<p align="justify">
-  DATELINE October 16, 2006<br />
-  EMBARGO - DO NOT RELEASE OR PUBLISH
-</p>
-<p align="justify">
-    Also available in:
-    <table border="0">
-      <tr>
-        <td>
-          <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6"><img src="flag_spain_catalunya.png"></img></a>
-        </td>
-        <td>
-          <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6">Catalan</a>
-        </td>
-        <td>
-          <a href="announce-1.6-de.php">German</a>
-        </td>
-      </tr>
-    </table>
-</p>
+<?php include("languages-1.6.inc"); ?>
 <h2>
   O KDE Lan&ccedil;a uma Nova Vers&atilde;o do Pacote Integrado de Escrit&oacute;rio Livre
 </h2>
@@ -62,7 +38,7 @@
 
   Para mais detalhes, veja abaixo nas Melhorias Principais ou o
 
-  <a href="http://www.koffice.org/announcements/changelog-1.6-final.php">registo de altera&ccedil;&otilde;es completo</a>.
+  <a href="http://www.koffice.org/announcements/changelog-1.6.php">registo de altera&ccedil;&otilde;es completo</a>.
 </p>
 <h3>O Kexi Acrescenta Muitas Funcionalidades Novas</h3>
 <p align="justify">

@@ -59,7 +59,7 @@ have their own mailing lists.</p>
 
 // CHECK: Kexi, Kugar, KPlato
 $faq->addQuestion("What applications are part of KOffice?",
-"Following applications exist and are part of KOffice 1.5:</p>
+"The following applications exist and are part of KOffice 1.6:</p>
 <ul>
 <li>KWord - a word processor</li>
 <li>KSpread - a spread sheet</li>
@@ -86,7 +86,7 @@ applications are only planned for future KOffice releases."
 
 // CHECK: "sync" is an abbreviation
 $faq->addQuestion("What is the current state of KOffice?",
-"At the time of this writing, KOffice 1.5.0 has been released. KOffice
+"At the time of this writing, KOffice 1.6.0 has been released. KOffice
 is released separately from the rest of KDE, so KOffice releases are
 not in sync with those of KDE."
 

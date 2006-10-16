@@ -8,11 +8,11 @@
 <p align="justify">
   DATUM 16. Oktober 2006
 </p>
-<!-- This below is the embargo - please change to the out-commented text when the announcement goes officially online! -->
 
-<!-- <p>ZUR SOFORTIGEN VERÖFFENTLICHUNG</p> -->
-<p>ACHTUNG: NICHT ZUR VERÖFFENTLICHUNG BESTIMMT!<p>
+<p>ZUR SOFORTIGEN VERÖFFENTLICHUNG</>
+<!-- <p>ACHTUNG: NICHT ZUR VERÖFFENTLICHUNG BESTIMMT!<p  -->
 
+<?php include("languages-1.6.inc"); ?>
 <h2>
   Das KDE Projekt veröffentlicht neue Version des freien, integrierten Pakets von Büroanwendungen
 </h2>
@@ -27,7 +27,7 @@
 
 <h3>Krita wird für Bildbearbeitung auf professioneller Ebene benutzbar</h3>
 <p align="justify">
-  Mit dieser Version wird <a href="http://www.koffice.org/krita/">Krita</a> für Bildbearbeitung auf professioneller Ebene benutzbar. Das Programm und dessen Entwicklerteam gewannen den "Preis für das beste Programm" auf der diesjährigen KDE-Konferenz in Dublin. Mit Funktionen wie magnetischer Auswahl, Effekt-Ebenen, Unabhängigkeit von Farbmodellen und vollständiger Steuerbarkeit durch Skripte hat sich Krita zu einem der besten freien Bildbearbeitungsprogramme, die derzeit erhältlich sind, entwickelt. Für nähere Informationen werfen Sie bitte einen Blick auf die Liste der nennenswerten Neuerungen unten, oder die vollständige <a href="http://www.koffice.org/announcements/changelog-1.6-final.php">Liste der Änderungen</a>.
+  Mit dieser Version wird <a href="http://www.koffice.org/krita/">Krita</a> für Bildbearbeitung auf professioneller Ebene benutzbar. Das Programm und dessen Entwicklerteam gewannen den "Preis für das beste Programm" auf der diesjährigen KDE-Konferenz in Dublin. Mit Funktionen wie magnetischer Auswahl, Effekt-Ebenen, Unabhängigkeit von Farbmodellen und vollständiger Steuerbarkeit durch Skripte hat sich Krita zu einem der besten freien Bildbearbeitungsprogramme, die derzeit erhältlich sind, entwickelt. Für nähere Informationen werfen Sie bitte einen Blick auf die Liste der nennenswerten Neuerungen unten, oder die vollständige <a href="http://www.koffice.org/announcements/changelog-1.6.php">Liste der Änderungen</a>.
 </p>
 <h3>Kexi mit zahlreichen, neuen Funktionen</h3>
 <p align="justify">

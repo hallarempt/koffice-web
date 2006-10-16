@@ -32,30 +32,19 @@
        For more information on which file formats KOffice supports, see the 
        filter status for recent versions of KOffice below.</p>
    
-    <h2>Current release: KOffice 1.5</h2>
+    <h2>Current release: KOffice 1.6</h2>
     
     <p>This information pertains to the currently released stable
     version of KOffice.</p>
 
      <ul>
-      <li><a href="1.5/">Filter status of KOffice 1.5</a></li>
-     </ul>
-
-    <h2>Forthcoming release: KOffice 1.6</h2>
-
-    <p>This information pertains to
-    the <a href="../announcements/announce-1.6-beta1.php">beta
-    version</a> of KOffice, due to be released as KOffice 1.6 in
-    October 2006.  The information here is for guidance only: it may
-    be inaccurate and is subject to change.</p>
-
-     <ul>
-      <li><a href="1.6/">Filter status of KOffice 1.6 (beta)</a></li>
+      <li><a href="1.6/">Filter status of KOffice 1.6</a></li>
      </ul>
 
     <h2>Old versions</h2>
     
      <ul>
+      <li><a href="1.5/">Filter status of KOffice 1.5</a></li>
       <li><a href="1.4/">Filter status of KOffice 1.4</a></li>
       <li><a href="1_3_1/">Filter status of KOffice 1.3.1</a></li>
       <li><a href="1.2/">Filter status of KOffice 1.3</a></li>

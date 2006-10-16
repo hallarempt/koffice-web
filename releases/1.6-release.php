@@ -32,6 +32,10 @@
 	    <td>KOffice 1.6 (source code)</td>
 	    <td><a href="http://download.kde.org/unstable/koffice-1.6/src/koffice-1.6.tar.bz2">koffice-1.6.tar.bz2</a></td>
 	  </tr>
+	  <tr>
+	    <td>KexiMDB 1.1.0 (MS Access import plugin)</td>
+	    <td><a href="http://download.kde.org/unstable/koffice-1.6/src/keximdb-1.1.0.tar.gz">keximdb-1.1.0.tar.gz</a></td>
+	  </tr>
 	</table>
       </li>
       <li>

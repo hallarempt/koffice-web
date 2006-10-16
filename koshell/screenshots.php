@@ -12,8 +12,6 @@ $gallery->addImage("pics/start_2005_09_270.png", "pics/start_2005_09.png", "270"
 $gallery->addImage("pics/workspace_2005_09_270.png", "pics/workspace_2005_09.png", "270", "195", "[Screenshot]", 0 , "Karbon14 in KOffice Workspace");
 $gallery->show();
 ?>
-<p>Screenshots for next coming release 1.5
-</p>
 
  <br />
  <hr width="30%" align="center" />

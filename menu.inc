@@ -16,7 +16,6 @@ $section->appendDir("Support KOffice", "support");
 
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
-$section->appendLink("KOffice 1.6-rc1", "releases/1.6-rc1-release.php");
 $section->appendDir("Security", "security");
 
 $section =& $this->appendSection("KOffice Applications");
@@ -32,13 +31,14 @@ $section->appendDir("KPlato", "kplato");
 $section->appendDir("KChart", "kchart");
 $section->appendDir("KFormula", "kformula");
 $section->appendDir("Kugar", "kugar");
-$section->appendDir("Supported File Formats", "filters");
+
 
 $section =& $this->appendSection("Documentation");
 $section->appendLink("KOffice $currentversion", "http://docs.kde.org/stable/en/koffice/", false);
+$section->appendDir("Supported File Formats", "filters");
 
-$section =& $this->appendSection("Competition");
-$section->appendDir("Competitions", "competition");
+$section =& $this->appendSection("Competitions");
+$section->appendDir("Recent Competitions", "competition");
 $section->appendLink("KOffice2 Design", "competition/guiKOffice2.php");
 
 $section =& $this->appendSection("Download");
