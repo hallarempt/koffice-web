@@ -266,7 +266,7 @@
 <p align="justify">
   O KOffice e todos os seus componentes (incluindo o KDE) est&atilde;o dispon&iacute;veis
   <em><strong>de gra&ccedil;a</strong></em>, segundo as licen&ccedil;as <em>Open Source</em>,
-  nas r&eacute;plicas de <a href="http://download.kde.org/unstable/koffice-1.6/">HTTP e FTP</a> do KDE.
+  nas r&eacute;plicas de <a href="http://download.kde.org/stable/koffice-1.6/">HTTP e FTP</a> do KDE.
 </p>
 <hr />
 

@@ -227,7 +227,7 @@
   Weiterhin noch einen eingebauten Thesaurus (KThesaurus) und Unterstützung für zahlreiche, verschiedene <a href="http://www.koffice.org/filters/1.6/">Dateiformate</a>.
 </p>
 <p align="justify">
-  KOffice und alle zum Programmpaket gehörigen Komponenten (inklusive KDE) sind <em><strong>gratis</strong></em> unter Open-Source-Lizenzen von den KDE <a href="http://download.kde.org/unstable/koffice-1.6/">HTTP- und FTP-Spiegelservern</a> beziehbar.
+  KOffice und alle zum Programmpaket gehörigen Komponenten (inklusive KDE) sind <em><strong>gratis</strong></em> unter Open-Source-Lizenzen von den KDE <a href="http://download.kde.org/stable/koffice-1.6/">HTTP- und FTP-Spiegelservern</a> beziehbar.
 </p>
 <hr />
 

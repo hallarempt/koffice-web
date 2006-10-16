@@ -268,7 +268,7 @@
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.6/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/stable/koffice-1.6/">http and ftp</a> mirrors.
 </p>
 <hr />
 
