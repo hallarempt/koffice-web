@@ -17,6 +17,9 @@
           <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6"><img src="flag_spain_catalunya.png"></img></a>
         </td>
         <td>
+          <a href="http://fr.kde.org/koffice/announcements/announce-1.6.php"><img src="flag_france.png"></img></a>
+        </td>
+        <td>
           <a href="announce-1.6-de.php"><img src="flag_germany.png"></img></a>
         </td>
         <td>
@@ -29,6 +32,9 @@
       <tr>
         <td>
           <a href="http://cat.kde.org/index.php/Notes_de_premsa/KOffice_1.6">Catalan</a>
+        </td>
+        <td>
+          <a href="http://fr.kde.org/koffice/announcements/announce-1.6.php">French</a>
         </td>
         <td>
           <a href="announce-1.6-de.php">German</a>
