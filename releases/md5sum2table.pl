@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 # run it with perl md5sum2table.pl < MD5SUM > md5-koffice-1.5-rc1.inc
 #adjust these two variables to the current version
-$VERSION="1.6.1";
+$VERSION="1.6.0";
 $STATUS="stable";
 
 # team names (from kde-i18n/teamnames)
@@ -68,6 +68,7 @@ use constant LANGUAGES =>
     "sl" => "Slovenian",
     "sq" => "Albanian",
     "sr" => "Serbian",
+    "sr\@Latn" => "Serbian Latin",
     "ss" => "Swati",
     "sv" => "Swedish",
     "ta" => "Tamil",
@@ -100,15 +101,14 @@ while ( <STDIN> )
     $package = $2;
     $md5sum = $1;
 
-    if ( $package =~ /^koffice-i18n/ )
+    if ( $package =~ /^koffice-l10n/ )
     {
-        $package =~ /^koffice-i18n-([0-9a-zA-Z_]+)-/ ;
+        $package =~ /koffice-l10n-([0-9a-zA-Z_\@]+)-/ ;
         if ( $1 cmp "" )
         {
             $description = LANGUAGES->{$1};
             if ( ! $description cmp "" )
             {
-                $description = $1;
                 warn "Unknown language: $1";
             }
         }
