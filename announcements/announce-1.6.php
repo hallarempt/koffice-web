@@ -7,6 +7,7 @@
 
 <p align="justify">
   DATELINE October 16, 2006<br />
+  FOR IMMEDIATE RELEASE
 </p>
 <?php  include("languages-1.6.inc"); ?>
 <h2>
@@ -22,11 +23,12 @@
 
 <h2>Highlights</h2>
 <p align="justify">
-  The main energy of the KOffice team is currently focused
-  on the revolutionary 2.0 version that will be based on KDE 4 and Qt 4.
   The 1.6 release is intended mainly as a feature release for the two
-  fastest developed components: Krita and Kexi.  However, other 
-  components are being actively developed too, in some cases with astonishing results.
+  fastest developed components: Krita and Kexi.  
+  This version also contains a vastly improved version of KPlato, our
+  project planning application.
+  However, other 
+  components are being actively developed too - with astonishing results.
   Here are the highlights of this release:
 </p>
 
@@ -35,7 +37,7 @@
   With this release <a href="http://www.koffice.org/krita/">Krita</a> steps up and becomes usable for professional image editing.
   Krita and its maintainer won the prize for "Best Application" in 
   this years KDE conference in Dublin.  With features such as magnetic selection, 
-  effect layers, color model independency, and full scriptability it has risen to
+    effect layers, color model independency, and full scriptability, it has risen to
   become what is probably the best free image editing program today.
 
   For more details look in the Principal Improvements below, or
@@ -45,7 +47,7 @@
 <h3>Kexi Adds Many New Features</h3>
 <p align="justify">
     Kexi, the desktop database application competing with MS Access,
-    is the other application in KOffice that already is best of its kind.
+    is the other application in KOffice that is already the best of its kind.
     Kexi has received over 270 improvements since 
     version 1.0 (KOffice 1.5). With this release, Kexi gains such features as
     the ability to <a href="http://www.kdedevelopers.org/node/2163">handle images</a>, 
@@ -58,22 +60,22 @@
 <p align="justify">
   The formula editor of KOffice now supports OpenDocument and MathML and uses it
   as its default file format.  It also surpasses the equivalent component in
-  OpenOffice.org scoring 70% on the
+  OpenOffice.org, scoring 70% on the
       <a href="http://www.w3.org/Math/testsuite">W3C MathML test suite</a>, 
   compared to 22% for OpenOffice.org Formula.
-  The KOffice team sees this as the first example where the
-  work to provide a very well-structured code base of KOffice pays off to create
-  a superior support for the existing standard.
+  The KOffice team sees this as one of the many examples where the
+  work to provide a very well-structured codebase of KOffice pays off to provide
+  superior support for the existing standard.
 </p>
 
 <h3>Scripting Support in KSpread, Krita and Kexi</h3>
 <p align="justify">
-    KOffice 1.6 brings scripting to a new level with scripting implemented in 
+    KOffice 1.6 brings scripting to a new level with scripting functionality in 
     KSpread, Krita and Kexi.  Scripting is provided through the cross-language
     script bridge <a href="http://dot.kde.org/1152490640/">Kross</a>,
     which enables KOffice to be scripted in Python, Ruby with possible future
     extensions of Javascript and Java.  With this release, KOffice also introduces
-    GUI-less scripting where e.g. spreadsheet documents can be automatically 
+    pure command-line scripting where e.g. spreadsheet documents can be automatically 
     manipulated with scripts to create 
     <a href="http://www.robweir.com/blog/2006/09/odf-twenty-patterns-of-use.html">many new usecases</a>.
 </p>
