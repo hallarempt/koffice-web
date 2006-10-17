@@ -1,2 +1,5 @@
+AddHandler custom-php .php .pcgi
+Action custom-php /cgi-bin/php.cgi
+#AddType application/x-httpd-php .php
+#ini_set("include_path", "/home/koffice/koffice.org/media/includes");
 ErrorDocument 404 /404.php
-php_value include_path .:/home/groups/k/ko/koffice/htdocs/media/includes
