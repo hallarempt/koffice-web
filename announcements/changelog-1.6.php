@@ -133,12 +133,13 @@
 <em>Main new features</em>
 <ul>
  <li>Object data type and data-aware image form widget (<a href="http://www.kdedevelopers.org/node/2163" target="_blank">details</a>)</li>
- <li>New: Support for macros (this is technology preview only, read <a href="http://kexi-project.org/wiki/wikiview/index.php?Macros">details</a>)</li>
- <li>Table design altering without removing the existing data (this is technology preview only, read <a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>); 
+ <li>Support for macros (this is technology preview only, read <a href="http://kexi-project.org/wiki/wikiview/index.php?Macros">details</a>)</li>
+ <li>Table design altering without removing the existing data (this is technology preview only disabled by default, read <a href="http://www.kdedevelopers.org/node/2075" target="_blank">details</a>); 
   Undo and Redo commands are available.</li>
- <li>Support for Data-aware combo boxes in the Table View, i.e. lookup columns (<a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a>, <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction">details</a>). Note that there is no user interface for designing the lookup columns. You can try the feature by downloading a <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Current_State">specially prepared database</a>.</li>
+ <!-- li>Support for Data-aware combo boxes in the Table View, i.e. lookup columns (<a href="http://kexi-project.org/pics/1.1/combobox.png" target="_blank">screenshot</a>, <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction">details</a>). Note that there is no user interface for designing the lookup columns. You can try the feature by downloading a <a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Current_State">specially prepared database</a>.</li -->
  <li>Improvements in Auto Field form widget</li>
  <li>Improvements in Table View, including support for default values and tool-tips for content that is too large for its cell size</li>
+ <li>Improvements in Query Designer: defining sort order for column in both visual and SQL view</li>
 </ul>
 
 <em>Table Designer</em>
@@ -160,12 +161,22 @@
   <li>Fixed saving "indexed" and "type" field properties of a table design</li>
   <li>Support for default values</li>
   <li>Fields of type yes/no have default value set to false (by default)</li>
+  <li><em>RC 1:</em></li>
+  <li>Set "false" as default value for columns with Yes/No types</li>
+  <li>When column type changes, default value is updated to match the new type
+  (e.g. casted from integer to text; incompatible values are removed)</li>
+  <li>Fixed inserting fields of type "Object"</li>
 </ul>
 
 <em>Query Designer</em>
 <ul>
   <li><em>Alpha 1:</em></li>
   <li>Possible crash fixed when new design is saved in the data view: rebuild schema only when needed</li>
+  <li><em>RC 1:</em></li>
+  <li>Invalid input (e.g. criteria or sorting) now displays a message box with "Correct" and "Discard Changes" buttons
+  <li>Aadded support for setting order of columns in Design and SQL views (ORDER BY)
+  <li>Fields were sometimes added twice
+  <li>Fixed displaying visible flag (without ? mark)
 </ul>
 
 <em>Forms</em>
@@ -202,6 +213,24 @@
   (if available); the special style is removed as soon as the editing starts</li>
   <li>"redo" action removed from the data-aware widgets' context menu 
   (to avoid problems with data handling)</li>
+  <li><em>RC 1:</em></li>
+  <li>Hide unused radio button widget</li>
+  <li>Fixed tab/backtab key handling</li>
+  <li>Fixed displaying custom label text when "Auto Label" property is off</li>
+  <li>Handling of global shortcuts like CTRL+PgDown is now shared with 
+   Table View (accesibility: it is now possible to move to next/previous 
+   record using keyboard)</li>
+  <li>Moving to new row sets the focus in the first data-aware widget 
+   (in tab order)</li>
+  <li>Fixed leaving from "editing" state on "accept row changes" or moving 
+   to other record</li>
+  <li>Custom widget factories can be now loaded properly</li>
+  <li>Yes/No field default value does not work properly
+� (for required field: if you add a check-box that points to a Yes/No 
+� field that has a default value the default value is not accepted) (<a href="http://bugs.kde.org/134976">bug #134976</a> )
+� <li>Fixed updating property values of enum type
+� <li>Hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)
+  <li>The first widget of a given kind should be named "widget" by default, the second - "widget2" and so on.</li>
 </ul>
 
 <em>Startup</em>
@@ -249,6 +278,22 @@
   <li>Current row and column are marked as selection on the vertical 
    and horizontal header sections</li>
   <li>Display tooltip with row number when the vertical scroll-bar is dragged</li>
+  <li><em>RC 1:</em></li>
+ <li>More shortcuts added, shortcuts are now usable and a bit MSAcces-like</li>
+   <ul>
+   <li>CTRL+End now moves to the last field in the last record 
+    (previously: the last record)</li>
+   <li>CTRL+Home now moves to the first field in the first record 
+    (previously: the first record)</li>
+   <li>CTRL+PgDown now moves to the next record</li>
+   <li>CTRL+PgUp now moves to the previous record</li>
+   <li>CTRL+Plus or CTRL+= now moves to the new record</li>
+  </ul>
+  <li>Fixed repainting after "Edit->Clear Table Contents" action</li>
+  <li>Fixed problem with editing floating-point values when there's default value set to 0.0</li>
+  <li>Fixed displaying values for combobox fields</li>
+  <li>It is now possible to have empty combobox item: selecting it clears 
+� the value of combobox</li>
 </ul>
 
 <em>Database Support Library (KexiDB)</em>
@@ -262,6 +307,13 @@
   <li><em>Beta 1:</em></li>
   <li>Server version information is retrieved (usable for future extensions)</li>
   <li>Added unicode->latin1 mappings for Czech characters</li>
+  <li><em>RC 1:</em></li>
+ <li>Do not try to insert default values into a column with unique 
+  flag declared (or even primary key)</li>
+ <li>Fixed constructing ORDER BY part of SQL statements (ambiguous fields)</li>
+ <li>When creating "columns by name" cache, also remember "table.alias" identifiers</li>
+� <li>Use COUNT(*), not COUNT()</li>
+� <li>Added support for ORDER BY clause</li>
 </ul>
 
  <em>Database Drivers</em>
@@ -271,97 +323,21 @@
   to get "table renaming" function.</li>
   <li>Table altering improved for SQLite: changing data types will be possible soon</li>
   <li><em>Beta 1:</em></li>
-  <lI>PostgreSQL: use TIMESTAMP, not DATETIME for date/time data type</li>
+  <li>PostgreSQL: use TIMESTAMP, not DATETIME for date/time data type</li>
  </ul>
- 
- 
- <em>Bug fixes</em>
- <ul>
- <li><em>Core</em>
- <ul>
- <li>enabling/disabling of actions in query editor (<a href="http://bugs.kde.org/134977">bug #134977</a>)
- </ul>
- <li><em>Table Designer</em>
-    <ul>
-    <li>Set "false" as default value for columns with Yes/No types</li>
- <li>When column type changes, default value is updated to match the new type
-  (e.g. casted from integer to text; incompatible values are removed)</li>
- <li>Fixed inserting fields of type "Object"</li>
-</ul>
-<li><em>Query Designer</em>
-<ul>
-<li> invalid input (e.g. criteria or sorting) now displays a message box with "Correct" and "Discard Changes" buttons
-<li> added support for setting order of columns in Design and SQL views (ORDER BY)
-<li> fields were sometimes added twice
-<li>fixed displaying visible flag (without ? mark)
-</ul>
-<li><em>Forms</em>
-<ul>
-  <li>Hide unused radio button widget</li>
-  <li>Fixed tab/backtab key handling</li>
-  <li>Fixed displaying custom label text when "Auto Label" property is off</li>
-  <li>Handling of global shortcuts like CTRL+PgDown is now shared with 
-   Table View (accessibility: it is now possible to move to next/previous 
-   record using keyboard)</li>
-  <li>Moving to new row sets the focus in the first data-aware widget 
-   (in tab order)</li>
-  <li>Fixed leaving from "editing" state on "accept row changes" or moving 
-   to other record</li>
-  <li>Custom widget factories can be now loaded properly</li>
-  <li>Yes/No field default value does not work properly
-  (for required field: if you add a check-box that points to a Yes/No 
-  field that has a default value the default value is not accepted) (<a href="http://bugs.kde.org/134976">bug #134976</a> )
-  <li>fixed updating property values of enum type
-  <li>hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)
-  <li>The first widget of a given kind should be named "widget" by default, the second - "widget2" and so on.</li>
-  </ul>
 
-<li><em>Data Table View</em>
-<ul>
- <li>More shortcuts added, shortcuts are now usable and a bit like MS Access</li>
-   <ul>
-   <li>CTRL+End now moves to the last field in the last record 
-    (previously: the last record)</li>
-   <li>CTRL+Home now moves to the first field in the first record 
-    (previously: the first record)</li>
-   <li>CTRL+PgDown now moves to the next record</li>
-   <li>CTRL+PgUp now moves to the previous record</li>
-   <li>CTRL+Plus or CTRL+= now moves to the new record</li>
-  </ul>
-  <li>Fixed repainting after "Edit->Clear Table Contents" action</li>
-  <li>fixed problem with editing floating-point values when there's default value set to 0.0</li>
-  <li>fixed displaying values for combobox fields</li>
-  <li>it is now possible to have empty combobox item: selecting it clears 
-  the value of combobox</li>
-</ul>
-
-<li><em>Database Support Library (KexiDB)</em>
-<ul>
- <li>Do not try to insert default values into a column with unique 
-  flag declared (or even primary key)</li>
- <li>fixed constructing ORDER BY part of SQL statements (ambiguous fields)</li>
- <li>when creating "columns by name" cache, also remember "table.alias" 
-   identifiers</li>
- <li>QuerySchema: retrieving information about columns much improved
-  (needed by the parser and designer) and fixes for handling ordering information in design mode when
-   there are asterisks in the query</li>
-  <li>fixed just introduced possible crash for expression columns</li>
-  <li>fixed handling information about columns ordering</li>
-  <li>support for ORDER BY while generating SQL statements</li>
-  <li>use COUNT(*), not COUNT()</li>
-  <li>added support for ORDER BY clause</li>
-</ul>
-
-<li><em>Main window</em>
+<em>Main window</em>
 <ul>
 <li> "Data actions do not appear on first open" workaround used before Kexi 2.0: the Data toolbar is always visible (<a href="http://bugs.kde.org/134975">bug #134975</a>)
+<li>enabling/disabling of actions in query editor (<a href="http://bugs.kde.org/134977">bug #134977</a>)</li>
 </ul>
 
-<li><em>Documentation</em>
+<em>Documentation</em>
 <ul>
  <li>Added chapter about forms translated to english.</li>
 </ul>
-</ul>
+
+
 
 <h3 id="krita">Krita</h3>
 <em>Core library</em>
