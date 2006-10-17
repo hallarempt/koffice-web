@@ -179,7 +179,7 @@
       </li>
     </ul>
   <p />
-    <strong>KFormula (Mathematical formula editor)</strong>
+    <strong>KFormula (Mathematical formula editor)</strong>:
     <ul type="disc">
       <li>
         <div align="justify">
