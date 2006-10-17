@@ -10,7 +10,7 @@
    $appinfo->showIconAndCopyright();
 ?>
 
-<p>KOffice Workspace, also named KOShell, consists in a friendly workspace to allow you to work on several KOffice applications at the same time. KOShell main window consists of a side pane on the left showing the icons of the available KOffice components and of the main view on the right which contains the main window of the opened programs in tabs. Each KOffice application keeps the same functionalities than the stand-alone program and integrates easily in the workspace by embedding its menus and toolbars.</p>
+<p>KOffice Workspace, also named KOShell, consists of a friendly workspace to allow you to work on several KOffice applications at the same time. The KOShell main window consists of a side pane on the left showing the icons of the available KOffice components and of a main view on the right which contains the main windows of activated components in tabs. Each KOffice application keeps the same functionalities as the stand-alone version and integrates easily in the workspace by embedding its menus and toolbars.</p>
 
 <!--<p>KOffice Worspace </p>
 
