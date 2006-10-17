@@ -7,11 +7,9 @@
 
   <h2>Overview</h2>
 
-  <p>Support for importing Microsoft Access databases is available for
-  Kexi.</p>
-
-  <p>It is distributed as <em>separate plugin</em> for Kexi.  For more
-  information, see the Download section below</p>
+  <p>Support for importing Microsoft Access databases is available
+  as <em>separate plugin</em> for Kexi.  For more information, see the
+  Download section below</p>
 
   <p>The plugin can be used to import Access databases into a Kexi
   database only: it cannot be used to edit the database, nor to export

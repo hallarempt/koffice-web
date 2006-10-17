@@ -130,9 +130,8 @@ by the KOffice developers themselves, so please report bugs to the KDE Cygwin pr
 $faq->addSection("How to get and install KOffice?");
 
 $faq->addQuestion("How do I get and compile the KOffice sources?",
-"Please have a look at <a href=\"http://www.koffice.org/download/source.php\">
-this page.</a>"
-);
+"Please see the <a href=\"http://www.koffice.org/download/\">download
+page.</a>" );
 
 $faq->addQuestion("I want to be on the bleeding edge. How can I get my sources up to date?",
 "You need to checkout the koffice path of KDE's SVN either
