@@ -10,7 +10,7 @@
 </p>
 <ul>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
-<li><a href="#kword">KWord</a></li>
+<li><a href="#kword">KWo</a></li>
 <li><a href="#kspread">KSpread</a></li>
 <li><a href="#kpresenter">KPresenter</a></li>
 <li><a href="#kexi">Kexi</a></li>
@@ -225,11 +225,9 @@
   <li>Fixed leaving from "editing" state on "accept row changes" or moving 
    to other record</li>
   <li>Custom widget factories can be now loaded properly</li>
-  <li>Yes/No field default value does not work properly
-  (for required field: if you add a check-box that points to a Yes/No 
-  field that has a default value the default value is not accepted) (<a href="http://bugs.kde.org/134976">bug #134976</a> )
-  <li>Fixed updating property values of enum type
-  <li>Hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)
+  <li>Yes/No field default value does not work properly (for required field: if you add a check-box that points to a Yes/No field that has a default value the default value is not accepted) (<a href="http://bugs.kde.org/134976">bug #134976</a> )</li>
+  <li>Fixed updating property values of enum type</li>
+  <li>Hide "Editor type" property for auto fields (<a href="http://bugs.kde.org/134773">bug #134773</a>)</li>
   <li>The first widget of a given kind should be named "widget" by default, the second - "widget2" and so on.</li>
 </ul>
 
@@ -292,8 +290,7 @@
   <li>Fixed repainting after "Edit->Clear Table Contents" action</li>
   <li>Fixed problem with editing floating-point values when there's default value set to 0.0</li>
   <li>Fixed displaying values for combobox fields</li>
-  <li>It is now possible to have empty combobox item: selecting it clears 
-  the value of combobox</li>
+  <li>It is now possible to have empty combobox item: selecting it clears the value of combobox</li>
 </ul>
 
 <em>Database Support Library (KexiDB)</em>
@@ -311,9 +308,7 @@
  <li>Do not try to insert default values into a column with unique 
   flag declared (or even primary key)</li>
  <li>Fixed constructing ORDER BY part of SQL statements (ambiguous fields)</li>
- <li>When creating "columns by name" cache, also remember "table.alias" identifiers</li>
-  <li>Use COUNT(*), not COUNT()</li>
-  <li>Added support for ORDER BY clause</li>
+ <li>When creating "columns by name" cache, also remember "table.alias" identifiers</li> <li>Use COUNT(*), not COUNT()</li> <li>Added support for ORDER BY clause</li>
 </ul>
 
  <em>Database Drivers</em>
