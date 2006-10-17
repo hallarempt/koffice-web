@@ -171,9 +171,9 @@ are distributed by KDE servers."
 
 $faq->addQuestion("Is KOffice available on CD?",
 "Most Linux distributions ship KOffice. So if you have an up-to-date
- Linux distribution, you probably are lucky.  I do not know of any other operating
- system vendors who ship KOffice and I do not know about any separate CDs.
- The KOffice project itself does not sell any CD-ROMs."
+ Linux distribution, you probably are lucky.
+ A <em>Live CD</em> of KOffice 1.6 is available for
+ <a href=\"http://www.koffice.org/download/kofficelivecd.php\">download</a>."
 );
 
 

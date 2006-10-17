@@ -22,13 +22,39 @@
   <h2>Download</h2>
 
   <p>The MDB plugin is currently distributed as separate
-  plugin for Kexi, but may be packaged for your distribution.</p>
+  plugin for Kexi, but may be packaged for your distribution:</p>
 
-  <p>The source code for the MDB plugin for KOffice&nbsp;1.5 (and
-  Kexi&nbsp;1.0) is available from <a
-  href="ftp://ftp.kde.org/pub/kde/stable/apps/KDE3.x/database/keximdb-1.0.tar.gz"
-  >the KDE ftp server</a>.  You may also be able to find it packaged
-  for your distribution.</p>
+  <table>
+    <tr>
+      <th>Distribution</th>
+      <th>Package Name</th>
+    </tr>
+    <tr>
+      <td><a href="http://www.debian.org/">Debian</a></td>
+      <td>
+	<a href="http://packages.debian.org/kexi-mdb-plugin">kexi-mdb-plugin</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="http://www.kubuntu.org/">Ubuntu/Kubuntu</a></td>
+      <td>
+	<a href="http://packages.ubuntu.com/kexi-mdb-driver">kexi-mdb-driver</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="http://www.freebsd.org/">FreeBSD</a></td>
+      <td>
+	<a href="http://www.freebsd.org/cgi/ports.cgi?query=keximdb">
+	  ports/databases/keximdb
+	</a>
+      </td>
+    </tr>    
+  </table>
+
+  <p>The source code for the MDB plugin for KOffice&nbsp;1.6 (and
+  Kexi&nbsp;1.1) is available from <a
+  href="ftp://ftp.kde.org/pub/kde/stable/koffice-1.6.0/src/keximdb-1.1.0.tar.gz"
+  >the KDE ftp server</a>.</p>
 
   <h2>Status</h2>
 

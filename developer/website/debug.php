@@ -29,10 +29,12 @@ web site for development on your computer.  <b>It assumes that you have
 distribution that provides 
 <a href="http://httpd.apache.org/docs/2.0/">Apache 2</a> and 
 <a href="http://www.php.net/">PHP4</a> packages.  The instructions
-have been tested on <a href="http://www.kubuntu.org/">Kubuntu</a>.</p>
+have been tested on <a href="http://www.kubuntu.org/">Kubuntu</a>
+and <a href="http://www.debian.org/">Debian</a>.</p>
 
-<p>It also assumes that you are able to download about 40Mb of website
-sources using Subversion.</p>
+<p>It also assumes that you are able to download the sources for the
+entire website using Subversion.  Currently, this is about a 100MB
+download, and the working copy on disk will take about 200MB.</p>
 
 <p>The KOffice site (and KDE sites generally) need PHP to be
 configured in a certain way, for example to be able to find the
@@ -108,7 +110,7 @@ contents:</p>
 NameVirtualHost test.koffice.org
 &lt;VirtualHost 127.0.0.1&gt;
     DocumentRoot /opt/koffice-www
-    ErrorDocument 404 /opt/koffice-www/404.php
+    ErrorDocument 404 /404.php
     ServerName test.koffice.org
     ErrorLog /opt/koffice-www/logs/kde-error_log
     CustomLog /opt/koffice-www/logs/kde-access_log common
@@ -141,21 +143,18 @@ is done as root by:</p>
 <h3>Step 4:Modify the checkout for your system</h3>
 
 <p>In the <code>/opt/koffice-www</code> folder, there's a file called
-<code>.htaccess</code>.  This file needs to be modified to suit your
-system.</p>
+<code>.htaccess</code>.  This file is used by the KOffice web server
+to run PHP as a CGI application.  However, these instructions describe
+setting up PHP as an Apache module, and the file causes problems
+here.</p>
 
-<p>Change the line that says:</p>
+<p>These problems can be corrected by simply deleting the file:</p>
 
 <pre>
-php_value include_path .:/home/groups/k/ko/koffice/htdocs/media/includes
+rm /opt/koffice-www/.htaccess
 </pre>
 
-to read:
-<pre>
-php_value include_path .:/opt/koffice-www/media/includes
-</pre>
-
-<b>It's important that you don't commit this change!</b>
+<b>It's important that you don't remove the file from the repository!</b>
 
 <h3>Step 5: Test your installation</h3>
 <p>You should now be able to visit
