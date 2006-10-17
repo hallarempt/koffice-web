@@ -408,7 +408,7 @@
         <li>Simplify acquiring screen shots (<a href="http://bugs.kde.org/134527">bug #134527</a>)
         <li>Remember opacity setting in Drop Shadow (<a href="http://bugs.kde.org/134563">bug #134563</a>)
         <li>Fix so that the rightly marked filters got displayed in the filters gallery dialog
-        <li>New icons set for the too
+        <li>New icons set for the toolbox
         <li>Fix display of masks (<a href="http://bugs.kde.org/134770">bug #134770</a>)
         <li>remember configuration of drop shadow (<a href="http://bugs.kde.org/134563">bug #134563</a>)
         <li>Fix a crash where the histogram docker would try to fetch selectedness outside of the consecutive area of the selection
