@@ -15,8 +15,8 @@
 <h3>Virtual machine</h3>
 If you want to test KOffice without rebooting and burning it on a CD, you can use VMPlayer or QEmu:
 <ul>
-<li><em>With vmplayer</em> you can download the config file for vmplayer <a href="KOffice16LiveCD.vmx">here</a>, and the vmplayer for your operating system at <a href="http://www.vmware.com/">VMWare's website</a> then use the command line <tt>vmplayer KOffice16LiveCD.vmx"</tt> </li>
-<li><em>With qemu</em> you can get i from <a href="http://fabrice.bellard.free.fr/qemu/">QEmu's website</a> and then launch from the command line: <tt>qemu -cdrom koffice16live.iso -boot d</tt></li>
+<li><em>With vmplayer</em> you can download the config file for vmplayer <a href="KOffice16LiveCD.vmx">here</a>, and the vmplayer for your operating system at <a href="http://www.vmware.com/">VMWare's website</a> then use the command line: <tt>vmplayer&nbsp;KOffice16LiveCD.vmx</tt></li>
+<li><em>With qemu</em> (which you can get from <a href="http://fabrice.bellard.free.fr/qemu/">QEmu's website</a>) boot the ISO image from the command line: <tt>qemu&nbsp;-cdrom&nbsp;koffice16live.iso&nbsp;-boot&nbsp;d</tt></li>
 </ul>
 
 <br />
