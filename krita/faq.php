@@ -8,7 +8,7 @@
 <?php
 $faq = new FAQ();
 $faq->addQuestion("Why is Krita part of KOffice?", "Krita started out as KImageShop inside KOffice because the KOffice libraries give us things for free we would have to
-    code ourselves otherwise, like filter handling, rich text tool and so on. Look at KOffice this side: text, numbers and images, both sides of your brain, creative
+    code ourselves otherwise, like filter handling, rich text tool and so on. Look at KOffice this way: text, numbers and images, both sides of your brain, creative
     and analytic!");
 $faq->addQuestion("But it's such a burden! I have to install not just all of KDE, but also all of KOffice. Just to get Krita!", "Well, first of all: strictly speaking
     you need just the kde and koffice libraries, but that's not the point. Would you rather have all that functionality duplicated in Krita (and every other application
