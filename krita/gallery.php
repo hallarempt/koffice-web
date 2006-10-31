@@ -86,8 +86,8 @@ for ($i = $start; $i < $end; $i++) {
 
     $gallery->addImage($image["small"], $image["kra"], $image["width"], $image["height"],
                        "[Screenshot]", "'" . $image["title"] . "'<br /> by " . $image["author"],
-                       "<i>" . $image["description"] . "</i><br />" . "Added " . $image["date"]
-                       . ", licensed as " . $image["license"]);
+                       "<i>" . $image["description"] . "</i><br />" . "Image added " . $image["date"]
+                       . " and is licensed under " . $image["license"]);
 
     if ($startNewRow == 1) {
         $gallery->startNewRow();
@@ -104,14 +104,15 @@ $gallery->show();
 <p>
 The Krita User Gallery offers users of Krita an opportunity to both show their work,
 and demonstrate some of Krita's capabilities. <emph>How to participate?</emph> Mail a Krita document to
-<a href="mailto:the @koffice.org address will come here">the maintainer(s) of this page</a>, along with a
+<a href="mailto:krita-gallery@kde.org">the maintainer(s) of this page</a>, along with a
 suitable license that you license the native Krita file under, and some info about your work. Then you can hope that it will
 be selected for publication here <tt>:)</tt>.
 </p>
 <p>
 A suitable license is a license that is reasonably free enough so that we can safely publish the file along with a small screenshot,
 and possibly let other people play with it. A nice license is the <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public License</a>,
-but most of the <a href="http://creativecommons.org/">Creative Commons</a> licenses will also suffice. Please make sure that if you use
+but some of the <a href="http://creativecommons.org/">Creative Commons</a> licenses will also suffice. Basically it would be very cool if people
+not only could look in awe at your paintings, but could also experiment for themselves with them. Please make sure that if you use
 external material (like photographs made by other people), that you have the proper license (and comply with it) so that you (and we) can redistribute the derivative
 work under your chosen license. The document needs to be sent in Krita's native file format, and preferably contains the image as you made it, including
 use of group and adjustment layers.
