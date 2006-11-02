@@ -11,13 +11,12 @@
 
 $gallery = new ImageGallery("KWord Screenshots");
 
-$gallery->addImage("pics/bidi_2005_09_270.png",
- "pics/bidi_2005_09.png",
+$gallery->addImage("pics/bidi-chinese_2006_10_270.png",
+ "pics/bidi-chinese_2006_10.png",
  "270", "200",
  "[Screenshot KWord 1.4 with bi-directional text]", 0 ,
- "Seamless support for left-to-right and right-to-left text:<br />
-  Note the text selection starting in left-to-right<br />
-  text and ending in right-to-left text here.");
+ "Seamless support for left-to-right and right-to-left text<br />
+  Chinese menu");
 $gallery->addImage("pics/mars_2005_09_270.png",
  "pics/mars_2005_09.png",
  "270", "200",
