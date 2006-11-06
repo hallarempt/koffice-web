@@ -15,8 +15,6 @@ $gallery->addImage("pics/sunflower_2005_09_270.png", "pics/sunflower_2005_09.png
 $gallery->show();
 ?>
 
-<p>More older screenshots can be <a href="http://www.xs4all.nl/~rwlbuis/karbon/pics/">found at this site</a>.</p>
-
  <br />
  <hr width="30%" align="center" />
  <p>
