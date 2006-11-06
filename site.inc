@@ -24,4 +24,5 @@ $kexiversion='1.1.0';
 $kplatoversion='0.6.0';
 
 $showedit = false;
+$templatepath = "newlayout/";
 ?>
