@@ -24,7 +24,6 @@
 </ul>
 
 <h3 id="newfeatures">New Features</h3>
-<ul>
     <em>Kexi</em>
         <ul>
             <li>Support for declaring parameter queries in Design and SQL view; user is asked for entering value of a parameter in a dialog window before the query is executed.</li>
@@ -34,7 +33,6 @@
         <ul>
             <li>Color levels filter</li>
         </ul>
-</ul>
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
