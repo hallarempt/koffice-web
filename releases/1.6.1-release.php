@@ -94,7 +94,7 @@ include "md5-koffice-1.6.1.inc"
   </li>
   <li>
     <div align="justify">
-    <a href="http:///">lcms</a> &gt;= 1.15 for handling color
+    <a href="http://www.littlecms.com/">lcms</a> &gt;= 1.15 for handling color
     spaces.  1.14 should not be used due to severe bugs.
     </div>
   </li>
