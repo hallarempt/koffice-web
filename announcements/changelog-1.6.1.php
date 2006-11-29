@@ -5,8 +5,10 @@
   include("header.inc");
 ?>
 <p>
-  The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 1.6 (latest stable version). This is mainly a bug fix release, but some <a href="#newfeatures">new feature</a> were added to krita and kexi.
+  The following summarizes the major changes to the KOffice suite since the
+  release of KOffice 1.6 (latest stable version). This is mainly a bug fix 
+  release, but some <a href="#newfeatures">new feature</a> were added to krita
+   and kexi.
 </p>
 <ul>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
