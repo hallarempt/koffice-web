@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+f7b90b46b79019edc60761a6bff2d387  koffice-1.6.1.tar.bz2
+2af9ee48900b76f13c7b205f9f44e454  koffice-l10n/koffice-l10n-ca-1.6.1.tar.bz2
+a90d191f1d84bd5c8090ca6e004253c4  koffice-l10n/koffice-l10n-cs-1.6.1.tar.bz2
+4f5d6aef468aeb4b80c6b079e1399110  koffice-l10n/koffice-l10n-cy-1.6.1.tar.bz2
+34ac13ce5bf8452f5f8b44686d03781a  koffice-l10n/koffice-l10n-da-1.6.1.tar.bz2
+9ec1030ec8f55b4689a4664a3032050d  koffice-l10n/koffice-l10n-de-1.6.1.tar.bz2
+c2028907c0675534694b5bad4c85ac0f  koffice-l10n/koffice-l10n-el-1.6.1.tar.bz2
+0c8edcc2fb6570ff7629e610580cac2f  koffice-l10n/koffice-l10n-en_GB-1.6.1.tar.bz2
+e3095320b087fdbaf9dea4ca7384c4e7  koffice-l10n/koffice-l10n-es-1.6.1.tar.bz2
+d7e32d741c284880ff01530d956cd524  koffice-l10n/koffice-l10n-et-1.6.1.tar.bz2
+33bb005893d82eeebbc1dc62495e018a  koffice-l10n/koffice-l10n-eu-1.6.1.tar.bz2
+dc0b99fe0b1c2f0bdc5823804cf5f7f7  koffice-l10n/koffice-l10n-fi-1.6.1.tar.bz2
+74a658f3f323f016b202cc4e2063da19  koffice-l10n/koffice-l10n-fr-1.6.1.tar.bz2
+406eef87386bea965c9d0ec224b0a6aa  koffice-l10n/koffice-l10n-hu-1.6.1.tar.bz2
+5fc389a6885af2acce7e5b9b48a9ce12  koffice-l10n/koffice-l10n-it-1.6.1.tar.bz2
+39ba5b3618221ee6fa896aa16aa9f6a9  koffice-l10n/koffice-l10n-ja-1.6.1.tar.bz2
+512650fbc0638ac0f0bae2864f295cca  koffice-l10n/koffice-l10n-lv-1.6.1.tar.bz2
+ff1d6abe79bf4b4239ebaccc2509c35e  koffice-l10n/koffice-l10n-ms-1.6.1.tar.bz2
+65d3a4d15e8911faf43d1aa9c6f7b6a7  koffice-l10n/koffice-l10n-nb-1.6.1.tar.bz2
+006bc0ff8b292fc8836c989d244a45bc  koffice-l10n/koffice-l10n-nl-1.6.1.tar.bz2
+ca6e0bd7de872e51f342cd153598981b  koffice-l10n/koffice-l10n-pl-1.6.1.tar.bz2
+c4e59783b4b93a50c7e5e9b53c864caa  koffice-l10n/koffice-l10n-pt-1.6.1.tar.bz2
+71efdf80a256b20baece5e58f2d4527a  koffice-l10n/koffice-l10n-pt_BR-1.6.1.tar.bz2
+d72bb7ce7fe685c4c92940dca4cf4bf8  koffice-l10n/koffice-l10n-ru-1.6.1.tar.bz2
+63b2d698040b2f5ece72e7ca67407669  koffice-l10n/koffice-l10n-sk-1.6.1.tar.bz2
+0c40d723b64bf15fbb8c78ebce17dcb3  koffice-l10n/koffice-l10n-sl-1.6.1.tar.bz2
+ff1137b214460cfc6c647643da08e098  koffice-l10n/koffice-l10n-sr-1.6.1.tar.bz2
+ed4eab803a7c0443ff3c4839e32757d1  koffice-l10n/koffice-l10n-sr@Latn-1.6.1.tar.bz2
+fd5ebf8d8480797f84121f9efcb00823  koffice-l10n/koffice-l10n-sv-1.6.1.tar.bz2
+909ed845836e7219a4cf6710ee128846  koffice-l10n/koffice-l10n-tr-1.6.1.tar.bz2
+dcab018c147831f47543b082f1beb5a5  koffice-l10n/koffice-l10n-uk-1.6.1.tar.bz2
+055cf1eed59bc1e491063d4ffa883d9b  koffice-l10n/koffice-l10n-zh_CN-1.6.1.tar.bz2
+230b02b893873f1fd55f002509549793  koffice-l10n/koffice-l10n-zh_TW-1.6.1.tar.bz2
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.3 (GNU/Linux)
+
+iD8DBQFFZMfWSsbPQ6vX79cRAoK0AJ9H/V1AWlTTzDW2Y4ymycTO2xBBLQCfdCKq
+zfXSrnT53ocL8VJVIkTBdx8=
+=3ROj
+-----END PGP SIGNATURE-----

@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 # run it with perl md5sum2table.pl < MD5SUM > md5-koffice-1.5-rc1.inc
 #adjust these two variables to the current version
-$VERSION="1.6.0";
+$VERSION="1.6.1";
 $STATUS="stable";
 
 # team names (from kde-i18n/teamnames)
