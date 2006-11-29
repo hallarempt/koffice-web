@@ -9,7 +9,7 @@
   DATELINE November 29, 2006<br />
   FOR IMMEDIATE RELEASE
 </p>
-<?php  include("languages-1.6.1.inc"); ?>
+<!-- <?php  include("languages-1.6.1.inc"); ?>  -->
 <h2>
   KDE Ships New Release of Free Integrated Office Suite
 </h2>
