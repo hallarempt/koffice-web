@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.5.1 Changelog';
+  $page_title ='KOffice 1.6.1 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -42,9 +42,7 @@
 </ul>
 
 <h3 id="kword">KWord</h3>
-<ul>
-    <li> (<a href="http://bugs.kde.org/">bug #</a>)</li>
-</ul>
+<p>No changes in Kugar</p>
 
 <h3 id="koshell">KOffice Workspace (koshell)</h3>
 <p>No changes in KOShell</p>
@@ -236,14 +234,6 @@ text nodes may appear</li>
 <h3 id="kugar">Kugar</h3>
 
 <p>No changes in Kugar</p>
-
-<h3 id="filters">Filters</h3>
-
-<em>KWord:</em>
-<ul>
-    <li> (<a href="http://bugs.kde.org/">bug #</a>)</li>
-</ul>
-
 
 <?php
   include("footer.inc");
