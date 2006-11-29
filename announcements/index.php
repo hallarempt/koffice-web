@@ -10,6 +10,11 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>29 November 2006</strong>
+ - <a href="announce-1.6.1.php">KOffice 1.6.1 Announcement</a>
+<br />"<em>New features in Krita and Kexi, lots of bugfixes.</em>"
+<p />
+
 <strong>10 September 2006</strong>
  - <a href="announce-1.6-beta1.php">KOffice 1.6-beta 1 Announcement</a>
 <br />"<em>New features in Krita, Kexi and KFormula, bugfixes.</em>"
