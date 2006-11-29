@@ -15,6 +15,17 @@ KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">m
 <br />"<em>New features in Krita and Kexi, lots of bugfixes.</em>"
 <p />
 
+<strong>16 October 2006</strong>
+ - <a href="announce-1.6.1.php">KOffice 1.6 Announcement</a>
+<br />"<em>Lots of new features everywhere, but especially in Krita and
+Kexi. Also a big number of bugfixes.</em>"
+<p />
+
+<strong>27 September 2006</strong>
+ - <a href="announce-1.6-rc1.php">KOffice 1.6 Release Candidate 1 Announcement</a>
+<br />"<em>No new features, but many bugfixes all over.</em>"
+<p />
+
 <strong>10 September 2006</strong>
  - <a href="announce-1.6-beta1.php">KOffice 1.6-beta 1 Announcement</a>
 <br />"<em>New features in Krita, Kexi and KFormula, bugfixes.</em>"
