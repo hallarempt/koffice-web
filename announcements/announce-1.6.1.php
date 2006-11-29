@@ -22,9 +22,8 @@
 
 <h2>Highlights</h2>
 <p align="justify">
-  Since this is a bugfix release, there are almost no new features.  
-  Two of the components, Krita and Kexi, have enhancements, the other
-  have just bugfixes.
+  Since this is a bugfix release, only two of the components, 
+  Krita and Kexi, added new features.
 </p>
 
 <h3>New Krita Feature and Many Bugfixes</h3>
@@ -38,11 +37,12 @@
 
 <h3>New Kexi Features and Many Bugfixes</h3>
 <p align="justify">
-    Kexi, the desktop database application competing with MS Access,
-    is the other application in KOffice that got some new features in
-    this release.  Among them can be metioned a new data aware combo
-    box, which will make programming easier.  There were also many
-    bugs fixed for Kexi for this release.
+    <a href="http://www.koffice.org/kexi/">Kexi</a>, the desktop database application 
+    competing with MS Access, is the other application in KOffice that got new features in
+    this release.  Among them can be metioned a new 
+    <a href="http://kexi-project.org/screenshots.html#1.1.1">combo box</a> taking 
+    advantage of the database relationships, and parameter queries. These features developed 
+    as an answer to user's demand, will make programming database solutions much easier.
 </p>
 
 <h3>Bugfixes For Most Other Components</h3>
@@ -55,8 +55,7 @@
 <h2>About KOffice</h2>
   <p align="justify">
     KOffice is an integrated office suite, today mostly for KDE, which utilizes
-    free and open standards for its document formats, component communication and
-    component embedding.
+    free and open standards like <a href="http://en.wikipedia.org/wiki/OpenDocument">OpenDocument</a> for its document formats, component communication and component embedding.
   </p>
   <p align="justify">
     This release includes:
@@ -132,7 +131,7 @@
     employs Kexi developer Jaros&#322;aw Staniek and sponsored the
     <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
     project which enabled the porting of KOffice applications to MS Windows,
-  <a href="http://code.google.com">Google</a> which through the "Summer of Code" program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
+  <a href="http://code.google.com">Google</a> which through the &quot;Summer of Code&quot; program supports Alfredo Beaumont to work on OpenDocument and MathML support for KFormula and Emmanuele Tamponi to work on a framework for curves in Krita.
   In addition, <a href="http://www.kde.org/donations.html">individual
   sponsors</a> (<a href="http://www.kde.org/support/">donate</a>),
   provide significant support for KDE and KOffice. Thanks!
