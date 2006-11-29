@@ -23,15 +23,17 @@
 <li><a href="#filters">Filters</a></li>
 </ul>
 
-<h3 id="newfeatures">New features</h3>
+<h3 id="newfeatures">New Features</h3>
 <ul>
-    <li><em>Kexi</em>:
+    <em>Kexi</em>
         <ul>
-            <li>Support for parameter queries in Design and SQL view; user is asked for entering value of a parameter in a dialog window.</li>
-            <li>Data-aware combo box is for use with forms and tabular views; data source for the combo box can be defined in the Table Designer.</li>
+            <li>Support for declaring parameter queries in Design and SQL view;�user is asked for entering value of a parameter in a dialog window before the query is executed.</li>
+            <li>Support for Data-aware combo boxes in the Data Table View and Form View, i.e. lookup columns (<a href="http://kexi-project.org/screenshots.html#1.1.1" target="_blank">screenshots</a>. Table Designer provides a tool for defining the lookup columns, i.e. data source for combo boxes (<a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction" target="_blank">details</a>).</li>
         </ul>
-    </li>
-    <li><em>Krita</em>: color levels filter</li>
+    <em>Krita</em>
+        <ul>
+            <li>Color levels filter</li>
+        </ul>
 </ul>
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
@@ -65,7 +67,7 @@
 <h3 id="kpresenter">KPresenter</h3>
 
 <ul>
-    <li>border to the text box when open with OO allways save the stroke property (<a href="http://bugs.kde.org/136595">bug 136595</a>)</li>
+    <li>border to the text box when open with OO allways save the stroke property�(<a href="http://bugs.kde.org/136595">bug 136595</a>)</li>
     <li>fix time duration of the presentation option is not saved (<a href="http://bugs.kde.org/136364">bug 136364</a>)</li>
     <li>fix total number of pages variable doesn't work (<a href="http://bugs.kde.org/136363">bug 136363</a>)</li>
     <li>Fix compilation on Solaris (<a href="http://bugs.kde.org/135830">bug 135830</a>)</li>
@@ -75,22 +77,19 @@
 
 <h3 id="kivio">Kivio</h3>
 <ul>
-    <li> Fix compilation with kdelibs-3.3</li>
+    <li>Fix compilation with kdelibs-3.3</li>
 </ul>
 
 <h3 id="kexi">Kexi</h3>
 <ul>
-    <li>Simple_Database.kexi example updated: combo boxes are now used; example data looks better</li>
-    <li>multivalidator accepts everything by default (this avoids blocking data entry e.g. for text fields that have no specific validator assigned)</li>
-    <li><em>Main Window</em>
+    <em>Main Window</em>
     <ul>
         <li>switch contents of custom property tabs after switching the current tab/window (needed for Table Designer's tab)</li>
         <li>added a warning message box with "Errors encountered during loading plugins" message, controled by dontShowWarningsRelatedToPluginsLoading configuration setting.</li>
         <li>groups and items for nonexisting plugins are not visible now</li>
         <li>accessibility: property editor can be focused using an accelerator key; Alt+2 now focuses main area and Alt+3 focuses Property Editor</li>
     </ul>
-    </li>
-    <li><em>Query designer</em>
+    <em>Query Designer</em>
     <ul>
         <li>propery initialize newly appended rows</li>
         <li>fixed setting up sorting in the design view</li>
@@ -100,21 +99,14 @@
         <li>refresh design view after a sequence of switches: text view -> data view -> design view</li>
         <li>column sorting is also supported for columns with cleared "visible" flag</li>
         <li>SQL view's section header now provides an accelerator</li>
-    </ul>
-    </li>
-    <li><em>Queries</em>
-    <ul>
         <li>fixed retrieving parameters of type Text</li>
     </ul>
-    </li>
-    <li><em>KexiDB</em>
+    <em>Database Support Library (KexiDB)</em>
     <ul>
         <li>Parser: improved types evaluation for expressions</li>
         <li>kexi__objectdata.o_data field type changed from BLOB to LongText (backward compatible) to improve human-readability</li>
-        <li>saving "lookup column" metadata supported</li>
     </ul>
-    </li>
-    <li><em>Forms</em>
+    <em>Forms</em>
     <ul>
         <li>fixed crash when an autofield's subwidget is painted but the parent is about to be deleted</li>
         <li>fixed handling Ctrl+Delete key for "Delete current row" action</li>
@@ -122,25 +114,22 @@
         <li>fixed displaying Date/Time values</li>
         <li>fixed problem with setting "invalid" flag for fields with invalid data source</li>
         <li>database-aware combo box form widget works, improved data displaying, mouse and keyboard handling</li>136688
+        <li>display proper record when a new row was saved and user moved to previous record</li>
+        <li>fixed validating Big Integer numbers</li>
         <li>displaying dates (e.g. with dd.mm.yyyy format, <a href="http://bugs.kde.org/136688">bug #136688</a>)</li>
-        <li>do not block Escape key if there are no data changes to cancel; do not block shortcuts like Shift+Left arrow</li>
-        <li>fixed default size of combo box widgets</li>
-        <li>removed crash when a combobox without a data source was clicked</li>
         <li>fixed displaying contents "Data Source" property for multiple selections; unnecessary updates removed (GUI is updated only after adding the last widget to the selection)</li>
         <li>fixed displaying properties</li>
         <li>removed crash on close and problems with displaying properties</li>
         <li>do not update the property editor for every form (only one is active anyway)</li>
     </ul>
-    </li>
-    <li><em>Table Designer</em>
+    <em>Table Designer</em>
     <ul>
         <li>Byte datatype is always set to unsigned now</li>
         <li>"Double precision" datatype is now the default for the floating point type group instead of Float (so we get better precision by default)</li>
         <li>"combo" icon is displayed near the field name that have lookup column defined</li>
         <li>"Lookup column" property tab added to the property pane</li>
     </ul>
-    </li>
-    <li><em>Table View</em>
+    <em>Data Table View</em>
     <ul>
         <li>fixed updating contents of the combobox's internal text editor after pressing F2 or Enter key</li>
         <li>fixed possible crash on application's close</li>
@@ -151,15 +140,15 @@
         <li>fixed displaying visible values (usually a text) for lookup columns when there's a default value defined in the referenced table</li>
         <li>better displaying tooltips for columns with lookup data</li>
         <li>sorting columns with lookup data works</li>
-        <li>various improvements for combo boxes</li>
-        <li>fixed handling data in lookup fields and cursor moving</li>
-        <li>fixed adjusting width of column containing lookup field</li>
         <li>display proper record when a new row was saved and user moved to previous record (thanks to Sander Koning)</li>
-        <li>fixed possible crash inside the row buffer</li>
         <li>fixed validating Big Integer numbers</li>
         <li>fixed drawing selection highlighting for the horizontal header immediately after scrolling the table</li>
-    </ul>
-    </li>
+        <li>multivalidator accepts everything by default (this avoids blocking data entry e.g. for text fields that have no specific validator assigned)</li>
+    </ul>
+    <em>Examples</em>
+    <ul>
+    <li>Simple_Database.kexi example updated: combo boxes are now used; example data looks better</li>
+    </ul>
 </ul>
 
 <h3 id="krita">Krita</h3>
@@ -217,9 +206,9 @@
     <li>actually set and read the data area( first step of a fix for <a href="http://bugs.kde.org/134194">bug 134194</a>)</li>
     <li>misinterpretation of the checkbox "first row as label" (<a href="http://bugs.kde.org/128758">bug 128758</a>)</li>
     <li>Pass the parameters to createLabelsAndLegend as references.</li>
-    <li>Working around a bug in the KChartWizardLabelsLegendPage:  The wizard does not have a checkbox   [x] relative   for the font sizes, so we now assume that font sizes are relative in all cases.(<a href="http://bugs.kde.org/124601">bug 124601</a>)</li>
+    <li>Working around a bug in the KChartWizardLabelsLegendPage: The wizard does not have a checkbox [x] relative for the font sizes, so we now assume that font sizes are relative in all cases.(<a href="http://bugs.kde.org/124601">bug 124601</a>)</li>
     <li>inclrease the default values for minimal font sizes, so that small, embedded charts will show small axis labels rather than 10 point size labels ...</li>
-    <li>in odf: Save axis titles.  Text only, but styles will follow</li>
+    <li>in odf: Save axis titles. Text only, but styles will follow</li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>

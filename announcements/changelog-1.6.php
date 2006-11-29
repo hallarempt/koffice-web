@@ -10,7 +10,7 @@
 </p>
 <ul>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
-<li><a href="#kword">KWo</a></li>
+<li><a href="#kword">KWord</a></li>
 <li><a href="#kspread">KSpread</a></li>
 <li><a href="#kpresenter">KPresenter</a></li>
 <li><a href="#kexi">Kexi</a></li>
@@ -111,7 +111,7 @@
     </ul>
 </ul>
 
-  <li>Other
+<em>Other</em>
     <ul>
       <li> Fix "Border is not drawn properly" (<a href="http://bugs.kde.org/128477">bug #128477</a>)
       <li> Fix crash in the series operation.
