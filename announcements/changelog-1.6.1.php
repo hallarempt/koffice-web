@@ -22,7 +22,7 @@
 <li><a href="#kplato">KPlato</a></li>
 <li><a href="#kchart">KChart</a></li>
 <li><a href="#kformula">KFormula</a></li>
-<li><a href="#filters">Filters</a></li>
+<!-- <li><a href="#filters">Filters</a></li> -->
 </ul>
 
 <h3 id="newfeatures">New Features</h3>
