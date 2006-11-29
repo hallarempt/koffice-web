@@ -203,12 +203,11 @@
 
 <h3 id="kchart">KChart</h3>
 <ul>
-    <li>actually set and read the data area( first step of a fix for <a href="http://bugs.kde.org/134194">bug 134194</a>)</li>
-    <li>misinterpretation of the checkbox "first row as label" (<a href="http://bugs.kde.org/128758">bug 128758</a>)</li>
-    <li>Pass the parameters to createLabelsAndLegend as references.</li>
-    <li>Working around a bug in the KChartWizardLabelsLegendPage: The wizard does not have a checkbox [x] relative for the font sizes, so we now assume that font sizes are relative in all cases.(<a href="http://bugs.kde.org/124601">bug 124601</a>)</li>
-    <li>inclrease the default values for minimal font sizes, so that small, embedded charts will show small axis labels rather than 10 point size labels ...</li>
-    <li>in odf: Save axis titles. Text only, but styles will follow</li>
+    <li>Actually set and read the data area (first step towards a fix for <a href="http://bugs.kde.org/134194">bug 134194</a>)</li>
+    <li>Fix misinterpretation of the checkbox "first row as label" (<a href="http://bugs.kde.org/128758">bug 128758</a>)</li>
+    <li>Work around a bug in the KChartWizardLabelsLegendPage: The wizard does not have a checkbox [x] relative for the font sizes, so we now assume that font sizes are relative in all cases.(<a href="http://bugs.kde.org/124601">bug 124601</a>)</li>
+    <li>Fix font issues in the axis labels</li>
+    <li>ODF: Save axis titles. Text only, but styles will follow</li>
 </ul>
 
 <h3 id="kformula">KFormula</h3>
