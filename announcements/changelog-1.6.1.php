@@ -25,13 +25,13 @@
 
 <h3 id="newfeatures">New features</h3>
 <ul>
-    <li><em>kexi</em>:
+    <li><em>Kexi</em>:
         <ul>
             <li>Support for parameter queries in Design and SQL view; user is asked for entering value of a parameter in a dialog window.</li>
             <li>Data-aware combo box is for use with forms and tabular views; data source for the combo box can be defined in the Table Designer.</li>
         </ul>
     </li>
-    <li><em>krita</em>: color levels filter</li>
+    <li><em>Krita</em>: color levels filter</li>
 </ul>
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
@@ -42,7 +42,7 @@
 </ul>
 
 <h3 id="kword">KWord</h3>
-<p>No changes in Kugar</p>
+<p>No changes in KWord</p>
 
 <h3 id="koshell">KOffice Workspace (koshell)</h3>
 <p>No changes in KOShell</p>
@@ -70,6 +70,7 @@
     <li>fix total number of pages variable doesn't work (<a href="http://bugs.kde.org/136363">bug 136363</a>)</li>
     <li>Fix compilation on Solaris (<a href="http://bugs.kde.org/135830">bug 135830</a>)</li>
     <li>Use xdg-utils (xdg-screensaver) when available, to enable/disable dpms+screensaver. As a benefit, kpresenter can now disable the gnome-screensaver or xscreensaver too, when not running in kde.</li>
+    <li>fix security problem in opening ppt file (CVE-2006-6120)
 </ul>
 
 <h3 id="kivio">Kivio</h3>
@@ -172,7 +173,7 @@
     <li>fix the size of the swappiness slider</li>
     <li>in YCbCrs colorspaces: disable profiles, as the only ycbcr profile we have seems to cause a lot more of trouble than it solves, and fix various problem of memory initialization as well (<a href="http://bugs.kde.org/136673">bug 136673</a>)</li>
     <li>fill tool does not fill entire selection if select-all has been used  (<a href="http://bugs.kde.org/135470">bug 135470</a>)</li>
-    <li>Implement convolution for 16 bit lab</li>
+    <li>implement convolution for 16 bit lab</li>
     <li>fix krita keeps producing windows when using Text tool with a tablet stylus (<a href="http://bugs.kde.org/136151">bug 136151</a>)</li>
     <li>fix colorspace independence advertisement in blur, color to alpha, minmax and unsharp mask</li>
     <li>repaint problem in adding semi-transparant text (<a href="http://bugs.kde.org/130607">bug 130607</a>)</li>
@@ -209,9 +210,7 @@
 </ul>
 
 <h3 id="kplato">KPlato</h3>
-<ul>
-    <li> (<a href="http://bugs.kde.org/">bug #</a>)</li>
-</ul>
+<p>No changes in KPlato</p>
 
 <h3 id="kchart">KChart</h3>
 <ul>
@@ -225,10 +224,10 @@
 
 <h3 id="kformula">KFormula</h3>
 <ul>
-    <li> Be more permissive with table loading, since
+    <li>be more permissive with table loading, since
 text nodes may appear</li>
-    <li>Increase checking while loading MathML / OpenDocument files</li>
-    <li>Fix loading of old KFO documents embedded in oll KWord format</li>
+    <li>increase checking while loading MathML / OpenDocument files</li>
+    <li>fix loading of old KFO documents embedded in all KWord format</li>
 </ul>
 
 <h3 id="kugar">Kugar</h3>
