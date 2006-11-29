@@ -26,7 +26,7 @@
 <h3 id="newfeatures">New Features</h3>
     <em>Kexi</em>
         <ul>
-            <li>Support for declaring parameter queries in Design and SQL view; user is asked for entering value of a parameter in a dialog window before the query is executed.</li>
+            <li>Support for declaring parameter queries in Design and SQL view; user is asked for entering value of a parameter in a dialog window before the query is executed.</li>
             <li>Support for Data-aware combo boxes in the Data Table View and Form View, i.e. lookup columns (<a href="http://kexi-project.org/screenshots.html#1.1.1" target="_blank">screenshots</a>. Table Designer provides a tool for defining the lookup columns, i.e. data source for combo boxes (<a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction" target="_blank">details</a>).</li>
         </ul>
     <em>Krita</em>
@@ -65,7 +65,7 @@
 <h3 id="kpresenter">KPresenter</h3>
 
 <ul>
-    <li>border to the text box when open with OO allways save the stroke property (<a href="http://bugs.kde.org/136595">bug 136595</a>)</li>
+    <li>border to the text box when open with OO allways save the stroke property (<a href="http://bugs.kde.org/136595">bug 136595</a>)</li>
     <li>fix time duration of the presentation option is not saved (<a href="http://bugs.kde.org/136364">bug 136364</a>)</li>
     <li>fix total number of pages variable doesn't work (<a href="http://bugs.kde.org/136363">bug 136363</a>)</li>
     <li>Fix compilation on Solaris (<a href="http://bugs.kde.org/135830">bug 135830</a>)</li>
@@ -79,7 +79,6 @@
 </ul>
 
 <h3 id="kexi">Kexi</h3>
-<ul>
     <em>Main Window</em>
     <ul>
         <li>switch contents of custom property tabs after switching the current tab/window (needed for Table Designer's tab)</li>
@@ -147,7 +146,6 @@
     <ul>
     <li>Simple_Database.kexi example updated: combo boxes are now used; example data looks better</li>
     </ul>
-</ul>
 
 <h3 id="krita">Krita</h3>
 
