@@ -37,7 +37,7 @@
     <em>Kexi</em>
         <ul>
             <li>Support for declaring parameter queries in Design and SQL view; user is asked for entering value of a parameter in a dialog window before the query is executed.</li>
-            <li>Support for Data-aware combo boxes in the Data Table View and Form View, i.e. lookup columns (<a href="http://kexi-project.org/screenshots.html#1.1.1" target="_blank">screenshots</a>. Table Designer provides a tool for defining the lookup columns, i.e. data source for combo boxes (<a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction" target="_blank">details</a>).</li>
+            <li>Support for Data-aware combo boxes in the Data Table View and Form View, i.e. lookup columns (<a href="http://kexi-project.org/screenshots.html#1.1.1" target="_blank">screenshots</a>). Table Designer provides a tool for defining the lookup columns, i.e. data source for combo boxes (<a href="http://kexi-project.org/wiki/wikiview/index.php?KexiDBLookupColumns#Introduction" target="_blank">details</a>).</li>
         </ul>
     <em>Krita</em>
         <ul>
