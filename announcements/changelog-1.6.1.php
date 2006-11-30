@@ -64,7 +64,7 @@
     <li>Fix bad newline character representation (<a
 href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <li>Fix undo/redo apparently is not recalculating formulas (<a href="http://bugs.kde.org/128383">bug 128383</a>)</li>
-    <li>Fixed wrong handling of unary operator before a function (<a href="http://bugs.kde.org/135131">bug 135131</a>)</li>
+    <li>Fix wrong handling of unary operator before a function (<a href="http://bugs.kde.org/135131">bug 135131</a>)</li>
     <li><em>OpenDocument</em>
     <ul>
         <li>KSpread does not support fixed sheet references yet, so eat the appropriate dollars on import.</li>
@@ -100,14 +100,14 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <em>Query Designer</em>
     <ul>
         <li>Propery initialize newly appended rows</li>
-        <li>Fixed setting up sorting in the design view</li>
-        <li>Fixed setting up string constants as criteria</li>
+        <li>Fix setting up sorting in the design view</li>
+        <li>Fix setting up string constants as criteria</li>
         <li>Show more error messages on opening query in design view (e.g. for unsupported column expressions)</li>
-        <li>Fixed saving relationships: removed too strict checking for datatypes when creating relationships (signedness)</li>
+        <li>Fix saving relationships: removed too strict checking for datatypes when creating relationships (signedness)</li>
         <li>Refresh design view after a sequence of switches: text view -> data view -> design view</li>
         <li>Column sorting is also supported for columns with cleared &quot;visible&quot; flag</li>
         <li>SQL view's section header now provides an accelerator</li>
-        <li>Fixed retrieving parameters of type Text</li>
+        <li>Fix retrieving parameters of type Text</li>
     </ul>
     <em>Database Support Library (KexiDB)</em>
     <ul>
@@ -116,18 +116,18 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     </ul>
     <em>Forms</em>
     <ul>
-        <li>Fixed crash when an autofield's subwidget is painted but the parent is about to be deleted</li>
-        <li>Fixed handling of Ctrl+Delete shortcut for &quot;Delete current row&quot; action</li>
-        <li>Fixed crash when &quot;Esc&quot; key is pressed to &quot;cancel row changes&quot; and a combobox widget is focused</li>
-        <li>Fixed displaying Date/Time values</li>
-        <li>Fixed problem with setting &quot;invalid&quot; flag for fields with invalid data source</li>
+        <li>Fix crash when an autofield's subwidget is painted but the parent is about to be deleted</li>
+        <li>Fix handling of Ctrl+Delete shortcut for &quot;Delete current row&quot; action</li>
+        <li>Fix crash when &quot;Esc&quot; key is pressed to &quot;cancel row changes&quot; and a combobox widget is focused</li>
+        <li>Fix displaying Date/Time values</li>
+        <li>Fix problem with setting &quot;invalid&quot; flag for fields with invalid data source</li>
         <li>Database-aware combo box form widget works, improved data displaying, mouse and keyboard handling (<a href="http://bugs.kde.org/136688">bug 136688</a>)</li>
         <li>Display proper record when a new row was saved and user moved to previous record</li>
-        <li>Fixed validating Big Integer numbers</li>
+        <li>Fix validating Big Integer numbers</li>
         <li>Displaying dates (e.g. with dd.mm.yyyy format, <a href="http://bugs.kde.org/136688">bug 136688</a>)</li>
-        <li>Fixed displaying contents &quot;Data Source&quot; property for multiple selections; unnecessary updates removed (GUI is updated only after adding the last widget to the selection)</li>
-        <li>Fixed displaying properties</li>
-        <li>Removed crash on close and problems with displaying properties</li>
+        <li>Fix displaying contents &quot;Data Source&quot; property for multiple selections; unnecessary updates removed (GUI is updated only after adding the last widget to the selection)</li>
+        <li>Fix displaying properties</li>
+        <li>Remove crash on close and problems with displaying properties</li>
         <li>Do not update the property editor for every form (only one is active anyway)</li>
     </ul>
     <em>Table Designer</em>
@@ -139,18 +139,18 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     </ul>
     <em>Data Table View</em>
     <ul>
-        <li>Fixed updating contents of the combobox's internal text editor after pressing F2 or Enter key</li>
-        <li>Fixed possible crash on application's close</li>
-        <li>Fixed copying/pasting values from the combo box (visible text is now copied/pasted)</li>
-        <li>Fixed copying time and date/time values to clipboard</li>
-        <li>Fixed pasting time, date and date/time values from clipboard</li>
+        <li>Fix updating contents of the combobox's internal text editor after pressing F2 or Enter key</li>
+        <li>Fix possible crash on application's close</li>
+        <li>Fix copying/pasting values from the combo box (visible text is now copied/pasted)</li>
+        <li>Fix copying time and date/time values to clipboard</li>
+        <li>Fix pasting time, date and date/time values from clipboard</li>
         <li>Visible values of types other than text or numbers are properly displayed (including images)</li>
-        <li>Fixed displaying visible values (usually a text) for lookup columns when there's a default value defined in the referenced table</li>
+        <li>Fix displaying visible values (usually a text) for lookup columns when there's a default value defined in the referenced table</li>
         <li>Better displaying tooltips for columns with lookup data</li>
         <li>Sorting columns with lookup data works</li>
         <li>Display proper record when a new row was saved and user moved to previous record (thanks to Sander Koning)</li>
-        <li>Fixed validating Big Integer numbers</li>
-        <li>Fixed drawing selection highlighting for the horizontal header immediately after scrolling the table</li>
+        <li>Fix validating Big Integer numbers</li>
+        <li>Fix drawing selection highlighting for the horizontal header immediately after scrolling the table</li>
         <li>Multivalidator accepts everything by default (this avoids blocking data entry e.g. for text fields that have no specific validator assigned)</li>
     </ul>
     <em>Examples</em>
@@ -161,7 +161,7 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
 <h3 id="krita">Krita</h3>
 
 <ul>
-    <li>Fix errors with the selection bounds (<a href="http://bugs.kde.org/136685">bug #136685</a>)</li>
+    <li>Fix errors with the selection bounds (<a href="http://bugs.kde.org/136685">bug 136685</a>)</li>
     <li>Fix the layout of a preferences panel and of the blur filter</li>
     <li>Re-instate Michael Thaler's superior scaling code for 8 bit cmyk, rgb and cmyk (because it's 8-bit channel dependent)</li>
     <li>Remove superfluous &quot;histogram&quot; from labels (<a href="http://bugs.kde.org/136978">bug 136978</a>)</li>
@@ -175,7 +175,7 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <li>Repaint problem in adding semi-transparant text (<a href="http://bugs.kde.org/130607">bug 130607</a>)</li>
     <li>Fix brush Shapes toolbar starts with wrong item (<a href="http://bugs.kde.org/130485">bug 130485</a>)</li>
     <li>Fix crop tool so clicking outside the image area works (<a href="http://bugs.kde.org/130481">bug 130481</a>)</li>
-    <li>Emboss with variable depth now doesn't destray alpha data anymore</li>
+    <li>Emboss with variable depth now doesn't destroy alpha data anymore</li>
     <li>Optimization in the convolution painter</li>
     <li>Fix the bluring with alphaness in a faster way but a little bit more hacky</li>
     <li>Fix crash with color to alpha and watercolor (<a href="http://bugs.kde.org/136671">bug 136671</a>)</li>
@@ -185,7 +185,7 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <li>Fix the fill tool going mad when use with the tablet (<a href="http://bugs.kde.org/133148">bug 133148</a>)</li>
     <li>Import/export eps files using graphics magick</li>
     <li>Add the forgra CMYK profile (public domain)</li>
-    <li>Fix of saving indexes pngs(<a href="http://bugs.kde.org/136122">bug 136122</a>)</li>
+    <li>Fix of saving indexed pngs (<a href="http://bugs.kde.org/136122">bug 136122</a>)</li>
     <li>Optimization in the raindrop filter</li>
     <li>Fix doesn't allow to use the float predictor for int images (<a href="http://bugs.kde.org/135649">bug 135649</a>)</li>
     <li>Allow reading and writing of float tiff</li>
@@ -212,7 +212,7 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
 <ul>
     <li>Actually set and read the data area (first step towards a fix for <a href="http://bugs.kde.org/134194">bug 134194</a>)</li>
     <li>Fix misinterpretation of the checkbox "first row as label" (<a href="http://bugs.kde.org/128758">bug 128758</a>)</li>
-    <li>Work around a bug in the KChartWizardLabelsLegendPage: The wizard does not have a checkbox [x] relative for the font sizes, so we now assume that font sizes are relative in all cases.(<a href="http://bugs.kde.org/124601">bug 124601</a>)</li>
+    <li>Work around a bug in the KChartWizardLabelsLegendPage: The wizard does not have a checkbox [x] relative for the font sizes, so we now assume that font sizes are relative in all cases (<a href="http://bugs.kde.org/124601">bug 124601</a>)</li>
     <li>Fix font issues in the axis labels</li>
     <li>ODF: Save axis titles. Text only, but styles will follow</li>
 </ul>
