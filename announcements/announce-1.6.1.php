@@ -22,7 +22,7 @@
 
 <h2>Highlights</h2>
 <p align="justify">
-  Since this is a bugfix release, only two of the components, 
+  Since this is a maintenance release, only two of the components, 
   Krita and Kexi, added new features.
 </p>
 
@@ -43,6 +43,12 @@
     <a href="http://kexi-project.org/screenshots.html#1.1.1">combo box</a> taking 
     advantage of the database relationships, and parameter queries. These features developed 
     as an answer to user's demand, will make programming database solutions much easier.
+</p>
+
+<h3>Security Fix in Powerpoint Import Filter</h3>
+<p align="justify">
+  There is a security issue in the import filter for Powerpoint .ppt
+  files that is fixed with this release.
 </p>
 
 <h3>Bugfixes For Most Other Components</h3>
