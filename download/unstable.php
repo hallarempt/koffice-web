@@ -7,8 +7,11 @@
 
 <p><b>Note</b>: <i>trunk</i> is now for the <i>Qt4/KDE4</i> port and does not compile right now. If you want to work on that, please send a mail to the koffice-devel mailing list.</p>
 
-<p>KOffice unstable is the next coming KOffice 1.6 version (for getting the 1.5 code, just change 1.6 to 1.5). You might want to get it in order to test it or to develop on it or to write docs. This is for advanced users.
+<p>KOffice unstable is the bugfix branch 1.6. You might want to get it in order to test it or to develop on it or to write docs. This is for advanced users.
 </p>
+<p>For KOffice <?php echo $currentversion; ?> from svn you additionally need:
+<a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
+<a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</p>
 <p>You need qt >3.3.0 + headers (devel or dev packages if you use qt from your distribution), kdelibs >= 3.4.0 + headers (devel or dev packages if you use kdelibs from your distribution), arts >=1.4
 </p>
 <p><tt>svn</tt> is in the subversion package from your distribution.</p>

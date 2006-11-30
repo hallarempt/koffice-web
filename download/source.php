@@ -17,8 +17,6 @@
 <h2><a name="requirements">Requirements</a></h2>
 <p>To compile KOffice you need:</p>
 <ul>
-<li>For KOffice <?php echo $currentversion; ?> or 1.6-branch versions: <a href="ftp://ftp.gnu.org/pub/gnu/automake/">Automake 1.6.1</a> and
-    <a href="ftp://ftp.gnu.org/pub/gnu/autoconf/">Autoconf 2.53</a>.</li>
 <li>a C++ compiler which supports exceptions (preferably
 <a href="http://gcc.gnu.org">a recent version of GCC</a>).
 (see <a href="http://gcc.gnu.org">http://gcc.gnu.org</a>
