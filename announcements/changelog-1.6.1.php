@@ -61,9 +61,10 @@
 <ul>
     <li>Kspread crashed when indirect() function used (<a href="http://bugs.kde.org/136326">bug 136326</a>)</li>
     <li>Crash due to changing values on a cell (<a href="http://bugs.kde.org/135628">bug 135628</a>)<li>
-    <li>Fix Bad newline character representation (<a href="http://bugs.kde.org/136181">bug 136181</a>)</li>
+    <li>Fix bad newline character representation (<a
+href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <li>Fix undo/redo apparently is not recalculating formulas (<a href="http://bugs.kde.org/128383">bug 128383</a>)</li>
-    <li>Fixed wrong handling of unary operator before a function(<a href="http://bugs.kde.org/135131">bug 135131</a>)</li>
+    <li>Fixed wrong handling of unary operator before a function (<a href="http://bugs.kde.org/135131">bug 135131</a>)</li>
     <li><em>OpenDocument</em>
     <ul>
         <li>KSpread does not support fixed sheet references yet, so eat the appropriate dollars on import.</li>
@@ -75,7 +76,7 @@
 <h3 id="kpresenter">KPresenter</h3>
 
 <ul>
-    <li>Border to the text box when open with OO allways save the stroke property (<a href="http://bugs.kde.org/136595">bug 136595</a>)</li>
+    <li>Border to the text box when open with OO always save the stroke property (<a href="http://bugs.kde.org/136595">bug 136595</a>)</li>
     <li>Fix time duration of the presentation option is not saved (<a href="http://bugs.kde.org/136364">bug 136364</a>)</li>
     <li>Fix total number of pages variable doesn't work (<a href="http://bugs.kde.org/136363">bug 136363</a>)</li>
     <li>Fix compilation on Solaris (<a href="http://bugs.kde.org/135830">bug 135830</a>)</li>
