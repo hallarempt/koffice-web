@@ -93,7 +93,7 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <em>Main Window</em>
     <ul>
         <li>Switch contents of custom property tabs after switching the current tab/window (needed for Table Designer's tab)</li>
-        <li>Added a warning message box with &quot;Errors encountered during loading plugins&quot; message, controled by dontShowWarningsRelatedToPluginsLoading configuration setting.</li>
+        <li>Added a warning message box with &quot;Errors encountered during loading plugins&quot; message, controlled by dontShowWarningsRelatedToPluginsLoading configuration setting</li>
         <li>Groups and items for nonexisting plugins are not visible now</li>
         <li>Accessibility: property editor can be focused using an accelerator key; Alt+2 now focuses main area and Alt+3 focuses Property Editor</li>
     </ul>
@@ -103,7 +103,7 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
         <li>Fixed setting up sorting in the design view</li>
         <li>Fixed setting up string constants as criteria</li>
         <li>Show more error messages on opening query in design view (e.g. for unsupported column expressions)</li>
-        <li>Fixed saving relationships: removed too strict checking for datatypes when crating relationships (signedness)</li>
+        <li>Fixed saving relationships: removed too strict checking for datatypes when creating relationships (signedness)</li>
         <li>Refresh design view after a sequence of switches: text view -> data view -> design view</li>
         <li>Column sorting is also supported for columns with cleared &quot;visible&quot; flag</li>
         <li>SQL view's section header now provides an accelerator</li>
@@ -117,14 +117,14 @@ href="http://bugs.kde.org/136181">bug 136181</a>)</li>
     <em>Forms</em>
     <ul>
         <li>Fixed crash when an autofield's subwidget is painted but the parent is about to be deleted</li>
-        <li>Fixed handling Ctrl+Delete key for &quot;Delete current row&quot; action</li>
+        <li>Fixed handling of Ctrl+Delete shortcut for &quot;Delete current row&quot; action</li>
         <li>Fixed crash when &quot;Esc&quot; key is pressed to &quot;cancel row changes&quot; and a combobox widget is focused</li>
         <li>Fixed displaying Date/Time values</li>
         <li>Fixed problem with setting &quot;invalid&quot; flag for fields with invalid data source</li>
-        <li>Database-aware combo box form widget works, improved data displaying, mouse and keyboard handling</li>136688
+        <li>Database-aware combo box form widget works, improved data displaying, mouse and keyboard handling (<a href="http://bugs.kde.org/136688">bug 136688</a>)</li>
         <li>Display proper record when a new row was saved and user moved to previous record</li>
         <li>Fixed validating Big Integer numbers</li>
-        <li>Displaying dates (e.g. with dd.mm.yyyy format, <a href="http://bugs.kde.org/136688">bug #136688</a>)</li>
+        <li>Displaying dates (e.g. with dd.mm.yyyy format, <a href="http://bugs.kde.org/136688">bug 136688</a>)</li>
         <li>Fixed displaying contents &quot;Data Source&quot; property for multiple selections; unnecessary updates removed (GUI is updated only after adding the last widget to the selection)</li>
         <li>Fixed displaying properties</li>
         <li>Removed crash on close and problems with displaying properties</li>
