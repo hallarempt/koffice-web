@@ -71,7 +71,7 @@
     (<a href="http://www.koffice.org/kpresenter/">KPresenter</a>);
   </li>
   <li>a flowchart application
-    (<a href="http://www.thekompany.com/projects/kivio/">Kivio</a>);
+    (<a href="http://www.koffice.org/kivio/">Kivio</a>);
   </li>
   <li>an integrated database application
     (<a href="http://www.koffice.org/kexi/">Kexi</a>);
@@ -91,7 +91,7 @@
 </p>
 <ul>
   <li>business quality reporting software
-    (<a href="http://www.thekompany.com/projects/kugar/">Kugar</a>)
+    (<a href="http://koffice.org/kugar/">Kugar</a>)
   </li>
   <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
@@ -126,7 +126,7 @@
   <a href="http://www.thekompany.com/">theKompany.com</a> (which has
   contributed Kivio and Kugar to KOffice),
   <a href="http://www.klaralvdalens-datakonsult.se/">Klar&auml;lvdalens
-  Datakonsult AB</a> (which has contributed KChart to KOffice),
+  Datakonsult AB</a> (which has contributed KDChart to KOffice),
   <a href="http://www.openoffice.com.pl/en/">OpenOffice Polska</a> which 
     employs Kexi developer Jaros&#322;aw Staniek and sponsored the
     <a href="http://wiki.kde.org/tiki-index.php?page=KDElibs+for+win32">KDElibs for win32</a>
@@ -144,7 +144,7 @@
   </font>
 </p>
 <p align="justify">
-  <font size="2">
+  <font size="-2">
   <em>Trademarks Notices.</em>
 
   KDE, K Desktop Environment and KOffice are trademarks of KDE e.V.
