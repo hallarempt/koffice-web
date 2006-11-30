@@ -91,7 +91,7 @@
 </p>
 <ul>
   <li>business quality reporting software
-    (<a href="http://koffice.org/kugar/">Kugar</a>)
+    (<a href="http://www.koffice.org/kugar/">Kugar</a>)
   </li>
   <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
