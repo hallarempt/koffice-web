@@ -39,7 +39,7 @@
 <p align="justify">
     <a href="http://www.koffice.org/kexi/">Kexi</a>, the desktop database application 
     competing with MS Access, is the other application in KOffice that got new features in
-    this release.  Among them can be metioned a new 
+    this release.  Among them can be mentioned a new 
     <a href="http://kexi-project.org/screenshots.html#1.1.1">combo box</a> taking 
     advantage of the database relationships, and parameter queries. These features developed 
     as an answer to user's demand, will make programming database solutions much easier.
