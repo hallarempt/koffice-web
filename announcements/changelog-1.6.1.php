@@ -25,6 +25,14 @@
 <!-- <li><a href="#filters">Filters</a></li> -->
 </ul>
 
+<h3 id="security">Security Fixes</h3>
+    <em>KPresenter Import Filter for PowerPoint</em>
+        <ul>
+	<li>There is a security issue in the import filter for MS
+    Powerpoint, that is fixed with this release.  Every KOffice user
+    should upgrade to 1.6.1 for this reason alone. </li>
+        </ul>
+
 <h3 id="newfeatures">New Features</h3>
     <em>Kexi</em>
         <ul>
