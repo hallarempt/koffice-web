@@ -10,6 +10,22 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>OpenDocument is Now a Real ISO Standard</title>
+<date>December 01, 2006</date>
+<fullstory>
+Yesterday ISO, the International Standards Organization, finally made
+the OpenDocument Format (ODF) specification into a real ISO standard
+by pushing the specification into stage 60/60.  This means that every
+government on earth could -- and indeed should -- specify ODF as the
+preferred format for storing office files.  This is relevant for
+KOffice since KOffice is the first office suite that used ODF as the
+default file format and is now only superseded by OpenOffice.org in
+the support of it. For more details, see:
+http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=43485&ICS1=35&ICS2=240&ICS3=30
+</fullstory>
+</item>
+
+<item>
 <title>KOffice 1.6.1 released</title>
 <date>November 29, 2006</date>
 <fullstory>
