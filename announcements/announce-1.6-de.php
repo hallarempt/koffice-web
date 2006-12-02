@@ -9,16 +9,16 @@
   DATUM 16. Oktober 2006
 </p>
 
-<p>ZUR SOFORTIGEN VERÖFFENTLICHUNG</>
+<p>ZUR SOFORTIGEN VERÖFFENTLICHUNG</p>
 <!-- <p>ACHTUNG: NICHT ZUR VERÖFFENTLICHUNG BESTIMMT!<p  -->
 
 <?php include("languages-1.6.inc"); ?>
 <h2>
-  Das KDE Projekt veröffentlicht neue Version des freien, integrierten Pakets von Büroanwendungen
+  Das KDE-Projekt veröffentlicht neue Version des freien, integrierten Pakets von Büroanwendungen
 </h2>
 <p align="justify">
   <p align="justify">Das Internet, 16. Oktober 2006.
-  Das <a href="http://www.kde.org/">KDE Projekt</a> gab heute die sofortige Verfügbarkeit von <a href="http://www.koffice.org/">KOffice</a> Version 1.6, der <a href="http://developer.kde.org/development-versions/koffice-1.6-release-plan.html">lange erwarteten</a> Version mit zahlreichen und grundlegenden Neuerungen, bekannt.</p>
+  Das <a href="http://www.kde.org/">KDE-Projekt</a> gab heute die sofortige Verfügbarkeit von <a href="http://www.koffice.org/">KOffice</a>-Version 1.6, der <a href="http://developer.kde.org/development-versions/koffice-1.6-release-plan.html">lange erwarteten</a> Version mit zahlreichen und grundlegenden Neuerungen, bekannt.</p>
 
 <h2>Bemerkenswerte Neuerungen und Änderungen</h2>
 <p align="justify">
@@ -36,7 +36,7 @@
 
 <h3>KFormula unterstützt OpenDocument und MathML</h3>
 <p align="justify">
-  Der Formeleditor von KOffice unterstützt jetzt OpenDocument und MathML und verwendet diese als Standard-Dateiformat. Mit einer Punktzahl von 70 % im <a href="http://www.w3.org/Math/testsuite">W3C MathML Test</a> überholt KFormula damit OpenOffice.org Formula (das entsprechende Programm des OpenOffice.org-Büropakets), welches nur 22 % erreichte. Das KOffice-Team sieht in dieser Tatsache ein gutes Beispiel dafür, wie sich die gut strukturierte Code-Basis von Koffice bezahlt macht, um Unterstützung für existierende Standards bieten zu können.
+  Der Formeleditor von KOffice unterstützt jetzt OpenDocument und MathML und verwendet diese als Standard-Dateiformat. Mit einer Punktzahl von 70 % im <a href="http://www.w3.org/Math/testsuite">W3C MathML Test</a> überholt KFormula damit OpenOffice.org Formula (das entsprechende Programm des OpenOffice.org-Büropakets), welches nur 22 % erreichte. Das Koffice-Team sieht in dieser Tatsache ein gutes Beispiel dafür, wie sich die gut strukturierte Code-Basis von Koffice bezahlt macht, um Unterstützung für existierende Standards bieten zu können.
 </p>
 
 <h3>Steuerbarkeit durch Skripte für KSpread, Krita and Kexi</h3>
@@ -108,7 +108,7 @@
       </li>
       <li>
         <div align="justify">
-        Folgende, neue Filter wurden hinzugefügt: "zufälliges Geräusch", "zufällige Auswahl", "Linsenkorrektur", sowie weitere Filter aus Krita-Erweiterungen ...
+        Folgende neue Filter wurden hinzugefügt: "zufälliges Rauschen", "zufällige Auswahl", "Linsenkorrektur", sowie weitere Filter aus Krita-Erweiterungen ...
         </div>
       </li>
       <li>
