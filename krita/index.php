@@ -100,7 +100,8 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
         </ul>
 
 <h3>Development</h3>
-	<p>Who's working on what, and what's planned to be done can be found on the <a href="http://wiki.kde.org/krita+todo">
+	<p>Who's working on what, and what's planned to be done can be found on the
+    <a href="http://wiki.koffice.org/index.php?title=Krita/ToDo">
 	Krita TODO and who's doing what</a> page.</p>
 
       <p>
