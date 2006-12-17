@@ -95,7 +95,7 @@ not in sync with those of KDE."
 $faq->addQuestion("Are you going to implement feature XYZ?",
 "First of all: certainly many features should be implemented. However,
 KOffice is mainly based on the work of volunteers and thus it often lacks the needed manpower
-to address many issues. If you are a developer, <a href=\"/getinvolved\">consider helping us</a>.
+to address many issues. If you are a developer, <a href=\"/getinvolved/\">consider helping us</a>.
 KOffice developers are always willing to help you if you want to get your hands dirty!"
 );
 
@@ -427,7 +427,7 @@ However KWord is far from being optimized for such a use."
 );
 
 $faq->addQuestion("Are there filters for OpenOffice Writer, MS-Word, StarWriter, RTF... ?",
-"Yes, there are filters for KWord. <a href=\"/filters\">See this page for documentation.</a></p>
+"Yes, there are filters for KWord. <a href=\"/filters/\">See this page for documentation.</a></p>
 <p>Some filters are not always working well, as implementing a filter depends on the available documentation
 of the file format.</p>
 <p>Please note that in current versions of KOffice, it is recommended to save as RTF (Rich Text Format) to exchange with MS-Word.
@@ -451,7 +451,7 @@ KSpread.</para>
 */
 
 $faq->addQuestion("Are there import filters for OpenOffice Calc, MS Excel... ?",
-"Yes, there are filters for KSpread. <a href=\"/filters\">See this page for documentation.</a></p>
+"Yes, there are filters for KSpread. <a href=\"/filters/\">See this page for documentation.</a></p>
 <p>Some filters are not always working good, as implementing a filter depends on the available documentation of the file format."
 );
 

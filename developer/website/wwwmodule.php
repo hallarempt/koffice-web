@@ -18,7 +18,7 @@ from www/areas/koffice. The update happens regularly, normally every
 ten minutes.  So when you commit into www, it can take a certain delay
 before the commit really appears on the web site.  If the main site
 has not updated, then it may have updated 
-<a href="http://www.kde/org/areas/koffice">here</a>.</p>
+<a href="http://www.kde.org/areas/koffice">here</a>.</p>
 
 <h2>Applying For Removing The Write Protection</h2>
 

@@ -71,7 +71,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 	<h3>Documentation</h3>
 
       <ul>
-        <li><a href="./Developing Krita Plugins.html">Developing Krita Plugins</a> - also a work in progress.
+        <li><a href="Developing%20Krita%20Plugins.html">Developing Krita Plugins</a> - also a work in progress.
            A manual on writing C++ plugins for Krita.</li>
         <li><a href="http://docs.kde.org/development/en/koffice/krita/"  target="_blank">Manual</a> - a work in
             progress, but rapid progress. By Sander Koning, Boudewijn Rempt, Casper Boemann and Cyrille Berger.</li>
@@ -82,11 +82,11 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
     <h3>Presentations</h3>
         
         <ul>
-            <li><a href="./talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
+            <li><a href="talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
         Info Tag in Augsburg. (German)</a></li>
-            <li><a href="./krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
+            <li><a href="krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
         2006.</a></li>
-            <li><a href="./akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></li>
+            <li><a href="akademy2005.pdf">The slides for the Krita presentation at aKademy 2005.</a></li>
         </ul>
 
 
@@ -101,7 +101,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 
 <h3>Development</h3>
 	<p>Who's working on what, and what's planned to be done can be found on the
-    <a href="http://wiki.koffice.org/index.php?title=Krita/ToDo">
+    <a href="http://wiki.koffice.org/index.php?title=Krita%2FToDo">
 	Krita TODO and who's doing what</a> page.</p>
 
       <p>
@@ -116,7 +116,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
       </p>
 
       <p>Read also the <a href="../developer/krita/index.php">Developing Krita</a> document
-      for a high-level overview of the architecture of Krita, and <a href="../developer/krita/painters.php">Painters
+      for a high-level overview of the architecture of Krita, and <a href="/developer/krita/painters.php">Painters
       and Paint Devices</a> for information on the 2D canvas library that is at the heart of
       Krita.</p>
 

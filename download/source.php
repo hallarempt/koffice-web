@@ -69,7 +69,7 @@ and the KDE development snapshots <a href="ftp://ftp.kde.org/pub/kde/snapshots/"
 contain a lot of different applications, from networking, graphics, multimedia to games. See the appropriate
 websites below "KDE Family" <a href="http://www.kde.org/">on the main KDE page</a>.</p>
 
-<p>See also the instructions for <a href="http://www.kexi-project.org/compiling.html">compiling kexi</a></p>
+<p>See also the instructions for <a href="http://www.kexi-project.org/wiki/wikiview/index.php?UsingSubversion">compiling kexi</a></p>
 
 
 <h2>Installing Qt and the base KDE packages</h2>

@@ -11,7 +11,7 @@
 <h2>Status</h2>
 <ul>
   <li><a href="status.php">Status matrix (development)</a> - status of filters in <code>trunk</code>.</li>
-  <li><a href="../../filters">Users status information</a> - status of filters in recent releases.</li>
+  <li><a href="/filters/">Users status information</a> - status of filters in recent releases.</li>
 </ul>
 
 <h2>Filter Developers</h2>
@@ -20,7 +20,7 @@
 see the <a href="/developer/fileformat/">file format section</a>.</p>
 
 <ul>
-        <li><a href="../fileformat">Information about OASIS OpenDocument</a></li>
+        <li><a href="/developer/fileformat">Information about OASIS OpenDocument</a></li>
         <li><a href="useful.php">Information about other file formats</a></li>
         <li><a href="libexport13design.php">Design of KWord's Libexport Library in KOffice 1.3</a></li>
 </ul>

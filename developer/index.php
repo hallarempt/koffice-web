@@ -9,32 +9,32 @@
    <h2>General Resources</h2>
       
    <ul>
-     <li><a href="generalinfo">General developer information</a></li>
+     <li><a href="generalinfo/">General developer information</a></li>
      <li><a href="keyboardmodifiers.php">KOffice-wide Mouse Interaction behavior</a></li>
      <li><a href="releasegoals2.0.php">KOffice 2.0 release goals</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
-     <li><a href="tasks">Tasks</a> (Volunteers needed!)</li>
-     <li><a href="filters">Filters</a></li>
-     <li><a href="fileformat">OASIS OpenDocument file format</a>
+     <li><a href="tasks/">Tasks</a> (Volunteers needed!)</li>
+     <li><a href="filters/">Filters</a></li>
+     <li><a href="fileformat/">OASIS OpenDocument file format</a>
          (also useful for filters)</li>
      <li><a href="http://developer.kde.org/development-versions/koffice-features.html">KOffice Feature Plan</a></li>
      <li><a href="http://developer.kde.org/development-versions/koffice-1.6-release-plan.html">KOffice Release Plan</a></li>
-     <li><a href="website">KOffice web site development</a></li>
+     <li><a href="website/">KOffice web site development</a></li>
    </ul>
 
    <h2>Application specific pages</h2>
 
    <ul>
      <li><a href="http://www.kexi-project.org/">Kexi Project Wiki</a></li>
-     <li><a href="krita">Krita development</a> and it's 
+     <li><a href="krita/">Krita development</a> and it's 
          <a href="http://wiki.kde.org/krita+todo">TODO list</a></li>
    </ul>
 
    <h2>Specific Resources</h2>
    <ul>
-     <li><a href="dcop">Scripting with DCOP</a></li>
-     <li><a href="constructive">Constructive Critics</a></li>
-     <li><a href="icons">Icon list</a> and the related <a href="icons/koffice_interface.odp">FOSDEM 2006 talk</a></li>
+     <li><a href="dcop/">Scripting with DCOP</a></li>
+     <li><a href="constructive/">Constructive Critics</a></li>
+     <li><a href="icons/">Icon list</a> and the related <a href="icons/koffice_interface.odp">FOSDEM 2006 talk</a></li>
    </ul>
    
    
@@ -50,7 +50,7 @@
    <h2>External Sites And Pages About KOffice</h2>
    
    <ul>
-     <li><a href="http://www.rule-project.org/article.php3?id_article=1">The RULE Mini Kde page</a></li>
+     <li><a href="http://www.rule-project.org/?q=node/6">The RULE Mini Kde page</a></li>
    </ul>
 
    <hr />

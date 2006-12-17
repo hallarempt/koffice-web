@@ -52,7 +52,7 @@
     
     <h2>Developer Information</h2>
     <p>We're always looking for developers to help improve the KOffice
-       filters.  There is <a href="../developer/filters">more information</a>
+       filters.  There is <a href="/developer/filters">more information</a>
        for interested developers.</p>
    
 <?php

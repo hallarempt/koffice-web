@@ -35,7 +35,7 @@
 <?php
     if ( $flag )
     { 
-        echo "<a href=\"apidocs\">Index</a>";
+        echo "<a href=\"apidocs/\">Index</a>";
     }
     else
     {

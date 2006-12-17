@@ -24,7 +24,7 @@ a single directory... It is more important that some part is done at all.)</p>
 
 <ul>
     <li><a href="features.php">KOffice feature matrix</a>.</li>
-    <li><a href="../filters">Filters</a> (see also<a href="../filters/status.php">status matrix</a>).</li>
+    <li><a href="/developer/filters">Filters</a> (see also<a href="../filters/status.php">status matrix</a>).</li>
     <li><a href="nontrivial.php">Non-trivial tasks</a>.</li>
     
     <li><a href="kdebugs.php">KOffice bugs in KDE Bugs</a>.</li>

@@ -27,7 +27,7 @@ Ask for more details to the contact if you are in doubt, we'll be very happy to 
       KSpread...</li>
 
       <li>fix small bugs if you find them and send a patch.
-      See also the <a href="/developer/tasks">Task List</a>.</li>
+      See also the <a href="/developer/tasks/">Task List</a>.</li>
       
       <!--<li>write documentation. In this case, please
       <a href="mailto:raphael.langerhorst@kdemail.net">contact Raphael Langerhorst, the documentation coordinator for KOffice</a>,
@@ -47,7 +47,7 @@ Ask for more details to the contact if you are in doubt, we'll be very happy to 
       <li>test KOffice extensively and send descriptive bug reports
       <a href="http://bugs.kde.org">via the "Help, Report Bug" mechanism</a> in the programs.</li>
 
-      <li><a href="/support">donate money or hardware</a>
+      <li><a href="/support/">donate money or hardware</a>
       Yes, this is needed in free software development, too,
       e.g. for extending the KOffice server.</li>
       

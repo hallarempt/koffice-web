@@ -98,12 +98,12 @@
 
     <tr>
     <td><a href="kchart/"><img src="pics/hi32-app-kchart.png" alt="KChart logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="kchart">KChart</a></b> - An integrated graph and chart drawing tool.</td>
+    <td><b><a href="kchart/">KChart</a></b> - An integrated graph and chart drawing tool.</td>
     </tr>
 
     <tr>
     <td><a href="kformula/"><img src="pics/hi32-app-kformula.png" alt="KFormula logo" width="32" height="32" border="0" /></a></td>
-    <td><b><a href="kformula">KFormula</a></b> - A powerful formula editor.</td>    </tr>
+    <td><b><a href="kformula/">KFormula</a></b> - A powerful formula editor.</td>    </tr>
 
     <tr>
     <td><a href="kugar/"><img src="pics/hi32-app-kugar.png" alt="Kugar logo" width="32" height="32" border="0" /></a></td>

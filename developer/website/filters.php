@@ -8,11 +8,11 @@
 <h2>Overview</h2>
 
 <p>This page describes how to update the <a
-   href="../../filters">filter status</a> information on the web site
+   href="/filters/">filter status</a> information on the web site
    to reflect changes in the KOffice filters.</p>
 
 <p>The filter status information is documented for <em>each
-   version</em> of KOffice in <a href="../../filters/1.4">tabular
+   version</em> of KOffice in <a href="/filters/1.4">tabular
    form</a>.  Optionally, each filter may also have a separate page
    that provides more information about the filter such as supported
    features, or workarounds for missing features.  These notes are

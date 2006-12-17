@@ -11,7 +11,7 @@
 
 	<h3>Contents</h3>
 	<ul>
-		<li><a href="./painters.php">Paint devices and Painters</a></li>
+		<li><a href="painters.php">Paint devices and Painters</a></li>
 		<li><a href="../apidocs/krita/html/index.html">Class documentation (doxygen)</a></li>
 	</ul>
 
@@ -71,7 +71,7 @@
        tile is saved to make it possible to undo the change. This is encapsulated in the <tt>beginTransaction</tt>
        and <tt>endTransaction</tt> methods of KisPainter.</p>
 
-      <p>See <a href="./painters.php">Paint devices and Painters</a> for more information on
+      <p>See <a href="painters.php">Paint devices and Painters</a> for more information on
 	working with raster images and Krita.</p>
 
     <h3>Images and documents</h3>
@@ -134,7 +134,7 @@
 
     <p>The most relevant design documents can be found in Krita's SVN, and is in
       <a href="http://websvn.kde.org/branches/koffice/1.6/koffice/krita/doc/">doc</a> (although some documents are very specific or outdated). Earlier design
-      documents, with a mostly historical interest are <a href="./overall_design.txt">Overall Design</a>
+      documents, with a mostly historical interest are <a href="overall_design.txt">Overall Design</a>
       and <a href="gui_design.txt">Gui Design</a>.</p>
 
 

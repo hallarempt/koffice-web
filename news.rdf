@@ -60,7 +60,7 @@ of changes</a>.
 <date>Oct 31, 2006</date>
 <fullstory>
 The KOffice raster image editor Krita reached version 1.6 along with the rest of the office suite earlier this month.  Krita is a fully-loaded raster graphics workhorse that stands on its own.<br>
-<a href="http://www.linux.com/article.pl?sid=06/10/23/1853220" rel="nofollow">Read the full review</a>
+<a href="http://www.linux.com/article.pl?sid=06%2F10%2F23%2F1853220" rel="nofollow">Read the full review</a>
 </fullstory>
 </item>
 
@@ -162,7 +162,7 @@ href="http://www.koffice.org/announcements/changelog-1.5.2.php">list of changes<
 <title>Sebastian Sauer talks about scripting with Kross - KOffice scripting technology</title>
 <date>Jul 09, 2006</date>
 <fullstory>
-KOffice 1.5 saw the addition of <a href="http://kross.dipe.org/readme.html">Kross</a>, a framework to allow for scripting plugins in a number of languages.  <a href="http://www.koffice.org/krita/">Krita</a> and <a href="http://www.koffice.org/kexi/">Kexi</a> come with a number of plugins with more available for download at <a href="http://www.kde-files.org/index.php?xcontentmode=617">KDE-Files.org</a>.  To find out more about this intriguing technology and how it came about KDE Dot News interviewed the author Sebastian Sauer.  Read on to discover <a href="http://dot.kde.org/1152490640/">how you can use Kross</a>.
+KOffice 1.5 saw the addition of <a href="http://kross.dipe.org/">Kross</a>, a framework to allow for scripting plugins in a number of languages.  <a href="http://www.koffice.org/krita/">Krita</a> and <a href="http://www.koffice.org/kexi/">Kexi</a> come with a number of plugins with more available for download at <a href="http://www.kde-files.org/index.php?xcontentmode=617">KDE-Files.org</a>.  To find out more about this intriguing technology and how it came about KDE Dot News interviewed the author Sebastian Sauer.  Read on to discover <a href="http://dot.kde.org/1152490640/">how you can use Kross</a>.
 </fullstory>
 </item>
 
@@ -179,7 +179,7 @@ Read the vision on <a href="http://dot.kde.org/1149518002/">dot.kde.org</a>
 <title>3rd party releases Krita-plugins</title>
 <date>May 31, 2006</date>
 <fullstory>
-Showing the enormous growth of Krita we are proud to report on the first 3rd party release of plugins.  The plugins are meant to enhance your experience with useful high-quality filters and tools, all free of charge.<br />From the release notes: The first release of Krita-plugins is available for downloading on <a href="http://download.kde.org/download.php?url=stable/apps/KDE3.x/graphics/krita-plugins-1.5-1.tar.bz2">KDE's ftp server</a>. It is a set of plugins extending your experience with Krita with the inclusion of some colors filters (like color transfer), image enhancement filters (like adjustable blur and unsharp mask) and a red-eye removal tool.
+Showing the enormous growth of Krita we are proud to report on the first 3rd party release of plugins.  The plugins are meant to enhance your experience with useful high-quality filters and tools, all free of charge.<br />From the release notes: The first release of Krita-plugins is available for downloading on <a href="http://download.kde.org/download.php?url=stable%2Fapps%2FKDE3.x%2Fgraphics%2Fkrita-plugins-1.5-1.tar.bz2">KDE's ftp server</a>. It is a set of plugins extending your experience with Krita with the inclusion of some colors filters (like color transfer), image enhancement filters (like adjustable blur and unsharp mask) and a red-eye removal tool.
 </fullstory>
 </item>
 
@@ -273,7 +273,7 @@ and the complete <a href="http://www.koffice.org/announcements/changelog-1.5beta
 The KOffice GUI Competition has been won by Martin Pfeiffer. His entry was
 chosen from eighteen submissions by the jury because of its innovative, ground-breaking
 approach to workflow and document handling. The general level of the the entries was
-very high. Judge for yourself at the <a href="./competition/gui1results.php">results page</a>
+very high. Judge for yourself at the <a href="competition/gui1results.php">results page</a>
 where all entries are available.<br />
 </fullstory>
 </item>
@@ -282,7 +282,7 @@ where all entries are available.<br />
 <title>KOffice at FOSDEM</title>
 <date>27th February 2006</date>
 <fullstory>
-    <a href="http://dot.kde.org/1141040477/">KDE had a big presence at FOSDEM</a> last week-end and KOffice was well represented. Raphael Langerhorst made a nice presentation entitled "KOffice in Enterprise Environments". You can read it <a href="presentations/FOSDEM 2006 - KOffice in Enterprise Environments/index.html">online in HTML format</a> or get the <a href="presentations/FOSDEM 2006 - KOffice in Enterprise Environments/FOSDEM 2006 - KOffice in Enterprise Environments.odp">source in KPresenter OpenDocument format</a> (you need the latest svn for best support).<br />
+    <a href="http://dot.kde.org/1141040477/">KDE had a big presence at FOSDEM</a> last week-end and KOffice was well represented. Raphael Langerhorst made a nice presentation entitled "KOffice in Enterprise Environments". You can read it <a href="presentations/FOSDEM%202006%20-%20KOffice%20in%20Enterprise%20Environments/index.html">online in HTML format</a> or get the <a href="presentations/FOSDEM%202006%20-%20KOffice%20in%20Enterprise%20Environments/FOSDEM%202006%20-%20KOffice%20in%20Enterprise%20Environments.odp">source in KPresenter OpenDocument format</a> (you need the latest svn for best support).<br />
 Bart Coppens presented the new awesome features in Krita 1.5, you can see here the <a href="http://www.koffice.org/krita/krita-fosdem2006.pdf">slides in PDF format</a>.<br />
 Sander Koning also presented the KOffice Interface (<a href="http://koffice.org/developer/icons/koffice_interface.odp">source in KPresenter OpenDocument format</a>, <a href="http://www.kde.org/kdeslides/fosdem2006/2006-02-sander-koffice-look/">online HTML slides</a>) to stress the need of having a common look in all KOffice components.<br />
 </fullstory>

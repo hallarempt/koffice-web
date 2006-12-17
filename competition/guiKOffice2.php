@@ -7,12 +7,12 @@
 
 <h3>The results</h3>
 
-<p>The results are now in! Martin Pfeiffer has won. See <a href="./gui1results.php">all 
+<p>The results are now in! Martin Pfeiffer has won. See <a href="gui1results.php">all 
 results</a> for yourself.</p>
 
 <h3>Objectives</h3>
 <p>The purpose of the competition is to generate new ideas for the user interface of the next generation of KOffice, KOffice 2, which is expected to be released around the same time as KDE 4.0.</p>
-<p>Submissions to the competition should be GUI mockups accompanied with a written description of the intended workflow with ideas for the design of KOffice 2. The new GUI proposals should be for <a href="../kword">KWord</a>, <a href="../kspread">KSpread</a> and <a href="../kpresenter">KPresenter</a>.</p>
+<p>Submissions to the competition should be GUI mockups accompanied with a written description of the intended workflow with ideas for the design of KOffice 2. The new GUI proposals should be for <a href="/kword">KWord</a>, <a href="/kspread">KSpread</a> and <a href="/kpresenter">KPresenter</a>.</p>
 
 <h3>Prize</h3>
 <p><b>$1000</b> (USD) will go to the best entry.</p>
@@ -37,9 +37,9 @@ stress out the major points of your design by explaining their strengths.</p>
 
 <h3>Example</h3>
 Please see the example in each format:<br />
-PDF: <a href="examples1/KOffice UI and Functionality Example.pdf">KOffice UI and
+PDF: <a href="examples1/KOffice%20UI%20and%20Functionality%20Example.pdf">KOffice UI and
 Functionality Example.pdf</a><br />
-ODT: <a href="examples1/KOffice UI and Functionality Example.odt">KOffice UI and
+ODT: <a href="examples1/KOffice%20UI%20and%20Functionality%20Example.odt">KOffice UI and
 Functionality Example.odt</a><br />
 Please note that this example was written quickly and the judges expect more
 details in your application!

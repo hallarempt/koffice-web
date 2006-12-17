@@ -106,8 +106,7 @@
       many other fonts will provide the Euro sign for you. The presence of Xft
       makes font handling much easier, and solves many problems. Xft (v1) is being
       used by Qt 3 when available, and the RENDER extension (of XFree86) is available
-      as well.  To set up Xft and fonts in general, see
-      <a href="http://trolls.troll.no/lars/fonts/qt-fonts-HOWTO.html">this howto</a>.
+      as well.
       <br/>
       If you don't have anti-aliasing, you need to use a font that provides this symbol.
       According to my experiences, a nice font to use is "clearlyu". Another that
