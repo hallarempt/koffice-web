@@ -7,6 +7,9 @@
 
 <?php
 $faq = new FAQ();
+$faq->addQuestion("I'm using Fedora/Suse/Mandriva and Krita is broken! What now?",
+    "There are known issues with these distributions that the Krita development team cannot do much
+    about right now. Please consuld <a href="http://wiki.koffice.org/index.php?title=Krita/Known_problem_with_packages"></a> for fixes.");
 $faq->addQuestion("Why is Krita part of KOffice?", "Krita started out as KImageShop inside KOffice because the KOffice libraries give us things for free we would have to
     code ourselves otherwise, like filter handling, rich text tool and so on. Look at KOffice this way: text, numbers and images, both sides of your brain, creative
     and analytic!");
