@@ -8,7 +8,8 @@
 <?php
 // This array contains all the images and the info about them
 // explanation here!
-// Add link to the license?
+
+$CCAT25 = '<a href="http://creativecommons.org/licenses/by/2.5/">CC Attribution 2.5</a>';
 // For each new image, add to the top of the list something like:
 // $images[] = array( "small" => "relative path to small image",
 //                    "kra" => "relative path to the native .kra file",
@@ -19,54 +20,19 @@
 //                    "description" => "A short, one-line description of the image, if any",
 //                    "width" => "width of the small image",
 //                    "height" => "height of the small image");
-$images[] = array( "small" => "videos/krita_perspectivecloning_sm.png",
-                   "kra" => "videos/krita_perspectivecloning.kra",
-                   "license" => "GPLv2",
-                   "date" => "October 2006",
-                   "title" => "Some Test",
-                   "author" => "Alice Nonymous",
-                   "description" => "Reflections on the cuteness of kittens by way of picturing them",
-                   "width" => "272",
-                   "height" => "205");
-$images[] = array( "small" => "pics/krita_1.6rc1_sm.png",
-                   "kra" => "pics/krita_1.6rc1.kra",
-                   "license" => "Creative Commons Attribution-NonCommercial-ShareAlike 2.0",
-                   "date" => "October 2006",
-                   "title" => "Krita 1.6 Rocks",
-                   "author" => "Somebody Nice",
-                   "description" => "",
-                   "width" => "264",
-                   "height" => "176");
-$images[] = array( "small" => "pics/krita1.5rc1_sm.png",
-                   "kra" => "pics/krita1.5rc1.kra",
-                   "license" => "GPLv2+",
-                   "date" => "October 2006",
-                   "title" => "Release Candidate 1.5",
-                   "author" => "Hmmmm, who could it be",
-                   "description" => "This is some text, describing the description of the described image.",
-                   "width" => "303",
-                   "height" => "200");
-$images[] = array( "small" => "videos/krita_rc1_sm.png",
-                   "kra" => "videos/krita_rc1.kra",
-                   "license" => "GPLv2",
-                   "date" => "October 2006",
-                   "title" => "General Preview",
-                   "author" => "This might be a really really long name, really!",
-                   "description" => "This too, might be not too short, but certainly not too long. That would be not as nice",
-                   "width" => "273",
-                   "height" => "183");
-$images[] = array( "small" => "videos/krita_perspectivetransformtool_sm.png",
-                   "kra" => "videos/krita_perspectivetransformtool.kra",
-                   "license" => "GPLv2",
-                   "date" => "October 2006",
-                   "title" => "Short, Very Short, or Long, Very Long! Like the Very Long rows of cute kittens that one can make with lots of cute kittens.",
-                   "author" => "A Krita Developer",
-                   "description" => "Ⓤⓝⓘⓒⓞⓓⓔ☺",
-                   "width" => "272",
-                   "height" => "204");
+$images[] = array( "small" => "pics/gallery/dinner_sm.png",
+                   "kra" => "pics/gallery/dinner.kra",
+                   "license" => $CCAT25,
+                   "date" => "January 2007",
+                   "title" => "Dinner for friends",
+                   "author" => "Bastian Salmela (basse)",
+                   "description" => "A picture for a christmas calendar. (13M Krita file)",
+                   "width" => "270",
+                   "height" => "191");
+
 
 // A temporary value to test this with, a nice value might be 10 or so
-$imagesPerPage = 4; //10;
+$imagesPerPage = 10;
 $currentPage = 0;
 if (isset($_GET['page']) && is_numeric($_GET['page'])) {
     $possiblyPage = intval($_GET['page']);
