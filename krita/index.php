@@ -21,11 +21,11 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 <center>
   <?php
     $gallery = new ImageGallery("Krita- Screenshot");
-    $gallery->addImage("pics/july06_sm.png",
-                       "pics/july06.png",
-                       "300", "211",
+    $gallery->addImage("pics/bala_krita1.6_sm.png",
+                       "pics/bala_krita1.6.png",
+                       "300", "212",
                        "[Screenshot]", "",
-                       "Krita");
+                       "Krita 1.6.2 -- photograph by Balachandran Chandrasekharan");
     $gallery->show();
   ?>
 </center>
@@ -80,7 +80,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
       </ul>
 
     <h3>Presentations</h3>
-        
+
         <ul>
             <li><a href="talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
         Info Tag in Augsburg. (German)</a></li>
@@ -91,7 +91,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 
 
     <h3>Blogs</h3>
-        
+
         <ul>
         <li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a></li>
         <li><a href="http://cyrilleberger.blogspot.com">News from development on Krita, by Cyrille Berger</a></li>
@@ -156,7 +156,7 @@ management system in 100K</a></li>
       </ul>
 
 	<p>Academic:</p>
- 
+
 <p>(These dissertations are made available for non-commercial purposes by Bill Baxter on his <a href="http://www.cs.unc.edu/~baxter/projects/index.html">projects webpage</a>)</p>
 <ul>
         <li><a href="http://www.billbaxter.com/refs/Cockshott-Dissertation.pdf">Wet &amp; Sticky</a> -- dissertation by Tunde Cockshott on modelling wet paint.</li>
