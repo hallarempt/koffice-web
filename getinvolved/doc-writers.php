@@ -5,11 +5,10 @@
   include("header.inc");
 ?>
 
-<div id="quicklinks">[
+<!--<div id="quicklinks">[
 	<a href="junior-jobs.php">Development Junior Jobs</a> 
 	]
-</div>
-
+</div>-->
 <p><b>Current state of the KOffice documentation</b></p>
 
 <p>The table below shows the status of the KOffice documentation as of September

@@ -4,15 +4,18 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-<h2><a href="junior-jobs.php">Junior Jobs - Become a new developer</a></h2>
-<p>An easy way to get involved and become familiar with KOffice applications is to start with <a href="junior-jobs.php">Junior Jobs</a>. These are easy tasks which are very much needed and by choosing one and doing it, you will get great help the KOffice Team for the next release.<br />
+<!--<h2><a href="junior-jobs.php">Junior Jobs - Become a new developer</a></h2>-->
+<h2>Junior Jobs - Become a new developer</h2>
+<!--<p>An easy way to get involved and become familiar with KOffice applications is to start with <a href="junior-jobs.php">Junior Jobs</a>. These are easy tasks which are very much needed and by choosing one and doing it, you will get great help the KOffice Team for the next release.<br />
 Ask for more details to the contact if you are in doubt, we'll be very happy to guide your first steps!
 </p>
-<p>You can check what has been done as JJ in 2005 on <a href="jj-solved.php">the Junior Jobs Done webpage</a>.</p>
+<p>You can check what has been done as JJ in 2005 on <a href="jj-solved.php">the Junior Jobs Done webpage</a>.</p>-->
+<p>There are currently no Junior Jobs. When KOffice 2 is more advanced, we will update this page.</p>
 
 <h2><a href="doc-writers.php">Become a documentation writer</a></h2>
 <p><a href="doc-writers.php">Here</a> you can find information related to writing or updating KOffice documentation.</p>
 <p>Please read the <a href="howto-write-doc.php">How to write documentation guide</a> in order to learn some very useful tips!</p>
+<p>This should be done in docs in trunk, for KOffice 2</p>
 
 <h2>Other tasks</h2>
     <p>KOffice is a very large project. There are many fields where
