@@ -66,7 +66,7 @@ Start to Start. All types can have a time lag defined.</li>
         <li>Resource leveling. Resources are just allocated to 
             the requested task even when allready booked to other task(s). 
             The resulting conflict must be resolved manually by adding task 
-            links or constraints to avoid parallell scheduling of the tasks.</li>
+            links or constraints to avoid parallel scheduling of the tasks.</li>
         <li>Network view.</li>
         <li>In general: Project execution and follow up.</li>
     </ul>
