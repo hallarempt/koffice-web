@@ -27,7 +27,7 @@
      <p>KWord's features include:</p>
 
      <ul>
-     <li>support for the standard OASIS OpenDocument file format</li>
+     <li>uses the standard ISO 26300 OpenDocument format</li>
      <li>paragraph style sheets (borders, alignment, spacing, indentation, bullet points, tab stops, page breaks, and font type, style, color and size), together with a stylist to edit, add, remove and update styles (a number of predefined styles are provided);</li>
      <li>a frame orientation, suitable for simple desktop publishing (DTP); </li>
      <li>numerous preset as well as custom page sizes;</li>
