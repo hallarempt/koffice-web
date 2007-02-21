@@ -72,13 +72,13 @@
 
 <h3 id="kspread">KSpread</h3>
 <ul>
-  <li>formula use 'long' in all integer related places (<a href="http://bugs.kde.org/127599">bug 127599</a>)</li>
+  <li>formula use 'long' in all integer related places (<a href="http://bugs.kde.org/127599">bug 127599</a>)</li>
   <li>fhe time-value was correct parsed+evaluated but didn't got transfered back what made times not working for all AM/PM definitions (if 12h clock was enabled) (<a href="http://bugs.kde.org/140336">bug 140336</a>). </li>
   <li>remember settings (<a href="http://bugs.kde.org/132462">bug 132462</a>). </li>
   <li>don't convert already converted document to utf8 (<a href="http://bugs.kde.org/132462">bug 132462</a>)</li>
   <li>don't ignore newline settings on export. </li>
   <li>on 1st of January 2007 Slovenia changed its national currency from Slovenian Tolar (SIT) to Euro (EUR)</li>
-  <li>conditions: use the value, not the input string (may be a formula), for comparison.</li>
+  <li>conditions: use the value, not the input string (may be a formula), for comparison.</li>
   <li>fix crash when the chart couldn't be loaded and we get KoUnavailPart instead (<a href="http://bugs.kde.org/138294">bug 138294</a>)</li>
   <li>fix function datevalue of a cell shows date, not value of date (<a href="http://bugs.kde.org/137752">bug 137752</a>)</li>
   <li>the AND, OR, NAND, NOR and XOR functions are optional accepting arrays now (<a href="http://bugs.kde.org/138165">bug 138165</a>)</li>
@@ -151,7 +151,7 @@
       <li>&quot;Assign Action&quot; dialog:
         <ul>
           <li>added &quot;create new&quot; and &quot;close view&quot; actions with a given context</li>
-          <li>&quot;Current form&quot; actions category added with actions like &quot;go to next record&quot;, &quot;go to new record&quot;</li>
+          <li>&quot;Current form&quot; actions category added with actions like &quot;go to next record&quot;, &quot;go to new record&quot;</li>
           <li>more design actions like &quot;undo&quot; moved to the global category</li>
         </ul>
       </li>
@@ -175,7 +175,7 @@
       <li>fixed copying existing objects to the destination database</li>
       <li>MySQL and PostgreSQL:
         <ul>
-          <li>fixed importing Unicode text and static images if present in the source database (BLOBs)</li>
+          <li>fixed importing Unicode text and static images if present in the source database (BLOBs)</li>
           <li>data types are better handled for import</li>
         </ul>
       </li>
