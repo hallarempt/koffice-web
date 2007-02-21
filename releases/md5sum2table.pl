@@ -43,6 +43,7 @@ use constant LANGUAGES =>
     "is" => "Icelandic",
     "it" => "Italian",
     "ja" => "Japanese",
+    "km" => "Khmer",
     "ko" => "Korean",
     "ku" => "Kurdish",
     "lo" => "Lao",
