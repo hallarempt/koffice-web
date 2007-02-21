@@ -35,10 +35,11 @@
 <h3 id="newfeatures">New Features</h3>
     <em>Kexi</em>
         <ul>
-            <li>some changes do not require table removing now: e.g. field's caption, description, text width, defaultValue, visibleDecimalPlaces</li>
-            <li>added "Delete column" tool for deleting table columns without removind data</li>
-            <li>added 'add column' tool, to adds a new empty column to a table in a .kexi (SQLite 3) database file without removing data from the table</li>
-            <li>"User Mode" implemented: <a href="http://kexi-project.org/wiki/wikiview/index.php?UserMode">command line option --final-mode replaced with --user-mode </a>, then all actions related to design are hidden as well as property editor and navigator panes
+            <li>in Table Designer, some changes do not require removing data from tables now: e.g. field's caption, description, text width, default value, visible decimal places</li>
+            <li>external &quot;Add column&quot; tool for adding empty table column in a .kexi (SQLite 3) database file without removing data from the table</li>
+            <li>external &quot;Delete column&quot; tool for deleting table columns without removing data</li>
+            <li>&quot;User Mode&quot; implemented: <a href="http://kexi-project.org/wiki/wikiview/index.php?UserMode">command line option --final-mode replaced with --user-mode</a>, then all actions related to design are hidden as well as the Property Editor and Navigator panes</li>
+            <li>support for multiple visible columns in the combo box widget</li>
             <li>Kexi allows to assign much more types of actions to form buttons</li>
         </ul>
     <em>Krita</em>
@@ -61,7 +62,7 @@
 <ul>
   <li>KFormula uses MathML for copy and paste, reflect it in KWord (<a href="http://bugs.kde.org/136711">bug 136711</a>)</li>
   <li>security fix in the pdf import filter related to the MOAB-06-01-2007 issue</li>
-  <li>frames with AutoExtendFrame need to have a min height superior to 0, otherwise the loading code won't say "min-height>0 -> AutoExtendFrame"</li>
+  <li>frames with AutoExtendFrame need to have a min height superior to 0, otherwise the loading code won't say "min-height&gt;0 -&gt; AutoExtendFrame"</li>
   <li>fix crash when footnote/endnote was removed and we tried to change foot/end note setting</li>
   <li>fix the ul tags in html import</ul>
 </ul>
@@ -71,13 +72,13 @@
 
 <h3 id="kspread">KSpread</h3>
 <ul>
-  <li>formulaÂ use 'long' in all integer related places (<a href="http://bugs.kde.org/127599">bug 127599</a>)</li>
+  <li>formula use 'long' in all integer related places (<a href="http://bugs.kde.org/127599">bug 127599</a>)</li>
   <li>fhe time-value was correct parsed+evaluated but didn't got transfered back what made times not working for all AM/PM definitions (if 12h clock was enabled) (<a href="http://bugs.kde.org/140336">bug 140336</a>). </li>
   <li>remember settings (<a href="http://bugs.kde.org/132462">bug 132462</a>). </li>
   <li>don't convert already converted document to utf8 (<a href="http://bugs.kde.org/132462">bug 132462</a>)</li>
   <li>don't ignore newline settings on export. </li>
   <li>on 1st of January 2007 Slovenia changed its national currency from Slovenian Tolar (SIT) to Euro (EUR)</li>
-  <li>conditions:Â use the value, not the input string (may be a formula), for comparison.</li>
+  <li>conditions: use the value, not the input string (may be a formula), for comparison.</li>
   <li>fix crash when the chart couldn't be loaded and we get KoUnavailPart instead (<a href="http://bugs.kde.org/138294">bug 138294</a>)</li>
   <li>fix function datevalue of a cell shows date, not value of date (<a href="http://bugs.kde.org/137752">bug 137752</a>)</li>
   <li>the AND, OR, NAND, NOR and XOR functions are optional accepting arrays now (<a href="http://bugs.kde.org/138165">bug 138165</a>)</li>
@@ -100,19 +101,13 @@
 
 <h3 id="kexi">Kexi</h3>
     <ul>
-      <li>do not recreate kexi__blobs table when connection is readonly: projects created with older Kexi versions can be now opened in readonly mode too</li>
+      <li>projects created with older Kexi versions can be now opened in read-only mode too</li>
     </ul>
     </ul>
     <em>Main Window</em>
     <ul>
       <li>command line option "--show-navigator" added - shows the Project Navigator side pane even if Kexi runs in User Mode</li>
       <li>project manager: double/single clicking on executable objects (macro, script) executes them</li>
-    </ul>
-    <em>Query Designer</em>
-    <ul>
-      <li>fixed crash if column being removed has sorting set up</li>
-      <li>display "(All Columns)" near the "*"</li>
-      <li>SQL editor on Unix: initially, clear undo/redo buffer (otherwise Ctrl+Z clears the contents)</li>
     </ul>
     <em>Database Support Library (KexiDB)</em>
     <ul>
@@ -121,62 +116,66 @@
       <li>added support for multiple visible columns in lookup fields</li>
       <li>improved saving table extended schema data for lookup fields</li>
       <li>sort query results by primary key fields if there is no explicit sorting specified (especially useful when there are complex joins)</li>
-      <li>non-file-based drivers were disabled by mistake</li>
       <li>install all needed headers</li>
       <li>fixed problem with constructing SQL statements: for multi-table queries "ORDER BY column" prepends "table" only if "column" is not a name of alias</li>
     </ul>
-    <em>Widgets / Utils</em>
+    <em>Widgets, Utilities</em>
     <ul>
-      <li>added support for multiple visible columns in the combo box editor</li>
       <li>queries are supported as row source for lookup fields</li>
       <li>fixed crash related to QtCurve widget style (<a href="http://bugs.kde.org/139753">bug 139753</a>)</li>
-      <li>use transliteration table generated by a shell script to generate identifiers out of unicode characters (<a href="http://bugs.kde.org/133170">bug 133170</a>)</li>
+      <li>use transliteration table generated by a shell script to generate identifiers out of Unicode characters (<a href="http://bugs.kde.org/133170">bug 133170</a>)</li>
     </ul>
     <em>Table Designer</em>
     <ul>
       <li>fixed altering table schema when lookup column has been changed</li>
       <li>added support for multiple visible columns in the combo box editor (the same for forms)</li>
       <li>on altering table, remove old lookup field schema objects and make sure you do not save empty type/name fields to XML</li>
-      <li>fixed updating "lookup column" tab's contents</li>
+      <li>fixed updating &quot;lookup column&quot; tab's contents</li>
       <li>fixed crash on saving design with lookup columns defined</li>
       <li>fixed updating default value when field type changes</li>
     </li>
     </ul>
+    <em>Query Designer</em>
+    <ul>
+      <li>fixed crash if column being removed has sorting set up</li>
+      <li>display &quot;(All Columns)&quot; near the &quot;*&quot;</li>
+      <li>SQL editor on Unix: initially, clear undo/redo buffer (otherwise Ctrl+Z clears the contents)</li>
+    </ul>
     <em>Forms</em>
     <ul>
-      <li>ixed handling "align" property for image boxes when scaling is off</li>
+      <li>fixed handling &quot;align&quot; property for image boxes when scaling is off</li>
       <li>align autofield's label to left if it is on the top</li>
       <li>do not show popup after clicking on combo box</li>
       <li>fixed popup position of combo boxes inside a container</li>
       <li>fixed saving property values of type "enum" for subwidgets</li>
-      <li>fixed handling "align" property for image boxes when scaling is off</li>
-      <li>"Assign Action" dialog:
+      <li>&quot;Assign Action&quot; dialog:
         <ul>
-          <li>added 'create new' and 'close view' actions with a given context</li>
-          <li>"Current form" actions category added with actions likeÂ "go to next record", "go to new record"</li>
-          <li>more design actions like 'undo' moved to the global category</li>
+          <li>added &quot;create new&quot; and &quot;close view&quot; actions with a given context</li>
+          <li>&quot;Current form&quot; actions category added with actions like &quot;go to next record&quot;, &quot;go to new record&quot;</li>
+          <li>more design actions like &quot;undo&quot; moved to the global category</li>
         </ul>
       </li>
-      <li>"Action Selection" dialog:
+      <li>&quot;Action Selection&quot; dialog:
         <ul>
           <li>the list of menu commands now contains tooltips instead of action texts to improve readability and is displayed with full width</li>
           <li>actions are now categorized, so actions that have no practical use are hidden</li>
-          <li>moved "Macros" and "Scripts" to "category" list, which also supports opening tables/queries/forms, running macros/scripts</li>
-          <li>added "Action type" column so it is possible to assign printing and opening in objects design view</li>
-          <li>added "Execute form's action" category</li>
+          <li>moved &quot;Macros&quot; and &quot;Scriptsv to &quot;category&quot; list, which also supports opening tables/queries/forms, running macros/scripts</li>
+          <li>added &quot;Action type&quot; column so it is possible to assign printing and opening in objects design view</li>
+          <li>added &quot;Execute form's action&quot; category</li>
         </ul>
       </li>
     </ul>
     <em>Tools</em>
     <ul>
-      <li>fixes for "Add column" tool</li>
+      <li>fixes for &quot;Add column&quot; tool</li>
+      <li>added &quot;Delete column&quot; tool</li>
     </ul>
     <em>Project Migration</em>
     <ul>
       <li>fixed copying existing objects to the destination database</li>
       <li>MySQL and PostgreSQL:
         <ul>
-          <li>fixed importing unicode text and static images if presentÂ in the source database (BLOBs)</li>
+          <li>fixed importing Unicode text and static images if present in the source database (BLOBs)</li>
           <li>data types are better handled for import</li>
         </ul>
       </li>
