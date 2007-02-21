@@ -100,10 +100,6 @@
 </ul>
 
 <h3 id="kexi">Kexi</h3>
-    <ul>
-      <li>projects created with older Kexi versions can be now opened in read-only mode too</li>
-    </ul>
-    </ul>
     <em>Main Window</em>
     <ul>
       <li>command line option "--show-navigator" added - shows the Project Navigator side pane even if Kexi runs in User Mode</li>
@@ -111,6 +107,7 @@
     </ul>
     <em>Database Support Library (KexiDB)</em>
     <ul>
+      <li>projects created with older Kexi versions can be now opened in read-only mode too</li>
       <li>fixed possible crash when running a query without primary key included (encountered e.g. when a form contain static images)</li>
       <li>queries are supported as row source for look-up fields</li>
       <li>added support for multiple visible columns in look-up fields</li>
@@ -153,10 +150,6 @@
           <li>added &quot;create new&quot; and &quot;close view&quot; actions with a given context</li>
           <li>&quot;Current form&quot; actions category added with actions like &quot;go to next record&quot;, &quot;go to new record&quot;</li>
           <li>more design actions like &quot;undo&quot; moved to the global category</li>
-        </ul>
-      </li>
-      <li>&quot;Action Selection&quot; dialog:
-        <ul>
           <li>the list of menu commands now contains tooltips instead of action texts to improve readability and is displayed with full width</li>
           <li>actions are now categorised, so actions that have no practical use are hidden</li>
           <li>moved &quot;Macros&quot; and &quot;Scriptsv to &quot;category&quot; list, which also supports opening tables/queries/forms, running macros/scripts</li>
