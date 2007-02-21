@@ -43,7 +43,7 @@
 	</table>
       </li>
       <li>
-	<a href="http://download.kde.org/stable/koffice-1.6.2/">Binary packages</a>, currently available for <a href="http://download.kde.org/stable/koffice-1.6.2/kubuntu/">Kubuntu</a> or <a href="http://download.kde.org/stable/koffice-1.6.2/SuSE/">SuSE</a>.
+	<a href="http://download.kde.org/stable/koffice-1.6.2/">Binary packages</a>, currently available for <a href="http://kubuntu.org/announcements/koffice-162.php">Kubuntu</a> or <a href="http://download.kde.org/stable/koffice-1.6.2/SuSE/">SuSE</a>.
       </li>
 <!--      <li>
         <a href="http://www.koffice.org/download/kofficelivecd.php">Live CD</a>
