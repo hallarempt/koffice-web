@@ -17,7 +17,7 @@
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> version 1.6.2, the 
-  first bugfix version of KOffice 1.6.
+  second maintenance release of KOffice 1.6.
 </p>
 
 <h2>Highlights</h2>
@@ -32,26 +32,26 @@
   All users should upgrade to 1.6.2 for this reason alone.
 </p>
 
-<h3>New Krita Features and Many Bugfixes</h3>
+<h3>New Krita Features and Many Improvements</h3>
 <p align="justify">
 
   <a href="http://www.koffice.org/krita/">Krita</a>, the image editing
     application of KOffice has gotten a new Half Toning filter, a new 
     Colorify filter and a Smudge paint operation, that 
     simulates the effect of dragging a finger over the canvas.  Among
-    the bugfixes can be mentioned that the transform tool got many 
+    the improvements can be mentioned that the transform tool got many 
     improvements in this release.
 </p>
 
-<h3>New Kexi Features and Many Bugfixes</h3>
+<h3>New Kexi Features and Many Improvements</h3>
 <p align="justify">
     <a href="http://www.koffice.org/kexi/">Kexi</a>, the desktop database
     application that competes with MS Access, is the other application in
     KOffice that got new features in this release.  Among them can be
     mentioned a "User Mode" that makes it easy to deploy Kexi applications
     and a much extended "Assign action" command for buttons in a form.
-    There are also numerous bug fixes that makes this the best and most
-    stable release of Kexi so far.
+    There are also numerous other improvements that makes this the best
+    and most stable release of Kexi so far.
 </p>
 
 <h3>Four New Translations </h3>
@@ -60,7 +60,7 @@
     Khmer, making KOffice available in 36 languages.
 </p>
 
-<h3>Bugfixes For Most Other Components</h3>
+<h3>Improvements For Most Other Components</h3>
 <p align="justify">
    Almost all of the other components got some bugs fixed.  See <a
   href="http://www.koffice.org/announcements/changelog-1.6.2.php">the
