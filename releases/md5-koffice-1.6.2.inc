@@ -76,7 +76,7 @@ koffice-l10n/koffice-l10n-it-1.6.2.tar.bz2</a></td>
 <td><a href="http://download.kde.org/stable/koffice-1.6.1/src/koffice-l10n/koffice-l10n-ja-1.6.2.tar.bz2">
 koffice-l10n/koffice-l10n-ja-1.6.2.tar.bz2</a></td>
 <td><tt>d77a310c8563318dc4ced31c9fe2f2ce</tt></td></tr>
-<tr><td></td>
+<tr><td>Khmer</td>
 <td><a href="http://download.kde.org/stable/koffice-1.6.1/src/koffice-l10n/koffice-l10n-km-1.6.2.tar.bz2">
 koffice-l10n/koffice-l10n-km-1.6.2.tar.bz2</a></td>
 <td><tt>a199933f40e29a3fe05c4cfd52525479</tt></td></tr>
