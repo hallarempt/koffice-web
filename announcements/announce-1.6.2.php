@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 1.6.1 Release Announcement';
+  $page_title ='KOffice 1.6.2 Release Announcement';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -9,7 +9,7 @@
   DATELINE February 21, 2007<br />
   FOR IMMEDIATE RELEASE
 </p>
-<!-- <?php  include("languages-1.6.1.inc"); ?>  -->
+<!-- <?php  include("languages-1.6.inc"); ?>  -->
 <h2>
   KDE Ships New Release of Free Integrated Office Suite
 </h2>
