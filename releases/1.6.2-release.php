@@ -33,8 +33,8 @@
 	    <td><a href="http://download.kde.org/stable/koffice-1.6.2/src/koffice-1.6.2.tar.bz2">koffice-1.6.2.tar.bz2</a></td>
 	  </tr>
 	  <tr>
-	    <td>Patch for Kexi 1.1.2 for user of dash</td>
-	    <td><a href="http://download.kde.org/stable/koffice-1.6.2/src/kexi-dash.patch">kexi-dash.patch</a></td>
+	    <td>Patch for Kexi 1.1.2 for users of dash shell (<a href="http://kexi-project.org/wiki/wikiview/index.php?Kexi1.1.2_Patches">details</a>)</td>
+	    <td><a href="http://kexi-project.org/download/patches/1.1.2/dash-1.6.2.patch">kexi-dash.patch</a></td>
 	  </tr>
 	  <tr>
 	    <td>KexiMDB 1.1.0 (MS Access import plugin)</td>
