@@ -96,7 +96,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
         <li><a href="http://www.valdyas.org/fading/index.cgi/hacking/krita">Fading Memories blog on Krita, by Boudewijn Rempt</a></li>
         <li><a href="http://cyrilleberger.blogspot.com">News from development on Krita, by Cyrille Berger</a></li>
         <li><a href="http://www.kdedevelopers.org/blog/1471">Bart Coppens' Blog</a></li>
-        <li><a href="http://boemann.blogspot.com/">Boemann's Blog</a></li>
+        <li><a href="http://www.kdedevelopers.org/blog/1236">Boemann's Blog</a></li>
         </ul>
 
 <h3>Development</h3>
