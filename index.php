@@ -20,8 +20,8 @@
 
     <center>
       <a href="/tours/1.6/"><img src="/tours/pics/takethetour.png"
-				 border="0" width="200" height="168"
-				 alt="KOffice 1.6 Tour"/></a>
+                                 border="0" width="200" height="168"
+                                 alt="KOffice 1.6 Tour"/></a>
     </center>
 */
 ?>
