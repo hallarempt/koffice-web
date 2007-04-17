@@ -6,20 +6,20 @@
 ?>
 
  <p>
- This tour gives you a quick look into KOffice 1.6 release and shows its most important
-highlights and gorgeous features. It also shows the strengths and main capabilities of each KOffice component.
+ This tour gives a quick look into KOffice 1.6 and highlights just some of the 
+beautiful features that have been included with it, as well as presenting the strengths and main capabilities of each KOffice component.
  </p>
  <p>
- You can find the <a href="/announcements/announce-1.6.php">full announcement of KOffice 1.6 here</a>.
+The full announcement for KOffice 1.6 can be found <a href="/announcements/announce-1.6.php">here</a>.
  </p>
 
  <h2>Diving into KOffice</h2>
 
  <p>
- With recent releases KOffice has established its status as the most comprehensive office suite in existence.
- No other office suite provides as many integrated and diverse components as KOffice. At the same time, KOffice
- requires only little memory and provides good performance, making it suitable even for old hardware and avoiding
- the need for expensive upgrades. KOffice also fully supports the Open Document Format (ODF) which guarantees highly collaborative and interoperable solutions.<!--link to standard-->
+ With recent releases, KOffice has established its status as the most comprehensive office suite in existence, 
+ with no other office suite comes close to offering the same range and diversity of features. At the same time, KOffice
+ requires only little memory while providing amazing performance, making it suitable even for old hardware and avoiding
+ the need for expensive upgrades. KOffice also fully supports the Open Document Format (ODF) which guarantees highly collaborative and interoperable solutions, so you never need to worry about cross-platform issues.<!--link to standard-->
  </p>
  <p>
  The list of stunning improvements for the 1.6 release is simply huge, and all of them were implemented
