@@ -9,7 +9,7 @@
       If you want to report bugs or if you want to add wishes, please
       use <a href="http://bugs.kde.org">KDE Bugs!</a>
       </p>
-      
+
       <p>
       If you have a question or if you want to discuss about KOffice,
       please write an email to the
@@ -18,7 +18,7 @@
       If you have any compiling problem, please have a look at the
       <a href="/faq/">FAQs</a> first.
       </p> 
-      
+
       <p>
       If you want to contact a particular developer, please find the
       email address below. Please note that some developers and the
@@ -26,18 +26,16 @@
       </p>
 
       <h2>Current maintainers by project</h2>
-      
+
       <p>
-      <b>KOffice Library: <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
+      <b>KOffice Library: <a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a>, <a href="m&#97;il&#x74;o:fa&#x75;re&#x40;kd&#x65;.&#0111;rg">David Faure</a></b><br />
       <b>KOffice Workspace: <a href="&#109;&#x61;i&#x6c;t&#x6f;:&#x73;ve&#110;&#064;kd&#101;.org">Sven L&uuml;ppken</a></b><br />
       <b>KWord: <a href="&#x6d;ail&#116;&#0111;&#58;&#122;and&#x65;&#114;&#x40;k&#100;&#x65;.or&#x67;">Thomas Zander</a>,&nbsp; 
-      <a href="&#x6d;&#097;&#x69;l&#0116;&#111;:&#00102;a&#117;&#x72;e&#x40;kde&#x2e;&#x6f;&#114;g">David Faure</a>,&nbsp;
-      <a href="m&#00097;ilt&#x6f;&#058;m&#111;n&#116;el&#064;kde&#46;o&#114;&#x67;">Laurent Montel</a></b><br />
-      <b>KSpread: <a href="&#109;ail&#0116;&#x6f;&#x3a;&#109;&#111;n&#116;&#101;&#x6c;&#64;kde.org">Laurent Montel</a></b><br />
-      <b>KPresenter: <a href="m&#x61;il&#116;o:&#x74;.za&#99;&#x68;mann&#x40;za&#103;ge.&#x64;&#0101;">Thorsten Zachmann</a>,&nbsp;
-      <a href="&#109;&#x61;i&#x6c;t&#x6f;:&#x6d;&#x6f;n&#x74;&#101;&#x6c;&#64;kde&#x2e;&#x6f;&#x72;g">Laurent Montel</a></b><br /> 
+      <a href="&#x6d;&#097;&#x69;l&#0116;&#111;:&#00102;a&#117;&#x72;e&#x40;kde&#x2e;&#x6f;&#114;g">David Faure</a></b><br />
+      <b>KSpread: Stefan Nikolaus</b><br />
+      <b>KPresenter: <a href="m&#x61;il&#116;o:&#x74;.za&#99;&#x68;mann&#x40;za&#103;ge.&#x64;&#0101;">Thorsten Zachmann</a></b><br /> 
       <b>Kivio: <a href="m&#97;il&#x74;o&#58;&#0112;s&#0110;&#064;l&#105;n&#0117;x&#0046;&#115;&#00101;">Peter Simonsson</a></b><br />
-      <b>Karbon14: <a href="m&#x61;il&#116;o:buis&#x40;&#x6b;&#100;e.or&#103;">Rob Buis</a></b><br />
+      <b>Karbon14: Jan Hambrecht</b><br />
       <b>Krita: <a
 href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
       <b>Kugar: <a href="m&#x61;i&#00108;&#00116;&#x6f;&#058;t&#0114;e&#97;&#116;&#064;&#107;&#100;&#x65;.&#x6f;&#x72;&#0103;">Adam Treat</a></b><br />
@@ -46,11 +44,9 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
       <!-- <b>KChart: <a href="">Tobias Hintze</a></b><br /> -->
       <b>KChart: <a href="mailto: inge@lysator.liu.se">Inge Wallin</a></b><br />
       <b>KFormula: <a href="mailto:alfredo.beaumont@gmail.com">Alfredo Beaumont</a></b><br />
-<!--      <b>Documentation: <a href="&#109;&#x61;&#00105;lto:&#114;a&#112;hae&#x6c;.&#00108;a&#x6e;g&#101;&#x72;&#104;o&#114;&#115;&#00116;&#x40;k&#100;&#00101;m&#x61;il&#46;&#110;&#0101;&#0116;">Raphael Langerhorst</a></b><br /> -->
       <b>Documentation: <a href="mailto:sanderkoning@kde.nl">Sander Koning</a></b><br />
-      <b>SVN Repository, Configure-Scripts and Makefiles: <a href="&#0109;&#x61;ilt&#111;:c&#111;&#111;&#108;&#111;&#64;k&#x64;e.o&#00114;&#103;">Stephan Kulow</a></b><br />
       </p>
-      
+
       <h2>All developers (including original authors and project founders)</h2>
       <p>
       <b><a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;w&#0101;is&#x40;k&#x64;&#101;&#x2e;o&#114;&#103;">Torben Weis</a></b>
@@ -119,7 +115,7 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
       (MS Word(tm) Import Filter, KWord)<br />
 
       <b><a href="m&#00097;&#x69;&#0108;to&#x3a;za&#0110;&#0100;&#x65;&#x72;&#64;kde&#46;o&#0114;g">Thomas Zander</a></b>
-      (KWord)<br />
+      (KWord, Flake)<br />
 
       <b><a href="&#109;ai&#108;t&#111;:&#00106;ca&#00108;&#x69;&#00102;f&#64;c&#00111;mp&#117;&#122;&#x6f;n&#x65;.net">John Califf</a></b>
       (Krita, KWord GUI enhancements)<br />
@@ -275,7 +271,7 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
       (Kugar)<br />
 
     <b><a href="m&#x61;il&#116;o:&#x74;.za&#99;&#x68;mann&#x40;za&#103;ge.&#x64;&#0101;">Thorsten Zachmann</a></b>
-    (KPresenter)<br />
+    (KPresenter, Flake)<br />
 
       <b><a href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b>
     (Krita)<br />

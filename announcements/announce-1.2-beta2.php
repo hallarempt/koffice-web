@@ -66,7 +66,7 @@
 <p>
   "With this release we are starting to build from the mature and stable
   framework we have been building over a long period of time," stated
-  <a href="mailto:zander_AT_kde_DOT_org">Thomas Zander</a>, a core KOffice
+  Thomas Zander, a core KOffice
   developer.  "The effort put into this framework is now really starting to
   pay off, as new features can be added to KOffice components with incredible
   ease.  The maturity and simplicity of the KOffice framework also makes

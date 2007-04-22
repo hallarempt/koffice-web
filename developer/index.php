@@ -27,7 +27,7 @@
    <ul>
      <li><a href="http://www.kexi-project.org/">Kexi Project Wiki</a></li>
      <li><a href="krita/">Krita development</a> and it's 
-         <a href="http://wiki.kde.org/krita+todo">TODO list</a></li>
+         <a href="http://wiki.koffice.org/index.php?title=Krita/ToDo">TODO list</a></li>
    </ul>
 
    <h2>Specific Resources</h2>
