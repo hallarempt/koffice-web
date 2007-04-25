@@ -16,9 +16,6 @@ With the release of KOffice 2.0 (and KDE4.0!) drawing closer every day, KOffice 
   <li><a href="participants.php">Participants</a></li>
   <li><a href="travel.php">Travel &amp; Accommodation</a></li>
   <li><a href="agenda.php">Agenda</a></li>
+  <li><a href="contact.php">Contact</a></li>
 </ul>
-<h3>Contact</h3>
-<p>
-For any further enquiries or information regarding the KOffice ODF Weekend, do not hesitate to contact Claire Lotion, the event organiser, at <a href="mailto:clairelotion@kde.nl">clairelotion@kde.nl</a>
-</p>
 <?php include("footer.inc"); ?>
