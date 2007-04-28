@@ -28,11 +28,11 @@ The following people are participating in the ODF Weekend:
     <td>KSpread</td>
   </tr>
   <tr>
-    <td>Thorsten Zachman</td>
+    <td>Thorsten Zachmann</td>
     <td>KPresenter, Kivio</td>
   </tr>
   <tr>
-    <td>Jan Hanbrecht</td>
+    <td>Jan Hambrecht</td>
     <td>Karbon</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ The following people are participating in the ODF Weekend:
 <br />
 <table border="1" width="75%">
   <tr>
-    <th>Other Developers</th>
+    <th colspan="2">Other Developers</th>
   </tr>
   <tr>
     <th>Name</th>
@@ -78,14 +78,14 @@ The following people are participating in the ODF Weekend:
     <td>Okular</td>
   </tr>
   <tr>
-    <td>Aaron Siego</td>
+    <td>Aaron Seigo</td>
     <td>KDElibs</td>
   </tr>
 </table>
 <br />
 <table border="1" width="75%">
   <tr>
-    <th>Misc. Participants</th>
+    <th colspan="2">Misc. Participants</th>
   </tr>
   <tr>
     <th>Name</th>
