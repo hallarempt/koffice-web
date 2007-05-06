@@ -82,7 +82,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
     <h3>Presentations</h3>
 
         <ul>
-            <li><a href="KritaLGM2007.odp">The presentation  Boudewijn Rempt and Cyrille Berger gave at the 2007 Libre Graphics Meeting</li>
+            <li><a href="/presentations/KritaLGM2007.odp">The presentation  Boudewijn Rempt and Cyrille Berger gave at the 2007 Libre Graphics Meeting</li>
             <li><a href="talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
         Info Tag in Augsburg. (German)</a></li>
             <li><a href="krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
