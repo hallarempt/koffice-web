@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Thomas Zander</td>
-    <td>Fri, 13:00</td>
+    <td>Fri, 17:00</td>
     <td></td>
     <td>13:00</td>
     <td></td>
@@ -150,3 +150,4 @@
   </tr>
 </table>
 <?php include("footer.inc"); ?>
+
