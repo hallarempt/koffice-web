@@ -1,5 +1,5 @@
 <?php
-  $page_title='KOffice ODF Weekend - Contact';
+  $page_title='KOffice ODF Weekend - Arrivals and Departures';
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
@@ -31,9 +31,9 @@
   <tr>
     <td>Thomas Zander</td>
     <td>Fri, 17:00</td>
-    <td></td>
-    <td>13:00</td>
-    <td></td>
+    <td>N/A</td>
+    <td>Sun, 13:00</td>
+    <td>N/A</td>
     <td>Car</td>
   </tr>
   <tr>
