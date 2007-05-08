@@ -17,5 +17,6 @@ With the release of KOffice 2.0 (and KDE4.0!) drawing closer every day, KOffice 
   <li><a href="travel.php">Travel &amp; Accommodation</a></li>
   <li><a href="agenda.php">Agenda</a></li>
   <li><a href="contact.php">Contact</a></li>
+  <li><a href="arrivals.php">Arrival &amp; Departure Information</a></li>
 </ul>
 <?php include("footer.inc"); ?>
