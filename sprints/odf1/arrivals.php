@@ -112,7 +112,7 @@
     <td>Philip Rodrigues</td>
     <td>Fri, 22:45</td>
     <td>Berlin Schoenefeld</td>
-    <td>Fri, 18:35</td>
+    <td>Sun, 18:35</td>
     <td>Berlin Schoenefeld</td>
     <td>Flight</td>
   </tr>
