@@ -122,7 +122,7 @@
     <td>-</td>
     <td>Sun, 13:00</td>
     <td>-</td>
-    <td>Train + Car w/Thomas</td>
+    <td>Train + Car</td>
   </tr>
   <tr>
     <td>Jos Poortvliet</td>
@@ -130,7 +130,7 @@
     <td>-</td>
     <td>Sun, 13:00</td>
     <td>-</td>
-    <td>Car w/Thomas</td>
+    <td>Car</td>
   </tr>
   <tr>
     <td>Tobias Koenig</td>
