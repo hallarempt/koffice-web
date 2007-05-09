@@ -9,7 +9,7 @@ The following people are participating in the ODF Weekend:
 </p>
 <table border="1" width="75%">
   <tr>
-    <th colspan="2">Representatives</th>
+    <th colspan="2">Maintainers</th>
   </tr>
   <tr>
     <th>Name</th>
