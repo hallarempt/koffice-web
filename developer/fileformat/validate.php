@@ -37,7 +37,7 @@
     <pre><code>
 #!/bin/sh
 java -jar $HOME/src/jing/bin/jing.jar \
-     -i /k/oo/OpenDocument-schema-v1.0-os.rng $*
+     -i /d/kde/opendocument/OpenDocument-schema-v1.1.rng $*
     </code></pre>
   <p>
 
@@ -48,7 +48,7 @@ java -jar $HOME/src/jing/bin/jing.jar \
     in the script.</p>
 
     <p>Create a similar script named <code>oasislint-strict</code> which uses
-       <code>OpenDocument-strict-schema-v1.0-os.rng</code> instead. </p>
+       <code>OpenDocument-strict-schema-v1.1.rng</code> instead. </p>
   <p>Finally, it would be helpful to have a script that automatically
    checks the XML files inside a ZIP package (since KOffice documents
    are ZIP packages), so that you don't have to unzip it by hand.
