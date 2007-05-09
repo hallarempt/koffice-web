@@ -34,4 +34,7 @@ Fax: +49/30/70 07 98 01<br />
 <p>
 <strong>Hauptbahnhof to Motel: </strong> Beside the railway station Bahnhof Zoo, there is a railway station named Hauptbahnhof (or just "Berlin, Hbf" as a shorthand). To get to the motel from this station is just the same as the one described above for the Bahnhof Zoo. So, at the Hauptbahnhof, board the S5 to Mahlsdorf and switch at the Alexanderplatz-station to the U8 bound for Hermannstr to reach the Moritzplatz-station.
 </p>
+<p>
+<strong>Schoenefeld Airport to Motel:</strong> From the terminal, walk to the bus station for the bus X7. Take this bus to the U Rudow. You then enter the underground (which is denoted by a blue sign with a white U on it) and take the U7 going to Rathaus Spandau, and leave at Hermannplatz. Here you change to the U8 heading to Wittenau, getting off at Moritzplatz. From here, it is roughly a fifter metre walk to the Motel One Berlin-Mitte.
+</p>
 <?php include("footer.inc"); ?>
