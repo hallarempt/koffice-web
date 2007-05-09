@@ -4,8 +4,7 @@
   include("koffice.inc");
   include("header.inc");
 ?>
-<p><strong>Please note that this list is still missing a lot of information: any missing information should be emailed to Peter Murdoch as soon as possible at: pete _at_ pmurdoch _dot_ com. Thanks :)</strong></p>
-
+<p>
 <table border="1">
   <tr>
     <th rowspan="2">Name</th>
@@ -86,10 +85,10 @@
   </tr>
   <tr>
     <td>Martin Pfeiffer</td>
-    <td>Fri</td>
-    <td></td>
-    <td>Sun</td>
-    <td></td>
+    <td>Fri, 12:21</td>
+    <td>Berlin Hauptbahnhof</td>
+    <td>Sun, 17:12</td>
+    <td>Berlin Hauptbahnhof</td>
     <td>Train</td>
   </tr>
   <tr>
@@ -149,5 +148,6 @@
     <td>Flight</td>
   </tr>
 </table>
+</p>
 <?php include("footer.inc"); ?>
 

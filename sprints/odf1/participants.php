@@ -80,7 +80,7 @@ The following people are participating in the ODF Weekend:
   <tr>
     <td>Philip Rodriques</td>
     <td>Documentation, testing</td>
-    <td>philrod</td>
+    <td>PhilRod</td>
   </tr>
   <tr>
     <td>Anne-Marie Mahfouf</td>
