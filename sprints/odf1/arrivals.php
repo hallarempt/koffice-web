@@ -22,11 +22,11 @@
   <!-- -->
   <tr>
     <td>David Faure</td>
-    <td>Fri</td>
-    <td></td>
+    <td>Fri, around 14</td>
+    <td>Berlin Tegel</td>
     <td>Sun</td>
-    <td></td>
-    <td></td>
+    <td>Berlin Tegel</td>
+    <td>Flight</td>
   </tr>
   <tr>
     <td>Thomas Zander</td>
