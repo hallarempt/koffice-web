@@ -79,9 +79,9 @@
   <tr>
     <td>Alfredo Beaumont</td>
     <td>Fri, 15:00</td>
-    <td>Berlin Schoenefeld</td>
+    <td>Tegel</td>
     <td>Sun, 15:55</td>
-    <td>Berlin Schoenefeld</td>
+    <td>Tegel</td>
     <td>Flight</td>
   </tr>
   <tr>
