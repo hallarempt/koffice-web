@@ -103,9 +103,9 @@
   <tr>
     <td>Pierre Ducroquet</td>
     <td>Sat, 08:00</td>
-    <td>Berlin Hauptbahnhof</td>
+    <td>Berlin Hbf</td>
     <td>Sun, 14:57</td>
-    <td>Berlin Hauptbahnhof</td>
+    <td>Berlin Hbf</td>
     <td>Train</td>
   </tr>
   <tr>
