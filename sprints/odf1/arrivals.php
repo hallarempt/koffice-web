@@ -31,9 +31,9 @@
   <tr>
     <td>Thomas Zander</td>
     <td>Fri, 17:00</td>
-    <td>N/A</td>
+    <td>-</td>
     <td>Sun, 13:00</td>
-    <td>N/A</td>
+    <td>-</td>
     <td>Car</td>
   </tr>
   <tr>
@@ -55,14 +55,14 @@
   <tr>
     <td>Jan Hambrecht</td>
     <td>Fri</td>
-    <td></td>
+    <td>-</td>
     <td>Sun</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>Lives in Berlin</td>
   </tr>
   <tr>
     <td>Boudewijn Rempt</td>
-    <td>Thur, 21:08</td>
+    <td>Thu, 21:08</td>
     <td>Berlin Hbf</td>
     <td>Sun, 16:39</td>
     <td>Berlin Hbf</td>
@@ -95,10 +95,10 @@
   <tr>
     <td>Sebastian Sauer</td>
     <td>Fri</td>
-    <td></td>
+    <td>-</td>
     <td>Sun</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>Lives in Berlin</td>
   </tr>
   <tr>
     <td>Pierre Ducroquet</td>
@@ -118,23 +118,23 @@
   </tr>
   <tr>
     <td>Claire Lotion</td>
-    <td>Fri, 13:00</td>
-    <td></td>
+    <td>Fri, 17:00</td>
+    <td>-</td>
     <td>Sun, 13:00</td>
-    <td></td>
+    <td>-</td>
     <td>Train + Car w/Thomas</td>
   </tr>
   <tr>
     <td>Jos Poortvliet</td>
-    <td>Fri</td>
-    <td></td>
-    <td>Sun</td>
-    <td></td>
-    <td>Car</td>
+    <td>Fri, 17:00</td>
+    <td>-</td>
+    <td>Sun, 13:00</td>
+    <td>-</td>
+    <td>Car w/Thomas</td>
   </tr>
   <tr>
     <td>Tobias Koenig</td>
-    <td>Thur, 17:45</td>
+    <td>Thu, 17:45</td>
     <td></td>
     <td>Sun, 21:00</td>
     <td></td>
