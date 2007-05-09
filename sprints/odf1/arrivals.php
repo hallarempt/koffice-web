@@ -38,11 +38,11 @@
   </tr>
   <tr>
     <td>Ariya Hidayat</td>
-    <td>Fri</td>
-    <td></td>
-    <td>Sun</td>
-    <td></td>
-    <td></td>
+    <td>Fri, noon</td>
+    <td>Berlin Hbf</td>
+    <td>Sun, afternoon</td>
+    <td>Berlin Hbf</td>
+    <td>Train</td>
   </tr>
   <tr>
     <td>Thorsten Zachmann</td>
