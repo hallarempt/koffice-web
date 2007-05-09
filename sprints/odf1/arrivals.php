@@ -102,11 +102,11 @@
   </tr>
   <tr>
     <td>Pierre Ducroquet</td>
-    <td>Sat</td>
-    <td></td>
-    <td>Sun</td>
-    <td></td>
-    <td></td>
+    <td>Sat, 08:00</td>
+    <td>Berlin Hauptbahnhof</td>
+    <td>Sun, 14:57</td>
+    <td>Berlin Hauptbahnhof</td>
+    <td>Train</td>
   </tr>
   <tr>
     <td>Philip Rodrigues</td>

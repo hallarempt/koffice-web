@@ -11,6 +11,23 @@
 <p>
 <table border="1" width="80%">
   <tr>
+    <th colspan="2">Friday</th>
+  </tr>
+  <tr>
+    <th>Event</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Meeting up at KDAB offices</td>
+    <td>Afternoon</td>
+  </tr>
+  <tr>
+    <td>Dinner after everyone arrives</td>
+    <td>18:30 approx.</td>
+  </tr>
+</table>
+<table border="1" width="80%">
+  <tr>
     <th colspan="3">Saturday</td>
   </tr>
   <tr>
