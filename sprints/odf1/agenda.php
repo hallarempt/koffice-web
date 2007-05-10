@@ -85,6 +85,10 @@
     <td>Hacking, spontaneous meetings</td>
   </tr>
   <tr>
+    <td>15:00 approx.</td>
+    <td>Final words and closing ceremony</td>
+  </tr>
+  <tr>
     <td>Afternoon</td>
     <td>People begin to pack, leaving whenever they wish</td>
   </tr>

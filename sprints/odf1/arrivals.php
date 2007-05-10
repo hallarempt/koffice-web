@@ -21,9 +21,9 @@
   <!-- -->
   <tr>
     <td>David Faure</td>
-    <td>Fri, around 14</td>
+    <td>Fri, 14:05</td>
     <td>Berlin Tegel</td>
-    <td>Sun</td>
+    <td>Sun, 17:45</td>
     <td>Berlin Tegel</td>
     <td>Flight</td>
   </tr>
