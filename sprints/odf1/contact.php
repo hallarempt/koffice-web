@@ -15,5 +15,6 @@ Tel (Mobile): +46 707 26 08 53
 <h4>Claire Lotion</h4>
 <p>
 Email: <a href="mailto:clairelotion@kde.nl">clairelotion@kde.nl</a><br />
+Tel (Mobile): +31 6 41073474
 </p>
 <?php include("footer.inc"); ?>
