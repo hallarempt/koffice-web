@@ -17,4 +17,7 @@ Tel (Mobile): +46 707 26 08 53
 Email: <a href="mailto:clairelotion@kde.nl">clairelotion@kde.nl</a><br />
 Tel (Mobile): +31 6 41073474
 </p>
+<h4>KDAB Offices</h4>
+Tel: +49 (0)30 521 325 470
+<em>Extension <b>72</b> will reach Till Adam</em>
 <?php include("footer.inc"); ?>
