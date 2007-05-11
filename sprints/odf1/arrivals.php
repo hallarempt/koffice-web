@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td>Pierre Ducroquet</td>
-    <td>Sat, 08:00</td>
+    <td>Sat, 08:11</td>
     <td>Berlin Hbf</td>
     <td>Sun, 14:57</td>
     <td>Berlin Hbf</td>
