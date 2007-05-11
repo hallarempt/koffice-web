@@ -97,6 +97,11 @@ The following people are participating in the ODF Weekend:
     <td>KDElibs</td>
     <td>aseigo</td>
   </tr>
+  <tr>
+    <td>Pierre Ducroquet</td>
+    <td>SoC, KWord</td>
+    <td>Pinaraf</td>
+  </tr>
 </table>
 <br />
 <table border="1" width="75%">
