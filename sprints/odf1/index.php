@@ -21,7 +21,7 @@ With the release of KOffice 2.0 (and KDE4.0!) drawing closer every day, KOffice 
   <li><a href="contact.php">Contact</a></li>
   <li><a href="arrivals.php">Arrival &amp; Departure Information</a></li>
 </ul>
-<h3>IRC contact<h3/>
-<p>Should you need to contact the KOffice developers during the week-end, you can easily do so with IRC on the freenode network and through the #koffice channel.</p>
+<h3>IRC contact</h3>
+<p>Should you need to contact the KOffice developers during the weekend, you can easily do so via <acronym title="Internet Relay Chat">IRC</acronym> on the Freenode network in the <a href="irc://irc.freenode.net/koffice">#koffice</a> channel.</p>
 
 <?php include("footer.inc"); ?>
