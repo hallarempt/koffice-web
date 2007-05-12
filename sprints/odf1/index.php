@@ -1,5 +1,5 @@
 <?php
-  $page_title='KOffice ODF Weekend';
+  $page_title='1st KOffice ODF Weekend';
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
