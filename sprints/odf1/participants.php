@@ -78,6 +78,11 @@ The following people are participating in the ODF Weekend:
     <td>dipesh</td>
   </tr>
   <tr>
+    <td>Pierre Ducroquet</td>
+    <td>KWord</td>
+    <td>pinaraf</td>
+  </tr>
+  <tr>
     <td>Philip Rodriques</td>
     <td>Documentation, testing</td>
     <td>PhilRod</td>

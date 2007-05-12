@@ -37,4 +37,12 @@ Fax: +49/30/70 07 98 01<br />
 <p>
 <strong>Schoenefeld Airport to Motel:</strong> From the terminal, walk to the bus station for the bus X7. Take this bus to the U Rudow. You then enter the underground (which is denoted by a blue sign with a white U on it) and take the U7 going to Rathaus Spandau, and leave at Hermannplatz. Here you change to the U8 heading to Wittenau, getting off at Moritzplatz. From here, it is roughly a fifter metre walk to the Motel One Berlin-Mitte.
 </p>
+<h3>Travel Reimbursement</h3>
+<p>Please print <a href="http://ev.kde.org/resources/expense_report.pdf">this expense report file</a>, fill it and send it to<br />
+ Claire Lotion<br />
+ Henriëtte van Soelenlaan 15<br />
+ 2545 EV The Hague<br /> 
+ The Netherlands<br />
+along with the original receipts by snail mail.</p>
+
 <?php include("footer.inc"); ?>
