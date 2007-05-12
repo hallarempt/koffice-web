@@ -78,11 +78,6 @@ The following people are participating in the ODF Weekend:
     <td>dipesh</td>
   </tr>
   <tr>
-    <td>Pierre Ducroquet</td>
-    <td>KWord</td>
-    <td>pinaraf</td>
-  </tr>
-  <tr>
     <td>Philip Rodriques</td>
     <td>Documentation, testing</td>
     <td>PhilRod</td>
@@ -129,9 +124,9 @@ The following people are participating in the ODF Weekend:
     <td>ingwa</td>
   </tr>
   <tr>
-    <td>Jos Poortlivet</td>
+    <td>Jos Poortvliet</td>
     <td>Press coverage</td>
-    <td>-</td>
+    <td>superstoned</td>
   </tr>
 </table>
 <?php include("footer.inc"); ?>
