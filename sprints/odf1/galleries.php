@@ -7,7 +7,7 @@
 <p>
 <img src="group-odf1.jpg" height="347" width="462" alt="Group picture" />
 </p>
-<p><i>From left to right on the back:</i> Alfredo Beaumont, Pierre Ducroquet, Claire Lotion, David Faure, Anne-Marie Mahfouf, Jan Hambrecht, Thorsten Zachmann, Boudewijn Rempt, Inge Wallin, Philip Rodriques, Ariya Hidayat, Tobias Koenig<br />
+<p><i>From left to right on the back:</i> Alfredo Beaumont, Pierre Ducroquet, Claire Lotion, David Faure, Anne-Marie Mahfouf, Jan Hambrecht, Thorsten Zachmann, Boudewijn Rempt, Inge Wallin, Philip Rodrigues, Ariya Hidayat, Tobias Koenig<br />
 <i>From left to right first row:</i> Martin Pfeiffer, Thomas Zander, Sebastian Sauer, Jos Poortvliet</p>
 <p>
 Enjoy the great press reports, pictures galleries and presentations:

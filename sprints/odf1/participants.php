@@ -65,7 +65,7 @@ The following people are participating in the ODF Weekend:
   <tr>
     <th>Name</th>
     <th>Representing</th>
-    <th>IRC Nickname</td>
+    <th>IRC Nickname</th>
   </tr>
   <tr>
     <td>Martin Pfeiffer</td>
@@ -78,7 +78,7 @@ The following people are participating in the ODF Weekend:
     <td>dipesh</td>
   </tr>
   <tr>
-    <td>Philip Rodriques</td>
+    <td>Philip Rodrigues</td>
     <td>Documentation, testing</td>
     <td>PhilRod</td>
   </tr>
