@@ -9,7 +9,7 @@ From <strong>Saturday the 12th of May 2007 until Sunday the 13th</strong>, KOffi
 </p>
 <p>This meeting is kindly sponsored by <a href="http://www.klaralvdalens-datakonsult.se/">KDAB</a> which provides its office rooms in Berlin and as you know, even geeks need to eat, so they also provide food and drinks in abundance. <a href="http://ev.kde.org">KDE e.V.</a> is sponsoring accomodations and travel.<p/>
 
-<p><img src="kdab.jpg" height="71" width="150" alt="KDAB logo" /></p>
+<p><a href="http://www.klaralvdalens-datakonsult.se/"><img src="kdab.jpg" height="71" width="150" alt="KDAB logo" /></a></p>
 
 <h3>What is the purpose of this weekend?</h3>
 <p>
