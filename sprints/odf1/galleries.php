@@ -5,7 +5,8 @@
   include("header.inc");
 ?>
 <p>
-</p><img src="group-odf1.jpg" height="347" width="462" alt="Group picture" />
+<img src="group-odf1.jpg" height="347" width="462" alt="Group picture" /></p>
+<p></p>
 <p>
 Enjoy the great press reports, pictures galleries and presentations:
 </p>
@@ -21,7 +22,7 @@ Enjoy the great press reports, pictures galleries and presentations:
 <li>photos galleries</li>
 <li>links to documents
 	<ul>
-	<li><a href="http://docs.oasis-open.org/office/v1.1/OS/OpenDocument-v1.1.pdf">OASIS Open Document Format Specification v1.1 in pdf</a></li>
+	<li><a href="http://wiki.koffice.org/index.php?title=KOffice_and_ODF">KOffice and </a></li>
 	</ul></li>
 </ul>
 
