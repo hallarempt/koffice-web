@@ -93,11 +93,6 @@ The following people are participating in the ODF Weekend:
     <td>tokoe</td>
   </tr>
   <tr>
-    <td>Aaron Seigo</td>
-    <td>KDElibs</td>
-    <td>aseigo</td>
-  </tr>
-  <tr>
     <td>Pierre Ducroquet</td>
     <td>SoC, KWord</td>
     <td>Pinaraf</td>
