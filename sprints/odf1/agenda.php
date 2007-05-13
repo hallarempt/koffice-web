@@ -85,7 +85,7 @@
     <td>Hacking, spontaneous meetings</td>
   </tr>
   <tr>
-    <td>15:00 approx.</td>
+    <td>14:00 approx.</td>
     <td>Final words and closing ceremony</td>
   </tr>
   <tr>
