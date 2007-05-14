@@ -21,12 +21,13 @@ Enjoy the great press reports, pictures galleries and presentations:
 <li><b>blogs</b>
 	<ul>
 	<li><a href="http://www.valdyas.org/fading/index.cgi/2007/05/11#berlin1">Boudewijn Rempt: Friday</a></li>
-    <li><a href="http://nowwhatthe.blogspot.com/2007/05/dont-computers-suck.html">Jos Poortvliet: Saturday</a></li>
+    <li><a href="http://nowwhatthe.blogspot.com/2007/05/dont-computers-suck.html">Jos Poortvliet: Don't computers suck?</a></li>
     <li><a href="http://annma.blogspot.com/2007/05/odf-saturday.html">Anne-Marie Mahfouf: Saturday</a></li>
-    <li><a href="http://nowwhatthe.blogspot.com/2007/05/boost.html">Jos Poortvliet: Saturday</a></li>
+    <li><a href="http://nowwhatthe.blogspot.com/2007/05/boost.html">Jos Poortvliet: Boost</a></li>
    <li><a href="http://jaham.wordpress.com/">Jan Hambrecht</a></li>
-   <li><a href="http://ariya.blogspot.com/2007/05/on-these-hands-and-knees-im-crawlin.html">Ariya Hidayat</a></li>
+   <li><a href="http://ariya.blogspot.com/2007/05/on-these-hands-and-knees-im-crawlin.html">Ariya Hidayat: Berlin, Berlin</a></li>
 	<li><a href="http://annma.blogspot.com/2007/05/odf-sunday.html">Anne-Marie Mahfouf: ODF Sunday</a></li>
+    <li><a href="http://www.alfredobeaumont.org/blog/entry/15/">Alfredo Beaumont: Back from Berlin</a></li>
 	</ul>
 </li>
 <li><b>photos galleries</b>
