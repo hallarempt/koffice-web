@@ -13,7 +13,11 @@
 Enjoy the great press reports, pictures galleries and presentations:
 </p>
 <ul>
-<li>press reports</li>
+<li><b>press reports</b>
+	<ul>
+	<li><a href="http://dot.kde.org/1179060633/">Dot news: KOffice ODF Sprint Kickoff</a></li>
+	</ul>
+</li>
 <li><b>blogs</b>
 	<ul>
 	<li><a href="http://www.valdyas.org/fading/index.cgi/2007/05/11#berlin1">Boudewin Rempt: Friday</a></li>
@@ -22,6 +26,7 @@ Enjoy the great press reports, pictures galleries and presentations:
     <li><a href="http://nowwhatthe.blogspot.com/2007/05/boost.html">Jos Poortvliet: Saturday</a></li>
    <li><a href="http://jaham.wordpress.com/">Jan Hambrecht</a></li>
    <li><a href="http://ariya.blogspot.com/2007/05/on-these-hands-and-knees-im-crawlin.html">Ariya Hidayat</a></li>
+	<li><a href="http://annma.blogspot.com/2007/05/odf-sunday.html">Anne-Marie Mahfouf: ODF Sunday</a></li>
 	</ul>
 </li>
 <li><b>photos galleries</b>
