@@ -20,7 +20,7 @@ Enjoy the great press reports, pictures galleries and presentations:
 </li>
 <li><b>blogs</b>
 	<ul>
-	<li><a href="http://www.valdyas.org/fading/index.cgi/2007/05/11#berlin1">Boudewin Rempt: Friday</a></li>
+	<li><a href="http://www.valdyas.org/fading/index.cgi/2007/05/11#berlin1">Boudewijn Rempt: Friday</a></li>
     <li><a href="http://nowwhatthe.blogspot.com/2007/05/dont-computers-suck.html">Jos Poortvliet: Saturday</a></li>
     <li><a href="http://annma.blogspot.com/2007/05/odf-saturday.html">Anne-Marie Mahfouf: Saturday</a></li>
     <li><a href="http://nowwhatthe.blogspot.com/2007/05/boost.html">Jos Poortvliet: Saturday</a></li>
