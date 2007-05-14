@@ -20,6 +20,8 @@ Enjoy the great press reports, pictures galleries and presentations:
     <li><a href="http://nowwhatthe.blogspot.com/2007/05/dont-computers-suck.html">Jos Poortvliet: Saturday</a></li>
     <li><a href="http://annma.blogspot.com/2007/05/odf-saturday.html">Anne-Marie Mahfouf: Saturday</a></li>
     <li><a href="http://nowwhatthe.blogspot.com/2007/05/boost.html">Jos Poortvliet: Saturday</a></li>
+   <li><a href="http://jaham.wordpress.com/">Jan Hambrecht</a></li>
+   <li><a href="http://ariya.blogspot.com/2007/05/on-these-hands-and-knees-im-crawlin.html">Ariya Hidayat</a></li>
 	</ul></li>
 <li>photos galleries</li>
 <li><b>links to documents</b>
