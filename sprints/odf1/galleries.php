@@ -22,8 +22,14 @@ Enjoy the great press reports, pictures galleries and presentations:
     <li><a href="http://nowwhatthe.blogspot.com/2007/05/boost.html">Jos Poortvliet: Saturday</a></li>
    <li><a href="http://jaham.wordpress.com/">Jan Hambrecht</a></li>
    <li><a href="http://ariya.blogspot.com/2007/05/on-these-hands-and-knees-im-crawlin.html">Ariya Hidayat</a></li>
-	</ul></li>
-<li>photos galleries</li>
+	</ul>
+</li>
+<li><b>photos galleries</b>
+	<ul>
+	<li><a href="http://www.flickr.com/photos/75461282@N00/sets/72157600212854687/">Annma's photos</a></li>
+    </ul>
+</li>
+
 <li><b>links to documents</b>
 	<ul>
 	<li><a href="http://wiki.koffice.org/index.php?title=KOffice_and_ODF">KOffice and ODF</a></li>
