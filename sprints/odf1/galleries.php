@@ -15,6 +15,7 @@ Enjoy the great press reports, pictures galleries and presentations:
 <ul>
 <li><b>press reports</b>
 	<ul>
+	<li><a href="http://dot.kde.org/1177773146/">Dot news: KOffice Developers Meet with KDE Core People for ODF Infrastructure</a></li>
 	<li><a href="http://dot.kde.org/1179060633/">Dot news: KOffice ODF Sprint Kickoff</a></li>
 	<li><a href="http://dot.kde.org/1179144063/">Dot news: KOffice ODF Sprint Report</a></li>
 	</ul>
