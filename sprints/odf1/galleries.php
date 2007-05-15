@@ -16,6 +16,7 @@ Enjoy the great press reports, pictures galleries and presentations:
 <li><b>press reports</b>
 	<ul>
 	<li><a href="http://dot.kde.org/1179060633/">Dot news: KOffice ODF Sprint Kickoff</a></li>
+	<li><a href="http://dot.kde.org/1179144063/">Dot news: KOffice ODF Sprint Report</a></li>
 	</ul>
 </li>
 <li><b>blogs</b>
@@ -41,7 +42,7 @@ Enjoy the great press reports, pictures galleries and presentations:
 	<li><a href="http://wiki.koffice.org/index.php?title=KOffice_and_ODF">KOffice and ODF</a></li>
 	</ul></li>
 </ul>
-
+<p></p>
  <p>
  Last update: <?php echo date ("Y-m-d", filemtime(__FILE__)); ?>
  </p>
