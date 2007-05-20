@@ -50,7 +50,9 @@
     href="/contact/index.php#bugs">here</a>.</p>
 
     <p>Screenshots are placed per component, please look at the
-    pages for each KOffice program.</p>
+    pages for each KOffice program. Alternatively, if you'd like to take
+    a tour of KOffice and view some of it's more prominent features, please
+    visit <a href="/tours/1.6/index.php">here</a></p>
 
 <?php
   include("footer.inc");

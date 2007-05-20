@@ -14,7 +14,7 @@ $section->appendDir("Add-ons for KOffice", "addons");
 $section->appendLink("People", "people.php");
 $section->appendDir("Mailing Lists", "contact");
 $section->appendDir("Support KOffice", "support");
-$section->appendDir("KOffice ODF Weekend", "sprints/odf1");
+$section->appendDir("KOffice Sprints", "sprints/index.php");
 
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
