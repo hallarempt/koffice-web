@@ -30,6 +30,7 @@ Enjoy the great press reports, pictures galleries and presentations:
    <li><a href="http://ariya.blogspot.com/2007/05/on-these-hands-and-knees-im-crawlin.html">Ariya Hidayat: Berlin, Berlin</a></li>
 	<li><a href="http://annma.blogspot.com/2007/05/odf-sunday.html">Anne-Marie Mahfouf: ODF Sunday</a></li>
     <li><a href="http://www.alfredobeaumont.org/blog/entry/15/">Alfredo Beaumont: Back from Berlin</a></li>
+    <li><a href="http://tokoe-kde.blogspot.com/2007/05/odf-sprint-and-okular.html">Tobias Koenig: ODF sprint and Okular</a></li>
 	</ul>
 </li>
 <li><b>photos galleries</b>
