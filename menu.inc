@@ -14,7 +14,6 @@ $section->appendDir("Add-ons for KOffice", "addons");
 $section->appendLink("People", "people.php");
 $section->appendDir("Mailing Lists", "contact");
 $section->appendDir("Support KOffice", "support");
-$section->appendDir("KOffice Sprints", "sprints/index.php");
 
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
@@ -49,4 +48,5 @@ $section->appendDir("Download", "download");
 $section =& $this->appendSection("Development");
 $section->appendDir("Developer Resources", "developer");
 $section->appendDir("Get Involved", "getinvolved");
+$section->appendDir("KOffice Sprints", "sprints/index.php");
 ?>
