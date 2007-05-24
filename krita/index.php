@@ -43,7 +43,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
       of paint is included in 1.5.</p>
 
       <p>Krita can import RAW images in 8 and 16 bits per channel and load and save the usual image
-      formats: tiff, png, jpeg. Other image formats, like xcf, can imported and sometimes exported
+      formats: tiff, png, jpeg. Other image formats, like xcf, can be imported and sometimes exported
       through the GraphicsMagick import/export plugin, but are not fully supported.</p>
 
       <p>Krita has a large array of tools. The 1.6 release contains freehand, line, rectangle, ellipse,
