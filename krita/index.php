@@ -29,6 +29,28 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
     $gallery->show();
   ?>
 </center>
+    
+    <h3>Help the Krita Team!</h3>
+
+    <p>The Krita team needs a new set of advanced Wacom Intuos graphics tablets so we can
+develop painting tools that make use of stylus tilt and the new advanced 6 degrees of freedom
+Art Pen -- that allows you to rotate your stylus. Please see our <a href="http://dot.kde.org/">Dot story</a>
+or donate directly:</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="kde-ev-paypal@kde.org">
+<input type="hidden" name="item_name" value="Krita">
+<input type="hidden" name="item_number" value="2000">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="cn" value="Your message here:">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="hidden" name="lc" value="DE">
+<input type="hidden" name="bn" value="PP-DonationsBF">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
     <h3>Features</h3>
 
       <p>Development on Krita was started in 1999. However, due to frequent changes of maintainer and long
