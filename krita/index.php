@@ -34,7 +34,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 
     <p>The Krita team needs a new set of advanced Wacom Intuos graphics tablets so we can
 develop painting tools that make use of stylus tilt and the new advanced 6 degrees of freedom
-Art Pen -- that allows you to rotate your stylus. Please see our <a href="http://dot.kde.org/">Dot story</a>
+Art Pen -- that allows you to rotate your stylus. Please see our <a href="http://dot.kde.org/1180352311/">Dot story</a>
 or donate directly:</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick">
