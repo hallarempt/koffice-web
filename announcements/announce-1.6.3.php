@@ -34,10 +34,10 @@ fixes.
 </p>
 
     
-<h3>Two New Translations </h3>
+<h3>Three New Translations </h3>
 <p align="justify">
-  This release introduces 2 new translations: Low Saxon and 
-  Nepali, making KOffice available in 38 languages.
+  This release introduces three new translations: Low Saxon,
+  Nepali and Bulgarian, making KOffice available in 39 languages.
 </p>
 
 <h2>About KOffice</h2>
