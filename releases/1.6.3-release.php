@@ -40,7 +40,7 @@
       </li>
       </ul>
     <li>
-    Binary packages are currently available for <a href="http://kubuntu.org/announcements/koffice-163.php">Kubuntu</a>.
+    Binary packages are currently available for <a href="http://kubuntu.org/announcements/koffice-163.php">Kubuntu</a> and <a href="http://software.opensuse.org/download/KDE:/">Backports/OpenSUSE</a>.
     </li>
 
       <h2>MD5 sums</h2>
