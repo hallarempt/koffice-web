@@ -40,7 +40,7 @@
 <p>No changes in KOShell</p>
 
 <h3 id="kspread">KSpread</h3>
-<p>No changes in Kugar</p>
+<p>No changes in KSpread</p>
 
 <h3 id="kpresenter">KPresenter</h3>
 
@@ -50,7 +50,7 @@
 </ul>
 
 <h3 id="kivio">Kivio</h3>
-<p>No changes in Kugar</p>
+<p>No changes in Kivio</p>
 
 <h3 id="kexi">Kexi</h3>
     <em>Main Window</em>
@@ -135,10 +135,10 @@
 </ul>
 
 <h3 id="karbon">Karbon</h3>
-<p>No changes in Kugar</p>
+<p>No changes in Karbon</p>
 
 <h3 id="kplato">KPlato</h3>
-<p>No changes in Kugar</p>
+<p>No changes in KPlato</p>
 
 <h3 id="kchart">KChart</h3>
 <ul>
@@ -146,7 +146,7 @@
 </ul>
 
 <h3 id="kformula">KFormula</h3>
-<p>No changes in Kugar</p>
+<p>No changes in KFormula</p>
 
 <h3 id="kugar">Kugar</h3>
 
