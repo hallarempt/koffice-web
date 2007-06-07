@@ -40,9 +40,7 @@
 <p>No changes in KOShell</p>
 
 <h3 id="kspread">KSpread</h3>
-<ul>
-  <li>
-</ul>
+<p>No changes in Kugar</p>
 
 <h3 id="kpresenter">KPresenter</h3>
 
@@ -52,9 +50,7 @@
 </ul>
 
 <h3 id="kivio">Kivio</h3>
-<ul>
-  <li>
-</ul>
+<p>No changes in Kugar</p>
 
 <h3 id="kexi">Kexi</h3>
     <em>Main Window</em>
@@ -85,7 +81,6 @@
     <ul>
       <li>clear command history after successful saving of the design</li>
       <li>on switching to data view, do not warn about removing data, if the data will stay untouched</li>
-
     </li>
     </ul>
     <em>Query Designer</em>
@@ -123,14 +118,6 @@
         (previously it moved to other record)</li>
       <li>forms having parameter query as data source now ask for parameters</li>
     </ul>
-    <em>Tools</em>
-    <ul>
-      <li>
-    </ul>
-    <em>Project Migration</em>
-    <ul>
-      <li>
-    </ul>
 
 
 <h3 id="krita">Krita</h3>
@@ -146,22 +133,12 @@
   <li>fix scaling with a selection <a href="http://bugs.kde.org/141390">bug 141390</a></li>
   <li>Fix scale of image so it leaves no transparent borders <a href="http://bugs.kde.org/143029">bug 143029</a><li>
 </ul>
-<em>File import/export</em>
-<ul>
-  <li>
-</ul>
 
 <h3 id="karbon">Karbon</h3>
-<ul>
-  <li>
-
-</li>
-</ul>
+<p>No changes in Kugar</p>
 
 <h3 id="kplato">KPlato</h3>
-<ul>
-  <li>
-</ul>
+<p>No changes in Kugar</p>
 
 <h3 id="kchart">KChart</h3>
 <ul>
@@ -169,9 +146,7 @@
 </ul>
 
 <h3 id="kformula">KFormula</h3>
-<ul>
-  <li>
-</ul>
+<p>No changes in Kugar</p>
 
 <h3 id="kugar">Kugar</h3>
 
