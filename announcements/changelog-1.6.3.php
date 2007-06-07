@@ -7,8 +7,8 @@
 <p>
   The following summarises the major changes to the KOffice suite since the
   release of KOffice 1.6.3 (latest stable version). This is mainly a bug fix 
-  release, but some <a href="#newfeatures">new feature</a> were added to krita
-   and kexi.
+  release, but some <a href="#newfeatures">new features</a> were added to Krita
+   and Kexi.
 </p>
 <ul>
 <li><a href="#koffice_general">General changes to KOffice</a></li>
@@ -25,6 +25,12 @@
 <!-- <li><a href="#filters">Filters</a></li> -->
 </ul>
 
+<h3 id="newfeatures">New Features</h3>
+    <em>Kexi</em>
+        <ul>
+           <li>Edit-&gt;Find action added, works within table, query and form views as a global, context-dependent window.</li>
+           <li>Simple Printouts: added support for printing and previewing images</li>
+        </ul>
 
 <h3 id="koffice_general">General changes to KOffice</h3>
 <ul>
@@ -55,8 +61,6 @@
 <h3 id="kexi">Kexi</h3>
     <em>Main Window</em>
     <ul>
-      <li>Edit->Find action added, works within table, query and form views as 
-      a global, context-dependent tool window.</li>
       <li>main window is activated after closing "Insert image" file dialog </li>
       <li>"find" action: restart searching from start for "Search all rows" mode if the user has changed the value to find since previous searching, or the user has recently changed direction to "Search all rows"</li>
       <li>searching is performed within lookup values as well</li>
@@ -65,9 +69,9 @@
     <em>Database Support Library (KexiDB)</em>
     <ul>
       <li>SQL parser can work recursively now (needed when multiple parsers are used in the same thread, removed possible crash)</li>
-      <li>fixed missing kexidb/parser.h file, initially reported by <a href="https://bugs.gentoo.org/show_bug.cgi?id=171290">https://bugs.gentoo.org/show_bug.cgi?id=171290</a> and <a href="http://bugs.kde.org/143960">bug 143960</a></li>
-      <li>remove usage of older API function <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=420477">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=420477</a></li>
-      <li>Queries like "SELECT * FROM TABLE" do not work as expected in data/design/SQL view. The problem appears in application that is compiled using GCC compiler.</li>
+      <li>fixed missing kexidb/parser.h file, initially reported as <a href="https://bugs.gentoo.org/show_bug.cgi?id=171290">Gentoo bug #171290</a> and <a href="http://bugs.kde.org/143960">KDE bug #143960</a></li>
+      <li>remove usage of older API function: <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=420477">Debian bug #420477</a></li>
+      <li>Queries like "SELECT * FROM TABLE" did not work as expected in data/design/SQL view. The problem appeared in application that is compiled using GCC compiler.</li>
     </ul>
     <em>Table view</em>
     <ul>
@@ -94,7 +98,7 @@
     <em>Forms</em>
     <ul>
       <li>fields dragging and dropping works for containers (tab widgets, frames and group boxes)</li>
-      <li>fixed displaying margin for image boxes</li>
+      <li>fixed displaying margins for image boxes</li>
       <li>fixed assigning static images to image boxes without saving form's design;
         the images can now be saved also in data view mode</li>
       <li>fixed handling tab key for image boxes</li>
@@ -118,8 +122,15 @@
         (previously it moved to other record)</li>
       <li>forms having parameter query as data source now ask for parameters</li>
     </ul>
-
-
+    <em>Simple Printouts</em>
+    <ul>
+     <li>fixed problem with records printed between page boundaries</li>
+     <li>fixed problem with updating print preview's page navigator when number of pages differs compared to previous preview</li>
+     <li>improved previewing quality</li>
+     <li>fixed landscape mode</li>
+     <li>fixed refreshing print preview after table data or query results changed</li>
+    </ul>
+    
 <h3 id="krita">Krita</h3>
 
 <ul>
@@ -131,7 +142,7 @@
 <em>Rotation and scaling</em>
 <ul>
   <li>fix scaling with a selection <a href="http://bugs.kde.org/141390">bug 141390</a></li>
-  <li>Fix scale of image so it leaves no transparent borders <a href="http://bugs.kde.org/143029">bug 143029</a><li>
+  <li>Fix scale of image so it leaves no transparent borders <a href="http://bugs.kde.org/143029">bug 143029</a></li>
 </ul>
 
 <h3 id="karbon">Karbon</h3>
@@ -142,7 +153,7 @@
 
 <h3 id="kchart">KChart</h3>
 <ul>
-  <li>fixed invalid include for 3rdparty apps using kchart lib initially reported by <a href="https://bugs.gentoo.org/show_bug.cgi?id=173697">https://bugs.gentoo.org/show_bug.cgi?id=173697</a> and <a href="http://bugs.kde.org/143960">bug 143960</a>
+  <li>fixed invalid include for 3rdparty apps using kchart lib initially reported by <a href="https://bugs.gentoo.org/show_bug.cgi?id=173697">Gentoo bug #173697</a> and <a href="http://bugs.kde.org/143960">KDE bug #143960</a>
 </ul>
 
 <h3 id="kformula">KFormula</h3>

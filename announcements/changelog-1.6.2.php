@@ -7,8 +7,8 @@
 <p>
   The following summarises the major changes to the KOffice suite since the
   release of KOffice 1.6.2 (latest stable version). This is mainly a bug fix 
-  release, but some <a href="#newfeatures">new feature</a> were added to krita
-   and kexi.
+  release, but some <a href="#newfeatures">new features</a> were added to Krita
+   and Kexi.
 </p>
 <ul>
 <li><a href="#koffice_general">General changes to KOffice</a></li>
