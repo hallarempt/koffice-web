@@ -39,6 +39,9 @@
 	</table>
       </li>
       </ul>
+    <li>
+    Binary packages are currently available for <a href="http://kubuntu.org/announcements/koffice-163.php">Kubuntu</a>.
+    </li>
 
       <h2>MD5 sums</h2>
       <p>
