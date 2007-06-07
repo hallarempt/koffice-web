@@ -33,6 +33,13 @@ focused on fixing bugs .
   complete changelog</a> for the complete information.
 </p>
 
+    
+<h3>Four New Translations </h3>
+<p align="justify">
+  This release introduces 2 new translations: Low Saxon and 
+  Nepali, making KOffice available in 38 languages.
+</p>
+
 <h2>About KOffice</h2>
   <p align="justify">
     KOffice is an integrated office suite, today mostly for KDE, which utilizes
