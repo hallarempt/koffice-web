@@ -7,8 +7,21 @@
     <description>The news from KOffice, an office suite integrated with KDE</description>
     <language>en-us</language>
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
-    <copyright>Copyright (c) 2003, 2004, 2005, 2006, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+    <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
+<item>
+  <title>KOffice 1.6.3 released</title>
+  <date>June 7, 2007</date>
+  <fullstory>
+    The KOffice team presents the third maintenance release of the 1.6 series. This release was focused
+    on bugfixing and includes two new translations. For more information, See the
+    <a href="http://www.koffice.org/announcements/announce-1.6.3.php">announcement</a>,
+    the <a href="http://www.koffice.org/releases/1.6.3-release.php">release notes</a> 
+    and the complete <a href="http://www.koffice.org/announcements/changelog-1.6.3.php">list
+    of changes</a>.
+  </fullstory>
+</item>
+    
 <item>
 <title>Krita Graphics Tablet Donation Drive</title>
 <date>May 27, 2007</date>
