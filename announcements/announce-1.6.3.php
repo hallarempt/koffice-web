@@ -22,13 +22,13 @@
 
 <h2>Highlights</h2>
 <p align="justify">
-  This is the last maintenance release of the 1.6 series, wich have been
-focused on fixing bugs .
+  This is the last maintenance release of the 1.6 series, containing mainly bug
+fixes.
 </p>
 
 <h3>Improvements For Most Components</h3>
 <p align="justify">
-   Almost all of the components got some bugs fixed.  See <a
+   There are bug fixes for almost all of the components.  See <a
   href="http://www.koffice.org/announcements/changelog-1.6.3.php">the
   complete changelog</a> for the complete information.
 </p>
