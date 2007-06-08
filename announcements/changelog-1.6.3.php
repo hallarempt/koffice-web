@@ -28,7 +28,8 @@
     <em>Kexi</em>
         <ul>
            <li>Edit-&gt;Find action added, works within table, query and form views as a global, context-dependent window.</li>
-           <li>Simple Printouts: added support for printing and previewing images</li>
+           <li>Simple Printouts: added support for printing and previewing images.</li>
+           <li>Users can create database templates, that can be accessed within the Startup dialog window.</li>
         </ul>
 
 <h3 id="koffice_general">General changes to KOffice</h3>
