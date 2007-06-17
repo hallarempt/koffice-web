@@ -35,8 +35,7 @@ and/or contact your OS vendor.
 </p>
 
 <p>Contributed binaries (if any) of KOffice <?php echo $currentversion; ?> can be found
-<a href="http://download.kde.org/stable/koffice-1.6.0/">here (koffice-1.6)</a> and
-<a href="http://download.kde.org/stable/koffice-1.5.0/">here (koffice-1.5.0)</a>.</p>
+<a href="http://download.kde.org/stable/koffice-1.6.3/">here</a>.</p>
 
 <p><a href="http://www.archlinux.org">Archlinux</a> users can update koffice by typing <code>pacman -S koffice</code>.</p>
 
