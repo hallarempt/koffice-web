@@ -17,5 +17,5 @@ Krita, a graphics manipulation tool, has been included in KOffice since version 
 <p>
 <img src="krita.png" alt="Krita graphics editor" width="705" height="456" />
 </p>
-<a href="karbon14.php">Previous: Karbon14</a> <a href="krita.php">Next: KPlato</a>
+<a href="karbon14.php">Previous: Karbon14</a> <a href="kplato.php">Next: KPlato</a>
 <?php include("footer.inc"); ?>
