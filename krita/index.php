@@ -12,7 +12,7 @@
 
 <p><b><i>Winner of the <a href="http://dot.kde.org/1159194107/">2006 Akademy Award for Best Application</a></i></b></p>
 
-<p>Dan Sawyer reviews Krita in Linux Journal:<b>"Build from the ground up on LCMS</b>, Krita's 32-bit color management system is flanked by well-built, sophisticated tools for accessing it... making it suitable for a broad range of professional graphics demands...This workflow streaming is great...The number of drawing tools is rivaled only by Photoshop and there a few nifty enhancement sin this area where Krita outdoes the venerated veteran from Adobe." <a href="http://www.linuxjournal.com/article/9706">(Dan Sawyer, "Deep Images", Linux Journal 159, July 2007)</a></p>
+<p>Dan Sawyer reviews Krita in Linux Journal:<b>"Build from the ground up on LCMS</b>, Krita's 32-bit color management system is flanked by well-built, sophisticated tools for accessing it... making it suitable for a broad range of professional graphics demands...This workflow streaming is great...The number of drawing tools is rivaled only by Photoshop and there a few nifty enhancements in this area where Krita outdoes the venerated veteran from Adobe." <a href="http://www.linuxjournal.com/article/9706">(Dan Sawyer, "Deep Images", Linux Journal 159, July 2007)</a></p>
 
 <p><b>Krita</b> is a painting and image editing application for KOffice. Krita
 is part of KOffice since version 1.4. Krita contains both ease-of-use and fun features
