@@ -40,7 +40,7 @@ the new year 2007-2008</a>
 
 <h3>Better Integration Through Flake Shapes</h3>
 <p align="justify">
-The core of the new improvements is the revolutionary Flake library
+The core of the new improvements is the revolutionary Flake library,
 which will allow KOffice to use any shape in any application.  A Flake
 shape can be something as simple as a circle or something as complex
 as a complete spreadsheet.  It is also extremely simple to create new
@@ -53,21 +53,19 @@ notation plugin in just 6 weeks.
 </p>
 <p>
 All Flake shapes are plugins, so the user can install new shapes independently of 
-the installed KOffice.  This makes KOffice one of the most extenslible office 
-suites.  We expect many third-party extensions to appear, leading to same situation
-as with mozilla plugins.
-</p>
+the installed KOffice.  This makes KOffice one of the most extensible office 
+suites.  We expect many third-party extensions to appear, given the ease of use of the Flake plugin API.</p>
 
     
 <h3>Uses Qt4 and KDE 4 Technologies </h3>
 <p align="justify">
-The infrastructural changes are enormous, with most of the
-internals rewritten or changed. KOffice version 2 series will take
+The infrastructurel changes are enormous, with most of the
+internals having been rewritten or changed. KOffice version 2 series will take
 full advantage of the improved Qt 4 and kdelibs 4 technologies, giving it
 new features like <a
 href="http://www.kdedevelopers.org/node/2882">text directionality</a>
 and improved <a href="http://www.kdedevelopers.org/node/2812">layouting</a>.
-The text rendering is also much improved, giving it a professional quality text
+The text rendering is also much improved, giving it professional quality text
 layout if the fonts support it.
 </p>
 <p>
@@ -86,13 +84,13 @@ platforms, making it a well-behaved citizen everywhere.
 <h3>Scripting For All Components</h3>
 <p align="justify">
 KOffice will be scriptable in at least Python, Ruby, Javascript and Java 
-through the KDE wide Kross solution.  In this alpha release, this is implemented
+through the KDE-wide Kross solution.  In this alpha release, this is implemented
 for KWord, KSpread and Krita.
 </p>
 
 <h2>About KOffice</h2>
   <p align="justify">
-    KOffice is an integrated office suite, today mostly for KDE, which utilizes
+    KOffice is an integrated office suite built on the KDE platform, and utilizes
     free and open standards like
     <a href="http://en.wikipedia.org/wiki/OpenDocument">OpenDocument</a>
     for its document formats, component communication and component embedding.
