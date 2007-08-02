@@ -27,8 +27,16 @@
   development. It is not meant as something to be used for any real work and can crash
   at any point.  However, here are some of the highlights of the upcoming KOffice 2 series.
   Note that not all of the new technologies will be fully implemented in the first release,
-  2.0.  Also note that KOffice
+  2.0.
 </p>
+<p>
+Also note that although KOffice is included in KDE 4.0 Beta 1, it has its own
+release cycle, and the first version of the KOffice version 2 series
+is expected <a
+href="http://wiki.koffice.org/index.php?title=KOffice2/Schedule">around
+the new year 2007-2008</a>
+</p>
+
 
 <h3>Better Integration Through Flake Shapes</h3>
 <p align="justify">
