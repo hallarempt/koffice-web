@@ -13,7 +13,7 @@
 
   <h2>Announcement</h2>
   <ul>
-  <li><a href="/announcements/ announce-2.0alpha2.php">Announcement</a></li>
+  <li><a href="/announcements/announce-2.0alpha2.php">Announcement</a></li>
   </ul>
 
   <h2>Download</h2>
