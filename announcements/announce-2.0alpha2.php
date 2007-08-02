@@ -59,7 +59,7 @@ suites.  We expect many third-party extensions to appear, given the ease of use 
     
 <h3>Uses Qt4 and KDE 4 Technologies </h3>
 <p align="justify">
-The infrastructurel changes are enormous, with most of the
+The changes to the infrastructure are enormous, with most of the
 internals having been rewritten or changed. KOffice version 2 series will take
 full advantage of the improved Qt 4 and kdelibs 4 technologies, giving it
 new features like <a
