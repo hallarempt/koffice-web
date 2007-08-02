@@ -55,7 +55,7 @@ as with mozilla plugins.
 <p align="justify">
 The infrastructural changes are enormous, with most of the
 internals rewritten or changed. KOffice version 2 series will take
-full advantage of the improved Qt 4 and kdelibs 4 technologis, giving it
+full advantage of the improved Qt 4 and kdelibs 4 technologies, giving it
 new features like <a
 href="http://www.kdedevelopers.org/node/2882">text directionality</a>
 and improved <a href="http://www.kdedevelopers.org/node/2812">layouting</a>.
