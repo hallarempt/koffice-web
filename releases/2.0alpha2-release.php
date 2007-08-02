@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 <p align="justify">
-  DATELINE AUGUSTUS 2, 2007<br />
+  DATELINE AUGUST 2, 2007<br />
   FOR IMMEDIATE RELEASE
 </p>
 
