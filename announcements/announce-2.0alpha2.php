@@ -51,7 +51,7 @@ as with mozilla plugins.
 </p>
 
     
-<h3>Uses Qt4 and KDE 4 technologies </h3>
+<h3>Uses Qt4 and KDE 4 Technologies </h3>
 <p align="justify">
 The infrastructural changes are enormous, with most of the
 internals rewritten or changed. KOffice version 2 series will take
@@ -64,7 +64,7 @@ layout if the fonts support it.
 </p>
 <p>
 Other KDE4 technologies that KOffice 2 will eventually take advantage of are
-Phonon for multimedia, Telepathy for instant messaging and collaboration and
+Phonon for multimedia, Decibel for instant messaging and collaboration and
 Sonnet for automatic language recognition.
 </p>
 
@@ -75,7 +75,7 @@ be too. Due to Qt4, KOffice will have a native look and feel on all
 platforms, making it a well-behaved citizen everywhere.
 </p>
 
-<h3>Scripting for all components</h3>
+<h3>Scripting For All Components</h3>
 <p align="justify">
 KOffice will be scriptable in at least Python, Ruby, Javascript and Java 
 through the KDE wide Kross solution.  In this alpha release, this is implemented
