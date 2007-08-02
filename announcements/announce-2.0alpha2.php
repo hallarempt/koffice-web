@@ -34,7 +34,7 @@ Also note that although KOffice is included in KDE 4.0 Beta 1, it has its own
 release cycle, and the first version of the KOffice version 2 series
 is expected <a
 href="http://wiki.koffice.org/index.php?title=KOffice2/Schedule">around
-the new year 2007-2008</a>
+New Year 2007-2008</a>.
 </p>
 
 
