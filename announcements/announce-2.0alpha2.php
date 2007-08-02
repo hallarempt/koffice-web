@@ -63,11 +63,23 @@ The text rendering is also much improved, giving it a professional quality text
 layout if the fonts support it.
 </p>
 <p>
-
+Other KDE4 technologies that KOffice 2 will eventually take advantage of are
+Phonon for multimedia, Telepathy for instant messaging and collaboration and
+Sonnet for automatic language recognition.
 </p>
 
-<h3>Scripting for all </h3>
+<h3>Ports to Windows and MacOS X </h3>
 <p align="justify">
+Since Qt4 and kdelibs4 are portable to Windows and MacOS X, KOffice 2 will
+be too. Due to Qt4, KOffice will have a native look and feel on all 
+platforms, making it a well-behaved citizen everywhere.
+</p>
+
+<h3>Scripting for all components</h3>
+<p align="justify">
+KOffice will be scriptable in at least Python, Ruby, Javascript and Java 
+through the KDE wide Kross solution.  In this alpha release, this is implemented
+for KWord, KSpread and Krita.
 </p>
 
 <h2>About KOffice</h2>
