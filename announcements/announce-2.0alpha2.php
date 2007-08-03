@@ -146,7 +146,7 @@ for KWord, KSpread and Krita.
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/stable/koffice-2.0 Alpha 2/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.9.92/src/">http and ftp</a> mirrors.
 </p>
 <hr />
 
