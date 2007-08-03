@@ -35,4 +35,49 @@
   </li>
   </ul>
 
+<u><a name="binary">Binary packages</a></u>
+
+<p>
+  Some Linux/UNIX OS vendors have kindly provided binary packages of
+  KOffice 1.92 for some versions of their distribution, and in other cases
+  community volunteers have done so.
+</p>
+
+<p>
+  Currently pre-compiled packages are available for:
+</p>
+
+<ul>
+<li>
+ <a href="http://kubuntu.org/">Kubuntu</a>
+    <ul type="disc">
+      <li>
+         <a href="http://kubuntu.org/announcements/kde4-beta1.php">Packages for 7.04 (Feisty) and Gutsy</a>
+      </li>
+    </ul>
+  <p />
+</li>
+<li>
+ <a href="http://www.opensuse.org/">openSUSE</a>
+    <ul type="disc">
+      <li>
+         <a href="http://en.opensuse.org/KDE4">Packages</a>
+      </li>
+      <li>
+         <a href="http://home.kde.org/~binner/kde-four-live/">openSUSE based KDE4 Live CD</a>
+      </li>
+    </ul>
+  <p />
+</li>
+<li>
+ <a href="http://www.mandriva.com/">Mandriva</a>
+    <ul type="disc">
+      <li>
+         2007: <a href="http://download.kde.org/binarydownload.html?url=/unstable/3.92/Mandriva/">Intel i386</a>
+      </li>
+    </ul>
+  <p />
+</li>
+</ul>
+
 <?php include("footer.inc"); ?>
