@@ -112,7 +112,7 @@ or donate directly:</p>
     <h3>Presentations</h3>
 
         <ul>
-            <li><a href="/presentations/KritaLGM2007.odp">The presentation  Boudewijn Rempt and Cyrille Berger gave at the 2007 Libre Graphics Meeting</li>
+            <li><a href="/presentations/KritaLGM2007.odp">The presentation  Boudewijn Rempt and Cyrille Berger gave at the 2007 Libre Graphics Meeting. (As ogg: <a href="http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.ogg">http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.ogg</a></li>
             <li><a href="talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
         Info Tag in Augsburg. (German)</a></li>
             <li><a href="krita-fosdem2006.pdf">The slides for Bart Coppens' Krita presentation at Fosdem
