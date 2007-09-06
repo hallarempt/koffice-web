@@ -90,11 +90,10 @@ fixing them, and also a little work on new features.  A small list;
     <li>Fix the scale/move/rotate interactions to properly cancel when pressing Escape.</li>
     <li>Work continued on ODF loading/saving in KWord and text in general.</li>
     <li>KWord now properly updates the text when altering either the paragraph or the character styles.</li>
-    <li>KSpread Sheet Duplication bug is fixed. (<a href="http://bugs.kde.org/show_bug.cgi?id=66003">bug report</a>)</li>
-    <li>KSpread Duration Parsing and Displaying. (<a href="http://bugs.kde.org/show_bug.cgi?id=121623">bug report</a>)</li>
-    <li>KSpread fixed Parsing of error values, like "#REF!"</li>
-    <li>KSpread got new functions: GAMMA, SERIESSUM</li>
-
+    <li>KSpread sheets can now be duplicated. (<a href="http://bugs.kde.org/show_bug.cgi?id=66003">Wishlist report</a>)</li>
+    <li>Ability to parse and display durations in KSpread. (<a href="http://bugs.kde.org/show_bug.cgi?id=121623">Wishlist report</a>)</li>
+    <li>KSpread can parse error values, like "#REF!"</li>
+    <li>New functions in KSpread: GAMMA, SERIESSUM</li>
 </ul>
 
 <h2>About KOffice</h2>
