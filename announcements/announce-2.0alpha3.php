@@ -23,10 +23,10 @@
 <p align="justify">
   This is mainly a technology preview for those that are interested in the new ideas
   and technologies of the KOffice 2 series.  We have the ongoing commitment to allow
-  end users and innovators to keep up to date with progress as we move towards the
-  upcoming 2.0 version that will have various new technologies and ideas which are
+  users and innovators to keep up to date with progress as we move towards the
+  final 2.0 version that will have various new technologies and concepts which are
   groundbreaking in the open source world.<br>
-  KOffice 2.0 is currently under heavy
+  KOffice 2 is currently under heavy
   development. It is not meant as something to be used for any real work and can crash
   at any point.  However, here are some of the highlights of the upcoming KOffice 2 series.
   Note that not all of the new technologies will be fully implemented in the first release,
@@ -65,19 +65,21 @@ fixing them, and also a little work on new features.  A small list;
     <li>Porting of WMF vector loading/saving code to reinstate that functionality
         for all KOffice applications</li>
     <li>Configuration widgets for all vector shapes have been created or improved</li>
-    <li>Tabbed toolbar and context aware workspace in Kexi.</li>
-    <li>KWord closed a quite old bug;  "when using buttons for increase text size, it
+    <li>Tabbed toolbar and context aware workspace in Kexi</li>
+    <li>KWord adds a usability features;  "when using buttons for increase text size, it
         becomes all the same size, even if I selected multiple sizes."
-        (<a href="http://bugs.kde.org/show_bug.cgi?id=84725">Bug report</a>)</li>
+        (<a href="http://bugs.kde.org/show_bug.cgi?id=84725">Wishlist report</a>)</li>
     <li>KWord implemented a new feature for paragraph numbering that allows us to do a
         "..., x, y, z, aa, bb, cc, ..." kind of counting. 
+        This closes a 6 years old feature request, which was one of the longest open ones for KOffice.
         (<a href="http://bugs.kde.org/show_bug.cgi?id=34829">Wishlist report</a>)</li>
     <li>Allow each frame to have a custom run-around that you can edit with the
-        vector tools independent of the actual content.</li>
+        vector tools independent of the actual content.
+        (<a href="http://www.koffice.org/kword/pics/200707kword-custom-runaround.png" target="_parent">image</a>)</li>
     <li>Remove the dialog that KWord showed when creating a new shape. We now only
         show this for text frames.</li>
-    <li>Cleanup the UI of the PathTool option docker.</li>
-    <li>Make path editing a lot more CPU friendly by fixing the parts that are repainted
+    <li>Cleanup the user interface of the PathTool options.</li>
+    <li>Make path editing a lot more CPU friendly by limiting the parts that are repainted
         to only what is needed.</li>
     <li>Fix the scale/move/rotate interactions to properly cancel when pressing Escape.</li>
     <li>Work continued on ODF loading/saving in KWord and text in general.</li>
