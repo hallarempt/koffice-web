@@ -72,7 +72,7 @@ fixing them, and also a little work on new features.  A small list;
         for all KOffice applications</li>
     <li>Configuration widgets for all vector shapes have been created or improved</li>
     <li>Tabbed toolbar and context aware workspace in Kexi</li>
-    <li>KWord adds a usability features;  "when using buttons for increase text size, it
+    <li>KWord adds a usability feature;  "when using buttons for increase text size, it
         becomes all the same size, even if I selected multiple sizes."
         (<a href="http://bugs.kde.org/show_bug.cgi?id=84725">Wishlist report</a>)</li>
     <li>KWord implemented a new feature for paragraph numbering that allows us to do a
@@ -89,11 +89,11 @@ fixing them, and also a little work on new features.  A small list;
         to only what is needed.</li>
     <li>Fix the scale/move/rotate interactions to properly cancel when pressing Escape.</li>
     <li>Work continued on ODF loading/saving in KWord and text in general.</li>
-    <li>KWord now properly update the text when altering either the paragraph or the character styles.</li>
+    <li>KWord now properly updates the text when altering either the paragraph or the character styles.</li>
     <li>KSpread Sheet Duplication bug is fixed. (<a href="http://bugs.kde.org/show_bug.cgi?id=66003">bug report</a>)</li>
     <li>KSpread Duration Parsing and Displaying. (<a href="http://bugs.kde.org/show_bug.cgi?id=121623">bug report</a>)</li>
-    <li>KSPread fixed Parsing of error values, like "#REF!"</li>
-    <li>KSPread got new functions: GAMMA, SERIESSUM</li>
+    <li>KSpread fixed Parsing of error values, like "#REF!"</li>
+    <li>KSpread got new functions: GAMMA, SERIESSUM</li>
 
 </ul>
 
