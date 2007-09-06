@@ -22,7 +22,13 @@
 <h2>Highlights</h2>
 <p align="justify">
   This is mainly a technology preview for those that are interested in the new ideas
-  and technologies of the KOffice 2 series.  We have the ongoing commitment to allow
+  and technologies of the KOffice 2 series.
+  This release has improved OpenDocument support for KPresenter, the
+  presentation application and Kivio, the flowchart modeler. Integration
+  of Flake shapes has improved. Flake shapes make integrating various types
+  of office documents much easier by providing containers for document types,
+  new exciting features in KWord.
+  We have the ongoing commitment to allow
   users and innovators to keep up to date with progress as we move towards the
   final 2.0 version that will have various new technologies and concepts which are
   groundbreaking in the open source world.<br>
