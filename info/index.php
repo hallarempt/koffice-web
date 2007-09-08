@@ -23,6 +23,8 @@
     which is released under GPL-compatible open source licenses, e.g. GPL,
     LGPL and BSD.</p>
 
+    <p>KOffice supports <a href="http://www.oasis-open.org/specs/index.php#opendocumentv1.1">Open Document Format</a> (ODF), an <a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=43485">ISO</a> standard. Infact, KOffice is the first office suite that used ODF as the default file format</p>
+
     <p>KOffice stays in active development. This means that KOffice
     is continually being improved, based on reports from users,
     evolving software technology and implementation of new
