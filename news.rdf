@@ -10,6 +10,18 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>First running version of KWord on Windows</title>
+<date>16 Sept, 2007</date>
+<fullstory>
+    The KOffice team has been hinting at the power of a true cross-platform for the upcoming KOffice2.0
+    release, but the Windows version has proven to be harder to make working.  So while the Macintosh
+    fans have been running KOffice alpha version for some time now, Windows users will be delighted to
+    find out that KWord has been made running on Windows for the first time this weekend.  For more info
+    see <a href="http://www.kdedevelopers.org/node/2997">this blog</a>.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice 2.0 alpha released</title>
 <date>Aug, 2007</date>
 <fullstory>
