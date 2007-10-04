@@ -30,7 +30,15 @@ $gallery->addImage("videos/krita_preview1_sm.png",
                    "[Screenshot]", 0 , "General Preview (Pre-1.4, August 2004)");
 
 $gallery->show();
+
+<p>And on YouTube:</p>
+
+<p><a href="http://fr.youtube.com/watch?v=XfJTucE6pDw">Color Mixing</a>, 
+<a href="http://fr.youtube.com/watch?v=UTILb8rBG1Q">Painting with watercolors</a> and
+<a href="http://fr.youtube.com/watch?v=lyLPZDVdQiQ">Drawing with a tablet</a>.</p>
+
 ?>
+
 
 <?php
   include("footer.inc");
