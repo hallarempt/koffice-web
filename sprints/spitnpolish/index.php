@@ -1,6 +1,4 @@
-<?php
-  $page_title='KOffice Spit'n'Polish Hack Weekend'; $site_root='../../';
-  include("koffice.inc"); include("header.inc");
+<?php $page_title='KOffice Spit\'n\'Polish Hack Weekend'; $site_root='../../'; include("koffice.inc"); include("header.inc");
 ?>
 
 <p> From <strong>Saturday the 27th of October 2007 until
