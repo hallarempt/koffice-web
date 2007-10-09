@@ -5,6 +5,9 @@
   include("header.inc");
 ?>
 <p>
+Please add your arrival time and please at <a href="http://wiki.koffice.org/index.php?title=Arrivals">the wiki</a>. I will try to keep this page updated, too.
+</p>
+<p>
 <table border="1">
   <tr>
     <th rowspan="2">Name</th>
