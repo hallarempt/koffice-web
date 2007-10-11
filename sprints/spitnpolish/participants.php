@@ -36,6 +36,16 @@ The following people are participating in the ODF Weekend:
     <td>KChart</td>
     <td>ingwa</td>
   </tr>
+  <tr>
+    <td>Thomas Zander</td>
+    <td>KWord</td>
+    <td>ThomasZ</td>
+  </tr>
+  <tr>
+    <td>Jaroslaw Staniek</td>
+    <td>Kexi</td>
+    <td>JStaniek</td>
+  <tr>
 </table>
 <br />
 <table border="1" width="75%">
@@ -51,6 +61,21 @@ The following people are participating in the ODF Weekend:
     <td>Sebastian Sauer</td>
     <td>Kross</td>
     <td>dipesh</td>
+  </tr>
+  <tr>
+    <td>Pierre Ducroquet</td>
+    <td>KWord</td>
+    <td>Pinaraf</td>
+  </tr>
+  <tr>
+   <td>Marijn Kruisselbrink</td>
+   <td>Music Flake, OS X Guru</td>
+   <td>Mek</td>
+  </tr>
+  <tr>
+    <td>Sven Langkamp</td>
+    <td>Krita, Karbon, Create infrastructure</td>
+    <td>Slangkamp</td>
   </tr>
 </table>
 <br />
