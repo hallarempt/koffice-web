@@ -70,7 +70,9 @@ New Year 2007-2008</a>.
       New in this release are: 
       BETAINV, BINOMDIST, CHIDIST, LEGACYCHIDIST, LEGACYCHIINV, CHIDIST, 
       FDIST, LEGACYFDIST, FINV, LEGACYFINV, FTEST, GAMMADIST, GAMMAINV, 
-      PEARSON, QUARTILE, RANK, RSQ, TINV, TREND, TRIMMEAN.  In addition to
+      PEARSON, QUARTILE, RANK, RSQ, TINV, TREND, TRIMMEAN.  All these
+      functions are mentioned in the OpenFormula standard, which will be
+      part of OpenDocument 1.2. In addition to
       that, KSPread also got the ability to embed OpenDocument spreadsheet
       using the Flake table shape, and manipulate sheets.
 </p>
