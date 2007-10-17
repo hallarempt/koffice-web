@@ -24,12 +24,19 @@
   This is mainly a technology preview for those that are interested in the new 
   ideas and technologies of the KOffice 2 series.
 
-  This release has seen especially many improvements in OpenDocument support
-  for KWord, KSpread and KFormula, many new formula functions for KSpread,
-  fixes in Kexi and KWord, support for templates and animations in KSpread.
-      There is also the first support for Windows, as KWord got support for
-  that operating system.  KPlato is getting functional and KChart now
-  provides a Flake shape so that it can be embedded in any other KOffice
+  This release has seen especially many improvements in <a href="http://www.opendocumentfellowship.org/">OpenDocument</a> support
+  for <a href="http://www.koffice.org/kword/">KWord</a>, 
+  <a href="http://www.koffice.org/kspread/">KSpread</a> and 
+  <a href="http://www.koffice.org/kformula">KFormula</a>, many new formula functions for KSpread,
+  fixes in <a href="http://www.koffice.org/kexi/">Kexi</a>
+   and KWord, support for templates and animations in KSpread.
+      There is also the first support for Windows, as 
+  <a href="http://www.kdedevelopers.org/node/2997">KWord</a> got support for
+  that operating system.  
+  <a href="http://www.koffice.org/kplato/">KPlato</a> is getting functional and 
+  <a href="http://www.koffice.org/kchart/">KChart</a> now
+  provides a <a href="http://dot.kde.org/1149518002/">Flake shape</a>
+  so that it can be embedded in any other KOffice
   application.
 </p>
 <p align="justify">
