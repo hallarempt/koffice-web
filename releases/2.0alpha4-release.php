@@ -28,7 +28,7 @@
         <td><a href="http://download.kde.org/unstable/koffice-1.9.94/src/koffice-1.9.94.tar.bz2">koffice-1.9.94.tar.bz2</a></td>
     </tr>
     <tr>
-      <td>diffs between alpha2 and alpha3</td>
+      <td>diffs between alpha3 and alpha4</td>
       <td><a href="http://download.kde.org/unstable/koffice-1.9.94/src/koffice-1.9.93-1.9.94.tar.xdelta">koffice-1.9.93-1.9.94.tar.xdelta</a></td>
     </tr>
    </table>
