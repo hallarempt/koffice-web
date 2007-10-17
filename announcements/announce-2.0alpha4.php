@@ -93,6 +93,16 @@ early Q1 2008</a>.
       out, though, that there are no binary downloads for Windows yet.
 </p>
 
+<h3>Color Library Pigment Does Automatic Color Conversion</h3>
+<p align="justify">
+ Doing color conversion between color spaces is a tricky business.
+ Even trickier is doing color conversion when the conversion has to use
+ one or more intermediate color spaces.  Expanding the already impressive
+ functionality of the Pigment color library, it is now the first open
+ source library that can do correct shortest path conversion between
+ HDR colorspaces.
+</p>
+
 <p>More generic KOffice2 info can be found in the <a href="announce-2.0alpha3.php">Alpha3-announcement</a> and earlier.</p>
 
 <h2>About KOffice</h2>
