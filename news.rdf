@@ -10,6 +10,18 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 2.0 alpha4 released</title>
+<date>Oct, 2007</date>
+<fullstory>
+    The KOffice team is proud to announce the fourth alpha of the KOffice2 
+    platform together with the KDE 4.0beta3 release.  This release contains
+    the first embryo of a chart shape, many new formula functions in kspread,
+    and the first runnable version of Krita and KWord for Windows.
+    For more details see; <a href="releases/2.0alpha4-release.php">2.0alpha4-release.php</a>.
+</fullstory>
+</item>
+
+<item>
 <title>User wiki for KOffice</title>
 <date>11 October, 2007</date>
 <fullstory>
