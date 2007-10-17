@@ -29,7 +29,7 @@
   <a href="http://www.koffice.org/kspread/">KSpread</a> and 
   <a href="http://www.koffice.org/kformula">KFormula</a>, many new formula functions for KSpread,
   fixes in <a href="http://www.koffice.org/kexi/">Kexi</a>
-   and KWord, support for templates and animations in KSpread.
+   and KWord, support for templates and animations in KPresenter.
       There is also the first support for Windows, as 
   <a href="http://www.kdedevelopers.org/node/2997">KWord</a> got support for
   that operating system.  
@@ -50,7 +50,7 @@ Also note that although KOffice is included in KDE 4.0 Beta 3, it has its own
 release cycle, and the first version of the KOffice version 2 series
 is expected <a
 href="http://wiki.koffice.org/index.php?title=KOffice2/Schedule">around
-New Year 2007-2008</a>.
+early Q1 2008</a>.
 </p>
 
 
@@ -84,11 +84,13 @@ New Year 2007-2008</a>.
       using the Flake table shape, and manipulate sheets.
 </p>
 
-<h3>KWord Now Runs on Windows</h3>
+<h3>KWord and Krita Now Run on Windows</h3>
 <p align="justify">
       In a special sprint for KDE applications on Windows, we saw the first
       example of a KOffice application actually running on that OS: KWord.
       This is a great breakthrough for our fellow users on that platform.
+      In addition to this, Krita can also run on Windows.  We want to point
+      out, though, that there are no binary downloads for Windows yet.
 </p>
 
 <p>More generic KOffice2 info can be found in the <a href="announce-2.0alpha3.php">Alpha3-announcement</a> and earlier.</p>
