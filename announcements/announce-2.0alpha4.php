@@ -95,7 +95,7 @@ early Q1 2008</a>.
 
 <h3>Pigment Color Manipulation System</h3>
 <p align="justify">
-      Works continue on Pigment, the KOffice technology for accurately
+      Work continues on Pigment, the KOffice technology for accurately
       converting and transforming colors. Expanding the already impressive
       functionality of the Pigment library, this release ships the new
       Color Conversion System which allows to find the best color
