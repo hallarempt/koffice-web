@@ -98,7 +98,7 @@ early Q1 2008</a>.
       Work continues on Pigment, the KOffice technology for accurately
       converting and transforming colors. Expanding the already impressive
       functionality of the Pigment library, this release ships the new
-      Color Conversion System which allows to find the best color
+      Color Conversion System which finds the best color
       conversion between two color spaces. Going beyond the ICC defined
       color conversions, PigmentCMS is the first free 
       software library that can accurately convert between high-dynamic
