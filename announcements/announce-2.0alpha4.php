@@ -99,9 +99,10 @@ early Q1 2008</a>.
       converting and transforming colors. Expanding the already impressive
       functionality of the Pigment library, this release ships the new
       Color Conversion System which allows to find the best color
-      conversion between two color spaces. Making Pigment, the first Free
-      Software library that can make an accurate conversion between
-      High-Dynamic Range and with a bit depth of more than 16 bits.
+      conversion between two color spaces. Going beyond the ICC defined
+      color conversions, PigmentCMS is the first free 
+      software library that can accurately convert between high-dynamic
+      range images and 16/bit channel images.
 </p>
 
 <p>More generic KOffice2 info can be found in the <a href="announce-2.0alpha3.php">Alpha3-announcement</a> and earlier.</p>
