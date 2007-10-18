@@ -30,7 +30,7 @@
   <a href="http://www.koffice.org/kformula">KFormula</a>, many new formula functions for KSpread,
   fixes in <a href="http://www.koffice.org/kexi/">Kexi</a>
    and KWord, support for templates and animations in KPresenter.
-      There is also the first support for Windows, as 
+      There is also further support for Windows, as 
   <a href="http://www.kdedevelopers.org/node/2997">KWord</a> got support for
   that operating system.  
   <a href="http://www.koffice.org/kplato/">KPlato</a> is getting functional and 
@@ -86,10 +86,12 @@ early Q1 2008</a>.
 
 <h3>KWord and Krita Now Run on Windows</h3>
 <p align="justify">
-      In a special sprint for KDE applications on Windows, we saw the first
-      example of a KOffice application actually running on that OS: KWord.
+      In a special sprint for KDE applications on Windows, we saw further
+      examples of a KOffice applications actually running on that OS: KWord.
       This is a great breakthrough for our fellow users on that platform.
-      In addition to this, Krita can also run on Windows.  We want to point
+      In addition to this, Krita and Kexi can run on Windows already. 
+      We are on the right track to bring all the components to Windows, through activity initiated by <a href="http://www.kdedevelopers.org/node/2955">Kexi for Windows</a> available since 2003.
+      We want to point
       out, though, that there are no binary downloads for Windows yet.
 </p>
 
