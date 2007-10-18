@@ -71,7 +71,7 @@ fixing them, and also a little work on new features.  A small list;
     <li>Porting of WMF vector loading/saving code to reinstate that functionality
         for all KOffice applications</li>
     <li>Configuration widgets for all vector shapes have been created or improved</li>
-    <li>Tabbed toolbar and context aware workspace in Kexi</li>
+    <li><a href="http://www.kdedevelopers.org/node/2955">Tabbed toolbar and context aware workspace</a> in Kexi</li>
     <li>KWord adds a usability feature;  "when using buttons for increase text size, it
         becomes all the same size, even if I selected multiple sizes."
         (<a href="http://bugs.kde.org/show_bug.cgi?id=84725">Wishlist report</a>)</li>
