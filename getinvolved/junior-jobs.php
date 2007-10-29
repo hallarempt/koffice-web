@@ -1,5 +1,5 @@
 <?php
-  $page_title="Devel Junior Jobs 2006";
+  $page_title="Junior Jobs";
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
@@ -11,62 +11,42 @@
 	]
 </div>
 
-<p>It is prefered to use <b>KOffice svn trunk code</b> to work on JJ, which is the next coming 2.0 release. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice unstable from svn page</a>.</p>
-<p>If you need help, you can join members of the KOffice team on IRC, server <tt>irc.freenode.org</tt>, port 6667, channel <tt>#koffice</tt>.</p>
+
+<h3>Accepting Junior Jobs (JJs)</h3>
+<p>If you wish to put your name forward for a JJ, please contact the person responsible for maintaining the application to which the JJ refers. They will then add your name to the list, and you will be expected to work on the task given. However, due to the nature of JJs, do not feel rushed to complete the task, and do not be afraid to ask for help at any point. Members of the KOffice development team are always more than glad to help, and are available on IRC, located at irc.freenode.org:6667 on channel #koffice.</p>
+
+<p>When developing, you should use <b>KOffice svn trunk code</b> as that is where the code for the next release, version 2.0, is located. You can find some information on how to build it on the <a href="../download/unstable.php">Install KOffice Unstable from Subversion</a> page.</p>
+
+<p>Upon completion of a task, the contact should be notified as soon as possible, and the code should either be commited to SVN or alternatively sent to your contact or the KOffice mailing list for review.</p>
+
+<h4>Current Junior Jobs</h4>
 
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
-    <th>Task Description</th>
+    <th>Application</th>
+	<th>Task</th>
     <th>Contact</th>
-    <th>Date Target</th>
     <th>Name of Applicant</th>
   </tr>
   <tr>
-    <td><b>Karbon</b>: <a href="http://bugs.kde.org/show_bug.cgi?id=109189">http://bugs.kde.org/show_bug.cgi?id=109189</a></td>
-    <td><a href="mailto:buis () kde ! org">Rob Buis</a></td>
-    <td>30th January December</td>
+	<td>Krita</td>
+    <td>Port PDF filter to Poppler 0.6.0</td>
+    <td><a href="mailto:cyb@lepi.org">Cyrille Berger</a></td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  fix units <a href="http://bugs.kde.org/show_bug.cgi?id=115010">http://bugs.kde.org/show_bug.cgi?id=115010</a></td>
-    <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
-    <td>30th December 2006</td>
+    <td>KPresenter</td>
+    <td>Create themes</td>
+    <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
     <td>-</td>
   </tr>
   <tr>
-    <td><b>Karbon</b>:  Usability: The color and opacity bars in the color chooser palette are backwards. <a href="http://bugs.kde.org/show_bug.cgi?id=115213">http://bugs.kde.org/show_bug.cgi?id=115213</a></td>
-    <td><a href="mailto:tbscope () gmail ! com">Tim Beaulen</a></td>
-    <td>30th December 2006</td>
+    <td>KPresenter</td>
+    <td>Page effects, including transitions and new ways of making objects appear</td>
+    <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
     <td>-</td>
-  </tr>
-  <tr>
-    <td><b>KChart</b>: Code structure: put the wizard and config dialog in a "dialogs" subdirectory. <a href="http://bugs.kde.org/show_bug.cgi?id=117960">http://bugs.kde.org/show_bug.cgi?id=117960</a></td>
-    <td><a href="mailto:inge () lysator ! liu ! se">Inge Wallin</a></td>
-    <td>30th December 2006</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>KPresenter</b>:  Usability: Most basic resizing operation for pictures are not possible. <a href="http://bugs.kde.org/show_bug.cgi?id=112310">http://bugs.kde.org/show_bug.cgi?id=112310</a></td>
-    <td><a href="mailto:montel () kde ! org">Laurent Montel</a></td>
-    <td>30th December 2006</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><b>KSpread</b>: change all "document" reference to "workbook" in GUI, tooltips, qwhatsthis and doc. <a href="http://bugs.kde.org/show_bug.cgi?id=116450">http://bugs.kde.org/show_bug.cgi?id=116450</a></td>
-    <td><a href="mailto:robertknight () gmail ! com">Robert Knight</a></td>
-    <td>on hold</td>
-    <td>Henry Kay</td>
-  </tr>
-  <tr>
-    <td><b>KSpread</b>: Add QWhatsThis help to the cell format configuration dialog.</td>
-    <td><a href="mailto:raphael.langerhorst () kdemail ! net">Raphael Langerhorst</a></td>
-    <td>in good progress - 30th December 2006</td>
-    <td>Anne-Marie Mahfouf</td>
   </tr>
 </table>
-
-<p>If you want to take a JJ, please email your name to the contact and CC to <a href="mailto:annemarie.mahfouf () free ! fr">Anne-Marie</a> so the task can be assigned to you.<br />
-When you complete the task, please either attach the patch to the bug report or send a patch to your JJ contact name or send it to the KOffice mailing list.</p>
 
  <hr width="30%" align="center" />
  <p>
