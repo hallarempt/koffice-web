@@ -24,12 +24,18 @@
 <table cellspacing="0" cellpadding="3" border="1">
   <tr>
     <th>Application</th>
-	<th>Task</th>
+    <th>Task</th>
     <th>Contact</th>
     <th>Name of Applicant</th>
   </tr>
   <tr>
-	<td>Krita</td>
+    <td>KChart</td>
+    <td>Configuration tool for axes, including axis labels and grids.</td>
+    <td><a href="mailto:inge@lysator.liu.se">Inge Wallin</a></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Krita</td>
     <td>Port PDF filter to Poppler 0.6.0</td>
     <td><a href="mailto:cyb@lepi.org">Cyrille Berger</a></td>
     <td>-</td>
