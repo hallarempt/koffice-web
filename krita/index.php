@@ -107,7 +107,7 @@ or donate directly:</p>
       </ul>
     <h3>Plugins</h3>
     <ul>
-      <li><a href="ftp://ftp.kde.org/pub/kde/stable/apps/KDE3.x/graphics/krita-plugins-1.6-1.tar.bz2">Krita-Plugins 1.6-1</a> including a red-eye removal tool, three filters : deskew, image complete and line sampler, those plugins will only work with the 1.6 version of Krita.</li>
+      <li><a href="http://www.krita-plugins.org/">Krita-Plugins</a>, this project contains tools and filters for 1.6 which extends the feature set of Krita.</li>
     </ul>
     <h3>Presentations</h3>
 
