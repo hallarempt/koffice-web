@@ -206,7 +206,7 @@ early Q1 2008</a>.
 
 <b>Africa</b><br />
 Uwe Thiem<br />
-P.P.Box 30955<br />
+P.O.Box 30955<br />
 Windhoek<br />
 Namibia<br />
 Phone: +264 - 61 - 24 92 49<br />
