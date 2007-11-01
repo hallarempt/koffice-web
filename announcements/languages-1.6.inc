@@ -44,7 +44,7 @@
           <a href="announce-1.6-de.php">German</a>
         </td>
         <td style="text-align:center;">
-          <a href="http://www.kde-it.org/index.php?option=com_content&task=view&id=51&Itemid=5">Italian</a>
+          <a href="http://www.kde-it.org/news.php?extend.22.2">Italian</a>
         </td>
         <td style="text-align:center;">
           <a href="http://koffice.org.pl/ogloszenia/ogloszenie-1.6.php">Polish</a>
