@@ -50,6 +50,12 @@
     <td>KPresenter</td>
     <td>Page effects, including transitions and new ways of making objects appear</td>
     <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
+    <td>Dakeyras Khan</td>
+  </tr>
+  <tr>
+    <td>KPresenter</td>
+    <td>Custom Slide Shows</td>
+    <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
     <td>-</td>
   </tr>
 </table>
