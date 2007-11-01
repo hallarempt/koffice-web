@@ -14,7 +14,7 @@ Ask for more details to the contact if you are in doubt, we'll be very happy to 
 <p>There are currently no Junior Jobs. When KOffice 2 is more advanced, we will update this page.</p>
 -->
 
-<h2><a href="doc-writers.php">Become a documentation writer</a></h2>
+<h2>Become a documentation writer</h2>
 <p><a href="doc-writers.php">Here</a> you can find information related to writing or updating KOffice documentation.</p>
 <p>Please read the <a href="howto-write-doc.php">How to write documentation guide</a> in order to learn some very useful tips!</p>
 <p>This should be done in docs in trunk, for KOffice 2</p>
