@@ -58,6 +58,12 @@
     <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Flake</td>
+    <td>Draw a nice &amp; not buggy shadow around the page on the canvas</td>
+    <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
+    <td>-</td>
+  </tr>
 </table>
 
  <hr width="30%" align="center" />
