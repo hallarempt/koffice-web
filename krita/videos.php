@@ -32,6 +32,7 @@ $gallery->addImage("videos/krita_preview1_sm.png",
 $gallery->show();
 
 ?>
+
 <p>And on YouTube:</p>
 
 <p><a href="http://fr.youtube.com/watch?v=XfJTucE6pDw">Color Mixing</a>, 
@@ -43,6 +44,4 @@ $gallery->show();
 <?php
   include("footer.inc");
 ?>
-
-
 

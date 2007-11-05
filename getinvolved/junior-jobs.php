@@ -64,6 +64,18 @@
     <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
     <td>-</td>
   </tr>
+  <tr>
+  <tr>
+    <td>Krita</td>
+    <td>Implement shortcuts to switch between selection modes (add, subtract, replace) for the Krita selection tools</td>
+    <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
+    <td>-</td>
+  </tr>
+    <td>Krita</td>
+    <td>Fix the layout of the items in the Krita statusbar</td>
+    <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
+    <td>-</td>
+  </tr>
 </table>
 
  <hr width="30%" align="center" />
