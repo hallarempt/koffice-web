@@ -88,6 +88,9 @@ too big, mail <a href=\"mailto:boud@valdyas.org\">me</a>, and we'll find a formu
 it may be a good idea to read our <a href=\"http://websvn.kde.org/trunk/koffice/krita/TODO\">TODO</a>, which
 is already quite extensive and probably contains your wish already.");
 
+$faq->addQuestion("I use distribution X and nothing works! Help me!",
+"Please take a look at <a href=\"http://wiki.koffice.org/index.php?title=Krita/Known_problem_with_packages\">Known Problems with Packages</a>, where we collect problems and fixes for packaging problems.");
+
 $faq->addQuestion("Can I get in on this thing?",
 "Indubitably. The best thing you can do is use and enjoy Krita!  Learn to use Krita and
 teach others. Create tutorials and sample files, create artwork to show
