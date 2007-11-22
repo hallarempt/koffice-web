@@ -24,7 +24,7 @@
   This is mainly a technology preview for those that are interested in the new 
   ideas and technologies of the KOffice 2 series.
 
-  It is obvious that the Alpha 5 release is a work in progress.  This 
+  The Alpha 5 release is a work in progress.  This 
   release introduces improvements in almost all the components as well
   as in the common infrastructure.  One such change is that more 
   resources like gradients and strokes are now shared between all the 
@@ -77,7 +77,7 @@ late Q1 2008</a>.
  Over a year ago, Inge Wallin proposed a simplified word processor to be used
  in school for kids.  Thomas Zander, the KWord lead developer, made a proof
  of concept of this using the infrastructor of KOffice 2.  This proved simpler
- than even Thomas would have believed, and KOffice 2.0Alpha5 now contains a
+ than even Thomas would have believed, and KOffice 2.0 Alpha5 now contains a
  first version of the KOffice for kids.  Note that only the GUI is simplified
  it still contains the full power of KOffice and can of course save and load
  the OpenDocment Format, which will make it easy to interact with other
@@ -91,7 +91,8 @@ late Q1 2008</a>.
   The Krita team is working hard to make Krita the best free pixel based
   image editor in the world.  This version introduces so called Chinese
   Brushes and a new Path Tool.  It also now has all the filters that 
-  Krita 1.6 had.
+  Krita 1.6 had again, as well as a first-cut implentation of on-canvas
+  filter previews.
 
 </p>
 
