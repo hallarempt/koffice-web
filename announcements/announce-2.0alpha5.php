@@ -78,7 +78,7 @@ late Q1 2008</a>.
 
  Over a year ago, <a href="http://ingwa2.blogspot.com/2005/09/koffice-kids-office.html">Inge Wallin proposed a simplified word processor</a> to be used
  in school for kids.  Thomas Zander, the KWord lead developer, 
- <a href="http://labs.trolltech.com/blogs/2007/11/10/koffice-in-educational-settings/">made a proof of concept of this using the infrastructor of KOffice 2</a>.  This proved simpler
+ <a href="http://labs.trolltech.com/blogs/2007/11/10/koffice-in-educational-settings/">made a proof of concept of this using the infrastructure of KOffice 2</a>.  This proved simpler
  than even Thomas would have believed, and KOffice 2.0 Alpha5 now contains a
  first version of the KOffice for kids.  Note that only the GUI is simplified, and that 
  it still contains the full power of KOffice. This means that it can save and load
