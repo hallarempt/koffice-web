@@ -30,22 +30,6 @@
   resources like gradients and strokes are now shared between all the 
   applications. All the applications saw big changes, both bugfixes and
   new features.
-
- KWord:
-    undo/redo works in the text tool
-    Remove some tab support that are now in Qt 4.4
-    Lots of small change
-    Kids Office
- Kexi:
-    Improved Everywhere
- Krita:
-      Chinese Brushes
-      All filters ported
-      Path tool
- Filters:
-      Improvements in the krita and karbon filters
-
-
 </p>
 <p align="justify">
   KOffice 2 is currently under heavy development. It is not meant as something
@@ -80,24 +64,35 @@ late Q1 2008</a>.
 <p align="justify">
 
   Other new features are improved rulers, a central docker for the document
-  structure and a new connector feature for shapes.  This means that Kivio,
-  the flowchart and network editor, is working better than ever in the
-  2.0 series.
+  structure and a new connector feature for shapes.  This is good news for
+  Kivio, the flowchart and network editor, that has so far not seen much
+  work is now easier to make work.
 
 </p>
 
-<h3>Second Item</h3>
+
+<h3>Simplified Word Processor: Kids Office</h3>
 <p align="justify">
-    Foo
+
+ Over a year ago, Inge Wallin proposed a simplified word processor to be used
+ in school for kids.  Thomas Zander, the KWord lead developer, made a proof
+ of concept of this using the infrastructor of KOffice 2.  This proved simpler
+ than even Thomas would have believed, and KOffice 2.0Alpha5 now contains a
+ first version of the KOffice for kids.  Note that only the GUI is simplified
+ it still contains the full power of KOffice and can of course save and load
+ the OpenDocment Format, which will make it easy to interact with other
+ users of OpenOffice.org or the full KOffice suite.
+
 </p>
 
-<h3>Third Item</h3>
+<h3>New Drawing Tools in Krita</h3>
 <p align="justify">
-bar
-</p>
 
-<h3>Fourth Item</h3>
-<p align="justify">
+  The Krita team is working hard to make Krita the best free pixel based
+  image editor in the world.  This version introduces so called Chinese
+  Brushes and a new Path Tool.  It also now has all the filters that 
+  Krita 1.6 had.
+
 </p>
 
 
