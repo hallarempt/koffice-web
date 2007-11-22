@@ -10,6 +10,21 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 2.0 alpha5 released</title>
+<date>22 Nov, 2007</date>
+<fullstory>
+    The KOffice team is proud to announce the fifth alpha of the KOffice2 
+    platform together with the KDE 4.0RC1 release.  This release contains
+    improved shared infrastructure including a new ODF library, enhancements
+    in all the applications, new brushes and a path tool in Krita and a new 
+    simplified word processor, the so called Kids Office.
+    For more details see:
+    <a href="http://www.koffice.org/announcements/announce-2.0alpha5.php">the announcement</a> or
+    <a href="http://www.koffice.org/releases/2.0alpha5-release.php">the release notes</a>.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice 2.0 alpha4 released</title>
 <date>17 Oct, 2007</date>
 <fullstory>
