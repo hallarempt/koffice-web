@@ -29,7 +29,9 @@
   as in the common infrastructure.  One such change is that more 
   resources like gradients and strokes are now shared between all the 
   applications. All the applications saw big changes, both bugfixes and
-  new features.
+  new features. At the <a href="http://lists.kde.org/?l=koffice-devel&m=119349867222306&w=2">KDab and KDE e.V. sponsored sprint
+  in Berlin, many important decisions were made.</a> and a release schedule
+  was agreed upon.
 </p>
 <p align="justify">
   KOffice 2 is currently under heavy development. It is not meant as something
@@ -76,7 +78,7 @@ late Q1 2008</a>.
 
  Over a year ago, Inge Wallin proposed a simplified word processor to be used
  in school for kids.  Thomas Zander, the KWord lead developer, made a proof
- of concept of this using the infrastructor of KOffice 2.  This proved simpler
+ of <a href="http://labs.trolltech.com/blogs/2007/11/10/koffice-in-educational-settings/">concept of this using the infrastructor of KOffice 2</a>.  This proved simpler
  than even Thomas would have believed, and KOffice 2.0 Alpha5 now contains a
  first version of the KOffice for kids.  Note that only the GUI is simplified
  it still contains the full power of KOffice and can of course save and load
@@ -89,10 +91,10 @@ late Q1 2008</a>.
 <p align="justify">
 
   The Krita team is working hard to make Krita the best free pixel based
-  image editor in the world.  This version introduces so called Chinese
-  Brushes and a new Path Tool.  It also now has all the filters that 
-  Krita 1.6 had again, as well as a first-cut implentation of on-canvas
-  filter previews.
+  image editor in the world.  This version introduces so called <a href="http://www.valdyas.org/fading/index.cgi/hacking/krita/wacoms.comments">Chinese
+  Brushes</a> and a new Path Tool.  It also now has all the filters that 
+  Krita 1.6 had again, as well as a <a href="http://www.valdyas.org/fading/index.cgi/hacking/krita/livepreview.comments">first-cut implentation of on-canvas
+  filter previews</a>.
 
 </p>
 
