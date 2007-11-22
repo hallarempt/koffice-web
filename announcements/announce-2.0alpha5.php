@@ -56,8 +56,8 @@ late Q1 2008</a>.
   unified application suite.  Another change is that the basic routines
   for handling the OpenDocument Format have been broken out into its own
   library.  This is not a user-visible change, but important nonetheless
-  because it is this library that will be made available for other KDE
-  developers in kdelibs 4.1.
+  because it is this library that was suggested will be made <a href="http://dot.kde.org/1179144063/">available for other KDE
+  developers in kdelibs 4.1.</a>
 
 </p>
 
