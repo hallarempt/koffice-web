@@ -99,7 +99,7 @@ late Q1 2008</a>.
 </p>
 
 
-<p>More information about new KOffice2 technology can be found in the <a href="announce-2.0alpha4.php">Alpha4-announcement</a> and earlier.</p>
+<p>More information about new KOffice2 technology can be found in the <a href="announce-2.0alpha4.php">Alpha4-announcement</a> and earlier or in the <a href="http://www.koffice.org/releases/2.0alpha5-release.php">release notes</a>.</p>
 
 <h2>About KOffice</h2>
   <p align="justify">
