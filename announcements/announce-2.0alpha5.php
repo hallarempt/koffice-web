@@ -24,7 +24,27 @@
   This is mainly a technology preview for those that are interested in the new 
   ideas and technologies of the KOffice 2 series.
 
-      FIXME: Add info here
+  It is obvious that the Alpha 5 release is a work in progress.  This 
+  release introduces improvements in almost all the components as well
+  as in the common infrastructure.  One such change is that more 
+  resources like gradients and strokes are now shared between all the 
+  applications. All the applications saw big changes, both bugfixes and
+  new features.
+
+ KWord:
+    undo/redo works in the text tool
+    Remove some tab support that are now in Qt 4.4
+    Lots of small change
+    Kids Office
+ Kexi:
+    Improved Everywhere
+ Krita:
+      Chinese Brushes
+      All filters ported
+      Path tool
+ Filters:
+      Improvements in the krita and karbon filters
+
 
 </p>
 <p align="justify">
@@ -42,8 +62,28 @@ late Q1 2008</a>.
 </p>
 
 
-<h3>First Item</h3>
+<h3>More Shared Infrastructure</h3>
 <p align="justify">
+
+  The general libraries saw several enhancements.  First, there is improved
+  sharing by making resources like gradients and strokes shared.  All
+  applications are now using the same implementation of these features, 
+  something that will reduce bugs and heighten the users feeling of a
+  unified application suite.  Another change is that the basic routines
+  for handling the OpenDocument Format have been broken out into its own
+  library.  This is not a user-visible change, but important nonetheless
+  because it is this library that will be made available for other KDE
+  developers in kdelibs 4.1.
+
+</p>
+
+<p align="justify">
+
+  Other new features are improved rulers, a central docker for the document
+  structure and a new connector feature for shapes.  This means that Kivio,
+  the flowchart and network editor, is working better than ever in the
+  2.0 series.
+
 </p>
 
 <h3>Second Item</h3>
@@ -103,9 +143,10 @@ bar
   Additionally, KOffice includes the following helper applications:
 </p>
 <ul>
-  <li>business quality reporting software
+<!--  <li>business quality reporting software
     (<a href="http://www.koffice.org/kugar/">Kugar</a>)
   </li>
+-->
   <li>full-featured charting engine
     (<a href="http://www.koffice.org/kchart/">KChart</a>)
   </li>
