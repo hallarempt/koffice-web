@@ -16,7 +16,8 @@
     <p>The applications are generally speaking under GPL version 2 or later. This
     means that if you write a plugin that uses application specific libraries, 
     like a Krita tool or paintop plugin, you need to license that plugin under GPL
-    version 2 or later, too. No proprietary plugins are allowed.</p>
+    version 2 or later, too. No proprietary plugins are allowed, but since Krita is GPLv2+, 
+    you <i>are</i> allowed to create LGPLv2 only or GPLv2 only plugins.</p>
 
     <p>Note that this is not legal advice: if you need legal advice, you should
     go to a proper legal advisor.</p>
