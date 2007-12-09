@@ -35,12 +35,6 @@
     <td>-</td>
   </tr>
   <tr>
-    <td>Krita</td>
-    <td>Port PDF filter to Poppler 0.6.0</td>
-    <td><a href="mailto:cyb@lepi.org">Cyrille Berger</a></td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td>KPresenter</td>
     <td>Create themes</td>
     <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
