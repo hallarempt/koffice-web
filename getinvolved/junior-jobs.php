@@ -70,6 +70,12 @@
     <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Krita</td>
+    <td>Implement a better move tool that takes selections into account (bug: 141282)</td>
+    <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
+    <td>-</td>
+  </tr>
 </table>
 
  <hr width="30%" align="center" />
