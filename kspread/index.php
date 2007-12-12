@@ -31,7 +31,7 @@ statistics.</p>
 <li>templates; </li>
 <li>multiple chart formats for displaying data graphically;</li> 
 <li>headers and footers; </li>
-<li>over 100 formulas, including standard deviation, variance, present value of annuities and much more; </li>
+<li>Almost 400 formulas, including standard deviation, variance, present value of annuities and much more; </li>
 <li>sorting; </li>
 <li>scripting; </li>
 <li>lists; </li>
