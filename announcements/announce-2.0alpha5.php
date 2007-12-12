@@ -93,7 +93,7 @@ late Q1 2008</a>.
   The Krita team is working hard to make Krita the best free pixel based
   image editor in the world.  This version introduces so called <a href="http://www.valdyas.org/fading/index.cgi/hacking/krita/wacoms.comments">Chinese
   Brushes</a> and a new Path Tool.  It also now has all the filters that 
-  Krita 1.6 had again, as well as a <a href="http://www.valdyas.org/fading/index.cgi/hacking/krita/livepreview.comments">first-cut implentation of on-canvas
+  Krita 1.6 had again, as well as a <a href="http://www.valdyas.org/fading/index.cgi/hacking/krita/livepreview.comments">first-cut implementation of on-canvas
   filter previews</a>.
 
 </p>
