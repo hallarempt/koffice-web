@@ -76,6 +76,12 @@
     <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>Krita</td>
+    <td>Port the remainting 1.6 filters to 2.0 (excellent way to get started with Krita filter development!)</td>
+    <td><a href="mailto:boud@valdyas.org">Boudewijn Rempt</a></td>
+    <td>-</td>
+  </tr>
 </table>
 
  <hr width="30%" align="center" />
