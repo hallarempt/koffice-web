@@ -50,7 +50,7 @@
     <td>KPresenter</td>
     <td>Custom Slide Shows</td>
     <td><a href="mailto:zachmann@kde.org">Thorsten Zachmann</a></td>
-    <td>-</td>
+    <td>Carlos Licea</td>
   </tr>
   <tr>
     <td>Flake</td>
