@@ -77,7 +77,7 @@ file after which you should just be able to use <code>apt-get install</code> to 
 
 <h2>MacOS X packages</h2>
 <p>Available from the Fink project at 
-<a href="http://fink.sourceforge.net/pdb/search.php?s=koffice">fink.sf.net</a>.</p>
+<a href="http://pdb.finkproject.org/pdb/package.php/koffice">fink.sf.net</a>.</p>
 
 <h2>See also</h2>
 <ul><li><a href="http://www.kexi-project.org/wiki/wikiview/index.php?Download">Standalone Kexi releases</a> (binaries and source code), including versions for MS Windows.</li>
