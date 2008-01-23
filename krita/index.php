@@ -179,7 +179,7 @@ management system in 100K</a></li>
 
       <p>(Non free:)</p>
       <ul>
-        <li><a href="http://www.corel.com/servlet/Satellite?pagename=Corel/Products/productInfo&amp;id=1047021764853&amp;did=1047021793915">Corel Painter (the descendant of Fractal Painter)</a></li>
+        <li><a href="http://www.corel.com/servlet/Satellite/us/en/Product/1190317151777">Corel Painter (the descendant of Fractal Painter)</a></li>
         <li><a href="http://www.squirreldome.com/cyberop.htm">DogWaffle</a></li>
         <li><a href="http://www.mindworkshop.com/alchemy/paint.html">e-Paint</a></li>
         <li><a href="http://jijigaga.com/product/index.htm">Smoothdraw</a></li>
