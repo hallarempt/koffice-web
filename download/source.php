@@ -48,7 +48,7 @@ can be updated using the anonymous Subversion mirror.</p>
 
 <p>The development version via <b>anonymous Subversion</b>
 (recommended) needs extra instructions, check the
-<a href="http://developer.kde.org/source/anonsvn.html">anonsvn instructions</a>.</p>
+<a href="http://techbase.kde.org/index.php?title=Getting_Started/Build">anonsvn instructions</a>.</p>
 
 <p>Use anonsvn if you plan to update often, since you will save a
 significant amount of time. If you use anonsvn, you need to
