@@ -52,11 +52,12 @@
  <a href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
-         <a href="http://kubuntu.org/announcements/kde4-rc1.php">Packages for 7.04 (Feisty) and Gutsy</a>
+      <a href="https://edge.launchpad.net/ubuntu/hardy/+source/koffice2/1:1.9.96.0~that.is.really.1.9.95.3-1ubuntu1">Packages for 7.10 (Hardy)</a>
       </li>
     </ul>
   <p />
 </li>
+<!--
 <li>
  <a href="http://www.opensuse.org/">openSUSE</a>
     <ul type="disc">
@@ -69,6 +70,8 @@
     </ul>
   <p />
 </li>
+-->
+<!--
 <li>
  <a href="http://www.mandriva.com/">Mandriva</a>
     <ul type="disc">
@@ -77,7 +80,7 @@
       </li>
     </ul>
   <p />
-</li -->
+</Li -->
 </ul>
 
 <?php include("footer.inc"); ?>
