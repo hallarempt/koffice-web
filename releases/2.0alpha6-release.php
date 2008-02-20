@@ -52,7 +52,7 @@
  <a href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
-      <a href="https://edge.launchpad.net/ubuntu/hardy/+source/koffice2/1:1.9.96.0~that.is.really.1.9.95.3-1ubuntu1">Packages for 7.10 (Hardy)</a>
+      <a href="http://kubuntu.org/announcements/koffice-2alpha6.php">Packages for 7.10 (Hardy)</a>
       </li>
     </ul>
   <p />
