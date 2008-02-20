@@ -57,12 +57,15 @@
     </ul>
   <p />
 </li>
-<!--
+
 <li>
  <a href="http://www.opensuse.org/">openSUSE</a>
     <ul type="disc">
       <li>
-         <a href="http://en.opensuse.org/KDE4">Packages</a>
+         <a href="http://en.opensuse.org/KDE/KDE4">Packages</a>
+      </li>
+      <li>
+      Packages are available for openSUSE 10.3, 10.2 and Factory from the openSUSE Build Service within KDE:/KDE4:/STABLE:/Extra-Apps/ repo.
       </li>
       <li>
          <a href="http://home.kde.org/~binner/kde-four-live/">openSUSE based KDE4 Live CD</a>
@@ -70,7 +73,7 @@
     </ul>
   <p />
 </li>
--->
+
 <!--
 <li>
  <a href="http://www.mandriva.com/">Mandriva</a>
