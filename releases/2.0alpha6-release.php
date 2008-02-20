@@ -48,7 +48,7 @@
 </p>
 
 <ul>
-<!-- li>
+<li>
  <a href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
