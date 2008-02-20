@@ -12,7 +12,7 @@
 <h2>
   KDE Releases Technology Preview of KOffice
 </h2>
-<p align="justify">Feb 19, 2008 (The INTERNET).
+<p align="justify">Feb 20, 2008 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> version 2.0 Alpha 6, a technology
