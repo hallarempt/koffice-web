@@ -10,6 +10,22 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 2.0 alpha6 released</title>
+<date>20 Feb, 2008</date>
+<fullstory>
+    The KOffice team is proud to announce the sixth alpha of the
+    KOffice2 platform.  This release contains improved shared
+    infrastructure including new functionality in the ODF library,
+    enhancements in all the applications, many improvements in
+    especially KPlato and Karbon.  Krita also have many improvements
+    as usual.  For more details see:
+    <a href="http://www.koffice.org/announcements/announce-2.0alpha6.php">the announcement</a> or
+    <a href="http://www.koffice.org/releases/2.0alpha6-release.php">the
+    release notes</a>.
+</fullstory>
+</item>
+
+<item>
 <title>KOffice 2.0 alpha5 released</title>
 <date>22 Nov, 2007</date>
 <fullstory>

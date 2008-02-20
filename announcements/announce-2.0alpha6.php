@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-  DATELINE Feb 19, 2008<br />
+  DATELINE Feb 20, 2008<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
@@ -43,7 +43,7 @@ release cycle.
 
 <h3>Snap guides</h3>
 <p align="justify">
-Many KOffice applications like Karbon now have snap guides that will guide the user when he or she are placing objects near other objects in any direction.
+Many KOffice applications like Karbon now have snap guides that will guide the user when he or she is placing objects near other objects in any direction.
 </p>
 
 <p align="justify">
