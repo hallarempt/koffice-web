@@ -17,7 +17,7 @@ $section->appendDir("Support KOffice", "support");
 
 $section =& $this->appendSection("Latest Releases");
 $section->appendLink("KOffice $currentversion", "releases/$currentversion-release.php");
-$section->appendLink("KOffice 2.0-alpha-4", "releases/2.0alpha4-release.php");
+$section->appendLink("KOffice 2.0-alpha-6", "releases/2.0alpha6-release.php");
 $section->appendDir("Security", "security");
 
 $section =& $this->appendSection("KOffice Applications");
