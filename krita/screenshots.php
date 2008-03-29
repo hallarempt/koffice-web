@@ -8,6 +8,8 @@
 <?php
 $gallery = new ImageGallery("Krita Screenshots");
 // $gallery->startNewRow(); should not be used before first image as it prevents validation
+
+$gallery->addImage("pics/krita_2_sm.png", "pics/krita_2.png", "276", "200", "[Screenshot]", 0 , "Development version, March 2008");
 $gallery->addImage("pics/krita_1.6rc1_sm.png", "pics/krita_1.6rc1.png","264", "176",
                    "[Screenshot]", 0 , "New icon set for 1.6 (September 2006)");
 $gallery->startNewRow();
