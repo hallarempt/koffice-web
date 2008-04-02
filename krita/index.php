@@ -31,6 +31,20 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
   ?>
 </center>
 
+<h3>Libre Graphics Meeting</h3>
+
+<p>The Libre Graphics Meeting 2008 will be held in Wroclaw, Poland this year. Krita developers,
+generously sponsored by KDE e.V., will attend this event, which is the most important meeting
+for developers and users of Free graphics software. Funding is low, and we really want to have
+as broad as possible a meeting, so the organizers ask your help with organizing this 
+year's meeting:</p>
+
+<a href='http://pledgie.com/campaigns/613'><img alt='Click here to lend your support to: Support the Libre Graphics Meeting and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/613.png?skin_name=chrome' border='0' /></a>
+
+<p>In only two years, the Libre Graphics Meeting has become a hugely important meeting place for free software graphics developers. With surveys showing that the main gaps in the Linux desktop offering now are graphics applications (Photoshop, Illustrator, Visio, AutoCAD), the conference becomes even more vital to the advancement of the free software desktop.</p>
+
+<p>Thank you for your help!</p>
+
 <h3>Press</h3>    
 
 <p>Dan Sawyer reviews Krita in Linux Journal:<b>"Build from the ground up on LCMS</b>, Krita's 32-bit color management system is flanked by well-built, sophisticated tools for accessing it... making it suitable for a broad range of professional graphics demands...This workflow streaming is great...The number of drawing tools is rivaled only by Photoshop and there a few nifty enhancements in this area where Krita outdoes the venerated veteran from Adobe." <a href="http://www.linuxjournal.com/article/9706">(Dan Sawyer, "Deep Images", Linux Journal 159, July 2007)</a></p>
