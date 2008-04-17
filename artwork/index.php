@@ -15,7 +15,7 @@
 <a href="krita.svg"><img style="margin: 10px;" src="krita.png"></a><br />
 <a href="kplato.svg"><img style="margin: 10px;" src="kplato.png"></a><br />
 <a href="kchart.svg"><img style="margin: 10px;" src="kchart.png"></a><br />
-<a hrefe="kforumula.svg"><img style="margin: 10px;" src="kformula.png"></a><br />
+<a href="kforumula.svg"><img style="margin: 10px;" src="kformula.png"></a><br />
 <!--img style="margin: 10px;" src="kugar.png"><br /-->
 
 </div>
