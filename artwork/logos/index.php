@@ -18,4 +18,5 @@
 <a href="kformula.svg"><img style="padding: 2em;" src="kformula.png"></a><br />
 <!--img style="padding: 2em;" src="kugar.png"><br /-->
 
+<p>Plain variants of the logos <a href="./plain">here</a></p>
 </div>
