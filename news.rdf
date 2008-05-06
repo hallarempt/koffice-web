@@ -10,6 +10,21 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 2.0 alpha7 released</title>
+<date>May 7th, 2008</date>
+<fullstory>
+    The KOffice team is proud to announce the 7th alpha of the
+    KOffice2 platform.  This release shows the ongoing committment
+    of the KOffice developers to create a great version 2 with
+    lots of bugfixes and new features; For more details see:
+    <a href="http://www.koffice.org/announcements/announce-2.0alpha7.php">the
+    announcement</a> or
+    <a href="http://www.koffice.org/releases/2.0alpha7-release.php">the
+    release notes</a>.
+</fullstory>
+</item>
+
+<item>
 <title>Logos and more help for KOffice</title>
 <date>18 April, 2008</date>
 <fullstory>
@@ -20,7 +35,6 @@ changed with the introduction of a set of KOffice logos.  Read more on
 the <a href="http://dot.kde.org/1208521131/">dot</a>, the KDE newssite.
 </fullstory>
 </item>
-
 
 <item>
 <title>SpaceNavigators for KOffice</title>
