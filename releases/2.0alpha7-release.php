@@ -40,10 +40,11 @@
   community volunteers have done so.
 </p>
 
+<!--
 <p>
   Currently pre-compiled packages are available for:
 </p>
-
+-->
 <ul>
 <!--
 <li>
