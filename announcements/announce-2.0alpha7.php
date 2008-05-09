@@ -38,7 +38,7 @@
 
 <h3>Ongoing polishing</h3>
 <p align="justify">
-The release notes for alpha6 noted the addition of snap-guides that will guide the user when he or she is placing objects near other objects in any direction, alpha7 adds a bouding-box snapping option for even more powerful snapping options.
+The release notes for alpha6 noted the addition of snap-guides that will guide the user when he or she is placing objects near other objects in any direction, alpha7 adds a bounding-box snapping option for even more powerful snapping options.
 </p>
 <p align="justify">
 This release has also added the option for users to configure shape-shadows in the form of a new dock-widget as well as a whole new set of features in Kexi for its report generator which allows users to create a document based on the data in the database with features like charting and scripting.  Krita has received a lot of attention in general polish and bugfixing. Krita has additionally received a new plugin type which will allow both KOffice developers as well as 3rd party developers to create new pixel-generator filters, such as clouds or fractal generators.  KPresenter has focussed most on page-effects this release, but has managed to do more work on master page editing as well.
