@@ -39,12 +39,13 @@
   community volunteers have done so.
 </p>
 
-<!--
+
 <p>
   Currently pre-compiled packages are available for:
 </p>
--->
+
 <ul>
+<li>Windows <a href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> (it is needed to copy the <i>dll</i> files into the directory with the executables, more information about installing KDE applications on Windows can be found on <a href="http://techbase.kde.org/Projects/KDE_on_Windows/Installation">techbase</a>). </li>
 <!--
 <li>
  <a href="http://kubuntu.org/">Kubuntu</a>
