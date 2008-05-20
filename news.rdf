@@ -10,15 +10,15 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
-<title>KOffice alpha Installer for Windows</title>
+<title>The First release of KOffice 2.0 alpha for Windows</title>
 <date>May 19th, 2008</date>
 <fullstory>
-An installer for KOffice alpha on Windows is now available for testing. This is
-one of the most visible steps to bring the KOffice suite to Windows users. The
-installer can be download from <a href="http://winkde.org/pub/kde/ports/win32/installer/">here</a>,
-there are still some rough edges in the installer, since you will have to copy the <i>dll</i> file
-to the directory which contains the executables, more information about installing KDE applications
-on Windows can be found on <a href="http://techbase.kde.org/Projects/KDE_on_Windows/Installation">techbase</a>).
+The First release of KOffice 2.0 alpha for Windows is now available for testing. This is
+one of the most visible steps to bring the KOffice suite to Windows users. The KOffice package can be 
+installed using the <a href="http://winkde.org/pub/kde/ports/win32/installer/">KDE Windows Installer</a>.
+There are still some rough edges in the packaging, since you will have to copy the <i>dll</i> files
+from kde4/lib to kdek/bin directories which contains the executables. More information about installing KDE applications
+on Windows can be found in <a href="http://techbase.kde.org/Projects/KDE_on_Windows/Installation">KDE on Windows/Installation</a> Techbase article.
 </fullstory>
 </item>
     
