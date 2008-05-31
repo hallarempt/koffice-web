@@ -18,10 +18,7 @@ With the release of KOffice 2.0 (and KDE4.0!) drawing closer every day, KOffice 
 <h3>Information</h3>
 <ul>
   <li><a href="participants.php">Participants</a></li>
-  <li><a href="travel.php">Travel &amp; Accommodation</a></li>
   <li><a href="agenda.php">Agenda</a></li>
-  <li><a href="contact.php">Contact</a></li>
-  <li><a href="arrivals.php">Arrival &amp; Departure Information</a></li>
   <li><a href="galleries.php">Galleries: blogs, press, pictures</a></li>
 </ul>
 <h3>IRC contact</h3>
