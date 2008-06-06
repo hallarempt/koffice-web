@@ -10,6 +10,23 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
+<title>KOffice 2.0 alpha8 released</title>
+<date>6 June, 2008</date>
+<fullstory>
+    The KOffice team is proud to announce the 8th alpha of the
+    KOffice2 platform.  This release shows the ongoing committment
+    of the KOffice developers to create a great version 2 with
+    lots of bugfixes and new features; For more details see:
+    <a href="http://www.koffice.org/announcements/announce-2.0alpha8.php">the
+    announcement</a> or
+    <a href="http://www.koffice.org/releases/2.0alpha8-release.php">the
+    release notes</a>.  Highlights in this release is support for all major
+    platforms (Windows, Mac, Unix), much improved ODF support and start
+    of sound support.
+</fullstory>
+</item>
+
+<item>
 <title>The First release of KOffice 2.0 alpha for Windows</title>
 <date>May 19th, 2008</date>
 <fullstory>
@@ -23,7 +40,6 @@ on Windows can be found in <a href="http://techbase.kde.org/Projects/KDE_on_Wind
 </item>
     
 <item>
-  
 <title>KOffice 2.0 alpha7 released</title>
 <date>May 7th, 2008</date>
 <fullstory>
