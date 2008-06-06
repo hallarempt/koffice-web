@@ -1,18 +1,18 @@
 <?php
-  $page_title ='KOffice 2.0 Alpha 7 Release Announcement';
+  $page_title ='KOffice 2.0 Alpha 8 Release Announcement';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
 ?>
 
 <p align="justify">
-  DATELINE May 7, 2008<br />
+  DATELINE June 6, 2008<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
   KDE Releases Technology Preview of KOffice
 </h2>
-<p align="justify">June 6, 2008 (The INTERNET).
+<p align="justify">v, 2008 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> version 2.0 Alpha 8, a technology
