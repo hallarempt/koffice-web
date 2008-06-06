@@ -18,17 +18,20 @@
   <a href="http://www.koffice.org/">KOffice</a> version 2.0 Alpha 8, a technology
   preview of the upcoming version 2.0.
 </p>
+<p align="justify">
+    Like the previous alpha releases, this is mainly a technology preview
+    for those that are interested in the new 
+    ideas and technologies of the KOffice 2 series.
+</p>
+<p align="justify">
+    The Alpha 8 release is a work in progress.  This 
+    release introduces improvements in almost all the components as well
+    as in the common infrastructure. All the applications saw big changes, 
+    both bugfixes and new features.  However, we would still like to mention
+    some things especially:
+</p>
 
 <h2>Highlights</h2>
-<p align="justify">
-  This is mainly a technology preview for those that are interested in the new 
-  ideas and technologies of the KOffice 2 series.
-
-  The Alpha 8 release is a work in progress.  This 
-  release introduces improvements in almost all the components as well
-  as in the common infrastructure. All the applications saw big changes, both bugfixes and
-  new features.
-</p>
 <p align="justify">
   KOffice 2 is currently under heavy development. It is not meant as something
   to be used for any real work and can crash at any point.  However, here are
@@ -38,23 +41,56 @@
 
 <h3>Multiplatform release</h3>
 <p align="justify">
-<!-- TODO It's the first KOffice release to be available on three platforms, Unixes, Windows and MacOS X  -->
+    This is the first KOffice release to be available on all three major
+    platforms: Unix, Windows and MacOS X.  This fact is the result of the
+    work of the astonishing KDE-on-Windows group. 
 </p>
 
-<!-- TODO find one  -->
+<h3>OpenDocument Improvements</h3>
+<p align="justify">
+    One of the biggest concentrated efforts was made in the improvements of
+    the OpenDocument Format. Especially the text shape that is the base of
+    KWord saw much work, mostly through the full time work of the NLNet
+    sponsored Girish Ramakrishnan.  Another noteworthy addition is that
+    KOffice can now save and load images.
+</p>
 
-<p>More information about new KOffice2 technology can be found in the <a href="announce-2.0alpha6.php">Alpha6-announcement</a> and earlier or in the <a href="http://www.koffice.org/releases/2.0alpha6-release.php">release notes</a>.</p>
+<h3>Start of Sound Support</h3>
+<p align="justify">
+    KPresenter now has support for playing sounds. This means that a 
+    presentation will be able to contain sounds that will be played
+    during a presentation.
+</p>
 
-<h2>(Bug reports / User feedback )</h2> <!-- TODO pick a right title  -->
-While for most KOffice applications, bugs reports (in <a href="http://bugs.kde.org">bugs.kde.org</a>) is not yet wanted since there are too many
-visible problems, some applications are more ready and would like to receive user feedbacks on bugs:
+<h3>Support for Notes in KPresenter</h3>
+<p align="justify">
+    KPresenter saw the start of support for notes. That is an important 
+    feature which was previously lacking.
+</p>
+
+<h2>More Information</h2> 
+<p align="justify">
+    More information about new KOffice2 technology can be found in the
+    <a href="announce-2.0alpha7.php">Alpha7-announcement</a> and earlier or in
+    the <a href="http://www.koffice.org/releases/2.0alpha7-release.php">release
+    notes</a>.
+</p>
+
+<h2>(Bug Reports and User Feedback )</h2>
+<p align="justify">
+      While for most KOffice applications, bugs reports on the KDE bugzilla
+    <a href="http://bugs.kde.org">bugs.kde.org</a> are not yet needed since
+    there are too many visible problems.  Some applications are more ready,
+    though, and would like to receive user feedbacks on bugs:
 <ul>
   <li>KSpread</li>
   <li>Krita</li>
-  <li>The reporting component of Kexi</li>
+  <li>Karbon</li>
+  <li>The report component of Kexi</li>
 </ul>
 
 This list will be expanded as soon as the developers of other application think their application is ready for a more widen testing.
+</p>
 
 <h2>About KOffice</h2>
   <p align="justify">
@@ -112,7 +148,7 @@ This list will be expanded as soon as the developers of other application think 
 
 <p align="justify">
   <font size="2">
-  <em>Announcement</em>:  Written by Thomas Zander
+  <em>Announcement</em>:  Written by Cyrille Berger and Inge Wallin
 <!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
