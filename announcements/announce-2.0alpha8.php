@@ -43,7 +43,7 @@
 <p align="justify">
     This is the first KOffice release to be available on all three major
     platforms: Unix, Windows and MacOS X.  This fact is the result of the
-    work of the astonishing KDE-on-Windows group. 
+    work of the astonishing KDE-on-Windows and KDE-on-MacOS groups.
 </p>
 
 <h3>OpenDocument Improvements</h3>
