@@ -9,7 +9,7 @@
   FOR IMMEDIATE RELEASE
 </p>
 
-  <p>The KOffice team is proud to announce the seventh KOffice alpha for the upcoming 2.0 release.</p>
+  <p>The KOffice team is proud to announce the eighth KOffice alpha for the upcoming 2.0 release.</p>
 
   <h2>Announcement</h2>
   <ul>
@@ -35,7 +35,7 @@
 
 <p>
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.95 for some versions of their distribution, and in other cases
+  KOffice 1.95.8 for some versions of their distribution, and in other cases
   community volunteers have done so.
 </p>
 
