@@ -31,7 +31,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
   ?>
 </center>
 
-<h3>Libre Graphics Meeting</h3>
+<!--h3>Libre Graphics Meeting</h3>
 
 <p>The Libre Graphics Meeting 2008 will be held in Wroclaw, Poland this year. Krita developers,
 generously sponsored by KDE e.V., will attend this event, which is the most important meeting
@@ -43,7 +43,7 @@ year's meeting:</p>
 
 <p>In only two years, the Libre Graphics Meeting has become a hugely important meeting place for free software graphics developers. With surveys showing that the main gaps in the Linux desktop offering now are graphics applications (Photoshop, Illustrator, Visio, AutoCAD), the conference becomes even more vital to the advancement of the free software desktop.</p>
 
-<p>Thank you for your help!</p>
+<p>Thank you for your help!</p-->
 
 <h3>Press</h3>    
 
