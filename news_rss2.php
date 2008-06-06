@@ -75,7 +75,12 @@ function kde_rdf_to_valid_rss2 ( $rdf_file, $refered_news_file, $base_site )
 
             // Process date (e.g.: "29th April, 2005")
             // The function strtotime cannot handle the "th" and the comma, so have find day, month and year
-            ereg( "([0-9]+)[a-zA-Z]+ +([a-zA-Z]+).+ +([0-9]+)", $date[1], $datepiece );
+            $result = ereg( "([0-9]+)[a-zA-Z]* +([a-zA-Z]+).+ +([0-9]+)", $date[1], $datepiece );
+            if ($result == FALSE)
+            {
+                // try a different regexp MonthName NumberDay, Year
+                $result = ereg( "([a-zA-Z]+) +([0-9]+)[a-zA-Z]*.+ +([0-9]+)", $date[1], $datepiece );
+            }
             $newdate = $datepiece[1] . " " . $datepiece[2] . " " . $datepiece[3] . " UTC";
             // Nevertheless we use strtotime to avoid to have a month name table
             $pubdate = strtotime( $newdate );
