@@ -43,8 +43,8 @@
 
 <h3 id="kpresenter">KPresenter</h3>
 <ul>
-  <li>Notes support added.</li>
-  <li>Beautify the pixmaps used for thumbnails.</li>
+  <li>Notes support added</li>
+  <li>Beautify the pixmaps used for thumbnails</li>
   <li>Effect preview</li>
 </ul>
 
