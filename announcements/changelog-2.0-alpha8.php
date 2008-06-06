@@ -30,7 +30,6 @@
   <li>Restore frame loading, improve frame saving</li>
   <li>Start working on anchors support</li>
   <li>Imageshape loading/and saving working</li>
-  <li>Click action that starts playing a sound (loading and saving in document not yet implemented)</li>
   <li>Load and save headers</li>
 </ul>
 
@@ -46,6 +45,7 @@
   <li>Notes support added</li>
   <li>Beautify the pixmaps used for thumbnails</li>
   <li>Effect preview</li>
+  <li>Click action that starts playing a sound (loading and saving in document not yet implemented)</li>
 </ul>
 
 <h3 id="kexi">Kexi</h3>
