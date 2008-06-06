@@ -20,7 +20,7 @@ Tel : (+49)30/257600 Fax : (+49)30/25760333</p>
 <p>
 <h3>Directions &amp; Maps</h3>
 <p>
-<a href="motel.jpg">Click here</a> for a map of the general area surrounding the motel and offices.
+<a href="http://www.openstreetmap.org/?lat=52.50872&lon=13.43069&zoom=15&layers=B00FT">Click here</a> for a map of the general area surrounding the motel and offices.
 </p>
 <p>
 <!--
