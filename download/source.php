@@ -36,7 +36,7 @@ regularly via SVN.</p>
 
 <p>The complete source code for KOffice <?php echo $currentversion ?>
 is available for free download via one of
-the <a href="http://download.kde.org/stable/koffice-1.6.0/src/">KDE
+the <a href="http://download.kde.org/stable/koffice-1.6.3/src/">KDE
 HTTP or FTP mirrors</a>.  It's recommended that you download from
 a <a href="http://www.kde.org/mirrors.html">mirror</a> located in
 your country.</p>
