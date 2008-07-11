@@ -10,7 +10,7 @@
   <a href="#requirements">Requirements</a> |
   <!--<a href="">klik development news</a> |-->
   <a href="#stable">KOffice stable from tarballs</a> |
-  <a href="unstable.php">KOffice unstable from svn</a> 
+  <a href="http://wiki.koffice.org/index.php?title=Build_KOffice">KOffice unstable from svn</a> 
 ]
 </div>
 
