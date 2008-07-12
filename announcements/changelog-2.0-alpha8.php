@@ -60,11 +60,6 @@
   </li>
 </ul>
 
-<li>Kexi reports module
-<ul></ul></li>
-<li></li>
-</ul>
-
 <h3 id="kplato">KPlato</h3>
 <ul>
   <li>Gantt chart:
