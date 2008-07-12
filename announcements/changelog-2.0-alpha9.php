@@ -23,7 +23,12 @@
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
   <li>make use of guide lines</li>
-  <li>Add a paragraph tool for visual editing of the layout of a paragraph.</li>
+  <li><em>KoText</em>
+    <ul>
+      <li>Add a paragraph tool for visual editing of the layout of a paragraph.</li>
+      <li>Add drop caps support</li>
+    </ul>
+  </li>
   <li><em>Flake</em>
     <ul>
       <li>Replace QBrush as shape background by KoGradientBackground, KoPatternBackground and KoColorBackground.</li>
