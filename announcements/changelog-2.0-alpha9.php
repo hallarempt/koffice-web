@@ -86,24 +86,18 @@
 
 <h3 id="krita">Krita</h3>
 <ul>
-  <li>Fix tablet support for NVidia-twinview setups</li>
-  <li>Fix crash when doing select-all</li>
-  <li>Fix crash when choosing more complex paintop brush engines</li>
-  <li>Port bumpmap filter</li>
-  <li>Re-enable adjustment layers</li>
-  <li>Don't hide the krita tools in the toolbox if a shape layer is selected but 
-  disable them</li>
-  <li>Fix memory leak on removing layers</li>
-  <li>Fix order of tools in toolbox</li>
-  <li>Improve the scale image dialog (still needed: keep aspect ratio)</li>
-  <li>Use XML for illuminant profiles instead of binary blobs, leading to improved stability</li>
-  <li>Fix crash in the unsharp mask filter</li>
-  <li>Fix first stroke of painting mapped to the bottom right (when using a tablet)</li>
-  <li>Fix blur filter</li>
-  <li>Optimize convolution</li>
-  <li>Fix crash when duplicating layers</li>
-  <li>Fix the middle button switching fg/bg colors</li>
-  <li>Remove non-OpenCTL based 16 and 32 bits float colorspaces</li>
+  <li>Fix vector layers.</li>
+  <li>Fix adjustment layers.</li>
+  <li>Add timer to filter node and layer dialogs to improve responsiveness.</li>
+  <li>Fix right-click when selecting a contiguous area opening the context (<a href="http://bugs.kde.org/164685">bug #164685</a>).</li>
+  <li>Fix crash using the "select similar color" tool (<a href="http://bugs.kde.org/164610">bug #164610</a>).</li>
+  <li>Fix cannot open png files with accented character in path (<a href="http://bugs.kde.org/163745">bug #163745</a>).</li>
+  <li>Fix grid doesn't cover all the canva if krita's window is not maximized (<a href="http://bugs.kde.org/164617">bug #164617</a>).</li>
+  <li>Fix excessive CPU usage when the grid is enabled (<a href="http://bugs.kde.org/164616">bug #164616</a>).</li>
+  <li>Fix deleting layers doesn't delete their content (<a href="http://bugs.kde.org/164619">bug #164619</a>).</li>
+  <li>Save masks information in native file format (but not yet the mask data).</li>
+  <li>Start implementation of paintop preset.</li>
+  <li>Sumi-e paintop.</li>
 </ul>
 
 <h3 id="karbon">Karbon</h3>
