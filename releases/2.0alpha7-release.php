@@ -16,6 +16,11 @@
   <li><a href="/announcements/announce-2.0alpha7.php">Announcement</a></li>
   </ul>
 
+  <h2>Changelog</h2>
+  <ul>
+  <li><a href="/announcements/changelog-2.0-alpha7.php">Changelog</a></li>
+  </ul>
+
   <h2>Download</h2>
   <ul>
     <li>Source code of KOffice 2.0-alpha-7:

@@ -15,6 +15,11 @@
   <ul>
   <li><a href="/announcements/announce-2.0alpha8.php">Announcement</a></li>
   </ul>
+    
+  <h2>Changelog</h2>
+  <ul>
+  <li><a href="/announcements/changelog-2.0-alpha8.php">Changelog</a></li>
+  </ul>
 
   <h2>Download</h2>
   <ul>
