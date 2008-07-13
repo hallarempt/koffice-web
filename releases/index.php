@@ -11,8 +11,8 @@ KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">m
 </p>
 
 <ul>
-  <li><a href="2.0alpha8-release.php">KOffice 2.0alpha6 Release</a></li>
-  <li><a href="2.0alpha7-release.php">KOffice 2.0alpha6 Release</a></li>
+  <li><a href="2.0alpha8-release.php">KOffice 2.0alpha8 Release</a></li>
+  <li><a href="2.0alpha7-release.php">KOffice 2.0alpha7 Release</a></li>
   <li><a href="2.0alpha6-release.php">KOffice 2.0alpha6 Release</a></li>
   <li><a href="2.0alpha5-release.php">KOffice 2.0alpha5 Release</a></li>
   <li><a href="2.0alpha4-release.php">KOffice 2.0alpha4 Release</a></li>

@@ -10,6 +10,35 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>6 June 2008</strong>
+ - <a href="announce-2.0alpha8.php">KOffice 2.0 Alpha 8 Announcement</a>
+<br/><em>Multiplatform, work on OpenDocument, notes and sound in KPresenter</em>
+<p />
+
+<strong>7 May 2008</strong>
+- <a href="announce-2.0alpha7.php">KOffice 2.0 Alpha 7 Announcement</a>
+<p />
+
+<strong>20 February 2008</strong>
+- <a href="announce-2.0alpha6.php">KOffice 2.0 Alpha 6 Announcement</a>
+<p />
+
+<strong>21 November 2007</strong>
+- <a href="announce-2.0alpha5.php">KOffice 2.0 Alpha 5 Announcement</a>
+<p />
+
+<strong>17 October 2007</strong>
+- <a href="announce-2.0alpha4.php">KOffice 2.0 Alpha 4 Announcement</a>
+<p />
+
+<strong>5 September 2007</strong>
+- <a href="announce-2.0alpha3.php">KOffice 2.0 Alpha 3 Announcement</a>
+<p />
+
+<strong>2 August 2007</strong>
+- <a href="announce-2.0alpha2.php">KOffice 2.0 Alpha 2 Announcement</a>
+<p />
+
 <strong>29 November 2006</strong>
  - <a href="announce-1.6.1.php">KOffice 1.6.1 Announcement</a>
 <br />"<em>New features in Krita and Kexi, lots of bugfixes.</em>"
