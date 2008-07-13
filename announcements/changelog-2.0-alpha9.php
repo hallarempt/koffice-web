@@ -96,7 +96,7 @@
 <h3 id="kplato">KPlato</h3>
 <ul>
   <li>Re-enable configurable task defaults.
-  <li>Improvements to work&vacation editor and dialogs.
+  <li>Improvements to work and vacation editor and dialogs.
   <li>Add estimate type Length which takes into account non-working days when scheduling tasks.
 </ul>
 
