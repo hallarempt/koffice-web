@@ -73,10 +73,21 @@
 
 <h3 id="kexi">Kexi</h3>
   <ul>
-    <li><em>Kexi reports module</em>
+    <li><em>Reports module</em>
       <ul>
         <li>kspread/ods export for reports.</li>
         <li>HTML export for reports.</li>
+      </ul>
+    </li>
+    <li><em>Web Forms</em>
+      <ul>
+        <li>CRUD operations fully supported</li>
+        <li>Can display query results</li>
+        <li>Navigation buttons</li>
+        <li>Initial image support</li>
+        <li>Improved usability</li>
+        <li>Fixed some crashes</li>
+        <li>Switched to new HTTP server backend (pion-net)</li>
       </ul>
     </li>
   </li>
