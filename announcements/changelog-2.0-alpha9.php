@@ -103,7 +103,7 @@
 <h3 id="krita">Krita</h3>
 <ul>
   <li>Fix vector layers.</li>
-  <li>Fix adjustment layers.</li>
+  <li>Fix filter layers.</li>
   <li>Add timer to filter node and layer dialogs to improve responsiveness.</li>
   <li>Fix right-click when selecting a contiguous area opening the context (<a href="http://bugs.kde.org/164685">bug #164685</a>).</li>
   <li>Fix crash using the "select similar color" tool (<a href="http://bugs.kde.org/164610">bug #164610</a>).</li>
@@ -113,7 +113,7 @@
   <li>Fix deleting layers doesn't delete their content (<a href="http://bugs.kde.org/164619">bug #164619</a>).</li>
   <li>Save masks information in native file format (but not yet the mask data).</li>
   <li>Start implementation of paintop preset.</li>
-  <li>Sumi-e paintop.</li>
+  <li>Begin of a Sumi-e (chinese paintbrush) brush engine (gsoc 2008 project) .</li>
 </ul>
 
 <h3 id="karbon">Karbon</h3>
