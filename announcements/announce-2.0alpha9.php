@@ -23,6 +23,16 @@
     for those that are interested in the new 
     ideas and technologies of the KOffice 2 series.
 </p>
+
+<h2>Highlights</h2>
+
+<p align="justify">
+  KOffice 2 is currently under heavy development. It is not meant 
+  to be used for any real work and can crash at any point.  However, here are
+  some of the highlights of the upcoming KOffice 2 series. Note that not all
+  of the new technologies will be fully implemented in the first release, 2.0.
+</p>
+
 <p align="justify">
     The Alpha 9 release is a work in progress.  This 
     release introduces improvements in almost all the components as well
@@ -31,25 +41,18 @@
     some things especially:
 </p>
 
-<h2>Highlights</h2>
-<p align="justify">
-  KOffice 2 is currently under heavy development. It is not meant as something
-  to be used for any real work and can crash at any point.  However, here are
-  some of the highlights of the upcoming KOffice 2 series. Note that not all
-  of the new technologies will be fully implemented in the first release, 2.0.
-</p>
 
 <h3>KSpread printing</h3>
 <p align="justify">
-    Support for printing in KSpread is now back, with the possibility to print range of page, selection of cells,
-    zooming and layouts.
+    Support for printing in KSpread is now back, with the possibility to 
+    print a range of pages, a selection of cells, zooming and layouts.
 </p>
 <center><a href="pics/2008_07_16_kspread_printing.png"><img src="pics/2008_07_16_kspread_printing_400x241.png" width="400" height="250" /></a></center>
 
 <h3>Export from reports, an exemple of OpenDocument interoparability</h3>
 <p align="justify">
-  In this release, the report component of Kexi get the possibility to export
-  to HTML, and to ODS Spreadsheet file, which can then easily be opened and use
+  In this release, the report component of Kexi gets the ability to export
+  to HTML, and to the ODS spreadsheet file format, which can then easily be opened and used
   in KSpread, or with other spreadsheet compatible with ODF, such as
   OpenOffice.org Calc.
 </p>
@@ -58,9 +61,9 @@
 <h3>Combining Krita effects with Karbon vectors</h3>
 <p align="justify">
     This one of the first release where Krita and Karbon can display the full potential
-    of what can happen when the two applications collaborate. Since adding a vector shape,
-    and filters layers is now working in Krita, it gives the possibility to apply most of
-    Krita filters on top of Karbon vectors.
+    of what can happen when the two applications collaborate. Since adding vector shapes,
+    and filter layers is now working in Krita, it gives the possibility to apply most of
+    Krita filters on top of Karbon vector objects.
 </p>
 <center><a href="pics/2008_07_16_krita_shapelayer_with_filter_layer.png"><img src="pics/2008_07_16_krita_shapelayer_with_filter_layer_400x238.png" width="400" height="238" /></a></center>
 
@@ -68,7 +71,7 @@
 <h2>More Information</h2> 
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="announce-2.0alpha8.php">Alpha8-announcement</a> and earlier or in
+    <a href="announce-2.0alpha8.php">Alpha8-announcement</a> and earlier announcements or in
     the <a href="http://www.koffice.org/releases/2.0alpha8-release.php">release
     notes</a>.
 </p>
@@ -87,7 +90,8 @@
   <li>The report component of Kexi</li>
 </ul>
 
-This list will be expanded as soon as the developers of other application think their application is ready for a more widen testing.
+This list will be expanded as soon as the developers of other application think 
+their application is ready for a more widen testing.
 </p>
 
 <h2>About KOffice</h2>
@@ -172,7 +176,7 @@ This list will be expanded as soon as the developers of other application think 
 <h2>Press Contacts</h2>
 <table cellpadding="10"><tr valign="top">
 <td>
-
+<!--
 <b>Africa</b><br />
 Uwe Thiem<br />
 P.O.Box 30955<br />
@@ -180,6 +184,7 @@ Windhoek<br />
 Namibia<br />
 Phone: +264 - 61 - 24 92 49<br />
 <a href="&#109;a&#105;l&#116;o:&#105;&#110;fo-&#0097;&#0102;r&#105;&#99;a&#x40;k&#100;e.&#111;&#x72;g">info-africa kde.org</a><br />
+-->
 </td>
 
 <td>
