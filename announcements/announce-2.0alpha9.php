@@ -21,19 +21,16 @@
 <p align="justify">
     Like the previous alpha releases, this is mainly a technology preview
     for those that are interested in the new 
-    ideas and technologies of the KOffice 2 series.
+    ideas and technologies of the KOffice 2 series. Note that KOffice 2.0
+    is only the beginning: not all features we are laying down the foundations
+    for today will already be available in our 2.0 release.
 </p>
 
 <h2>Highlights</h2>
 
 <p align="justify">
   KOffice 2 is currently under heavy development. It is not meant 
-  to be used for any real work and can crash at any point.  However, here are
-  some of the highlights of the upcoming KOffice 2 series. Note that not all
-  of the new technologies will be fully implemented in the first release, 2.0.
-</p>
-
-<p align="justify">
+  to be used for any real work and can crash at any point.  
     The Alpha 9 release is a work in progress.  This 
     release introduces improvements in almost all the components as well
     as in the common infrastructure. All the applications saw big changes, 
@@ -71,7 +68,7 @@
 <h2>More Information</h2> 
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="announce-2.0alpha8.php">Alpha8-announcement</a> and earlier announcements or in
+    <a href="changelog-2.0-alpha9.php">changelog</a> and earlier announcements or in
     the <a href="http://www.koffice.org/releases/2.0alpha8-release.php">release
     notes</a>.
 </p>
@@ -80,8 +77,8 @@
 <p align="justify">
       While for most KOffice applications, bugs reports on the KDE bugzilla
     <a href="http://bugs.kde.org">bugs.kde.org</a> are not yet needed since
-    there are too many visible problems.  Some applications are more ready,
-    though, and would like to receive user feedbacks on bugs:
+    there are too many visible problems, applications are more ready,
+and would like to receive user feedbacks on bugs:
 <ul>
   <li>Karbon</li>
   <li>KPlator</li>
