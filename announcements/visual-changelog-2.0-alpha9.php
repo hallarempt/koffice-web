@@ -29,16 +29,16 @@ $generalGallery->addImage("pics/2008_07_16_kotext_paragraph_tool_sm.png", "pics/
 $generalGallery->show();
 ?>
 
-<h3 id="kword">kword</h3>
+<h3 id="kword">KWord</h3>
 <?
-$kwordGallery = new ImageGallery("kword");
+$kwordGallery = new ImageGallery("KWord");
 $kwordGallery->addImage("pics/2008_07_16_kword_drop_cap_sm.png", "pics/2008_07_16_kword_drop_cap.png", "200", "156", "[Screenshot]", 0, "Support of drop cap.");
 $kwordGallery->show();
 ?>
 
-<h3 id="kspread">kspread</h3>
+<h3 id="kspread">KSpread</h3>
 <?
-$kspreadGallery = new ImageGallery("kspread");
+$kspreadGallery = new ImageGallery("KSpread");
 $kspreadGallery->addImage("pics/2008_07_16_kspread_printing_sm.png", "pics/2008_07_16_kspread_printing.png", "200", "121", "[Screenshot]", 0, "Support printing of page ranges, selected cells, layouting of the printing.");
 $kspreadGallery->show();
 ?>
