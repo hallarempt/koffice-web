@@ -21,6 +21,11 @@
   <li><a href="/announcements/changelog-2.0-alpha9.php">Changelog</a></li>
   </ul>
 
+  <h2>Visual changelog</h2>
+  <ul>
+  <li><a href="/announcements/visual-changelog-2.0-alpha9.php">Visual changelog</a></li>
+  </ul>
+
   <h2>Download</h2>
   <ul>
     <li>Source code of KOffice 2.0-alpha-9:
@@ -30,9 +35,13 @@
         <th align="left">Location</th>
       <tr>
         <td>KOffice 2.0-alpha-9 (source code)</td>
-        <td><a href="http://download.kde.org/unstable/koffice-1.9.95.9/src/koffice-1.9.95.9.tar.bz2">koffice-1.9.95.8.tar.bz2</a></td>
+        <td><a href="http://download.kde.org/unstable/koffice-1.9.95.9/src/koffice-1.9.95.9.tar.bz2">koffice-1.9.95.9.tar.bz2</a></td>
     </tr>
-   </table>
+    <tr>
+    <td>KAtelier 2.0-alpha-9 (source code, with onlu Krita and Karbon)</td>
+    <td><a href="http://download.kde.org/unstable/koffice-1.9.95.9/src/katelier-1.9.95.9.tar.bz2">katelier-1.9.95.9.tar.bz2</a></td>
+    </tr>
+    </table>
   </li>
   </ul>
 

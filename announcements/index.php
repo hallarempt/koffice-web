@@ -10,6 +10,11 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>16 July 2008</strong>
+- <a href="announce-2.0alpha9.php">KOffice 2.0 Alpha 9 Announcement</a>
+<br/><em>Printing in KSpread, more integration between applications (kexi/kspread and krita/karbon)</em>
+<p />
+
 <strong>6 June 2008</strong>
  - <a href="announce-2.0alpha8.php">KOffice 2.0 Alpha 8 Announcement</a>
 <br/><em>Multiplatform, work on OpenDocument, notes and sound in KPresenter</em>
