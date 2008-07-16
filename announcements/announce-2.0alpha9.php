@@ -68,9 +68,7 @@
 <h2>More Information</h2> 
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="changelog-2.0-alpha9.php">changelog</a> and earlier announcements or in
-    the <a href="http://www.koffice.org/releases/2.0alpha8-release.php">release
-    notes</a>.
+    <a href="changelog-2.0-alpha9.php">changelog</a>, or in the <a href="visual-changelog-2.0-alpha9.php">visual changelog</a> and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0alpha8-release.php">release notes</a>.
 </p>
 
 <h2>(Bug Reports and User Feedback )</h2>
@@ -147,7 +145,7 @@ their application is ready for a more widen testing.
 
 <p align="justify">
   <font size="2">
-  <em>Announcement</em>:  Written by Cyrille Berger and Inge Wallin
+  <em>Announcement</em>:  Written by Cyrille Berger and Boudewijn Rempt
 <!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
