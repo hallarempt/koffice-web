@@ -45,6 +45,7 @@
   <li>Beginning Table of Content support.</li>
   <li>Footnote/Endnote support.</li>
   <li>Improved ODF Saving.</li>
+  <li>Support of drop cap.</li>
 </ul>
 
 <h3 id="kspread">KSpread</h3>

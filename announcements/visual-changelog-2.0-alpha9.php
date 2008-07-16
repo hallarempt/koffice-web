@@ -12,13 +12,13 @@ happen since the release ofKOffice 2.0 Alpha 8.
 
 <ul>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
-<!-- <li><a href="#kword">KWord</a></li> -->
-<!-- <li><a href="#kspread">KSpread</a></li> -->
+<li><a href="#kword">KWord</a></li>
+<li><a href="#kspread">KSpread</a></li>
 <!-- <li><a href="#kpresenter">KPresenter</a></li> -->
 <li><a href="#kexi">Kexi</a></li>
-<!-- <li><a href="#kplato">KPlato</a></li> -->
+<li><a href="#kplato">KPlato</a></li>
 <li><a href="#krita">Krita</a></li>
-<!-- <li><a href="#karbon">Karbon</a></li> -->
+<li><a href="#karbon">Karbon</a></li>
 </ul>
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
@@ -27,6 +27,20 @@ happen since the release ofKOffice 2.0 Alpha 8.
 $generalGallery = new ImageGallery("KOffice Libraries");
 $generalGallery->addImage("pics/2008_07_16_kotext_paragraph_tool_sm.png", "pics/2008_07_16_kotext_paragraph_tool.png", "200","121", "[Screenshot]", 0, "An experimental paragraph tool for visual editing of the layout of a paragraph.");
 $generalGallery->show();
+?>
+
+<h3 id="kword">kword</h3>
+<?
+$kwordGallery = new ImageGallery("kword");
+$kwordGallery->addImage("pics/2008_07_16_kword_drop_cap_sm.png", "pics/2008_07_16_kword_drop_cap.png", "200", "156", "[Screenshot]", 0, "Support of drop cap.");
+$kwordGallery->show();
+?>
+
+<h3 id="kspread">kspread</h3>
+<?
+$kspreadGallery = new ImageGallery("kspread");
+$kspreadGallery->addImage("pics/2008_07_16_kspread_printing_sm.png", "pics/2008_07_16_kspread_printing.png", "200", "121", "[Screenshot]", 0, "Support printing of page ranges, selected cells, layouting of the printing.");
+$kspreadGallery->show();
 ?>
 
 <h3 id="kexi">Kexi</h3>
@@ -38,6 +52,13 @@ $kexiGallery->show();
 
 ?>
 
+<h3 id="kplato">KPlato</h3>
+<?
+$kplatoGallery = new ImageGallery("KPlato");
+$kplatoGallery->addImage("pics/2008_07_16_kplato_vaccations_sm.png", "pics/2008_07_16_kplato_vaccations.png", "200", "119", "[Screenshot]", 0, "Improvements to work and vacation editor and dialogs.");
+$kplatoGallery->show();
+?>
+
 <h3 id="krita">Krita</h3>
 <?
 $kritaGallery = new ImageGallery("Krita");
@@ -47,3 +68,9 @@ $kritaGallery->show();
 
 ?>
 
+<h3 id="karbon">Karbon</h3>
+<?
+$karbonGallery = new ImageGallery("Karbon");
+$karbonGallery->addImage("pics/2009_07_16_karbon_calligraphic_sm.png", "pics/2009_07_16_karbon_calligraphic.png", "200", "121", "[Screenshot]", 0, "Work progress on the calligraphics tool for Karbon.");
+$karbonGallery->show();
+?>
