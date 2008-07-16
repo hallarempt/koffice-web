@@ -71,6 +71,6 @@ $kritaGallery->show();
 <h3 id="karbon">Karbon</h3>
 <?
 $karbonGallery = new ImageGallery("Karbon");
-$karbonGallery->addImage("pics/2009_07_16_karbon_calligraphic_sm.png", "pics/2009_07_16_karbon_calligraphic.png", "200", "121", "[Screenshot]", 0, "Work progress on the calligraphics tool for Karbon.");
+$karbonGallery->addImage("pics/2008_07_16_karbon_calligraphic_sm.png", "pics/2008_07_16_karbon_calligraphic.png", "200", "121", "[Screenshot]", 0, "Work progress on the calligraphics tool for Karbon.");
 $karbonGallery->show();
 ?>
