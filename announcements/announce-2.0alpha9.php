@@ -46,18 +46,18 @@
 </p>
 <center><a href="pics/2008_07_16_kspread_printing.png"><img src="pics/2008_07_16_kspread_printing_400x241.png" width="400" height="250" /></a></center>
 
-<h3>Export from reports, an exemple of OpenDocument interoparability</h3>
+<h3>Export from reports, an example of OpenDocument interoperability</h3>
 <p align="justify">
   In this release, the report component of Kexi gets the ability to export
   to HTML, and to the ODS spreadsheet file format, which can then easily be opened and used
-  in KSpread, or with other spreadsheet compatible with ODF, such as
+  in KSpread, or with other spreadsheet applications compatible with ODF, such as
   OpenOffice.org Calc.
 </p>
 <center><a href="pics/2008_07_16_kexi_to_kspread.png"><img src="pics/2008_07_16_kexi_to_kspread_400x250.png" width="400" height="250" /></a></center>
 
 <h3>Combining Krita effects with Karbon vectors</h3>
 <p align="justify">
-    This one of the first release where Krita and Karbon can display the full potential
+    This is one of the first release where Krita and Karbon can display the full potential
     of what can happen when the two applications collaborate. Since adding vector shapes,
     and filter layers is now working in Krita, it gives the possibility to apply most of
     Krita filters on top of Karbon vector objects.
@@ -79,14 +79,14 @@
 and would like to receive user feedbacks on bugs:
 <ul>
   <li>Karbon</li>
-  <li>KPlator</li>
+  <li>KPlato</li>
   <li>Krita</li>
   <li>KSpread</li>
   <li>The report component of Kexi</li>
 </ul>
 
 This list will be expanded as soon as the developers of other application think 
-their application is ready for a more widen testing.
+their application is ready for a more wider testing.
 </p>
 
 <h2>About KOffice</h2>
