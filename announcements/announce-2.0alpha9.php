@@ -57,7 +57,7 @@
 
 <h3>Combining Krita effects with Karbon vectors</h3>
 <p align="justify">
-    This is one of the first release where Krita and Karbon can display the full potential
+    This is one of the first releases where Krita and Karbon can display the full potential
     of what can happen when the two applications collaborate. Since adding vector shapes,
     and filter layers is now working in Krita, it gives the possibility to apply most of
     Krita filters on top of Karbon vector objects.
