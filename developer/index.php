@@ -11,8 +11,6 @@
    <ul>
      <li><a href="http://wiki.koffice.org">Developer wiki</a></li>
      <li><a href="generalinfo/">General developer information</a></li>
-     <li><a href="http://wiki.koffice.org/index.php?title=Libs/Modifier_keys">KOffice-wide Mouse Interaction behavior</a></li>
-     <li><a href="releasegoals2.0.php">KOffice 2.0 release goals</a></li>
      <li><a href="apidocmain.php"><strong>KOffice API reference</strong></a></li>
      <li><a href="tasks/">Tasks</a> (Volunteers needed!)</li>
      <li><a href="filters/">Filters</a></li>

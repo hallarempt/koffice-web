@@ -13,17 +13,6 @@
 
 <p>Here some bugs (just a very little excerpt of all KOffice bugs):</p>
 
-<ul>
-    <li>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=55660">Bug #55660</a>:
-        "Warning if referenced cells are removed (delete row/column)" (Difficulty: ****; Sharability: *****)
-    </li>
-    <li>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=41752">Bug #41752</a>:
-        "Handling of tables is extremely inconvenient" (Difficulty: ****; Sharability: ****)
-    </li>
-</ul>
-
 <p>
 <a href="http://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;product=koffice&amp;product=kword&amp;product=kspread&amp;product=kpresenter&amp;product=kivio&amp;product=karbon&amp;product=krita&amp;product=kugar&amp;product=kchart&amp;product=kformula&amp;product=kexi">
 Click here to query for all the open bugs in KOffice.</a> (<em>Caution: long list!</em>)</p>
@@ -37,21 +26,9 @@ easily recognize bugs easier to fix or wishes esiaer to implement than the avera
 
 <p>Some of KOffice's Junior Job bugs:</p>
 
-<ul>
-    <li>
-        <a href="http://bugs.kde.org/show_bug.cgi?id=63011">Bug #63011</a>:
-        "JJ: Being able to specify the resolution or DPI rate for an exported image"
-        (Difficulty: *; Sharability: ****)
-    </li>
-</ul>
-
 <p>
 <a href="http://bugs.kde.org/buglist.cgi?short_desc_type=allwordssubstr&amp;short_desc=JJ%3A&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED&amp;product=koffice&amp;product=kword&amp;product=kspread&amp;product=kpresenter&amp;product=kivio&amp;product=karbon&amp;product=krita&amp;product=kugar&amp;product=kchart&amp;product=kformula&amp;product=kexi">
 Click here to query for all the Junior Jobs in KOffice.</a></p>
-
-<p>
-<a href="http://bugs.kde.org/buglist.cgi?short_desc_type=allwordssubstr&amp;short_desc=JJ%3A&amp;bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED">
-Click here to query for all the Junior Jobs in KDE.</a></p>
 
 <h2>Managing Tasks In KDE Bugs</h2>
  
