@@ -33,7 +33,10 @@
 
 <h3 id="kword">KWord</h3>
 <ul>
-  <li>Support for page styles (no GUI for it so far, only working through OpenDocument loader).</li>
+  <li>Support for loading opendocument page styles.</li>
+  <li>The text tool shows the styles in a tree view with an 'apply' button at the bottom, as that works better for a docker.</li>
+  <li>Many fixes in page handling.</li>
+  <li>Loading and saving of ODF list styles has been improved.</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
