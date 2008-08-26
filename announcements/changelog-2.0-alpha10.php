@@ -31,7 +31,7 @@
   </li>
 </ul>
 
-<h3 id="kpresenter">KPresenter</h3>
+<h3 id="kword">KWord</h3>
 <ul>
   <li>Support for page styles (no GUI for it so far, only working through OpenDocument loader).</li>
 </ul>
