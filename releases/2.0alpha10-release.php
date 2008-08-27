@@ -49,7 +49,7 @@
 
 <p>
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.9.95.9 for some versions of their distribution, and in other cases
+  KOffice 1.9.95.10 for some versions of their distribution, and in other cases
   community volunteers have done so.
 </p>
 
