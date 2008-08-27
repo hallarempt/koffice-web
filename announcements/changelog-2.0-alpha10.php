@@ -41,6 +41,7 @@
 
 <h3 id="kpresenter">KPresenter</h3>
 <ul>
+  <li>Presenter view</li>
   <li>Added guide lines to kpresenter.</li>
   <li>Added end of slide show slide.</li>
 </ul>
@@ -79,7 +80,6 @@
   <li>Ported pattern tool to work with KoPatternbackground.</li>
   <li>Brought back page layout editing.</li>
   <li>Made layer view sorting more robust.</li>
-  <li>Made style docker a plugin for other apps to use.</li>
   <li>Filters:
     <ul>
       <li>Text support for wmf import filter.</li>
