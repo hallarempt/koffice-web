@@ -43,19 +43,19 @@
 <p align="justify">
 Speak about the note view
 </p>
-<!-- relevant screenshots <center><a href="pics/2008_07_16_krita_shapelayer_with_filter_layer.png"><img src="pics/2008_07_16_krita_shapelayer_with_filter_layer_400x238.png" width="400" height="238" /></a></center> -->
+<center><a href="pics/2008_08_26_presenter_view_main.png"><img src="pics/2008_08_26_presenter_view_main_400x300.png" width="400" height="300" /></a></center>
 
 <h3>KWord is about styles</h3>
 <p align="justify">
 Speak about text-styles manager, pages-styles and Style docker to change foreground and background of shapes.
 </p>
-<!-- relevant screenshots <center><a href="pics/2008_07_16_krita_shapelayer_with_filter_layer.png"><img src="pics/2008_07_16_krita_shapelayer_with_filter_layer_400x238.png" width="400" height="238" /></a></center> -->
+<center><img src="pics/2008_08_26_styles_treeview.png" width="400" height="238" /></center>
 
 <h3>Ultimate drawing experience in Krita and Karbon </h3>
 <p align="justify">
     
 </p>
-<!-- relevant screenshots <center><a href="pics/2008_07_16_krita_shapelayer_with_filter_layer.png"><img src="pics/2008_07_16_krita_shapelayer_with_filter_layer_400x238.png" width="400" height="238" /></a></center> -->
+<center><a href="pics/2008_08_26_sumi-e_coolness.jpg"><img src="pics/2008_08_26_sumi-e_coolness_400x300.jpg" width="579" height="313" /></a></center>
 
 
 <h2>More Information</h2> 
