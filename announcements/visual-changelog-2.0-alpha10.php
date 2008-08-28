@@ -32,7 +32,7 @@ $generalGallery->show();
 <h3 id="kword">KWord</h3>
 <?
 $kwordGallery = new ImageGallery("KWord");
-$kwordGallery->addImage("pics/2008_08_26_styles_treeview_sm.png", "pics/2008_08_26_styles_treeview.png", "200", "108", "[Screenshot]", 0, "Paragraph styles docker.");
+$kwordGallery->addImage("pics/2008_08_26_styles_treeview_sm.png", "pics/2008_08_26_styles_treeview.png", "200", "108", "[Screenshot]", 0, "Text styles docker.");
 $kwordGallery->show();
 ?>
 
