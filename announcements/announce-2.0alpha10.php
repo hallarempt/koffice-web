@@ -39,9 +39,9 @@
 </p>
 
 
-<h3>KPresenter Note View</h3>
+<h3>KPresenter Presenter View</h3>
 <p align="justify">
-Speak about the note view
+Speak about the presenter view
 </p>
 <center><a href="pics/2008_08_26_presenter_view_main.png"><img src="pics/2008_08_26_presenter_view_main_400x300.png" width="400" height="300" /></a></center>
 
