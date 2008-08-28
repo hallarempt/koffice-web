@@ -6,7 +6,7 @@
 ?>
 
 <p align="justify">
-  DATELINE August 26, 2008<br />
+  DATELINE August 27, 2008<br />
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
@@ -165,15 +165,20 @@ their application is ready for a more wider testing.
 <h2>Press Contacts</h2>
 <table cellpadding="10"><tr valign="top">
 <td>
-<!--
+
+
+
 <b>Africa</b><br />
-Uwe Thiem<br />
-P.O.Box 30955<br />
-Windhoek<br />
-Namibia<br />
-Phone: +264 - 61 - 24 92 49<br />
+  AJ Venter<br />
+  Unit 7B Beauvallon Village<br />
+  13 Sandown Road<br />
+  West Beach<br />
+  Cape Town<br />
+  7441<br />
+  South-Africa<br />
+  Phone: +27-83-455-9978<br />
 <a href="&#109;a&#105;l&#116;o:&#105;&#110;fo-&#0097;&#0102;r&#105;&#99;a&#x40;k&#100;e.&#111;&#x72;g">info-africa kde.org</a><br />
--->
+
 </td>
 
 <td>
