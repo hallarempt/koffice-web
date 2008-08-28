@@ -20,7 +20,7 @@
 </p>
 <p align="justify">
     Like the previous alpha releases, this is mainly a technology preview
-    for those that are interested in the new 
+    for those that are interested in the new
     ideas and technologies of the KOffice 2 series. Note that KOffice 2.0
     is only the beginning: not all features we are laying down the foundations
     for today will already be available in our 2.0 release.
@@ -29,11 +29,11 @@
 <h2>Highlights</h2>
 
 <p align="justify">
-  KOffice 2 is currently under heavy development. It is not meant 
-  to be used for any real work and can crash at any point.  
-    The Alpha 10 release is a work in progress.  This 
+  KOffice 2 is currently under heavy development. It is not meant
+  to be used for any real work and can crash at any point.
+    The Alpha 10 release is a work in progress.  This
     release introduces improvements in almost all the components as well
-    as in the common infrastructure. All the applications saw big changes, 
+    as in the common infrastructure. All the applications saw big changes,
     both bugfixes and new features.  However, we would still like to mention
     some things especially:
 </p>
@@ -41,27 +41,27 @@
 
 <h3>KPresenter Presenter View</h3>
 <p align="justify">
-Speak about the presenter view
+Fredy Yanardi and Thorsten Zachmann have worked on making KPresenter a presentation application again and have implemented different ways of viewing a set of slides.
 </p>
 <center><a href="pics/2008_08_26_presenter_view_main.png"><img src="pics/2008_08_26_presenter_view_main_400x300.png" width="400" height="300" /></a></center>
 
 <h3>KWord is about styles</h3>
 <p align="justify">
-Speak about text-styles manager, pages-styles and Style docker to change foreground and background of shapes.
+Much work has been done on page, paragraph and character styles in KWord. There is a new, hierarchical style docker that makes selecting a style for your text a snap. And KWord, as well as all other KOffice applications, profits from the shape style docker that makes it easy select the foreground and background style of all shapes.
 </p>
 <center><img src="pics/2008_08_26_styles_treeview.png" width="400" height="238" /></center>
 
 <h3>Ultimate drawing experience in Krita and Karbon </h3>
 <p align="justify">
-    
+Lukas Tvrdy, helped by Boudewijn Rempt and a host of academic papers, has implemented a new brush engine for Krita, meant to simulate Chinese brush painting, but which turns out to be a great basis for all bristly painting materials. We were ourselves surprised when the French artist and Krita tester Enkhitan turned up with this work, entirely painted with the new brush engine:
 </p>
 <center><a href="pics/2008_08_26_sumi-e_coolness.jpg"><img src="pics/2008_08_26_sumi-e_coolness_400x300.jpg" width="579" height="313" /></a></center>
 
 
-<h2>More Information</h2> 
+<h2>More Information</h2>
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="changelog-2.0-alpha9.php">changelog</a>, or in the <a href="visual-changelog-2.0-alpha9.php">visual changelog</a> and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0alpha8-release.php">release notes</a>.
+    <a href="changelog-2.0-alpha10.php">changelog</a>, or in the <a href="visual-changelog-2.0-alpha10.php">visual changelog</a> and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0alpha10-release.php">release notes</a>.
 </p>
 
 <h2>(Bug Reports and User Feedback )</h2>
@@ -73,14 +73,15 @@ and would like to receive user feedbacks on bugs:
 <ul>
   <li>Karbon</li>
   <li>KPlato</li>
-  <li>Krita</li>
+  <li>Krita (Note: filters are broken in this release. This problem is already solved and the fix will be in the first beta release of KOffice 2.0)</li>
   <li>KSpread</li>
   <li>The report component of Kexi</li>
 </ul>
 
-This list will be expanded as soon as the developers of other application think 
+This list will be expanded as soon as the developers of other application think
 their application is ready for a more wider testing.
 </p>
+
 
 <h2>About KOffice</h2>
   <p align="justify">
