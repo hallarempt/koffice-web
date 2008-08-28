@@ -22,11 +22,11 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 <center>
   <?php
     $gallery = new ImageGallery("Krita- Screenshot");
-    $gallery->addImage("pics/bala_krita1.6_sm.png",
-                       "pics/bala_krita1.6.png",
-                       "300", "212",
+    $gallery->addImage("pics/girl_by_enkhitan_sm.png",
+                       "pics/girl_by_enkhitan.png",
+                       "300", "225",
                        "[Screenshot]", "",
-                       "Krita 1.6.2 -- photograph by Balachandran Chandrasekharan");
+                       "Krita 2.0 alpha 10 -- painting by Enkhitan using Lukas Tvrdy's brush engine");
     $gallery->show();
   ?>
 </center>
@@ -36,7 +36,7 @@ line!) and high-end features like support for 16 bit images, CMYK, L*a*b and eve
 <p>The Libre Graphics Meeting 2008 will be held in Wroclaw, Poland this year. Krita developers,
 generously sponsored by KDE e.V., will attend this event, which is the most important meeting
 for developers and users of Free graphics software. Funding is low, and we really want to have
-as broad as possible a meeting, so the organizers ask your help with organizing this 
+as broad as possible a meeting, so the organizers ask your help with organizing this
 year's meeting:</p>
 
 <a href='http://pledgie.com/campaigns/613'><img alt='Click here to lend your support to: Support the Libre Graphics Meeting and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/613.png?skin_name=chrome' border='0' /></a>
@@ -45,7 +45,7 @@ year's meeting:</p>
 
 <p>Thank you for your help!</p-->
 
-<h3>Press</h3>    
+<h3>Press</h3>
 
 <p>Dan Sawyer reviews Krita in Linux Journal:<b>"Build from the ground up on LCMS</b>, Krita's 32-bit color management system is flanked by well-built, sophisticated tools for accessing it... making it suitable for a broad range of professional graphics demands...This workflow streaming is great...The number of drawing tools is rivaled only by Photoshop and there a few nifty enhancements in this area where Krita outdoes the venerated veteran from Adobe." <a href="http://www.linuxjournal.com/article/9706">(Dan Sawyer, "Deep Images", Linux Journal 159, July 2007)</a></p>
 
@@ -126,7 +126,7 @@ or donate directly:</p>
     <h3>Presentations</h3>
 
         <ul>
-            <li><a href="/presentations/natural_media.odp">Natural media: An Overview"</a>, presentation given by 
+            <li><a href="/presentations/natural_media.odp">Natural media: An Overview"</a>, presentation given by
 Boudewijn Rempt at LGM 2008. (<a href="http://www.river-valley.tv/conferences/lgm2008/#0201-Boudewijn_Rempt">Video</a>)</li>
             <li><a href="/presentations/KritaLGM2007.odp">The presentation  Boudewijn Rempt and Cyrille Berger gave at the 2007 Libre Graphics Meeting. (As ogg: <a href="http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.ogg">http://people.xiph.org/~giles/2007/lgm/LGM_20070505-4-Rempt_Berger.ogg</a></li>
             <li><a href="talk_krita_25.03.2006.pdf">Michael Thaler's 2006 presentation on Krita at Linux
