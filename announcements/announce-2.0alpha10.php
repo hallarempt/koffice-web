@@ -139,7 +139,7 @@ their application is ready for a more wider testing.
 
 <p align="justify">
   <font size="2">
-  <em>Announcement</em>:  Written by Cyrille Berger and Inge Wallin
+  <em>Announcement</em>:  Written by Cyrille Berger and Boudewijn Rempt
 <!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
