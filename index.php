@@ -6,6 +6,7 @@
 ?>
 
     <center><a href="/announcements/announce-1.6.php"><img src="/pics/koffice1.6-458.jpg" border="0" alt="KOffice 1.6 - The Most Comprehensive Office Suite In Existence" title="KOffice 1.6 - The Most Comprehensive Office Suite In Existence" width="458" height="307" /></a></center>
+	<br/>
 
     <h1>KOffice - Integrated Office Suite</h1> <!-- see above, remove when page_title is used again -->
 
