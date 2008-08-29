@@ -43,20 +43,24 @@
 <p align="justify">
 Fredy Yanardi and Thorsten Zachmann have worked on making KPresenter a presentation application again and have implemented different ways of viewing a set of slides.
 </p>
+<p>
 <center><a href="pics/2008_08_26_presenter_view_main.png"><img src="pics/2008_08_26_presenter_view_main_400x300.png" width="400" height="300" /></a></center>
+</p>
 
 <h3>KWord is about styles</h3>
 <p align="justify">
 Much work has been done on page, paragraph and character styles in KWord. There is a new, hierarchical style docker that makes selecting a style for your text a snap. And KWord, as well as all other KOffice applications, profits from the shape style docker that makes it easy select the foreground and background style of all shapes.
 </p>
-<center><img src="pics/2008_08_26_styles_treeview.png" width="400" height="238" /></center>
+<p>
+<center><img src="pics/2008_08_26_styles_treeview_400_216.png" width="400" height="216" /></center>
+</p>
 
 <h3>Ultimate drawing experience in Krita and Karbon </h3>
 <p align="justify">
 Lukas Tvrdy, helped by Boudewijn Rempt and a host of academic papers, has implemented a new brush engine for Krita, meant to simulate Chinese brush painting, but which turns out to be a great basis for all bristly painting materials. We were ourselves surprised when the French artist and Krita tester Enkhitan turned up with this work, entirely painted with the new brush engine:
 </p>
-<center><a href="pics/2008_08_26_sumi-e_coolness.jpg"><img src="pics/2008_08_26_sumi-e_coolness_400x300.jpg" width="579" height="313" /></a></center>
-
+<p><center><a href="pics/2008_08_26_sumi-e_coolness.jpg"><img src="pics/2008_08_26_sumi-e_coolness_400x300.jpg" width="400" height="300" /></a></center>
+</p>
 
 <h2>More Information</h2>
 <p align="justify">
