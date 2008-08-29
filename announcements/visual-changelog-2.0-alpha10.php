@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 2.0 Alpha 9 Visual Changelog';
+  $page_title ='KOffice 2.0 Alpha 10 Visual Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -7,7 +7,7 @@
 
 <p>
 The following screenshots allow to visualize some of the major changes that have
-happen since the release ofKOffice 2.0 Alpha 8.
+happen since the release of KOffice 2.0 Alpha 9.
 </p>
 
 <ul>
