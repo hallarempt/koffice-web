@@ -40,9 +40,10 @@ $kwordGallery->show();
 <?
 $kpresenterGallery = new ImageGallery("KPresenter");
 $kpresenterGallery->addImage("pics/2008_08_26_presenter_view_main_sm.png", "pics/2008_08_26_presenter_view_main.png", "200", "150", "[Screenshot]", 0, "Presenter view with notes.");
+$kpresenterGallery->show();
+
+$kpresenterGallery = new ImageGallery("KPresenter");
 $kpresenterGallery->addImage("pics/2008_08_26_presenter_view_slides_sm.png", "pics/2008_08_26_presenter_view_slides.png", "200", "150", "[Screenshot]", 0, "Presenter view with list of slides.");
-
-
 $kpresenterGallery->show();
 ?>
 
