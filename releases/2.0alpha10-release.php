@@ -1,5 +1,5 @@
 <?php
-  $page_title='KOffice 2.0-alpha10 Release Notes';
+  $page_title='KOffice 2.0 Alpha 10 Release Notes';
   $site_root='../';
   include("koffice.inc");
   include("header.inc");
