@@ -10,6 +10,7 @@
 // explanation here!
 
 $CCAT25 = '<a href="http://creativecommons.org/licenses/by/2.5/">CC Attribution 2.5</a>';
+$CCAT30 = '<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution-Share Alike 3.0</a>';
 // For each new image, add to the top of the list something like:
 // $images[] = array( "small" => "relative path to small image",
 //                    "kra" => "relative path to the native .kra file",
@@ -20,6 +21,15 @@ $CCAT25 = '<a href="http://creativecommons.org/licenses/by/2.5/">CC Attribution 
 //                    "description" => "A short, one-line description of the image, if any",
 //                    "width" => "width of the small image",
 //                    "height" => "height of the small image");
+$images[] = array( "small" => "pics/gallery/estegiosaurio_sm.png",
+                   "kra" => "pics/gallery/estegiosaurio.kra",
+                   "license" => $CCAT30,
+                   "date" => "August 2008",
+                   "title" => "Estegiosaurio",
+                   "author" => "Elián Hanisch (m4v)",
+                   "description" => "Trying out my new wacom tablet (17M krita file)",
+                   "width" => "270",
+                   "height" => "174");
 $images[] = array( "small" => "pics/gallery/dinner_sm.png",
                    "kra" => "pics/gallery/dinner.kra",
                    "license" => $CCAT25,
