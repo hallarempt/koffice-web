@@ -21,8 +21,8 @@ $CCAT30 = '<a href="http://creativecommons.org/licenses/by/3.0/">Creative Common
 //                    "description" => "A short, one-line description of the image, if any",
 //                    "width" => "width of the small image",
 //                    "height" => "height of the small image");
-$images[] = array( "small" => "pics/gallery/estegiosaurio_sm.png",
-                   "kra" => "pics/gallery/estegiosaurio.kra",
+$images[] = array( "small" => "pics/gallery/estegosaurio_sm.png",
+                   "kra" => "pics/gallery/estegosaurio.kra",
                    "license" => $CCAT30,
                    "date" => "August 2008",
                    "title" => "Estegiosaurio",
