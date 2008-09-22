@@ -51,9 +51,9 @@
     2.0 release.
 </p>
 
+<!--
 <h2>KAtelier</h2>
 
-<!--
 <p align="justify">
     FIXME: Write about the KAtelier concept here.
 </p>
