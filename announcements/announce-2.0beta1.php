@@ -36,11 +36,13 @@
     <li>Karbon -- Vector graphics editor</li>
     <li>Krita -- Raster graphics editor</li>
     </ul>
-    This means that Kexi, the desktop database manager, and Kivio, the 
-    flowchart editor, will be available in version 2.1. The chart application
+    This means that Kexi, the desktop database manager, will be available
+    in version 2.1. The chart application
     KChart is available as a shape plugin, which means that embedded
-    charts will be handled in a more general matter in KOffice 2 than in
-    KOffice 1. The formula shape will be available in 2.1.
+    charts will be handled in a more general manner in KOffice 2 than in
+    KOffice 1. The formula shape will be available in 2.1. Kivio, the 
+    flowchart editor, is currently without maintainer and we do not know
+    when or if it will be released.
 </p>
 
 <p align="justify">
@@ -51,9 +53,11 @@
 
 <h2>KAtelier</h2>
 
+<!--
 <p align="justify">
     FIXME: Write about the KAtelier concept here.
 </p>
+-->
 
 <p align="justify">
 </p>
