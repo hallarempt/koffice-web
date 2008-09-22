@@ -1,12 +1,12 @@
 <?php
-  $page_title ='KOffice 2.0 Alpha 10 Changelog';
+  $page_title ='KOffice 2.0 Beta 1 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
 ?>
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 2.0 Alpha 9. There are many changes and refactorings in
+  release of KOffice 2.0 Alpha 10. There are many changes and refactorings in
   the libraries that are not user-visible.
 </p>
 <ul>
