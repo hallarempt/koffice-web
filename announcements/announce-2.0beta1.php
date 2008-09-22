@@ -22,7 +22,7 @@
     This is the first beta release of KOffice 2.0, and the first version
     where we encourage users to download it and try it out. After 
     a very long development cycle, KOffice is now in feature freeze and
-    the development team will from now on only accept bug fixes, not new
+    the development team will from now on only work on bug fixes, not new
     features. This is in effect until the release of 2.0.0.
 </p>
 <p align="justify">
@@ -46,9 +46,11 @@
 </p>
 
 <p align="justify">
-    Note that KOffice 2.0 is only the beginning: not all features we are
-    laying down the foundations for today will already be available in the
-    2.0 release.
+    Note that with KOffice 2.0 we are only at the beginning of a long
+    series of releases.  With each subsequent release we will be adding
+    more features. With 2.0 we are creating the foundations for the
+    future, but only later will the potential of these foundations be
+    truly realized.
 </p>
 
 <!--
