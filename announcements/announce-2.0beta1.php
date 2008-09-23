@@ -19,11 +19,27 @@
   beta version of the upcoming version 2.0.
 </p>
 <p align="justify">
+    Over the last few years, the KOffice team has reworked the framework 
+    into an agile and flexible codebase. Our intention was to increase
+    integration between the components of KOffice, decreasing duplication
+    of functionality and easing maintenance and development of new
+    features. Furthermore, new approaches to UI design and interacting
+    with the user have been implemented to support the new capabilities.
+</p>
+<p align="justify">
+    The goal of this release is to gather feedback from both users
+    and developers on the new UI and underlying infrastructure. This
+    will allow us to release a basically usable 2.0 release, demonstrating
+    our vision for the future of the Digital Office to a larger audience
+    and attract new contributions both in terms of code and ideas for
+    improvements.
+</p>
+<p align="justify">
     This is the first beta release of KOffice 2.0, and the first version
-    where users are encouraged to download it and try it out. After 
-    a very long development cycle, KOffice is now in feature freeze and
-    the development team will from now on only work on bug fixes, not new
-    features. This is in effect until the release of 2.0.0.
+    we encourage users to download it and try it out. After 
+    a very long development cycle, KOffice is now in feature freeze.
+    The development team will from now on shift focus from new features
+    to bug fixes until 2.0 is released.
 </p>
 <p align="justify">
     The release team has decided that the following applications are mature
@@ -45,13 +61,6 @@
     and it is not certain when or if it will be released.
 </p>
 
-<p align="justify">
-    Note that with KOffice 2.0 is only the beginning of a long
-    series of releases.  Each subsequent release will be adding
-    more features. With 2.0 developers are creating the foundations for the
-    future, but only later will the potential of these foundations be
-    truly realized.
-</p>
 
 <!--
 <h2>KAtelier</h2>
