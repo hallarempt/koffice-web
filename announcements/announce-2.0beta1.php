@@ -20,7 +20,7 @@
 </p>
 <p align="justify">
     This is the first beta release of KOffice 2.0, and the first version
-    where we encourage users to download it and try it out. After 
+    where users are encouraged to download it and try it out. After 
     a very long development cycle, KOffice is now in feature freeze and
     the development team will from now on only work on bug fixes, not new
     features. This is in effect until the release of 2.0.0.
@@ -36,19 +36,19 @@
     <li>Karbon -- Vector graphics editor</li>
     <li>Krita -- Raster graphics editor</li>
     </ul>
-    This means that Kexi, the desktop database manager, will be available
-    in version 2.1. The chart application
-    KChart is available as a shape plugin, which means that embedded
+    The chart application KChart is available as a shape plugin, which means that embedded
     charts will be handled in a more general manner in KOffice 2 than in
-    KOffice 1. The formula shape will be available in 2.1. Kivio, the 
-    flowchart editor, is currently without maintainer and we do not know
-    when or if it will be released.
+    KOffice 1. 
+    
+    The desktop database creator Kexi and the formula shape will be available
+    in version 2.1. Kivio, the flowchart editor, is currently without maintainer
+    and it is not certain when or if it will be released.
 </p>
 
 <p align="justify">
-    Note that with KOffice 2.0 we are only at the beginning of a long
-    series of releases.  With each subsequent release we will be adding
-    more features. With 2.0 we are creating the foundations for the
+    Note that with KOffice 2.0 is only the beginning of a long
+    series of releases.  Each subsequent release will be adding
+    more features. With 2.0 developers are creating the foundations for the
     future, but only later will the potential of these foundations be
     truly realized.
 </p>
@@ -108,8 +108,8 @@
 <p align="justify">
       From this release, the developers are very interested in user feedback
       and bug reports.  Please report bugs that you find on the KDE bugzilla
-    <a href="http://bugs.kde.org">bugs.kde.org</a>.  In particular we are 
-    interested in bugs in the following areas:
+    <a href="http://bugs.kde.org">bugs.kde.org</a>.  In particular, the KOffice Team
+    is interested in bugs in the following areas:
 <ul>
   <li>OpenDocument support</li>
   <li>Crashes</li>
