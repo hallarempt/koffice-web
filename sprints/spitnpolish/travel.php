@@ -1,5 +1,5 @@
 <?php
-  $page_title='KOffice ODF Weekend - Travel & Accommodation';
+  $page_title='KOffice 2.0 Release Preparation Sprint - Travel & Accommodation';
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");

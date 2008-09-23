@@ -1,28 +1,25 @@
-<?php $page_title='KOffice Spit\'n\'Polish Hack Weekend'; $site_root='../../'; include("koffice.inc"); include("header.inc");
+<?php $page_title='KOffice 2.0 Release Preparation Sprint'; $site_root='../../'; include("koffice.inc"); include("header.inc");
 ?>
 
-<p> From <strong>Saturday the 27th of October 2007 until
-Sunday the 28th</strong>, KOffice is organising a KOffice 2.0 Spit'n'Polish
-"hackathon" weekend to be held at <strong>Berlin's KDAB offices</strong>.
+<p> From <strong>Saturday the 8th of November 2008 until
+Sunday the 9th</strong>, KOffice is organising a "hackathon" weekend for the upcoming release of KOffice 2.0 to be held at <strong>Berlin's KDAB offices</strong>.
 </p>
 
 <p>This meeting is kindly sponsored by <a
 href="http://www.klaralvdalens-datakonsult.se/">KDAB</a> which
 provides its office rooms in Berlin and as you know, even geeks
-need to eat, so they also provide food and drinks in abundance. <a
-href="http://ev.kde.org">KDE e.V.</a> is sponsoring accomodations and
-travel.<p/>
+need to eat, so they also provide food and drinks in abundance.
 
 <p><a href="http://www.klaralvdalens-datakonsult.se/"><img src="kdab.jpg"
 height="71" width="150" alt="KDAB logo" /></a></p>
 
 <h3>What is the purpose of this weekend?</h3>
 
-<p>After the success of the ODF hack sprint, the KOffice project members are
-invited for another intensive weekend of discussions and hacking, this time
-geared towards getting the common user interface elements polished to a high
-shine. We'll also be discussing matters relating to our release process and
-release schedule.</p>
+<p>This time the KOffice project members will be focusing on getting
+KOffice ready for the upcoming release of version 2.0, due at the end of
+this year. This includes hunting down last major bugs, discussing
+issues regarding the user interface and workflow, as well as questions
+concerning our future strategy of marketing KOffice.</p>
 
 <h3>Information</h3>
 

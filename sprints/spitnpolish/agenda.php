@@ -1,5 +1,5 @@
 <?php
-  $page_title='KOffice ODF Weekend - Agenda';
+  $page_title='KOffice 2.0 Release Preparation Sprint - Agenda';
   $site_root='../../';
   include("koffice.inc");
   include("header.inc");
@@ -42,7 +42,12 @@
   </tr>
   <tr>
     <td>0930</td>
-    <td>KOffice 2.0 Release Schedule Meeting</td>
+    <td>Track 1: Marketing and Promoting KOffice 2</td>
+    <td>Chair: Inge Wallin</td>
+  </tr>
+  <tr>
+    <td>0930</td>
+    <td>Track 2: User Interface &amp; Workflow</td>
     <td>Chair: XXX</td>
   </tr>
   <tr>
@@ -62,8 +67,13 @@
   </tr>
   <tr>
     <td>1300</td>
-    <td>Hacking begins, spontaneous meetings</td>
+    <td>Track 1: Marketing and Promoting KOffice 2</td>
     <td>--</td>
+  </tr>
+  <tr>
+    <td>1300</td>
+    <td>Track 2: Bug Hunting, User Interface &amp; Workflow</td>
+    <td></td>
   </tr>
   <tr>
     <td>1800 (approx.)</td>
