@@ -45,13 +45,15 @@
     The release team has decided that the following applications are mature
     enough to be part of 2.0:
     <table border="0">
-    <tr><td><a href="http://www.koffice.org/kword">KWord</a></td><td>word processor</td></tr>
-    <tr><td><a href="http://www.koffice.org/kspread">KSpread</a></td><td>Spreadsheet calculator</td></tr>
-    <tr><td><a href="http://www.koffice.org/kpresenter">KPresenter</a></td><td>Presentation manager</td></tr>
-    <tr><td><a href="http://www.koffice.org/kplato">KPlato</a></td><td>Project management software</td></tr>
-    <tr><td><a href="http://www.koffice.org/karbon">Karbon</a></td><td>Vector graphics editor</td></tr>
-    <tr><td><a href="http://www.koffice.org/krita">Krita</a></td><td>Raster graphics editor</td></tr>
+    <tr><td><a href="http://www.koffice.org/kword">KWord </a></td><td>word processor</td></tr>
+    <tr><td><a href="http://www.koffice.org/kspread">KSpread </a></td><td>Spreadsheet calculator</td></tr>
+    <tr><td><a href="http://www.koffice.org/kpresenter">KPresenter </a></td><td>Presentation manager</td></tr>
+    <tr><td><a href="http://www.koffice.org/kplato">KPlato </a></td><td>Project management software</td></tr>
+    <tr><td><a href="http://www.koffice.org/karbon">Karbon </a></td><td>Vector graphics editor</td></tr>
+    <tr><td><a href="http://www.koffice.org/krita">Krita </a></td><td>Raster graphics editor</td></tr>
     </table>
+</p>
+<p align="justify">
     The chart application KChart is available as a shape plugin, which 
     means that embedded charts will be handled in a more general manner
     in KOffice 2 than in KOffice 1. 
@@ -75,35 +77,65 @@
 </p>
 
 
-<h2>Highlights</h2>
+<h2>Highlights of KOffice 2.0</h2>
 
 <p align="justify">
-    The development of KOffice 2.0 has now gotten into a strict bug fix phase.
-    This is the last version where we will see any new features until
-    the development of 2.1 starts. We would like to highlight the following
-    things in particular:
+    KOffice 2 is a much more flexible application suite than KOffice 1
+    ever was. The integration between the components is much stronger,
+    with the revolutionary Flake Shapes as the central concept.  A Flake
+    Shape can be as simple as a square or a circle or as complex as a
+    chart or a music score.
+</p>
+<p align="justify">
+    With Flake, any KOffice application can handle any shape. For instance,
+    KWord can embed bitmap graphics, Krita can embed vector graphics and
+    Karbon can embed charts.  This flexibility does not only give KOffice
+    unprecedented integration, but also allows new applications to be 
+    created very easily.  Such applications can e.g. target special
+    user groups like kids or certain professions.
 </p>
 
 
-<h3>First awesome feature</h3>
+<h3>Unified Look and Feel</h3>
 <p align="justify">
-    This feature is awesome, as the title says.
+    All the applications of KOffice has a new GUI layout better suited to
+    todays wider screens.  The GUI consists of a workspace and a sidebar
+    where tools can dock.  Any tool can be ripped off to create its own 
+    window and later be redocked fo full flexibility.  The users setup
+    preferences are of course saved and reused the next time that KOffice
+    is started.
 </p>
 <p>
 <center><a href="pics/2008_08_26_presenter_view_main.png"><img src="pics/2008_08_26_presenter_view_main_400x300.png" width="400" height="300" /></a></center>
 </p>
 
-<h3>Second awesome feature</h3>
+<h3>Platform Independence </h3>
 <p align="justify">
-    This feature is even more awesome. 
+    All of KOffice is ported to Linux, Windows and Macintosh.  Solaris will
+    follow shortly and we expect builds for other Unix versions to become
+    available soon after the final release.
+</p>
+<p align="justify">
+    Since KOffice builds on Qt and the KDE libraries, all applications 
+    integrate well with the respective platforms and will take on the
+    native look and feel.
 </p>
 <p>
 <center><img src="pics/2008_08_26_styles_treeview_400_216.png" width="400" height="216" /></center>
 </p>
 
-<h3>Third awesome feature </h3>
+<h3>Native Support for OpenDocument</h3>
 <p align="justify">
-    This is teh definition of awesomeness.
+    The OASIS OpenDocument Format (ODF) is the ISO standard for office
+    document interchange. ODF has been selected as the national standard
+    for many countries around the world, and continues to grow stronger
+    every month.
+</p>
+<p align="justify">
+    KOffice uses the OpenDocument Format as its native format.  The KOffice
+    team has representatives on the OASIS technical committee for ODF
+    and has been a strong participant in the process of shaping ODF since
+    its inception.
 </p>
 <p><center><a href="pics/2008_08_26_sumi-e_coolness.jpg"><img src="pics/2008_08_26_sumi-e_coolness_400x300.jpg" width="400" height="300" /></a></center>
 </p>
