@@ -36,8 +36,8 @@
 </p>
 <p align="justify">
     This is the first beta release of KOffice 2.0, and the first version
-    we encourage users to download it and try it out. After 
-    a very long development cycle, KOffice is now in feature freeze.
+    we encourage users to download and try out. After
+    a very long development cycle KOffice is now in feature freeze.
     The development team will from now on shift focus from new features
     to bug fixes until 2.0 is released.
 </p>
@@ -45,7 +45,7 @@
     The release team has decided that the following applications are mature
     enough to be part of 2.0:
     <table border="0">
-    <tr><td><a href="http://www.koffice.org/kword">KWord </a></td><td>word processor</td></tr>
+    <tr><td><a href="http://www.koffice.org/kword">KWord </a></td><td>Word processor</td></tr>
     <tr><td><a href="http://www.koffice.org/kspread">KSpread </a></td><td>Spreadsheet calculator</td></tr>
     <tr><td><a href="http://www.koffice.org/kpresenter">KPresenter </a></td><td>Presentation manager</td></tr>
     <tr><td><a href="http://www.koffice.org/kplato">KPlato </a></td><td>Project management software</td></tr>
@@ -55,8 +55,8 @@
 </p>
 <p align="justify">
     The chart application KChart is available as a shape plugin, which 
-    means that embedded charts will be handled in a more general manner
-    in KOffice 2 than in KOffice 1. 
+    means that charts are available in all the KOffice applications in an
+    integrated manner.
 </p>
 <p align="justify">
     The desktop database creator Kexi and the formula shape will be available
@@ -80,7 +80,7 @@
 <h2>Highlights of KOffice 2.0</h2>
 
 <p align="justify">
-    KOffice 2 is a much more flexible application suite than KOffice 1
+    KOffice 2 will be a much more flexible application suite than KOffice 1
     ever was. The integration between the components is much stronger,
     with the revolutionary Flake Shapes as the central concept.  A Flake
     Shape can be as simple as a square or a circle or as complex as a
@@ -114,7 +114,7 @@
 
 <h3>Platform Independence </h3>
 <p align="justify">
-    All of KOffice is ported to Linux with KDE or GNOME, Windows and
+    All of KOffice is available on Linux with KDE or GNOME, Windows and
     Macintosh.  Solaris will follow shortly and we expect builds for
     other Unix versions to become available soon after the final release.
 </p>
@@ -204,7 +204,7 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
   </li>
 </ul>
 <p>
-  Additionally, KOffice includes the following helper applications:
+  Additionally, KOffice includes the following helper modules:
 </p>
 <ul>
   <li>full-featured charting engine
@@ -291,12 +291,12 @@ Fax: +46-13-214700<br />
 </td>
 
 <td>
-<b>North America</b><br />
-George Staikos <br />
-889 Bay St. #205 <br />
-Toronto, ON, M5S 3K5 <br />
-Canada<br />
-Phone: (416)-925-4030 <br />
+<b>North America</b>
+Wade Olson <br />
+2422 Johnson St NE <br />
+Minneapolis, MN 55418 <br />
+U.S.A <br />
+Phone: (612)805-5678 <br />
 <a href="&#109;ai&#x6c;&#x74;&#x6f;&#0058;i&#x6e;&#0102;o&#0045;no&#0114;t&#104;&#0097;m&#x65;&#x72;i&#x63;&#x61;&#x40;k&#x64;e&#46;&#0111;&#x72;&#x67;">info-northamerica kde.org</a><br />
 </td>
 
