@@ -107,8 +107,8 @@
 </p>
 <p>
 <center>
-<a href="pics/2008_09_24-krita-wavelet-filter.png"><img src="pics/2008_09_24-krita-wavelet-filter_400x300.png" width="400" height="300" /></a>
-<a href="pics/2008_09_24-kpresenterbeta1pb5.png"><img src="pics/2008_09_24-kpresenterbeta1pb5_small.png" width="420" height="250" /></a>
+<a href="pics/2008-09-24-krita-wavelet-filter.png"><img src="pics/2008-09-24-krita-wavelet-filter_400x300.png" width="400" height="300" /></a>
+<a href="pics/2008-09-24-kpresenterbeta1pb5.png"><img src="pics/2008-09-24-kpresenterbeta1pb5_small.png" width="420" height="250" /></a>
 </center>
 </p>
 
@@ -124,7 +124,9 @@
     native look and feel.
 </p>
 <p>
-<center><img src="pics/2008_08_26_styles_treeview_400_216.png" width="400" height="216" /></center>
+<center>
+<a href="pics/2008-09-24-kword-windows.png"><img src="pics/2008-09-24-kword-windows_small.png" width="410" height="307" /></a>
+</center>
 </p>
 
 <h3>Native Support for OpenDocument</h3>
@@ -215,7 +217,7 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.9.95.4/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.9.98/src/">http and ftp</a> mirrors.
 </p>
 <hr />
 
