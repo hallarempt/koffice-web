@@ -7,7 +7,7 @@
 
 <p align="justify">
   DATELINE September 24, 2008<br />
-  DO NOT PUBLISH
+  FOR IMMEDIATE RELEASE
 </p>
 <h2>
   KDE Releases First Beta of KOffice 2.0
@@ -106,14 +106,17 @@
     is started.
 </p>
 <p>
-<center><a href="pics/2008_08_26_presenter_view_main.png"><img src="pics/2008_08_26_presenter_view_main_400x300.png" width="400" height="300" /></a></center>
+<center>
+<a href="pics/2008_09_24-krita-wavelet-filter.png"><img src="pics/2008_09_24-krita-wavelet-filter_400x300.png" width="400" height="300" /></a>
+<a href="pics/2008_09_24-kpresenterbeta1pb5.png"><img src="pics/2008_09_24-kpresenterbeta1pb5_small.png" width="420" height="250" /></a>
+</center>
 </p>
 
 <h3>Platform Independence </h3>
 <p align="justify">
-    All of KOffice is ported to Linux, Windows and Macintosh.  Solaris will
-    follow shortly and we expect builds for other Unix versions to become
-    available soon after the final release.
+    All of KOffice is ported to Linux with KDE or GNOME, Windows and
+    Macintosh.  Solaris will follow shortly and we expect builds for
+    other Unix versions to become available soon after the final release.
 </p>
 <p align="justify">
     Since KOffice builds on Qt and the KDE libraries, all applications 
@@ -143,7 +146,9 @@
 <h2>More Information</h2>
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="changelog-2.0-beta1.php">changelog</a>, or in the <a href="visual-changelog-2.0-beta1.php">visual changelog</a> and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0beta1-release.php">release notes</a>.
+    <a href="changelog-2.0-beta1.php">changelog</a>
+<!--, or in the <a href="visual-changelog-2.0-beta1.php">visual changelog</a> -->
+and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0beta1-release.php">release notes</a>.
 </p>
 
 <h2>Bug Reports and User Feedback</h2>
