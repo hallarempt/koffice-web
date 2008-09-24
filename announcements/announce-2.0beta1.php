@@ -137,13 +137,17 @@
     every month.
 </p>
 <p align="justify">
-    KOffice uses the OpenDocument Format as its native format.  The KOffice
+    KOffice uses the OpenDocument Format as its native format. This will
+    guarantee interoperation with many other Office packages such as
+    OpenOffice.org and MS Office.  The KOffice
     team has representatives on the OASIS technical committee for ODF
     and has been a strong participant in the process of shaping ODF since
     its inception.
 </p>
+<!--
 <p><center><a href="pics/2008_08_26_sumi-e_coolness.jpg"><img src="pics/2008_08_26_sumi-e_coolness_400x300.jpg" width="400" height="300" /></a></center>
 </p>
+-->
 
 <h2>More Information</h2>
 <p align="justify">
