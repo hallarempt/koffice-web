@@ -21,11 +21,12 @@
   <li><a href="/announcements/changelog-2.0-beta1.php">Changelog</a></li>
   </ul>
 
+<!--
   <h2>Visual changelog</h2>
   <ul>
   <li><a href="/announcements/visual-changelog-2.0-beta1.php">Visual changelog</a></li>
   </ul>
-
+-->
   <h2>Download</h2>
   <ul>
     <li>Source code of KOffice 2.0-beta-1:
