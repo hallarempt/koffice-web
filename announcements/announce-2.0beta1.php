@@ -44,18 +44,19 @@
 <p align="justify">
     The release team has decided that the following applications are mature
     enough to be part of 2.0:
-    <ul>
-    <li>KWord -- word processor</li>
-    <li>KSpread -- Spreadsheet calculator</li>
-    <li>KPresenter -- Presentation manager</li>
-    <li>KPlato -- Project management software</li>
-    <li>Karbon -- Vector graphics editor</li>
-    <li>Krita -- Raster graphics editor</li>
-    </ul>
-    The chart application KChart is available as a shape plugin, which means that embedded
-    charts will be handled in a more general manner in KOffice 2 than in
-    KOffice 1. 
-    
+    <table border="0">
+    <tr><td><a href="http://www.koffice.org/kword">KWord</a></td><td>word processor</td></tr>
+    <tr><td><a href="http://www.koffice.org/kspread">KSpread</a></td><td>Spreadsheet calculator</td></tr>
+    <tr><td><a href="http://www.koffice.org/kpresenter">KPresenter</a></td><td>Presentation manager</td></tr>
+    <tr><td><a href="http://www.koffice.org/kplato">KPlato</a></td><td>Project management software</td></tr>
+    <tr><td><a href="http://www.koffice.org/karbon">Karbon</a></td><td>Vector graphics editor</td></tr>
+    <tr><td><a href="http://www.koffice.org/krita">Krita</a></td><td>Raster graphics editor</td></tr>
+    </table>
+    The chart application KChart is available as a shape plugin, which 
+    means that embedded charts will be handled in a more general manner
+    in KOffice 2 than in KOffice 1. 
+</p>
+<p align="justify">
     The desktop database creator Kexi and the formula shape will be available
     in version 2.1. Kivio, the flowchart editor, is currently without maintainer
     and it is not certain when or if it will be released.
