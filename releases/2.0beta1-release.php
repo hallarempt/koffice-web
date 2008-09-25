@@ -63,16 +63,17 @@
 <li>Windows <a href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
 <li>Mac OS X <a href="http://mac.kde.org/?id=download">installer</a></li>
 <li>Debian packages are available in the <i>experimental</i> repository.</li>
-<!--
 <li>
  <a href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
-      <a href="http://kubuntu.org/announcements/koffice-2beta1.php">Packages for 7.1 (Hardy)</a>
+      <a href="http://www.kubuntu.org/news/koffice-2-beta">Packages for Intrepid</a>
       </li>
     </ul>
   <p />
 </li>
+
+<!--
 
 <li>
  <a href="http://www.opensuse.org/">openSUSE</a>
