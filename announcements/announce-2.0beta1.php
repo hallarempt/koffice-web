@@ -222,7 +222,7 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-latest/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/unstable/koffice-1.9.98.0/src/">http and ftp</a> mirrors.
 </p>
 <hr />
 
