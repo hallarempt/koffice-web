@@ -126,7 +126,7 @@
 </p>
 <p>
 <center>
-<a href="pics/2008-09-24-kword-windows.png"><img src="pics/2008-09-24-kword-windows_small.png" width="410" height="307" /></a>
+<a href="pics/2008-09-25-kword-windows-beta1.png"><img src="pics/2008-09-25-kword-windows-beta1-thumbnail.png" width="410" height="307" /></a>
 </center>
 </p>
 
