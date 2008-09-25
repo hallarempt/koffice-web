@@ -107,8 +107,9 @@
 </p>
 <p>
 <center>
-<a href="pics/2008-09-24-krita-wavelet-filter.png"><img src="pics/2008-09-24-krita-wavelet-filter_400x300.png" width="400" height="300" /></a>
-<a href="pics/2008-09-24-kpresenterbeta1pb5.png"><img src="pics/2008-09-24-kpresenterbeta1pb5_small.png" width="420" height="250" /></a>
+<a href="pics/2008-09-25-kpresenterbeta1.png"><img src="pics/2008-09-25-kpresenterbeta1-thumbnail.png" width="430" height="341" /></a>
+<a href="pics/2008-09-25-kritabeta1.png"><img src="pics/2008-09-25-kritabeta1-thumbnail.png" width="430" height="318" /></a>
+<a href="pics/2008-09-25-karbonbeta1.png"><img src="pics/2008-09-25-karbonbeta1-thumbnail.png" width="430" height="325" /></a>
 </center>
 </p>
 
