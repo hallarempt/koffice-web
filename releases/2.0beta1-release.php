@@ -36,11 +36,11 @@
         <th align="left">Location</th>
       <tr>
         <td>KOffice 2.0-beta-1 (source code)</td>
-        <td><a href="http://download.kde.org/unstable/koffice-1.9.98/src/koffice-1.9.98.tar.bz2">koffice-1.9.98.tar.bz2</a></td>
+        <td><a href="http://download.kde.org/unstable/koffice-1.9.98.0/src/koffice-1.9.98.0.tar.bz2">koffice-1.9.98.0.tar.bz2</a></td>
     </tr>
     <tr>
     <td>KAtelier 2.0-beta-1 (source code, with just Krita and Karbon)</td>
-    <td><a href="http://download.kde.org/unstable/koffice-1.9.98/src/katelier-1.9.98.tar.bz2">katelier-1.9.98.tar.bz2</a></td>
+    <td><a href="http://download.kde.org/unstable/koffice-1.9.98.0/src/katelier-1.9.98.0.tar.bz2">katelier-1.9.98.0.tar.bz2</a></td>
     </tr>
     </table>
   </li>
