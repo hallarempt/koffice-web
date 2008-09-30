@@ -1,0 +1,1496 @@
+--- Log opened Sat May 17 11:05:12 2008
+17.05.2008-11:05 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+17.05.2008-11:05 -!- ServerMode/#sou-koffice [+ns] by wolfe.freenode.net
+17.05.2008-11:05 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+17.05.2008-11:05 -!- Irssi: Join to #sou-koffice was synced in 0 secs
+17.05.2008-17:50 -!- Neha [n=pahwaneh@cpe-74-65-29-133.rochester.res.rr.com] has joined #sou-koffice
+17.05.2008-17:55 -!- el [n=el@ip-77-25-215-14.web.vodafone.de] has joined #sou-koffice
+17.05.2008-17:56 < el> hi neha, hi boud
+17.05.2008-17:56 < Neha> hi el, hi boud
+17.05.2008-17:56 < Neha> How are you doing?
+17.05.2008-17:57 < Neha> I am using IRC for the first time, I apologize before hand if I make any mistakes
+17.05.2008-17:57 <@boud> evening!
+17.05.2008-17:58 <@boud> (at least, for me it is :-)
+17.05.2008-17:58 < el> hehe, for me as well
+17.05.2008-17:59 <@boud> where are you from, Neha?
+17.05.2008-17:59 <@boud> (I'm from the Netherlands)
+17.05.2008-17:59 < Neha> I am from India
+17.05.2008-17:59 <@boud> cool. we've got quite a few people joining in from india recently
+17.05.2008-17:59 < Neha> really, that's great
+17.05.2008-18:01 <@boud> girish ramakrishan, roopesh chander and, but he disappeared recently, balachandra chandrachenam (I might be making an orthography error  there)
+17.05.2008-18:01 < el> have you ever been to foss.in, neha? it is in bangalore in november, i think
+17.05.2008-18:01 < Neha> no i haven't
+17.05.2008-18:01 < Neha> I am from New Delhi and Banalore is quite far from my place
+17.05.2008-18:02 < Neha> I have never ever been to bangalore
+17.05.2008-18:02 <@boud> neither have I :-)
+17.05.2008-18:03 < Neha> :-)
+17.05.2008-18:03 < el> i haven't either. :) but all the people who attended the conference said it's one of the best they've ever been to
+17.05.2008-18:04 <@boud> It looks likely I will have to visit Kerala for an LGM in 2010, though.
+17.05.2008-18:04 < Neha> that sounds good
+17.05.2008-18:04 < el> wow
+17.05.2008-18:04 < Neha> wow! kerela is one of the beautiful places in the world ( i have just seen it in pics)
+17.05.2008-18:05 <@boud> I have studied sanskrit, nepali, tibetan and various kinds of Chinese, but I've never been east of Athens
+17.05.2008-18:05 < Neha> cool! u know sanskrit. i have studied sanskrit in my 9th grade
+17.05.2008-18:06 < el> wow, i didn't know that! have you studied at university or taught yourself?
+17.05.2008-18:06 <@boud> it's a long time ago for me, I'm afraid
+17.05.2008-18:06 <@boud> for me, it was part of university
+17.05.2008-18:07 <@boud> I managed to read bit of the Nala, the Hitopadesa and the Shakuntala play
+17.05.2008-18:07 < Neha> great
+17.05.2008-18:07 < el> heh, never heard of that but it sounds great
+17.05.2008-18:07 < el> what did you study, boud?
+17.05.2008-18:08 <@boud> comparative linguistics of the Sino-Tibetan languages
+17.05.2008-18:08 <@boud> I actually specialized in languages of the hill regions of Nepal before getting into coding
+17.05.2008-18:08 < Neha> :-)
+17.05.2008-18:08 < el> hehe, coding is just another language to learn ;-)
+17.05.2008-18:08 <@boud> that's what I always tell people
+17.05.2008-18:09 <@boud> will celeste join us, too?
+17.05.2008-18:09 < el> she intended to, yes
+17.05.2008-18:09 < el> maybe we can already start with some organisational things
+17.05.2008-18:09 <@boud> ok
+17.05.2008-18:09 < Neha> sure
+17.05.2008-18:09 < el> i can summarise that and send an email to her later
+17.05.2008-18:10 <@boud> Neha: which os/linux distribution do you use?
+17.05.2008-18:10 < el> boud, what version of koffice should we use?
+17.05.2008-18:10 <@boud> latest alpha would be ok. we didn't do much usability wise since then -- just trying to get it stabilized a bit
+17.05.2008-18:11 <@boud> it's available for OpenSUSE at least, and I just heard Saroengels got it built for Windows.
+17.05.2008-18:11 < Neha> my computer currently has windows XP
+17.05.2008-18:11 <@boud> I'll ask saroengels how hard it is to install koffice for windows atm
+17.05.2008-18:11 < el> are there kubuntu packages for it, too?
+17.05.2008-18:11 <@boud> otherwise, you might need to install something like virtualbox with an opensuse image. -- running linux in a virtual session.
+17.05.2008-18:11 <@boud> I'm not sure
+17.05.2008-18:12 < Neha> ok
+17.05.2008-18:12 < el> neha, you have some linux experience, right? have you ever installed it?
+17.05.2008-18:12 < Neha> i have worked on linux but had never tried installing it
+17.05.2008-18:13 < Neha> but i can figure this out..
+17.05.2008-18:13 < el> if boud thinks the windows package is good enough, there is no need to install windows
+17.05.2008-18:14 < el> and if installing it isn't too much of a problem... 
+17.05.2008-18:14 < Neha> yeah
+17.05.2008-18:14 <@boud> saroengels says it's easy enough. 
+17.05.2008-18:14 < el> cool
+17.05.2008-18:14 < Neha> ok..i can try
+17.05.2008-18:14 <@boud> there is an installer uploaded about 20 minutes ago for windows that includes it
+17.05.2008-18:15 < el> boud, are there any issues regarding the integration with the desktop? e.g. focus issues with the palettes or anything like that?
+17.05.2008-18:15 < Neha> thanks for letting me know
+17.05.2008-18:15 <@boud> yes, there are focus issues with the palettes
+17.05.2008-18:15 <@boud> not sure whether they happen on all platforms
+17.05.2008-18:16 <@boud> they are bugging me a lot, sicne I had them solved for the last 1.6 version :-(
+17.05.2008-18:16 < el> what platforms are known to have problems?
+17.05.2008-18:16 <@boud> Neha: http://techbase.kde.org/Projects/KDE_on_Windows/Installation
+17.05.2008-18:16 < Neha> thanks boud
+17.05.2008-18:16 <@boud> el: I actually think the focus handling is the same on all platforms, but I haven't seen KOffice run anywhere except on Linux
+17.05.2008-18:17 <@boud> all developers except for Marijn Kruisselbrink are on Linux (he's on OS X)
+17.05.2008-18:17 <@boud> the windows port is done by the amazing KDE windows team
+17.05.2008-18:17 < el> ok
+17.05.2008-18:18 < el> i suggest that neha first tries the windows version, celeste and me will compare the windows version to the linux version during next week and see if there are major differences regarding the interaction
+17.05.2008-18:18 <@boud> cool
+17.05.2008-18:18 < Neha> sure
+17.05.2008-18:18 < Neha> i will do this
+17.05.2008-18:18 < el> if so, we will need to find another solution for neha. maybe we can ask somebody to create a koffice life cd
+17.05.2008-18:18 <@boud> I don't have a windows machine with a recent enough processor or a big enough hard disk partition to try kde on windows :-)
+17.05.2008-18:18 < el> i got windows xp in a virtual machine. that should work.
+17.05.2008-18:19 <@boud> I'm sure dirk could help us out -- maybe the opensuse kde4 live cd's even include koffice already.
+17.05.2008-18:19 < el> ah, cool. so we only need to check if it's the recent alpha version
+17.05.2008-18:20 < Neha> i can try working on koffice on windows machine and let you know if I face any issues
+17.05.2008-18:20 <@boud> no, the opensuse live cd doesn't include koffice. But we can ask binner about that.
+17.05.2008-18:20 <@boud> I think the big usability and interaction design problems will be apparent on every platform
+17.05.2008-18:20 < el> neha, yes. first try the windows version. if it is ok, it's the easiest way.
+17.05.2008-18:20 < Neha> yeah...
+17.05.2008-18:20 < el> boud, ok
+17.05.2008-18:21 < el> hm, seems like celeste wouldn't make it today. she is going to fly out to prague later today
+17.05.2008-18:21 <@boud> maybe I should first explain a bit about the backgrounds of the koffice2 interaction design?
+17.05.2008-18:21 < el> probably she is busy with packing etc
+17.05.2008-18:21 < el> yes, boud. please go ahear
+17.05.2008-18:21 < el> ahead
+17.05.2008-18:21 <@boud> ok
+17.05.2008-18:21 <@boud> well, there are three sources of inspiration for the i-a design of KO2:
+17.05.2008-18:22 <@boud> * Gobeproductive
+17.05.2008-18:22 <@boud> * Apple's office suite
+17.05.2008-18:22 <@boud> * the adobe set of apps
+17.05.2008-18:22 <@boud> all three allow combining different types of object in a page/sheet based design
+17.05.2008-18:22 <@boud> direct manipulation of those objects on the page
+17.05.2008-18:22 <@boud> and mixed-content document without actual document embedding
+17.05.2008-18:23 <@boud> We decided on having a toolbox (photoshop like) with tools suited to the current task at hand
+17.05.2008-18:23 <@boud> and a set of palettes to manipulate the selected object, set the properties for the current tool and some application settings (like current color)
+17.05.2008-18:24 <@boud> in L&F, koffice apps right now look most like photoshop, indesign or illustrator
+17.05.2008-18:24 <@boud> so, we're combining small, fine-grained content objects in compound document
+17.05.2008-18:24 < el> boud, who is the target group for koffice?
+17.05.2008-18:24 < Neha> ok..got you
+17.05.2008-18:24 <@boud> to our surprise, the toolbox isn't working well. We don't know why it feels wrong, but it doesn't work
+17.05.2008-18:25 <@boud> and the distance between the toolbox and the tool option palette is too big
+17.05.2008-18:25 < el> hm, ok...
+17.05.2008-18:25 < Neha> can i know who is the target audience for this app?
+17.05.2008-18:25 <@boud> one minute, I'll come to that
+17.05.2008-18:25 <@boud> and tools keep appearing and disappearing. We had a lot of trouble deciding whether tools should create new shapes or shapes should be retrieved from a palette (it's currently the latter)
+17.05.2008-18:26 <@boud> we decided to focus on maximizing vertical document space because of the growth of wide-screen screens
+17.05.2008-18:26 <@boud> as for target audience
+17.05.2008-18:27 <@boud> it's mostly soho/creative: students having to hand in a bling report, grandma producing a family newsletter, an illustrator trying to keep track of assignments, a writer of short stories intending to self-publish through lulu
+17.05.2008-18:27 <@boud> we have an uneasy combination of straigh office apps and high-end creative apps, though, which is an historical artefact.
+17.05.2008-18:28 < el> so different apps have different target groups
+17.05.2008-18:28 <@boud> we're not after the office/secretary/report writing crowd
+17.05.2008-18:28 <@boud> yes
+17.05.2008-18:28 <@boud> and there are outliers, like kexi and kplato (database and project planning)
+17.05.2008-18:29 <@boud> those use the common infrastructure, but are really specialized in function.
+17.05.2008-18:29 < el> have you also redesigned them to fit the new interaction paradigm?
+17.05.2008-18:29 <@boud> that's another problem
+17.05.2008-18:29 <@boud> kexi got redesigned to look like a cheap copy of MS Offce 2007 -- with ribbon.
+17.05.2008-18:30 <@boud> kplato hasn't been redesigned much at all, so it doesn't quite fit either
+17.05.2008-18:31 < el> i think we should limit the scope, we only got ±3 months for the project
+17.05.2008-18:31 <@boud> yes
+17.05.2008-18:31 < Neha> i agree
+17.05.2008-18:31 <@boud> we need a solution that works for kword/kpresenter/karbon/krita: those are the core applications
+17.05.2008-18:32 <@boud> well, even just a pointer to something that will work would be great, it doesn't even have to be a finished solution
+17.05.2008-18:32 < el> yeah, sure. but we first need to check if a generic solution can work for all of them
+17.05.2008-18:32 < el> boud, when you described the target group, you talked about an illustrator and a grandma
+17.05.2008-18:32 <@boud> we've been working on this for two, three years now and we really cannot get any distance or overview anymore.
+17.05.2008-18:33 <@boud> yes. people who want to prepare something nice-looking without too much effort. 
+17.05.2008-18:33 <@boud> about the same target audience as apple's office suite, I think.
+17.05.2008-18:33 < el> ok
+17.05.2008-18:34 < el> i haven't really used in design, but to me it seems to be an application that targets designers (professionals). so i think it would be good to fill out one of celeste's user research profiles for kwrite, kpresenter, etc to see if they target the same groups
+17.05.2008-18:35 <@boud> ok
+17.05.2008-18:35 < Neha> that sounds  a good idea
+17.05.2008-18:35 <@boud> is that something we coders should do?
+17.05.2008-18:35 < el> neha, have you read about those user research profiles in celeste's blog?
+17.05.2008-18:35 < Neha> i am curious to look at this app
+17.05.2008-18:35 < Neha> not in celecte's blog
+17.05.2008-18:36 < el> boud, i need to talk to celeste how she usually does that. i think she interviews the developers and fills it in herself, but i'm not sure
+17.05.2008-18:36 < Neha> but i know about user profiles and have even used them in my class project
+17.05.2008-18:36 < el> neha, so maybe that would be a nice first task for you: interview boud and a few other koffice developers to fill the user research profiles
+17.05.2008-18:36 < Neha> sure
+17.05.2008-18:37 < el> neha, let me search the link to the template...
+17.05.2008-18:37 < Neha> thanks el
+17.05.2008-18:37 < el> http://techbase.kde.org/index.php?title=Projects/Usability/Project_User_Research_Template
+17.05.2008-18:37 < Neha> thanks
+17.05.2008-18:38 < el> boud, does koffice have a project space on techbase?
+17.05.2008-18:39 <@boud> I don't think so. We've got our own wiki, though
+17.05.2008-18:39 < el> ah, cool. is it open or do we need accounts?
+17.05.2008-18:39 <@boud> thomas zander (zander@kde.org) can give out accounts.
+17.05.2008-18:40 < el> ok, i will ask him for accounts for neha, celeste and me
+17.05.2008-18:40 <@boud> great
+17.05.2008-18:41 < el> OK, so first step will be to fill user research profiles for each of the applications (kwrite, kpresenter, krita, karbon)
+17.05.2008-18:42 < el> neha, krita is the image manipulation software and karbon is spraedsheet
+17.05.2008-18:42 < Neha> ok
+17.05.2008-18:42 <@boud> no, karbon is the vector app
+17.05.2008-18:42 <@boud> kspread is the spreadsheet
+17.05.2008-18:42 < el> oh, right, sorry!
+17.05.2008-18:42 <@boud> but it's got its own problems:
+17.05.2008-18:42 < el> heh, too many k-applicaitons ;-)
+17.05.2008-18:42 <@boud> it's pretty much done and works fine, but all developers have disappeared
+17.05.2008-18:42 < Neha> yeah :-)
+17.05.2008-18:43 < Neha> hmm...
+17.05.2008-18:43 <@boud> for 2.1 or 2.2, we'll need to do something about kspread -- it has the potential to become much more flexible and layout-oriented. But for now, it works semi-fine.
+17.05.2008-18:43 <@boud> and it's not kwrite, but kword :P
+17.05.2008-18:43 < el> eeek! boud, who should neha talk to to fill the profiles?
+17.05.2008-18:44 <@boud> krita: me
+17.05.2008-18:44 < Neha> ok
+17.05.2008-18:44 <@boud> kword: Jan Hambrecht, <jaham@gmx.net>, jaham on irc
+17.05.2008-18:44 <@boud> no,
+17.05.2008-18:44 <@boud> karbon: Jan Hambrecht, <jaham@gmx.net>, jaham on irc
+17.05.2008-18:44 <@boud> I'm getting confused, too!
+17.05.2008-18:44 < el> hihi :)
+17.05.2008-18:44 <@boud> kword: Thomas Zander, zander@kde.org, tzander on irc
+17.05.2008-18:45 < Neha> he he
+17.05.2008-18:45 <@boud> kpresenter: Thorsten Zachmann, <t.zachmann@zagge.de>, zagge on irc
+17.05.2008-18:45 < Neha> ok
+17.05.2008-18:45 < Neha> ok 4 applications..4 developers
+17.05.2008-18:45 < Neha> got u
+17.05.2008-18:45 <@boud> btw, thomas zander rather fancies himself a usability expert/interaction designer, although he's been hard-core coding for years now.
+17.05.2008-18:46 < Neha> el by what time do you want me to be complete with user profiles
+17.05.2008-18:46 <@boud> and he's pretty eager to give out advice, asked for or not.
+17.05.2008-18:46 < Neha> thanks for letting this know boud
+17.05.2008-18:46 < Neha> :-) i will try my best
+17.05.2008-18:46 <@boud> so, if he tells you do something this way or that, first contact el or celeste 
+17.05.2008-18:46 < Neha> hmm...thanks boud
+17.05.2008-18:47 < el> Neha, let's meet again in ±one week and see how far you got. Depends a bit if the developers have time to answer your questions
+17.05.2008-18:47 < Neha> that's right too
+17.05.2008-18:47 < el> In the meantime, please also try to install KOffice and get familiar with it. 
+17.05.2008-18:48 < Neha> i m quite packed this week, with my finals and i am graduating next saturday
+17.05.2008-18:48 < Neha> so i m pretty much packed
+17.05.2008-18:48 < el> sure, no problem
+17.05.2008-18:48 < el> take your time
+17.05.2008-18:48 <@boud> btw
+17.05.2008-18:48 < Neha> but i will try my best to get this done as much as I can
+17.05.2008-18:48 < el> i'm actually on vacation next week.
+17.05.2008-18:48 < Neha> yeah..thats my first priority
+17.05.2008-18:48 <@boud> I will mostly be available from about 19:00 to 23:00 CET on irc -- but I'm good at answering mail (boud@valdyas.org) very quickly
+17.05.2008-18:49 < Neha> thanks boud
+17.05.2008-18:49 < el> ok. for me, monday to friday is good between 20.00 and 23.00, thursday and friday i'm available earlier
+17.05.2008-18:49 < Neha> my plan is to send questionnaire through e mail to all the developers
+17.05.2008-18:50 < el> good. if they haven't replied after a week or so, we can bug them on irc ;-)
+17.05.2008-18:50 < Neha> yeah...sounds good
+17.05.2008-18:51 < el> When should we meet next? as neha is having exams and I am on vacation - shall we postpone the next meeting to week 26.5.-30.5.? 
+17.05.2008-18:51 <@boud> fine with me
+17.05.2008-18:51 < Neha> i m fine with this too
+17.05.2008-18:51 < el> we can check the answer status in between (end of next week, maybe)
+17.05.2008-18:52 <@boud> sure
+17.05.2008-18:52 < Neha> sure
+17.05.2008-18:52 < el> good. shall we already fix a date or do it by email - so celeste is included?
+17.05.2008-18:52 < Neha> anything works for me
+17.05.2008-18:52 <@boud> I'd prefer email, myself, if it's just a matter of checking whether everyone replied
+17.05.2008-18:52 <@boud> discussing the answers is easier on irc
+17.05.2008-18:53 <@boud> btw -- it might be a good idea for Neha to be subscribed to koffice-devel@kde.org
+17.05.2008-18:53 < el> yeah, and for me, too, i suppose ;-)
+17.05.2008-18:53 <@boud> it's not very high traffic, but it does give a feel for the developer community.
+17.05.2008-18:54 <@boud> and we just got a volunteer from China to work our website and she needs to know about target audience, too.
+17.05.2008-18:54 < el> do you have the link to the subscription page?
+17.05.2008-18:54 <@boud> https://mail.kde.org/mailman/listinfo/koffice-devel
+17.05.2008-18:54 < el> thanks
+17.05.2008-18:54 < Neha> thanks
+17.05.2008-18:55 < el> neha, do you have more questions right now?
+17.05.2008-18:56 < Neha> not yet until i see the application myself
+17.05.2008-18:56 < el> ok
+17.05.2008-18:56 < el> for organisational things: the project should be finished by mid of august
+17.05.2008-18:57 < el> mentors will be asked to evaluate the project. if it was finished, you will be paid your stipend afterwards
+17.05.2008-18:57 < Neha> question - is it $1000 for the whole project?
+17.05.2008-18:58 < el> yes
+17.05.2008-18:58 < Neha> ok
+17.05.2008-18:58 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+17.05.2008-18:58 < el> heya seele!
+17.05.2008-18:58 < seele> yikes.. i totally forgot about the meeting.  i didnt set up a reminder
+17.05.2008-18:58 < seele> sorry about that
+17.05.2008-18:58 < Neha> hi seele
+17.05.2008-18:58 < el> hehe, no problem
+17.05.2008-18:58 <@boud> hi seele
+17.05.2008-18:58 < seele> did you talk already?
+17.05.2008-18:59 <@boud> nearly done, in fact :-)
+17.05.2008-18:59 < seele> haha.. cool.  i'm sure you have it under control :)
+17.05.2008-18:59 < el> yes. we agreed that neha would start by interviewing developers to fil in the user research profiles
+17.05.2008-18:59 < seele> ok, that is a great idea
+17.05.2008-18:59 < el> boud gave us some email addresses, and once a first draft is there other developers can comment on it
+17.05.2008-19:01 < seele> ok sounds good
+17.05.2008-19:01 < seele> will we have weekly status meetings or just whenever we need to discuss?
+17.05.2008-19:01 < el> i think weekly would be good
+17.05.2008-19:01 <@boud> yes
+17.05.2008-19:02 < Neha> weekly meeting is more preferable for me
+17.05.2008-19:02 < el> but next meeting will be in about 1.5 weeks (between may 26 and 30)
+17.05.2008-19:02 < seele> yes
+17.05.2008-19:02 < el> we haven't fixed a day yet
+17.05.2008-19:02 <@boud> let me nix Tuesday 27 to start with -- I've got an appointment that evening
+17.05.2008-19:03 < seele> btw, Neha nice to meet you and welcome to the SoU
+17.05.2008-19:03 < Neha> nice to meet you too, thanks
+17.05.2008-19:04 < seele> ok, we can probably wait until the end of next week or next weekend to schedule the next meeting
+17.05.2008-19:04 < seele> i'm going to be gone for a week from work, so i'm not sure what meetings i'll have set up for that week until then
+17.05.2008-19:04 < Neha> ok
+17.05.2008-19:06 < el> ok
+17.05.2008-19:06  * el is just summarising the meeting in a mail, that's why i am so quiet.. ;-)
+17.05.2008-19:06 <@boud> :-)
+17.05.2008-19:06 < Neha> :-)
+17.05.2008-19:09 < seele> ok, i am going to finish packing
+17.05.2008-19:09 < seele> sorry i missed the meeting
+17.05.2008-19:09  * seele waves
+17.05.2008-19:10 <@boud> bye!
+17.05.2008-19:10 < Neha> bbye!!
+17.05.2008-19:10 < el> bye, have a nice weekend!
+17.05.2008-19:11 < el> cu ...
+17.05.2008-19:11 < Neha> thanks 
+17.05.2008-19:11 < el> gotto go, dinner is waiting ;-)
+17.05.2008-19:11 < Neha> u have a nice weekend too
+17.05.2008-19:11 < Neha> bye
+17.05.2008-19:11 < el> neha, for questions ping me on skype or send a mail
+17.05.2008-19:11 < el> bye
+17.05.2008-19:11 -!- el [n=el@ip-77-25-215-14.web.vodafone.de] has quit []
+17.05.2008-19:11 < Neha> sure
+17.05.2008-19:11 <@boud> good night all
+17.05.2008-19:12 < Neha> good night
+17.05.2008-19:13 -!- boud [n=boud@calcifer.xs4all.nl] has left #sou-koffice []
+--- Log closed Sat May 17 19:13:35 2008
+--- Log opened Wed Jun 04 17:33:33 2008
+04.06.2008-17:33 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+04.06.2008-17:33 -!- ServerMode/#sou-koffice [+ns] by zelazny.freenode.net
+04.06.2008-17:33 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+04.06.2008-17:33 -!- Irssi: Join to #sou-koffice was synced in 1 secs
+04.06.2008-20:56 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+04.06.2008-20:57 <@boud> hi :-)
+04.06.2008-20:59 < seele> hi
+04.06.2008-21:06 <@boud> pretty quiet...
+04.06.2008-21:07 <@boud> I hope Neha and Ellen haven't forgotten about the meeting
+04.06.2008-21:07 < seele> i hope not either.. they both marked this as an available time
+04.06.2008-21:07 <@boud> There's lots of interest in the koffice developer team in the sou. 
+04.06.2008-21:07 < seele> unfortunately ellen isnt on skype for me to ping either
+04.06.2008-21:07 <@boud> I'm getting pestered quite a lot about it :-)
+04.06.2008-21:08 -!- NehaPahwa [i=Neha@129.21.38.233] has joined #sou-koffice
+04.06.2008-21:08 <@boud> hi NehaPahwa!
+04.06.2008-21:08 < NehaPahwa> hi Boud
+04.06.2008-21:09 < seele> hi neha!
+04.06.2008-21:09 <@boud> Shall we give ellen another ten minutes to appear?
+04.06.2008-21:09 < seele> i have time to wait as long as you guys are OK with it
+04.06.2008-21:10 <@boud> ok with me
+04.06.2008-21:10 < seele> after 10 minutes, i think we could probably start and she can add anything later via email
+04.06.2008-21:10 <@boud> yes
+04.06.2008-21:10 < seele> NehaPahwa: do you use gmail chat or any other chat?
+04.06.2008-21:11 -!- NPahwa [i=Neha@rm23397.rit.edu] has joined #sou-koffice
+04.06.2008-21:11 -!- el [n=el@ip-77-25-81-187.web.vodafone.de] has joined #sou-koffice
+04.06.2008-21:12 < el> hi!
+04.06.2008-21:12 <@boud> all complete!
+04.06.2008-21:12 <@boud> hi
+04.06.2008-21:12 < NPahwa> hi
+04.06.2008-21:12 < el> sorry, i am still sitting in a traiin
+04.06.2008-21:12 < el> hope the connection remains stabel
+04.06.2008-21:12 < seele> wow
+04.06.2008-21:12 < el> stable
+04.06.2008-21:12 <@boud> cool
+04.06.2008-21:12 < seele> terrible storm right now
+04.06.2008-21:12 < seele> my DSL modem is connected to a UPS, so hopefully i will remain online
+04.06.2008-21:12 < seele> but if i disappear you know why :)
+04.06.2008-21:13 < el> uhh.. good luck
+04.06.2008-21:13 < el> hehe
+04.06.2008-21:13 < seele> (lights just went out for a few seconds!)
+04.06.2008-21:13 <@boud> eek
+04.06.2008-21:13 < el> spooky
+04.06.2008-21:13 < seele> hehe
+04.06.2008-21:13 < seele> ok.. so here was the agenda i proposed:
+04.06.2008-21:13 < seele> * Questions or comments so far
+04.06.2008-21:13 < seele> * Status on KOffice developer interviews
+04.06.2008-21:13 < seele> * Status on KOffice User Research Template
+04.06.2008-21:13 < NPahwa> uhh...
+04.06.2008-21:13 < seele> * Tasks for next week (or next 2 weeks)
+04.06.2008-21:13 < seele> anything you want to add or change?
+04.06.2008-21:13 < el> i will have to get off in ±10 minutes, then a 10 minute walk to the hiotel and i'll be back
+04.06.2008-21:13 <@boud> ok
+04.06.2008-21:13 < NPahwa> ok
+04.06.2008-21:13 <@boud> shall we start with reviewing things accomplished?
+04.06.2008-21:13 < el> has neha managed to install koffice?
+04.06.2008-21:14 < NPahwa> i have managed to install i
+04.06.2008-21:14 < NPahwa> it
+04.06.2008-21:14 < el> cool :)
+04.06.2008-21:14 <@boud> and run some apps?
+04.06.2008-21:14 < NPahwa> but still have some problems with it
+04.06.2008-21:14 <@boud> do tell
+04.06.2008-21:15 < NPahwa> i am able to install kofice
+04.06.2008-21:15 < NPahwa> after going in bin
+04.06.2008-21:15 -!- el_ [n=el@ip-77-25-46-117.web.vodafone.de] has joined #sou-koffice
+04.06.2008-21:16 < el_> am i back?
+04.06.2008-21:16 <@boud> yes
+04.06.2008-21:16 < seele> yeah
+04.06.2008-21:16 < el_> good. sorry
+04.06.2008-21:16 < NPahwa> i could find applications such as designer rumming but i cannot open kword
+04.06.2008-21:16 < el_> please go ahead when i disappear, i'll catch up by reading the log later if someone sends it
+04.06.2008-21:16 <@boud> sure
+04.06.2008-21:16 < NPahwa> nor could i open krita
+04.06.2008-21:16 <@boud> NPahwa: when I used the kde-windows installer to install koffice I had to copy the dlls from kde4/libs to kde4/bin to make it possible to start apps
+04.06.2008-21:17 <@boud> or add kde4/libs to the path in system settings
+04.06.2008-21:17 <@boud> (although the windows gurus in #koffice advice against that)
+04.06.2008-21:18 -!- NehaP [i=Neha@rm23397.rit.edu] has joined #sou-koffice
+04.06.2008-21:19 <@boud> NehaP: did you catch what I just said?
+04.06.2008-21:19 < NehaP> i m sorry, looks like there is some problem with my IRC
+04.06.2008-21:19 <@boud> ok
+04.06.2008-21:19 <@boud> let's try again
+04.06.2008-21:19 <@boud> 1:16:58 <@boud> NPahwa: when I used the kde-windows installer to install koffice I had to copy the dlls from kde4/libs to kde4/bin to make it possible to start apps
+04.06.2008-21:19 <@boud> 21:17:10 <@boud> or add kde4/libs to the path in system settings
+04.06.2008-21:19 <@boud> 21:17:55 <@boud> (although the windows gurus in #koffice advice against that)
+04.06.2008-21:19 < NehaP> no i didn't catch you
+04.06.2008-21:19 < el_> hm, seems we all have some trouble with the connection today,,,
+04.06.2008-21:19 < NehaP> ok
+04.06.2008-21:20 < el_> neha, if that doesn;t work feel free to contact any of us before the next meeting
+04.06.2008-21:20 < NehaP> sure
+04.06.2008-21:21 <@boud> did you manage to get a wiki account?
+04.06.2008-21:21 < seele> is building a live cd an option?  i dont know if the koffice guys can do that or not
+04.06.2008-21:21 < NehaP> i had planned to do so but the past week was really busy for me
+04.06.2008-21:21 < NehaP> that would be really good
+04.06.2008-21:21 <@boud> it should be possible using opensuse's build service
+04.06.2008-21:21 <@boud> we do have regularly updated suse packages now
+04.06.2008-21:21 < el_> (i will have to get off in about 3 minutes. will then be back after ±10 mintues. sorry for that, very bad timing today)
+04.06.2008-21:21 <@boud> ok
+04.06.2008-21:21 < NehaP> not a prob
+04.06.2008-21:22 <@boud> but for now, it should be easy to get the windows packages to work. I managed, and I'm not a windows guru by a long chalk
+04.06.2008-21:22 < NehaP> yes i got a wiki account
+04.06.2008-21:22 <@boud> good
+04.06.2008-21:22 < el_> have you already done interviews with the koffice developers?
+04.06.2008-21:22 <@boud> could you in the next week send a mail to koffice-devel@kde.org telling the developers about you and your project? Interest is really high and people are curious.
+04.06.2008-21:22 < NehaP> sure i will really do that
+04.06.2008-21:22 < el_> off...
+04.06.2008-21:22 < el_> cu later
+04.06.2008-21:23 < NehaP> i am all set for it now
+04.06.2008-21:23 < NehaP> boud...after installation i could open application such as designer..is it someway or other related to our project
+04.06.2008-21:24 <@boud> designer could be used to mockup a design, but I don't know whether that would be useful
+04.06.2008-21:24 < NehaP> ok
+04.06.2008-21:24 <@boud> that's for seele and el to advice you about, I guess.
+04.06.2008-21:25 < seele> if you can figure out how to use it, but if you have different tools youre more comfortable using, go ahead
+04.06.2008-21:25 < seele> did you begin any of the interviews yet?  i think that was ellens last question before she dropped
+04.06.2008-21:25 < NehaP> because after the installation i could open applications such as assistant, assistant_adp, designer, linguistic and qdbusviewer
+04.06.2008-21:25 < NehaP> no...not yet
+04.06.2008-21:25 < NehaP> i don't think i m yet done with installation
+04.06.2008-21:25 <@boud> NehaP: those are all pure qt apps, not kde apps. I think you need to do the kde4/lib trick.
+04.06.2008-21:26 < NehaP> ok..i got u
+04.06.2008-21:26 <@boud> I think I sent you a mail with a link to a howto some time ago
+04.06.2008-21:26 < NehaP> i can start the inteviews with some general questions first if you want
+04.06.2008-21:27 < NehaP> yes u send me an emaik
+04.06.2008-21:27 < NehaP> email
+04.06.2008-21:27 < NehaP> but it mentioned that the applications can be opened from the bin folder
+04.06.2008-21:27 < seele> getting it installed and reviewing the software will probably be useful before you interview the developers
+04.06.2008-21:27 < NehaP> yes..i think the same 
+04.06.2008-21:28 <@boud> NehaP: if you want to have expert help, try to find saroengels on #kde-windows or #koffice on irc.
+04.06.2008-21:28 <@boud> he can probably help you get it working in like ten minutes.
+04.06.2008-21:28 < NehaP> thanks for letting me know this
+04.06.2008-21:28 < NehaP> i will try doing this right away
+04.06.2008-21:29 <@boud> he seems to be online now.
+04.06.2008-21:30 < NehaP> i got him thanks
+04.06.2008-21:30 <@boud> great
+04.06.2008-21:35 -!- el [n=el@ip-77-25-81-187.web.vodafone.de] has quit [Read error: 110 (Connection timed out)]
+04.06.2008-21:36 -!- el [n=el@ip-77-25-59-140.web.vodafone.de] has joined #sou-koffice
+04.06.2008-21:36 < el> back, finally.... and now till the end :)
+04.06.2008-21:36 <@boud> yay!
+04.06.2008-21:37 < el> :)
+04.06.2008-21:37 < seele> hmm.. so apparently there is a tornado ripping through DC right now
+04.06.2008-21:37 <@boud> el: NehaP is settling the running koffice apps on windows thing with saroengels -- he's the guru who created them.
+04.06.2008-21:37 <@boud> eeek!
+04.06.2008-21:37 < seele> my mom just called me because it was on national news
+04.06.2008-21:37 < seele> yeah, only a few miles from where i'm at too
+04.06.2008-21:38 < el> seele, better hide under the table ....
+04.06.2008-21:38 < seele> el: LOL that's what my mom said!
+04.06.2008-21:38 < el> hehe
+04.06.2008-21:39 < seele> sorry, didn't mean to sidetrack anyway
+04.06.2008-21:39 < el> is neha setting up the koffice environment right now?
+04.06.2008-21:40 < NehaP> yes i m 
+04.06.2008-21:41 < el> k
+04.06.2008-21:45 -!- el_ [n=el@ip-77-25-46-117.web.vodafone.de] has quit [Read error: 110 (Connection timed out)]
+04.06.2008-21:45 < el> my second me has left, hehe
+04.06.2008-21:47 <@boud> :-)
+04.06.2008-21:47 < NehaP> boud: do i need to copy all the dll files from /lib to /bin.
+04.06.2008-21:47 < NehaP> They are so many
+04.06.2008-21:48 <@boud> NehaP: I cannot check right now sicne my windows machine is at work, but I think so, yes.
+04.06.2008-21:48 <@boud> moving is ok, too
+04.06.2008-21:50 < NehaP> ok thanks
+04.06.2008-21:52 < NehaP> well we can start talking about the next week plans till i get it done
+04.06.2008-21:53 <@boud> ok
+04.06.2008-21:53 < seele> i think the next step would be the developer interviews
+04.06.2008-21:53 <@boud> and introducing yourself to the gang
+04.06.2008-21:53 < seele> and i think boud wanted you to introduce yourself on the koffice mailing list and talk more about your project
+04.06.2008-21:53 < seele> yep
+04.06.2008-21:55 < NehaP> hmmm
+04.06.2008-21:55 < NehaP> i will do this
+04.06.2008-21:56 <@boud> good!
+04.06.2008-21:57 < el> great
+04.06.2008-21:58 < el> i'm not subscribed yet, too
+04.06.2008-21:58 < el> i'll do it right now ;-)
+04.06.2008-21:58 < el> https://mail.kde.org/mailman/listinfo/koffice-devel
+04.06.2008-21:58 < el> or are you already subscribed, neha?
+04.06.2008-21:59 < NehaP> no i will do it too
+04.06.2008-22:00 < seele> just subscribed as well
+04.06.2008-22:02 < el> so we are all up to date
+04.06.2008-22:03 < seele> yes
+04.06.2008-22:03 < el> i think i went offline directly after i asked -> neha, have you already talked/mailed with some developers?
+04.06.2008-22:03 < seele> hehe, i think we've asked her that 5 times now
+04.06.2008-22:03 < el> hehe
+04.06.2008-22:03 < seele> she said not yet
+04.06.2008-22:03 < el> ok, thanks
+04.06.2008-22:04 < seele> it will help for her to review koffice first i think, but that should be resolved soon since she got some help
+04.06.2008-22:04 < NehaP> well i m sorry for getting my work delayed
+04.06.2008-22:04 < el> seele, maybe you can give some tips how you did it with the plasma people etc.
+04.06.2008-22:04 < seele> so i guess that is next week's activity
+04.06.2008-22:04 < seele> sure
+04.06.2008-22:04 < NehaP> well I am talking to saroengels
+04.06.2008-22:04 < seele> NehaP: have you done many interviews for user research before?
+04.06.2008-22:04 < NehaP> and he is unable to solve my problem yet
+04.06.2008-22:04 < NehaP> so he has asked me to reinstall the packages
+04.06.2008-22:05 < el> puh....
+04.06.2008-22:05 < NehaP> yes i have done many interviews
+04.06.2008-22:05 < NehaP> uhhh...
+04.06.2008-22:05 < el> maybe a live cd will be more easy?
+04.06.2008-22:05 < NehaP> i am tired of installing this package
+04.06.2008-22:05 < NehaP> i know...
+04.06.2008-22:05 < NehaP> looks like this application rally needs usability help
+04.06.2008-22:06 < NehaP> really*
+04.06.2008-22:06 < seele> NehaP: one of the interview methods i've used before is the Delphi, id ont know if youve heard of it before?
+04.06.2008-22:06 <@boud> well, it's not the windows installer we're going to work on: it isn't part of koffice
+04.06.2008-22:06 < NehaP> no i haven't heard of it
+04.06.2008-22:06 < seele> it is useful when you only have a few people to interview
+04.06.2008-22:07 < NehaP> sounds interesting can u shed more light on this?
+04.06.2008-22:07 < seele> basically you do your regular interview to start, but then at the end of the interview, you show (or tell) your participant of other information you gathered from previous participants
+04.06.2008-22:07 < seele> this helps them think about things they might not have come up with, or comment for or against other people's views
+04.06.2008-22:07 < seele> so you get more than independent data points that you try to find commonalities
+04.06.2008-22:08 < seele> at the end of the interview after you talk about the previous results, they can change their mind about positions they might have had on a topic, or maintain their position
+04.06.2008-22:09 < seele> ideas that might get snubbed out by one participant in an interview may reappear when another participant begins to discuss it, so it get's reintroduced in to the knowledge base
+04.06.2008-22:10 < seele> it's useful because it helps developers comment on ideas they may have never thought of so you get more people talking about the same things instead of hoping that a topic or idea is popular enough to get mentioned
+04.06.2008-22:11 < seele> there are levels of formality in the protocol, but for something like this, just keeping track of key points and then reviewing them at the end of the interview will be enough
+04.06.2008-22:12 < NehaP> thanks seele 
+04.06.2008-22:13 < NehaP> i will definitely implement it
+04.06.2008-22:13 < seele> let me know if you have any questions, but it is pretty simple once you understand the concept
+04.06.2008-22:13 < NehaP> sure
+04.06.2008-22:13 < NehaP>  i am deleting it and reinstalling it
+04.06.2008-22:13 < NehaP> which is going to take time
+04.06.2008-22:14 < el> boud: which version of koffice is on the current opensuse live cd?
+04.06.2008-22:15 < el> maybe that's enough for a first look, so that neha can start with the interviews and we'll find a better solution till next week?
+04.06.2008-22:15 <@boud> el: I'm not sure, I'll need to ask around for it
+04.06.2008-22:15 <@boud> el: in any case for the problem at hand, and old version is good enough
+04.06.2008-22:16 <@boud> it looks, from the description at http://home.kde.org/~binner/kde-four-live/ to be a pretty recent version, compiled against 4.1beta
+04.06.2008-22:16 <@boud> the 1.0.80 version, not the 1.0.4 version
+04.06.2008-22:17 <@boud> yes, definitely good enough
+04.06.2008-22:17 < el> koffice2-kword-1.9.95.4-2.19
+04.06.2008-22:18 < el> neha, then better go for the live cd. 
+04.06.2008-22:19 < NehaP> yeah...if no choice left
+04.06.2008-22:24 < el> then we are done for today, right? 
+04.06.2008-22:25 < NehaP> i am taking the help of saroengels till I am done today with the installation
+04.06.2008-22:25 < el> cool
+04.06.2008-22:25 <@boud> ok
+04.06.2008-22:25 < NehaP> And for sure by this weekend i should be ready with the user profiles including interviewing
+04.06.2008-22:26 < el> we might already fix a meeting for next week
+04.06.2008-22:26 < el> or do you prefer doodle?
+04.06.2008-22:26 < seele> let's doodle
+04.06.2008-22:26 < el> ok
+04.06.2008-22:26 <@boud> yes
+04.06.2008-22:26 <@boud> it works best for me
+04.06.2008-22:26 < seele> i'm going to be out of the country for most of next week so it wil lhave to be next thursday/friday or later
+04.06.2008-22:26 < NehaP> works for me too
+04.06.2008-22:27 < el> thursday evening i will be on a plane again. but friday/weekend works for me, too
+04.06.2008-22:27 < NehaP> i am open next week
+04.06.2008-22:27 < NehaP> any time will work for me
+04.06.2008-22:28 <@boud> I need to go now
+04.06.2008-22:28 < el> seele: where are you going next week?
+04.06.2008-22:28 < el> bye, boud
+04.06.2008-22:28 <@boud> see you on koffice-devel & next week
+04.06.2008-22:28 < el> see you next week
+04.06.2008-22:28 <@boud> bye
+04.06.2008-22:28 < NehaP> bye boud
+04.06.2008-22:28 -!- boud [n=boud@calcifer.xs4all.nl] has left #sou-koffice []
+--- Log closed Wed Jun 04 22:28:50 2008
+--- Log opened Wed Jun 18 19:10:27 2008
+18.06.2008-19:10 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+18.06.2008-19:10 -!- ServerMode/#sou-koffice [+ns] by clarke.freenode.net
+18.06.2008-19:10 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+18.06.2008-19:10 -!- Irssi: Join to #sou-koffice was synced in 1 secs
+18.06.2008-19:54 -!- NehaP [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+18.06.2008-19:54 < NehaP> hi boud
+18.06.2008-19:55 <@boud> hi
+18.06.2008-19:56 <@boud> I got my net access back :-)
+18.06.2008-19:57 < NehaP> great
+18.06.2008-19:57 < NehaP> good to c u
+18.06.2008-19:58 <@boud> Not everything works, though, I need to do a quick reboot now, back in a few minutes
+18.06.2008-20:05 <@boud> back
+18.06.2008-20:09 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:09 < el> hi! i am sorry for being late again
+18.06.2008-20:09 < el> only one more week, then i'll be back in berlin all week
+18.06.2008-20:09 < el> where my availability is much better....
+18.06.2008-20:10 < el> celeste probably won't join. she sent me a mail yesterday that she probably couldnt attend today
+18.06.2008-20:10 <@boud> ok
+18.06.2008-20:10 < el> boud, is your internet connection stable?
+18.06.2008-20:10 <@boud> probably
+18.06.2008-20:10 < el> :)
+18.06.2008-20:10 <@boud> they took all night and day to repair it, so it had better be good now
+18.06.2008-20:11 < el> hehe
+18.06.2008-20:11 < el> hi NehaP! 
+18.06.2008-20:12 <@boud> word documents...
+18.06.2008-20:13 <@boud> my student is only half-way with his new .doc filter!
+18.06.2008-20:13 -!- NehaPahwa [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+18.06.2008-20:14 < el> hi NehaPahwa !
+18.06.2008-20:14 < NehaPahwa> hi el
+18.06.2008-20:14 < el> .. sorry for being late again. i already told boud that it's gonna be better in july (i'll be back in berlin then)
+18.06.2008-20:14 < NehaPahwa> thats ok
+18.06.2008-20:15 < el> how did it go with the user profiles? 
+18.06.2008-20:15 < NehaPahwa> IRC gives me problem whenever I try to use it, it asks me to register everytime I use it
+18.06.2008-20:15 < NehaPahwa> It went good
+18.06.2008-20:15 < NehaPahwa> I had send you the mail with the work I have done
+18.06.2008-20:15 <@boud> got it
+18.06.2008-20:15 < NehaPahwa> yuo
+18.06.2008-20:15 < NehaPahwa> yup
+18.06.2008-20:16 < el> oh, haven't seen that yet. let me check, mom....
+18.06.2008-20:16 < NehaPahwa> Jan doesn't use Karbon, so that made my part harder
+18.06.2008-20:16 -!- NehaP [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+18.06.2008-20:16 < NehaPahwa> I couldn't come up with a scenario for Karbon application
+18.06.2008-20:16  * el is just opening the document...
+18.06.2008-20:17 < el> boud, are there more developers involved with karbon?
+18.06.2008-20:17 < NehaPahwa> yes there are
+18.06.2008-20:17 < NehaPahwa> but I just wanted to contact you both before moving ahead
+18.06.2008-20:18 <@boud> el: well, jan really is the main guy. sven langkamp does some karbon work, but hasn't committed anything for a long time
+18.06.2008-20:18 < el> maybe he is still interested in answering some questions.. :)
+18.06.2008-20:18 <@boud> well worth a try
+18.06.2008-20:19 < el> can you send the contact data to neha please?
+18.06.2008-20:19 <@boud> sure
+18.06.2008-20:19 <@boud> From: 
+18.06.2008-20:19 <@boud> NehaPahwa: Sven Langkamp <sven.langkamp@gmail.com>
+18.06.2008-20:19 < NehaPahwa> boud, do you use Karbon? I could see your name on the list too
+18.06.2008-20:20 < NehaPahwa> thanks boud
+18.06.2008-20:20 <@boud> NehaPahwa: not really, I don't understand vector graphics much :-)
+18.06.2008-20:20 < NehaPahwa> ok :)
+18.06.2008-20:21 < NehaPahwa> el, will celeste join us today?
+18.06.2008-20:21 < el> NehaPahwa: i don;t think so. she sent me a mail yesterday that she probably wouldnt make it
+18.06.2008-20:21 < NehaPahwa> ok
+18.06.2008-20:21 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:24 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:24 < el> oh no, this internet connection is very unstable! (i am at a new hotel here in duesseldorf, haven't been here before)
+18.06.2008-20:24 <@boud> we'll be patient and won't say anything when you're gone
+18.06.2008-20:25 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:25 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:25 < el> argh argh argh
+18.06.2008-20:25 < el> i am really sorry
+18.06.2008-20:26 <@boud> el: would you prefer to move to another day?
+18.06.2008-20:26 < el> hm, not sure if that is of much help. i will also be in this hotel next week
+18.06.2008-20:26 <@boud> then let's just soldier on
+18.06.2008-20:26 <@boud> NehaPahwa has sent the user research profiles, but I haven't read them yet
+18.06.2008-20:27 < el> yeah, if it becomes too bad, i will send feedback per mail
+18.06.2008-20:27 < el> i just started to read the first profile. it looks good!
+18.06.2008-20:27 <@boud> A quick glance shows that there are quite a few discrepancies in the target audiences between various apps, right?
+18.06.2008-20:27 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:28 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:28 < el> regarding the sample use scenarios and use cases, i think it should concentrate more on actually using the software
+18.06.2008-20:30 -!- el__ [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:30 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:30 < el__> hm, it doesn't make sense... it's better to send feedback by mail. and next week, i'll stay in the office till we meet
+18.06.2008-20:31 <@boud> ok
+18.06.2008-20:31 -!- el__ [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:31 <@boud> then maybe we'd better keep it short
+18.06.2008-20:31 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:31 <@boud> NehaPahwa: did you already send an intro mail to koffice-devel and did I just miss it?
+18.06.2008-20:34 -!- el_ [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:34 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:34 < el_> neha, in that mail you might ask for more developers to verify the user profiles. more feedback and next tasks in a mail....
+18.06.2008-20:36 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has joined #sou-koffice
+18.06.2008-20:36 -!- el_ [n=el@p5B34BC6B.dip0.t-ipconnect.de] has quit [Read error: 104 (Connection reset by peer)]
+18.06.2008-20:36 -!- el [n=el@p5B34BC6B.dip0.t-ipconnect.de] has left #sou-koffice []
+18.06.2008-20:37 <@boud> NehaPahwa: we better stop the meeting now. Please do write a mail to koffice-devel to introduce you to everyone!
+18.06.2008-20:37 -!- NehaP [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+18.06.2008-20:38 <@boud> NehaP:  we better stop the meeting now. Please do write a mail to koffice-devel to introduce you to
+18.06.2008-20:38 <@boud> everyone -- if you haven't done so already
+18.06.2008-20:38 < NehaP> ok boud 
+18.06.2008-20:39 < NehaP> i will do it..i just need to introduce myself, rite?
+18.06.2008-20:39 <@boud> yes -- tell us where you're from, what you're studying and maybe also that you're concentrating on these four apps and have started already
+18.06.2008-20:39 < NehaP> ok boud
+18.06.2008-20:41 < NehaP> I will do this and looking forward for yur feedback on user profiles
+18.06.2008-20:41 <@boud> ok
+18.06.2008-20:41 < NehaP> I am leaving now
+18.06.2008-20:41 <@boud> will you send your first draft to the other people, too? Or just us?
+18.06.2008-20:42 < NehaP> are you talking about the user profiles??
+18.06.2008-20:42 <@boud> yes
+18.06.2008-20:42 <@boud> I mean, will Thomas, Jan and Thorsten get them, too?
+18.06.2008-20:42 < NehaP> I don't know
+18.06.2008-20:43 < NehaP> el didn't asked me to do anything like that
+18.06.2008-20:43 <@boud> better ask el and celeste about that, I don't know either
+18.06.2008-20:43 < NehaP> sure
+18.06.2008-20:46 -!- NehaPahwa [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+18.06.2008-20:47 <@boud> ok
+18.06.2008-20:47 <@boud> bye then!
+18.06.2008-20:47 < NehaP> bye boud!!
+18.06.2008-20:47 < NehaP> talk to you soon
+18.06.2008-20:47 < NehaP> bbye
+18.06.2008-20:47 -!- NehaP [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+--- Log closed Wed Jun 18 20:55:35 2008
+--- Log opened Wed Jul 16 20:49:31 2008
+16.07.2008-20:49 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+16.07.2008-20:49 -!- ServerMode/#sou-koffice [+ns] by wolfe.freenode.net
+16.07.2008-20:49 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+16.07.2008-20:49 -!- Irssi: Join to #sou-koffice was synced in 0 secs
+--- Day changed Thu Jul 24 2008
+24.07.2008-19:56 -!- el [n=el@91-67-52-228-dynip.superkabel.de] has joined #sou-koffice
+24.07.2008-20:02 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+24.07.2008-20:02 < seele> hallo
+24.07.2008-20:04 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+24.07.2008-20:05 < nehap> hi everybody!
+24.07.2008-20:05 < seele> hi neha
+24.07.2008-20:05 < el> heya
+24.07.2008-20:05 < seele> is boud afk?
+24.07.2008-20:06 < el> hmmm
+24.07.2008-20:06 <@boud> hi
+24.07.2008-20:06 < el> ah, hi boud!
+24.07.2008-20:06 <@boud> I was slightly distracted by a crash
+24.07.2008-20:06 < el> :-/
+24.07.2008-20:07 < nehap> hi boud
+24.07.2008-20:07 <@boud> hi nehap 
+24.07.2008-20:08 < el> shall we go through neha's document together?
+24.07.2008-20:08 <@boud> sure
+24.07.2008-20:09 < seele> ok, got it open
+24.07.2008-20:09 < el> nehap, maybe you want to summarise in a few words what you did and what the most important results were?
+24.07.2008-20:09 < nehap> sure
+24.07.2008-20:10 < nehap> i go through the user profiles and performed the use case step by step
+24.07.2008-20:10 < nehap> i used think aloud protocol to figure out what I was thinking and what I was doing
+24.07.2008-20:11 < nehap> At some steps, it was easy whereas in some steps I had to play with the application just to figure out what certain terminologies mean
+24.07.2008-20:12 < nehap> I then jotted down the features which were easy to perform and supported 
+24.07.2008-20:12 <@boud> I can imagine (in fact, I can see from the doc) that it must have been a bit of a problem to work with an app that isn't finished yet.
+24.07.2008-20:12 < nehap> and the features which were not supported or difficulted to perform
+24.07.2008-20:13 < seele> are the use case scenarios for a single user type or different ones?  I see "Pamela" as the sample persona, but it would be useful to know if the use case applies to more than one user group
+24.07.2008-20:13 < nehap> I also evaluated the application based on 10 usability heuristics, number of clicks and grouping of functions
+24.07.2008-20:14 < nehap> well, the third use case scenario was of a graphic artis named Ben
+24.07.2008-20:15 < seele> are you still working on it?  i only see 2 in the latest document you sent out
+24.07.2008-20:15 < nehap> this user profile was supposed to create a brochure but I was not able to figure out how to prepare a brochure
+24.07.2008-20:15 < seele> ah ok
+24.07.2008-20:15 < nehap> No, I already did it.
+24.07.2008-20:16 < nehap> I am sorry, I think I didn't send that document to you although I do remeber sending it to El
+24.07.2008-20:16 < seele> should we do a third use case then?
+24.07.2008-20:16 < nehap> I asked Thomas for help but didn't got any response
+24.07.2008-20:16 < seele> i can think of one involving adding a table of contents and automatically number header levels
+24.07.2008-20:16 < el> i'm not sure if production artist is really in the scope of kword - it's a very different workflos
+24.07.2008-20:16 < el> workflow
+24.07.2008-20:17 <@boud> I don't think adding a toc is already supported in the current version of kword
+24.07.2008-20:17 < el> neha wanted to ask thomas bout it, but he hasn;t replied yet
+24.07.2008-20:17 < seele> boud: what about number headers? (I was trying to figure out how to do it in OO the other day and failed)
+24.07.2008-20:17 <@boud> seele: it's very much under development at the odf level right now.
+24.07.2008-20:17 < seele> ok
+24.07.2008-20:18 <@boud> seele: an interaction design as opposed to an analysis of how things work right now might be very useful
+24.07.2008-20:18 < el> yes, i think we need to concentrate on analysing why the current tool-docker interaction doesnt work right
+24.07.2008-20:18 < seele> so how things ought to work and now how badly they work now
+24.07.2008-20:18 < el> and find a way to do it better
+24.07.2008-20:18 < nehap> There are number of things which don't work right
+24.07.2008-20:19 < nehap> Like I had problen inserting the table too.
+24.07.2008-20:19 < nehap> problem
+24.07.2008-20:19 < el> nehap: when doing the use cases, did you also use the dockers or mostly the menu? 
+24.07.2008-20:19 <@boud> that's no wonder: we only have spreadsheet tables at the moment
+24.07.2008-20:19 <@boud> no text tables, and probably won't have text tables for 2.0
+24.07.2008-20:20 < nehap> @boud: ok
+24.07.2008-20:20 < nehap> I used mostly menu and just few times dockers
+24.07.2008-20:20 <@boud> nehap: if you mail thomas, please cc me: I might be able to prod thomas into action, if all else fails, by taking the action myself.
+24.07.2008-20:21 < nehap> sure I will do it
+24.07.2008-20:22 < seele> ok, so where should neha start, with a review of only the tool-docker?  or should she start from scratch?
+24.07.2008-20:23 <@boud> tool docker, I think
+24.07.2008-20:23 < el> the purpose of going through the use cases was actually to probe the docker-tool interaction
+24.07.2008-20:23 < nehap> ok, I will do it
+24.07.2008-20:24 < el> as boud mentioned, interaction with the dockers is not as fast as it should be
+24.07.2008-20:24 < el> there are several reasons i think - bad grouping of the options on the dockers
+24.07.2008-20:24 < nehap> hmmm
+24.07.2008-20:24 < el> you have to change the tab frequently 
+24.07.2008-20:24 < seele> right, but my question is that should she 1) do the review again with a focus on the tool docker, or 2) start a design of the tool docker from scratch and disregard the current design
+24.07.2008-20:24 < seele> 1) would fix the current design, but 2) would have the opportunity to start over at the conceptual level
+24.07.2008-20:25 <@boud> that's a good question
+24.07.2008-20:25 < seele> el: what do you think?
+24.07.2008-20:25 < seele> 2 is probably a bit harder to do
+24.07.2008-20:25 <@boud> the current text tool option docker ui isn't particulary strong, nor is it so much code we wouldn't be able to redesign it
+24.07.2008-20:26 <@boud> as for 2)
+24.07.2008-20:26 < el> there was a long discussion on kword devel about dockers
+24.07.2008-20:26 <@boud> casper boemann has made it possible to divide tool options over more than one docker, which might make a redesign even more interesting
+24.07.2008-20:26 < seele> hum.. *checks archives*
+24.07.2008-20:26 < el> yes
+24.07.2008-20:26  * seele has been having problems with the wrong stuff getting marked as spam
+24.07.2008-20:26 <@boud> thomas didn't like that, but he never likes anything he hasn't invented himself
+24.07.2008-20:26 < el> so i think there are several people in koffice who wouldnt mind a redesign
+24.07.2008-20:27 < seele> ah, yes, i did read that
+24.07.2008-20:27 < el> i think it's important that we are backed up by the developers 
+24.07.2008-20:27 < el> so i think 2 would be a good way (though you are right, it's more difficult to do)
+24.07.2008-20:27 <@boud> casper will be back from holiday soon, and he is ready to work on the dockers
+24.07.2008-20:28 <@boud> (unless, but this is a social issue, thomas manages to drive him away)
+24.07.2008-20:28 < seele> since a lot of functionality is still missing, she would be creating a spec or framework for developers to add too
+24.07.2008-20:28 < seele> she wont be able to design and document everything
+24.07.2008-20:28 <@boud> that would be really useful, I think
+24.07.2008-20:29 < seele> ok, so where to start
+24.07.2008-20:29 < nehap> well I tried using dockers such as format tools and shape selectors, they are very very useful
+24.07.2008-20:29 < nehap> Icons are important which are missing
+24.07.2008-20:30 <@boud> that bug got fixed: it was in kde itself
+24.07.2008-20:30 < el> yes, they will be added once for the final 2.0 version
+24.07.2008-20:30 < nehap> May be that was the reason that even though it is such a good feature i didn't frrl like using it
+24.07.2008-20:30 <@boud> we miss only a few icons, actually, but the icon loader was buggy.
+24.07.2008-20:31 < seele> how does tool-docker currently work?  select and item -> select a tool?  or select a tool -> select/create item?
+24.07.2008-20:31 < nehap> really, but I couldn't see even a single icon in the formatting tools
+24.07.2008-20:31 <@boud> yes, it was a bad problem.
+24.07.2008-20:31 <@boud> seele: actually, I'm having trouble figuring that out myself
+24.07.2008-20:31 < seele> ok, that is one place to start
+24.07.2008-20:31 < seele> defining the type of interactions
+24.07.2008-20:31 <@boud> seele: some tools get activated when you select the right shape, some tools create a shape, and I can never figure that out.
+24.07.2008-20:32 < seele> neha: make a note of that, it will be one of the things you have to figure out :)
+24.07.2008-20:33 < seele> also, there are different classes of tools.  Some only create, some only modify, some are properties, etc., but then they could also be grouped by tasks or object context instead of function.
+24.07.2008-20:33 < el> boud, does an object ever activate the select mode?
+24.07.2008-20:33 < seele> So another goal would be to define what dimension everything is organized by
+24.07.2008-20:34 <@boud> el: I don't think so
+24.07.2008-20:36 < el> i think that everything is grouped by function/tools is one of the major problems. 
+24.07.2008-20:38 < el> nehap: do you feel comfortable with starting at the conceptual level or would you prefer optimising what's there? i realise we didn't really ask you...
+24.07.2008-20:41 -!- nehapahwa [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+24.07.2008-20:41 < nehapahwa> I am dorry
+24.07.2008-20:41 < nehapahwa> sorry
+24.07.2008-20:41 < nehapahwa> My connection just went down
+24.07.2008-20:41 < nehapahwa> I am back now
+24.07.2008-20:41 < el> what was the last message you got?
+24.07.2008-20:42 < nehapahwa> I was explaining about the charts and my connection went down
+24.07.2008-20:43 < nehapahwa> Is there anything I missed out?
+24.07.2008-20:43 < el> this will be a mess... but i simply copy/paste the previous conversation
+24.07.2008-20:43 < el> seele: how does tool-docker currently work?  select and item -> select a tool?  or select a tool -> select/create item?
+24.07.2008-20:43 < el> [20:30] nehap: really, but I couldn't see even a single icon in the formatting tools
+24.07.2008-20:43 < el> [20:31] boud: yes, it was a bad problem.
+24.07.2008-20:43 < el> [20:31] boud: seele: actually, I'm having trouble figuring that out myself
+24.07.2008-20:43 < el> [20:31] seele: ok, that is one place to start
+24.07.2008-20:43 < el> [20:31] seele: defining the type of interactions
+24.07.2008-20:43 < el> [20:31] boud: seele: some tools get activated when you select the right shape, some tools create a shape, and I can never figure that out.
+24.07.2008-20:43 < el> [20:31] seele: neha: make a note of that, it will be one of the things you have to figure out 
+24.07.2008-20:43 < el> [20:33] seele: also, there are different classes of tools.  Some only create, some only modify, some are properties, etc., but then they could also be grouped by tasks or object context instead of function.
+24.07.2008-20:43 < el> [20:33] el: boud, does an object ever activate the select mode?
+24.07.2008-20:43 < el> [20:33] seele: So another goal would be to define what dimension everything is organized by
+24.07.2008-20:43 < el> [20:33] boud: el: I don't think so
+24.07.2008-20:43 < el> [20:36] el: i think that everything is grouped by function/tools is one of the major problems.
+24.07.2008-20:43 < el> [20:38] el: nehap: do you feel comfortable with starting at the conceptual level or would you prefer optimising what's there? i realise we didn't really ask you...
+24.07.2008-20:45 < nehapahwa> I am not sure, I haven't done something like this before
+24.07.2008-20:45 < nehapahwa> I would go by mentor's decision
+24.07.2008-20:46 < el> seele, what do you think? shall we still go for 2?
+24.07.2008-20:46 < seele> el: i think it will give us the best design in the end
+24.07.2008-20:47 < seele> otherwise we are fixing what we know is broken
+24.07.2008-20:47 < seele> which sometimes works, but doesnt take advantage of koffice's alpha/beta state
+24.07.2008-20:47 < seele> especially since there are developers interested in an alternative
+24.07.2008-20:47 < el> yes, that for sure - but i think neha will need to take some time to get familiar with the docker conept in general
+24.07.2008-20:48 < seele> maybe the first thing is to review dockers in other applications?  not just word processors but in different apps
+24.07.2008-20:48 < el> yes, i think so too
+24.07.2008-20:48 < el> do you know of other windows apps with dockers?
+24.07.2008-20:48 <@boud> photoshop, in design, illustrator
+24.07.2008-20:48 < seele> Photoshop, Flash, Axure, MS Office off the top of my head
+24.07.2008-20:48 < el> i know the adobe suite uses it, right
+24.07.2008-20:48 <@boud> on the mac, iWork is a good example
+24.07.2008-20:49 < el> ms office? wow, didn't know that :)
+24.07.2008-20:49 <@boud> the new lotus openoffice based thing uses dockers in an interesting way
+24.07.2008-20:49 < seele> i have an old version
+24.07.2008-20:49 < seele> i think open office does too
+24.07.2008-20:49 < seele> for the presentation/drawing tools
+24.07.2008-20:49 <@boud> ms killed my windows partition through a borked upgrade, but I had office2007 to compare
+24.07.2008-20:49 < seele> yes, actually, the ribbon would be a good thing for her to look at as well
+24.07.2008-20:49 <@boud> yes
+24.07.2008-20:50 < seele> because it is organized very differently than the previous office tools were
+24.07.2008-20:50 < el> yes - and you are using office 2007, right neha?
+24.07.2008-20:50 < nehapahwa> I am very much familiar with MS Office
+24.07.2008-20:50 < nehapahwa> 2207
+24.07.2008-20:50 < nehapahwa> 2007...to be precise
+24.07.2008-20:50 <@boud> although from a practicaly pov, implementing a proper ribbon in Qt will be quite hard -- apart from the problem that ms copyrighted and patented the design
+24.07.2008-20:50 < nehapahwa> I really like the ribbon they have evolved
+24.07.2008-20:51 <@boud> using it for to check up on organisation of functionality is ok; but a design that includes a ribbon will be a problem.
+24.07.2008-20:51 < seele> no, but it is something to look at becasue it is different
+24.07.2008-20:51 < seele> especially the organization
+24.07.2008-20:51 < seele> sure
+24.07.2008-20:51 < el> it's task oriented - that's something we should look at
+24.07.2008-20:51 <@boud> I must say that 2007 was the first word since word 2.0 I liked :-)
+24.07.2008-20:52 < nehapahwa> I like 2007 too :-)
+24.07.2008-20:52 < el> so what are the goals when she's looking at other applications? 
+24.07.2008-20:52 < el> a) other word apps: how do they organise their options?
+24.07.2008-20:52 < nehapahwa> Well, while evaluating the use cases I looked at Word 2007 too
+24.07.2008-20:52 < seele> interaction of the tools with objects
+24.07.2008-20:52 < seele> how the tools are organized
+24.07.2008-20:52 < el> b) other docker apps: interaction
+24.07.2008-20:53 < seele> the types of things the tools can do.  do they just enable an option or do they have a richer interaction (e.g. photoshop's dockers do more than just enable a tool)
+24.07.2008-20:53 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+24.07.2008-20:53 < seele> oh, Krita has tool dockers
+24.07.2008-20:53 < seele> doh
+24.07.2008-20:53 < el> kword, too
+24.07.2008-20:54 < seele> does abi word use dockers or is it just a straight toolbar?
+24.07.2008-20:54 <@boud> all koffice apps except kexi and kplato use them
+24.07.2008-20:54 <@boud> abiword is basically word 2.0: no dockers
+24.07.2008-20:54 < seele> ok
+24.07.2008-20:56 < el> nehapahwa: in kword, the "tools" docker changes its contents depending on the object tool that is currently selected. that is when you select the text tool, it will show you text options. when you select the paint tool, it will show you paint options. then, there is a special select tool which will show you "select" options (rotate, etc)
+24.07.2008-20:56 < el> it would be interesting to see how other applications do that
+24.07.2008-20:56 <@boud> yes
+24.07.2008-20:56 <@boud> (in all koffice apps, it's basically the same, of course)
+24.07.2008-20:56 < el> do they also switch the contents of the tool docker? is that good or bad? why so?
+24.07.2008-20:57 < nehapahwa> sure...i will check that out
+24.07.2008-20:57 < el> and importantly, how do others do the select - in koffice, it's a separate mode
+24.07.2008-20:57 < el> this is not very handy
+24.07.2008-20:57 <@boud> maybe interesting to know that photoshop moved the contents of its tool docker (which was in top-right like ours) to a top toolbar between 5.5 and 6.0
+24.07.2008-20:58 <@boud> it works for them because they use pop-outs a lot
+24.07.2008-20:58 < el> boud, you mean the tool options or the toolbox?
+24.07.2008-20:58 < el> tool options i suppose?
+24.07.2008-20:58 <@boud> tool options docker
+24.07.2008-20:58 <@boud> the toolbox hasn't moved since the original mac paint :-)
+24.07.2008-20:59 < el> hehe
+24.07.2008-20:59 <@boud> everyone seems to be facing the same problem: Peter Sikking was telling me about his woes at lgm
+24.07.2008-20:59 < el> and do you feel it's an advantage? or haven't you used it yourself?
+24.07.2008-20:59 <@boud> the reason we put the option docker to the right is to accommodate wide screens -- maximize vertical work space
+24.07.2008-21:00 <@boud> but that gave us a problem in that the distance between toolbox and tooldocker is very large
+24.07.2008-21:00 < el> yeah, but in a toolbar you cannot put the full widgets - so you have more clicks. but well, depends of the design of the toolbar widgets..
+24.07.2008-21:00 <@boud> yes..
+24.07.2008-21:01 <@boud> I can invent all kinds of technical solutions that look cool, but I'm not an interaction designer.
+24.07.2008-21:01 <@boud> like semi-transparent floats that popup under the mouse on ctrl-shift-alt-meta-click
+24.07.2008-21:01 < el> hehe
+24.07.2008-21:02 < nehapahwa> :-)
+24.07.2008-21:05 <@boud> I actually think that that is close to what Peter Sikking wants for the Gimp, but gtk cannot support that. We could support it with Qt, if it is a sound design.
+24.07.2008-21:06 < seele> do you think neha should talk with peter?
+24.07.2008-21:06 < seele> i dont know how busy he is, i think he is at a conference for printing now
+24.07.2008-21:06 <@boud> he'll be at akademy, I know that.
+24.07.2008-21:06 <@boud> peter is generally busy enough that I only manage to speak with him when I meet him at lgm.
+24.07.2008-21:06 < seele> oh, speaking of akademy
+24.07.2008-21:06 < seele> el: after this meeting can we talk about other htings?
+24.07.2008-21:06 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+24.07.2008-21:06 < el> sure seele
+24.07.2008-21:07 < seele> ok
+24.07.2008-21:07 < el> boud, has he already written a spec for that?
+24.07.2008-21:07 < el> i know he hasn't before the lgm, but i think he wanted to work on it there
+24.07.2008-21:07 <@boud> I haven't seen anything yet
+24.07.2008-21:08 <@boud> which only means he hasn't blogged about it
+24.07.2008-21:08 < el> i can ask him
+24.07.2008-21:12 < seele> ok, so neha, do you have enough information to get started on a review?
+24.07.2008-21:13 < nehap> yes i do
+24.07.2008-21:13 <@boud> nehap: really, don't hesite to ask people on #koffice is you have questions, or to mail me directly
+24.07.2008-21:13 < el> when you have questions in the meaintime, send a mail or ping us in irc/skype
+24.07.2008-21:13 < el> wherever you see us
+24.07.2008-21:13 <@boud> I read mail almost 18/24 :-)
+24.07.2008-21:14 < nehap> sure boud...thanks
+24.07.2008-21:14 < nehap> thanks el
+24.07.2008-21:14 < el> thanks everybody
+24.07.2008-21:15 < nehap> thank you
+24.07.2008-21:15 <@boud> let's meet again next week?
+24.07.2008-21:19 < el> yes, what day is best?
+24.07.2008-21:20 < el> thursday again?
+24.07.2008-21:20 <@boud> yes
+24.07.2008-21:20 <@boud> (for me)
+24.07.2008-21:21 < seele> yes that is good
+24.07.2008-21:22 < nehap> good for me
+24.07.2008-21:22 < nehap> my internet connection is giving me problems :(
+24.07.2008-21:23 -!- nehapahwa [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+24.07.2008-21:23 < seele> nehap: let us know if you have any questions when youre doing your reviews
+24.07.2008-21:23 < nehap> sure
+24.07.2008-21:56 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+24.07.2008-21:56 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+24.07.2008-21:59 -!- nehap [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+24.07.2008-23:22 -!- el [n=el@91-67-52-228-dynip.superkabel.de] has quit []
+--- Day changed Sat Jul 26 2008
+26.07.2008-16:08 -!- seele [i=seele@nayuki.caffeine.nu] has left #sou-koffice []
+--- Log closed Sun Jul 27 13:30:04 2008
+--- Log opened Sun Jul 27 13:50:10 2008
+27.07.2008-13:50 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+27.07.2008-13:50 -!- ServerMode/#sou-koffice [+ns] by brown.freenode.net
+27.07.2008-13:50 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+27.07.2008-13:51 -!- Irssi: Join to #sou-koffice was synced in 58 secs
+--- Day changed Thu Jul 31 2008
+31.07.2008-01:36 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+31.07.2008-01:37 < nehap> hey @boud
+31.07.2008-01:42 < nehap> Are you there @boud?
+31.07.2008-02:08 -!- neha [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+31.07.2008-02:08 -!- neha [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+31.07.2008-02:10 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+--- Day changed Sat Aug 02 2008
+02.08.2008-14:39 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+02.08.2008-14:39 < seele> good morning
+02.08.2008-14:40 <@boud> good afternoon
+02.08.2008-15:04 -!- nehap [n=pahwaneh@70-101-64-25.dsl1-field.roc.ny.frontiernet.net] has joined #sou-koffice
+02.08.2008-15:05 < nehap> hello everybody
+02.08.2008-15:05 <@boud> hi nehap 
+02.08.2008-15:07 < nehap> hello @boud
+02.08.2008-15:07 < nehap> please check your mail, i have send the latest document for review.
+02.08.2008-15:08 < seele> ok
+02.08.2008-15:09 < seele> does MS have plans to eventually support odf?
+02.08.2008-15:10  * seele is reading the newest mail
+02.08.2008-15:11 < nehap> MS Office 2007 supports ODF
+02.08.2008-15:11 < nehap> http://www.microsoft.com/presspass/press/2008/may08/05-21ExpandedFormatsPR.mspx
+02.08.2008-15:11 < nehap> here's the link
+02.08.2008-15:11 < nehap> When using SP2, customers will be able to open, edit and save documents using ODF and save documents into the XPS and PDF fixed formats from directly within the application without having to install any other code. It will also allow customers to set ODF as the default file format for Office 2007.
+02.08.2008-15:14 <@boud> what's the difference between black and blue text?
+02.08.2008-15:15 < seele> nehap: ah, nice.  you should start using odf instead of doc format then :)
+02.08.2008-15:16 < nehap> ok :)
+02.08.2008-15:17 < seele> 1-5 deal with tools themselves and then 6 deals with the actual tool options functionality, correct?
+02.08.2008-15:17 < nehap> Black text was for the problems and I thought I would use blue text for solution/design but it somehow got mixed up.
+02.08.2008-15:17 < nehap> Sorry for that
+02.08.2008-15:17 <@boud> I wondered whether black was yours and blue comments by seele or el :-)
+02.08.2008-15:18 <@boud> I think this shows a pretty good grasp of the problems
+02.08.2008-15:18 < seele> i agree
+02.08.2008-15:18 < nehap> @boud: oh no, its being done by me
+02.08.2008-15:18 < seele> nehap: why dont you review what is in #6, that has some solutions for how you would change the tool options
+02.08.2008-15:18 < nehap> seele: well the 6th one is very problematic
+02.08.2008-15:19 < seele> nehap: that's why we will discuss it :)
+02.08.2008-15:19 < nehap> it exist as one of the dockers and not just the functionality
+02.08.2008-15:19 < seele> you have some questions written, maybe boud can help answer them
+02.08.2008-15:19 <@boud> well... 
+02.08.2008-15:20 <@boud> maybe start with "Thus, the question is what exactly does the tool option provide? "
+02.08.2008-15:20 < nehap> * looking at my own document
+02.08.2008-15:20 <@boud> basically, the tool option docker is a single docker (although it might be split into several) that shows the options associated with the currently selected tool
+02.08.2008-15:21 <@boud> the geometry etc. docker is associated with the default tool: the top-left arrow icon
+02.08.2008-15:21 <@boud> clicking on the text should activate the text tool, which should activate the text tool options
+02.08.2008-15:23 < seele> so one of the design options nehap is suggesting is organizing the tools in to tabs or some other component instead of throwing them all together?
+02.08.2008-15:23 < nehap> yes seele
+02.08.2008-15:23 < seele> what is the difference between just using tabs and implementing something similar to the ribbon?  isn't the ribbon just a set of tabs?
+02.08.2008-15:23 < seele> or is there something else significant about the ribbon i'm missing.  i know how they organize the tools is another big part
+02.08.2008-15:24 < seele> boud: any idea how much or what parts of the ribbon are patented?  just the display method or the organization too?
+02.08.2008-15:24 <@boud> could someone point me to an example of the photoshop quick selection tools?
+02.08.2008-15:24 < nehap> well ribbon is a set of tabs and then those tabs have their options in dropdown fashion whereas I am trying to use subtabs
+02.08.2008-15:24 <@boud> seele: basically the whole ui concept
+02.08.2008-15:26 < seele> gah
+02.08.2008-15:26 <@boud> ms has told its own customers they'd have to pay if they wanted to use the ribbon concept in their own applications
+02.08.2008-15:26 < seele> nehap: what part of photoshop tools are "quick selection"?  the tool boxes or the options in the tool bar?
+02.08.2008-15:26 <@boud> I've only got photoshop 7 here
+02.08.2008-15:27 < seele> that's total crap.  i could understand them patenting organization, because that would take a lot of research and development
+02.08.2008-15:27 < seele> and maybe the exact specification for the UI and interaction
+02.08.2008-15:27 < seele> but not the entire thing together, theyre two separate problems
+02.08.2008-15:27  * seele hates patenting in general..
+02.08.2008-15:27 < nehap> @boud:http://www.freetimefoto.com/photoshop/cs3/quick_selection_tool.html
+02.08.2008-15:27 <@boud> yes...
+02.08.2008-15:27 < nehap> here is the link for an example of quick selection tool
+02.08.2008-15:28 <@boud> thanks
+02.08.2008-15:28 < seele> boud: for example, what if we sunk a million euros in to user research for tool organization and came up with the same organization as MS?  they have precedence
+02.08.2008-15:28 <@boud> I think I see
+02.08.2008-15:28 <@boud> seele: we wouldn't be able to implement and not be sued
+02.08.2008-15:28 < seele> boud: ah, yeah.  so you first select a generic tool, and then you refine the tool and it gives you specific options
+02.08.2008-15:29 < seele> so say you click on the pain brush, which could be the paint brush or pencil
+02.08.2008-15:29 <@boud> yes
+02.08.2008-15:29 < seele> you would make that selection in the toolbar
+02.08.2008-15:29  * seele doesnt remember if 7 has this or not
+02.08.2008-15:29 < seele> is 7 cs1 or is it before the creative suite?
+02.08.2008-15:29 <@boud> it's the same principle we have, really, with a toolbox and options for the tools, but the tool options isn't a palette but a toolbar
+02.08.2008-15:29 < seele> yeah
+02.08.2008-15:29 <@boud> they changed from a palette to toolbar in 6
+02.08.2008-15:30 < nehap> quick selection tools cmprise of number of tools such as magic wand, crop, stamp etc. And these tools are placed in a box on the left side of the window
+02.08.2008-15:30 <@boud> but those are only shown if you've selected the selection tool in the toolbox, right?
+02.08.2008-15:31 < seele> how does selecting an object effect the tools available?  do you disable tools which don't appyl or do you still want to allow all tools to be selectable?
+02.08.2008-15:31 <@boud> I really should get a newer photoshop myself :-)
+02.08.2008-15:31 <@boud> in koffice or in photoshop?
+02.08.2008-15:31 < seele> in koffice
+02.08.2008-15:31 < seele> photoshop's objects work a little differently than objects in koffice
+02.08.2008-15:31 < seele> you can also do something with a tool seelcted in photoshop, you dont have a context problem
+02.08.2008-15:32 < seele> if you have a text layer selected and you want to draw a box, it just creates a new layer (i think, i dont have it open)
+02.08.2008-15:32 <@boud> some tools are disabled or disappear if they aren't useful for the active shape.
+02.08.2008-15:32 <@boud> other tools are used to create new shapes, so they are always active
+02.08.2008-15:32 < seele> but if you have an object selected in a document, should we only allow tools which can be applied to that object?  
+02.08.2008-15:32 < seele> ah ok
+02.08.2008-15:33 <@boud> hm, I see that the text tool no longer appears in krita when I create a text shape
+02.08.2008-15:33 <@boud> and then there are tools that affect your view: zoom and pan
+02.08.2008-15:33 < seele> nehap: so i think the next step is in two parts.  one would be mocking up one or all three of the solutions you suggest and use some sample tools
+02.08.2008-15:33 < nehap> @boud: what does pan do?
+02.08.2008-15:34 < seele> nehap: i think you should do at least two so we can compare pros and cons
+02.08.2008-15:34 <@boud> it moves the viewport over the document if not all of the document fits in the window
+02.08.2008-15:34 < seele> nehap: the second part is to begin organizing tools to see how they would be displayed and organized
+02.08.2008-15:34 < seele> nehap: do you have any more questions you need to ask me or boud about koffice or design in general?
+02.08.2008-15:35 <@boud> would it save time if I mailed a list of all tools & what they do, or would that hamper the categorizing effort?
+02.08.2008-15:35 < nehap> seele: I am not sure how do I go with the first part?
+02.08.2008-15:35 < nehap> @boud: that would be helpful i suppose
+02.08.2008-15:36 < seele> The tools on the left can be placed in the tool options docker as tabs. This means a single window of tool options docker will have all the tools in the form of tab. The features of the tools can be shown as sub tabs. Eg., as soon as you select a tool tab such as zoom, the rest of the tools  tabs should grey out. And only the features of zoom such as zoom in and zoom out should be displayed in the docker’s window which opens at the right side of th
+02.08.2008-15:36 < nehap> seele: and for the second part do you want me to make sketches
+02.08.2008-15:36 < seele> OR
+02.08.2008-15:36 < seele> Make it like Adobe Photoshop Quick Selection Tools. When user selects the tool, no docker window should appear on right. If needed, use dialog boxes.
+02.08.2008-15:37 < seele> nehap: mock those two designs up so we can compare pros and cons and see how it fits in with koffice
+02.08.2008-15:37 < seele> nehap: the second part (tool organization), they don't have to be mockups, you can just create groups in a text document,
+02.08.2008-15:38 < seele> nehap: you can also try to use some of the tool orgs you come up with as samples in your mockups for part 1
+02.08.2008-15:38 < seele> does that make more sense?
+02.08.2008-15:39 < seele> sketches or mockups for the tool option system, and notes or sketches on how the tools could be organzied and all their options
+02.08.2008-15:39 < nehap> seele: i am sorry seele..i am really confused.
+02.08.2008-15:39 < nehap> ok so for first part, i need to create sketches
+02.08.2008-15:40 < seele> ok.. part number 1: the actual tool option system.  you proposed three things in your document: the ribbon, left docker, or adobe style
+02.08.2008-15:40 < seele> i want you to create sketches/mockups of how that would work in koffice using one or more of the existing tools
+02.08.2008-15:40 < nehap> and second part could include notes which describe how to group functions together
+02.08.2008-15:40 < nehap> got you!!! :)
+02.08.2008-15:40 < seele> yes exactly!
+02.08.2008-15:40 < seele> yay!
+02.08.2008-15:41 < seele> sorry if i wastn clear enough
+02.08.2008-15:41 < nehap> :)
+02.08.2008-15:41 < nehap> no thats fine
+02.08.2008-15:41 < seele> so if you think the tool groups might differ depending on the tool option system, you might want to make a note of it as well
+02.08.2008-15:41 < seele> as it is, we can't use the ribbon concept.. but you might be able to get some ideas to create your own concept from it
+02.08.2008-15:42 < nehap> sure
+02.08.2008-15:42 < nehap> ok
+02.08.2008-15:42 < seele> any questions?
+02.08.2008-15:43 < nehap> i am good for now
+02.08.2008-15:43 < seele> ok cool.  boud do you have anything else? 
+02.08.2008-15:43 < seele> can someone send ellen the logs?  i dont have logging on in irssi
+02.08.2008-15:44 <@boud> i can do that
+02.08.2008-15:44 < seele> cool thanks
+02.08.2008-15:44 < seele> nehap: do you think we can meet again next week or will you need a few extra days to talk?
+02.08.2008-15:44 <@boud> gawd, I hate the table function of oowriter -- selecting stuff never works like I want
+02.08.2008-15:44 < seele> nehap: next weekend ellen and i will be at akademy so our schedules will be messed up
+02.08.2008-15:45 < seele> boud: are you going to akademy?
+02.08.2008-15:45 < nehap> I think Friday should be a good time
+02.08.2008-15:45 <@boud> I thought not
+02.08.2008-15:45 <@boud> but there's a small chance I will appear one or two days
+02.08.2008-15:45 <@boud> to talk to some nokia guys about a possible job
+02.08.2008-15:45 < seele> boud: ok.. see you there hopefully :)
+02.08.2008-15:45 < seele> nehap: i'll have to check with ellen, i'm not sure when she is arriving
+02.08.2008-15:45 <@boud> hopefully :-)
+02.08.2008-15:45 < seele> i get in in the AM CET so i can meet as long as i have internet
+02.08.2008-15:46 < nehap> seele: are you planning to attend HFES annual meet in september
+02.08.2008-15:46 < nehap> ?
+02.08.2008-15:46 < seele> nehap: probably not, i've already used 21 days vacation this year for my job :D
+02.08.2008-15:46 < seele> nehap: i usually only go to a conference if i present, otherwise i would always travel and never work
+02.08.2008-15:46 < nehap> oh, ok
+02.08.2008-15:46 < seele> i went to UPA in June
+02.08.2008-15:47 < seele> probably CHI next year because it is in Boston (1.5 hr flight from DC)
+02.08.2008-15:47 < nehap> great, my professors went to UPA meet
+02.08.2008-15:47 < nehap> yeah...NYC is like an hour flight from my place, so I might attend hFES
+02.08.2008-15:47 < seele> cool, maybe i talked with them!  i was helping my graduate school with their booth by talking about the program 
+02.08.2008-15:48 < seele> will your school pay for it?  
+02.08.2008-15:48 < nehap> great!!
+02.08.2008-15:48 < nehap> i am not sure, i have asked them but no answer yet:(
+02.08.2008-15:48 < seele> good luck with that, i hope they at least pay for registration
+02.08.2008-15:49 < nehap> yeah!! its just $185 for whole week
+02.08.2008-15:49 < nehap> so should not be a big deal for such a big school :)
+02.08.2008-15:50 < nehap> does HFES hold good opprtunities for students who are looking for full time opportunities in HCI?
+02.08.2008-15:51 < seele> as a profession?  it depends on where you work
+02.08.2008-15:51 < seele> in DC it is big because there is a lot of government and aeronautics
+02.08.2008-15:51 < seele> and a big usability industry
+02.08.2008-15:51 < seele> Boston is good for that too
+02.08.2008-15:52 < seele> all of the human factors engineers i know do a lot of user research and testing
+02.08.2008-15:52 < nehap> well, i am an international student with no security clearance, this makes my job harder
+02.08.2008-15:52 < nehap> thats good!!
+02.08.2008-15:52 < seele> nehap: i would look at human factors international and see if htey have any internships in your area
+02.08.2008-15:52 < seele> i know a few people who work for them too
+02.08.2008-15:53 < nehap> thanks seele
+02.08.2008-15:53 < nehap> i appreciate it!!
+02.08.2008-15:53 < seele> they have offices all over the world, so even if they cant hire you in the US, they might have something somewhere else
+02.08.2008-15:53 < seele> i know they have a big office in india and one in china
+02.08.2008-15:53 < nehap> sounds good!!
+02.08.2008-15:53 < seele> good luck
+02.08.2008-15:53 < nehap> thanks seele
+02.08.2008-15:54 < seele> talk to you next week, let me know if you have any questions
+02.08.2008-15:54 <@boud> same here
+02.08.2008-15:54 <@boud> I'll mail my list of tools round today
+02.08.2008-15:55 < nehap> sure, thanks @boud, thanks seele
+02.08.2008-15:55 < nehap> talk to you next week
+02.08.2008-15:56 <@boud> I might miss one or two, though -- these tools breed like white mice
+02.08.2008-16:19 -!- nehap [n=pahwaneh@70-101-64-25.dsl1-field.roc.ny.frontiernet.net] has quit [Read error: 110 (Connection timed out)]
+--- Day changed Sun Aug 03 2008
+03.08.2008-00:07 -!- nehap [n=pahwaneh@cpe-74-65-30-165.rochester.res.rr.com] has joined #sou-koffice
+03.08.2008-00:28 -!- nehap [n=pahwaneh@cpe-74-65-30-165.rochester.res.rr.com] has quit [Read error: 110 (Connection timed out)]
+--- Day changed Mon Aug 04 2008
+04.08.2008-23:54 -!- seele [i=seele@nayuki.caffeine.nu] has left #sou-koffice []
+--- Day changed Fri Aug 08 2008
+08.08.2008-13:03 -!- nehap [n=pahwaneh@cpe-74-65-30-165.rochester.res.rr.com] has joined #sou-koffice
+08.08.2008-14:49 -!- nehap [n=pahwaneh@cpe-74-65-30-165.rochester.res.rr.com] has quit [Read error: 110 (Connection timed out)]
+08.08.2008-15:18 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+08.08.2008-15:18 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Client Quit]
+08.08.2008-20:07 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+08.08.2008-20:16 < nehap> hi @boud
+08.08.2008-20:19 -!- nehap [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+08.08.2008-20:28 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+08.08.2008-20:28 -!- nehap [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+--- Day changed Fri Aug 15 2008
+15.08.2008-12:12 -!- nehap [n=pahwaneh@70-101-64-25.dsl1-field.roc.ny.frontiernet.net] has joined #sou-koffice
+15.08.2008-12:13 -!- nehap [n=pahwaneh@70-101-64-25.dsl1-field.roc.ny.frontiernet.net] has left #sou-koffice []
+--- Log closed Sat Aug 16 01:21:10 2008
+--- Log opened Sat Aug 16 07:26:15 2008
+16.08.2008-07:26 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+16.08.2008-07:26 -!- ServerMode/#sou-koffice [+ns] by clarke.freenode.net
+16.08.2008-07:26 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+16.08.2008-07:27 -!- Irssi: Join to #sou-koffice was synced in 56 secs
+--- Log closed Tue Aug 19 09:06:07 2008
+--- Log opened Tue Aug 19 09:06:12 2008
+19.08.2008-09:06 -!- boud [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+19.08.2008-09:06 -!- ServerMode/#sou-koffice [+ns] by card.freenode.net
+19.08.2008-09:06 -!- Irssi: #sou-koffice: Total of 1 nicks [1 ops, 0 halfops, 0 voices, 0 normal]
+19.08.2008-09:07 -!- Irssi: Join to #sou-koffice was synced in 58 secs
+--- Day changed Wed Aug 20 2008
+20.08.2008-20:13 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+20.08.2008-20:13 < seele> hi.. i havent heard from ellent
+20.08.2008-20:16 <@boud> hi
+20.08.2008-20:17 -!- Netsplit card.freenode.net <-> irc.freenode.net quits: seele
+20.08.2008-20:18 -!- Netsplit over, joins: seele
+20.08.2008-20:28 <@boud> I'm not totally sure this is going to work out...
+20.08.2008-20:29 < seele> ok. maybe we will need to reschedule for next week so we have a few days to talk about and agree on a meeting time
+20.08.2008-20:29 <@boud> yes
+20.08.2008-20:30 <@boud> I must admit that I didn't have the time to read neha's stuff yet, either.
+20.08.2008-20:30 < seele> :)
+20.08.2008-20:30 <@boud> just manager to land a new job, gave the boot to my real-estate agent and had a lot of real life
+20.08.2008-20:37 -!- Netsplit card.freenode.net <-> irc.freenode.net quits: seele
+20.08.2008-20:39 -!- Netsplit over, joins: seele
+20.08.2008-21:17 -!- seele [i=seele@nayuki.caffeine.nu] has left #sou-koffice []
+--- Day changed Fri Aug 22 2008
+22.08.2008-19:49 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+22.08.2008-19:57 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+22.08.2008-20:04 -!- el_ [n=el@pd95699b2.dip0.t-ipconnect.de] has joined #sou-koffice
+22.08.2008-20:04 < el_> hi, - oh is boud here or only his second I?
+22.08.2008-20:04 < el_> second me, i mean
+22.08.2008-20:07 < seele> hmm
+22.08.2008-20:10 -!- nehapahwa [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+22.08.2008-20:10 < nehapahwa> hi 
+22.08.2008-20:10 < seele> hello
+22.08.2008-20:11 < el_> hi nehap 
+22.08.2008-20:11  * el_ is still reading the documents you sent
+22.08.2008-20:13 < el_> i'm done - seele, what about you?
+22.08.2008-20:14 < seele> sorry had a phone call.. still reading
+22.08.2008-20:15 < seele> nehapahwa: you have very nice handwriting!
+22.08.2008-20:17 < nehapahwa> :) thanks seele
+22.08.2008-20:17 < el_> oh no, kword just crashed... :-//
+22.08.2008-20:17 < el_> now that i painted such a lot of nice things 
+22.08.2008-20:18 < seele> ok done
+22.08.2008-20:18 < seele> nehapahwa: if you are looking for a design tool, axure has a 30 day unlimited trial period
+22.08.2008-20:18 < seele> i think they have student rates too, but they are still expensive
+22.08.2008-20:18 < seele> i think you can go in the registry and reset the trial period though
+22.08.2008-20:19 < el_> i have an axure beta version
+22.08.2008-20:19 < el_> you can use it if you set the date to somehting before april 2008 before starting the app ;-)
+22.08.2008-20:19 < el_> i will send you a link later, nehap 
+22.08.2008-20:19 < nehapahwa> i never heard about it, thanks for letting me know about it
+22.08.2008-20:19 < nehapahwa> thanks el
+22.08.2008-20:19 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+22.08.2008-20:20 < el_> you can reset the date as soon as axure is started, hehe, that's so cool :)
+22.08.2008-20:20 < nehapahwa> that's smart :)
+22.08.2008-20:20 < el_> so - back to your work. it's really good i think!
+22.08.2008-20:21 < nehapahwa> thanks el!!
+22.08.2008-20:21 < seele> i had a question about greying out tabs, is that only for paths creation?
+22.08.2008-20:22 < seele> i dont see it mentioned for the other tools
+22.08.2008-20:22 < nehapahwa> no, its for every tab
+22.08.2008-20:22 < nehapahwa> i just wrote it initially, i am sorry i should have made it clea
+22.08.2008-20:22 < nehapahwa> clear
+22.08.2008-20:23 < el_> i wonder if we cannot have the same effect by changing the title of the tool docker to the name of the tab title
+22.08.2008-20:23 < el_> so when you click a shape, the title is "shape docker" instead of "tool docker"
+22.08.2008-20:23 < seele> yeah
+22.08.2008-20:24 < el_> or rather "Geometry" (as that's the default tool docker, right?)_
+22.08.2008-20:24 < nehapahwa> yes...that would be more clear
+22.08.2008-20:25 < nehapahwa> the default tool option has actually three tabs: geometry, advanced and transformation
+22.08.2008-20:25 < nehapahwa> i just combined all three in one
+22.08.2008-20:25 < nehapahwa> but yes it definitely refers to the geometrical shapes and figures
+22.08.2008-20:26 < el_> advanced is order, transformation, etc?
+22.08.2008-20:26 < el_> maybe we still find a better title. i wouldn't expect order under geometry
+22.08.2008-20:28 < nehapahwa> Currently, order is under the advanced tab
+22.08.2008-20:28 < el_> i'm a bit unsure about formatting - should it be a separate docker or should it replace the "geometry" docker?
+22.08.2008-20:28 < nehapahwa> Format Docker actually exist seperately.
+22.08.2008-20:29 < nehapahwa> We should stick to that format docker when we are dealing with text
+22.08.2008-20:31 < el_> we need it, definitely. i just wonder if it should be permanently shown or if it should disappear when the user clicks a shape or creates a path
+22.08.2008-20:31 < el_> the latter would be the same behaviour as the current tool option when you are writing
+22.08.2008-20:31 < el_> it disappears when you select a shape
+22.08.2008-20:31 < el_> but i think it makes sense to keep it permanently visible
+22.08.2008-20:32 < el_> hopefully, one day it will be possible to add text to a shape, then you need formatting optons for a shape
+22.08.2008-20:32 < el_> (you need both formatting and moving at the same time)
+22.08.2008-20:32 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+22.08.2008-20:33 < nehap> Did I missed on something, I am sorry my mIRC was crashed :(
+22.08.2008-20:33 < el_> what was the last you read?
+22.08.2008-20:33 < nehap> I was explaining about the tool options in my sketches
+22.08.2008-20:33 < nehap> <nehapahwa> But when we are dealing with shapes and geometrical figures, then the user should select tool options (or a much better title), and the same window would appear as I have proposed
+22.08.2008-20:33 < nehap> <nehapahwa> in my sketches
+22.08.2008-20:34 < el_> ok, i wrote the following:
+22.08.2008-20:35 < el_> (i was referring to the format docker)
+22.08.2008-20:35 < el_> el_: we need it, definitely. i just wonder if it should be permanently shown or if it should disappear when the user clicks a shape or creates a path
+22.08.2008-20:35 < el_> [20:31] el_: the latter would be the same behaviour as the current tool option when you are writing
+22.08.2008-20:35 < el_> [20:31] el_: it disappears when you select a shape
+22.08.2008-20:35 < el_> [20:31] el_: but i think it makes sense to keep it permanently visible
+22.08.2008-20:35 < el_> [20:32] el_: hopefully, one day it will be possible to add text to a shape, then you need formatting optons for a shape
+22.08.2008-20:35 < el_> we should work out what the user wants to do when a certain tool is selectd
+22.08.2008-20:36 < el_> as you can see above, when thedefault tool is selected, you might want to do more than only changing the geometry
+22.08.2008-20:36 < el_> you might want to change the font style of that shape to bold
+22.08.2008-20:36 < el_> but you might also want to change the color of that shape - currently there is no way to do that
+22.08.2008-20:37 < nehap> yes, i pointed these features in my last document
+22.08.2008-20:37 < el_> right
+22.08.2008-20:37 < el_> and i think the challenge now is to find out what exactly would people like to do with objects
+22.08.2008-20:37 < el_> and how to present that in the dockers
+22.08.2008-20:38 < el_> possibly, one docker is not enough per tool (see the shapes example - you want to change color and position)
+22.08.2008-20:40 < nehap> that's true, but will the users use such a wide variety of features just for the shapes; kword is a text based application 
+22.08.2008-20:40 < nehap> like transformation, shearing, scaling, gradient editing, pan 
+22.08.2008-20:41 < el_> that's exactly what you should define next
+22.08.2008-20:41 < el_> go through each single type of object you might have in a document, and define what the most important functionality is
+22.08.2008-20:41 < nehap> I believe that we should give easy access to users to tables, charts, basic geometrical figures
+22.08.2008-20:42 < nehap> hmmmm....got you
+22.08.2008-20:42 < el_> yes, and now try to go one step further and define what users will do with tables, charts, figures, pictures...
+22.08.2008-20:42 < nehap> sounds good...
+22.08.2008-20:43 < el_> i fully agree with you that a lot of the options in the current dockers are not suitable for kword
+22.08.2008-20:44 < el_> they are for krita, where users will do high-end image editing
+22.08.2008-20:44 < nehap> yes...
+22.08.2008-20:44 < nehap> I believe we should give users more features related to text
+22.08.2008-20:44 < el_> i think a lot of what you define for kword will be re-usable for kpresenter
+22.08.2008-20:44 < nehap> hmm..
+22.08.2008-20:44 < nehap> yeah
+22.08.2008-20:45 < el_> for the text formatting, i think i should explain the paragraph and character style thing
+22.08.2008-20:46 < el_> the idea behind having those styles is that users apply a generic formatting, like in html
+22.08.2008-20:46 < el_> when you mark a heading as <heading 1> in html, you can change the template of the document later on and the heading will still be a heading
+22.08.2008-20:46 < el_> that's exactly what the kword people want to accomplish here with the styles
+22.08.2008-20:47 < el_> users should not set a font type and size for a single line of text, but should use predefined styles
+22.08.2008-20:47 < el_> so when you realise "i don't like how headings look in this document" you will only have to change one style, and not each single heading in the document
+22.08.2008-20:48 < el_> that's why they do not provide "font type" and "font size" in the docker
+22.08.2008-20:48 < el_> got it?
+22.08.2008-20:49 < el_> i like the concept of using styles, though i do not really understand the separation of paragraph and character styles
+22.08.2008-20:50 -!- nehapahwa [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+22.08.2008-20:50 < nehap> yes..i got it
+22.08.2008-20:51 < el_> when you think about the formatting docker, consider the styles concept. but if you find it important (from a users perspective) that there are font types and sizes, re-add them
+22.08.2008-20:52 < nehap> well with paragraph style, i mean to state that the formatting can be done such as giving space after every paragraph
+22.08.2008-20:52 < nehap> or giving space within the lines of the paragraph
+22.08.2008-20:52 < el_> right. but when you probe it, it also applies a character style (font size, font type)
+22.08.2008-20:53 < el_> and honestly, if it wouldn't, it would be very bothersome to always press twice "heading 1" to get both the proper alignment and font type
+22.08.2008-20:53 < nehap> yeah...i understood you
+22.08.2008-20:53 < nehap> i misinterpreted it
+22.08.2008-20:54 < el_> it's confusing in the current way, that's all i wanted to explain in these many words :)
+22.08.2008-20:54 < nehap> i got you :) i myself got confused several timings
+22.08.2008-20:55 < nehap> times*
+22.08.2008-20:55 < el_> :)
+22.08.2008-20:56 < el_> ok, so the task for next meeting is to look at the objects in a document and define what you might want to do with it / what options need to be available for it
+22.08.2008-20:56 < nehap> ok
+22.08.2008-20:57 < nehap> so when are we meeting next?
+22.08.2008-20:58 < el_> season of usability is almost done, so i think this is more or less our last task. we will talk about it next week, and then you should still put it into a "presentable" form afterwards. ok?
+22.08.2008-20:59 < nehap> yes....but is it possible that I can still be involved with this work even if the season of usability is ending
+22.08.2008-20:59 < el_> wow, that would be nice :)
+22.08.2008-20:59 < nehap> great:)
+22.08.2008-20:59 < el_> :)
+22.08.2008-21:00 < el_> next meeting, hm, when are you available?
+22.08.2008-21:00 < nehap> thursday or friday are the most suitable days for me
+22.08.2008-21:01 < el_> i'm on a concert thursday evening. let's send a mail to the others to see if they are available friday
+22.08.2008-21:03 < el_> ok, neha, then thanks for your work - i really think we're getting somewhere :)
+22.08.2008-21:06 < seele> sorry, i had a phone call
+22.08.2008-21:07 < seele> hmm.. next friday if it is at 11/5 or after 4/10 unfortunately
+22.08.2008-21:07 < el_> maybe saturday then?
+22.08.2008-21:08 < el_> 11/5 would be fine with me, too, though
+22.08.2008-21:08 < el_> but boud is probably still at work
+22.08.2008-21:08 < el_> let's arrange by mail
+22.08.2008-21:10 -!- nehapahwa [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+22.08.2008-21:11 < nehapahwa> I think I got disconnected again
+22.08.2008-21:11 < nehapahwa> when are we supposed to meet again?
+22.08.2008-21:13 -!- nehapahwa [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+22.08.2008-21:19 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+22.08.2008-21:21 -!- el_ [n=el@pd95699b2.dip0.t-ipconnect.de] has quit []
+--- Day changed Sat Aug 23 2008
+23.08.2008-01:48 -!- Netsplit card.freenode.net <-> irc.freenode.net quits: seele
+23.08.2008-01:50 -!- Netsplit over, joins: seele
+23.08.2008-01:50 -!- Netsplit card.freenode.net <-> irc.freenode.net quits: seele
+23.08.2008-01:51 -!- Netsplit over, joins: seele
+23.08.2008-15:13 -!- Netsplit card.freenode.net <-> irc.freenode.net quits: seele
+23.08.2008-15:14 -!- Netsplit over, joins: seele
+--- Day changed Mon Aug 25 2008
+25.08.2008-20:44 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+25.08.2008-20:47 -!- nehap [n=pahwaneh@rm23397.rit.edu] has left #sou-koffice []
+--- Day changed Tue Aug 26 2008
+26.08.2008-20:40 -!- seele [i=seele@nayuki.caffeine.nu] has left #sou-koffice []
+--- Day changed Fri Aug 29 2008
+29.08.2008-16:41 -!- el_ [n=el@pd95699b2.dip0.t-ipconnect.de] has joined #sou-koffice
+29.08.2008-17:11 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+29.08.2008-17:14 < el_> hi nehap 
+29.08.2008-17:14 < el_> give me a few minutes to read.... 
+29.08.2008-17:15 < nehap> hi el...please take your time
+29.08.2008-17:21 < el_> ok, done with reading and just starting up my koffice...
+29.08.2008-17:21 < el_> nehap: for the text tool options - do you suggest to show all the options you describe in the document onto one tab or would you split it?
+29.08.2008-17:26 -!- neha_p [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+29.08.2008-17:26 < el_> first and foremost, for my understanding: did you find the options (style, size, colors, etc) you describe here in koffice or is that how you think it _should_ be? i'm not quite sure because the heading says "KWord offers a wide variety..." while i don't find it in koffice that way
+29.08.2008-17:26 < el_> ah, hehe, welcome back :)
+29.08.2008-17:27 < neha_p> i am sorry my internet connection went down
+29.08.2008-17:27 < el_> no prob
+29.08.2008-17:27 < neha_p> :) These options are already present in the Kword
+29.08.2008-17:28 < neha_p> I would like to define all these functionalities under one tab. Even in my sketch last week,
+29.08.2008-17:28 < neha_p> I had tried to put all these functionalities under the tool options tab.
+29.08.2008-17:29 < el_> yes, i think that's good. you should have the most important functionality in one click
+29.08.2008-17:29 < el_> celeste just sent a mail if we should meet at 12/6
+29.08.2008-17:29 < el_> did you see it?
+29.08.2008-17:30 < neha_p> yeah..when the user will be working with the text, he at some point or the other going to use all these functionalities...checking celeste email
+29.08.2008-17:31 < neha_p> I am available till 12:20
+29.08.2008-17:31 < neha_p> I have my capstone meeting at 12:30
+29.08.2008-17:31 < neha_p> will this work?
+29.08.2008-17:32 < el_> maybe a bit too short
+29.08.2008-17:32 < el_> let's continue and celeste will join in 
+29.08.2008-17:33 < neha_p> ok
+29.08.2008-17:33 < el_> to come back to the question above - how exactly did you come up with the options? is all that available in koffice but you re-arranged/re-prioritised it?
+29.08.2008-17:34 < neha_p> yes these are all available in Koffice, i actually re arranged them
+29.08.2008-17:35 < el_> ok. can you create a visual mockup for that? that would be great
+29.08.2008-17:35 < el_> have you tried axure btw?
+29.08.2008-17:35 < neha_p> I am sorry, not yet :(
+29.08.2008-17:36 < el_> no worries - it is helpful to create mockups with real comboboxes, checkboxes, etc
+29.08.2008-17:36 < neha_p> yes...i understand that
+29.08.2008-17:36 < el_> otherwise you can first do a hand-drawn mockup
+29.08.2008-17:36 < el_> that's also fine
+29.08.2008-17:37 < neha_p> I will try doing it with axure this time
+29.08.2008-17:37 -!- seele [i=seele@nayuki.caffeine.nu] has joined #sou-koffice
+29.08.2008-17:37 < seele> hi
+29.08.2008-17:37 < neha_p> hi seele
+29.08.2008-17:37 < el_> hi seele!
+29.08.2008-17:38 < seele> ok, opening neha's doc
+29.08.2008-17:38 < el_> we are still in the first section about text options
+29.08.2008-17:39 < el_> neha wrote down what options should be available when writing text (it's all available in kword already but needs to be rearranged)
+29.08.2008-17:40 < seele> that's everything before the Shape section, correct?
+29.08.2008-17:40 < el_> yes
+29.08.2008-17:42 < seele> what about highlight/background color?
+29.08.2008-17:42 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+29.08.2008-17:42 < el_> neha, i g
+29.08.2008-17:42 < el_> ups
+29.08.2008-17:42 < seele> i'm not sure about bullets/numbering and indentation, that seems to be more related to paragraph than text
+29.08.2008-17:43 < seele> although, same with alignment
+29.08.2008-17:43 < seele> so maybe they are expected with text
+29.08.2008-17:43 < seele> currently that is how open office groups them, but i wonder if they are really associated with "text" instead of "paragraph" or not
+29.08.2008-17:43 < el_> the question is if we provide two different dockers for text and paragraph
+29.08.2008-17:43 < el_> but we have to show both at the same time when writing anyway
+29.08.2008-17:44 < neha_p> yeah...i agree with el
+29.08.2008-17:44 < neha_p> numbering/intending is also the most commonly used feature along with font, size and style
+29.08.2008-17:44 < el_> that's true
+29.08.2008-17:45 < neha_p> seele: the background color is described in the section 'colors'
+29.08.2008-17:45 < el_> i also got some questions about the actual design of some of the options
+29.08.2008-17:45 < el_> currently, kword does not offer actual text sizes (10,11 etc) in the docker, only increase/decrease
+29.08.2008-17:46 < seele> neha_p: i'm just not sure if that is the best place for it.  it is a text attribute, not a decoration.  just like text color is an attribute
+29.08.2008-17:46 < el_> that's to keep the actual style independent from that tagging
+29.08.2008-17:47 < neha_p> seele: are you talking about the background color..i am sorry, i am lost
+29.08.2008-17:48 < neha_p> el: the font size is present in the tool options docker but you are right that format docker only allows to increase or decrease size
+29.08.2008-17:49 < el_> neha_p: would you provide fixed font sizes or the relative increase/decrease buttons or both? 
+29.08.2008-17:49 < neha_p> el: my opinion was to keep the format docker as primary docker and introduce the best features available from tool options into the format
+29.08.2008-17:50 < neha_p> because users are much familiar with the terminolofy 'format' rather than the 'tool options'
+29.08.2008-17:50 < neha_p> el: I would prefer fixed font sizes
+29.08.2008-17:50 < el_> ok, so you have a permanent format docker. i think that makes sense when we get shapes with text, otherwise you wont be able to format the text of multiple shapes properly
+29.08.2008-17:51 < el_> neha_p: why so?
+29.08.2008-17:51 < neha_p> yes that's true
+29.08.2008-17:52 < neha_p> I would prefer fixed font sizes because it would be easier for me to handle the whole document
+29.08.2008-17:52 < el_> hm. seele, do you have an opinion on that? 
+29.08.2008-17:53 < neha_p> if I had created the document in pieces, it would make more sense for me if I know the font size
+29.08.2008-17:53 < el_> neha_p: when you copy/paste?
+29.08.2008-17:55 -!- nehap [n=pahwaneh@rm23397.rit.edu] has joined #sou-koffice
+29.08.2008-17:55 < nehap> Did I missed on something...my internet connection is giving me a hard time
+29.08.2008-17:56 < seele> el_: not sure, because i always assume the style will take care of my fonts for me
+29.08.2008-17:56 < seele> and i always make sure the element has the right style so it will look OK on other people's computers
+29.08.2008-17:56 < el_> seele, yes, that's what the increase/decrease is meant to do
+29.08.2008-17:56 < seele> i think MS Office 2007 uses font + - by default, adjusting the pt level is an advanced option now
+29.08.2008-17:57 < el_> instead of changing the font color, you only give a bigger/smaller tag
+29.08.2008-17:57 < el_> i actually think it's neat
+29.08.2008-17:57 < seele> i'm OK with +/-, if you arent using a style then you treat it like a wysiwyg 
+29.08.2008-17:57 < el_> but well, the users have to understand it...
+29.08.2008-17:57 < seele> i dont think it will be hard
+29.08.2008-17:57 < nehap> that's a good point...i didn't thought about it
+29.08.2008-17:57 < seele> infact, i think google docs does it too
+29.08.2008-17:58 < seele> maybe we could do a split dropdown
+29.08.2008-17:58 < seele> if you click + or - it does one level of that action
+29.08.2008-17:58 < seele> but if you click and hold, you can see the font sizes
+29.08.2008-17:59 < el_> but it would still set a relative font size
+29.08.2008-17:59 < el_> so if 10 is my default and i set it to 12, its 14 in another style that uses 12 as default size
+29.08.2008-17:59 -!- neha_p [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 60 (Operation timed out)]
+29.08.2008-17:59 < seele> yeah, smallest, small, normal, big, bigger?
+29.08.2008-17:59 < seele> maybe with smallest (8pt) to give a sense of size?
+29.08.2008-18:00 < el_> yeah. 
+29.08.2008-18:01 < el_> but we might need more steps
+29.08.2008-18:02 < el_> another design detail is about the color widget
+29.08.2008-18:02 < el_> nehap: in the document you write that color opens the color dialog
+29.08.2008-18:02 < el_> we might offer a split dropdown here as well with the most common colors
+29.08.2008-18:03 < el_> so users won't need to open the dialog every time
+29.08.2008-18:04 < nehap> it actually gives a drop down box with the most common colors
+29.08.2008-18:04 < el_> really? where is that?
+29.08.2008-18:04 < nehap> and then there is a button within the box that gives the way to more colors 
+29.08.2008-18:05 < nehap> el: checking...
+29.08.2008-18:06 < seele> nehap: is it using the standard kde color chooser widget/
+29.08.2008-18:06 < nehap> In the tool options docker, there is color: written 
+29.08.2008-18:06 < nehap> and beside it is the text and the background color
+29.08.2008-18:07 < el_> nehap: which tool is selected?
+29.08.2008-18:07 < nehap> it is actually showing a drop down sign beside its icon
+29.08.2008-18:07 < el_> bescause i don't see it
+29.08.2008-18:07 < nehap> seele: i am not sure about that
+29.08.2008-18:08 < nehap> el: You need to select the docker called 'tool options'
+29.08.2008-18:08 < el_> maybe you got a different version?
+29.08.2008-18:08 < el_> tool options under style?
+29.08.2008-18:08 < nehap> maybe; i can send you the screen shot of it
+29.08.2008-18:09 < el_> great, thanks
+29.08.2008-18:10 < el_> for bullets: currently, bullet styles are in a combobox
+29.08.2008-18:11 < el_> it is really difficult to select a bullet style becuase there is no preview
+29.08.2008-18:11 < el_> there should be a quick way to make a default bullet and a default numbered list
+29.08.2008-18:12 < el_> nehap: can you create a mockup of a better solution than the combobox?
+29.08.2008-18:13 < nehap> yes i will try for it
+29.08.2008-18:13 < el_> great
+29.08.2008-18:14 < el_> and my last issue is predefined text formats. would you merge character and paragraph styles or provide two lists as currently?
+29.08.2008-18:15 < nehap> hmmm...i am not sure about that
+29.08.2008-18:15 < el_> you have to leave in 5 minutes, right?
+29.08.2008-18:15 < nehap> Yes
+29.08.2008-18:16 < el_> i think the styles should be merged. it's too complicated like that
+29.08.2008-18:16 < el_> we should ask boud why they did it
+29.08.2008-18:16 < nehap> I would definitely try to merge it
+29.08.2008-18:16 < nehap> Yes...I agree with you el
+29.08.2008-18:17 < nehap> Sure...do you want me to ask boud?
+29.08.2008-18:17 < el_> nehap: for the next meeting, can you mock all this up? and please also think about the sequence of options (like seele pointed out in the beginning - maybe you need to group options other than described in the document)
+29.08.2008-18:17 < nehap> yes...
+29.08.2008-18:17 < el_> yes, please ask him
+29.08.2008-18:17 < nehap> ok
+29.08.2008-18:18 < el_> nehap: if you think that there are multiple ways to group options, you can create alternatives and we discuss them
+29.08.2008-18:18 < el_> no need to do it in axure
+29.08.2008-18:18 < nehap> yeah...that sounds like a good idea
+29.08.2008-18:18 < nehap> ok el
+29.08.2008-18:18 < el_> seele: do you have anything to add?
+29.08.2008-18:21 < seele> no, i think mockups are a good idea
+29.08.2008-18:22 < seele> i'ts getting hard to visualize some of the details in her documents
+29.08.2008-18:22 < seele> (sorry, phone was rining)
+29.08.2008-18:23 < el_> shall she create mockups for all dockers or should we first discuss the suggestions in the document?
+29.08.2008-18:27 < seele> we can finish discussing the document
+29.08.2008-18:27 < seele> since we just did text
+29.08.2008-18:28 < seele> gah, the PHONE AGAIN
+29.08.2008-18:30 < seele> nehap: is shape collection and shape tools two separate dockers?
+29.08.2008-18:31 < seele> hmm.. the other ones seem straight forward.. i think text is complicated because it is very tied in to paragraphs and styles
+29.08.2008-18:31 < seele> el_: maybe she is ready to just mock them up?
+29.08.2008-18:34 < el_> seele: neha had to leave at 18.20
+29.08.2008-18:35 < el_> i don't think the others are so straight forward - for shapes, there should also be options to change the shape color. i think geometry/resizing is not sufficient
+29.08.2008-18:42 -!- nehap [n=pahwaneh@rm23397.rit.edu] has quit [Read error: 110 (Connection timed out)]
+29.08.2008-18:44 < el_> is the only way to change the color of a shape to select the gradient tool? stroke can be changed by the shape properties docker, but color seems to be the gradient tool.....
+29.08.2008-18:44 < seele> yeah, i was going to ask 
+29.08.2008-18:44 < seele> gradient by itself isnt a lot but color seems to be implied
+29.08.2008-18:44 < el_> once we got the docker contents we really have to work on the tool interaction
+29.08.2008-18:44 < seele> or texture too
+29.08.2008-18:45 < el_> neha said she is going to continue her work on kword
+29.08.2008-18:45 < seele> oh great!
+29.08.2008-18:46 < el_> yes :)
+29.08.2008-18:49 < el_> gradients can only be applied to shapes, right? why is it a separate tool then and not a shape property?
+29.08.2008-18:52 < seele> no, i think they can be applied to pattners and curves too
+29.08.2008-18:55 < el_> but patterns are also applied to shapes
+29.08.2008-18:56 < el_> and i think when you single click a curve, it should provide the same options as the shape
+29.08.2008-18:56 < el_> move/resize/change style
+29.08.2008-18:56 < el_> only when you double click the curve should be editable (path tool)
+29.08.2008-18:56 < seele> oh. hmm
+29.08.2008-18:57 < seele> should the curve be part of shapes then?
+29.08.2008-18:57 < seele> same with patterns?
+29.08.2008-18:57 < el_> no, i think curve is a tool, but pattern is a property of a shape, a path or a curve
+29.08.2008-18:58 < el_> gradient/pattern is more like the background color of an object
+29.08.2008-18:59 < el_> and shapes, paths, curves are objects
+29.08.2008-18:59 < el_> that's how i understand it here in kword
+29.08.2008-18:59 < el_> oh, crashed.... :-/
+29.08.2008-19:04 < el_> i'm about to leave... enjoy the weekend!
+29.08.2008-19:06 -!- el_ [n=el@pd95699b2.dip0.t-ipconnect.de] has left #sou-koffice []
+29.08.2008-19:10 -!- seele [i=seele@nayuki.caffeine.nu] has left #sou-koffice []
+--- Log closed Thu Sep 04 13:12:40 2008
+--- Log opened Thu Sep 04 13:17:45 2008
+04.09.2008-13:17 -!- boud_ [n=boud@calcifer.xs4all.nl] has joined #sou-koffice
+04.09.2008-13:17 -!- Irssi: #sou-koffice: Total of 2 nicks [1 ops, 0 halfops, 0 voices, 1 normal]
+04.09.2008-13:19 -!- Irssi: Join to #sou-koffice was synced in 88 secs
+04.09.2008-13:23 -!- boud [n=boud@calcifer.xs4all.nl] has quit [Read error: 110 (Connection timed out)]
+04.09.2008-13:32 -!- You (boud_) are now known as boud
+--- Log closed Fri Sep 19 22:38:02 2008
