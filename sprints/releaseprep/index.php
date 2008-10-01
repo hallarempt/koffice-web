@@ -8,7 +8,9 @@ Sunday the 9th</strong>, KOffice is organising a "hackathon" weekend for the upc
 <p>This meeting is kindly sponsored by <a
 href="http://www.klaralvdalens-datakonsult.se/">KDAB</a> which
 provides its office rooms in Berlin and as you know, even geeks
-need to eat, so they also provide food and drinks in abundance.
+need to eat, so they also provide food and drinks in abundance. <a
+href="http://ev.kde.org">KDE e.V.</a> is sponsoring accomodations and
+travel.<p/>
 
 <p><a href="http://www.klaralvdalens-datakonsult.se/"><img src="kdab.jpg"
 height="71" width="150" alt="KDAB logo" /></a></p>
