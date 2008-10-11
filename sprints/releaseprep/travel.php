@@ -13,14 +13,16 @@ Germany
 </p>
 <h3>Accommodation</h3>
 <p>
-<a href="http://www.ibishotel.com/ibis/fichehotel/gb/ibi/3108/fiche_hotel.shtml">Ibis Berlin Ostbahnhof</a><br />
-An der Schillingbrucke 2 - 10243 - BERLIN - GERMANY<br />
-Tel : (+49)30/257600 Fax : (+49)30/25760333</p>
+<a href="http://www.ibishotel.com/ibis/fichehotel/gb/ibi/3108/fiche_hotel.shtml">Ibis Berlin Mitte</a><br />
+Prenzlauer Allee 4<br />
+10405 Berlin<br />
+Germany<br />
+Tel : (+49)30/443330 Fax : (+49)30/44333111</p>
 </p>
 <p>
 <h3>Directions &amp; Maps</h3>
 <p>
-<a href="http://www.openstreetmap.org/?lat=52.50872&lon=13.43069&zoom=15&layers=B00FT">Click here</a> for a map of the general area surrounding the motel and offices.
+<a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=from:Prenzlauer+Allee+4+-+10405+-+BERLIN+-+GERMANY+to:adalbertstra%C3%9Fe+7,+10999+berlin&sll=52.529903,13.417568&sspn=0.011774,0.038624&ie=UTF8&t=h&z=13">Click here</a> for a map of the general area surrounding the motel and offices.
 </p>
 <p>
 <!--
