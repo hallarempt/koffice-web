@@ -128,23 +128,20 @@
 
 <h3 id="kchart">KChart</h3>
 <ul>
-  <li>Start saving grid to ODF.</li>
-  <li>Save more legend attributes to ODF and make use of new OdfAttribute enum values.</li>
-  <li><em>Axis and grid</em>
+  <li><em>Improved ODF support</em></li>
     <ul>
-      <li>Separate axis dimension and position.</li>
-      <li>Load and save z axis, but don't show it.</li>
-      <li>Relayout KDChart plane after switch between logarithmic and linear scaling.</li>
-      <li>Load axis style.</li>
-      <li>Load axis font from ODF.</li>
+        <li>Load axes</li>
+        <li>Load chart title, subtitle and footer position, size and style</li>
+        <li>Save axis title</li>
+        <li>Save grid</li>
+        <li>Fix a couple of namespace issues</li>
+        <li>Save previously loaded Z axis</li>
+        <li>Generate and save unique axis name</li>
     </ul>
   </li>
-  <li>Axis scaling dialog: get initial properties from axis.</li>
-  <li>Save plot area and legend position and size manually.</li>
-  <li>Save chart style with "chart" as family, and load chart title,subtitle and footer position, size and style name.</li>
-  <li>Save axis title, and generate unique axis name.</li>
-  <li>Use same default font sizes in legend as in OOo.</li>
-  <li>Use more appropriate default font sizes for title, subtitle and footer.</li>
+  <li>Initialize all properties in axis configuration dialog</li>
+  <li>Fix logarithmic scaling</li>
+  <li>Fix data point labels changing size with zoom level</li>
 </ul>
 
 
