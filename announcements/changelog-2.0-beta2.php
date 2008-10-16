@@ -31,9 +31,9 @@
   </li>
   <li><em>GUI</em>
     <ul>
-      <li>In the layer box, activate the item when one of the property button is pressed.</li>
+      <li>In the layer box, activate the item when one of the property buttons is pressed.</li>
       <li>Add categories and names below items to the shape collection docker.</li>
-      <li>Make sure the shape collection stays within screen boundries when popping up.</li>
+      <li>Make sure the shape collection stays within screen boundaries when popping up.</li>
       <li>Optimization in the triangle color selector.</li>
     </ul>
   </li>
@@ -50,7 +50,7 @@
   <li><em>List editing</em>
     <ul>
       <li>Merge only with level one paragraphs.</li>
-      <li>When adding a new block to a list, make sure its not unnumbered.</li>
+      <li>When adding a new block to a list, make sure it is not unnumbered.</li>
       <li>Tab increases the level. Shift+Tab decreases the level.</li>
       <li>Improve backspace behavior on list items.</li>
       <li>Add support for creating unnumbered list items.</li>
@@ -66,7 +66,7 @@
   <li>Add support for fo:text-align in lists.</li>
   <li>Fix loading of multi level lists.</li>
   <li>Save more legend attributes to ODF and make use of new OdfAttribute enum values.</li>
-  <li>Set html and text representations in the clipboard.</li>
+  <li>Set HTML and text representations in the clipboard.</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
@@ -85,7 +85,7 @@
       <li>Create the correct shape when double clicking a placeholder.</li>
     </ul>
   </li>
-  <li>Add the svg from which the presentation page layout thumbnails are generated from.</li>
+  <li>Add the SVG from which the presentation page layout thumbnails are generated from.</li>
   <li>Better support different placeholder types.</li>
   <li>Make it possible to copy and paste pages with layouts and use the same layout instead adding a new layout every.</li>
   <li>Update the Delete Page menu entry when changing to the master view.</li>
@@ -93,7 +93,7 @@
   <li>Fix crash when inserting a layer in the document docker.</li>
   <li>Fix naming of first page.</li>
   <li>Save document styles when saving the page. This fixes a crash when copying a page with a layout in kpresenter.</li>
-  <li>fix saving of textbox placeholder which produced unvalid xml.</li>
+  <li>Fix saving of textbox placeholder which produced unvalid XML.</li>
   <li>Fix crash when inserting a page into the document.</li>
   <li>Make changing of the layout undoable.</li>
 </ul>
