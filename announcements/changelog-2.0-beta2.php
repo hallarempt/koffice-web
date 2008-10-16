@@ -93,7 +93,7 @@
   <li>Fix crash when inserting a layer in the document docker.</li>
   <li>Fix naming of first page.</li>
   <li>Save document styles when saving the page. This fixes a crash when copying a page with a layout in kpresenter.</li>
-  <li>Fix saving of textbox placeholder which produced unvalid XML.</li>
+  <li>Fix saving of textbox placeholder which produced invalid XML.</li>
   <li>Fix crash when inserting a page into the document.</li>
   <li>Make changing of the layout undoable.</li>
 </ul>
@@ -144,7 +144,7 @@
   <li>Save chart style with "chart" as family, and load chart title,subtitle and footer position, size and style name.</li>
   <li>Save axis title, and generate unique axis name.</li>
   <li>Use same default font sizes in legend as in OOo.</li>
-  <li>Use more approriate default font sizes for title, subtitle and footer.</li>
+  <li>Use more appropriate default font sizes for title, subtitle and footer.</li>
 </ul>
 
 
