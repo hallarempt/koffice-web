@@ -130,18 +130,18 @@
 <ul>
   <li><em>Improved ODF support</em></li>
     <ul>
-        <li>Load axes</li>
-        <li>Load chart title, subtitle and footer position, size and style</li>
-        <li>Save axis title</li>
-        <li>Save grid</li>
-        <li>Fix a couple of namespace issues</li>
-        <li>Save previously loaded Z axis</li>
-        <li>Generate and save unique axis name</li>
+        <li>Load axes.</li>
+        <li>Load chart title, subtitle and footer position, size and style.</li>
+        <li>Save axis title.</li>
+        <li>Save grid.</li>
+        <li>Fix a couple of namespace issues.</li>
+        <li>Save previously loaded Z axis.</li>
+        <li>Generate and save unique axis name.</li>
     </ul>
   </li>
-  <li>Initialize all properties in axis configuration dialog</li>
-  <li>Fix logarithmic scaling</li>
-  <li>Fix data point labels changing size with zoom level</li>
+  <li>Initialize all properties in axis configuration dialog.</li>
+  <li>Fix logarithmic scaling.</li>
+  <li>Fix data point labels changing size with zoom level.</li>
 </ul>
 
 
