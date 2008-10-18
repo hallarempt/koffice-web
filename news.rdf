@@ -10,7 +10,6 @@
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
 
 <item>
-  
 <title>KOffice 2.0 beta 2 released</title>
 <date>18 October, 2008</date>
 <fullstory>
@@ -20,6 +19,7 @@
 </fullstory>
 </item>
 
+<item>
 <title>KOffice 2.0 beta 1 released</title>
 <date>24 September, 2008</date>
 <fullstory>
@@ -130,7 +130,7 @@ the <a href="http://dot.kde.org/1208521131/">dot</a>, the KDE newssite.
 <date>20 March, 2008</date>
 <fullstory>
 The KOffice developers team have received three 3D SpaceNavigators from <a href="http://www.3dconnexion.com/">
-3DConnexion. Read all about it at <a href="http://dot.kde.org/1206028949/">3DConnexion Donates SpaceNavigators to KOffice</a>.
+3DConnexion</a>. Read all about it at <a href="http://dot.kde.org/1206028949/">3DConnexion Donates SpaceNavigators to KOffice</a>.
 </fullstory>
 </item>
 
@@ -224,7 +224,7 @@ Rodney Gedda interviews KDE e.V.'s Sebastian K&uuml;gler about KOffice 2.0, whic
 <title>Praise for Krita in Linux Journal</title>
 <date>12 July, 2007</date>
 <fullstory>
-Dan Sawyer writes in his article on Deep Images about <a href="http://www.koffice.org/krita">Krita<a/>, noting among other things that "Krita's 32-bit color management system is flanked by well-built, sophisticated tools for accessing it... making it suitable for a broad range of professional graphics demands...This workflow streaming is great...The number of drawing tools is rivaled only by Photoshop and there a few nifty enhancements in this area where Krita outdoes the venerated veteran from Adobe." <a href="http://www.linuxjournal.com/article/9706">(Dan Sawyer, "Deep Images", Linux Journal 159, July 2007)</a>
+Dan Sawyer writes in his article on Deep Images about <a href="http://www.koffice.org/krita">Krita</a>, noting among other things that "Krita's 32-bit color management system is flanked by well-built, sophisticated tools for accessing it... making it suitable for a broad range of professional graphics demands...This workflow streaming is great...The number of drawing tools is rivaled only by Photoshop and there a few nifty enhancements in this area where Krita outdoes the venerated veteran from Adobe." <a href="http://www.linuxjournal.com/article/9706">(Dan Sawyer, "Deep Images", Linux Journal 159, July 2007)</a>
 </fullstory>
 </item>
 
@@ -334,7 +334,7 @@ of changes</a>.
 <title>Krita review</title>
 <date>Oct 31, 2006</date>
 <fullstory>
-The KOffice raster image editor Krita reached version 1.6 along with the rest of the office suite earlier this month.  Krita is a fully-loaded raster graphics workhorse that stands on its own.<br>
+The KOffice raster image editor Krita reached version 1.6 along with the rest of the office suite earlier this month.  Krita is a fully-loaded raster graphics workhorse that stands on its own.<br/>
 <a href="http://www.linux.com/article.pl?sid=06%2F10%2F23%2F1853220" rel="nofollow">Read the full review</a>
 </fullstory>
 </item>
