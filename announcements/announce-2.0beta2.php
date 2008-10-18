@@ -98,9 +98,9 @@
 </p>
 <p>
 <center>
-<a href="pics/2008-09-25-kpresenterbeta1.png"><img src="pics/2008-09-25-kpresenterbeta1-thumbnail.png" width="430" height="341" /></a>
-<a href="pics/2008-09-25-kritabeta1.png"><img src="pics/2008-09-25-kritabeta1-thumbnail.png" width="430" height="318" /></a>
-<a href="pics/2008-09-25-karbonbeta1.png"><img src="pics/2008-09-25-karbonbeta1-thumbnail.png" width="430" height="325" /></a>
+<a href="pics/2008_10_18_karbon_pdf.png"><img src="pics/2008_10_18_karbon_pdf-thumbnail.png" width="430" height="256" /></a>
+<a href="pics/2008_10_18_karbon_pdf.pdf">Download the resulting PDF.</a>
+
 </center>
 </p>
 
@@ -114,11 +114,6 @@
     Since KOffice builds on Qt and the KDE libraries, all applications
     integrate well with the respective platforms and will take on the
     native look and feel.
-</p>
-<p>
-<center>
-<a href="pics/2008-09-25-kword-windows-beta1.png"><img src="pics/2008-09-25-kword-windows-beta1-thumbnail.png" width="410" height="307" /></a>
-</center>
 </p>
 
 <h3>Native Support for OpenDocument</h3>
