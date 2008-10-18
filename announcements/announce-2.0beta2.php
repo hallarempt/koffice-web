@@ -7,9 +7,7 @@
 
 <p align="justify">
   DATELINE OCTOBER 19, 2008<br />
-  <?php ##FOR IMMEDIATE RELEASE
-    ?>
-    UNFINISHED
+  FOR IMMEDIATE RELEASE
 </p>
 <h2>
   KDE Releases Second Beta of KOffice 2.0

@@ -6,9 +6,7 @@
 ?>
 <p align="justify">
   DATELINE OCTOBER 19, 2008<br />
-  <?php ##FOR IMMEDIATE RELEASE
-    ?>
-    UNFINISHED
+  FOR IMMEDIATE RELEASE
 </p>
 
   <p>The KOffice team is proud to announce the second KOffice beta for the upcoming 2.0 release.</p>
