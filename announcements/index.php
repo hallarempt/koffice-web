@@ -11,6 +11,15 @@ KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">m
 </p>
 
 <strong>28 August 2008</strong>
+ - <a href="announce-2.0beta2.php">KOffice 2.0 Beta 2 Announcement</a><br/>
+<em>Improved list editing in KWord, countless fixed bugs everywhere.</em>
+<p />
+
+<strong>28 August 2008</strong>
+ - <a href="announce-2.0beta1.php">KOffice 2.0 Beta 1 Announcement</a><br/>
+<p />
+
+<strong>28 August 2008</strong>
  - <a href="announce-2.0alpha10.php">KOffice 2.0 Alpha 10 Announcement</a><br/>
 <em>Presenter view in KPresenter, improved styles dockers, ultimate painting experience in Krita</em>
 <p />
