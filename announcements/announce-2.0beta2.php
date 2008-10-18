@@ -98,7 +98,7 @@
 </p>
 <p>
 <center>
-<a href="pics/2008_10_18_karbon_pdf.png"><img src="pics/2008_10_18_karbon_pdf-thumbnail.png" width="430" height="256" /></a>
+<a href="pics/2008_10_18_karbon_pdf.png"><img src="pics/2008_10_18_karbon_pdf-thumbnail.png" width="430" height="256" /></a><br/>
 <a href="pics/2008_10_18_karbon_pdf.pdf">Download the resulting PDF.</a>
 
 </center>
