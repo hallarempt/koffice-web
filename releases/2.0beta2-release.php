@@ -73,21 +73,10 @@
     </ul>
   <p />
 </li>
-<!--
-<li>
- <a rel="nofollow" href="http://www.opensuse.org/">openSUSE</a>
-    <ul type="disc">
-      <li>
-         <a rel="nofollow" href="http://en.opensuse.org/KDE/KDE4">Packages</a>
-      </li>
-      <li>
-      Packages are available for openSUSE 10.3, 11.0 and Factory from the openSUSE
-      Build Service within KDE:KDE4:Factory:Extra-Apps repo.
-      </li>
-    </ul>
-  <p />
+<li>openSUSE packages are available for 10.3, 11.0 and Factory from the openSUSE
+    Build Service within KDE:KDE4:Factory:Extra-Apps repo.
 </li>
-
+<!--
 <li>
  <a rel="nofollow" href="http://www.mandriva.com/">Mandriva</a>
     <ul type="disc">
