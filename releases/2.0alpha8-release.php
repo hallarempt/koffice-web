@@ -50,45 +50,9 @@
 </p>
 
 <ul>
-<li>Windows <a href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
+<li>Windows <a rel="nofollow" href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
 <li>Mac OS X <a href="http://mac.kde.org/?id=download">installer</a></li>
 <li>Debian packages are available in the <i>experimental</i> repository.</li>
-<!--
-<li>
- <a href="http://kubuntu.org/">Kubuntu</a>
-    <ul type="disc">
-      <li>
-      <a href="http://kubuntu.org/announcements/koffice-2alpha7.php">Packages for 7.10 (Hardy)</a>
-      </li>
-    </ul>
-  <p />
-</li>
-
-<li>
- <a href="http://www.opensuse.org/">openSUSE</a>
-    <ul type="disc">
-      <li>
-         <a href="http://en.opensuse.org/KDE/KDE4">Packages</a>
-      </li>
-      <li>
-      Packages are available for openSUSE 10.3, 10.2 and Factory from the openSUSE Build Service within KDE:/KDE4:/STABLE:/Extra-Apps/ repo.
-      </li>
-      <li>
-         <a href="http://home.kde.org/~binner/kde-four-live/">openSUSE based KDE4 Live CD</a>
-      </li>
-    </ul>
-  <p />
-</li>
-
-<li>
- <a href="http://www.mandriva.com/">Mandriva</a>
-    <ul type="disc">
-      <li>
-         2008: <a href="http://download.kde.org/binarydownload.html?url=/unstable/3.95/Mandriva/">Intel i386</a>
-      </li>
-    </ul>
-  <p />
-</Li -->
 </ul>
 
 <?php include("footer.inc"); ?>

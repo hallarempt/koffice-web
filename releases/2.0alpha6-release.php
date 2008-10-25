@@ -32,10 +32,6 @@
         <td>KOffice 2.0-alpha-6 (source code)</td>
         <td><a href="http://download.kde.org/unstable/koffice-1.9.95.3/src/koffice-1.9.95.3.tar.bz2">koffice-1.9.95.3.tar.bz2</a></td>
     </tr>
-<!--    <tr>
-      <td>diffs between alpha5 and alpha7</td>
-      <td><a href="http://download.kde.org/unstable/koffice-1.9.95/src/koffice-1.9.94-1.9.95.tar.xdelta">koffice-1.9.94-1.9.95.tar.xdelta</a></td>
-    </tr> -->
    </table>
   </li>
   </ul>
@@ -54,20 +50,20 @@
 
 <ul>
 <li>
- <a href="http://kubuntu.org/">Kubuntu</a>
+ <a rel="nofollow" href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
-      <a href="http://kubuntu.org/announcements/koffice-2alpha6.php">Packages for 7.10 (Hardy)</a>
+      <a rel="nofollow" href="http://kubuntu.org/announcements/koffice-2alpha6.php">Packages for 7.10 (Hardy)</a>
       </li>
     </ul>
   <p />
 </li>
 
 <li>
- <a href="http://www.opensuse.org/">openSUSE</a>
+ <a hrel="nofollow" ref="http://www.opensuse.org/">openSUSE</a>
     <ul type="disc">
       <li>
-         <a href="http://en.opensuse.org/KDE/KDE4">Packages</a>
+         <a hrel="nofollow" ref="http://en.opensuse.org/KDE/KDE4">Packages</a>
       </li>
       <li>
       Packages are available for openSUSE 10.3, 10.2 and Factory from the openSUSE Build Service within KDE:/KDE4:/STABLE:/Extra-Apps/ repo.
@@ -79,16 +75,6 @@
   <p />
 </li>
 
-<!--
-<li>
- <a href="http://www.mandriva.com/">Mandriva</a>
-    <ul type="disc">
-      <li>
-         2008: <a href="http://download.kde.org/binarydownload.html?url=/unstable/3.95/Mandriva/">Intel i386</a>
-      </li>
-    </ul>
-  <p />
-</Li -->
 </ul>
 
 <?php include("footer.inc"); ?>

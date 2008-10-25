@@ -61,37 +61,35 @@
 
 <ul>
 <!--
-<li>Windows <a href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
+<li>Windows <a rel="nofollow" href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
 <li>Mac OS X <a href="http://mac.kde.org/?id=download">installer</a></li>-->
 <li>Debian packages are available in the <i>experimental</i> repository.</li>
 <li>
- <a href="http://kubuntu.org/">Kubuntu</a>
+ <a rel="nofollow" href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
-      <a href="http://www.kubuntu.org/news/koffice-2-beta-2">Packages for Intrepid</a>
+      <a rel="nofollow" href="http://www.kubuntu.org/news/koffice-2-beta-2">Packages for Intrepid</a>
       </li>
     </ul>
   <p />
 </li>
 <!--
 <li>
- <a href="http://www.opensuse.org/">openSUSE</a>
+ <a rel="nofollow" href="http://www.opensuse.org/">openSUSE</a>
     <ul type="disc">
       <li>
-         <a href="http://en.opensuse.org/KDE/KDE4">Packages</a>
+         <a rel="nofollow" href="http://en.opensuse.org/KDE/KDE4">Packages</a>
       </li>
       <li>
-      Packages are available for openSUSE 1.3, 1.2 and Factory from the openSUSE Build Service within KDE:/KDE4:/STABLE:/Extra-Apps/ repo.
-      </li>
-      <li>
-         <a href="http://home.kde.org/~binner/kde-four-live/">openSUSE based KDE4 Live CD</a>
+      Packages are available for openSUSE 10.3, 11.0 and Factory from the openSUSE
+      Build Service within KDE:KDE4:Factory:Extra-Apps repo.
       </li>
     </ul>
   <p />
 </li>
 
 <li>
- <a href="http://www.mandriva.com/">Mandriva</a>
+ <a rel="nofollow" href="http://www.mandriva.com/">Mandriva</a>
     <ul type="disc">
       <li>
          2008: <a href="http://download.kde.org/binarydownload.html?url=/unstable/3.98/Mandriva/">Intel i386</a>

@@ -50,43 +50,7 @@
 </p>
 
 <ul>
-<li>Windows <a href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> (it is needed to copy the <i>dll</i> files into the directory with the executables, more information about installing KDE applications on Windows can be found on <a href="http://techbase.kde.org/Projects/KDE_on_Windows/Installation">techbase</a>). </li>
-<!--
-<li>
- <a href="http://kubuntu.org/">Kubuntu</a>
-    <ul type="disc">
-      <li>
-      <a href="http://kubuntu.org/announcements/koffice-2alpha7.php">Packages for 7.10 (Hardy)</a>
-      </li>
-    </ul>
-  <p />
-</li>
-
-<li>
- <a href="http://www.opensuse.org/">openSUSE</a>
-    <ul type="disc">
-      <li>
-         <a href="http://en.opensuse.org/KDE/KDE4">Packages</a>
-      </li>
-      <li>
-      Packages are available for openSUSE 10.3, 10.2 and Factory from the openSUSE Build Service within KDE:/KDE4:/STABLE:/Extra-Apps/ repo.
-      </li>
-      <li>
-         <a href="http://home.kde.org/~binner/kde-four-live/">openSUSE based KDE4 Live CD</a>
-      </li>
-    </ul>
-  <p />
-</li>
-
-<li>
- <a href="http://www.mandriva.com/">Mandriva</a>
-    <ul type="disc">
-      <li>
-         2008: <a href="http://download.kde.org/binarydownload.html?url=/unstable/3.95/Mandriva/">Intel i386</a>
-      </li>
-    </ul>
-  <p />
-</Li -->
+<li>Windows <a rel="nofollow" href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> (it is needed to copy the <i>dll</i> files into the directory with the executables, more information about installing KDE applications on Windows can be found on <a href="http://techbase.kde.org/Projects/KDE_on_Windows/Installation">techbase</a>). </li>
 </ul>
 
 <?php include("footer.inc"); ?>
