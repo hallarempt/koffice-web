@@ -39,7 +39,7 @@
         <td><a href="http://download.kde.org/unstable/koffice-1.9.98.1/src/koffice-1.9.98.1.tar.bz2">koffice-1.9.98.1.tar.bz2</a></td>
     </tr>
     <tr>
-    <td>KAtelier 2.0-beta-1 (source code, with just Krita and Karbon)</td>
+    <td>KAtelier 2.0-beta-2 (source code, with just Krita and Karbon)</td>
     <td><a href="http://download.kde.org/unstable/koffice-1.9.98.1/src/katelier-1.9.98.1.tar.bz2">katelier-1.9.98.1.tar.bz2</a></td>
     </tr>
     </table>
