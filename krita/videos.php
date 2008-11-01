@@ -35,10 +35,29 @@ $gallery->show();
 
 <p>And on YouTube:</p>
 
-<p><a href="http://fr.youtube.com/watch?v=XfJTucE6pDw">Color Mixing</a>, 
-<a href="http://fr.youtube.com/watch?v=UTILb8rBG1Q">Painting with watercolors</a> and
-<a href="http://fr.youtube.com/watch?v=lyLPZDVdQiQ">Drawing with a tablet</a>.</p>
 
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lyLPZDVdQiQ&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lyLPZDVdQiQ&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+
+<p><a href="http://fr.youtube.com/watch?v=lyLPZDVdQiQ">Color Mixing</a></p>
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/UTILb8rBG1Q&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UTILb8rBG1Q&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+
+<p><a href="http://fr.youtube.com/watch?v=UTILb8rBG1Q">Painting with watercolors</a></p>
+
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lyLPZDVdQiQ&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lyLPZDVdQiQ&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+
+<p><a href="http://fr.youtube.com/watch?v=XfJTucE6pDw">Drawing with a tablet</a>.</p>
+
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/GdihvnBxliE&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GdihvnBxliE&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+
+<p><a href="http://www.youtube.com/watch?v=GdihvnBxliE">Drawing a soldier's uniform in Krita (Morevna project)</a></p>
+
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/QCbHDvg55Yc&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QCbHDvg55Yc&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+
+<p><a href="http://www.youtube.com/watch?v=QCbHDvg55Yc">Color Naruto in Krita (Morevna project)</p>
 
 
 <?php
