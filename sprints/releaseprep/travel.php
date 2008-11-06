@@ -13,7 +13,8 @@ Germany
 </p>
 <h3>Accommodation</h3>
 <p>
-<a href="http://www.ibishotel.com/ibis/fichehotel/gb/ibi/3108/fiche_hotel.shtml">Ibis Berlin Mitte</a><br />
+<!-- prev: http://www.ibishotel.com/ibis/fichehotel/gb/ibi/3108/fiche_hotel.shtml -->
+<a href="http://www.ibishotel.com/gb/hotel-0357-ibis-berlin-mitte/index.shtml">Ibis Berlin Mitte</a><br />
 Prenzlauer Allee 4<br />
 10405 Berlin<br />
 Germany<br />
