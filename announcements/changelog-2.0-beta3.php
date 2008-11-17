@@ -33,11 +33,6 @@
   <li>Fix changing split view orientation (<a href="http://bugs.kde.org/173882">173882</a>).</li>
   <li>Fix resource chooser tooltip (<a href="http://bugs.kde.org/167247">167247</a>).</li>
   <li>Make editing tools respect layer locking/visibility.</li>
-  <li><em>KoText</em>
-    <ul>
-      <li></li>
-    </ul>
-  </li>
   <li><em>KoPageApp</em>
     <ul>
       <li>Make it possible to save the page/slide name used during loading.</li>
