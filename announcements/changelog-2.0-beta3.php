@@ -209,9 +209,9 @@
 
 <h3 id="karbon">Karbon</h3>
 <ul>
-  <li>Trigger gradient update when chaning gradient target.</li>
+  <li>Trigger gradient update when changing gradient target.</li>
   <li>Fix enabling path menu items when selected path shapes are children of a group shape.</li>
-  <li>Fix crash when trying to simplify callipgraphy path with too few points.</li>
+  <li>Fix crash when trying to simplify calligraphy path with too few points.</li>
   <li>Fix crash when drawing in split views (<a href="http://bugs.kde.org/173807">173807</a>).</li>
   <li>Fix autosaving of changed but not yet saved templates.</li>
   <li>Make it possible to apply the stroke/fill of the first selected shape to all other selected shapes.</li>
