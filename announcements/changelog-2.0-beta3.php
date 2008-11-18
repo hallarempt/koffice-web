@@ -177,19 +177,18 @@
 <ul>
   <li>Fix color space conversion for images containing shapes layer.</li>
   <li>Fix undoing crop (<a href="http://bugs.kde.org/174803">174803</a>).</li>
-  <li>Fix crash when flatering an image containing a shape layer (<a href="http://bugs.kde.org/174717">174717</a>).</li>
+  <li>Fix crash when flattening an image containing a shape layer (<a href="http://bugs.kde.org/174717">174717</a>).</li>
   <li>Don't crash when cropping a very very big image into a very very small area (<a href="http://bugs.kde.org/174718">174718</a>).</li>
   <li>Fixed update of shape selection.</li>
   <li>Use the option widget for the filter painting operation.</li>
   <li>Don't crash when adding a filter mask.</li>
-  <li>Fix the on convas preview of filters.</li>
+  <li>Fix the on canvas preview of filters.</li>
   <li>Fix crash in the brightness/contrast filter (<a href="http://bugs.kde.org/173584">173584</a>).</li>
   <li>Fix crash when pasting and when there is no layer in the layer stack (<a href="http://bugs.kde.org/141536">141536</a>).</li>
   <li>Correctly update the canvas when inserting an image and when removing the last layer of a group layer.</li>
   <li>Prevent tools menu from jumping moving when spliting view.</li>
   <li>Make a newly created layer the active layer (<a href="http://bugs.kde.org/173772">173772</a>).</li>
   <li>Fix crash on selection path.</li>
-  <li>BUG:149041</li> <!-- TODO -->
   <li>Fix the crash on painting just after changing the colorspace of an image (<a href="http://bugs.kde.org/173565">173565</a>)</li>
   <li>Fix compilation of the GraphicsMagick filter with recent version of GraphicsMagick (<a href="http://bugs.kde.org/161770">161770</a>)</li>
   <li>Fix display of histogram</li>
