@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 2.0 Alpha 9 Changelog';
+  $page_title ='KOffice 2.0 Beta 3 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -68,7 +68,7 @@
   <li>BUG: 173622</li> <!-- TODO -->
   <li>Fix loading of pictures in the old file format (.kwd).</li>
   <li>Default font color is black.</li>
-  <li>Fixe pageSpreads not being at the correct offset in document.</li>
+  <li>Fixed pageSpreads not being at the correct offset in document.</li>
 </ul>
 
 <h3 id="kspread">KSpread</h3>
@@ -84,7 +84,7 @@
   <li>Fix crash when exiting kspread.</li>
   <li>Fix links in the formula help browser.</li>
   <li>Fix for a crash occuring when using the table shape (<a href="http://bugs.kde.org/173499">173499</a>).</li>
-  <li>Fix computing with integer values that don't fit into a 32-bit number.</li>
+  <li>Fix computing with integer values that do not fit into a 32-bit number.</li>
   <li>BUG: 173293</li> <!-- TODO -->
   <li><em>OpenFormula support</em>
     <ul>
@@ -140,7 +140,6 @@
 <ul>
   <li>Fix a bug when loading empty cells.</li>
   <li>Fix a spelling error (devisor -> divisor).</li>
-  <li>
 </ul>
 
 <h3 id="kplato">KPlato</h3>
@@ -218,7 +217,6 @@
   <li>In an SVG document, import a toplevel group as a layer.</li>
   <li>Fix duplicate.</li>
   <li>Fix crash when saving picture shape.</li>
-  <li>
 </ul>
 
 <h3 id="plugins">Plug-ins</h3>
