@@ -29,7 +29,6 @@
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
-  <li> (<a href="http://bugs.kde.org/"></a>).</li>
   <li>Make sure the color chooser popup is not drawn outside the screen area.</li>
   <li>Fix crash happening with stop gradients where the last color stops position was lower than 1.0 (<a href="http://bugs.kde.org/175675">175675</a>).</li>
   <li>Fix crash in drawing when there is no stroke width.</li>
