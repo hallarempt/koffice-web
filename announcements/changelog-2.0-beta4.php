@@ -14,8 +14,8 @@
 <li><a href="#kword">KWord</a></li>
 <li><a href="#kspread">KSpread</a></li>
 <li><a href="#kpresenter">KPresenter</a></li>
-<li><a href="#kexi">Kexi</a></li>
-<li><a href="#kchart">KChart</a></li>
+<!-- <li><a href="#kexi">Kexi</a></li> -->
+<!-- <li><a href="#kchart">KChart</a></li> -->
 <li><a href="#kplato">KPlato</a></li>
 <li><a href="#krita">Krita</a></li>
 <li><a href="#karbon">Karbon</a></li>
