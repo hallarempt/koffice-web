@@ -131,8 +131,8 @@
 <h2>More Information</h2>
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="changelog-2.0-beta3.php">changelog</a>
-and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0beta3-release.php">release notes</a>.
+    <a href="changelog-2.0-beta4.php">changelog</a>
+and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0beta4-release.php">release notes</a>.
 </p>
 
 <h2>Bug Reports and User Feedback</h2>
