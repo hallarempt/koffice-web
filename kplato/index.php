@@ -72,9 +72,10 @@ Start to Start. All types can have a time lag defined.</li>
     </ul>
 
       <p><b>Mailing List:</b><br />
-         The KPlato mailing list is at <a href="&#109;&#97;i&#108;&#x74;o&#x3a;&#0107;p&#0108;ato () kd&#x65; ! &#x6f;r&#0103;">&#x6b;&#x70;l&#x61;t&#111;&#64;k&#00100;e&#x2e;&#0111;rg</a><br />
-         Subscription information can be found <a href="http://mail.kde.org/mailman/listinfo/kplato">here</a>.<br />
-         Online archives at: <a href="http://lists.kde.org/?l=kplato&amp;r=1&amp;w=2">lists.kde.org</a>
+         Up until half of 2008 KPlato had its own mailinglist. Archives are still available at:
+        <a href="http://lists.kde.org/?l=kplato&amp;r=1&amp;w=2">lists.kde.org</a>.</br>
+        KPlato questions and discussions are now happening on the
+         <a href="/contact/">koffice mailinglist</a>.
       </p>
 
  <br />

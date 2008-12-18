@@ -31,9 +31,8 @@
     </p>
     <p>
         Please note that for historical reasons,
-        <a href="http://www.kde.org/mailinglists/index.php#krita">Krita</a> and
-        <a href="http://www.kde.org/mailinglists/index.php#kplato">KPlato</a>
-        have their own mailing lists.
+        <a href="http://www.kde.org/mailinglists/index.php#krita">Krita</a>
+        has its own mailing list.
     </p>
     <p><a href="http://lists.kde.org">Archives of the mailing lists are available.</a></p>
  
