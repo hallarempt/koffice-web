@@ -62,6 +62,25 @@
     integrated manner.
 </p>
 
+<h2>Highlights of the 2.0 beta 5 Release</h2>
+
+<h3>Significant Progress with OpenDocument Saving and Loading</h3>
+<p align="justify">
+    Much of the work on this beta has been concentrated in making loading 
+    and saving OpenDocument files more complete.  A lot of effort has been
+    put into making KOffice interoperable with OpenOffice.org, since that
+    is the most important OpenDocument editor today.
+</p>
+
+<h3>All Reported Crash Bugs in KWord Fixed</h3>
+<p align="justify">
+    KWord has received extra attention that removed all known crash bugs.
+    We want to emphasize that at this point it is extremely important for
+    users to test all components of KOffice and report all bugs, 
+    especially crash bugs.
+</p>
+
+
 <h2>Highlights of KOffice 2.0</h2>
 
 <p align="justify">
