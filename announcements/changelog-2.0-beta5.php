@@ -74,7 +74,7 @@
   <li>Show a preview of the current brush stroke definition</li>
   <li>Fix handling of buildup and wash modes (and other settings in brush presets)</li>
   <li>Improvements to flatten image</li>
-  <li>Fix cloning of image hose brushes (which unfortunately showed up another bug that will be fixed in the next beta)</li>
+  <li>Fix cloning of image hose brushes; painting with image brushes works again now</li>
   <li>Do not use shaders if use of shaders is disabled, not even for HDR preview (fixes a crash on intel gma graphics)</li>
   <li>Fix merging of layers</li>
   <li>Fix building with newer versions of exiv2</li>
