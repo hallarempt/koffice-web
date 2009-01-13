@@ -12,7 +12,7 @@
 <h2>
   KDE Releases Fifth Beta of KOffice 2.0
 </h2>
-<p align="justify">December, 2008 (The INTERNET).
+<p align="justify">January, 2009 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> version 2.0 Beta 5, the fifth
