@@ -9,7 +9,7 @@
   FOR IMMEDIATE RELEASE
 </p>
 
-  <p>The KOffice team is proud to announce the fourth KOffice beta for the upcoming 2.0 release.</p>
+  <p>The KOffice team is proud to announce the fifth KOffice beta for the upcoming 2.0 release.</p>
 
   <h2>Announcement</h2>
   <ul>
