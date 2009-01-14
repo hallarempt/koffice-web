@@ -64,6 +64,13 @@
 
 <h2>Highlights of the 2.0 beta 5 Release</h2>
 
+<p align="justify">
+    The developers have been working very hard fixing bugs and removing 
+    incompatibilities and other misfeatures.  This can be seen in the 
+    rather large <a href="/announcements/changelog-2.0-beta5.php">list
+    of changes</a>.  Here are some of the highlights of this release:
+</p>
+
 <h3>Significant Progress with OpenDocument Saving and Loading</h3>
 <p align="justify">
     Much of the work on this beta has been concentrated in making loading 
