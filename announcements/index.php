@@ -10,6 +10,11 @@ To receive new announcements by e-mail subscribe to the
 KDE Announcements <a href="https://mail.kde.org/mailman/listinfo/kde-announce">mailinglist</a> !
 </p>
 
+<strong>14 January 2009</strong>
+- <a href="announce-2.0beta5.php">KOffice 2.0 Beta 5 Announcement</a><br/>
+<em>Improved file support and countless crash fix.</em>
+<p />
+
 <strong>10 December 2008</strong>
 - <a href="announce-2.0beta4.php">KOffice 2.0 Beta 4 Announcement</a><br/>
 <em>Improved stability.</em>
