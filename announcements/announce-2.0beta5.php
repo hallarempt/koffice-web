@@ -78,9 +78,10 @@
     put into making KOffice interoperable with OpenOffice.org, since that
     is the most important OpenDocument editor today.
 </p>
+<center>
 <a href="pics/2009_01_14_karbon.png"><img src="pics/2009_01_14_karbon_sm.png" width="430" height="256" /></a><br/>
 <a href="pics/2009_01_14_oo.png"><img src="pics/2009_01_14_oo_sm.png" width="430" height="256" /></a><br/>
-
+</center>
 <h3>All Reported Crash Bugs in KWord Fixed</h3>
 <p align="justify">
     KWord has received extra attention that removed all known crash bugs.
