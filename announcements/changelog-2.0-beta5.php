@@ -34,11 +34,6 @@
   <li>Fix crashes on closing a doc and opening a new doc in the same window.</li>
   <li>Fix make it possible to undo the resize of a path shape to null.</li>
   <li>Fix crash on closing and re-opening a document.</li>
-  <li><em>KoPageApp</em>
-    <ul>
-      <li>foo.</li>
-    </ul>
-  </li>
   <li><em>Flake</em>
     <ul>
       <li>Fix weird behavior with columns: it's possible to click and show the cursor in a column where the flow of text hasn't arrived at all yet.</li>
