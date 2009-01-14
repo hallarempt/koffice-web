@@ -78,6 +78,8 @@
     put into making KOffice interoperable with OpenOffice.org, since that
     is the most important OpenDocument editor today.
 </p>
+<a href="pics/2009_01_14_karbon.png"><img src="pics/2009_01_14_karbon_sm.png" width="430" height="256" /></a><br/>
+<a href="pics/2009_01_14_oo.png"><img src="pics/2009_01_14_oo_sm.png" width="430" height="256" /></a><br/>
 
 <h3>All Reported Crash Bugs in KWord Fixed</h3>
 <p align="justify">
@@ -118,8 +120,7 @@
 </p>
 <p>
 <center>
-<a href="pics/2008_10_18_karbon_pdf.png"><img src="pics/2008_10_18_karbon_pdf-thumbnail.png" width="430" height="256" /></a><br/>
-<a href="pics/2008_10_18_karbon_pdf.pdf">Download the resulting PDF.</a> The elephant was made by <a href="http://www.openclipart.org/media/people/lemmling">lemmling</a>.
+<a href="pics/2009_01_14_beta5.png"><img src="pics/2009_01_14_beta5_sm.png" width="430" height="256" /></a><br/>
 
 </center>
 </p>
