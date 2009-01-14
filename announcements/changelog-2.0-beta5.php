@@ -54,7 +54,6 @@
     </ul>
   </li>
   <li><em>Pigment</em>
-  <li>
     <ul>
       <li>Fix convolution computation of the alpha channel.</li>
     </ul>
