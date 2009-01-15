@@ -115,7 +115,7 @@
     All the applications of KOffice has a new GUI layout better suited to
     todays wider screens.  The GUI consists of a workspace and a sidebar
     where tools can dock.  Any tool can be ripped off to create its own 
-    window and later be redocked fo full flexibility.  The users setup
+    window and later be redocked for full flexibility.  The users setup
     preferences are of course saved and reused the next time that KOffice
     is started.
 </p>
