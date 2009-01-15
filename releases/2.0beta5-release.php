@@ -36,11 +36,11 @@
         <th align="left">Location</th>
       <tr>
         <td>KOffice 2.0-beta-5 (source code)</td>
-        <td><a href="http://download.kde.org/unstable/koffice-1.9.98.4/src/koffice-1.9.98.5.tar.bz2">koffice-1.9.98.5.tar.bz2</a></td>
+        <td><a href="http://download.kde.org/unstable/koffice-1.9.98.5/src/koffice-1.9.98.5.tar.bz2">koffice-1.9.98.5.tar.bz2</a></td>
     </tr>
     <tr>
     <td>KAtelier 2.0-beta-5 (source code, with just Krita and Karbon)</td>
-    <td><a href="http://download.kde.org/unstable/koffice-1.9.98.4/src/katelier-1.9.98.5.tar.bz2">katelier-1.9.98.5.tar.bz2</a></td>
+    <td><a href="http://download.kde.org/unstable/koffice-1.9.98.5/src/katelier-1.9.98.5.tar.bz2">katelier-1.9.98.5.tar.bz2</a></td>
     </tr>
     </table>
   </li>
@@ -50,7 +50,7 @@
 
 <p>
   Some Linux/UNIX OS vendors have kindly provided binary packages of
-  KOffice 1.9.98.4 for some versions of their distribution, and in other cases
+  KOffice 1.9.98.5 for some versions of their distribution, and in other cases
   community volunteers have done so.
 </p>
 
