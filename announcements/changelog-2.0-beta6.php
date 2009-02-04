@@ -16,7 +16,7 @@
 <li><a href="#kspread">KSpread</a></li>
 <li><a href="#kpresenter">KPresenter</a></li>
 <li><a href="#kchart">KChart</a></li>
-<li><a href="#kplato">KPlato</a></li>
+<!-- <li><a href="#kplato">KPlato</a></li> -->
 <li><a href="#krita">Krita</a></li>
 <li><a href="#karbon">Karbon</a></li>
 <li><a href="#plugins">Plugins</a></li>
@@ -29,7 +29,7 @@
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
-  <li>Fix: Dialog for option "Insert" → "Variable" → "Fixed" has wrong title (<a href="http://bugs.kde.org/180947">180947</a>).</li>
+  <li>Fix: Dialog for inserting fixed variable has wrong title (<a href="http://bugs.kde.org/180947">180947</a>).</li>
   <li><em>Flake</em>
     <ul>
       <li>Implemented saving of connections.</li>
@@ -41,7 +41,7 @@
 
 <h3 id="kword">KWord</h3>
 <ul>
-  <li>Fix: Showing a non-functional menu option "Formatting Characters".</li>
+  <li>Fix: showing a non-functional menu option "Formatting Characters".</li>
   <li>Fix: crash when opening .ODF file (<a href="http://bugs.kde.org/180759">180759</a>).</li>
   <li>Fix: image looks ugly when scaled (<a href="http://bugs.kde.org/180888">180888</a>).</li>
   <li>Fix: when opening a .DOC file (<a href="http://bugs.kde.org/173673">173673</a>).</li>
@@ -68,8 +68,7 @@
 
 <h3 id="kpresenter">KPresenter</h3>
 <ul>
-  <li>Fix: Background image should fit the slide/page size
- (<a href="http://bugs.kde.org/181866">181866</a>).</li>
+  <li>Fix: Background image should fit the slide/page size (<a href="http://bugs.kde.org/181866">181866</a>).</li>
   <li>Fix: in Detailed / Minimal Mode, if we select one shape from another page, the shape will be selected for a moment before it gets deselected and the page that contains the shape gets selected.</li>
   <li>Fix: active page is not selected after starting or after loading a document.</li>
   <li>Fix: active page is not selected after going back to Thumbnail Mode from Minimal / Detailed mode and the object selected was not a page (e.g. a layer or a shape).</li>
@@ -84,11 +83,11 @@
 <ul>
   <li>Fix: line/area charts must not have an offset on left and right side if not combined with bar chart.</li>
 </ul>
-
+<!--
 <h3 id="kplato">KPlato</h3>
 <ul>
   <li></li>
-</ul>
+</ul>-->
 
 <h3 id="krita">Krita</h3>
 <ul>

@@ -20,7 +20,7 @@
 </p>
 
 <p align="justify">
-    The KOffice team releases a fifth beta version today, in line with the
+    The KOffice team releases a sixth beta version today, in line with the
     regular releases leading up to the 2.0 final release of the innovative
     office suite KOffice2.
 </p>
@@ -33,10 +33,7 @@
     with the user have been implemented to support the new capabilities.
 </p>
 <p align="justify">
-    This sixth beta brings significant bug fixes, mainly in the area of
-    saving and loading the OpenDocument format, as well as improved 
-    stability. Among other things, KWord got all the reported crash bugs
-    fixed.
+    
 </p>
 <p align="justify">
     The goal of this beta is to allow testers and users to stay up-to-date
@@ -71,23 +68,11 @@
     of changes</a>.  Here are some of the highlights of this release:
 </p>
 
-<h3>Significant Progress with OpenDocument Saving and Loading</h3>
+<h3></h3>
 <p align="justify">
-    Much of the work on this beta has been concentrated in making loading 
-    and saving OpenDocument files more complete.  A lot of effort has been
-    put into making KOffice interoperable with OpenOffice.org, since that
-    is the most important OpenDocument editor today.
-</p>
-<center>
-<a href="pics/2009_01_14_karbon.png"><img src="pics/2009_01_14_karbon_sm.png" width="430" height="256" /></a><br/>
-<a href="pics/2009_01_14_oo.png"><img src="pics/2009_01_14_oo_sm.png" width="430" height="256" /></a><br/>
-</center>
-<h3>All Reported Crash Bugs in KWord Fixed</h3>
-<p align="justify">
-    KWord has received extra attention that removed all known crash bugs.
-    We want to emphasize that at this point it is extremely important for
-    users to test all components of KOffice and report all bugs, 
-    especially crash bugs.
+    Improvements have been made on KSpread merged cells, on loading and showing images,
+    navigating in a document. Works continue on metadata and undo system in Krita and saving SVG
+    in Karbon.
 </p>
 
 
@@ -121,7 +106,7 @@
 </p>
 <p>
 <center>
-<a href="pics/2009_01_14_beta5.png"><img src="pics/2009_01_14_beta5_sm.png" width="430" height="256" /></a><br/>
+<a href="pics/2009_02_04_kpresenter.png"><img src="pics/2009_02_04_kpresenter_sm.png" width="420" height="263" /></a><br/>
 
 </center>
 </p>
