@@ -66,7 +66,8 @@
     incompatibilities and other misfeatures.  This can be seen in the 
     rather large <a href="/announcements/changelog-2.0-beta6.php">list
     of changes</a>.  Things are starting to look good, and we are nearing
-    the end of the beta series.  The next step will be the Release Candidates.
+    the end of the beta series.  After the final beta, the next step will 
+    be the Release Candidates.
     Among other things, improvements have been made on:
   <ul>
     <li>KSpread merged cells</li>
