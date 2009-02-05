@@ -65,16 +65,23 @@
     The developers have been working very hard fixing bugs and removing 
     incompatibilities and other misfeatures.  This can be seen in the 
     rather large <a href="/announcements/changelog-2.0-beta6.php">list
-    of changes</a>.  Here are some of the highlights of this release:
+    of changes</a>.  Things are starting to look good, and we are nearing
+    the end of the beta series.  The next step will be the Release Candidates.
+    Among other things, improvements have been made on:
+  <ul>
+    <li>KSpread merged cells</li>
+    <li>loading and showing images</li>
+    <li>navigating in a document</li>
+    <li>Work on metadata and undo system in Krita</li>
+    <li>saving SVG in Karbon</li>
+  </ul>
 </p>
 
-<h3></h3>
 <p align="justify">
-    Improvements have been made on KSpread merged cells, on loading and showing images,
-    navigating in a document. Works continue on metadata and undo system in Krita and saving SVG
-    in Karbon.
+    Now more than ever it is important that our users help us test KOffice
+    and report bugs.  For this version, we are very grateful to the KDE
+    bugsquad and their <a href="http://dot.kde.org/2009/01/22/upcoming-bug-krush-day-koffice">bug krush day that was held on Sunday january 25th</a>.
 </p>
-
 
 <h2>Highlights of KOffice 2.0</h2>
 

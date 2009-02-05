@@ -54,7 +54,6 @@
   community volunteers have done so.
 </p>
 
-
 <p>
   Currently pre-compiled packages are available for:
 </p>
@@ -62,7 +61,8 @@
 <ul>
 <!--
 <li>Windows <a rel="nofollow" href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
-<li>Mac OS X <a href="http://mac.kde.org/?id=download">installer</a></li>-->
+<li>Mac OS X <a href="http://mac.kde.org/?id=download">installer</a></li>
+-->
 <li>Debian packages are available in the <i>experimental</i> repository.</li>
 <!--<li>
  <a rel="nofollow" href="http://kubuntu.org/">Kubuntu</a>
@@ -75,6 +75,8 @@
 </li>-->
 <li>openSUSE packages are available for 10.3, 11.0 and Factory from the openSUSE
     Build Service within KDE:KDE4:Factory:Extra-Apps repo.
+</li>
+<li>Binaries for the Nokia n810 Internet Tablet has been provided by <a href="http://www.kdedevelopers.org/node/3879">Marijn Kruisselbrink</a>.
 </li>
 </ul>
 
