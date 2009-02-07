@@ -73,8 +73,8 @@
     </ul>
   <p />
 </li>-->
-<li>openSUSE packages are available for 10.3, 11.0 and Factory from the openSUSE
-    Build Service within KDE:KDE4:Factory:Extra-Apps repo.
+<li>openSUSE packages are available for 10.3, 11.0, 11.1 and Factory from the openSUSE
+    Build Service within <a href="http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Extra-Apps/">KDE:KDE4:Factory:Extra-Apps</a> repo.
 </li>
 <li>Binaries for the Nokia n810 Internet Tablet has been provided by <a href="http://www.kdedevelopers.org/node/3879">Marijn Kruisselbrink</a>.
 </li>
