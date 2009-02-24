@@ -30,7 +30,7 @@ $images[] = array( "small" => "pics/gallery/organicmachine_sm.png",
                    "description" => "A lot of time put in this drawing, used no references. Krita 1.6.3 and Bamboo 
 Fun tablet.)",
                    "width" => "270",
-                   "height" => "114");
+                   "height" => "214");
 $images[] = array( "small" => "pics/gallery/estegosaurio_sm.png",
                    "kra" => "pics/gallery/estegosaurio.kra",
                    "license" => $CCAT30,
