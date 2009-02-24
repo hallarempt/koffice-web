@@ -21,6 +21,16 @@ $CCAT30 = '<a href="http://creativecommons.org/licenses/by/3.0/">Creative Common
 //                    "description" => "A short, one-line description of the image, if any",
 //                    "width" => "width of the small image",
 //                    "height" => "height of the small image");
+$images[] = array( "small" => "pics/gallery/organicmachine_sm.png",
+                   "kra" => "pics/gallery/organic_machine.kra",
+                   "license" => $CCAT30,
+                   "date" => "August 2008",
+                   "title" => "Estegosaurio",
+                   "author" => "Elián Hanisch (m4v)",
+                   "description" => "A lot of time put in this drawing, used no references. Krita 1.6.3 and Bamboo 
+Fun tablet.)",
+                   "width" => "270",
+                   "height" => "114");
 $images[] = array( "small" => "pics/gallery/estegosaurio_sm.png",
                    "kra" => "pics/gallery/estegosaurio.kra",
                    "license" => $CCAT30,
