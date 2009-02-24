@@ -25,7 +25,7 @@ $images[] = array( "small" => "pics/gallery/organicmachine_sm.png",
                    "kra" => "pics/gallery/organic_machine.kra",
                    "license" => $CCAT30,
                    "date" => "August 2008",
-                   "title" => "Estegosaurio",
+                   "title" => "Organic Machine",
                    "author" => "Elián Hanisch (m4v)",
                    "description" => "A lot of time put in this drawing, used no references. Krita 1.6.3 and Bamboo 
 Fun tablet.)",
