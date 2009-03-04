@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 2.0 Beta 6 Changelog';
+  $page_title ='KOffice 2.0 Beta 7 Changelog';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -7,7 +7,7 @@
 
 <p>
   The following summarizes the major changes to the KOffice Suite since the
-  release of KOffice 2.0 Beta 5.
+  release of KOffice 2.0 Beta 6.
 </p>
 <ul>
 <!-- <li><a href="#koffice_general">General</li> -->
