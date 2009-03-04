@@ -10,22 +10,22 @@
   release of KOffice 2.0 Beta 5.
 </p>
 <ul>
-<li><a href="#koffice_general">General</li>
+<!-- <li><a href="#koffice_general">General</li> -->
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
 <li><a href="#kword">KWord</a></li>
 <li><a href="#kspread">KSpread</a></li>
 <li><a href="#kpresenter">KPresenter</a></li>
 <li><a href="#kchart">KChart</a></li>
-<!-- <li><a href="#kplato">KPlato</a></li> -->
+<li><a href="#kplato">KPlato</a></li>
 <li><a href="#krita">Krita</a></li>
 <li><a href="#karbon">Karbon</a></li>
 <li><a href="#plugins">Plugins</a></li>
 </ul>
 
-<h3 id="koffice_libs">General</h3>
+<!--<h3 id="koffice_libs">General</h3>
 <ul>
   <li> (<a href="http://bugs.kde.org/"></a>).</li>
-</ul>
+</ul>-->
 
 <h3 id="koffice_libs">KOffice Libraries</h3>
 <ul>
