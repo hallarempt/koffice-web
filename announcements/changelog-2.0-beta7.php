@@ -36,16 +36,24 @@ last = 2009-02-14 07:08 r925783
   <li>Fix: activating the edit color dialog twice result in a crash.</li>
   <li>Fix: saving of "author-title" in document info.</li>
   <li>Change the active layer if we select a layer in the docker.</li>
+  <li>Fix: multiple selection behavior in Document Structure Docker.</li>
   <li><em>Flake</em>
     <ul>
       <li>Fix: when changing stroke properties save them to the canvas resource provider so it can be used when drawing with the pencil tool or when creating paths (<a href="http://bugs.kde.org/183708">183708</a>).</li>
-      <li>Fix drawing artefacts for really thick strokes with square caps (<a href="http://bugs.kde.org/184737">184737</a>).</li>
-      <li>Fix a wrong bounding box is displayed (<a href="http://bugs.kde.org/184647">184647</a>).</li>
+      <li>Fix: drawing artefacts for really thick strokes with square caps (<a href="http://bugs.kde.org/184737">184737</a>).</li>
+      <li>Fix: a wrong bounding box is displayed (<a href="http://bugs.kde.org/184647">184647</a>).</li>
+      <li>Fix: moving anchored frames.</li>
+      <li>Optimize adding a lot of shapes to the selection.</li>
     </ul>
   </li>
   <li><em>KoText</em>
     <ul>
-      <li>Fixes: having any tag in the body always adds a linefeed.</li>
+      <li>Fix: having any tag in the body always adds a linefeed.</li>
+      <li>Fix: save inline objects with the correct position.</li>
+      <li>Fix: loading of embedded shapes.</li>
+      <li>Save the display name of list and characters styles so that it is kept during loading/saving</li>
+      <li>Fix: saving of list styles.</li>
+      <li>Fix: don't save character styles that are already saved as part of a paragraph style.</li>
     </ul>
   </li>
 </ul>
@@ -54,6 +62,15 @@ last = 2009-02-14 07:08 r925783
 <ul>
   <li>Fix: save and load of the connection shape.</li>
   <li>Fix: loading of frames that are anchored to a page.</li>
+  <li>Fix: save page anchored shapes with the correct position.</li>
+  <li>Fix: crash when deleting page (<a href="http://bugs.kde.org/180237">180237</a>).</li>
+  <li>Fix: crashes and other nastiness when the text-frame we were operating on is deleted without anyone telling us.</li>
+  <li>Fix: crash when saving a document (<a href="http://bugs.kde.org/180238">180238</a>).</li>
+  <li>Fix: kword freeze after click on print preview (<a href="http://bugs.kde.org/180885">180885</a>).</li>
+  <li>Fix: KWord fails on saving "word" format (<a href="http://bugs.kde.org/167492">167492</a>).</li>
+  <li>Fix: Trying to open directory which save with odt uncompress files give error message which is not a file (<a href="http://bugs.kde.org/141805">141805</a>).</li>
+  <li>Style docker now apply the modifications of a style.</li>
+  <li>Style manager dialog saves changes of character style page.</li>
 </ul>
 
 <h3 id="kspread">KSpread</h3>
@@ -61,6 +78,8 @@ last = 2009-02-14 07:08 r925783
   <li>The cell editor get a different layout wether on horizontal or vertical position.</li>
   <li>Fix: crash when trying to save an embedded chart.</li>
   <li>Fix: bug in formula dialog where the value of whatever parameter you've edited last is replaced by the name of the cell the formula is in.</li>
+  <li>Fix: crash in autocompletion of formula.</li>
+  <li>Fix: crash when inserting a chart.</li>
 </ul>
 
 <h3 id="kpresenter">KPresenter</h3>
@@ -74,13 +93,18 @@ last = 2009-02-14 07:08 r925783
 
 <h3 id="kchart">KChart</h3>
 <ul>
-  <li></li>
+  <li>Fix: update chart config widget when another chart is selected.</li>
+  <li>Forbid polar/cartesian plot combinations.</li>
+  <li>Fix: prevent user from removing first x/y axis for cartesian plots.</li>
+  <li>Fix: remove axis title when axis is removed.</li>
+  <li>Fix: use 100% and not 50% of the plot area for polar chart.</li>
+  <li>Clip chart items.</li>
 </ul>
-<!--
+
 <h3 id="kplato">KPlato</h3>
 <ul>
-  <li></li>
-</ul>-->
+  <li>Fix: crash in print preview (<a href="http://bugs.kde.org/183940">183940</a>).</li>
+</ul>
 
 <h3 id="krita">Krita</h3>
 <ul>
@@ -109,6 +133,14 @@ last = 2009-02-14 07:08 r925783
   <li>Reenable progress info when scaling,rotating...</li>
   <li>Fix: artefact when scaling.</li>
   <li>Fix: scaling image adds extra transparent space (<a href="http://bugs.kde.org/169736">169736</a>).</li>
+  <li>Implement Bicubic (<a href="http://bugs.kde.org/129539">129539</a>).</li>
+  <li>Fix: crash when filling (<a href="http://bugs.kde.org/183918">183918</a>).</li>
+  <li>Fix: crash when selecting the custom brush (<a href="http://bugs.kde.org/179286">179286</a>).</li>
+  <li>Fix: Shape layer lost after saving opened image (<a href="http://bugs.kde.org/182408">182408</a>).</li>
+  <li>Improved support of XMP, load schemas, correctly parse values.</li>
+  <li>Fix load/save of shape selection.</li>
+  <li>Disable split view.</li>
+  <li>Fix: serialization/unserialization of sumi-e's settings (<a href="http://bugs.kde.org/182157">182157</a>).</li>
 </ul>
 
 <h3 id="karbon">Karbon</h3>
@@ -117,11 +149,22 @@ last = 2009-02-14 07:08 r925783
   <li>Defaults shapes collection can be customized.</li>
   <li>Fix: generation of preview of ODG files.</li>
   <li>Fix: loading of elliptical quandrant path (<a href="http://bugs.kde.org/184546">184546</a>).</li>
+  <li><em>SVG Support</em>
+    <ul>
+      <li>Fix: fix position and viewbox transformation for embedded svg fragments.</li>
+      <li>Better handling of stroke types.</li>
+      <li>Basic support for embedded svg fragments.</li>
+      <li>Support for pattern viewBox attribute.</li>
+      <li>Some fixes for parsing of stroke dashes.</li>
+      <li>Display attribute is now managed by the svg context.</li>
+      <li>x and y attribute of use and text elements are parsed separately now.</li>
+      <i>Improve loading of patterns.</li>
+    </ul>
 </ul>
 
 <h3 id="plugins">Plug-ins</h3>
 <ul>
-  <li></li>
+  <li>Save music shape as image in an embedded document.</li>
   <li><em>Artistic Shape</em>
     <ul>
       <li>Fix handling of transformation when loading and svaing to odf (<a href="http://bugs.kde.org/184675">184675</a>).</li>
