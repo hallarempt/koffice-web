@@ -5,8 +5,6 @@
   include("header.inc");
 ?>
 
-last = 2009-02-14 07:08 r925783
-
 <p>
   The following summarizes the major changes to the KOffice Suite since the
   release of KOffice 2.0 Beta 5.
