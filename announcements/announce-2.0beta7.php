@@ -10,7 +10,7 @@
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
-  KDE Releases Seventh Beta of K Office 2.0
+  KDE Releases Seventh Beta of KOffice 2.0
 </h2>
 <p align="justify">March, 2009 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
