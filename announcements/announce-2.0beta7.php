@@ -55,6 +55,7 @@
     can testify to the many improvements.
 </p>
 
+<h3>Concentration on Crashes and Data Loss</h3>
 <p align="justify">
     The main focus of the last few weeks has been set on fixing crashes and
     data losses while saving and loading documents. This includes improvements
