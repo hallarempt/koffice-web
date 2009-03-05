@@ -65,7 +65,7 @@
     This is one of the last beta, a decision has yet to be taken on whether
     the next release will be a beta or a release candidate. This means that
     K Office 2.0 is getting closer to maturity at fast speed, the number
-    of fixes in the <a href="/announcements/changelog-2.0-beta6.php">changelog</>
+    of fixes in the <a href="/announcements/changelog-2.0-beta7.php">changelog</>
     can testify of the improvements.
 </p>
 
@@ -151,7 +151,7 @@
 <h2>More Information</h2>
 <p align="justify">
     More information about new KOffice2 technology can be found in the
-    <a href="changelog-2.0-beta6.php">changelog</a>
+    <a href="changelog-2.0-beta7.php">changelog</a>
 and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0beta6-release.php">release notes</a>.
 </p>
 
