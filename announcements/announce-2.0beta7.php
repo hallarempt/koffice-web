@@ -62,7 +62,7 @@
 <h2>Highlights of the 2.0 beta 7 Release</h2>
 
 <p align="justify">
-    This is one of the last beta, a decision has yet to be taken on whether
+    This release is one of the last beta, a decision has yet to be taken on whether
     the next release will be a beta or a release candidate. This means that
     KOffice 2.0 is getting closer to maturity at fast speed, the number
     of fixes in the <a href="/announcements/changelog-2.0-beta7.php">changelog</a>
@@ -72,7 +72,7 @@
 <p align="justify">
     The main focus of the last few weeks has been set on fixing crashes and
     the data loss while saving and loading documents. This includes improvements on
-    handling SVG's patterns in Karbon, saving and loading shapes and meta data in
+    handling SVG's patterns in Karbon, handling shapes and meta data in
     Krita as well as frames and connection in KWord.
 </p>
 
