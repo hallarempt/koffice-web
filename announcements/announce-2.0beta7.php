@@ -10,7 +10,7 @@
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
-  KDE Releases Sixth Beta of K Office 2.0
+  KDE Releases Seventh Beta of K Office 2.0
 </h2>
 <p align="justify">March, 2009 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
@@ -65,7 +65,7 @@
     This is one of the last beta, a decision has yet to be taken on whether
     the next release will be a beta or a release candidate. This means that
     K Office 2.0 is getting closer to maturity at fast speed, the number
-    of fixes in the <a href="/announcements/changelog-2.0-beta7.php">changelog</>
+    of fixes in the <a href="/announcements/changelog-2.0-beta7.php">changelog</a>
     can testify of the improvements.
 </p>
 
