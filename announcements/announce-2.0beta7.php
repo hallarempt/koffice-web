@@ -20,26 +20,10 @@
 </p>
 
 <p align="justify">
-    The KOffice team releases a seventh beta version today, in line with the
-    regular releases leading up to the 2.0 final release of the innovative
-    office suite KOffice2.
-</p>
-<p align="justify">
-    Over the last few years, the KOffice team has reworked the framework
-    into an agile and flexible codebase. Our intention was to increase
-    integration between the components of KOffice, decreasing duplication
-    of functionality and easing maintenance and development of new
-    features. Furthermore, new approaches to UI design and interacting
-    with the user have been implemented to support the new capabilities.
-</p>
-<p align="justify">
-    
-</p>
-<p align="justify">
+    This may very well be the last beta so it is very important that our
+    users give us feedback and report remaining bugs.
     The goal of this beta is to allow testers and users to stay up-to-date
     with the work of the developers and keep providing useful bug reports.
-    KOffice is in beta because the development team wants to receive feedback
-    and bug reports from actual users.
 </p>
 <p align="justify">
     The release team has decided that the following applications are mature
@@ -62,27 +46,29 @@
 <h2>Highlights of the 2.0 beta 7 Release</h2>
 
 <p align="justify">
-    This release is one of the last beta, a decision has yet to be taken on whether
-    the next release will be a beta or a release candidate. This means that
-    KOffice 2.0 is getting closer to maturity at fast speed, the number
+    This release is one of the last beta versions, possibly the last.  A
+    decision will be made next week whether 
+    the next release will be another beta or the first release candidate
+    This means that
+    KOffice 2.0 is getting closer to maturity at a fast pace, the number
     of fixes in the <a href="/announcements/changelog-2.0-beta7.php">changelog</a>
-    can testify of the improvements.
+    can testify to the many improvements.
 </p>
 
 <p align="justify">
     The main focus of the last few weeks has been set on fixing crashes and
-    the data loss while saving and loading documents. This includes improvements on
-    handling SVG's patterns in Karbon, handling shapes and meta data in
-    Krita as well as frames and connection in KWord.
+    data losses while saving and loading documents. This includes improvements
+    of handling patterns in  SVG in Karbon, handling shapes and meta data in
+    Krita as well as frames and connections in KWord.
 </p>
 
 <p align="justify">
     While the testing period of the 2.0 release is reaching its end, there is
-    still plenty enough time to test this beta and 
+    still plenty of time to test this beta and 
     <a href="http://bugs.kde.org/">report issues</a>.
     Also, since some major issues and crashes are fixed with the use of
-    the final Qt&nbsp;4.5.0, we recommend the use of that specific version of Qt
-    when testing.
+    the newly released Qt&nbsp;4.5.0, we recommend the use of that specific
+    version of Qt when testing.
 </p>
 
 <h2>Highlights of KOffice 2.0</h2>
