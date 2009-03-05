@@ -5,7 +5,7 @@
   include("header.inc");
 ?>
 <p align="justify">
-  DATELINE MARCH 04, 2009<br />
+  DATELINE MARCH 05, 2009<br />
   FOR IMMEDIATE RELEASE
 </p>
 
@@ -13,7 +13,7 @@
 
   <h2>Announcement</h2>
   <ul>
-  <li><a href="/announcements/announce-2.0beta76.php">Announcement</a></li>
+  <li><a href="/announcements/announce-2.0beta7.php">Announcement</a></li>
   </ul>
     
   <h2>Changelog</h2>
