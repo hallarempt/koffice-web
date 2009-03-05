@@ -20,14 +20,14 @@
 </p>
 
 <p align="justify">
-    The K Office team releases a seventh beta version today, in line with the
+    The KOffice team releases a seventh beta version today, in line with the
     regular releases leading up to the 2.0 final release of the innovative
-    office suite K Office2.
+    office suite KOffice2.
 </p>
 <p align="justify">
-    Over the last few years, the K Office team has reworked the framework
+    Over the last few years, the KOffice team has reworked the framework
     into an agile and flexible codebase. Our intention was to increase
-    integration between the components of K Office, decreasing duplication
+    integration between the components of KOffice, decreasing duplication
     of functionality and easing maintenance and development of new
     features. Furthermore, new approaches to UI design and interacting
     with the user have been implemented to support the new capabilities.
@@ -38,7 +38,7 @@
 <p align="justify">
     The goal of this beta is to allow testers and users to stay up-to-date
     with the work of the developers and keep providing useful bug reports.
-    K Office is in beta because the development team wants to receive feedback
+    KOffice is in beta because the development team wants to receive feedback
     and bug reports from actual users.
 </p>
 <p align="justify">
@@ -55,7 +55,7 @@
 </p>
 <p align="justify">
     The chart application KChart is available as a shape plugin, which
-    means that charts are available in all the K Office applications in an
+    means that charts are available in all the KOffice applications in an
     integrated manner.
 </p>
 
@@ -64,7 +64,7 @@
 <p align="justify">
     This is one of the last beta, a decision has yet to be taken on whether
     the next release will be a beta or a release candidate. This means that
-    K Office 2.0 is getting closer to maturity at fast speed, the number
+    KOffice 2.0 is getting closer to maturity at fast speed, the number
     of fixes in the <a href="/announcements/changelog-2.0-beta7.php">changelog</a>
     can testify of the improvements.
 </p>
@@ -85,10 +85,10 @@
     when testing.
 </p>
 
-<h2>Highlights of K Office 2.0</h2>
+<h2>Highlights of KOffice 2.0</h2>
 
 <p align="justify">
-    K Office 2 will be a much more flexible application suite than K Office 1
+    KOffice 2 will be a much more flexible application suite than KOffice 1
     ever was. The integration between the components is much stronger,
     with the revolutionary Flake Shapes as the central concept.  A Flake
     Shape can be as simple as a square or a circle or as complex as a
@@ -96,9 +96,9 @@
 </p>
 
 <p align="justify">
-    With Flake, any K Office application can handle any shape. For instance,
+    With Flake, any KOffice application can handle any shape. For instance,
     KWord can embed bitmap graphics, Krita can embed vector graphics and
-    Karbon can embed charts.  This flexibility does not only give K Office
+    Karbon can embed charts.  This flexibility does not only give KOffice
     unprecedented integration, but also allows new applications to be 
     created very easily.  Such applications can e.g. target special
     user groups like kids or certain professions.
@@ -106,11 +106,11 @@
 
 <h3>Unified Look and Feel</h3>
 <p align="justify">
-    All the applications of K Office has a new GUI layout better suited to
+    All the applications of KOffice has a new GUI layout better suited to
     today's wider screens.  The GUI consists of a workspace and a sidebar
     where tools can dock.  Any tool can be ripped off to create its own 
     window and later be re-docked for full flexibility.  The users setup
-    preferences are of course saved and reused the next time that K Office
+    preferences are of course saved and reused the next time that KOffice
     is started.
 </p>
 <p>
