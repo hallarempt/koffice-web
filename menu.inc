@@ -13,7 +13,7 @@ $section->appendDir("FAQ", "faq");
 $section->appendDir("Add-ons for KOffice", "addons");
 $section->appendLink("People", "people.php");
 $section->appendDir("Mailing Lists", "contact");
-$section->appendLink("Forum","http://forum.kde.org/koffice-f-96.html");
+$section->appendLink("Forum","http://forum.kde.org/koffice-f-96.html", false);
 $section->appendDir("Support KOffice", "support");
 
 $section =& $this->appendSection("Latest Releases");
