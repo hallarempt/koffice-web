@@ -10,7 +10,7 @@
   release of KOffice 2.0 Beta 7.
 </p>
 <ul>
-<!-- <li><a href="#koffice_general">General</li> -->
+<li><a href="#koffice_general">General</li>
 <li><a href="#koffice_libs">KOffice Libraries</a></li>
 <li><a href="#kword">KWord</a></li>
 <li><a href="#kspread">KSpread</a></li>
@@ -21,12 +21,6 @@
 <li><a href="#karbon">Karbon</a></li>
 <li><a href="#plugins">Plugins</a></li>
 </ul>
-
-
-  <li> (<a href="http://bugs.kde.org/157383">157383</a>).</li>
-
-2009-03-22 r942947
-
 
 <h3 id="koffice_libs">General</h3>
 <ul>
