@@ -25,7 +25,7 @@
   open standards for its document formats, component communication and
   component embedding.
   This release is principally a public testing and developer solicitation
-  release, and is definitely not intented for anything but testing.
+  release, and is definitely not intended for anything but testing.
   Help is welcome!
 </p>
 <p align="justify">
