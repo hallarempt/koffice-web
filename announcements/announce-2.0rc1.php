@@ -21,7 +21,7 @@
 <p align="justify">
     This is the very last chance to make sure we know about release critical bugs that may have escaped our attention &mdash; which is possible, no matter how obvious they might seem to you &mdash; so it is very important that you
     give us your feedback and report remaining bugs!
-    The goal of this release is to determine whether the code we have released today measures up to the standards for a 2.0 release. 
+    The goal of this release is to determine whether the code we have released today measures up to the standards for a 2.0 release. Please note that this release is meant as a foundation for further releases and for experimental users, and that it is not intended to replace KOffice 1.6 or other office suites for daily, productive work. We are aware of missing features, inconsistencies and problematic areas in the user experience.
 </p>
 <p align="justify">
     The release team has decided that the following applications are mature
@@ -135,7 +135,7 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
   <li>Errors on non-Unix platforms since most developers run Linux and may overlook these.</li>
 </ul>
 
-Also, do not hesitate to contact us on irc (#koffice, irc.freenode.org) or on the <a href="https://mail.kde.org/mailman/listinfo/koffice-devel">development mailing list</a> and on our new <a href="http://forum.kde.org/koffice-f-96.html
+Also, do not hesitate to contact us on irc (#koffice, irc.freenode.org) or on the <a href="https://mail.kde.org/mailman/listinfo/koffice-devel">development mailing list</a> and on our new <a href="http://forum.kde.org/koffice-f-96.html">forum</a>
 
 </p>
 
@@ -160,7 +160,7 @@ Also, do not hesitate to contact us on irc (#koffice, irc.freenode.org) or on th
     (<a href="http://www.koffice.org/kpresenter/">KPresenter</a>);
   </li>
   <li>a new project management application
-    (<a href="http://www.koffice.org/kplato/">KPlato</a>).
+    (<a href="http://www.koffice.org/kplato/">KPlato</a>);
   </li>
   <li>a pixel based image editing and paint application
     (<a href="http://www.koffice.org/krita/">Krita</a>);
