@@ -21,7 +21,7 @@
 <p align="justify">
     This is the very last chance to make sure we know about release critical bugs that may have escaped our attention &mdash; which is possible, no matter how obvious they might seem to you &mdash; so it is very important that you
     give us your feedback and report remaining bugs!
-    The goal of this beta is to determine whether the code we have released today is Good Enough for a 2.0 release.
+    The goal of this release is to determine whether the code we have released today is Good Enough for a 2.0 release.
 </p>
 <p align="justify">
     The release team has decided that the following applications are mature
