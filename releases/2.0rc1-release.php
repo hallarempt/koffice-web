@@ -62,7 +62,9 @@
 <!--
 <li>Windows <a rel="nofollow" href="http://winkde.org/pub/kde/ports/win32/installer/">installer</a> </li>
 -->
+<!--
 <li>Mac OS X via <a href="http://trac.macports.org/changeset/47839">macports</a></li>
+-->
 <li>Debian packages are available in the <i>experimental</i> repository.</li>
 <!--<li>
  <a rel="nofollow" href="http://kubuntu.org/">Kubuntu</a>

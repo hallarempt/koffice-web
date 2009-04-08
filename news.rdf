@@ -8,6 +8,18 @@
     <language>en-us</language>
     <webMaster>webmaster@kde.org (kde-www mailing list)</webMaster>
     <copyright>Copyright (c) 2003, 2004, 2005, 2006, 2007, 2008, 2009 KOffice.org Web Team, see also http://www.kde.org/contact/impressum.php</copyright>
+
+<item>
+<title>KOffice 2.0 RC 1 released</title>
+<date>8 April, 2009</date>
+<fullstory>
+  The KOffice team presents the first Release Candidate for the upcoming 2.0 release,
+  and would like to encourage testers to upgrade to the new version,
+  and everybody to test this new release.
+  For more details see <a href="http://www.koffice.org/releases/2.0rc1-release.php"> the release notes</a>.
+</fullstory>
+</item>
+
 <item>
 <title>KOffice Forum</title>
 <date>3 April, 2009</date>
@@ -17,6 +29,7 @@
   to the forum, to follow it and ask any question they might have.
 </fullstory>
 </item>
+
 <item>
 <title>KOffice 2.0 beta 7 released</title>
 <date>5 March, 2009</date>
