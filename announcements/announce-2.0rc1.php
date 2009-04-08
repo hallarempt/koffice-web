@@ -48,12 +48,6 @@
     of fixes in the <a href="/announcements/changelog-2.0-rc1.php">changelog</a>.
 </p>
 
-<p align="justify">
-    Now the testing period of the 2.0 release has very nearly reached its end, there is
-    not much time to test this release candidate and 
-    <a href="http://bugs.kde.org/">report issues</a>. Please do not hesitate, however, to report any problems! With this release candidate, Qt 4.5 has become a hard dependency. Also, since lcms 1.17 with security patches <i>breaks</i> Krita completely, lcms 1.18 is a hard dependency.
-</p>
-
 <h2>Highlights of KOffice 2.0</h2>
 
 <p align="justify">
@@ -123,6 +117,13 @@
     <a href="changelog-2.0-rc1.php">changelog</a>
 and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0rc1-release.php">release notes</a>.
 </p>
+
+<p align="justify">
+    Now the testing period of the 2.0 release has very nearly reached its end, there is
+    not much time to test this release candidate and 
+    <a href="http://bugs.kde.org/">report issues</a>. Please do not hesitate, however, to report any problems! With this release candidate, Qt 4.5 has become a hard dependency. Also, since lcms 1.17 with security patches <i>breaks</i> Krita completely, lcms 1.18 is a hard dependency.
+</p>
+
 
 <h2>Bug Reports and User Feedback</h2>
 <p align="justify">
