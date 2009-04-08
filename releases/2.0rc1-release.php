@@ -66,15 +66,15 @@
 <li>Mac OS X via <a href="http://trac.macports.org/changeset/47839">macports</a></li>
 -->
 <li>Debian packages are available in the <i>experimental</i> repository.</li>
-<!--<li>
+<li>
  <a rel="nofollow" href="http://kubuntu.org/">Kubuntu</a>
     <ul type="disc">
       <li>
-      <a rel="nofollow" href="http://www.kubuntu.org/news/koffice-2-beta-6">Packages for Intrepid</a>
+      <a rel="nofollow" href="http://www.kubuntu.org/news/koffice-2-rc">Packages for Jaunty</a>
       </li>
     </ul>
   <p />
-</li>-->
+</li>
 <li>openSUSE packages are available for 10.3, 11.0, 11.1 and Factory from the openSUSE
     Build Service within <a href="http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Extra-Apps/">KDE:KDE4:Factory:Extra-Apps</a> repo.
 </li>
