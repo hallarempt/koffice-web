@@ -21,7 +21,7 @@
 <p align="justify">
     This is the very last chance to make sure we know about release critical bugs that may have escaped our attention &mdash; which is possible, no matter how obvious they might seem to you &mdash; so it is very important that you
     give us your feedback and report remaining bugs!
-    The goal of this release is to determine whether the code we have released today measures up to the standards for a 2.0 release. Please note that this release is meant as a foundation for further releases and for experimental users, and that it is not intended to replace KOffice 1.6 or other office suites for daily, productive work. We are aware of missing features, inconsistencies and problematic areas in the user experience.
+    The goal of this release is to determine whether the code we have released today measures up to the standards for a 2.0 release. Please note that this release is meant as a foundation for further releases and for experimental users, and that it is not intended to replace KOffice 1.6 or other office suites for daily, productive work. We are aware of many missing features, inconsistencies and problematic areas in the user experience.
 </p>
 <p align="justify">
     The release team has decided that the following applications are mature
