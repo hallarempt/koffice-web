@@ -85,9 +85,7 @@
 
 <h3>Platform Independence </h3>
 <p align="justify">
-    Almost all of KOffice is available on Linux with KDE or GNOME, Windows and
-    Macintosh. (There are still problems with Visual C++ 2005 (and to a larger degree 2008) and Krita.)  Solaris will follow shortly and we expect builds for
-    other Unix versions to become available soon after the final release.
+    KOffice is available on Linux with KDE or GNOME or any other window manager or desktop environment and OSX. On Windows a subset of applications is available since there are still problems with Visual C++ 2005 (and to a larger degree 2008) and Krita. Solaris will follow shortly and we expect builds for other Unix versions to become available soon after the final release.
 </p>
 <p align="justify">
     Since KOffice builds on Qt and the KDE libraries, all applications
