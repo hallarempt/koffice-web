@@ -172,7 +172,7 @@ Also, do not hesitate to contact us on irc (#koffice, irc.freenode.org) or on th
 <p align="justify">
   KOffice and all its components (including KDE) are available
   <em><strong>for free</strong></em> under Open Source licenses from the KDE
-  <a href="http://download.kde.org/unstable/koffice-1.9.98.6/src/">http and ftp</a> mirrors.
+  <a href="http://download.kde.org/download.php?url=unstable/koffice-1.9.99.0/src/">http and ftp</a> mirrors.
 </p>
 <hr />
 
