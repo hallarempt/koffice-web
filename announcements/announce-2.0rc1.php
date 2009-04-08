@@ -1,5 +1,5 @@
 <?php
-  $page_title ='KOffice 2.0 Release Candidate 1 Release Announcement';
+  $page_title ='KOffice 2.0 Release Candidate Release Announcement';
   $site_root = '../';
   include("koffice.inc");
   include("header.inc");
@@ -10,9 +10,9 @@
   FOR IMMEDIATE RELEASE
 </p>
 <h2>
-  KDE Releases First Release Candidate of KOffice 2.0
+  KDE Releases Release Candidate of KOffice 2.0
 </h2>
-<p align="justify">March, 2009 (The INTERNET).
+<p align="justify">April, 2009 (The INTERNET).
   The <a href="http://www.kde.org/">KDE Project</a> today announced the
   release of
   <a href="http://www.koffice.org/">KOffice</a> version 2.0 RC 1, the first release candidate of the upcoming version 2.0.
@@ -21,7 +21,7 @@
 <p align="justify">
     This is the very last chance to make sure we know about release critical bugs that may have escaped our attention &mdash; which is possible, no matter how obvious they might seem to you &mdash; so it is very important that you
     give us your feedback and report remaining bugs!
-    The goal of this release is to determine whether the code we have released today is Good Enough for a 2.0 release.
+    The goal of this release is to determine whether the code we have released today measures up to the standards for a 2.0 release. 
 </p>
 <p align="justify">
     The release team has decided that the following applications are mature
@@ -69,7 +69,7 @@
 
 <h3>Unified Look and Feel</h3>
 <p align="justify">
-    All the applications of KOffice has a new GUI layout better suited to
+    All the applications of KOffice have a new GUI layout better suited to
     today's wider screens.  The GUI consists of a workspace and a sidebar
     where tools can dock.  Any tool can be ripped off to create its own 
     window and later be re-docked for full flexibility.  The users setup
@@ -121,7 +121,7 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
 <p align="justify">
     Now the testing period of the 2.0 release has very nearly reached its end, there is
     not much time to test this release candidate and 
-    <a href="http://bugs.kde.org/">report issues</a>. Please do not hesitate, however, to report any problems! With this release candidate, Qt 4.5 has become a hard dependency. Also, since lcms 1.17 with security patches <i>breaks</i> Krita completely, lcms 1.18 is a hard dependency.
+<a href="http://bugs.kde.org/">report issues</a>. Please do not hesitate, however, to report any problems! With this release candidate, <b>Qt 4.5 has become a hard dependency</b>. Also, since lcms 1.17 with security patches <i>breaks</i> Krita completely, <b>lcms 1.18</b> is a hard dependency.
 </p>
 
 
@@ -136,6 +136,9 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
   <li>Crashes</li>
   <li>Errors on non-Unix platforms since most developers run Linux and may overlook these.</li>
 </ul>
+
+Also, do not hesitate to contact us on irc (#koffice, irc.freenode.org) or on the <a href="https://mail.kde.org/mailman/listinfo/koffice-devel">development mailing list</a> and on our new <a href="http://forum.kde.org/koffice-f-96.html
+
 </p>
 
 <h2>About KOffice</h2>
@@ -177,7 +180,7 @@ and earlier announcements or in the <a href="http://www.koffice.org/releases/2.0
 
 <p align="justify">
   <font size="2">
-  <em>Announcement</em>:  Written by Cyrille Berger &amp; Inge Wallin
+  <em>Announcement</em>:  Written by Boudewijn Rempt, Cyrille Berger &amp; Inge Wallin
 <!--  [Translated into _____________ by ______________ .] -->
   </font>
 </p>
