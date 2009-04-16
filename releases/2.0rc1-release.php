@@ -76,7 +76,7 @@
   <p />
 </li>
 <li>openSUSE packages are available for 10.3, 11.0, 11.1 and Factory from the openSUSE
-    Build Service within <a href="http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Extra-Apps/">KDE:KDE4:Factory:Extra-Apps</a> repo.
+    Build Service within <a href=http://download.opensuse.org/repositories/KDE:/KDE4:/UNSTABLE:/Extra-Apps/">KDE:KDE4:UNSTABLE:Extra-Apps</a> repo.
 </li>
 <li>PLD linux packages are available in the <i>test</i> repository (as well as in a <a href="http://livecd.pld-linux.pl">LiveCD</a>).</li>
 <!-- <li>Binaries for the Nokia n810 Internet Tablet has been provided by <a href="http://www.kdedevelopers.org/node/3879">Marijn Kruisselbrink</a>. -->
