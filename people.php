@@ -39,7 +39,7 @@
       <b>Krita: <a
 href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g">Boudewijn Rempt</a></b><br />
       <b>Kugar: <a href="m&#x61;i&#00108;&#00116;&#x6f;&#058;t&#0114;e&#97;&#116;&#064;&#107;&#100;&#x65;.&#x6f;&#x72;&#0103;">Adam Treat</a></b><br />
-      <b>Kexi: <a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b><br />
+      <b>Kexi: <a href="mailt&#x6f;&#x3a;&#115;&#116;&#97;&#110;&#105;&#101;&#107;&#64;&#107;&#100;&#101;&#46;&#111;&#114;&#103;">Jaros&#322;aw Staniek</a></b><br />
       <b>KPlato: <a href="mail&#116;o&#x3a;&#x64;&#x61;&#x6e;&#100;&#101;&#x72;&#x73;&#00064;&#x67;e&#00116;&#x32;&#00110;e&#116;&#x2e;&#100;k">Dag Andersen</a></b><br />
       <!-- <b>KChart: <a href="">Tobias Hintze</a></b><br /> -->
       <b>KChart: <a href="mailto: inge@lysator.liu.se">Inge Wallin</a></b><br />
@@ -180,7 +180,7 @@ href="m&#0097;il&#116;o:b&#111;&#x75;&#100;&#64;va&#108;dy&#x61;s&#x2e;o&#114;g"
       <b><a href="&#0109;ail&#x74;o&#058;l&#105;&#0118;&#x6e;&#101;&#x40;&#x6b;&#00100;&#101;&#46;o&#114;g">Meni Livne</a></b>
       (KSpread)<br />
       
-      <b><a href="mailt&#x6f;&#x3a;j&#115; &#x40;&#00032;i&#0105;dea &#x2e; p&#x6c;">Jaros&#322;aw Staniek</a></b>
+      <b><a href="mailt&#x6f;&#x3a;&#115;&#116;&#97;&#110;&#105;&#101;&#107;&#64;&#107;&#100;&#101;&#46;&#111;&#114;&#103;">Jaros&#322;aw Staniek</a></b>
       (Kexi)<br />
 
       <b><a href="&#109;&#x61;&#x69;&#x6c;&#116;&#00111;:&#102;&#x5f;&#101;demar&#x40;l&#x69;&#110;ux.&#115;e">Fredrik Edemar</a></b>
