@@ -1,0 +1,125 @@
+KOffice 2.0.0 Released
+
+DATELINE May xx, 2009
+
+The KOffice team is extremely pleased to finally announce version
+2.0.0 of KOffice.  This release marks the end of over 3 years of work
+to port KOffice to Qt 4 and the KDE 4 libraries and, in some cases,
+totally rewrite the engine of the KOffice applications.
+
+Over the last few years, the KOffice team has reworked the framework
+into an agile and flexible codebase.  Our intention was to increase
+integration between the components of KOffice, decrease duplication of
+functionality and ease maintenance and development of new
+features. Furthermore, new approaches to UI design and interacting
+with the user have been implemented to support the new capabilities.
+
+Target Audience
+
+The goal of this release is to release our first preview of what we
+have accomplished.  This released is mainly aimed at developers,
+testers and early adopters.  It is not aimed at end users, and we do
+not recommend Linux distributions to package it as the default office
+suite yet.
+
+KOffice 2.0 will be useful for some users, but since it is the first
+release in a long series it is likely to contain bugs and
+incompatibilities.  
+
+It is noteworthy that KOffice 2.0 does not have all the features that
+KOffice 1.6 had.  These features will return in the upcoming versions
+2.1 and 2.2, in most cases better implemented and more efficient.
+Also, not applications in KOffice 1.6 made it into 2.0.  The missing
+applications will return in 2.1 or possible 2.2.
+
+Components
+
+The release team has decided that the following applications are
+mature enough to be part of 2.0:
+
+KWord      - Word processor
+KSpread    - Spreadsheet calculator
+KPresenter - Presentation manager
+KPlato     - Project management software
+Karbon     - Vector graphics editor
+Krita      - Raster graphics editor
+
+The chart application KChart is available as a shape plugin, which
+means that charts are available in all the KOffice applications in an
+integrated manner.
+
+The desktop database creator Kexi and the formula shape will be
+available in version 2.1. Kivio, the flowchart editor, is currently
+without maintainer and it is not certain when or if it will be
+released.
+
+
+Highlights of KOffice 2
+-----------------------
+
+KOffice 2 is a much more flexible application suite than KOffice 1
+ever was.  The integration between the components is much stronger,
+with the revolutionary Flake Shapes as the central concept.  A Flake
+Shape can be as simple as a square or a circle or as complex as a
+chart or a music score.
+
+With Flake, any KOffice application can handle any shape. For
+instance, KWord can embed bitmap graphics, Krita can embed vector
+graphics and Karbon can embed charts.  This flexibility does not only
+give KOffice unprecedented integration, but also allows new
+applications to be created very easily.  Such applications can
+e.g. target special user groups like kids or certain professions.
+
+
+Unified Look and Feel
+
+All the applications of KOffice has a new GUI layout better suited to
+todays wider screens.  The GUI consists of a workspace and a sidebar
+where tools can dock.  Any tool can be ripped off to create its own
+window and later be redocked fo full flexibility.  The users setup
+preferences are of course saved and reused the next time that KOffice
+is started.
+
+<insert pics here!>
+
+Platform Independence
+
+All of KOffice is available on Linux with KDE or GNOME, Windows and
+Macintosh.  Solaris will follow shortly and we expect builds for other
+Unix versions to become available soon after the final release.  It is
+possible that the release of binaries for Windows and Macintosh will
+occur after some time if other packages that KOffice depend on need
+more time.
+
+Since KOffice builds on Qt and the KDE libraries, all applications
+integrate well with the respective platforms and will take on the
+native look and feel.
+
+<insert pic here of a koffice app on windows>
+
+
+Native Support for OpenDocument
+
+The OASIS OpenDocument Format (ODF) is the ISO standard for office
+document interchange.  ODF has been selected as the national standard
+for many countries around the world, and continues to grow stronger
+every month.
+
+KOffice uses the OpenDocument Format as its native format. This will
+guarantee interoperation with many other Office packages such as
+OpenOffice.org and MS Office.  The KOffice team has representatives on
+the OASIS technical committee for ODF and has been a strong
+participant in the process of shaping ODF since its inception.
+
+
+Bug Reports and User Feedback
+
+The developers are very interested in user feedback and bug reports.
+Please report bugs that you find on the KDE bugzilla <a
+href="http://bugs.kde.org">bugs.kde.org</a>.  In particular, the
+KOffice Team is interested in bugs in the following areas:
+
+ * OpenDocument support
+ * Crashes
+ * Errors on non-Unix platforms since most developers run Linux and
+   may overlook these.
